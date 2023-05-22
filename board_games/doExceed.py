@@ -2,13 +2,13 @@
 
 import random, math
 
-red_horizon = ['Eva', 'Kaden', 'Miska', 'Lily', 'Reese', 'Heidi', 'Vincent', 'Nehtali', ]
-seventh_cross = ['Geoffrey', ]
-promo = ['Juno', ]
-street_fighter = ['Sagat', ]
-shovel_knight = ['Shovel Knight & Shield Knight', ]
-blazblue = ['Ragna', ]
-under_night = ['Yuzuriha', ]
+red_horizon = ['Eva', 'Kaden', 'Miska', 'Lily', 'Reese', 'Heidi', 'Vincent', 'Nehtali', 'Satoshi', 'Mei-Lien', 'Baelkhor', 'Morathi', 'Gabrek', 'Ulrik', 'Alice', 'Zoey', ]#16
+seventh_cross = ['Geoffrey', 'Celinka', 'Taisei', "D'Janette", 'ZSolt', 'Renea', 'Minato', 'Tournelouse', 'Eugenia', 'Galdred', 'Umina', 'Remiliss', 'Luciya', 'Syrus', 'Seijun', 'Iaquis', 'Emogine', 'Sydney & Serena', ] #18
+promo = ['Juno', 'Devris', 'Super Skull Man 33', 'Carl Swangee', 'Pooky', 'Shovel Knight', 'Fight', 'The Beheaded'] #8
+street_fighter = ['Sagat', 'Ryu', 'Akuma', 'Zangief', 'Vega', 'C.Viper', 'Chun-Li', 'Dan', 'Cammy', 'M. Bison', 'Ken', 'Guile', ] #12
+shovel_knight = ['Shovel Knight & Shield Knight', 'Propeller Knight', 'Mole Knight', 'Tinker Knight', 'Plague Knight', 'Polar Knight', 'Treasure Knight', 'King Knight', 'The Enchantress', 'Specter Knight', ] #10
+blazblue = ['Ragna', 'Tager', 'Taokaka', 'Rachel', 'Jin', 'Hakumen', 'Carl', 'Bang', 'Noel', 'Nu-13', 'Arakune', 'Litchi', 'Hazama', 'Nine the Phantom', 'Platinum the Trinity', 'Kokonoe', ] #16
+under_night = ['Yuzuriha', 'Carmine', 'Byakuya', 'Mika', 'Gordeau', 'Chaos', 'Hilda', 'Phonon', 'Seth', 'Enkdu', 'Vatista', 'Nanase', 'Orie', 'Waldstein', 'Merkava', 'Wagner', 'Hyde', 'Linne', ] #18
 
 fighters = sorted(red_horizon + seventh_cross + promo + street_fighter + shovel_knight + blazblue + under_night)
 
@@ -30,3 +30,4 @@ if __name__ == "__main__":
     for group in genGroups(8):
         print(group)
     print("\nTotal: %d Fighters, and %d combinations" % (len(fighters), math.comb(len(fighters), 2)))
+    x = input('Hit enter to continue')
