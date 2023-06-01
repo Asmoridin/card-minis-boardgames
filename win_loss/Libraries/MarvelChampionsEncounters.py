@@ -48,3 +48,12 @@ class Encounter:
                 ret_list.append((self.name, tuple(sorted(modular_combo))))
         return(ret_list)
     
+encounters.extend([
+  Encounter('Rhino', 1),
+  Encounter('Klaw', 1),
+  Encounter('Ultron', 1),
+  Encounter('Risky Business', 1),
+  Encounter('Mutagen Formula', 1),
+  Encounter('The Wrecking Crew', 0),
+  Encounter('Crossbones', 3, ['Experimental Weapons'])
+])

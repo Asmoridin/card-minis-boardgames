@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+import importlib.resources as pkg_resources
+from . import DB
+
 valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', 'Dis', 'Saurian Republic', 'Unfathomable', ] # Ekwidon
 valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutations', 'Dark Tidings', ] # Winds of someting
 
