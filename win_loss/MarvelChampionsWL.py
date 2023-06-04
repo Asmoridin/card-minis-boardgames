@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import random, math, itertools
+import random, math, itertools, os
 
 from Libraries import MarvelChampionsEncounters as ChampEncounters
 from Libraries import MarvelChampionsHeroes as ChampHeroes
@@ -33,7 +33,7 @@ def determineCombinations():
         for combo_2 in h_2:
             if combo_1[0] != combo_2[0] and combo_1[1] != combo_2[1]:
                 this_combo = sorted([combo_1, combo_2])
-                combinations.add(this_combo)
+                combinations.add(tuple(this_combo))
     return(len(combinations))
 
 def getHeroStats(playMap):
@@ -66,4 +66,57 @@ def getLeastPlayedHero(playMap):
     least_played_hero = getHeroStats(playMap)[0]
     combinations = ChampHeroes.hero_map[least_played_hero].genCombos()
     print(combinations)
-    # TODO: Finish this.  Basically, find the least played 
+    # TODO: Finish this.  Basically, find the least played hero-aspect comination
+    return("Rogue", "Justice")
+
+def getLeastPlayedEncounter(enc_played_map):
+    # Return the encounter combination played the least
+    return(("Rhino", "Bomb Scare"))
+
+def getVillainStats(encounter_map):
+    # Returns (most played villain, most played villain amount, least played villain, least played villain amount)
+    sum_map = {}
+    for villain in ChampEncounters.encounters:
+        sum_map[villain.name] = 0
+    # TODO: Do the calculations, sort it, and figure it out
+    return("Klaw", 100, 'Rhino', 0)
+
+def getModularStats(encounter_map):
+    # Return most played encounter set, amount it was played, least played encounter set, amount played
+    modular_sets = ChampEncounters.modular_encounters
+    sum_map = {}
+    for modular in modular_sets:
+        sum_map[modular] = 0
+    #TODO: tuple it, sort it, return it
+    return("Ship Command", 100, "Inheritors", 0)
+
+# Read in and set up Hero data structures
+if os.getcwd().endswith('card-minis-boardgames'):
+    file_h = open('win_loss/DB/ChampionsPlayedHeroes.txt', 'r')
+else:
+    file_h = open('DB/ChampionsPlayedHeroes.txt', 'r')
+hero_lines = file_h.readlines()
+file_h.close()
+hero_lines = [line.strip() for line in hero_lines]
+hero_played_map = {}
+played_max = 0
+for line in hero_lines:
+    hero_line = line.split(';')
+    if int(hero_line[2]) > played_max:
+        played_max = int(hero_line[2])
+    aspects = ()
+    if hero_line[1] != '':
+        aspects = tuple(hero_line[1].split('/'))
+    hero_played_map[(hero_line[0], aspects)] = (int(hero_line[2]), int(hero_line[3]))
+
+if __name__ == "__main__":
+    print("Generating a game")
+    print("There are %d different Hero/Aspect combinations, and %d different game pairings" % (total_hero_choices, determineCombinations()))
+    
+    print("Currently have played %.1f percent of Hero/Aspects" % (len(hero_played_map) * 100 / total_hero_choices))
+    print("There are %d heroes, %d different encounters, and %d different modular encounter sets\n" % (len(ChampHeroes.heroes), len(ChampEncounters.encounters), len(ChampEncounters.modular_encounters)))
+
+    # Choose first hero - always choose least played hero
+    choice_1 = getLeastPlayedHero(hero_played_map)
+
+    # Choose second hero, with lowest hero/aspect combination remaining
