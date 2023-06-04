@@ -33,5 +33,9 @@ hero_combinations = []
 for hero in heroes:
     hero_combinations.extend(hero.genCombos())
 
+hero_map = {}
+for hero in heroes:
+    hero_map[hero.name] = hero
+
 if __name__=="__main__":
     print(hero_combinations)

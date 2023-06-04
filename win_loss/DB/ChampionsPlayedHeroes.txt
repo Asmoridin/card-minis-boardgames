@@ -73,3 +73,39 @@ Spectrum;Protection;1;0
 Spider-Ham;Justice;1;1
 Spider-Man (Miles Morales);Justice;1;1
 Spider-Man;Aggression;3;3
+Spider-Man;Justice;2;2
+Spider-Man;Protection;2;2
+Spider-Woman;Aggression/Justice;1;1
+Spider-Woman;Aggression/Leadership;1;0
+Spider-Woman;Aggression/Protection;1;1
+Spider-Woman;Justice/Leadership;3;2
+Spider-Woman;Justice/Protection;1;0
+Spider-Woman;Leadership/Protection;4;1
+Star-Lord;Leadership;1;1
+Star-Lord;Protection;2;0
+Storm;Aggression;1;1
+Storm;Justice;1;1
+Storm;Leadership;1;1
+Storm;Protection;1;1
+Thor;Aggression;1;1
+Thor;Leadership;1;0
+Thor;Protection;1;0
+Valkyrie;Aggression;1;1
+Valkyrie;Justice;1;1
+Valkyrie;Leadership;1;0
+Valkyrie;Protection;1;1
+Venom;Aggression;2;2
+Venom;Justice;1;0
+Venom;Leadership;2;0
+Venom;Protection;2;1
+Vision;Aggression;1;1
+Vision;Justice;1;1
+Vision;Protection;2;2
+War Machine;Aggression;2;2
+War Machine;Justice;2;1
+War Machine;Leadership;1;0
+War Machine;Protection;2;1
+Wasp;Aggression;1;0
+Wasp;Leadership;1;1
+Wolverine;Aggression;1;1
+Wolverine;Protection;1;1
