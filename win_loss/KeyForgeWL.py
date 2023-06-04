@@ -1,13 +1,16 @@
 #!/usr/bin/python3
 
-import importlib.resources as pkg_resources
-from . import DB
+import os
 
 valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', 'Dis', 'Saurian Republic', 'Unfathomable', ] # Ekwidon
-valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutations', 'Dark Tidings', ] # Winds of someting
+valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation', 'Dark Tidings', ] # Winds of someting
 
-deck_info = open('DB/KeyForgeDecks.txt', 'r')
-wl_info = open('DB/KeyForgeWLData.txt', 'r')
+if os.getcwd().endswith('card-minis-boardgames'):
+    deck_info = open('win_loss/DB/KeyForgeDecks.txt', 'r')
+    wl_info = open('win_loss/DB/KeyForgeWLData.txt', 'r')
+else:
+    deck_info = open('DB/KeyForgeDecks.txt', 'r')
+    wl_info = open('DB/KeyForgeWLData.txt', 'r')
 
 my_decks = []
 
@@ -34,17 +37,40 @@ class Deck:
     
 def getDeck(name):
     for deck in my_decks:
-        if deck.name == name:
+        if deck.name == name or deck.short_name == name:
             return deck
     return None
 
 deck_lines = deck_info.readlines()
 wl_lines = wl_info.readlines()
 
-# House frequency map, both owned and played
+for deck in deck_lines:
+    deck_short_name, deck_name, game_set, deck_houses, deck_note = deck.split(';')
+    my_decks.append(Deck(deck_short_name, deck_name, game_set, deck_houses, deck_note))
+for wl in wl_lines:
+    short_deck_name, games, wins = wl.split(';')
+    this_deck = getDeck(short_deck_name)
+    this_deck.games = int(games)
+    this_deck.wins = int(wins)
+    this_deck.losses = int(games) - int(wins)
+
+# Figure out house frequencies, both ownership and plays
+owned_houses = {}
+played_houses = {}
+for house in valid_houses:
+    owned_houses[house] = 0
+    played_houses[house] = 0
+for deck in my_decks:
+    for house in deck.houses:
+        owned_houses[house] += 1
+        played_houses[house] += deck.games
+
 # Figure out set I own the least from.
 # FIgure out least played deck.
 # Figure out deck I'm most successful with.
 # Output least owned house, and least owned set.
 # Output least played deck, with number of games.
 # OUput most successful deck, with win loss record.
+
+if not os.getcwd().endswith('card-minis-boardgames'):
+    input("Press enter to continue...")
