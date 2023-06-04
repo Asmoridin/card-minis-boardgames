@@ -70,7 +70,8 @@ for deck in my_decks:
 # Figure out deck I'm most successful with.
 # Output least owned house, and least owned set.
 # Output least played deck, with number of games.
-# OUput most successful deck, with win loss record.
+# OUput most successful deck, 
 
-if not os.getcwd().endswith('card-minis-boardgames'):
-    input("Press enter to continue...")
+if __name__ == "__main__":
+    if not os.getcwd().endswith('card-minis-boardgames'):
+        input("Press enter to continue...")

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import random, math
+import random, math, os
 
 red_horizon = ['Eva', 'Kaden', 'Miska', 'Lily', 'Reese', 'Heidi', 'Vincent', 'Nehtali', 'Satoshi', 'Mei-Lien', 'Baelkhor', 'Morathi', 'Gabrek', 'Ulrik', 'Alice', 'Zoey', ]#16
 seventh_cross = ['Geoffrey', 'Celinka', 'Taisei', "D'Janette", 'ZSolt', 'Renea', 'Minato', 'Tournelouse', 'Eugenia', 'Galdred', 'Umina', 'Remiliss', 'Luciya', 'Syrus', 'Seijun', 'Iaquis', 'Emogine', 'Sydney & Serena', ] #18
@@ -30,4 +30,5 @@ if __name__ == "__main__":
     for group in genGroups(8):
         print(group)
     print("\nTotal: %d Fighters, and %d combinations" % (len(fighters), math.comb(len(fighters), 2)))
-    x = input('Hit enter to continue')
+    if not os.getcwd().endswith('card-minis-boardgames'):
+        input("Press enter to continue...")
