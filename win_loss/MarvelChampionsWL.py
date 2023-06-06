@@ -120,3 +120,4 @@ if __name__ == "__main__":
     choice_1 = getLeastPlayedHero(hero_played_map)
 
     # Choose second hero, with lowest hero/aspect combination remaining
+    
