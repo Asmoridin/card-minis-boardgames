@@ -1,5 +1,5 @@
 Adam Warlock
-Angel
+Angel/Archangel
 Annihilus
 Anti-Venom
 Arnim Zola
@@ -29,7 +29,7 @@ Carnage
 Cloak and Dagger
 Colossus
 Cosmo
-Crimson Cowl
+Crimson Cowl/Ultron
 Crystal
 Cyclops (Resistance)
 Cyclops (X-Men; Legacy)
@@ -45,7 +45,7 @@ Devil Dinosaur and Moon Girl
 Doctor Doom
 Doctor Strange
 Dormammu
-Dr. Henry Pym
+Dr. Henry Pym/Giant-Man/Ant-Man
 Dr. Strange
 Drax
 Dutch
@@ -57,7 +57,7 @@ Evil Deadpool
 Ezekiel
 Falconer
 Fin Fang Foom
-Flash Thompson
+Flash Thompson/Agent Venom
 Galactus
 Gambit
 Gamora
@@ -74,7 +74,7 @@ Helmut Zero (Pro-Registration)
 Hulk
 *Hulk*
 Human Torch
-*Human Torch*
+*Human Torch*/*Nova*
 Iceman
 Invisible Woman
 Iron Fist
@@ -82,3 +82,48 @@ Iron Man (Avengers)
 Iron Man (Pro-Registration)
 Isabelle
 Jean Grey
+Jessica Jones
+Joseph
+Juggernaut (BOM Expansion)
+Juggernaut (Heroes of Krakoa)
+Jungle Hunter
+Kang
+Karnak
+Kate Pryde/Kitty Pryde
+Kid Kaiju
+Kingpin
+Leviathon Mother
+Loki
+Lt. Ripley
+Luke Cage (Defenders)
+Luke Cage (Anti-Registration)
+Madame Hydra
+Magneto (Brotherhood of Mutants)
+Magneto (Supervillains)
+Magneto (Heroes of Krakoa)
+Marvel Girl
+Master Mold
+Medusa
+Mesmero
+Mimic
+Mister Fantastic
+Mole Man
+Morbius
+Mr. Black
+Ms. Marvel
+*Ms. Marvel*
+Mystique (Femme Fatales)
+Mystique (FRE; Brotherhood of Mutants)
+Mystique (Heroes of Krakoa)
+Namor (Defenders)
+Namor (Anti-Registration)
+Nebula
+Nick Fury
+Nighthawk
+Nimrod
+Norman Osborn
+Norrin Rand/Silver Surfer
+Nova
+Phil Coulson
+Phoenix
+Pixie

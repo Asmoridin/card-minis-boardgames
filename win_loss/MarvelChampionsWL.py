@@ -43,10 +43,11 @@ def getHeroStats(playMap):
         sum_map[hero.name] = 0
     for (hero, aspect) in playMap:
         sum_map[hero] += playMap[(hero, aspect)][0]
-    #TODO: Tuple the sum map, sort it
-    print("Work to do here")
-    print(sum_map)
-    return('Rogue', 0, 'Rogue', 0)
+    hero_list = []
+    for hero in sum_map:
+        hero_list.append((hero, sum_map[hero]))
+    hero_list = sorted(hero_list, key=lambda x:(x[1], x[0]))
+    return(hero_list[-1][0], hero_list[-1][1], hero_list[0][0], hero_list[0][1])
 
 def getAspectStats(playMap):
     # Return most played aspect, amount of times played said aspect, least played aspect, amount of plays for that aspect
