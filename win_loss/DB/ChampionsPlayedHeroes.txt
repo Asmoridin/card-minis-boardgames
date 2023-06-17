@@ -29,7 +29,7 @@ Ghost-Spider;Protection;1;1
 Groot;Justice;1;0
 Groot;Protection;1;0
 Hawkeye;Aggression;1;0
-Hawkeye;Protection;6;5
+Hawkeye;Leadership;6;5
 Hulk;Aggression;1;0
 Hulk;Justice;1;1
 Hulk;Leadership;1;0
