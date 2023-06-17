@@ -247,3 +247,5 @@ if __name__ == "__main__":
     print(aspect_wl)
 
     print("\nWin Loss Records, Overall: %d - %d, %.3f" % (overall_wl[0], overall_wl[1], overall_wl[0]/(overall_wl[0] + overall_wl[1])))
+    if not os.getcwd().endswith('card-minis-boardgames'):
+        input("Press enter to continue...")

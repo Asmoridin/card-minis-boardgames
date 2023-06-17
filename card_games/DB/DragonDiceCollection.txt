@@ -8,16 +8,16 @@ Skirmisher;Dwarves;Rare;0
 Crack Shot;Dwarves;Rare;0
 Mammoth Rider;Dwarves;Rare;0
 Wizard;Dwarves;Rare;0
-Sergeant;Dwaves;Uncommon;0
-Patroller;Dwaves;Uncommon;0
-Marksman;Dwaves;Uncommon;0
-Lizard Rider;Dwaves;Uncommon;0
-Thaumaturgist;Dwaves;Uncommon;0
-Footman;Dwaves;Common;0
-Sentry;Dwaves;Common;0
-Crossbowman;Dwaves;Common;0
-Pony Rider;Dwaves;Common;0
-Theugist;Dwaves;Common;0
+Sergeant;Dwarves;Uncommon;0
+Patroller;Dwarves;Uncommon;0
+Marksman;Dwarves;Uncommon;0
+Lizard Rider;Dwarves;Uncommon;0
+Thaumaturgist;Dwarves;Uncommon;0
+Footman;Dwarves;Common;0
+Sentry;Dwarves;Common;0
+Crossbowman;Dwarves;Common;0
+Pony Rider;Dwarves;Common;0
+Theugist;Dwarves;Common;0
 Coral Giant;Coral Elves;Monster;0
 Gryphon;Coral Elves;Monster;0
 Leviathan;Coral Elves;Monster;0
