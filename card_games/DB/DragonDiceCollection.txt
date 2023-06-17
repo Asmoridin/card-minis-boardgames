@@ -1,0 +1,250 @@
+Androsphinx;Dwarves;Monster;0
+Behemoth;Dwarves;Monster;0
+Gargoyle;Dwarves;Monster;0
+Roc;Dwarves;Monster;0
+Umber Hulk;Dwarves;Monster;0
+Warlord;Dwarves;Rare;0
+Skirmisher;Dwarves;Rare;0
+Crack Shot;Dwarves;Rare;0
+Mammoth Rider;Dwarves;Rare;0
+Wizard;Dwarves;Rare;0
+Sergeant;Dwaves;Uncommon;0
+Patroller;Dwaves;Uncommon;0
+Marksman;Dwaves;Uncommon;0
+Lizard Rider;Dwaves;Uncommon;0
+Thaumaturgist;Dwaves;Uncommon;0
+Footman;Dwaves;Common;0
+Sentry;Dwaves;Common;0
+Crossbowman;Dwaves;Common;0
+Pony Rider;Dwaves;Common;0
+Theugist;Dwaves;Common;0
+Coral Giant;Coral Elves;Monster;0
+Gryphon;Coral Elves;Monster;0
+Leviathan;Coral Elves;Monster;0
+Sprite Swarm;Coral Elves;Monster;0
+Tako;Coral Elves;Monster;0
+Protector;Coral Elves;Rare;0
+Herald;Coral Elves;Rare;0
+Sharpshooter;Coral Elves;Rare;0
+Eagle Knight;Coral Elves;Rare;0
+Enchanter;Coral Elves;Rare;0
+Trooper;Coral Elves;Uncommon;0
+Courier;Coral Elves;Uncommon;0
+Archer;Coral Elves;Uncommon;0
+Knight;Coral Elves;Uncommon;0
+Conjurer;Coral Elves;Uncommon;0
+Fighter;Coral Elves;Common;0
+Guard;Coral Elves;Common;0
+Bowman;Coral Elves;Common;0
+Horseman;Coral Elves;Common;0
+Evoker;Coral Elves;Common;0
+Cannibal;Goblins;Monster;0
+Death Naga;Goblins;Monster;0
+Harpies;Goblins;Monster;0
+Shambler;Goblins;Monster;0
+Troll;Goblins;Monster;0
+Marauder;Goblins;Rare;0
+Filcher;Goblins;Rare;0
+Deadeye;Goblins;Rare;0
+Leopard Rider;Goblins;Rare;0
+Death Mage;Goblins;Rare;0
+Cutthroat;Goblins;Uncommon;0
+Ambusher;Goblins;Uncommon;0
+Slingman;Goblins;Uncommon;0
+Wolf Rider;Goblins;Uncommon;0
+Hedge Wizard;Goblins;Uncommon;0
+Thug;Goblins;Common;0
+Mugger;Goblins;Common;0
+Pelter;Goblins;Common;0
+Wardog Rider;Goblins;Common;0
+Trickster;Goblins;Common;0
+Beholder;Lava Elves;Monster;0
+Drider;Lava Elves;Monster;0
+Hell Hound;Lava Elves;Monster;0
+Lurker in the Deep;Lava Elves;Monster;0
+Rakshasa;Lava Elves;Monster;0
+Conqueror;Lava Elves;Rare;0
+Infiltrator;Lava Elves;Rare;0
+Assassin;Lava Elves;Rare;0
+Wyvern Rider;Lava Elves;Rare;0
+Necromancer;Lava Elves;Rare;0
+Duelist;Lava Elves;Uncommon;0
+Spy;Lava Elves;Uncommon;0
+Dead Shot;Lava Elves;Uncommon;0
+Scorpion Knight;Lava Elves;Uncommon;0
+Warlock;Lava Elves;Uncommon;0
+Bladesman;Lava Elves;Common;0
+Scout;Lava Elves;Common;0
+Fusilier;Lava Elves;Common;0
+Spider Rider;Lava Elves;Common;0
+Adept;Lava Elves;Common;0
+Centaur;Amazons;Monster;0
+Chimera;Amazons;Monster;0
+Hydra;Amazons;Monster;0
+Medusa;Amazons;Monster;0
+Nightmare;Amazons;Monster;0
+War Chief;Amazons;Rare;0
+Harbinger;Amazons;Rare;0
+Spearer;Amazons;Rare;0
+War Driver;Amazons;Rare;0
+Oracle;Amazons;Rare;0
+Warrior;Amazons;Uncommon;0
+Envoy;Amazons;Uncommon;0
+Javelineer;Amazons;Uncommon;0
+Battle Rider;Amazons;Uncommon;0
+Visionary;Amazons;Uncommon;0
+Soldier;Amazons;Common;0
+Runner;Amazons;Common;0
+Darter;Amazons;Common;0
+Charioteer;Amazons;Common;0
+Seer;Amazons;Common;0
+Fireshadow;Fire Walkers;Monster;0
+Genie;Fire Walkers;Monster;0
+Gorgon;Fire Walkers;Monster;0
+Phoenix;Fire Walkers;Monster;0
+Salamander;Fire Walkers;Monster;2
+Sentinel;Fire Walkers;Rare;2
+Expeditioner;Fire Walkers;Rare;0
+Firestormer;Fire Walkers;Rare;0
+Daybringer;Fire Walkers;Rare;0
+Ashbringer;Fire Walkers;Rare;0
+Watcher;Fire Walkers;Uncommon;1
+Adventurer;Fire Walkers;Uncommon;2
+Firemaster;Fire Walkers;Uncommon;1
+Nightsbane;Fire Walkers;Uncommon;0
+Sunflare;Fire Walkers;Uncommon;0
+Guardian;Fire Walkers;Common;0
+Explorer;Fire Walkers;Common;1
+Firestarter;Fire Walkers;Common;1
+Shadowchaser;Fire Walkers;Common;3
+Sunburst;Fire Walkers;Common;3
+Carrion Crawler;Undead;Monster;0
+Dracolich;Undead;Monster;0
+Fenhound;Undead;Monster;0
+Minor Death;Undead;Monster;0
+Skeletal Steed;Undead;Monster;0
+Mummy;Undead;Rare;0
+Death Knight;Undead;Rare;0
+Ghost;Undead;Rare;0
+Vampire;Undead;Rare;0
+Lich;Undead;Rare;0
+Wight;Undead;Uncommon;0
+Revenant;Undead;Uncommon;0
+Spectre;Undead;Uncommon;0
+Ghast;Undead;Uncommon;0
+Heucuva;Undead;Uncommon;0
+Zombie;Undead;Common;0
+Skeleton;Undead;Common;0
+Wraith;Undead;Common;0
+Ghoul;Undead;Common;0
+Apparition;Undead;Common;0
+
+Feral
+1 Bear-folk
+1 Elephant-folk
+1 Lion-folk
+1 Owl-folk
+1 Rhino-folk
+2 Tiger-folk
+2 Wolf-folk
+2 Vulture-folk
+2 Buffalo-folk
+2 Wolverine-folk
+3 Leopard-folk
+3 Fox-folk
+3 Hawk-folk
+3 Horse-folk
+3 Badger-folk
+4 Lynx-folk
+4 Hound-folk
+4 Falcon-folk
+4 Anelope-folk
+4 Weasel-folk
+
+Swamp Stalkers
+1 Crocosaur
+1 Mudmen
+1 Ormyrr
+1 Swamp Beast
+1 Swamp Giant
+2 Annihilator
+2 Invader
+2 Deluger
+2 Wave Rider
+2 Swamp Wizard
+3 Ravager
+3 Raider
+3 Stormer
+3 Marsh Swimmer
+3 Marsh Mage
+4 Warmonger
+4 Striker
+4 Sprayer
+4 Bog Runner
+4 Bog Adept
+
+Frostwings
+1 Cryohydra
+1 Frost Ogre
+1 Remorhaz
+1 Wolf Pack
+1 Yeti
+2 Vindicator
+2 Devastator
+2 Assailer
+2 Bear Master
+2 Magi
+3 Defender
+3 Dispatcher
+3 Assaulter
+3 Wolf Master
+3 Magus
+4 Advocate
+4 Destroyer
+4 Attacker
+4 Hound Master
+4 Apprentice
+
+Scalders
+1 Ettercap
+1 Quickling
+1 Uneelie Faerie
+1 Web Birds
+1 Will o’ Wisp
+2 Searer
+2 Charkin
+2 Blazer
+2 Dragonne Knight
+2 Inferno
+3 Scorcher
+3 Igniter
+3 Burner
+3 Dragonne Rider
+3 Smolderer
+4 Singeman
+4 Kindler
+4 Glower
+4 Dragonne Tender
+4 Sparker
+
+Treefolk
+1 Darktree
+1 Redwood
+1 Satyr
+1 Strangle Vine
+1 Unicorn
+2 Oak Lord
+2 Noble Willow
+2 Pine Prince
+2 Lady Nereid
+2 Eldar Dryad
+3 Oak
+3 Willow
+3 Pine
+3 Naiad
+3 Dryad
+4 Oakling
+4 Willowing
+4 Pineline
+4 Nymph
+4 Hamadryad

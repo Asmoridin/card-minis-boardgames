@@ -64,7 +64,7 @@ def getAspectStats(playMap):
 
 def getLeastPlayedHero(playMap):
     # Return the least played hero/aspect combination
-    least_played_hero = getHeroStats(playMap)[0]
+    least_played_hero = getHeroStats(playMap)[2]
     combinations = ChampHeroes.hero_map[least_played_hero].genCombos()
     print(combinations)
     # TODO: Finish this.  Basically, find the least played hero-aspect comination
