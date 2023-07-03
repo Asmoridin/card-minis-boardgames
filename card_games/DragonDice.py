@@ -131,3 +131,6 @@ picked_item = pick_list[0]
 if __name__=="__main__":
     print("Have %d out of %d - %.2f percent" % (total_own, total_max, 100* total_own/total_max))
     print("Buy a %s from %s - perhaps a %s (have %d out of %d %s)" % (picked_item[2], picked_item[1], picked_item[0], faction_map[picked_item[1]][0], faction_map[picked_item[1]][1], picked_item[1]))
+
+    if not os.getcwd().endswith('card-minis-boardgames'):
+        input("Press enter to continue...")
