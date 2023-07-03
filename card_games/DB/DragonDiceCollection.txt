@@ -336,6 +336,8 @@ Death Speed Slippers;Items;Common;0
 Death Flicker Foil;Items;Common;0
 Death Sight Stone;Items;Common;0
 Death Trueflyer;Items;Common;0
+Death Drake;Dragons;Dragon;1
+Death Wyrm;Dragons;Dragon;0
 Air Drake;Dragons;Dragon;2
 Air Wyrm;Dragons;Dragon;0
 Earth Drake;Dragons;Dragon;0
@@ -650,7 +652,7 @@ Death Vagha Spellbinder;Eldarim;Common;0
 Death Morehl Spellbinder;Eldarim;Common;0
 Death Selumari Spellbinder;Eldarim;Common;0
 Elemental;Relics;Artifact;0
-Earthfang;Relics;Artifact;0
+Earthfang;Relics;Artifact;1
 Coastland Tower;Major Terrain;Other;0
 Coastland City;Major Terrain;Other;0
 Coastland Standing Stone;Major Terrain;Other;2
