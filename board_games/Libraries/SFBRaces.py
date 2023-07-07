@@ -2,7 +2,7 @@
 
 alpha_races = ['Federation', 'Klingon', 'Kzinti', 'Hydran', 'WYN', 'Romulan', 'Andromedan', 'Orion', 'Gorn', 'Tholian', 'ISC', 'Lyran', 'LDR', 'Vudar',
     'Jindarian', 'Nicozian', 'Borak', 'Carnivon', 'Paravian', 'Peladine', 'Seltorian']
-simulator_races = ['Barbarian', 'Britanian', "Cana'dien", 'Deltan', 'Flivver', 'Frax', 'Hispanolian', 'Qari', 'Sharkhunter', 'Triaxian', '8th Air Force']
+simulator_races = ['Barbarian', 'Britanian', "Cana'dien", 'Deltan', 'Flivver', 'Frax', 'Hispaniolan', 'Qari', 'Sharkhunter', 'Triaxian', '8th Air Force']
 omega_races = ['Alunda', 'FRA', 'Bolosco', 'Branthodon', 'Chlorophon', 'Drex', 'Hiver', 'Iridani', 'Koligahr', 'Loriyill', 'Maesron', 'Probr',
     'Qixa', 'Ryn', 'Sigvirion', 'Singer', 'Souldra', 'Trobrin', 'Vari', 'Worb', 'Ymatrian', 'Zosman']
 lmc_races = ['Baduvai', 'Eneen', 'Jumokian', 'Maghadim', 'Uthiki']
