@@ -61,8 +61,17 @@ picked_item = pick_list[0]
 #print(picked_item)
 
 if __name__=="__main__":
-    print("Have %d out of %d - %.2f percent" % (total_own, total_max, 100*total_own/total_max))
-    print("Buy a %s (have %d out of %d)" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]))
+    if os.getcwd().endswith('card-minis-boardgames'):
+        out_file_h = open("card_games/output/DaemonDiceOut.txt", 'w')
+    else:
+        out_file_h = open("output/DaemonDiceOut.txt", 'w')
 
+    print("Have %d out of %d - %.2f percent" % (total_own, total_max, 100*total_own/total_max))
+    out_file_h.write("Have %d out of %d - %.2f percent\n" % (total_own, total_max, 100*total_own/total_max))
+
+    print("Buy a %s (have %d out of %d)" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]))
+    out_file_h.write("Buy a %s (have %d out of %d)\n" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]))
+
+    out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):
         input("Press enter to continue...")
