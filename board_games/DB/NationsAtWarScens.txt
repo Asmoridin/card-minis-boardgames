@@ -4,3 +4,7 @@ No Time to be Disorganized;Germany, Italy;UK;4/11/1941;Tobruk, Libya;African;12,
 Rats in the Dust;Italy;UK;4/18/1941;;African;11;9;Desert Heat
 General Gott Advance;Italy, Germany;UK;11/23/1941;Sidi Rezegh, Libya;African;11,14;10;Desert Heat
 The Trap Garrison of Mechili;Italy, Germany;UK;6/20/1942;Tobruk, Libyra;African;11;12;Desert Heat
+Aussie Hold the Line;Italy;UK;1/24/1941;Mechili, Libya;African;11,14;12;Desert Heat
+Outflank Trap;Italy;UK;2/7/1941;Beda Fomm, Libya;African;12,13;12;Desert Heat
+Nothing Left to Lose;Italy;UK;11/19/1941;Bir el Gubi, Libya;African;12,13;12;Desert Heat
+Free French at Bir Hacheim;Italy;France;5/27/1942;Bir Hacheim, Libya;African;12;9;Desert Heat
