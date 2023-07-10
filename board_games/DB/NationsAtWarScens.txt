@@ -1,0 +1,6 @@
+#Name;Side1 (Axis);Side2 (Allies);Date;Location;Theater;Maps;Turns;Product
+Not an Inch of Ground;Germany;UK;7/5/1942;Somewhere Inside Bilda;African;11;6;Desert Heat
+No Time to be Disorganized;Germany, Italy;UK;4/11/1941;Tobruk, Libya;African;12, 14;12;Desert Heat
+Rats in the Dust;Italy;UK;4/18/1941;;African;11;9;Desert Heat
+General Gott Advance;Italy, Germany;UK;11/23/1941;Sidi Rezegh, Libya;African;11,14;10;Desert Heat
+The Trap Garrison of Mechili;Italy, Germany;UK;6/20/1942;Tobruk, Libyra;African;11;12;Desert Heat
