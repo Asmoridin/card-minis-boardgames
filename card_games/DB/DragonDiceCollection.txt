@@ -100,24 +100,24 @@ Charioteer;Amazons;Common;0
 Seer;Amazons;Common;0
 Fireshadow;Fire Walkers;Monster;1
 Genie;Fire Walkers;Monster;0
-Gorgon;Fire Walkers;Monster;0
-Phoenix;Fire Walkers;Monster;0
+Gorgon;Fire Walkers;Monster;1
+Phoenix;Fire Walkers;Monster;1
 Salamander;Fire Walkers;Monster;2
 Sentinel;Fire Walkers;Rare;2
-Expeditioner;Fire Walkers;Rare;0
+Expeditioner;Fire Walkers;Rare;2
 Firestormer;Fire Walkers;Rare;0
 Daybringer;Fire Walkers;Rare;1
 Ashbringer;Fire Walkers;Rare;0
-Watcher;Fire Walkers;Uncommon;2
+Watcher;Fire Walkers;Uncommon;3
 Adventurer;Fire Walkers;Uncommon;3
-Firemaster;Fire Walkers;Uncommon;1
-Nightsbane;Fire Walkers;Uncommon;0
-Sunflare;Fire Walkers;Uncommon;0
+Firemaster;Fire Walkers;Uncommon;2
+Nightsbane;Fire Walkers;Uncommon;1
+Sunflare;Fire Walkers;Uncommon;1
 Guardian;Fire Walkers;Common;2
 Explorer;Fire Walkers;Common;1
-Firestarter;Fire Walkers;Common;2
-Shadowchaser;Fire Walkers;Common;4
-Sunburst;Fire Walkers;Common;3
+Firestarter;Fire Walkers;Common;3
+Shadowchaser;Fire Walkers;Common;9
+Sunburst;Fire Walkers;Common;5
 Carrion Crawler;Undead;Monster;0
 Dracolich;Undead;Monster;0
 Fenhound;Undead;Monster;0
@@ -218,26 +218,26 @@ Kindler;Scalders;Common;0
 Glower;Scalders;Common;0
 Dragonne Tender;Scalders;Common;0
 Sparker;Scalders;Common;0
-Darktree;Treefolk;Monster;0
+Darktree;Treefolk;Monster;1
 Redwood;Treefolk;Monster;1
-Satyr;Treefolk;Monster;0
+Satyr;Treefolk;Monster;1
 Strangle Vine;Treefolk;Monster;1
 Unicorn;Treefolk;Monster;1
-Oak Lord;Treefolk;Rare;0
+Oak Lord;Treefolk;Rare;1
 Noble Willow;Treefolk;Rare;1
 Pine Prince;Treefolk;Rare;0
-Lady Nereid;Treefolk;Rare;0
+Lady Nereid;Treefolk;Rare;1
 Eldar Dryad;Treefolk;Rare;1
 Oak;Treefolk;Uncommon;1
 Willow;Treefolk;Uncommon;3
-Pine;Treefolk;Uncommon;1
-Naiad;Treefolk;Uncommon;1
+Pine;Treefolk;Uncommon;4
+Naiad;Treefolk;Uncommon;2
 Dryad;Treefolk;Uncommon;0
-Oakling;Treefolk;Common;2
-Willowing;Treefolk;Common;2
-Pineline;Treefolk;Common;3
-Nymph;Treefolk;Common;2
-Hamadryad;Treefolk;Common;3
+Oakling;Treefolk;Common;3
+Willowing;Treefolk;Common;3
+Pineline;Treefolk;Common;5
+Nymph;Treefolk;Common;5
+Hamadryad;Treefolk;Common;4
 Bronze Medallion;Medallion;Champion;1
 Silver Medallion;Medallion;Champion;1
 Gold Medallion;Medallion;Champion;1
@@ -342,14 +342,14 @@ Death Flicker Foil;Items;Common;0
 Death Sight Stone;Items;Common;0
 Death Trueflyer;Items;Common;1
 Death Drake;Dragons;Dragon;1
-Death Wyrm;Dragons;Dragon;0
+Death Wyrm;Dragons;Dragon;1
 Air Drake;Dragons;Dragon;2
 Air Wyrm;Dragons;Dragon;0
 Earth Drake;Dragons;Dragon;0
 Earth Wyrm;Dragons;Dragon;1
-Water Drake;Dragons;Dragon;0
+Water Drake;Dragons;Dragon;1
 Water Wyrm;Dragons;Dragon;0
-Fire Drake;Dragons;Dragon;0
+Fire Drake;Dragons;Dragon;1
 Fire Wyrm;Dragons;Dragon;1
 Ivory Drake;Dragons;Dragon;0
 Ivory Wyrm;Dragons;Dragon;0
@@ -662,17 +662,17 @@ Coastland Tower;Major Terrain;Other;0
 Coastland City;Major Terrain;Other;0
 Coastland Standing Stone;Major Terrain;Other;2
 Coastland Temple;Major Terrain;Other;0
-Highland Tower;Major Terrain;Other;0
+Highland Tower;Major Terrain;Other;1
 Highland City;Major Terrain;Other;2
 Highland Standing Stone;Major Terrain;Other;1
 Highland Temple;Major Terrain;Other;1
 Swampland Tower;Major Terrain;Other;0
 Swampland City;Major Terrain;Other;0
-Swampland Standing Stone;Major Terrain;Other;0
+Swampland Standing Stone;Major Terrain;Other;1
 Swampland Temple;Major Terrain;Other;2
 Flatland Tower;Major Terrain;Other;0
 Flatland City;Major Terrain;Other;1
-Flatland Standing Stone;Major Terrain;Other;0
+Flatland Standing Stone;Major Terrain;Other;1
 Flatland Temple;Major Terrain;Other;1
 Wasteland Tower;Major Terrain;Other;0
 Wasteland City;Major Terrain;Other;1
