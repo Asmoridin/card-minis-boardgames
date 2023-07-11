@@ -98,7 +98,7 @@ Runner;Amazons;Common;0
 Darter;Amazons;Common;0
 Charioteer;Amazons;Common;0
 Seer;Amazons;Common;0
-Fireshadow;Fire Walkers;Monster;0
+Fireshadow;Fire Walkers;Monster;1
 Genie;Fire Walkers;Monster;0
 Gorgon;Fire Walkers;Monster;0
 Phoenix;Fire Walkers;Monster;0
@@ -106,17 +106,17 @@ Salamander;Fire Walkers;Monster;2
 Sentinel;Fire Walkers;Rare;2
 Expeditioner;Fire Walkers;Rare;0
 Firestormer;Fire Walkers;Rare;0
-Daybringer;Fire Walkers;Rare;0
+Daybringer;Fire Walkers;Rare;1
 Ashbringer;Fire Walkers;Rare;0
-Watcher;Fire Walkers;Uncommon;1
-Adventurer;Fire Walkers;Uncommon;2
+Watcher;Fire Walkers;Uncommon;2
+Adventurer;Fire Walkers;Uncommon;3
 Firemaster;Fire Walkers;Uncommon;1
 Nightsbane;Fire Walkers;Uncommon;0
 Sunflare;Fire Walkers;Uncommon;0
-Guardian;Fire Walkers;Common;0
+Guardian;Fire Walkers;Common;2
 Explorer;Fire Walkers;Common;1
-Firestarter;Fire Walkers;Common;1
-Shadowchaser;Fire Walkers;Common;3
+Firestarter;Fire Walkers;Common;2
+Shadowchaser;Fire Walkers;Common;4
 Sunburst;Fire Walkers;Common;3
 Carrion Crawler;Undead;Monster;0
 Dracolich;Undead;Monster;0
@@ -162,7 +162,7 @@ Crocosaur;Swamp Stalkers;Monster;0
 Mudmen;Swamp Stalkers;Monster;0
 Ormyrr;Swamp Stalkers;Monster;0
 Swamp Beast;Swamp Stalkers;Monster;0
-Swamp Giant;Swamp Stalkers;Monster;0
+Swamp Giant;Swamp Stalkers;Monster;1
 Annihilator;Swamp Stalkers;Rare;0
 Invader;Swamp Stalkers;Rare;0
 Deluger;Swamp Stalkers;Rare;0
@@ -221,32 +221,33 @@ Sparker;Scalders;Common;0
 Darktree;Treefolk;Monster;0
 Redwood;Treefolk;Monster;1
 Satyr;Treefolk;Monster;0
-Strangle Vine;Treefolk;Monster;0
+Strangle Vine;Treefolk;Monster;1
 Unicorn;Treefolk;Monster;1
 Oak Lord;Treefolk;Rare;0
 Noble Willow;Treefolk;Rare;1
 Pine Prince;Treefolk;Rare;0
 Lady Nereid;Treefolk;Rare;0
-Eldar Dryad;Treefolk;Rare;0
+Eldar Dryad;Treefolk;Rare;1
 Oak;Treefolk;Uncommon;1
-Willow;Treefolk;Uncommon;2
+Willow;Treefolk;Uncommon;3
 Pine;Treefolk;Uncommon;1
-Naiad;Treefolk;Uncommon;0
+Naiad;Treefolk;Uncommon;1
 Dryad;Treefolk;Uncommon;0
-Oakling;Treefolk;Common;1
-Willowing;Treefolk;Common;1
-Pineline;Treefolk;Common;2
-Nymph;Treefolk;Common;1
+Oakling;Treefolk;Common;2
+Willowing;Treefolk;Common;2
+Pineline;Treefolk;Common;3
+Nymph;Treefolk;Common;2
 Hamadryad;Treefolk;Common;3
 Bronze Medallion;Medallion;Champion;1
 Silver Medallion;Medallion;Champion;1
 Gold Medallion;Medallion;Champion;1
-Water Flying Carpet;Items;Artifact;0
+Water Flying Carpet;Items;Artifact;2
 Water Dragonstaff;Items;Artifact;0
 Water Mantlet;Items;Artifact;0
 Water Blade Golem;Items;Artifact;0
+Water Trebuchet;Items;Artifact;0
 Water Mithril Shield;Items;Rare;0
-Water Seven League Boots;Items;Rare;0
+Water Seven League Boots;Items;Rare;1
 Water Vorpal Sword;Items;Rare;0
 Water Magi Crown;Items;Rare;0
 Water Heartseeker;Items;Rare;0
@@ -256,23 +257,24 @@ Water Dawn Blade;Items;Uncommon;0
 Water Ring of Stars;Items;Uncommon;0
 Water Eyebiter;Items;Uncommon;0
 Water Wooden Targe;Items;Common;0
-Water Speed Slippers;Items;Common;0
+Water Speed Slippers;Items;Common;1
 Water Flicker Foil;Items;Common;0
-Water Sight Stone;Items;Common;0
+Water Sight Stone;Items;Common;1
 Water Trueflyer;Items;Common;0
 Air Flying Carpet;Items;Artifact;0
 Air Dragonstaff;Items;Artifact;0
 Air Mantlet;Items;Artifact;0
 Air Blade Golem;Items;Artifact;0
+Air Trebuchet;Items;Artifact;1
 Air Mithril Shield;Items;Rare;0
 Air Seven League Boots;Items;Rare;0
 Air Vorpal Sword;Items;Rare;0
 Air Magi Crown;Items;Rare;0
-Air Heartseeker;Items;Rare;0
-Air Steel Buckler;Items;Uncommon;0
+Air Heartseeker;Items;Rare;1
+Air Steel Buckler;Items;Uncommon;1
 Air Winged Sandals;Items;Uncommon;0
 Air Dawn Blade;Items;Uncommon;0
-Air Ring of Stars;Items;Uncommon;0
+Air Ring of Stars;Items;Uncommon;1
 Air Eyebiter;Items;Uncommon;0
 Air Wooden Targe;Items;Common;0
 Air Speed Slippers;Items;Common;0
@@ -283,27 +285,29 @@ Fire Flying Carpet;Items;Artifact;0
 Fire Dragonstaff;Items;Artifact;0
 Fire Mantlet;Items;Artifact;0
 Fire Blade Golem;Items;Artifact;0
+Fire Trebuchet;Items;Artifact;0
 Fire Mithril Shield;Items;Rare;0
 Fire Seven League Boots;Items;Rare;0
 Fire Vorpal Sword;Items;Rare;0
-Fire Magi Crown;Items;Rare;0
-Fire Heartseeker;Items;Rare;0
+Fire Magi Crown;Items;Rare;1
+Fire Heartseeker;Items;Rare;1
 Fire Steel Buckler;Items;Uncommon;0
 Fire Winged Sandals;Items;Uncommon;0
 Fire Dawn Blade;Items;Uncommon;0
 Fire Ring of Stars;Items;Uncommon;0
-Fire Eyebiter;Items;Uncommon;0
+Fire Eyebiter;Items;Uncommon;1
 Fire Wooden Targe;Items;Common;0
 Fire Speed Slippers;Items;Common;0
 Fire Flicker Foil;Items;Common;0
 Fire Sight Stone;Items;Common;0
-Fire Trueflyer;Items;Common;0
+Fire Trueflyer;Items;Common;1
 Earth Flying Carpet;Items;Artifact;0
-Earth Dragonstaff;Items;Artifact;0
+Earth Dragonstaff;Items;Artifact;1
 Earth Mantlet;Items;Artifact;0
 Earth Blade Golem;Items;Artifact;0
+Earth Trebuchet;Items;Artifact;0
 Earth Mithril Shield;Items;Rare;0
-Earth Seven League Boots;Items;Rare;0
+Earth Seven League Boots;Items;Rare;2
 Earth Vorpal Sword;Items;Rare;0
 Earth Magi Crown;Items;Rare;0
 Earth Heartseeker;Items;Rare;0
@@ -311,31 +315,32 @@ Earth Steel Buckler;Items;Uncommon;0
 Earth Winged Sandals;Items;Uncommon;0
 Earth Dawn Blade;Items;Uncommon;0
 Earth Ring of Stars;Items;Uncommon;0
-Earth Eyebiter;Items;Uncommon;0
+Earth Eyebiter;Items;Uncommon;1
 Earth Wooden Targe;Items;Common;0
 Earth Speed Slippers;Items;Common;0
 Earth Flicker Foil;Items;Common;0
 Earth Sight Stone;Items;Common;0
-Earth Trueflyer;Items;Common;0
+Earth Trueflyer;Items;Common;1
 Death Flying Carpet;Items;Artifact;0
 Death Dragonstaff;Items;Artifact;0
 Death Mantlet;Items;Artifact;0
-Death Blade Golem;Items;Artifact;0
+Death Blade Golem;Items;Artifact;1
+Death Trebuchet;Items;Artifact;1
 Death Mithril Shield;Items;Rare;0
 Death Seven League Boots;Items;Rare;0
 Death Vorpal Sword;Items;Rare;0
 Death Magi Crown;Items;Rare;0
 Death Heartseeker;Items;Rare;0
 Death Steel Buckler;Items;Uncommon;0
-Death Winged Sandals;Items;Uncommon;0
+Death Winged Sandals;Items;Uncommon;1
 Death Dawn Blade;Items;Uncommon;0
 Death Ring of Stars;Items;Uncommon;0
 Death Eyebiter;Items;Uncommon;0
-Death Wooden Targe;Items;Common;0
+Death Wooden Targe;Items;Common;1
 Death Speed Slippers;Items;Common;0
 Death Flicker Foil;Items;Common;0
 Death Sight Stone;Items;Common;0
-Death Trueflyer;Items;Common;0
+Death Trueflyer;Items;Common;1
 Death Drake;Dragons;Dragon;1
 Death Wyrm;Dragons;Dragon;0
 Air Drake;Dragons;Dragon;2
@@ -385,61 +390,61 @@ Death Dragonvedette;Dragonkin;Champion;0
 Death Dragonstallion;Dragonkin;Champion;0
 Death Dragonchamp;Dragonkin;Rare;0
 Death Dragonspy;Dragonkin;Rare;0
-Death Dragonsteed;Dragonkin;Rare;0
-Death Dragonhero;Dragonkin;Uncommon;0
-Death Dragonsentry;Dragonkin;Uncommon;0
+Death Dragonsteed;Dragonkin;Rare;1
+Death Dragonhero;Dragonkin;Uncommon;1
+Death Dragonsentry;Dragonkin;Uncommon;1
 Death Dragonmount;Dragonkin;Uncommon;0
-Death Dragontroop;Dragonkin;Common;0
-Death Dragonscout;Dragonkin;Common;0
-Death Dragonhoal;Dragonkin;Common;0
+Death Dragontroop;Dragonkin;Common;1
+Death Dragonscout;Dragonkin;Common;2
+Death Dragonfoal;Dragonkin;Common;0
 Air Dragonvictor;Dragonkin;Champion;0
 Air Dragonvedette;Dragonkin;Champion;0
 Air Dragonstallion;Dragonkin;Champion;0
 Air Dragonchamp;Dragonkin;Rare;0
 Air Dragonspy;Dragonkin;Rare;0
 Air Dragonsteed;Dragonkin;Rare;0
-Air Dragonhero;Dragonkin;Uncommon;0
+Air Dragonhero;Dragonkin;Uncommon;1
 Air Dragonsentry;Dragonkin;Uncommon;0
 Air Dragonmount;Dragonkin;Uncommon;0
 Air Dragontroop;Dragonkin;Common;0
-Air Dragonscout;Dragonkin;Common;0
-Air Dragonhoal;Dragonkin;Common;0
+Air Dragonscout;Dragonkin;Common;2
+Air Dragonfoal;Dragonkin;Common;2
 Earth Dragonvictor;Dragonkin;Champion;0
 Earth Dragonvedette;Dragonkin;Champion;0
 Earth Dragonstallion;Dragonkin;Champion;0
 Earth Dragonchamp;Dragonkin;Rare;0
 Earth Dragonspy;Dragonkin;Rare;0
 Earth Dragonsteed;Dragonkin;Rare;0
-Earth Dragonhero;Dragonkin;Uncommon;0
+Earth Dragonhero;Dragonkin;Uncommon;2
 Earth Dragonsentry;Dragonkin;Uncommon;0
 Earth Dragonmount;Dragonkin;Uncommon;0
-Earth Dragontroop;Dragonkin;Common;0
+Earth Dragontroop;Dragonkin;Common;1
 Earth Dragonscout;Dragonkin;Common;0
-Earth Dragonhoal;Dragonkin;Common;0
+Earth Dragonfoal;Dragonkin;Common;0
 Water Dragonvictor;Dragonkin;Champion;0
 Water Dragonvedette;Dragonkin;Champion;0
-Water Dragonstallion;Dragonkin;Champion;0
+Water Dragonstallion;Dragonkin;Champion;1
 Water Dragonchamp;Dragonkin;Rare;0
-Water Dragonspy;Dragonkin;Rare;0
-Water Dragonsteed;Dragonkin;Rare;0
+Water Dragonspy;Dragonkin;Rare;1
+Water Dragonsteed;Dragonkin;Rare;1
 Water Dragonhero;Dragonkin;Uncommon;0
 Water Dragonsentry;Dragonkin;Uncommon;0
 Water Dragonmount;Dragonkin;Uncommon;0
-Water Dragontroop;Dragonkin;Common;0
+Water Dragontroop;Dragonkin;Common;1
 Water Dragonscout;Dragonkin;Common;0
-Water Dragonhoal;Dragonkin;Common;0
-Fire Dragonvictor;Dragonkin;Champion;0
+Water Dragonfoal;Dragonkin;Common;1
+Fire Dragonvictor;Dragonkin;Champion;1
 Fire Dragonvedette;Dragonkin;Champion;0
 Fire Dragonstallion;Dragonkin;Champion;0
-Fire Dragonchamp;Dragonkin;Rare;0
+Fire Dragonchamp;Dragonkin;Rare;1
 Fire Dragonspy;Dragonkin;Rare;0
 Fire Dragonsteed;Dragonkin;Rare;0
-Fire Dragonhero;Dragonkin;Uncommon;0
+Fire Dragonhero;Dragonkin;Uncommon;1
 Fire Dragonsentry;Dragonkin;Uncommon;0
 Fire Dragonmount;Dragonkin;Uncommon;0
 Fire Dragontroop;Dragonkin;Common;0
-Fire Dragonscout;Dragonkin;Common;0
-Fire Dragonhoal;Dragonkin;Common;0
+Fire Dragonscout;Dragonkin;Common;1
+Fire Dragonfoal;Dragonkin;Common;1
 Bronze Dracolem Champion;Dracolem;Champion;0
 Silver Dracolem Champion;Dracolem;Champion;0
 Gold Dracolem Champion;Dracolem;Champion;0
@@ -701,10 +706,10 @@ Feyland Bridge;Minor Terrain;Other;0
 Feyland Knoll;Minor Terrain;Other;0
 Feyland Woods;Minor Terrain;Other;0
 Feyland Village;Minor Terrain;Other;0
-Deadland Bridge;Minor Terrain;Other;0
-Deadland Knoll;Minor Terrain;Other;0
-Deadland Woods;Minor Terrain;Other;0
-Deadland Village;Minor Terrain;Other;0
+Deadland Bridge;Minor Terrain;Other;1
+Deadland Knoll;Minor Terrain;Other;1
+Deadland Woods;Minor Terrain;Other;1
+Deadland Village;Minor Terrain;Other;1
 Coastland Castle;Special Terrain;Other;0
 Coastland Dragon's Lair;Special Terrain;Other;0
 Coastland Grove;Special Terrain;Other;0
