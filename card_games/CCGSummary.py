@@ -39,7 +39,7 @@ if __name__ == "__main__":
     total_string = "Totaling %d games, owning %d out of %d (%.2f percent)" % (len(game_data) - 1, total_have, total_max, total_have * 100 /total_max)
     print(total_string)
     out_file_h.write(total_string + "\n")
-    lowest_game_string = "Lowest game is %s and %.2f percent (%d / %d)" % (game_data[0][0], (game_data[0][1]*100/game_data[0][2]), game_data[0][1], game_data[0][2])
+    lowest_game_string = "Lowest game is %s at %.2f percent (%d / %d)" % (game_data[0][0], (game_data[0][1]*100/game_data[0][2]), game_data[0][1], game_data[0][2])
     print(lowest_game_string)
     out_file_h.write(lowest_game_string + "\n")
     next_lowest_string = "- (Next lowest game is %.2f percent)" % (game_data[1][1] * 100 / game_data[1][2])
