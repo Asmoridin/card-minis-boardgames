@@ -1,7 +1,6 @@
 1962 Roger Maris;V;Event;;Unity;Virtual;3;0
 A Bad End;C;Dilemma;;Call to Arms;Print;3;0
-A Chance for Glory;R;Event;;Second Edition;Print;3;0
-A Chance for Glory;VP;Event;;Virtual Promo;Virtual;3;0
+A Chance for Glory;R/VP;Event;;Second Edition/Virtual Promo;Both;3;0
 A Devil Scorned;C;Dilemma;;Necessary Evil;Print;3;0
 A Few Minor Difficulties;C;Event;;What You Leave Behind;Print;3;0
 A Klingon Matter;U;Dilemma;;Energize;Print;3;0
@@ -13,17 +12,14 @@ A Q Scorned;V;Interrupt;;This Side of Paradise;Virtual;3;0
 A Royal Hunt;C;Dilemma;;Necessary Evil;Print;3;0
 A Royal Welcome;V;Interrupt;;This Side of Paradise;Virtual;3;0
 A Second Chance at Life;C;Event;;Call to Arms;Print;3;0
-A Sight for Sore Eyes;R;Event;;Captain's Log;Print;3;0
-A Sight for Sore Eyes;VP;Event;;Virtual Promo;Virtual;3;0
-A Sight for Sore Eyes;VP;Event;;Virtual Promo;Virtual;3;0
+A Sight for Sore Eyes;R/VP;Event;;Captain's Log/Virtual Promo;Both;3;0
 A Treasure Beyond Comparison;R;Event;;Second Edition;Print;3;0
 A. G. Robinson, Prototype Captain;V;Personnel;Starfleet;Raise the Stakes;Virtual;3;0
 Aamin Marritza, Honorable Patriot;U;Personnel;Cardassian;Necessary Evil;Print;3;0
 Aaron Conor, Born Leader;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Abduction Plot;S;Mission;;Second Edition;Print;2;0
 Abduction;R;Event;;Call to Arms;Print;3;0
-Accelerated Aging;P;Dilemma;;Genesis;Print;3;0
-Accelerated Aging;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Accelerated Aging;P/VP;Dilemma;;Genesis/Virtual Promo;Both;3;0
 Accepting the Past;R;Event;;Necessary Evil;Print;3;0
 Access Relay Station;U;Mission;;Second Edition;Print;2;0
 Acclimation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
