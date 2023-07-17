@@ -3,14 +3,18 @@ A Chance for Glory;R;Event;;Second Edition;Print;3;0
 A Devil Scorned;C;Dilemma;;Necessary Evil;Print;3;0
 A Klingon Matter;U;Dilemma;;Energize;Print;3;0
 A Living Death;U;Dilemma;;Second Edition;Print;3;0
+A Long Road;C;Interrupt;;Captain's Log;Print;3;0
+A Pattern of Lies;C;Dilemma;;Captain's Log;Print;3;0
 A Pleasant Surprise;C;Dilemma;;Necessary Evil;Print;3;0
 A Royal Hunt;C;Dilemma;;Necessary Evil;Print;3;0
 A Second Chance at Life;C;Event;;Call to Arms;Print;3;0
+A Sight for Sore Eyes;R;Event;;Captain's Log;Print;3;0
 A Treasure Beyond Comparison;R;Event;;Second Edition;Print;3;0
 Aamin Marritza, Honorable Patriot;U;Personnel;Cardassian;Necessary Evil;Print;3;0
 Aaron Conor, Born Leader;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Abduction Plot;S;Mission;;Second Edition;Print;2;0
 Abduction;R;Event;;Call to Arms;Print;3;0
+Accelerated Aging;P;Dilemma;;Genesis;Print;3;0
 Accepting the Past;R;Event;;Necessary Evil;Print;3;0
 Access Relay Station;U;Mission;;Second Edition;Print;2;0
 Acclimation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
@@ -22,6 +26,8 @@ Adding to Our Perfection;U;Event;;Call to Arms;Print;3;0
 Advanced Combat Training;U;Mission;;Strange New Worlds;Print;2;0
 Aftermath;P;Dilemma;;Reflections 2.0;Print;3;0
 Aggressive Behavior;R;Dilemma;;Second Edition;Print;3;0
+Aggressive Solutions;C;Event;;To Boldly Go;Print;3;0
+Agonizing Encounter;R;Dilemma;;To Boldly Go;Print;3;0
 Aid Clone Colony;U;Mission;;Energize;Print;2;0
 Aikido;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Ak'voh;R;Event;;Energize;Print;3;0
@@ -39,15 +45,19 @@ Alluring Spy;C;Dilemma;;Necessary Evil;Print;3;0
 Alternate Identity;R;Interrupt;;Second Edition;Print;3;0
 Altman;C;Personnel;Federation;Second Edition;Print;3;0
 Altovar, Vindictive Criminal;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Aluura, Nice to Everyone;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Alyssa Ogawa, Enterprise Medical Assistant;R;Personnel;Federation;Second Edition;Print;3;0
 Amanda Rogers;R;Interrupt;;Second Edition;Print;3;0
 Amar'itak;C;Personnel;Dominion;Necessary Evil;Print;3;0
 Amaros, Earnest Vanguard;U;Personnel;Non-Aligned;Energize;Print;3;0
 Amnesty Talks;U;Mission;;Second Edition;Print;2;0
+An Issue of Trust;R;Dilemma;;Captain's Log;Print;3;0
 An Old Debt;S;Dilemma;;Call to Arms;Print;3;0
 Analyze;S;Interrupt;;Call to Arms;Print;3;0
 Anara;C;Personnel;Bajoran;Second Edition;Print;3;0
+And Raise You;C;Interrupt;;Captain's Log;Print;3;0
 Andrea Brand, Academy Superintendent;U;Personnel;Federation;Second Edition;Print;3;0
+Andreas Colter;C;Personnel;Federation;Captain's Log;Print;3;0
 Anneli;C;Personnel;Bajoran;Necessary Evil;Print;3;0
 Annexation Drone;P;Personnel;Borg;Reflections 2.0;Print;3;0
 Antedean Assassins;C;Dilemma;;Second Edition;Print;3;0
@@ -59,6 +69,8 @@ Archival Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Arctus Baran, Mercenary Captain;C;Personnel;Non-Aligned;Energize;Print;3;0
 Arctus Baran, Treasure Seeker;P;Personnel;Non-Aligned;Tenth Anniversary Collection;Print;3;0
 Ari;U;Personnel;Cardassian;Second Edition;Print;3;0
+Arik Soong, Father of Many;U;Personnel;Non-Aligned;To Boldly Go;Print;3;0
+Armed Search Party;R;Dilemma;;Captain's Log;Print;3;0
 Armus Roulette;R;Dilemma;;Second Edition;Print;3;0
 Arrest Order;R;Interrupt;;Second Edition;Print;3;0
 Arridor, "Great Sage";R;Personnel;Ferengi;Strange New Worlds;Print;3;0
@@ -68,6 +80,9 @@ Assassination Attempt;R;Dilemma;;Second Edition;Print;3;0
 Assassination Plot;R;Event;;Energize;Print;3;0
 Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;0
 Assault on Species 8472;S;Mission;;Call to Arms;Print;2;0
+Assimilation Techniques;C;Event;;To Boldly Go;Print;3;0
+Assist Cloaked Ship;U;Mission;;To Boldly Go;Print;2;0
+Assist Rescue Operation;U;Dilemma;;To Boldly Go;Print;3;0
 Astrometrics Lab;C;Event;;Second Edition;Print;3;0
 At What Cost?;R;Event;;Necessary Evil;Print;3;0
 At an Impasse;U;Event;;Necessary Evil;Print;3;0
@@ -75,10 +90,13 @@ Athos IV, Maquis Base;U;Mission;;Energize;Print;2;0
 Audit's Spoils;U;Ship;Ferengi;Strange New Worlds;Print;3;0
 Aurulent;R;Ship;Ferengi;Strange New Worlds;Print;3;0
 Authenticate Artifacts;C;Dilemma;;Second Edition;Print;3;0
+Automated Repair Station;U;Mission;;To Boldly Go;Print;2;0
 Automated Weapons;C;Dilemma;;Second Edition;Print;3;0
 Avert Danger;U;Mission;;Energize;Print;2;0
+Avert Solar Implosion;R;Mission;;Dangerous Missions;Print;2;0
 Awaiting Trial;R;Event;;Second Edition;Print;3;0
 B'Elanna Torres, Creative Engineer;R;Personnel;Federation;Call to Arms;Print;3;0
+B'Elanna Torres, Straightforward Engineer;U;Personnel;Federation;Captain's Log;Print;3;0
 B'Etor, Ambitious Renegade;R;Personnel;Klingon;Necessary Evil;Print;3;0
 B'Etor, Romulan Conspirator;R;Personnel;Romulan;Necessary Evil;Print;3;0
 B'Etor, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
@@ -97,24 +115,32 @@ Bajoran Scout Vessel;C;Ship;Bajoran;Second Edition;Print;3;0
 Bandee;C;Personnel;Federation;Second Edition;Print;3;0
 Bank Heist;U;Interrupt;;Energize;Print;3;0
 Baraka;P;Ship;Bajoran;Tenth Anniversary Collection;Print;3;0
+Bareil Antos, Escort;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
 Bareil Antos, Esteemed Vedek;R;Personnel;Bajoran;Second Edition;Print;3;0
 Bareil Antos, Opaka's Protector;R;Personnel;Bajoran;Necessary Evil;Print;3;0
 Barron;C;Personnel;Federation;Second Edition;Print;3;0
 Bashir Founder, Nefarious Saboteur;R;Personnel;Dominion;Call to Arms;Print;3;0
+Basso Tromac, Smug Subordinate;R;Personnel;Bajoran;Captain's Log;Print;3;0
 Bat'leth;C;Equipment;;Energize;Print;3;0
 Battle Drills;R;Event;;Second Edition;Print;3;0
 Battle Lust;U;Event;;Necessary Evil;Print;3;0
 Battle Reconnaissance;S;Mission;;Call to Arms;Print;2;0
+Baxial, Salvage Ship;C;Ship;Non-Aligned;Captain's Log;Print;3;0
+Baxter, Wandering Security Officer;U;Personnel;Federation;Captain's Log;Print;3;0
 Benjamin Sisko, Defiant Captain;S;Personnel;Federation;Second Edition;Print;3;0
+Benjamin Sisko, First Officer;U;Personnel;Federation;To Boldly Go;Print;3;0
 Benjamin Sisko, Man of Resolve;U;Personnel;Federation;Energize;Print;3;0
 Benjamin Sisko, Outlaw;P;Personnel;Non-Aligned;Fractured Time;Print;3;0
 Benjamin Sisko, Shipwright;P;Personnel;Bajoran;Tenth Anniversary Collection;Print;3;0
 Benjamin Sisko, The Emissary of the Prophets;R;Personnel;Bajoran;Second Edition;Print;3;0
+Bennet;C;Personnel;Federation;Captain's Log;Print;3;0
 Berild;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Berserk Changeling;R;Dilemma;;Second Edition;Print;3;0
+Between Duty and Respect;U;Dilemma;;To Boldly Go;Print;3;0
 Beverly Crusher, Chief Medical Officer;R;Personnel;Federation;Second Edition;Print;3;0
 Beverly Crusher, Chief Physician;R;Personnel;Federation;Necessary Evil;Print;3;0
 Bhavani;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Bio-neural Computer Core;R;Dilemma;;Dangerous Missions;Print;3;0
 Biochemical Hyperacceleration;R;Dilemma;;Necessary Evil;Print;3;0
 Biogenic Weapon;P;Event;;Reflections 2.0;Print;3;0
 Biological Distinctiveness;U;Event;;Necessary Evil;Print;3;0
@@ -122,10 +148,12 @@ Birta, "Helpful" DaiMon;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Bleeding to Death;U;Dilemma;;Necessary Evil;Print;3;0
 Blended;U;Dilemma;;Second Edition;Print;3;0
 Blind Spot;C;Event;;Second Edition;Print;3;0
+Blow You Out of the Stars;P;Event;;Genesis;Print;3;0
 Bo'rak, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
 Bochra, Loyal Centurion;U;Personnel;Romulan;Necessary Evil;Print;3;0
 Boheeka, Clandestine Connection;U;Personnel;Cardassian;Energize;Print;3;0
 Bok, Vengeful DaiMon;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
+Boothby, Groundskeeper;C;Personnel;Federation;To Boldly Go;Print;3;0
 Borath, Psychological Researcher;R;Personnel;Dominion;Call to Arms;Print;3;0
 Borath, Subconscious Projection;P;Personnel;Dominion;Fractured Time;Print;3;0
 Borg Cube;C;Ship;Borg;Call to Arms;Print;3;0
@@ -133,13 +161,16 @@ Borg Cutting Beam;S;Event;;Call to Arms;Print;3;0
 Borg Queen, Bringer of Order;S;Personnel;Borg;Call to Arms;Print;3;0
 Borg Queen, Guardian of the Hive;R;Personnel;Borg;Call to Arms;Print;3;0
 Borg Queen, Perfectionist;P;Personnel;Borg;Tenth Anniversary Collection;Print;3;0
+Borg Queen, The One Who is Many;C;Personnel;Borg;To Boldly Go;Print;3;0
 Borg Sphere;S;Ship;Borg;Call to Arms;Print;3;0
 Born for Conquest;U;Event;;Energize;Print;3;0
 Borts;C;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Borum, Selfless Hero;R;Personnel;Bajoran;Energize;Print;3;0
+Bound by Addiction;C;Event;;To Boldly Go;Print;3;0
 Brainwashing;R;Interrupt;;Necessary Evil;Print;3;0
 Bralek;R;Ship;Cardassian;Second Edition;Print;3;0
 Braslota, Advanced Battle Simulation;U;Mission;;Strange New Worlds;Print;2;0
+Bre'Nan Ritual;R;Dilemma;;To Boldly Go;Print;3;0
 Bred for Battle;R;Event;;Call to Arms;Print;3;0
 Bregath;C;Personnel;Klingon;Energize;Print;3;0
 Brief Reunion;U;Event;;Energize;Print;3;0
@@ -153,11 +184,13 @@ Brunt, FCA Liquidator;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Brutal Struggle;U;Event;;Second Edition;Print;3;0
 Brute Force;U;Mission;;Energize;Print;2;0
 Building a Bridge;R;Event;;Call to Arms;Print;3;0
+Burrows, Diagnostic Tech;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Bustling with Activity;P;Event;;Reflections 2.0;Print;3;0
 Bynars' Password;C;Dilemma;;Second Edition;Print;3;0
 Cal Hudson, Attaché to the Demilitarized Zone;U;Personnel;Federation;Energize;Print;3;0
 Calibration Drone;S;Personnel;Borg;Call to Arms;Print;3;0
 Calisthenics Opponent;U;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
+Callaghan;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Camping Trip;U;Mission;;Call to Arms;Print;2;0
 Captain on the Bridge;C;Event;;Necessary Evil;Print;3;0
 Captain's Holiday;C;Dilemma;;Second Edition;Print;3;0
@@ -165,54 +198,74 @@ Cardassia IV, Rescue Prisoners;U;Mission;;Second Edition;Print;2;0
 Cardassia Prime, Hardscrabble World;U;Mission;;Second Edition;Print;2;0
 Cardassian Outskirts, Kressari Rendezvous;U;Mission;;Second Edition;Print;2;0
 Cardassian Phaser Pistol;U;Equipment;;Second Edition;Print;3;0
+Cardassian Processing;R;Dilemma;;To Boldly Go;Print;3;0
 Cardassian Protectorate;P;Event;;Fractured Time;Print;3;0
+Caretaker's Array;U;Mission;;Captain's Log;Print;2;0
 Cargo Haul;U;Mission;;Energize;Print;2;0
 Cargo Rendezvous;U;Mission;;Second Edition;Print;2;0
 Cargo Run;C;Event;;Energize;Print;3;0
+Carol Marcus, Intelligent Scientist;P;Personnel;Non-Aligned;Genesis;Print;3;0
 Cartography Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Casualties of War;R;Dilemma;;Energize;Print;3;0
 Caught in the Act;R;Event;;Necessary Evil;Print;3;0
 Cavalry Raid;R;Event;;Call to Arms;Print;3;0
 Cave-In;U;Dilemma;;Necessary Evil;Print;3;0
+Cavit, Apprehensive First Officer;U;Personnel;Federation;Captain's Log;Print;3;0
+Cellular Peptide Cake;P;Event;;Genesis;Print;3;0
 Center of Attention;C;Dilemma;;Second Edition;Print;3;0
 Chagrith;C;Personnel;Romulan;Second Edition;Print;3;0
+Chakotay, Bridge Between Two Crews;U;Personnel;Federation;Captain's Log;Print;3;0
 Chakotay, Freedom Fighter;R;Personnel;Federation;Energize;Print;3;0
+Chameloid Chicanery;C;Dilemma;;Captain's Log;Print;3;0
 Chance Observation;C;Interrupt;;Necessary Evil;Print;3;0
 Change of Heart;P;Interrupt;;Reflections 2.0;Print;3;0
 Changed History;P;Event;;Reflections 2.0;Print;3;0
 Changeling Research;U;Mission;;Second Edition;Print;2;0
 Changeling Sabotage;U;Event;;Call to Arms;Print;3;0
 Charged-Particle Precipitation;U;Dilemma;;Strange New Worlds;Print;3;0
+Charles Tucker III, "Trip";C;Personnel;Starfleet;To Boldly Go;Print;3;0
+Charles Tucker III, Chief Engineer;R;Personnel;Starfleet;Captain's Log;Print;3;0
+Charles Tucker III, Standing In;R;Personnel;Starfleet;Dangerous Missions;Print;3;0
 Chart Stellar Cluster;U;Mission;;Second Edition;Print;2;0
 Chorgan, Leader of the Gatherers;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Chula: Echoes;C;Dilemma;;Second Edition;Print;3;0
+Chula: Move Along Home;U;Dilemma;;To Boldly Go;Print;3;0
 Chula: Pick One to Save Two;C;Dilemma;;Second Edition;Print;3;0
 Clandestine Agent;C;Interrupt;;Strange New Worlds;Print;3;0
 Clash at Chin'toka;U;Mission;;Call to Arms;Print;2;0
 Clear Ultimatum;C;Interrupt;;Strange New Worlds;Print;3;0
 Close Call;C;Dilemma;;Call to Arms;Print;3;0
 Cluttering Irrelevancies;U;Interrupt;;Strange New Worlds;Print;3;0
+Cochrane, Voyager Shuttle;C;Ship;Federation;Captain's Log;Print;3;0
 Code of Honor;R;Dilemma;;Strange New Worlds;Print;3;0
 Collapse Anti-Time Anomaly;P;Mission;;Fractured Time;Print;2;0
 Collateral Damage;C;Event;;Necessary Evil;Print;3;0
+Collect Omicron Particles;U;Mission;;Captain's Log;Print;2;0
 Collect Sample;U;Mission;;Second Edition;Print;2;0
 Colony Preparations;U;Mission;;Second Edition;Print;2;0
+Columbia, The Second Warp Five Ship;R;Ship;Starfleet;Captain's Log;Print;3;0
 Comfort Women;U;Interrupt;;Second Edition;Print;3;0
 Command Decisions;S;Dilemma;;Second Edition;Print;3;0
 Common Ground;R;Event;;Energize;Print;3;0
+Compassionate Interference;U;Dilemma;;Captain's Log;Print;3;0
 Complications;R;Event;;Energize;Print;3;0
 Computation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Condition Captive;R;Interrupt;;Second Edition;Print;3;0
 Confessions in the Pale Moonlight;R;Event;;Energize;Print;3;0
+Confessions of a Captain;U;Event;;Captain's Log;Print;3;0
 Confined to Quarters;C;Dilemma;;Call to Arms;Print;3;0
 Conscription;R;Event;;Energize;Print;3;0
 Console Overload;C;Dilemma;;Second Edition;Print;3;0
+Contaminating a Culture;R;Dilemma;;Captain's Log;Print;3;0
 Contamination;C;Dilemma;;Second Edition;Print;3;0
+Continuing Committee Hearing;C;Event;;To Boldly Go;Print;3;0
 Continuity Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Control Plague;U;Mission;;To Boldly Go;Print;2;0
 Coordinated Attack;C;Interrupt;;Energize;Print;3;0
 Coordinated Effort;C;Dilemma;;Strange New Worlds;Print;3;0
 Corbin Entek, Undercover Operations Supervisor;R;Personnel;Cardassian;Second Edition;Print;3;0
 Counterinsurgency Program;R;Dilemma;;Necessary Evil;Print;3;0
+Covert Insertion;U;Dilemma;;To Boldly Go;Print;3;0
 Crensen Gap, Protect the Escapees;U;Mission;;Strange New Worlds;Print;2;0
 Cretak, Supporter of the Alliance;S;Personnel;Romulan;Second Edition;Print;3;0
 Crippling Attack;U;Dilemma;;Energize;Print;3;0
@@ -220,14 +273,20 @@ Crosis, Fanatical Lieutenant;R;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Crowd Control;C;Event;;Energize;Print;3;0
 Cry "Havoc!";S;Event;;Second Edition;Print;3;0
 Cultist Attack;C;Interrupt;;Call to Arms;Print;3;0
+Cultural Differences;C;Dilemma;;To Boldly Go;Print;3;0
+Cunningham, Assigned to the Galley;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Cure Blight;U;Mission;;Second Edition;Print;2;0
+Cyrus Redblock, Civil Criminal;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 D'Arsay Archive;S;Event;;Second Edition;Print;3;0
+D'Tan, Curious Youth;C;Personnel;Romulan;Captain's Log;Print;3;0
 D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
 D'deridex;S;Ship;Romulan;Second Edition;Print;3;0
 D'kora Marauder;C;Ship;Ferengi;Strange New Worlds;Print;3;0
 DNA Analysis;S;Dilemma;;Call to Arms;Print;3;0
 DNA Security Scan;C;Dilemma;;Energize;Print;3;0
+Dabo!;R;Event;;To Boldly Go;Print;3;0
 Dallan;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Dallas;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Damaged Reputation;U;Dilemma;;Second Edition;Print;3;0
 Damar, Loyal Glinn;U;Personnel;Cardassian;Second Edition;Print;3;0
 Damar, Useful Adjutant;R;Personnel;Cardassian;Call to Arms;Print;3;0
@@ -235,17 +294,23 @@ Danar, Irascible Gul;U;Personnel;Cardassian;Second Edition;Print;3;0
 Daneeka, Reassuring Physician;U;Personnel;Federation;Strange New Worlds;Print;3;0
 Dangerous Climb;R;Dilemma;;Call to Arms;Print;3;0
 Dangerous Liaisons;C;Dilemma;;Second Edition;Print;3;0
+Dangerous Standoff;U;Dilemma;;To Boldly Go;Print;3;0
 Daniel Kwan;C;Personnel;Federation;Second Edition;Print;3;0
+Daniel Leonard, Cautious Admiral;C;Personnel;Starfleet;Captain's Log;Print;3;0
+Daniels, Temporal Agent;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Daniels, Temporal Enforcer;P;Personnel;Non-Aligned;Fractured Time;Print;3;0
 Darhe'el, The Butcher of Gallitep;U;Personnel;Cardassian;Second Edition;Print;3;0
+Dark Pursuit;R;Event;;Captain's Log;Print;3;0
 Dark Secrets;P;Interrupt;;Reflections 2.0;Print;3;0
 Daro;C;Personnel;Cardassian;Second Edition;Print;3;0
 Darok, Martok's Aide;R;Personnel;Klingon;Call to Arms;Print;3;0
+Data's Emotion Chip;R;Equipment;;To Boldly Go;Print;3;0
 Data, Aspirer;R;Personnel;Federation;Second Edition;Print;3;0
 Data, Commanding Officer;P;Personnel;Federation;Tenth Anniversary Collection;Print;3;0
 Data, Loyal Brother;R;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Data, Pinocchio;R;Personnel;Federation;Necessary Evil;Print;3;0
 Dathon, Speaker of Tama;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+David Marcus, Young Scientist;P;Personnel;Non-Aligned;Genesis;Print;3;0
 Davies;C;Personnel;Federation;Second Edition;Print;3;0
 Davin;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Day Kannu, Field Colonel;U;Personnel;Bajoran;Necessary Evil;Print;3;0
@@ -258,10 +323,13 @@ Debris Field;C;Dilemma;;Second Edition;Print;3;0
 Dedication to Duty;C;Dilemma;;Energize;Print;3;0
 Deep Hatred;C;Event;;Necessary Evil;Print;3;0
 Deep Roots;R;Event;;Energize;Print;3;0
+Defend Our People;C;Event;;To Boldly Go;Print;3;0
 Defragmentation Drone;C;Personnel;Borg;Necessary Evil;Print;3;0
 Dejar, Cunning Saboteur;U;Personnel;Cardassian;Strange New Worlds;Print;3;0
 Delegated Assignment;R;Interrupt;;Strange New Worlds;Print;3;0
 Delicate Negotiations;C;Event;;Strange New Worlds;Print;3;0
+Deliver Ancient Artifact;R;Mission;;Dangerous Missions;Print;2;0
+Deliver Evidence;R;Mission;;Dangerous Missions;Print;2;0
 Deliver Prisoners;U;Mission;;Strange New Worlds;Print;2;0
 Deliver Supplies;U;Mission;;Second Edition;Print;2;0
 Delphi Ardu IV, The Last Outpost;U;Mission;;Strange New Worlds;Print;2;0
@@ -270,20 +338,28 @@ Deploy the Fleet;U;Event;;Necessary Evil;Print;3;0
 Depression;C;Dilemma;;Call to Arms;Print;3;0
 Deranas;U;Ship;Romulan;Second Edition;Print;3;0
 Desperate Sacrifice;U;Event;;Necessary Evil;Print;3;0
+Destined Journey;P;Dilemma;;Genesis;Print;3;0
+Destined To Be;C;Event;;To Boldly Go;Print;3;0
+Destiny Reset;U;Event;;Captain's Log;Print;3;0
 Destroy Transwarp Hub;U;Mission;;Call to Arms;Print;2;0
+Deuterium Plunderers;U;Dilemma;;To Boldly Go;Print;3;0
 Devoras;R;Ship;Romulan;Strange New Worlds;Print;3;0
+Difficult Rescue;C;Dilemma;;Captain's Log;Print;3;0
 Dignitaries and Witnesses;P;Dilemma;;Reflections 2.0;Print;3;0
 Dimensional Shifting;R;Interrupt;;Second Edition;Print;3;0
 Diplomatic Masquerade;U;Interrupt;;Energize;Print;3;0
+Diplomatic Offer;U;Event;;To Boldly Go;Print;3;0
 Diplomatic Overture;C;Event;;Second Edition;Print;3;0
 Disable Sensors;R;Event;;Energize;Print;3;0
 Disadvantage Into Advantage;P;Event;;Reflections 2.0;Print;3;0
 Discreet Inquiry;U;Interrupt;;Energize;Print;3;0
 Disgraceful Assault;C;Dilemma;;Energize;Print;3;0
+Disinterested Visitant;R;Interrupt;;To Boldly Go;Print;3;0
 Dispensing the White;C;Event;;Call to Arms;Print;3;0
 Disruptor Accident;C;Dilemma;;Energize;Print;3;0
 Dissolving the Senate;U;Event;;Call to Arms;Print;3;0
 Distant Exploration;P;Event;;Reflections 2.0;Print;3;0
+Distracting Exhibition;R;Event;;To Boldly Go;Print;3;0
 Divok;C;Personnel;Klingon;Energize;Print;3;0
 Dohlem;C;Personnel;Bajoran;Second Edition;Print;3;0
 Dokar;C;Personnel;Klingon;Second Edition;Print;3;0
@@ -292,6 +368,7 @@ Don't Let It End This Way;C;Dilemma;;Call to Arms;Print;3;0
 Donatra, Compassionate Patriot;R;Personnel;Romulan;Second Edition;Print;3;0
 Dorian Collins, Acting Chief Petty Officer;C;Personnel;Federation;Necessary Evil;Print;3;0
 Dr. Leah Brahms, Holographic Representation;C;Personnel;Federation;Strange New Worlds;Print;3;0
+Drake, Voyager Shuttle;C;Ship;Federation;Captain's Log;Print;3;0
 Dralvak;C;Personnel;Romulan;Second Edition;Print;3;0
 Dressing Down;U;Dilemma;;Call to Arms;Print;3;0
 Drex, Arrogant Warrior;R;Personnel;Klingon;Energize;Print;3;0
@@ -308,15 +385,18 @@ E'Tyshra;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
 E.M.H. Program;C;Personnel;Federation;Strange New Worlds;Print;3;0
 Earth, Cradle of the Federation;S;Mission;;Second Edition;Print;2;0
 Earth, Home of Starfleet Command;U;Mission;;Second Edition;Print;2;0
+Earth, Humanity's Home;U;Mission;;To Boldly Go;Print;2;0
 Echo Papa Stasis Field;C;Dilemma;;Necessary Evil;Print;3;0
 Elim Garak, Agent of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
 Elim Garak, First Officer of Terok Nor;P;Personnel;Cardassian;Fractured Time;Print;3;0
 Elim Garak, Plain, Simple Tailor;U;Personnel;Cardassian;Call to Arms;Print;3;0
 Eliminate Harvesters;U;Mission;;Second Edition;Print;2;0
+Elizabeth Cutler, Eager Entomologist;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Elizabeth Shelby, Formidable Presence;S;Personnel;Federation;Second Edition;Print;3;0
 Emergency Transport Unit;C;Equipment;;Necessary Evil;Print;3;0
 Emergency Treatment;C;Interrupt;;Energize;Print;3;0
 Emok;C;Personnel;Cardassian;Second Edition;Print;3;0
+Emory Erickson, Father of the Transporter;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Empathic Touch;R;Interrupt;;Second Edition;Print;3;0
 Enabran Tain, "Retired" Spymaster;P;Personnel;Cardassian;Reflections 2.0;Print;3;0
 Enabran Tain, Head of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
@@ -328,7 +408,12 @@ Engage Cloak;R;Event;;Second Edition;Print;3;0
 Engineering Kit;C;Equipment;;Second Edition;Print;3;0
 Engineering PADD;C;Equipment;;Second Edition;Print;3;0
 Entanglement;R;Dilemma;;Strange New Worlds;Print;3;0
+Enterprise, Battle Hardened;R;Ship;Starfleet;Dangerous Missions;Print;3;0
+Enterprise, Finally Ready to Swim;R;Ship;Starfleet;To Boldly Go;Print;3;0
 Equipment Malfunction;S;Dilemma;;Second Edition;Print;3;0
+Erika Hernandez, Comparable Captain;U;Personnel;Starfleet;Captain's Log;Print;3;0
+Escape Gulag;U;Mission;;To Boldly Go;Print;2;0
+Escape Pod;R;Event;;To Boldly Go;Print;3;0
 Escape;R;Interrupt;;Second Edition;Print;3;0
 Escaping Detection;U;Event;;Necessary Evil;Print;3;0
 Etana Jol, Ktarian Operative;U;Personnel;Non-Aligned;Second Edition;Print;3;0
@@ -345,6 +430,7 @@ Exceed Engine Output;R;Event;;Strange New Worlds;Print;3;0
 Expand the Collective;P;Event;;Fractured Time;Print;3;0
 Explicit Orders;P;Interrupt;;Fractured Time;Print;3;0
 Explore Black Cluster;S;Mission;;Second Edition;Print;2;0
+Explore Micro-Wormhole;U;Mission;;Captain's Log;Print;2;0
 Explosive Decompression;R;Dilemma;;Second Edition;Print;3;0
 Expose Changeling Influence;U;Mission;;Call to Arms;Print;2;0
 Exposed Power Relay;U;Dilemma;;Energize;Print;3;0
@@ -355,17 +441,24 @@ Ezri Dax, Station Counselor;R;Personnel;Federation;Energize;Print;3;0
 Face to Face;R;Dilemma;;Energize;Print;3;0
 Facilitation Drone;U;Personnel;Borg;Necessary Evil;Print;3;0
 Failure To Communicate;S;Dilemma;;Call to Arms;Print;3;0
+Fajo's Menagerie;C;Interrupt;;Captain's Log;Print;3;0
 Far-Seeing Eyes;R;Event;;Necessary Evil;Print;3;0
 Farius Prime, Political Intrigue;U;Mission;;Call to Arms;Print;2;0
 Feast on the Dying;C;Event;;Second Edition;Print;3;0
+Federation Compression Rifle;C;Equipment;;Captain's Log;Print;3;0
 Feldomite Rush;U;Mission;;Second Edition;Print;2;0
 Ferengi Computer;U;Equipment;;Strange New Worlds;Print;3;0
 Ferengi Whip;C;Equipment;;Strange New Worlds;Print;3;0
 Ferenginar, Financial Hub;U;Mission;;Strange New Worlds;Print;2;0
 Ferocity;U;Event;;Energize;Print;3;0
 Field Studies;R;Event;;Necessary Evil;Print;3;0
+Fifth, Neonatal Drone;U;Personnel;Borg;Captain's Log;Print;3;0
 Final Adventure;P;Dilemma;;Reflections 2.0;Print;3;0
+Final Triumph;P;Dilemma;;Genesis;Print;3;0
 Financial Pitfall;U;Dilemma;;Strange New Worlds;Print;3;0
+Finding Our Way;C;Event;;Captain's Log;Print;3;0
+First, Unstable;R;Personnel;Borg;To Boldly Go;Print;3;0
+First-hand Experience;C;Event;;To Boldly Go;Print;3;0
 Fissure Research;S;Mission;;Second Edition;Print;2;0
 Fitting In;P;Interrupt;;Fractured Time;Print;3;0
 Five of Twelve, Secondary Adjunct of Trimatrix 942;U;Personnel;Borg;Necessary Evil;Print;3;0
@@ -389,14 +482,19 @@ Founder Leader, Beguiling Teacher;U;Personnel;Dominion;Call to Arms;Print;3;0
 Founder Leader, Forbidding Judge;S;Personnel;Dominion;Call to Arms;Print;3;0
 Founder Trap;R;Interrupt;;Call to Arms;Print;3;0
 Founders' Homeworld, Home of the Great Link;S;Mission;;Call to Arms;Print;2;0
+Fourth, Neonatal Drone;U;Personnel;Borg;To Boldly Go;Print;3;0
 Fresh Tactic;C;Interrupt;;Energize;Print;3;0
 Friction;P;Event;;Reflections 2.0;Print;3;0
+Frool, Old and Fragile;C;Personnel;Ferengi;To Boldly Go;Print;3;0
 Full Security Alert;P;Dilemma;;Reflections 2.0;Print;3;0
 Furel, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
+Gaeta;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Galathon, Steadfast Rival;R;Personnel;Romulan;Energize;Print;3;0
 Galnar;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Galor;C;Ship;Cardassian;Second Edition;Print;3;0
+Garrid;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Gelnon, Aloof Tactician;P;Personnel;Dominion;Reflections 2.0;Print;3;0
+Genesis Planet;P;Mission;;Genesis;Print;2;0
 Geordi La Forge, Chief Engineer;R;Personnel;Federation;Second Edition;Print;3;0
 Geordi La Forge, Conn Officer;U;Personnel;Federation;Necessary Evil;Print;3;0
 Getting Under Your Skin;U;Event;;Necessary Evil;Print;3;0
@@ -414,7 +512,9 @@ Grathon Tolar, Hologram Forger;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Gravimetric Distortion;R;Dilemma;;Second Edition;Print;3;0
 Graviton Ellipse;R;Dilemma;;Second Edition;Print;3;0
 Graviton Wave;C;Dilemma;;Call to Arms;Print;3;0
+Grebnedlog, Pakled Captain;C;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Grenis;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Grimp, Pessimist;U;Personnel;Ferengi;To Boldly Go;Print;3;0
 Guess Who's Coming to Dinner?;C;Dilemma;;Necessary Evil;Print;3;0
 Guidance Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Guidance of the Council;P;Event;;Reflections 2.0;Print;3;0
@@ -426,8 +526,10 @@ Hannah Bates, Biosphere Expert;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Harana;C;Personnel;Non-Aligned;Energize;Print;3;0
 Hard Time;P;Dilemma;;Reflections 2.0;Print;3;0
 Harness Omega Particle;U;Mission;;Call to Arms;Print;2;0
+Harry Kim, Eager to Please;R;Personnel;Federation;Captain's Log;Print;3;0
 Harsh Conditions;U;Dilemma;;Necessary Evil;Print;3;0
 Hazar;U;Personnel;Bajoran;Second Edition;Print;3;0
+He Speaks in Shale;U;Interrupt;;To Boldly Go;Print;3;0
 Head to Head;R;Dilemma;;Energize;Print;3;0
 Heart of Glory;C;Event;;Energize;Print;3;0
 Heart to Heart;C;Dilemma;;Strange New Worlds;Print;3;0
@@ -442,10 +544,12 @@ Hollow Pleasantries;C;Event;;Necessary Evil;Print;3;0
 Holodeck Grid;U;Event;;Strange New Worlds;Print;3;0
 Holographic Hoax;C;Event;;Necessary Evil;Print;3;0
 Honorable Death;U;Interrupt;;Energize;Print;3;0
+Hoshi Sato, Uneasy Educator;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Host Metaphasic Shielding Test;S;Mission;;Second Edition;Print;2;0
 Houdini Mines;C;Dilemma;;Energize;Print;3;0
 How Would You Like a Trip to Romulus?;R;Event;;Second Edition;Print;3;0
 Hoya;C;Personnel;Federation;Second Edition;Print;3;0
+Hull Breach;C;Dilemma;;Captain's Log;Print;3;0
 Hunt Alien;S;Mission;;Call to Arms;Print;2;0
 Hunt for DNA Program;U;Mission;;Second Edition;Print;2;0
 Hunter Gangs;C;Dilemma;;Second Edition;Print;3;0
@@ -461,10 +565,12 @@ I.K.S. Ning'tao;R;Ship;Klingon;Necessary Evil;Print;3;0
 I.K.S. Pagh;R;Ship;Klingon;Call to Arms;Print;3;0
 I.K.S. Qam-Chee;R;Ship;Klingon;Energize;Print;3;0
 I.K.S. Rotarran, Ship of Tears;R;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. T'Ong, Sleeper Ship;U;Ship;Klingon;Captain's Log;Print;3;0
 I.K.S. Vor'cha;S;Ship;Klingon;Second Edition;Print;3;0
 Iconia Investigation;U;Mission;;Second Edition;Print;2;0
 If Wishes Were Horses;R;Interrupt;;Energize;Print;3;0
 Ikat'ika, Honorable Warrior;R;Personnel;Dominion;Call to Arms;Print;3;0
+Imagined Emergency;U;Dilemma;;Captain's Log;Print;3;0
 Imat'Korex;C;Personnel;Dominion;Call to Arms;Print;3;0
 Impressive Trophies;R;Dilemma;;Second Edition;Print;3;0
 Impromptu Prison;C;Interrupt;;Strange New Worlds;Print;3;0
@@ -483,6 +589,7 @@ Intercept Renegade;S;Mission;;Second Edition;Print;2;0
 Interstellar Treaty;P;Event;;Reflections 2.0;Print;3;0
 Invasive Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Investigate Alien Probe;U;Mission;;Second Edition;Print;2;0
+Investigate Alleged Murder;U;Mission;;Captain's Log;Print;2;0
 Investigate Coup;S;Mission;;Second Edition;Print;2;0
 Investigate Destruction;U;Mission;;Strange New Worlds;Print;2;0
 Investigate Maquis Activity;U;Mission;;Energize;Print;2;0
@@ -490,6 +597,8 @@ Investigate Massacre;U;Mission;;Second Edition;Print;2;0
 Investigate Rogue Comet;S;Mission;;Second Edition;Print;2;0
 Investigate Rumors;U;Mission;;Second Edition;Print;2;0
 Investigate Sighting;U;Mission;;Second Edition;Print;2;0
+Investigate Stalled Ship;U;Mission;;To Boldly Go;Print;2;0
+Investigate Unknown Element;U;Mission;;Captain's Log;Print;2;0
 Invidium Leak;C;Dilemma;;Second Edition;Print;3;0
 Invocation of Kosst Amojan;P;Event;;Reflections 2.0;Print;3;0
 Ira Graves, Noted Molecular Cyberneticist;R;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
@@ -499,21 +608,31 @@ J'Dan;C;Personnel;Klingon;Second Edition;Print;3;0
 Ja'chuq;R;Interrupt;;Energize;Print;3;0
 Jabara;C;Personnel;Bajoran;Second Edition;Print;3;0
 Jack, Maladjusted Misfit;R;Personnel;Federation;Call to Arms;Print;3;0
+Jadzia Dax, Defiant Captain;U;Personnel;Federation;Captain's Log;Print;3;0
+Jadzia Dax, Elder;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
 Jadzia Dax, Problem Solver;R;Personnel;Federation;Necessary Evil;Print;3;0
 Jadzia Dax, Science Officer;R;Personnel;Federation;Second Edition;Print;3;0
 Jadzia Dax, Sworn Ally;R;Personnel;Klingon;Necessary Evil;Print;3;0
+Jadzia Dax, The Second Heart;U;Personnel;Klingon;Captain's Log;Print;3;0
 Jaglom Shrek;C;Personnel;Non-Aligned;Energize;Print;3;0
 Jake Sisko, Reporter Behind the Lines;R;Personnel;Federation;Necessary Evil;Print;3;0
 Jake Sisko, Temporal Anchor;R;Personnel;Federation;Energize;Print;3;0
 Jakin;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
+James T. Kirk, Irrational Human Being;R;Personnel;Federation;Dangerous Missions;Print;3;0
 James T. Kirk, Living Legend;P;Personnel;Federation;Fractured Time;Print;3;0
+James T. Kirk, Original Thinker;P;Personnel;Federation;Genesis;Print;3;0
 Jaro Essa, Leader of the Circle;R;Personnel;Bajoran;Energize;Print;3;0
+Jasad;P;Personnel;Cardassian;Genesis;Print;3;0
+Jean Hajar, Nova Squadron Navigator;C;Personnel;Federation;To Boldly Go;Print;3;0
 Jean-Luc Picard, Argo Pilot;R;Personnel;Federation;Second Edition;Print;3;0
+Jean-Luc Picard, Bearer of Ill Tidings;R;Personnel;Romulan;To Boldly Go;Print;3;0
+Jean-Luc Picard, Captain of the Enterprise;R;Personnel;Federation;Dangerous Missions;Print;3;0
 Jean-Luc Picard, Explorer;S;Personnel;Federation;Second Edition;Print;3;0
 Jean-Luc Picard, Galen;P;Personnel;Non-Aligned;Reflections 2.0;Print;3;0
 Jean-Luc Picard, Starship Captain;P;Personnel;Federation;Tenth Anniversary Collection;Print;3;0
 Jean-Luc Picard, Vintner;P;Personnel;Federation;Reflections 2.0;Print;3;0
 Jean-Luc Picard, Worf's cha'Dich;R;Personnel;Klingon;Strange New Worlds;Print;3;0
+Jeffrey Pierce, On The Edge;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Jem'Hadar Ambush;C;Event;;Call to Arms;Print;3;0
 Jem'Hadar Attack Ship;S;Ship;Dominion;Call to Arms;Print;3;0
 Jem'Hadar Birthing Chamber;R;Event;;Call to Arms;Print;3;0
@@ -521,11 +640,17 @@ Jem'Hadar Disruptor Pistol;U;Equipment;;Call to Arms;Print;3;0
 Jem'Hadar Strike Force;U;Event;;Call to Arms;Print;3;0
 Jem'Hadar Warship;C;Ship;Dominion;Call to Arms;Print;3;0
 Jerax;C;Personnel;Cardassian;Second Edition;Print;3;0
+Jeremy Lucas, Phlox's Colleague;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Jo'Bril, Patient Schemer;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Joe Carey, Next In Line;C;Personnel;Federation;Captain's Log;Print;3;0
+Joint Operation Drills;C;Dilemma;;Captain's Log;Print;3;0
+Jonathan Archer, Bearer of Surak's Katra;R;Personnel;Starfleet;Dangerous Missions;Print;3;0
+Jonathan Archer, Headstrong Captain;R;Personnel;Starfleet;To Boldly Go;Print;3;0
 Jorem;C;Personnel;Bajoran;Call to Arms;Print;3;0
 Joret Dal, Patriotic Visionary;R;Personnel;Cardassian;Second Edition;Print;3;0
 Jorvas;C;Personnel;Romulan;Second Edition;Print;3;0
 Joseph Sisko, Creole Chef;U;Personnel;Federation;Energize;Print;3;0
+Jovis, Museum;U;Ship;Non-Aligned;Captain's Log;Print;3;0
 Julian Bashir, "Frontier" Physician;R;Personnel;Federation;Second Edition;Print;3;0
 Julian Bashir, "Unnatural Freak";U;Personnel;Federation;Energize;Print;3;0
 Jural;C;Personnel;Cardassian;Energize;Print;3;0
@@ -533,6 +658,7 @@ Just Like Old Times;U;Event;;Second Edition;Print;3;0
 Justice or Vengeance;S;Dilemma;;Call to Arms;Print;3;0
 K'Ehleyr, Diplomatic Advisor;U;Personnel;Klingon;Strange New Worlds;Print;3;0
 K'Tal, Senior Council Member;C;Personnel;Klingon;Necessary Evil;Print;3;0
+K'Temoc, Long Slumbering Commander;U;Personnel;Klingon;Captain's Log;Print;3;0
 K'mpec, Klingon Supreme Commander;R;Personnel;Klingon;Energize;Print;3;0
 K'nera, Klingon Defense Force Commander;S;Personnel;Klingon;Second Edition;Print;3;0
 Kahless, The Greatest Warrior of Them All;U;Personnel;Klingon;Energize;Print;3;0
@@ -548,27 +674,38 @@ Kargan, Rash Captain;R;Personnel;Klingon;Energize;Print;3;0
 Karina, Intelligence Analyst;U;Personnel;Romulan;Call to Arms;Print;3;0
 Kasidy Yates, Maquis Smuggler;R;Personnel;Non-Aligned;Call to Arms;Print;3;0
 Kassem, Stern Operative;U;Personnel;Romulan;Strange New Worlds;Print;3;0
+Kathryn Janeway, Clever Captain;C;Personnel;Federation;Captain's Log;Print;3;0
+Kathryn Janeway, Forceful Captain;R;Personnel;Federation;Captain's Log;Print;3;0
 Kathryn Janeway, Wry Admiral;R;Personnel;Federation;Second Edition;Print;3;0
 Kazago, First Officer;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Keevan, Conniving Liar;U;Personnel;Dominion;Call to Arms;Print;3;0
 Keeve Falor;C;Personnel;Bajoran;Second Edition;Print;3;0
 Keiko O'Brien, School Teacher;R;Personnel;Federation;Energize;Print;3;0
+Kelby, Arrogant Engineer;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Keldon Advanced;U;Ship;Cardassian;Second Edition;Print;3;0
 Keldon;C;Ship;Cardassian;Second Edition;Print;3;0
 Kell, Romulan Accomplice;C;Personnel;Romulan;Necessary Evil;Print;3;0
 Kelly, Relief Tactical Officer;C;Personnel;Federation;Energize;Print;3;0
 Kelvan Show of Force;R;Dilemma;;Second Edition;Print;3;0
+Kenneth Dalby, Insubordinate Crewman;U;Personnel;Federation;Captain's Log;Print;3;0
+Kes, Curious Ocampa;U;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Kevin Uxbridge;R;Interrupt;;Second Edition;Print;3;0
+Khan Noonien Singh, Genetically-Engineered Nemesis;P;Personnel;Non-Aligned;Genesis;Print;3;0
+Khan!;P;Interrupt;;Genesis;Print;3;0
 Khar;C;Personnel;Klingon;Energize;Print;3;0
 Khazara;R;Ship;Romulan;Energize;Print;3;0
 Khitomer Investigation;S;Mission;;Second Edition;Print;2;0
 Khos;C;Personnel;Klingon;Energize;Print;3;0
+Kieran MacDuff, Executive Officer;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Kilana, Dissembling Envoy;S;Personnel;Dominion;Call to Arms;Print;3;0
 Kira Founder, Examiner;R;Personnel;Dominion;Call to Arms;Print;3;0
 Kira Meru, Comfort Woman;R;Personnel;Bajoran;Necessary Evil;Print;3;0
+Kira Nerys, Blockade Commander;U;Personnel;Bajoran;Captain's Log;Print;3;0
 Kira Nerys, Colonel Kira;R;Personnel;Bajoran;Second Edition;Print;3;0
+Kira Nerys, Hero of Bajor;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
 Kira Nerys, Iliana Ghemor;R;Personnel;Cardassian;Necessary Evil;Print;3;0
 Kira Nerys, Impassioned Major;R;Personnel;Bajoran;Energize;Print;3;0
+Kira Nerys, Outspoken Major;P;Personnel;Bajoran;Genesis;Print;3;0
 Kira Nerys, Pious Major;U;Personnel;Bajoran;Strange New Worlds;Print;3;0
 Kira Nerys, Reformed Collaborator;R;Personnel;Bajoran;Call to Arms;Print;3;0
 Kira Nerys, Starfleet Emissary;P;Personnel;Federation;Reflections 2.0;Print;3;0
@@ -591,11 +728,14 @@ Koral, Dour Smuggler;C;Personnel;Klingon;Energize;Print;3;0
 Korath, Duplicitous Tinkerer;P;Personnel;Klingon;Fractured Time;Print;3;0
 Koroth, High Cleric of Boreth;U;Personnel;Klingon;Second Edition;Print;3;0
 Korris, Renegade Captain;R;Personnel;Klingon;Energize;Print;3;0
+Kosinski, Arrogant Engineer;U;Personnel;Federation;Captain's Log;Print;3;0
 Kotra;U;Event;;Energize;Print;3;0
 Koval, Chairman of the Tal Shiar;R;Personnel;Romulan;Necessary Evil;Print;3;0
 Kovat, Public Conservator;U;Personnel;Cardassian;Second Edition;Print;3;0
+Krayton, Trade Envoy;R;Ship;Ferengi;Captain's Log;Print;3;0
 Krim, Thoughtful Tactician;R;Personnel;Bajoran;Necessary Evil;Print;3;0
 Kroval;C;Personnel;Klingon;Second Edition;Print;3;0
+Kruge, Instinctive Commander;P;Personnel;Klingon;Genesis;Print;3;0
 Krunk;C;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Kudak'Etan, Arrogant First;P;Personnel;Dominion;Tenth Anniversary Collection;Print;3;0
 Kulan, Militia Soldier;C;Personnel;Bajoran;Necessary Evil;Print;3;0
@@ -605,12 +745,17 @@ Kurn, Bajoran Security Officer;R;Personnel;Bajoran;Energize;Print;3;0
 Kurn, Squadron Commander;R;Personnel;Klingon;Second Edition;Print;3;0
 Labor Camp;U;Event;;Second Edition;Print;3;0
 Lack of Preparation;C;Dilemma;;Necessary Evil;Print;3;0
+Lal, Beloved;R;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Lamat'Ukan, Resourceful Third;P;Personnel;Dominion;Reflections 2.0;Print;3;0
 Language Barrier;C;Dilemma;;Necessary Evil;Print;3;0
 Lapideas System, Geological Survey;S;Mission;;Second Edition;Print;2;0
 Larg, Piece of Baktag;U;Personnel;Klingon;Call to Arms;Print;3;0
+Larson, Security Team Member;C;Personnel;Federation;Captain's Log;Print;3;0
+Last Gasp;U;Dilemma;;Captain's Log;Print;3;0
 Lasting Peace;C;Interrupt;;Second Edition;Print;3;0
+Latinum Storage;R;Event;;To Boldly Go;Print;3;0
 Lauren, Seductress;R;Personnel;Federation;Call to Arms;Print;3;0
+Learning Curve;P;Event;;Genesis;Print;3;0
 Leck, Eliminator;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Leeta, Dabo Girl;R;Personnel;Bajoran;Energize;Print;3;0
 Leeta, Rebel Supporter;R;Personnel;Bajoran;Necessary Evil;Print;3;0
@@ -647,7 +792,9 @@ Lursa, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
 Luther Sloan, Man of Secrets;R;Personnel;Federation;Second Edition;Print;3;0
 Lwaxana Troi, Telepathic Asset;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Lying in Wait;U;Interrupt;;Necessary Evil;Print;3;0
+Lyndsay Ballard, Back From the Dead;C;Personnel;Federation;Captain's Log;Print;3;0
 M'vil;U;Personnel;Klingon;Energize;Print;3;0
+Macet, Skeptical Commander;R;Personnel;Cardassian;Captain's Log;Print;3;0
 Machinations;R;Event;;Energize;Print;3;0
 Macius;C;Personnel;Non-Aligned;Energize;Print;3;0
 Madred, Calculating Captor;R;Personnel;Cardassian;Second Edition;Print;3;0
@@ -656,19 +803,31 @@ Magnetic Field Disruptions;C;Dilemma;;Second Edition;Print;3;0
 Magren;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Maihar'du, Silent Servant;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Makbar, Chief Archon;R;Personnel;Cardassian;Second Edition;Print;3;0
+Make a Run for It;C;Event;;Captain's Log;Print;3;0
+Making It Work;C;Event;;Captain's Log;Print;3;0
+Malcolm Reed, Weapons Expert;R;Personnel;Starfleet;To Boldly Go;Print;3;0
+Malik, Devious Augment;U;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Maques, Cairn Delegate;C;Personnel;Non-Aligned;Energize;Print;3;0
 Maquis Raid;P;Event;;Reflections 2.0;Print;3;0
 Maquis Raider;C;Ship;Federation;Energize;Print;3;0
+Maquis Vendetta;R;Dilemma;;Dangerous Missions;Print;3;0
+Mardah, Quite a Writer;C;Personnel;Bajoran;To Boldly Go;Print;3;0
 Mareth;C;Personnel;Romulan;Necessary Evil;Print;3;0
+Marie Kaplan, Observant Officer;C;Personnel;Federation;Captain's Log;Print;3;0
 Marouk, Sovereign of Acamar;U;Personnel;Non-Aligned;Second Edition;Print;3;0
+Marquay;C;Personnel;Federation;Captain's Log;Print;3;0
 Marshor;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Martia, Duplicitous Chameloid;U;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Martin Benbeck, Strict Interpreter;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Martin;C;Personnel;Federation;Second Edition;Print;3;0
 Martok Founder, Poison of the Empire;S;Personnel;Dominion;Call to Arms;Print;3;0
 Martok, Leader of Destiny;U;Personnel;Klingon;Call to Arms;Print;3;0
 Martok, Soldier of the Empire;R;Personnel;Klingon;Second Edition;Print;3;0
+Matthew Dougherty, Misguided Admiral;R;Personnel;Federation;Captain's Log;Print;3;0
 Mavek, Science Officer;U;Personnel;Cardassian;Call to Arms;Print;3;0
+Maxwell Forrest, Starfleet Executive;R;Personnel;Starfleet;To Boldly Go;Print;3;0
 McAllister C-5 Nebula, Mine Nebula;U;Mission;;Energize;Print;2;0
+McDermott;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Meaningless Modifications;C;Dilemma;;Strange New Worlds;Print;3;0
 Meaningless Words;C;Dilemma;;Energize;Print;3;0
 Means of Control;U;Interrupt;;Strange New Worlds;Print;3;0
@@ -701,10 +860,14 @@ Miradorn Raider;C;Ship;Non-Aligned;Second Edition;Print;3;0
 Mirok, Interphase Researcher;U;Personnel;Romulan;Energize;Print;3;0
 Misdirection;U;Event;;Necessary Evil;Print;3;0
 Misguided Activist;C;Dilemma;;Second Edition;Print;3;0
+Miss Sarda, Not a Legal Expert;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Mission Accomplished;U;Event;;Necessary Evil;Print;3;0
 Mission Briefing;S;Interrupt;;Second Edition;Print;3;0
 Modern Galor;C;Ship;Cardassian;Call to Arms;Print;3;0
+Modified Tricorder;U;Equipment;;Captain's Log;Print;3;0
+Molecular Mishap;R;Dilemma;;To Boldly Go;Print;3;0
 Molecular Reversion Field;R;Dilemma;;Strange New Worlds;Print;3;0
+Mondor, Far From Home;R;Ship;Non-Aligned;Captain's Log;Print;3;0
 Montgomery Scott, Relic;R;Personnel;Federation;Strange New Worlds;Print;3;0
 Mopak;C;Personnel;Romulan;Second Edition;Print;3;0
 Mora Pol, Pioneering Scientist;U;Personnel;Bajoran;Second Edition;Print;3;0
@@ -728,16 +891,23 @@ Natima Lang, Professor of Political Ethics;U;Personnel;Cardassian;Energize;Print
 Natural Instincts;U;Interrupt;;Necessary Evil;Print;3;0
 Nausicaan Pirates;C;Dilemma;;Energize;Print;3;0
 Nava;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
+Navigate Minefield;U;Mission;;To Boldly Go;Print;2;0
+Near Polaris, Survey New World;U;Mission;;To Boldly Go;Print;2;0
+Necessary Execution;C;Dilemma;;Captain's Log;Print;3;0
+Neelix, Morale Officer;R;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Negation Drone;U;Personnel;Borg;Call to Arms;Print;3;0
 Nel Apgar, Temperamental Researcher;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Nelvana Trap;R;Event;;Second Edition;Print;3;0
 Neral, Senate Proconsul;R;Personnel;Romulan;Energize;Print;3;0
 Nerot;C;Personnel;Cardassian;Call to Arms;Print;3;0
+New Discovery;U;Event;;Captain's Log;Print;3;0
+Nicholas Locarno, Nova Squadron Leader;U;Personnel;Federation;To Boldly Go;Print;3;0
 Niles;C;Personnel;Federation;Energize;Print;3;0
 No Escape;C;Event;;Necessary Evil;Print;3;0
 No Harm Done;P;Interrupt;;Reflections 2.0;Print;3;0
 No Love for the Spoon Heads;U;Event;;Second Edition;Print;3;0
 No Peace in Our Time;R;Event;;Second Edition;Print;3;0
+No-Win Situation;P;Event;;Genesis;Print;3;0
 Noble Cause;P;Event;;Fractured Time;Print;3;0
 Nog, Eager Cadet;R;Personnel;Federation;Second Edition;Print;3;0
 None Shall Pass;C;Dilemma;;Second Edition;Print;3;0
@@ -745,12 +915,17 @@ Noonien Soong, Often-Wrong;R;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Norah Satie, Starfleet Investigator;U;Personnel;Federation;Call to Arms;Print;3;0
 Noram;C;Personnel;Romulan;Second Edition;Print;3;0
 Noret'ikar;S;Personnel;Dominion;Call to Arms;Print;3;0
+Nose to Nose;C;Dilemma;;Captain's Log;Print;3;0
+Not Easily Destroyed;C;Event;;To Boldly Go;Print;3;0
+Not Quite Domesticated Pets;P;Dilemma;;Genesis;Print;3;0
 Nothing That Happens is Truly Random;U;Event;;Second Edition;Print;3;0
 Nu'Daq, Tenacious Rival;R;Personnel;Klingon;Second Edition;Print;3;0
 Nydrom;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
 O'Brien Founder, Agent Provocateur;U;Personnel;Dominion;Necessary Evil;Print;3;0
 Observation Drone;U;Personnel;Borg;Strange New Worlds;Print;3;0
+Observe Kazon Ritual;U;Mission;;Captain's Log;Print;2;0
 Observer from the Obsidian Order;U;Event;;Second Edition;Print;3;0
+Obtain Advanced Technology;U;Mission;;Captain's Log;Print;2;0
 Obtain Vaccine;U;Mission;;Strange New Worlds;Print;2;0
 Ocett, Dogged Rival;R;Personnel;Cardassian;Second Edition;Print;3;0
 Odera'Klen;C;Personnel;Dominion;Call to Arms;Print;3;0
@@ -766,12 +941,14 @@ One With the Borg;U;Event;;Call to Arms;Print;3;0
 One-Upsmanship;U;Interrupt;;Necessary Evil;Print;3;0
 Opaka, Kai of Bajor;R;Personnel;Bajoran;Second Edition;Print;3;0
 Operational Necessity;U;Interrupt;;Necessary Evil;Print;3;0
+Opportunity for Profit;U;Dilemma;;To Boldly Go;Print;3;0
 Opposition Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Order of the Bat'leth;U;Event;;Second Edition;Print;3;0
 Organized Terrorist Activities;R;Event;;Necessary Evil;Print;3;0
 Ornaran Threat;C;Dilemma;;Second Edition;Print;3;0
 Our Death is Glory to the Founders;R;Interrupt;;Call to Arms;Print;3;0
 Out of Options;P;Event;;Fractured Time;Print;3;0
+Outclassed;R;Dilemma;;To Boldly Go;Print;3;0
 Outlining the Stakes;R;Interrupt;;Necessary Evil;Print;3;0
 Outmatched;C;Dilemma;;Strange New Worlds;Print;3;0
 Overwhelmed;R;Dilemma;;Call to Arms;Print;3;0
@@ -779,6 +956,8 @@ Pacify Warring Factions;U;Mission;;Call to Arms;Print;2;0
 Palor Toff, Trader;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Palteth;C;Personnel;Romulan;Energize;Print;3;0
 Par Lenor, Lascivious Emissary;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
+Parallel Course;R;Event;;Captain's Log;Print;3;0
+Parallels;R;Dilemma;;To Boldly Go;Print;3;0
 Pardek, Betrayer;R;Personnel;Romulan;Call to Arms;Print;3;0
 Parem, Special Security;U;Personnel;Romulan;Necessary Evil;Print;3;0
 Parn;C;Personnel;Cardassian;Second Edition;Print;3;0
@@ -793,6 +972,8 @@ Peldor Joi;U;Event;;Energize;Print;3;0
 Personal Duty;R;Dilemma;;Second Edition;Print;3;0
 Personal Forcefield;C;Event;;Energize;Print;3;0
 Personal Transport;C;Ship;Ferengi;Strange New Worlds;Print;3;0
+Phase Pistol;C;Equipment;;To Boldly Go;Print;3;0
+Phlox, Alien Physiologist;R;Personnel;Starfleet;To Boldly Go;Print;3;0
 Picking Up the Basics;U;Event;;Energize;Print;3;0
 Picking Up the Pieces;U;Dilemma;;Energize;Print;3;0
 Pickpocket;C;Event;;Energize;Print;3;0
@@ -804,24 +985,30 @@ Plasma Shock;U;Dilemma;;Energize;Print;3;0
 Plot Invasion;U;Mission;;Call to Arms;Print;2;0
 Point Blank Strike;U;Event;;Second Edition;Print;3;0
 Political Leverage;U;Event;;Energize;Print;3;0
+Political Putsch;R;Event;;Captain's Log;Print;3;0
 Porta, Advisor to the Emissary;R;Personnel;Bajoran;Call to Arms;Print;3;0
 Power Shift;U;Event;;Necessary Evil;Print;3;0
 Power to the Shields;U;Interrupt;;Second Edition;Print;3;0
 Power to the Weapons;C;Event;;Energize;Print;3;0
 Powerful Example;R;Interrupt;;Energize;Print;3;0
+Practice Orbital Maneuvers;U;Mission;;To Boldly Go;Print;2;0
 Prakesh;U;Ship;Cardassian;Second Edition;Print;3;0
 Pran Tainer, Atrean Seismologist;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Precautionary Measures;U;Interrupt;;Energize;Print;3;0
 Precise Attack;U;Event;;Second Edition;Print;3;0
+Preeminent Precision;U;Event;;To Boldly Go;Print;3;0
 Prejudice and Politics;U;Event;;Second Edition;Print;3;0
 Preservation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Preventative Ritual;U;Interrupt;;Captain's Log;Print;3;0
 Primitive Culture;U;Dilemma;;Second Edition;Print;3;0
 Prison Compound;R;Event;;Necessary Evil;Print;3;0
 Process Identification;U;Event;;Second Edition;Print;3;0
+Profitable Venture;U;Dilemma;;To Boldly Go;Print;3;0
 Protection of the Tal Shiar;U;Interrupt;;Second Edition;Print;3;0
 Provoked Attack;R;Event;;Strange New Worlds;Print;3;0
 Proximity-Actuated Field;R;Dilemma;;Strange New Worlds;Print;3;0
 Pseudopod;R;Interrupt;;Call to Arms;Print;3;0
+Psionic Attack;R;Dilemma;;Captain's Log;Print;3;0
 Psych Test;U;Dilemma;;Strange New Worlds;Print;3;0
 Psychic Receptacle;U;Dilemma;;Call to Arms;Print;3;0
 Psycho-Kinetic Attack;S;Dilemma;;Call to Arms;Print;3;0
@@ -836,20 +1023,27 @@ Quantum Filament;R;Dilemma;;Call to Arms;Print;3;0
 Quantum Incursions;P;Event;;Fractured Time;Print;3;0
 Quantum Slipstream Drive;C;Interrupt;;Second Edition;Print;3;0
 Quarantine;P;Event;;Fractured Time;Print;3;0
+Quark's Treasure, Sabotaged Shuttle;R;Ship;Ferengi;Captain's Log;Print;3;0
+Quark, Little Green Man;R;Personnel;Ferengi;Captain's Log;Print;3;0
 Quark, Resistance Informant;R;Personnel;Ferengi;Call to Arms;Print;3;0
+Quark, Son of Keldar;U;Personnel;Klingon;To Boldly Go;Print;3;0
 Quark, True Ferengi;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Quarrel;C;Dilemma;;Strange New Worlds;Print;3;0
 Quarren Labor Shortage;U;Dilemma;;Second Edition;Print;3;0
 Queen's Borg Cube;P;Ship;Borg;Tenth Anniversary Collection;Print;3;0
+Queen's Borg Sphere, Contingency Vessel;P;Ship;Borg;Genesis;Print;3;0
 Quest for the Sword of Kahless;U;Mission;;Second Edition;Print;2;0
 Quintessence;P;Event;;Reflections 2.0;Print;3;0
 Quite a Coincidence;C;Event;;Call to Arms;Print;3;0
+Raakin, Dominant Augment;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Rabal;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Rachel Garrett, Displaced Captain;U;Personnel;Federation;Captain's Log;Print;3;0
 Racial Tension;C;Dilemma;;Energize;Print;3;0
 Raimus, Criminal Master;U;Personnel;Non-Aligned;Energize;Print;3;0
 Rak'tazan;C;Personnel;Dominion;Call to Arms;Print;3;0
 Ranjen Koral, Student of B'hala;U;Personnel;Bajoran;Second Edition;Print;3;0
 Rash Aggression;C;Event;;Energize;Print;3;0
+Rata, Profiteer;C;Personnel;Ferengi;Captain's Log;Print;3;0
 Razka Karn, Scavenger;C;Personnel;Bajoran;Necessary Evil;Print;3;0
 Rebecca Sullivan, Resistance Fighter;R;Personnel;Federation;Energize;Print;3;0
 Reborn;U;Interrupt;;Necessary Evil;Print;3;0
@@ -866,6 +1060,8 @@ Reinforcement Drone;U;Personnel;Borg;Strange New Worlds;Print;3;0
 Reklar;R;Ship;Cardassian;Second Edition;Print;3;0
 Relam;C;Personnel;Romulan;Necessary Evil;Print;3;0
 Relentless;R;Interrupt;;Energize;Print;3;0
+Reman Subterfuge;R;Event;;To Boldly Go;Print;3;0
+Remarkable Regeneration;R;Event;;To Boldly Go;Print;3;0
 Remata'Klan, Unit Leader;R;Personnel;Dominion;Call to Arms;Print;3;0
 Remus, Supervise Dilithium Mine;S;Mission;;Second Edition;Print;2;0
 Render Assistance;S;Interrupt;;Second Edition;Print;3;0
@@ -877,9 +1073,12 @@ Research Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Resistance Tactics;R;Event;;Second Edition;Print;3;0
 Ressikan Flute;R;Event;;Necessary Evil;Print;3;0
 Restock Ketracel-White;U;Mission;;Call to Arms;Print;2;0
+Restorative Responsibility;C;Event;;To Boldly Go;Print;3;0
 Restricted Area;U;Dilemma;;Call to Arms;Print;3;0
 Retaliation;R;Event;;Energize;Print;3;0
 Retaya, Urbane Poisoner;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Retrieve Materiel;U;Mission;;To Boldly Go;Print;2;0
+Revelry;R;Dilemma;;Dangerous Missions;Print;3;0
 Riley Shepard, Confident Cadet;C;Personnel;Federation;Necessary Evil;Print;3;0
 Riva, Respected Mediator;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Rixx;C;Personnel;Federation;Second Edition;Print;3;0
@@ -899,8 +1098,10 @@ Romulan Scout Vessel;C;Ship;Romulan;Second Edition;Print;3;0
 Romulus, Seat of Power;S;Mission;;Second Edition;Print;2;0
 Rovaran;P;Ship;Romulan;Tenth Anniversary Collection;Print;3;0
 Ruk, Old One Servitor;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
+Rule of Acquisition #102;U;Event;;To Boldly Go;Print;3;0
 Rule of Acquisition #141;R;Event;;Strange New Worlds;Print;3;0
 Rule of Acquisition #144;R;Event;;Strange New Worlds;Print;3;0
+Rule of Acquisition #16;R;Event;;Captain's Log;Print;3;0
 Rule of Acquisition #22;C;Event;;Strange New Worlds;Print;3;0
 Rule of Acquisition #6;R;Event;;Strange New Worlds;Print;3;0
 Rule of Acquisition #76;C;Event;;Strange New Worlds;Print;3;0
@@ -908,18 +1109,24 @@ Runabout Search;U;Mission;;Second Edition;Print;2;0
 Running a Tight Ship;R;Event;;Necessary Evil;Print;3;0
 Rusot, Proud Nationalist;U;Personnel;Cardassian;Necessary Evil;Print;3;0
 Ruwon, Intelligence Analyst;R;Personnel;Romulan;Call to Arms;Print;3;0
+Saavik, Protégée;P;Personnel;Federation;Genesis;Print;3;0
 Sabotage Program;U;Event;;Call to Arms;Print;3;0
+Sabotaged Reactor;C;Dilemma;;Captain's Log;Print;3;0
 Sabrun;C;Personnel;Romulan;Second Edition;Print;3;0
 Sakonna, Gunrunner;R;Personnel;Non-Aligned;Energize;Print;3;0
 Salvage Borg Ship;S;Mission;;Call to Arms;Print;2;0
 Salvaging the Wreckage;C;Event;;Energize;Print;3;0
+Samantha Wildman, First Mother on Voyager;U;Personnel;Federation;Captain's Log;Print;3;0
 Santos, Squad Leader;P;Personnel;Federation;Reflections 2.0;Print;3;0
+Sarajevo, Starfleet Vessel;C;Ship;Starfleet;To Boldly Go;Print;3;0
 Sarina Douglas, Cataleptic Conundrum;U;Personnel;Federation;Call to Arms;Print;3;0
 Sark;C;Personnel;Non-Aligned;Energize;Print;3;0
 Science PADD;C;Equipment;;Second Edition;Print;3;0
 Scimitar, Predator;R;Ship;Romulan;Second Edition;Print;3;0
+Seal the Temple's Door;C;Event;;To Boldly Go;Print;3;0
 Search and Rescue;U;Mission;;Second Edition;Print;2;0
 Search for Survivors;S;Mission;;Second Edition;Print;2;0
+Second, Neonatal Drone;R;Personnel;Borg;Captain's Log;Print;3;0
 Secret Conspiracy;R;Interrupt;;Second Edition;Print;3;0
 Secret Identity;U;Dilemma;;Call to Arms;Print;3;0
 Security Briefing;S;Mission;;Second Edition;Print;2;0
@@ -937,12 +1144,14 @@ Sensor Sweep;U;Interrupt;;Second Edition;Print;3;0
 Sermon;R;Interrupt;;Second Edition;Print;3;0
 Serova, Warp Field Theorist;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Serrola;R;Ship;Romulan;Second Edition;Print;3;0
+Seska, Cardassian Agent;U;Personnel;Federation;Captain's Log;Print;3;0
 Seskal, Comrade in Arms;U;Personnel;Cardassian;Necessary Evil;Print;3;0
 Set Up;R;Event;;Call to Arms;Print;3;0
 Setek;C;Personnel;Romulan;Necessary Evil;Print;3;0
 Seth Matthews, Red Squad Cadet;C;Personnel;Federation;Necessary Evil;Print;3;0
 Seth Mendoza;C;Personnel;Federation;Second Edition;Print;3;0
 Seven of Nine, Part of the Greater Whole;R;Personnel;Borg;Call to Arms;Print;3;0
+Seven of Nine, Reclaimed Drone;C;Personnel;Federation;Captain's Log;Print;3;0
 Seven of Nine, Representative of the Hive;S;Personnel;Borg;Call to Arms;Print;3;0
 Severed Link;C;Event;;Call to Arms;Print;3;0
 Shadow Operation;R;Event;;Energize;Print;3;0
@@ -954,16 +1163,24 @@ Sharat;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
 Shared Delicacy;U;Interrupt;;Energize;Print;3;0
 Shared Problems;C;Event;;Necessary Evil;Print;3;0
 Sheer Lunacy;C;Dilemma;;Call to Arms;Print;3;0
+Shields Up!;R;Dilemma;;Dangerous Missions;Print;3;0
 Shinzon, Capable Commander;R;Personnel;Romulan;Second Edition;Print;3;0
+Shinzon, Reman Leader;C;Personnel;Romulan;To Boldly Go;Print;3;0
 Shinzon, Romulan Praetor;S;Personnel;Romulan;Second Edition;Print;3;0
 Shipboard Fire;P;Dilemma;;Reflections 2.0;Print;3;0
 Short Circuit;U;Dilemma;;Necessary Evil;Print;3;0
+Shran, In Archer's Debt;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
+Shran, Reluctant Diplomat;U;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Shri-tal;P;Interrupt;;Reflections 2.0;Print;3;0
+Shuttlepod One, Reliable Transport;R;Ship;Starfleet;To Boldly Go;Print;3;0
+Shuttlepod Two, Landing Craft;R;Ship;Starfleet;To Boldly Go;Print;3;0
 Sickbay;U;Event;;Energize;Print;3;0
 Side by Side;U;Dilemma;;Necessary Evil;Print;3;0
 Sigmund Freud, Father of Psychoanalysis;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Signal for Rescue;U;Mission;;Call to Arms;Print;2;0
+Silik, Chameleon;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Sirol, Diplomatic Adversary;R;Personnel;Romulan;Energize;Print;3;0
+Sito Jaxa, Nova Squadron Pilot;C;Personnel;Federation;To Boldly Go;Print;3;0
 Skeleton Crew;U;Dilemma;;Call to Arms;Print;3;0
 Skron;C;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Skullduggery;U;Dilemma;;Second Edition;Print;3;0
@@ -982,12 +1199,16 @@ Souls of the Dead;C;Interrupt;;Second Edition;Print;3;0
 Sovak, Treasure Hunter;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Sphere 634;P;Ship;Borg;Fractured Time;Print;3;0
 Spock, Celebrated Ambassador;R;Personnel;Romulan;Strange New Worlds;Print;3;0
+Spock, Trainee Instructor;P;Personnel;Federation;Genesis;Print;3;0
 Spreading Fear;P;Event;;Fractured Time;Print;3;0
+Stadi, Focused;C;Personnel;Federation;Captain's Log;Print;3;0
 Stage Bombardment;U;Mission;;Call to Arms;Print;2;0
 Stalling for Time;P;Event;;Reflections 2.0;Print;3;0
+Stand-Off;C;Dilemma;;Captain's Log;Print;3;0
 Standard Cardassian Procedure;U;Event;;Second Edition;Print;3;0
 Standing Your Ground;C;Event;;Necessary Evil;Print;3;0
 Starfleet Type-2 Phaser;U;Equipment;;Second Edition;Print;3;0
+Starting Over;U;Event;;Captain's Log;Print;3;0
 Staunch Determination;U;Event;;Energize;Print;3;0
 Stay Where Thou Art;U;Dilemma;;Strange New Worlds;Print;3;0
 Stealth Mission;P;Event;;Reflections 2.0;Print;3;0
@@ -996,27 +1217,36 @@ Stellar Core Fragment;C;Dilemma;;Second Edition;Print;3;0
 Stir Crazy;C;Event;;Call to Arms;Print;3;0
 Stolen Computer Core;U;Dilemma;;Energize;Print;3;0
 Storage Compartment;R;Event;;Necessary Evil;Print;3;0
+Strafing Fire;R;Event;;To Boldly Go;Print;3;0
 Straying from the Path;R;Event;;Energize;Print;3;0
 Strength for Our Struggle;P;Interrupt;;Reflections 2.0;Print;3;0
 Stricken Dumb;U;Interrupt;;Energize;Print;3;0
 Study Cometary Cloud;S;Mission;;Second Edition;Print;2;0
 Study Rare Phenomenon;U;Mission;;Call to Arms;Print;2;0
 Subspace Accident;C;Dilemma;;Energize;Print;3;0
+Subterranean Barrier;P;Dilemma;;Genesis;Print;3;0
 Sunad;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Suran, Ambitious Commander;R;Personnel;Romulan;Second Edition;Print;3;0
 Surgery Under Fire;S;Mission;;Second Edition;Print;2;0
 Surmak Ren, Medical Administrator;U;Personnel;Bajoran;Necessary Evil;Print;3;0
+Surprise Snag;R;Interrupt;;Captain's Log;Print;3;0
 Survey Star System;S;Mission;;Call to Arms;Print;2;0
 Swagger;C;Interrupt;;Strange New Worlds;Print;3;0
+Sweet Nothings;C;Interrupt;;Captain's Log;Print;3;0
+Symbalene Blood Burn;C;Dilemma;;Captain's Log;Print;3;0
 Symbol of Devotion;U;Interrupt;;Second Edition;Print;3;0
 Sympathetic Magic;R;Dilemma;;Second Edition;Print;3;0
 Systems Diagnostic;C;Dilemma;;Second Edition;Print;3;0
 T'Lani Munitions Ship;C;Ship;Non-Aligned;Second Edition;Print;3;0
 T'Lara;C;Personnel;Federation;Second Edition;Print;3;0
 T'Lor;C;Personnel;Federation;Second Edition;Print;3;0
+T'Pol, Austere Commander;C;Personnel;Starfleet;To Boldly Go;Print;3;0
+T'Pol, Non-believer;R;Personnel;Starfleet;Dangerous Missions;Print;3;0
+T'Pol, Subcommander;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 T'Rul, Curt Subcommander;U;Personnel;Romulan;Energize;Print;3;0
 T'vis;C;Personnel;Klingon;Second Edition;Print;3;0
 Taar, Bristling DaiMon;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
+Tactical Disadvantage;R;Dilemma;;To Boldly Go;Print;3;0
 Tactical Planning;U;Event;;Second Edition;Print;3;0
 Tahna Los, Voice of the Kohn-Ma;U;Personnel;Bajoran;Call to Arms;Print;3;0
 Taken Prisoner;U;Event;;Second Edition;Print;3;0
@@ -1024,13 +1254,16 @@ Tal'Aura, Impatient Senator;R;Personnel;Romulan;Second Edition;Print;3;0
 Talnot;U;Ship;Bajoran;Necessary Evil;Print;3;0
 Talosian Trial;R;Dilemma;;Necessary Evil;Print;3;0
 Talvin;C;Personnel;Romulan;Second Edition;Print;3;0
+Tam Elbrun, Prodigal Telepath;R;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Tama;U;Ship;Non-Aligned;Energize;Print;3;0
 Tamal, Technician;C;Personnel;Federation;Necessary Evil;Print;3;0
 Tamarian Vessel;C;Ship;Non-Aligned;Second Edition;Print;3;0
 Tamarith, Reformist;U;Personnel;Romulan;Necessary Evil;Print;3;0
 Tampering With Time;P;Event;;Fractured Time;Print;3;0
 Tapestry;R;Event;;Second Edition;Print;3;0
+Target Practice;C;Event;;To Boldly Go;Print;3;0
 Targeted for Assimilation;U;Event;;Necessary Evil;Print;3;0
+Targeting the Nacelles;U;Interrupt;;Captain's Log;Print;3;0
 Taris, Deceitful Subcommander;U;Personnel;Romulan;Second Edition;Print;3;0
 Tasha Yar, Chief of Security;R;Personnel;Federation;Second Edition;Print;3;0
 Tasha Yar, Tactical Officer;P;Personnel;Federation;Fractured Time;Print;3;0
@@ -1040,8 +1273,11 @@ Tebok, Posturing Commander;C;Personnel;Romulan;Strange New Worlds;Print;3;0
 Tekeny Ghemor, Prominent Official;R;Personnel;Cardassian;Strange New Worlds;Print;3;0
 Telek R'Mor, Astrophysical Researcher;R;Personnel;Romulan;Second Edition;Print;3;0
 Telepathic Deception;C;Dilemma;;Energize;Print;3;0
+Telepathic Invasion;U;Dilemma;;To Boldly Go;Print;3;0
 Temarek;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Temba, His Arms Wide;U;Event;;Energize;Print;3;0
+Temporal Conduit;C;Dilemma;;Captain's Log;Print;3;0
+Temporal Delineation;R;Interrupt;;To Boldly Go;Print;3;0
 Temporal Incursion;R;Event;;Strange New Worlds;Print;3;0
 Temporal Misalignment;P;Dilemma;;Fractured Time;Print;3;0
 Temporal Test Subject;P;Event;;Fractured Time;Print;3;0
@@ -1051,19 +1287,26 @@ Tenak'talar, Weyoun's Warship;R;Ship;Dominion;Call to Arms;Print;3;0
 Tense Negotiations;C;Dilemma;;Second Edition;Print;3;0
 Terix;R;Ship;Romulan;Energize;Print;3;0
 Test of Wisdom;C;Dilemma;;Necessary Evil;Print;3;0
+That's the Last Time;C;Event;;To Boldly Go;Print;3;0
 The Albino, Killer of Children;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 The Blight;R;Event;;Call to Arms;Print;3;0
+The Caretaker's "Guests";P;Dilemma;;Genesis;Print;3;0
 The Clown: Bitter Medicine;P;Dilemma;;Fractured Time;Print;3;0
 The Crystalline Entity;R;Event;;Call to Arms;Print;3;0
 The Demands of Duty;R;Dilemma;;Call to Arms;Print;3;0
+The Doctor, Emergency Medical Hologram;R;Personnel;Federation;Captain's Log;Print;3;0
+The Dominion Will Prevail;R;Event;;Captain's Log;Print;3;0
 The Dreamer and the Dream;R;Dilemma;;Necessary Evil;Print;3;0
 The Edge of Forever;P;Event;;Fractured Time;Print;3;0
 The Enterprise Incident;R;Event;;Call to Arms;Print;3;0
 The First of Many;C;Interrupt;;Necessary Evil;Print;3;0
 The Founder is Wise;C;Interrupt;;Call to Arms;Print;3;0
+The Genesis Effect;P;Event;;Genesis;Print;3;0
 The Key to Victory;C;Event;;Necessary Evil;Print;3;0
+The Long Journey Home;R;Event;;Captain's Log;Print;3;0
 The Manheim Effect;R;Event;;Call to Arms;Print;3;0
 The Moon's a Window to Heaven;R;Dilemma;;Second Edition;Print;3;0
+The Muse;R;Event;;To Boldly Go;Print;3;0
 The New Resistance;P;Event;;Reflections 2.0;Print;3;0
 The Order of Things;C;Interrupt;;Necessary Evil;Print;3;0
 The Orion Underworld;R;Event;;Second Edition;Print;3;0
@@ -1076,6 +1319,7 @@ The Reman Mines;U;Event;;Second Edition;Print;3;0
 The Rite of Emergence;R;Interrupt;;Necessary Evil;Print;3;0
 The Siege of AR-558;U;Mission;;Call to Arms;Print;2;0
 The Sirah, The Storyteller;U;Personnel;Bajoran;Energize;Print;3;0
+The Spirit of Kahless;R;Event;;Captain's Log;Print;3;0
 The Stone of Gol;U;Equipment;;Necessary Evil;Print;3;0
 The Sword of Kahless;R;Equipment;;Necessary Evil;Print;3;0
 The Text of the Kosst Amojan;R;Event;;Energize;Print;3;0
@@ -1084,19 +1328,27 @@ The Tides of Fortune;U;Interrupt;;Second Edition;Print;3;0
 The Traveler, Transcendent Explorer;P;Personnel;Non-Aligned;Fractured Time;Print;3;0
 The Trial Never Ended;U;Event;;Call to Arms;Print;3;0
 The Truth of War;C;Interrupt;;Energize;Print;3;0
+The Viceroy, Advisor to the Praetor;R;Personnel;Romulan;Captain's Log;Print;3;0
 The Viceroy, Shinzon's Protector;R;Personnel;Romulan;Second Edition;Print;3;0
 The Will of the Collective;U;Event;;Call to Arms;Print;3;0
+Thermokinetic Explosion;R;Dilemma;;Captain's Log;Print;3;0
 Thexor;S;Personnel;Romulan;Second Edition;Print;3;0
+Third, Neonatal Drone;R;Personnel;Borg;To Boldly Go;Print;3;0
 Tholun;C;Personnel;Dominion;Call to Arms;Print;3;0
 Thomas Riker, Defiant Leader;R;Personnel;Federation;Energize;Print;3;0
+Thon;R;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Thorel;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Thought Maker;R;Event;;Necessary Evil;Print;3;0
+Thrax, Chief of Security;R;Personnel;Cardassian;To Boldly Go;Print;3;0
 Ties of Blood and Water;S;Interrupt;;Second Edition;Print;3;0
 Tim Watters, Valiant Captain;U;Personnel;Federation;Necessary Evil;Print;3;0
 Timescape;C;Dilemma;;Energize;Print;3;0
 To Boldly Go;U;Event;;Second Edition;Print;3;0
+Tog, Lecherous DaiMon;U;Personnel;Ferengi;Captain's Log;Print;3;0
 Togaran;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Tolian Soran, Renegade Scientist;R;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
+Tom Paris, "Starfleet Observer";P;Personnel;Federation;Genesis;Print;3;0
+Tom Paris, Best Pilot You Could Have;R;Personnel;Federation;Captain's Log;Print;3;0
 Tomalak, Beguiling Adversary;R;Personnel;Romulan;Second Edition;Print;3;0
 Tomalak, Irate Commander;P;Personnel;Romulan;Fractured Time;Print;3;0
 Tongo: Confront;U;Event;;Strange New Worlds;Print;3;0
@@ -1109,11 +1361,15 @@ Torture;U;Interrupt;;Second Edition;Print;3;0
 Tosk, The Hunted;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Tozara'Kesh;C;Personnel;Dominion;Call to Arms;Print;3;0
 Trabe Grenade;C;Dilemma;;Second Edition;Print;3;0
+Trager, Patrol Ship;R;Ship;Cardassian;Captain's Log;Print;3;0
 Tragic Turn;P;Dilemma;;Fractured Time;Print;3;0
 Training Accident;R;Dilemma;;Energize;Print;3;0
 Traitor Exposed;C;Dilemma;;Energize;Print;3;0
+Transporter Buffer;C;Event;;To Boldly Go;Print;3;0
 Transwarp Conduit;P;Interrupt;;Reflections 2.0;Print;3;0
 Transwarp Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Traverse Ion Storm;U;Mission;;To Boldly Go;Print;2;0
+Travis Mayweather, Space Boomer;R;Personnel;Starfleet;To Boldly Go;Print;3;0
 Trazko, Hired Muscle;R;Personnel;Bajoran;Second Edition;Print;3;0
 Treat Plague Ship;U;Mission;;Energize;Print;2;0
 Treyam, Militia Soldier;C;Personnel;Bajoran;Necessary Evil;Print;3;0
@@ -1123,23 +1379,39 @@ Tribunal Sentencing;P;Event;;Reflections 2.0;Print;3;0
 Tricorder;C;Equipment;;Second Edition;Print;3;0
 Trolarak;R;Ship;Romulan;Energize;Print;3;0
 Tsiolkovsky Infection;R;Dilemma;;Necessary Evil;Print;3;0
+Turan'Ekan;C;Personnel;Dominion;To Boldly Go;Print;3;0
+Tuvok, Chief of Security;R;Personnel;Federation;Captain's Log;Print;3;0
+Tuvok, Undercover;P;Personnel;Federation;Genesis;Print;3;0
 Twist of Fate;R;Interrupt;;Second Edition;Print;3;0
 Ty Kajada, Relentless Investigator;S;Personnel;Non-Aligned;Second Edition;Print;3;0
 U.S.S. Akira;S;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Defiant, Commandeered Warship;P;Ship;Dominion;Tenth Anniversary Collection;Print;3;0
+U.S.S. Defiant, Patrolling Warship;R;Ship;Federation;Captain's Log;Print;3;0
 U.S.S. Defiant, Prototype Warship;R;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Defiant, Repurposed Warship;P;Ship;Federation;Reflections 2.0;Print;3;0
 U.S.S. Defiant, Stolen Warship;R;Ship;Federation;Call to Arms;Print;3;0
+U.S.S. Enterprise, Earth's Savior;P;Ship;Federation;Genesis;Print;3;0
+U.S.S. Enterprise-C, Yesterday's Enterprise;R;Ship;Federation;Captain's Log;Print;3;0
 U.S.S. Enterprise-D, Explorer;P;Ship;Federation;Tenth Anniversary Collection;Print;3;0
+U.S.S. Enterprise-D, Federation Flagship;R;Ship;Federation;Dangerous Missions;Print;3;0
 U.S.S. Enterprise-D, Personal Flagship;P;Ship;Federation;Fractured Time;Print;3;0
 U.S.S. Enterprise-E, Federation Envoy;R;Ship;Federation;Second Edition;Print;3;0
+U.S.S. Enterprise-E, Flagship of the Federation;R;Ship;Federation;Captain's Log;Print;3;0
 U.S.S. Excelsior;C;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Galaxy;C;Ship;Federation;Second Edition;Print;3;0
+U.S.S. Ganges, One of the First;R;Ship;Federation;To Boldly Go;Print;3;0
 U.S.S. Nebula;S;Ship;Federation;Second Edition;Print;3;0
+U.S.S. Rio Grande, Built to Last;R;Ship;Federation;To Boldly Go;Print;3;0
 U.S.S. Sovereign;U;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Sutherland;P;Ship;Federation;Tenth Anniversary Collection;Print;3;0
 U.S.S. Valiant, Red Squad Training Ship;U;Ship;Federation;Necessary Evil;Print;3;0
+U.S.S. Voyager, Home Away From Home;C;Ship;Federation;Captain's Log;Print;3;0
+U.S.S. Yangtzee Kiang, Modified Transport;R;Ship;Federation;Captain's Log;Print;3;0
+Ulani Belor, Senior Cardassian Scientist;C;Personnel;Cardassian;To Boldly Go;Print;3;0
+Umat'Adan, Eager Fifth;C;Personnel;Dominion;Captain's Log;Print;3;0
+Unbelievable Emergency;P;Dilemma;;Genesis;Print;3;0
 Uncover DNA Clues;U;Mission;;Second Edition;Print;2;0
+Under Pressure;U;Dilemma;;Captain's Log;Print;3;0
 Under Scrutiny;R;Event;;Energize;Print;3;0
 Under Suspicion;U;Event;;Call to Arms;Print;3;0
 Undercover Resource;U;Event;;Necessary Evil;Print;3;0
@@ -1151,6 +1423,7 @@ Unknown Microorganism;P;Dilemma;;Reflections 2.0;Print;3;0
 Unscientific Method;R;Dilemma;;Second Edition;Print;3;0
 Unseen Manipulations;U;Event;;Energize;Print;3;0
 Unyielding;P;Event;;Fractured Time;Print;3;0
+Up the Ante;R;Dilemma;;To Boldly Go;Print;3;0
 Urgency;P;Dilemma;;Reflections 2.0;Print;3;0
 VIP Welcome;C;Event;;Necessary Evil;Print;3;0
 Valdore;R;Ship;Romulan;Second Edition;Print;3;0
@@ -1163,6 +1436,7 @@ Varria, Lavishly Rewarded Aide;C;Personnel;Non-Aligned;Strange New Worlds;Print;
 Vash, Treasure Hunter;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Vast Resources;U;Event;;Energize;Print;3;0
 Vastly Outnumbered;U;Dilemma;;Second Edition;Print;3;0
+Vedek Assembly Transport;R;Ship;Bajoran;Dangerous Missions;Print;3;0
 Vedek Assembly;U;Event;;Strange New Worlds;Print;3;0
 Veiled Threat;U;Interrupt;;Strange New Worlds;Print;3;0
 Vekor;C;Personnel;Non-Aligned;Energize;Print;3;0
@@ -1177,16 +1451,22 @@ Visionary;R;Event;;Energize;Print;3;0
 Volnoth;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Vorax;C;Personnel;Klingon;Second Edition;Print;3;0
 Vorta Cloning;C;Event;;Call to Arms;Print;3;0
+Vosk, Temporal Fanatic;U;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Vreenak, Tal Shiar Chairman;R;Personnel;Romulan;Second Edition;Print;3;0
+Vulcan Tricorder;U;Equipment;;To Boldly Go;Print;3;0
+Warp Bubble Mishap;C;Dilemma;;To Boldly Go;Print;3;0
+Warp Speed Transfer;R;Interrupt;;Captain's Log;Print;3;0
 Warrior's Birthright;C;Event;;Second Edition;Print;3;0
 Wavefront;C;Dilemma;;Second Edition;Print;3;0
 We Are Back;C;Event;;Necessary Evil;Print;3;0
 We Are Klingon;U;Interrupt;;Energize;Print;3;0
 We Will Not Surrender;U;Event;;Energize;Print;3;0
+We're All On Strike;U;Event;;To Boldly Go;Print;3;0
 We're Everywhere;C;Interrupt;;Call to Arms;Print;3;0
 We're Mutants;U;Event;;Call to Arms;Print;3;0
 Weld Ram;C;Personnel;Bajoran;Second Edition;Print;3;0
 Well-Crafted Lure;U;Interrupt;;Energize;Print;3;0
+Wesley Crusher, Nova Squadron Pilot;R;Personnel;Federation;To Boldly Go;Print;3;0
 Wesley Crusher, Prodigy;R;Personnel;Federation;Second Edition;Print;3;0
 Weyoun, Instrument of the Founders;U;Personnel;Dominion;Call to Arms;Print;3;0
 Weyoun, Loyal Subject of the Dominion;R;Personnel;Dominion;Call to Arms;Print;3;0
@@ -1197,7 +1477,9 @@ William Patrick Samuels, Maquis Saboteur;U;Personnel;Federation;Energize;Print;3
 William T. Riker, Exchange Officer;R;Personnel;Klingon;Necessary Evil;Print;3;0
 William T. Riker, First Officer;R;Personnel;Federation;Necessary Evil;Print;3;0
 William T. Riker, Number One;S;Personnel;Federation;Second Edition;Print;3;0
+William T. Riker, Skilled Commander;R;Personnel;Federation;Dangerous Missions;Print;3;0
 William T. Riker, Wistful Admiral;P;Personnel;Federation;Reflections 2.0;Print;3;0
+Williams, Starfleet Commander;U;Personnel;Starfleet;To Boldly Go;Print;3;0
 Winn Adami, Devious Manipulator;R;Personnel;Bajoran;Energize;Print;3;0
 Winn Adami, Kai of Bajor;U;Personnel;Bajoran;Second Edition;Print;3;0
 Worf, Conn Officer;U;Personnel;Federation;Necessary Evil;Print;3;0
@@ -1206,6 +1488,7 @@ Worf, Regent of the Alliance;P;Personnel;Klingon;Fractured Time;Print;3;0
 Worf, Security Detail Leader;S;Personnel;Federation;Second Edition;Print;3;0
 Worf, Son of Mogh;P;Personnel;Klingon;Reflections 2.0;Print;3;0
 Worf, Strategic Operations Officer;S;Personnel;Federation;Second Edition;Print;3;0
+Worf, The Strongest Heart;U;Personnel;Klingon;Captain's Log;Print;3;0
 Wormhole Negotiations;U;Mission;;Second Edition;Print;2;0
 Worn-Out Welcome;P;Dilemma;;Reflections 2.0;Print;3;0
 Worth the Price;C;Event;;Strange New Worlds;Print;3;0
@@ -1219,4 +1502,7 @@ You Could Be Invaluable;U;Interrupt;;Call to Arms;Print;3;0
 You've Always Been My Favorite;R;Event;;Necessary Evil;Print;3;0
 Your Fear Will Destroy You;U;Event;;Necessary Evil;Print;3;0
 Your Moment is Fading;C;Dilemma;;Necessary Evil;Print;3;0
+Zayra, Bigoted Witness;C;Personnel;Bajoran;Captain's Log;Print;3;0
+Zefram Cochrane, Ready to Make History;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 Zek, The Grand Nagus;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
+Zero Hour;R;Dilemma;;To Boldly Go;Print;3;0
