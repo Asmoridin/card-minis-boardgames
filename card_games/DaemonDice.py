@@ -6,8 +6,12 @@ GAME_NAME = "Daemon Dice"
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/DaemonDiceData.txt', 'r')
+    sys.path.append('.')
+    from utils.output_utils import double_print
 else:
     file_h = open('DB/DaemonDiceData.txt', 'r')
+    sys.path.append('.')
+    from utils.output_utils import double_print
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -66,11 +70,8 @@ if __name__=="__main__":
     else:
         out_file_h = open("output/DaemonDiceOut.txt", 'w')
 
-    print("Have %d out of %d - %.2f percent" % (total_own, total_max, 100*total_own/total_max))
-    out_file_h.write("Have %d out of %d - %.2f percent\n" % (total_own, total_max, 100*total_own/total_max))
-
-    print("Buy a %s (have %d out of %d)" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]))
-    out_file_h.write("Buy a %s (have %d out of %d)\n" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]))
+    double_print("Have %d out of %d - %.2f percent" % (total_own, total_max, 100*total_own/total_max), out_file_h)
+    double_print("Buy a %s (have %d out of %d)" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]), out_file_h)
 
     out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):

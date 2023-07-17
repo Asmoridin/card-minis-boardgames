@@ -1,17 +1,24 @@
 #!/usr/bin/python3
 
 import os, sys
+import DaemonDice, DragonDice, StarTrekSecondEdition
 
-import DaemonDice, DragonDice
+
+if os.getcwd().endswith('card-minis-boardgames'):
+    sys.path.append('.')
+    from utils.output_utils import double_print
+else:
+    sys.path.append('.')
+    from utils.output_utils import double_print
 
 #print("\033[96mTest.\033[0m")
 
 total_have = 0
 total_max = 0
-new_games_started = 1
+new_games_started = 2
 game_data = []
 
-started_games = [DaemonDice, DragonDice]
+started_games = [DaemonDice, DragonDice, StarTrekSecondEdition]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     in_file = open("card_games/DB/NewCardGames.txt")
@@ -37,14 +44,11 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/CCGSummaryOut.txt", 'w')
     total_string = "Totaling %d games, owning %d out of %d (%.2f percent)" % (len(game_data) - 1, total_have, total_max, total_have * 100 /total_max)
-    print(total_string)
-    out_file_h.write(total_string + "\n")
+    double_print(total_string, out_file_h)
     lowest_game_string = "Lowest game is %s at %.2f percent (%d / %d)" % (game_data[0][0], (game_data[0][1]*100/game_data[0][2]), game_data[0][1], game_data[0][2])
-    print(lowest_game_string)
-    out_file_h.write(lowest_game_string + "\n")
+    double_print(lowest_game_string, out_file_h)
     next_lowest_string = "- (Next lowest game is %.2f percent)" % (game_data[1][1] * 100 / game_data[1][2])
-    print(next_lowest_string)
-    out_file_h.write(next_lowest_string + "\n")
+    double_print(next_lowest_string, out_file_h)
 
     out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):

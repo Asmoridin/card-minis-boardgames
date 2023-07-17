@@ -22,8 +22,12 @@ def getMetaType(in_type):
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/DragonDiceCollection.txt', 'r')
+    sys.path.append('.')
+    from utils.output_utils import double_print
 else:
     file_h = open('DB/DragonDiceCollection.txt', 'r')
+    sys.path.append('.')
+    from utils.output_utils import double_print
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -129,18 +133,14 @@ if __name__=="__main__":
         out_file_h = open("output/DragonDiceOut.txt", 'w')
 
     total_string = "Have %d out of %d - %.2f percent" % (total_own, total_max, 100* total_own/total_max)
-    print(total_string)
-    out_file_h.write(total_string + "\n")
+    double_print(total_string, out_file_h)
 
     next_buy_string = "Buy a %s from %s - perhaps a %s (have %d out of %d %s)" % (picked_item[2], picked_item[1], picked_item[0], faction_map[picked_item[1]][0], faction_map[picked_item[1]][1], picked_item[1])
-    print(next_buy_string)
-    out_file_h.write(next_buy_string + "\n")
+    double_print(next_buy_string, out_file_h)
 
-    print("Summary:")
-    out_file_h.write("Summary\n")
+    double_print("Summary:", out_file_h)
     for faction in sorted(army_factions):
-        print("%s: %d" % (faction, faction_total[faction]))
-        out_file_h.write("%s: %d\n" % (faction, faction_total[faction]))
+        double_print("%s: %d" % (faction, faction_total[faction]), out_file_h)
 
     out_file_h.close()
     

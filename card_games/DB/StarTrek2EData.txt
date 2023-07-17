@@ -2596,8 +2596,7 @@ Rise to the Occasion;V;Interrupt;;Lower Decks;Virtual;3;0
 Riva, Respected Mediator;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Rixx;C;Personnel;Federation;Second Edition;Print;3;0
 Ro Laren, Apologetic Defector;V;Personnel;Federation;Tacking Into the Wind;Virtual;3;0
-Ro Laren, Headstrong Ensign;V;Personnel;Federation;Favor the Bold;Virtual;3;0
-Ro Laren, Headstrong Ensign;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Ro Laren, Headstrong Ensign;V/VP;Personnel;Federation;Favor the Bold/Virtual Promo;Virtual;3;0
 Ro Laren, Maquis Sympathizer;C;Personnel;Bajoran;Energize;Print;3;0
 Ro Laren, Proven Expert;V;Personnel;Federation;The Nth Degree;Virtual;3;0
 Ro'suv;U;Personnel;Klingon;These Are The Voyages;Print;3;0
@@ -2611,10 +2610,8 @@ Rodriguez;V;Personnel;Non-Aligned;Symbiosis;Virtual;3;0
 Roga Danar, Decorated Subhadar;R;Personnel;Non-Aligned;Energize;Print;3;0
 Rogers;V;Personnel;Federation;A Time to Stand;Virtual;3;0
 Rogesh;C;Personnel;Cardassian;Second Edition;Print;3;0
-Rogue Borg Ambush;U;Dilemma;;Call to Arms;Print;3;0
-Rogue Borg Ambush;VP;Dilemma;;Virtual Promo;Virtual;3;0
-Rogue Borg Ship;V;Dilemma;;Legacy;Virtual;3;0
-Rogue Borg Ship;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Rogue Borg Ambush;U/VP;Dilemma;;Call to Arms/Virtual Promo;Both;3;0
+Rogue Borg Ship;V/VP;Dilemma;;Legacy/Virtual Promo;Virtual;3;0
 Rokassa, Tampering Vessel;V;Ship;Cardassian;Raise the Stakes;Virtual;3;0
 Rom, Diagnostic and Repair Technician;R;Personnel;Bajoran;Second Edition;Print;3;0
 Rom, Little Green Man;U;Personnel;Ferengi;What You Leave Behind;Print;3;0
@@ -3412,17 +3409,14 @@ Unfair Comparison;V;Dilemma;;Peak Performance;Virtual;3;0
 Unfair Terms;V;Dilemma;;Raise the Stakes;Virtual;3;0
 Unfamiliar Etiquette;V;Dilemma;;Zero Hour;Virtual;3;0
 Ungracious Hosts;U;Dilemma;;Necessary Evil;Print;3;0
-Unicomplex, Root of the Hive Mind;S;Mission;;Call to Arms;Print;2;0
-Unicomplex, Root of the Hive Mind;VP;Mission;;Virtual Promo;Virtual;3;0
-Unimatrix Zero;R;Event;;In a Mirror Darkly;Print;3;0
-Unimatrix Zero;VP;Event;;Virtual Promo;Virtual;3;0
+Unicomplex, Root of the Hive Mind;S/VP;Mission;;Call to Arms/Virtual Promo;Both;2;0
+Unimatrix Zero;R/VP;Event;;In a Mirror Darkly/Virtual Promo;Both;3;0
 Uninvited;V;Interrupt;;Favor the Bold;Virtual;3;0
 Unionize;V;Dilemma;;Favor the Bold;Virtual;3;0
 Unity;V;Event;;Lineage;Virtual;3;0
 Universal Translator;V;Equipment;;The Nth Degree;Virtual;3;0
 Unknown Microorganism;P;Dilemma;;Reflections 2.0;Print;3;0
-Unorthodox Recruitment;V;Dilemma;;Hard Time;Virtual;3;0
-Unorthodox Recruitment;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Unorthodox Recruitment;V/VP;Dilemma;;Hard Time/Virtual Promo;Virtual;3;0
 Unorthodox Tactics;V;Dilemma;;Raise the Stakes;Virtual;3;0
 Unproven Suspicions;V;Event;;Strange Bedfellows;Virtual;3;0
 Unrelenting;V;Interrupt;;Peak Performance;Virtual;3;0
@@ -3433,13 +3427,11 @@ Unsound Logic;V;Dilemma;;Face of the Enemy;Virtual;3;0
 Untapped Influence;V;Interrupt;;Balance of Terror;Virtual;3;0
 Unusual Simulacrum;V;Dilemma;;Balance of Terror;Virtual;3;0
 Unwanted Guests;V;Dilemma;;Favor the Bold;Virtual;3;0
-Unyielding;P;Event;;Fractured Time;Print;3;0
-Unyielding;VP;Event;;Virtual Promo;Virtual;3;0
+Unyielding;P/VP;Event;;Fractured Time/Virtual Promo;Both;3;0
 Up the Ante;R;Dilemma;;To Boldly Go;Print;3;0
 Upexi;V;Personnel;Romulan;Raise the Stakes;Virtual;3;0
 Upstaged;V;Dilemma;;Unnatural Selection;Virtual;3;0
-Urgency;P;Dilemma;;Reflections 2.0;Print;3;0
-Urgency;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Urgency;P/VP;Dilemma;;Reflections 2.0/Virtual Promo;Both;3;0
 Uri'lash, Silent Servant;V;Personnel;Ferengi;Raise the Stakes;Virtual;3;0
 V'Ger;V;Dilemma;;Star Trek 50;Virtual;3;0
 V'Las, Treacherous Administrator;V;Personnel;Non-Aligned;A Less Perfect Union;Virtual;3;0
@@ -3466,13 +3458,11 @@ Varon-T Disruptor;V;Equipment;;20th Anniversary Collection;Virtual;3;0
 Varria, Lavishly Rewarded Aide;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Vascular Pad;C;Equipment;;What You Leave Behind;Print;3;0
 Vash, Duplicitous Damsel;V;Personnel;Federation;Qpid;Virtual;3;0
-Vash, Treasure Hunter;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Vash, Treasure Hunter;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Vash, Treasure Hunter;R/VP;Personnel;Non-Aligned;Second Edition/Virtual Promo;Both;3;0
 Vast Resources;U;Event;;Energize;Print;3;0
 Vastly Outnumbered;U;Dilemma;;Second Edition;Print;3;0
 Vault of Tomorrow;U;Dilemma;;These Are The Voyages;Print;3;0
-Vedek Assembly Transport;B;Ship;Bajoran;Borderless Promos;Virtual;3;0
-Vedek Assembly Transport;R;Ship;Bajoran;Dangerous Missions;Print;3;0
+Vedek Assembly Transport;B/R;Ship;Bajoran;Dangerous Missions/Borderless Promos;Both;3;0
 Vedek Assembly;U;Event;;Strange New Worlds;Print;3;0
 Veiled Threat;U;Interrupt;;Strange New Worlds;Print;3;0
 Vekma, Impartial Appraiser;V;Personnel;Klingon;Shattered Mirror;Virtual;3;0
@@ -3482,8 +3472,7 @@ Vendetta;V;Event;;Zero Hour;Virtual;3;0
 Vengar;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
 Verad, Rejected Candidate;V;Personnel;Non-Aligned;Hard Time;Virtual;3;0
 Verify Evidence;U;Mission;;Second Edition;Print;2;0
-Vetar;R;Ship;Cardassian;Second Edition;Print;3;0
-Vetar;VP;Ship;Cardassian;Virtual Promo;Virtual;3;0
+Vetar;R/VP;Ship;Cardassian;Second Edition/Virtual Promo;Both;3;0
 Vian Test;R;Dilemma;;These Are The Voyages;Print;3;0
 Vic Fontaine, Vegas Crooner;R;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Vile Deception;R;Interrupt;;Energize;Print;3;0
@@ -3546,22 +3535,17 @@ Weyoun, Shrewd Strategist;V;Personnel;Dominion;Zero Hour;Virtual;3;0
 Weyoun, Warship Commander;U;Personnel;Dominion;Necessary Evil;Print;3;0
 What Lies Beneath;V;Dilemma;;The Undiscovered Country;Virtual;3;0
 What You Leave Behind;V;Event;;The Undiscovered Country;Virtual;3;0
-Where No One Has Gone Before;R;Dilemma;;Strange New Worlds;Print;3;0
-Where No One Has Gone Before;VP;Dilemma;;Virtual Promo;Virtual;3;0
-Whisper in the Dark;R;Dilemma;;Necessary Evil;Print;3;0
-Whisper in the Dark;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Where No One Has Gone Before;R/VP;Dilemma;;Strange New Worlds/Virtual Promo;Both;3;0
+Whisper in the Dark;R/VP;Dilemma;;Necessary Evil/Virtual Promo;Both;3;0
 Willard Decker, Recommended Replacement;V;Personnel;Federation;Allegiance;Virtual;3;0
 William Patrick Samuels, Maquis Saboteur;U;Personnel;Federation;Energize;Print;3;0
 William Patrick Samuels, Well-Placed Agent;V;Personnel;Federation;Lineage;Virtual;3;0
-William Ross, "Temporary" Ally;V;Personnel;Federation;Raise the Stakes;Virtual;3;0
-William Ross, "Temporary" Ally;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+William Ross, "Temporary" Ally;V/VP;Personnel;Federation;Raise the Stakes/Virtual Promo;Virtual;3;0
 William T. Riker, Battleship First Officer;C;Personnel;Federation;In a Mirror Darkly;Print;3;0
-William T. Riker, Exchange Officer;R;Personnel;Klingon;Necessary Evil;Print;3;0
-William T. Riker, Exchange Officer;VP;Personnel;Klingon;Virtual Promo;Virtual;3;0
+William T. Riker, Exchange Officer;R/VP;Personnel;Klingon;Necessary Evil/Virtual Promo;Both;3;0
 William T. Riker, Facing Apotheosis;V;Personnel;Federation;Zero Hour;Virtual;3;0
 William T. Riker, First Officer;R;Personnel;Federation;Necessary Evil;Print;3;0
-William T. Riker, Number One;S;Personnel;Federation;Second Edition;Print;3;0
-William T. Riker, Number One;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+William T. Riker, Number One;S/VP;Personnel;Federation;Second Edition/Virtual Promo;Both;3;0
 William T. Riker, Skilled Commander;R;Personnel;Federation;Dangerous Missions;Print;3;0
 William T. Riker, Treasonous Thieving Pirate;VP;Personnel;Non-Aligned;Inheritance;Virtual;3;0
 William T. Riker, William Odan;V;Personnel;Federation;Tapestry;Virtual;3;0
@@ -3576,20 +3560,17 @@ Winn Adami, Uneasy Shepherd;V;Personnel;Bajoran;Sacrifice of Angels;Virtual;3;0
 Wixiban, Old Friend;V;Personnel;Non-Aligned;A Time to Stand;Virtual;3;0
 Wolf 359, Assimilate Resistance;U;Mission;;These Are The Voyages;Print;2;0
 Wolf 359, Last Stand;V;Mission;;20th Anniversary Collection;Virtual;2;0
-Worf, Chief of Security;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
-Worf, Chief of Security;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Worf, Chief of Security;VP;Personnel;Federation;Virtual Promo;Virtual;3;0 // Two virtual promos
 Worf, Clandestine Staffer;V;Personnel;Federation;Unity;Virtual;3;0
 Worf, Conn Officer;U;Personnel;Federation;Necessary Evil;Print;3;0
-Worf, Defiant Commander;R;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Worf, Defiant Commander;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Worf, Defiant Commander;R/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
 Worf, Desirous Disciple;V;Personnel;Klingon;Zero Hour;Virtual;3;0
 Worf, First Officer;P;Personnel;Federation;Fractured Time;Print;3;0
 Worf, Governor of H'atoria;C;Personnel;Klingon;What You Leave Behind;Print;3;0
 Worf, Noble Warrior;V;Personnel;Federation;Star Trek 50;Virtual;3;0
 Worf, Regent of the Alliance;P;Personnel;Klingon;Fractured Time;Print;3;0
 Worf, Security Detail Leader;S;Personnel;Federation;Second Edition;Print;3;0
-Worf, Son of Mogh;P;Personnel;Klingon;Reflections 2.0;Print;3;0
-Worf, Son of Mogh;VP;Personnel;Klingon;Virtual Promo;Virtual;3;0
+Worf, Son of Mogh;P/VP;Personnel;Klingon;Reflections 2.0/Virtual Promo;Both;3;0
 Worf, Strategic Operations Officer;S;Personnel;Federation;Second Edition;Print;3;0
 Worf, The Strongest Heart;U;Personnel;Klingon;Captain's Log;Print;3;0
 Workforce;V;Dilemma;;Matter of Time;Virtual;3;0
@@ -3610,8 +3591,7 @@ Yelsar;C;Personnel;Bajoran;Call to Arms;Print;3;0
 You Could Be Invaluable;U;Interrupt;;Call to Arms;Print;3;0
 You Have a Disease;U;Event;;These Are The Voyages;Print;3;0
 You Vant to Go Back?;V;Dilemma;;Raise the Stakes;Virtual;3;0
-You've Always Been My Favorite;R;Event;;Necessary Evil;Print;3;0
-You've Always Been My Favorite;VP;Event;;Virtual Promo;Virtual;3;0
+You've Always Been My Favorite;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Your Fear Will Destroy You;U;Event;;Necessary Evil;Print;3;0
 Your Moment is Fading;C;Dilemma;;Necessary Evil;Print;3;0
 Yranac;V;Personnel;Non-Aligned;Lineage;Virtual;3;0
@@ -3622,13 +3602,11 @@ Zayra, Bigoted Witness;C;Personnel;Bajoran;Captain's Log;Print;3;0
 Zef'No, Professional Courier;V;Personnel;Non-Aligned;Hard Time;Virtual;3;0
 Zefram Cochrane's Shotgun;V;Equipment;;A Less Perfect Union;Virtual;3;0
 Zefram Cochrane, Breaking History;V;Personnel;Non-Aligned;Zero Hour;Virtual;3;0
-Zefram Cochrane, Ready to Make History;R;Personnel;Non-Aligned;To Boldly Go;Print;3;0
-Zefram Cochrane, Ready to Make History;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Zefram Cochrane, Ready to Make History;R/VP;Personnel;Non-Aligned;To Boldly Go/Virtual Promo;Both;3;0
 Zek, Devolved Benefactor;V;Personnel;Ferengi;Lineage;Virtual;3;0
 Zek, The Grand Nagus;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Zero Hour;R;Dilemma;;To Boldly Go;Print;3;0
 Zero Zero, Efficiency Expert;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
-Zon, Fated Challenger;V;Personnel;Non-Aligned;Symbiosis;Virtual;3;0
-Zon, Fated Challenger;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Zon, Fated Challenger;V/VP;Personnel;Non-Aligned;Symbiosis/Virtual Promo;Virtual;3;0
 Zorn, Prevaricating Groppler;V;Personnel;Non-Aligned;Tapestry;Virtual;3;0
 Zyree;V;Personnel;Dominion;Unity;Virtual;3;0
