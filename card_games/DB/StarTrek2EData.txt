@@ -1,595 +1,803 @@
+A Bad End;C;Dilemma;;Call to Arms;Print;3;0
+A Chance for Glory;R;Event;;Second Edition;Print;3;0
+A Klingon Matter;U;Dilemma;;Energize;Print;3;0
 A Living Death;U;Dilemma;;Second Edition;Print;3;0
+A Second Chance at Life;C;Event;;Call to Arms;Print;3;0
+A Treasure Beyond Comparison;R;Event;;Second Edition;Print;3;0
+Abduction Plot;S;Mission;;Second Edition;Print;2;0
+Abduction;R;Event;;Call to Arms;Print;3;0
+Access Relay Station;U;Mission;;Second Edition;Print;2;0
+Acclimation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Acost Jared;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Acquire Illicit Explosives;U;Mission;;Second Edition;Print;2;0
+Adapt;U;Interrupt;;Call to Arms;Print;3;0
+Adding to Our Perfection;U;Event;;Call to Arms;Print;3;0
 Aggressive Behavior;R;Dilemma;;Second Edition;Print;3;0
+Aid Clone Colony;U;Mission;;Energize;Print;2;0
+Ak'voh;R;Event;;Energize;Print;3;0
+Akorem Laan, Revered Poet;U;Personnel;Bajoran;Energize;Print;3;0
+Aldara;R;Ship;Cardassian;Energize;Print;3;0
+Alexander Rozhenko, Good Luck Charm;R;Personnel;Klingon;Call to Arms;Print;3;0
+Alidar Jarok, Conscientious Admiral;U;Personnel;Romulan;Second Edition;Print;3;0
 Alien Abduction;C;Dilemma;;Second Edition;Print;3;0
+Alien Gambling Device;R;Equipment;;Second Edition;Print;3;0
+Allocation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Alternate Identity;R;Interrupt;;Second Edition;Print;3;0
+Altman;C;Personnel;Federation;Second Edition;Print;3;0
+Altovar, Vindictive Criminal;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Alyssa Ogawa, Enterprise Medical Assistant;R;Personnel;Federation;Second Edition;Print;3;0
+Amanda Rogers;R;Interrupt;;Second Edition;Print;3;0
+Amaros, Earnest Vanguard;U;Personnel;Non-Aligned;Energize;Print;3;0
+Amnesty Talks;U;Mission;;Second Edition;Print;2;0
+An Old Debt;S;Dilemma;;Call to Arms;Print;3;0
+Analyze;S;Interrupt;;Call to Arms;Print;3;0
+Anara;C;Personnel;Bajoran;Second Edition;Print;3;0
+Andrea Brand, Academy Superintendent;U;Personnel;Federation;Second Edition;Print;3;0
 Antedean Assassins;C;Dilemma;;Second Edition;Print;3;0
+Appraisal Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Archanis Dispute;U;Mission;;Call to Arms;Print;2;0
+Archival Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Arctus Baran, Mercenary Captain;C;Personnel;Non-Aligned;Energize;Print;3;0
+Ari;U;Personnel;Cardassian;Second Edition;Print;3;0
 Armus Roulette;R;Dilemma;;Second Edition;Print;3;0
+Arrest Order;R;Interrupt;;Second Edition;Print;3;0
 Assassin's Blade;C;Dilemma;;Second Edition;Print;3;0
 Assassination Attempt;R;Dilemma;;Second Edition;Print;3;0
+Assassination Plot;R;Event;;Energize;Print;3;0
+Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;0
+Assault on Species 8472;S;Mission;;Call to Arms;Print;2;0
+Astrometrics Lab;C;Event;;Second Edition;Print;3;0
+Athos IV, Maquis Base;U;Mission;;Energize;Print;2;0
 Authenticate Artifacts;C;Dilemma;;Second Edition;Print;3;0
 Automated Weapons;C;Dilemma;;Second Edition;Print;3;0
+Avert Danger;U;Mission;;Energize;Print;2;0
+Awaiting Trial;R;Event;;Second Edition;Print;3;0
+B'Elanna Torres, Creative Engineer;R;Personnel;Federation;Call to Arms;Print;3;0
+B'Etor, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
+B'amara;C;Personnel;Klingon;Second Edition;Print;3;0
+BaH!;U;Event;;Second Edition;Print;3;0
+Back-Flush Bussard Collectors;U;Event;;Second Edition;Print;3;0
+Bajor, Gift of the Prophets;U;Mission;;Second Edition;Print;2;0
+Bajoran Gratitude Festival;C;Event;;Second Edition;Print;3;0
+Bajoran Interceptor;C;Ship;Bajoran;Second Edition;Print;3;0
+Bajoran Phaser Pistol;U;Equipment;;Second Edition;Print;3;0
+Bajoran Scout Vessel;C;Ship;Bajoran;Second Edition;Print;3;0
+Bandee;C;Personnel;Federation;Second Edition;Print;3;0
+Bank Heist;U;Interrupt;;Energize;Print;3;0
+Bareil Antos, Esteemed Vedek;R;Personnel;Bajoran;Second Edition;Print;3;0
+Barron;C;Personnel;Federation;Second Edition;Print;3;0
+Bashir Founder, Nefarious Saboteur;R;Personnel;Dominion;Call to Arms;Print;3;0
+Bat'leth;C;Equipment;;Energize;Print;3;0
+Battle Drills;R;Event;;Second Edition;Print;3;0
+Battle Reconnaissance;S;Mission;;Call to Arms;Print;2;0
+Benjamin Sisko, Defiant Captain;S;Personnel;Federation;Second Edition;Print;3;0
+Benjamin Sisko, Man of Resolve;U;Personnel;Federation;Energize;Print;3;0
+Benjamin Sisko, The Emissary of the Prophets;R;Personnel;Bajoran;Second Edition;Print;3;0
+Berild;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Berserk Changeling;R;Dilemma;;Second Edition;Print;3;0
+Beverly Crusher, Chief Medical Officer;R;Personnel;Federation;Second Edition;Print;3;0
+Bhavani;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Blended;U;Dilemma;;Second Edition;Print;3;0
+Blind Spot;C;Event;;Second Edition;Print;3;0
+Bo'rak, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
+Boheeka, Clandestine Connection;U;Personnel;Cardassian;Energize;Print;3;0
+Borath, Psychological Researcher;R;Personnel;Dominion;Call to Arms;Print;3;0
+Borg Cube;C;Ship;Borg;Call to Arms;Print;3;0
+Borg Cutting Beam;S;Event;;Call to Arms;Print;3;0
+Borg Queen, Bringer of Order;S;Personnel;Borg;Call to Arms;Print;3;0
+Borg Queen, Guardian of the Hive;R;Personnel;Borg;Call to Arms;Print;3;0
+Borg Sphere;S;Ship;Borg;Call to Arms;Print;3;0
+Born for Conquest;U;Event;;Energize;Print;3;0
+Borum, Selfless Hero;R;Personnel;Bajoran;Energize;Print;3;0
+Bralek;R;Ship;Cardassian;Second Edition;Print;3;0
+Bred for Battle;R;Event;;Call to Arms;Print;3;0
+Bregath;C;Personnel;Klingon;Energize;Print;3;0
+Brief Reunion;U;Event;;Energize;Print;3;0
+Brilgar;C;Personnel;Bajoran;Second Edition;Print;3;0
+Brull, Encampment Leader;U;Personnel;Non-Aligned;Second Edition;Print;3;0
+Brutal Struggle;U;Event;;Second Edition;Print;3;0
+Brute Force;U;Mission;;Energize;Print;2;0
+Building a Bridge;R;Event;;Call to Arms;Print;3;0
 Bynars' Password;C;Dilemma;;Second Edition;Print;3;0
+Cal Hudson, Attaché to the Demilitarized Zone;U;Personnel;Federation;Energize;Print;3;0
+Calibration Drone;S;Personnel;Borg;Call to Arms;Print;3;0
+Camping Trip;U;Mission;;Call to Arms;Print;2;0
 Captain's Holiday;C;Dilemma;;Second Edition;Print;3;0
+Cardassia IV, Rescue Prisoners;U;Mission;;Second Edition;Print;2;0
+Cardassia Prime, Hardscrabble World;U;Mission;;Second Edition;Print;2;0
+Cardassian Outskirts, Kressari Rendezvous;U;Mission;;Second Edition;Print;2;0
+Cardassian Phaser Pistol;U;Equipment;;Second Edition;Print;3;0
+Cargo Haul;U;Mission;;Energize;Print;2;0
+Cargo Rendezvous;U;Mission;;Second Edition;Print;2;0
+Cargo Run;C;Event;;Energize;Print;3;0
+Cartography Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Casualties of War;R;Dilemma;;Energize;Print;3;0
+Cavalry Raid;R;Event;;Call to Arms;Print;3;0
 Center of Attention;C;Dilemma;;Second Edition;Print;3;0
+Chagrith;C;Personnel;Romulan;Second Edition;Print;3;0
+Chakotay, Freedom Fighter;R;Personnel;Federation;Energize;Print;3;0
+Changeling Research;U;Mission;;Second Edition;Print;2;0
+Changeling Sabotage;U;Event;;Call to Arms;Print;3;0
+Chart Stellar Cluster;U;Mission;;Second Edition;Print;2;0
+Chorgan, Leader of the Gatherers;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Chula: Echoes;C;Dilemma;;Second Edition;Print;3;0
 Chula: Pick One to Save Two;C;Dilemma;;Second Edition;Print;3;0
-Command Decisions;S;Dilemma;;Second Edition;Print;3;0
-Console Overload;C;Dilemma;;Second Edition;Print;3;0
-Contamination;C;Dilemma;;Second Edition;Print;3;0
-Damaged Reputation;U;Dilemma;;Second Edition;Print;3;0
-Dangerous Liaisons;C;Dilemma;;Second Edition;Print;3;0
-Debris Field;C;Dilemma;;Second Edition;Print;3;0
-Drumhead;R;Dilemma;;Second Edition;Print;3;0
-Enemy Boarding Party;R;Dilemma;;Second Edition;Print;3;0
-Equipment Malfunction;S;Dilemma;;Second Edition;Print;3;0
-Explosive Decompression;R;Dilemma;;Second Edition;Print;3;0
-Gravimetric Distortion;R;Dilemma;;Second Edition;Print;3;0
-Graviton Ellipse;R;Dilemma;;Second Edition;Print;3;0
-Hunter Gangs;C;Dilemma;;Second Edition;Print;3;0
-Impressive Trophies;R;Dilemma;;Second Edition;Print;3;0
-Invidium Leak;C;Dilemma;;Second Edition;Print;3;0
-Kelvan Show of Force;R;Dilemma;;Second Edition;Print;3;0
-Kolaran Raiders;S;Dilemma;;Second Edition;Print;3;0
-Limited Welcome;S;Dilemma;;Second Edition;Print;3;0
-Maglock;R;Dilemma;;Second Edition;Print;3;0
-Magnetic Field Disruptions;C;Dilemma;;Second Edition;Print;3;0
-Microbrain;C;Dilemma;;Second Edition;Print;3;0
-Misguided Activist;C;Dilemma;;Second Edition;Print;3;0
-Nanite Attack;R;Dilemma;;Second Edition;Print;3;0
-None Shall Pass;C;Dilemma;;Second Edition;Print;3;0
-Ornaran Threat;C;Dilemma;;Second Edition;Print;3;0
-Personal Duty;R;Dilemma;;Second Edition;Print;3;0
-Pinned Down;S;Dilemma;;Second Edition;Print;3;0
-Planetary Survey;C;Dilemma;;Second Edition;Print;3;0
-Primitive Culture;U;Dilemma;;Second Edition;Print;3;0
-Pursuit Just Behind;R;Dilemma;;Second Edition;Print;3;0
-Quarren Labor Shortage;U;Dilemma;;Second Edition;Print;3;0
-Recurring Injury;C;Dilemma;;Second Edition;Print;3;0
-Skullduggery;U;Dilemma;;Second Edition;Print;3;0
-Stellar Core Fragment;C;Dilemma;;Second Edition;Print;3;0
-Sympathetic Magic;R;Dilemma;;Second Edition;Print;3;0
-Systems Diagnostic;C;Dilemma;;Second Edition;Print;3;0
-Temptation;U;Dilemma;;Second Edition;Print;3;0
-Tense Negotiations;C;Dilemma;;Second Edition;Print;3;0
-The Moon's a Window to Heaven;R;Dilemma;;Second Edition;Print;3;0
-Trabe Grenade;C;Dilemma;;Second Edition;Print;3;0
-Triage;C;Dilemma;;Second Edition;Print;3;0
-Unscientific Method;R;Dilemma;;Second Edition;Print;3;0
-Vastly Outnumbered;U;Dilemma;;Second Edition;Print;3;0
-Wavefront;C;Dilemma;;Second Edition;Print;3;0
-Alien Gambling Device;R;Equipment;;Second Edition;Print;3;0
-Bajoran Phaser Pistol;U;Equipment;;Second Edition;Print;3;0
-Cardassian Phaser Pistol;U;Equipment;;Second Edition;Print;3;0
-Engineering Kit;C;Equipment;;Second Edition;Print;3;0
-Engineering PADD;C;Equipment;;Second Edition;Print;3;0
-Klingon Disruptor Pistol;U;Equipment;;Second Edition;Print;3;0
-Medical Kit;C;Equipment;;Second Edition;Print;3;0
-Medical Tricorder;C;Equipment;;Second Edition;Print;3;0
-Romulan Disruptor Pistol;U;Equipment;;Second Edition;Print;3;0
-Science PADD;C;Equipment;;Second Edition;Print;3;0
-Starfleet Type-2 Phaser;U;Equipment;;Second Edition;Print;3;0
-Tricorder;C;Equipment;;Second Edition;Print;3;0
-A Chance for Glory;R;Event;;Second Edition;Print;3;0
-A Treasure Beyond Comparison;R;Event;;Second Edition;Print;3;0
-Astrometrics Lab;C;Event;;Second Edition;Print;3;0
-Awaiting Trial;R;Event;;Second Edition;Print;3;0
-Back-Flush Bussard Collectors;U;Event;;Second Edition;Print;3;0
-BaH!;U;Event;;Second Edition;Print;3;0
-Bajoran Gratitude Festival;C;Event;;Second Edition;Print;3;0
-Battle Drills;R;Event;;Second Edition;Print;3;0
-Blind Spot;C;Event;;Second Edition;Print;3;0
-Brutal Struggle;U;Event;;Second Edition;Print;3;0
-Cry "Havoc!";S;Event;;Second Edition;Print;3;0
-D'Arsay Archive;S;Event;;Second Edition;Print;3;0
-Days of Atonement;U;Event;;Second Edition;Print;3;0
-Diplomatic Overture;C;Event;;Second Edition;Print;3;0
-Engage Cloak;R;Event;;Second Edition;Print;3;0
-Feast on the Dying;C;Event;;Second Edition;Print;3;0
-For All Our Sons;R;Event;;Second Edition;Print;3;0
-How Would You Like a Trip to Romulus?;R;Event;;Second Edition;Print;3;0
-Inspiring Leader;R;Event;;Second Edition;Print;3;0
-Just Like Old Times;U;Event;;Second Edition;Print;3;0
-Labor Camp;U;Event;;Second Edition;Print;3;0
-Let Honor Guide You;U;Event;;Second Edition;Print;3;0
-Line of Defense;C;Event;;Second Edition;Print;3;0
-Nelvana Trap;R;Event;;Second Edition;Print;3;0
-No Love for the Spoon Heads;U;Event;;Second Edition;Print;3;0
-No Peace in Our Time;R;Event;;Second Edition;Print;3;0
-Nothing That Happens is Truly Random;U;Event;;Second Edition;Print;3;0
-Observer from the Obsidian Order;U;Event;;Second Edition;Print;3;0
-Order of the Bat'leth;U;Event;;Second Edition;Print;3;0
-Peacemaker or Predator?;C;Event;;Second Edition;Print;3;0
-Pierce Their Defenses;U;Event;;Second Edition;Print;3;0
-Point Blank Strike;U;Event;;Second Edition;Print;3;0
-Precise Attack;U;Event;;Second Edition;Print;3;0
-Prejudice and Politics;U;Event;;Second Edition;Print;3;0
-Process Identification;U;Event;;Second Edition;Print;3;0
-Rescue Captives;U;Event;;Second Edition;Print;3;0
-Resistance Tactics;R;Event;;Second Edition;Print;3;0
-Romulan Intelligence Network;U;Event;;Second Edition;Print;3;0
-Standard Cardassian Procedure;U;Event;;Second Edition;Print;3;0
-Tactical Planning;U;Event;;Second Edition;Print;3;0
-Taken Prisoner;U;Event;;Second Edition;Print;3;0
-Tapestry;R;Event;;Second Edition;Print;3;0
-The Orion Underworld;R;Event;;Second Edition;Print;3;0
-The Pillage of Bajor;U;Event;;Second Edition;Print;3;0
-The Reman Mines (Errata);U;Event;;Second Edition;Print;3;0
-To Boldly Go;U;Event;;Second Edition;Print;3;0
-Warrior's Birthright;C;Event;;Second Edition;Print;3;0
-Alternate Identity;R;Interrupt;;Second Edition;Print;3;0
-Amanda Rogers;R;Interrupt;;Second Edition;Print;3;0
-Arrest Order;R;Interrupt;;Second Edition;Print;3;0
-Comfort Women;U;Interrupt;;Second Edition;Print;3;0
-Condition Captive;R;Interrupt;;Second Edition;Print;3;0
-Dimensional Shifting;R;Interrupt;;Second Edition;Print;3;0
-Empathic Touch;R;Interrupt;;Second Edition;Print;3;0
-Escape;R;Interrupt;;Second Edition;Print;3;0
-Evasive Maneuvers;U;Interrupt;;Second Edition;Print;3;0
-Kevin Uxbridge;R;Interrupt;;Second Edition;Print;3;0
-Lasting Peace;C;Interrupt;;Second Edition;Print;3;0
-Mission Briefing;S;Interrupt;;Second Edition;Print;3;0
-Power to the Shields;U;Interrupt;;Second Edition;Print;3;0
-Protection of the Tal Shiar;U;Interrupt;;Second Edition;Print;3;0
-Pursuit Course;R;Interrupt;;Second Edition;Print;3;0
-Quantum Slipstream Drive;C;Interrupt;;Second Edition;Print;3;0
-Render Assistance;S;Interrupt;;Second Edition;Print;3;0
-Secret Conspiracy (Errata);R;Interrupt;;Second Edition;Print;3;0
-Sensor Sweep;U;Interrupt;;Second Edition;Print;3;0
-Sermon;R;Interrupt;;Second Edition;Print;3;0
-Shady Resources;S;Interrupt;;Second Edition;Print;3;0
-Souls of the Dead;C;Interrupt;;Second Edition;Print;3;0
-Symbol of Devotion;U;Interrupt;;Second Edition;Print;3;0
-The Promise;S;Interrupt;;Second Edition;Print;3;0
-The Tides of Fortune (Errata);U;Interrupt;;Second Edition;Print;3;0
-Ties of Blood and Water;S;Interrupt;;Second Edition;Print;3;0
-Torture;U;Interrupt;;Second Edition;Print;3;0
-Twist of Fate;R;Interrupt;;Second Edition;Print;3;0
-Abduction Plot;S;Mission;;Second Edition;Print;2;0
-Access Relay Station;U;Mission;;Second Edition;Print;2;0
-Acquire Illicit Explosives;U;Mission;;Second Edition;Print;2;0
-Amnesty Talks;U;Mission;;Second Edition;Print;2;0
-Bajor, Gift of the Prophets;U;Mission;;Second Edition;Print;2;0
-Cardassia Prime, Hardscrabble World;U;Mission;;Second Edition;Print;2;0
-Cargo Rendezvous;U;Mission;;Second Edition;Print;2;0
-Changeling Research;U;Mission;;Second Edition;Print;2;0
-Chart Stellar Cluster;U;Mission;;Second Edition;Print;2;0
+Clash at Chin'toka;U;Mission;;Call to Arms;Print;2;0
+Close Call;C;Dilemma;;Call to Arms;Print;3;0
 Collect Sample;U;Mission;;Second Edition;Print;2;0
 Colony Preparations;U;Mission;;Second Edition;Print;2;0
+Comfort Women;U;Interrupt;;Second Edition;Print;3;0
+Command Decisions;S;Dilemma;;Second Edition;Print;3;0
+Common Ground;R;Event;;Energize;Print;3;0
+Complications;R;Event;;Energize;Print;3;0
+Computation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Condition Captive;R;Interrupt;;Second Edition;Print;3;0
+Confessions in the Pale Moonlight;R;Event;;Energize;Print;3;0
+Confined to Quarters;C;Dilemma;;Call to Arms;Print;3;0
+Conscription;R;Event;;Energize;Print;3;0
+Console Overload;C;Dilemma;;Second Edition;Print;3;0
+Contamination;C;Dilemma;;Second Edition;Print;3;0
+Continuity Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Coordinated Attack;C;Interrupt;;Energize;Print;3;0
+Corbin Entek, Undercover Operations Supervisor;R;Personnel;Cardassian;Second Edition;Print;3;0
+Cretak, Supporter of the Alliance;S;Personnel;Romulan;Second Edition;Print;3;0
+Crippling Attack;U;Dilemma;;Energize;Print;3;0
+Crowd Control;C;Event;;Energize;Print;3;0
+Cry "Havoc!";S;Event;;Second Edition;Print;3;0
+Cultist Attack;C;Interrupt;;Call to Arms;Print;3;0
 Cure Blight;U;Mission;;Second Edition;Print;2;0
+D'Arsay Archive;S;Event;;Second Edition;Print;3;0
+D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
+D'deridex;S;Ship;Romulan;Second Edition;Print;3;0
+DNA Analysis;S;Dilemma;;Call to Arms;Print;3;0
+DNA Security Scan;C;Dilemma;;Energize;Print;3;0
+Dallan;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Damaged Reputation;U;Dilemma;;Second Edition;Print;3;0
+Damar, Loyal Glinn;U;Personnel;Cardassian;Second Edition;Print;3;0
+Damar, Useful Adjutant;R;Personnel;Cardassian;Call to Arms;Print;3;0
+Danar, Irascible Gul;U;Personnel;Cardassian;Second Edition;Print;3;0
+Dangerous Climb;R;Dilemma;;Call to Arms;Print;3;0
+Dangerous Liaisons;C;Dilemma;;Second Edition;Print;3;0
+Daniel Kwan;C;Personnel;Federation;Second Edition;Print;3;0
+Darhe'el, The Butcher of Gallitep;U;Personnel;Cardassian;Second Edition;Print;3;0
+Daro;C;Personnel;Cardassian;Second Edition;Print;3;0
+Darok, Martok's Aide;R;Personnel;Klingon;Call to Arms;Print;3;0
+Data, Aspirer;R;Personnel;Federation;Second Edition;Print;3;0
+Dathon, Speaker of Tama;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Davies;C;Personnel;Federation;Second Edition;Print;3;0
+Davin;C;Personnel;Cardassian;Call to Arms;Print;3;0
+Days of Atonement;U;Event;;Second Edition;Print;3;0
+Deanna Troi, Guide and Conscience;R;Personnel;Federation;Second Edition;Print;3;0
+Debris Field;C;Dilemma;;Second Edition;Print;3;0
+Dedication to Duty;C;Dilemma;;Energize;Print;3;0
+Deep Roots;R;Event;;Energize;Print;3;0
 Deliver Supplies;U;Mission;;Second Edition;Print;2;0
+Deneb IV, Encounter at Farpoint;U;Mission;;Second Edition;Print;2;0
+Depression;C;Dilemma;;Call to Arms;Print;3;0
+Deranas;U;Ship;Romulan;Second Edition;Print;3;0
+Destroy Transwarp Hub;U;Mission;;Call to Arms;Print;2;0
+Dimensional Shifting;R;Interrupt;;Second Edition;Print;3;0
+Diplomatic Masquerade;U;Interrupt;;Energize;Print;3;0
+Diplomatic Overture;C;Event;;Second Edition;Print;3;0
+Disable Sensors;R;Event;;Energize;Print;3;0
+Discreet Inquiry;U;Interrupt;;Energize;Print;3;0
+Disgraceful Assault;C;Dilemma;;Energize;Print;3;0
+Dispensing the White;C;Event;;Call to Arms;Print;3;0
+Disruptor Accident;C;Dilemma;;Energize;Print;3;0
+Dissolving the Senate;U;Event;;Call to Arms;Print;3;0
+Divok;C;Personnel;Klingon;Energize;Print;3;0
+Dohlem;C;Personnel;Bajoran;Second Edition;Print;3;0
+Dokar;C;Personnel;Klingon;Second Edition;Print;3;0
+Don't Let It End This Way;C;Dilemma;;Call to Arms;Print;3;0
+Donatra, Compassionate Patriot;R;Personnel;Romulan;Second Edition;Print;3;0
+Dralvak;C;Personnel;Romulan;Second Edition;Print;3;0
+Dressing Down;U;Dilemma;;Call to Arms;Print;3;0
+Drex, Arrogant Warrior;R;Personnel;Klingon;Energize;Print;3;0
+Drumhead;R;Dilemma;;Second Edition;Print;3;0
+Dukat, Liberator and Protector;R;Personnel;Cardassian;Call to Arms;Print;3;0
+Dukat, Military Advisor;R;Personnel;Cardassian;Second Edition;Print;3;0
+Duras, Son of a Traitor;R;Personnel;Klingon;Second Edition;Print;3;0
+Durg;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+E'Tyshra;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
 Earth, Cradle of the Federation;S;Mission;;Second Edition;Print;2;0
 Earth, Home of Starfleet Command;U;Mission;;Second Edition;Print;2;0
+Elim Garak, Agent of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
+Elim Garak, Plain, Simple Tailor;U;Personnel;Cardassian;Call to Arms;Print;3;0
 Eliminate Harvesters;U;Mission;;Second Edition;Print;2;0
-Deneb IV, Encounter at Farpoint (Errata);U;Mission;;Second Edition;Print;2;0
+Elizabeth Shelby, Formidable Presence;S;Personnel;Federation;Second Edition;Print;3;0
+Emergency Treatment;C;Interrupt;;Energize;Print;3;0
+Emok;C;Personnel;Cardassian;Second Edition;Print;3;0
+Empathic Touch;R;Interrupt;;Second Edition;Print;3;0
+Enabran Tain, Head of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
+Enabran Tain, Retired Mastermind;R;Personnel;Cardassian;Energize;Print;3;0
+Enemy Boarding Party;R;Dilemma;;Second Edition;Print;3;0
+Enemy in Your Midst;C;Event;;Call to Arms;Print;3;0
+Engage Cloak;R;Event;;Second Edition;Print;3;0
+Engineering Kit;C;Equipment;;Second Edition;Print;3;0
+Engineering PADD;C;Equipment;;Second Edition;Print;3;0
+Equipment Malfunction;S;Dilemma;;Second Edition;Print;3;0
+Escape;R;Interrupt;;Second Edition;Print;3;0
+Etana Jol, Ktarian Operative;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Evacuate Colony;U;Mission;;Second Edition;Print;2;0
+Evade Borg Vessel;U;Mission;;Call to Arms;Print;2;0
+Evade Dominion Squadron;U;Mission;;Call to Arms;Print;2;0
+Evaluation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Evasive Maneuvers;U;Interrupt;;Second Edition;Print;3;0
+Evek, Attaché to the Demilitarized Zone;R;Personnel;Cardassian;Second Edition;Print;3;0
+Evek, Harsh Interrogator;R;Personnel;Cardassian;Energize;Print;3;0
 Excavation;U;Mission;;Second Edition;Print;2;0
-Explore Black Cluster (Errata);S;Mission;;Second Edition;Print;2;0
+Explore Black Cluster;S;Mission;;Second Edition;Print;2;0
+Explosive Decompression;R;Dilemma;;Second Edition;Print;3;0
+Expose Changeling Influence;U;Mission;;Call to Arms;Print;2;0
+Exposed Power Relay;U;Dilemma;;Energize;Print;3;0
+Extract Defector;U;Mission;;Call to Arms;Print;2;0
 Extraction;U;Mission;;Second Edition;Print;2;0
-Feldomite Rush (Errata);U;Mission;;Second Edition;Print;2;0
+Ezri Dax, Station Counselor;R;Personnel;Federation;Energize;Print;3;0
+Face to Face;R;Dilemma;;Energize;Print;3;0
+Failure To Communicate;S;Dilemma;;Call to Arms;Print;3;0
+Farius Prime, Political Intrigue;U;Mission;;Call to Arms;Print;2;0
+Feast on the Dying;C;Event;;Second Edition;Print;3;0
+Feldomite Rush;U;Mission;;Second Edition;Print;2;0
+Ferocity;U;Event;;Energize;Print;3;0
 Fissure Research;S;Mission;;Second Edition;Print;2;0
-Lapideas System, Geological Survey (Errata);S;Mission;;Second Edition;Print;2;0
+Flaxian Scout Vessel;C;Ship;Non-Aligned;Second Edition;Print;3;0
+Flim-Flam Artist;U;Dilemma;;Energize;Print;3;0
+For All Our Sons;R;Event;;Second Edition;Print;3;0
+For The Sisko;U;Event;;Energize;Print;3;0
+For the Cause;C;Event;;Energize;Print;3;0
+Forsaken;R;Dilemma;;Call to Arms;Print;3;0
+Fortune;R;Ship;Non-Aligned;Energize;Print;3;0
+Founder Councilor;C;Personnel;Dominion;Call to Arms;Print;3;0
+Founder Leader, Beguiling Teacher;U;Personnel;Dominion;Call to Arms;Print;3;0
+Founder Leader, Forbidding Judge;S;Personnel;Dominion;Call to Arms;Print;3;0
+Founder Trap;R;Interrupt;;Call to Arms;Print;3;0
+Founders' Homeworld, Home of the Great Link;S;Mission;;Call to Arms;Print;2;0
+Fresh Tactic;C;Interrupt;;Energize;Print;3;0
+Furel, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
+Galathon, Steadfast Rival;R;Personnel;Romulan;Energize;Print;3;0
+Galnar;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Galor;C;Ship;Cardassian;Second Edition;Print;3;0
+Geordi La Forge, Chief Engineer;R;Personnel;Federation;Second Edition;Print;3;0
+Gideon Seyetik, Great Terraformer;U;Personnel;Federation;Second Edition;Print;3;0
+Gilora Rejal, Subspace Researcher;U;Personnel;Cardassian;Second Edition;Print;3;0
+Gomtuu Shock Wave;R;Dilemma;;Call to Arms;Print;3;0
+Gowron, Leader of the High Council;S;Personnel;Klingon;Second Edition;Print;3;0
+Grathon Tolar, Hologram Forger;U;Personnel;Non-Aligned;Second Edition;Print;3;0
+Gravimetric Distortion;R;Dilemma;;Second Edition;Print;3;0
+Graviton Ellipse;R;Dilemma;;Second Edition;Print;3;0
+Graviton Wave;C;Dilemma;;Call to Arms;Print;3;0
+Grenis;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Guidance Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Guingouin;U;Ship;Federation;Energize;Print;3;0
+Haakona;R;Ship;Romulan;Second Edition;Print;3;0
+Harana;C;Personnel;Non-Aligned;Energize;Print;3;0
+Harness Omega Particle;U;Mission;;Call to Arms;Print;2;0
+Hazar;U;Personnel;Bajoran;Second Edition;Print;3;0
+Head to Head;R;Dilemma;;Energize;Print;3;0
+Heart of Glory;C;Event;;Energize;Print;3;0
+Hired Muscle;U;Dilemma;;Energize;Print;3;0
+Hiren, Romulan Praetor;U;Personnel;Romulan;Second Edition;Print;3;0
+History Repeats Itself;C;Dilemma;;Call to Arms;Print;3;0
+Honorable Death;U;Interrupt;;Energize;Print;3;0
 Host Metaphasic Shielding Test;S;Mission;;Second Edition;Print;2;0
+Houdini Mines;C;Dilemma;;Energize;Print;3;0
+How Would You Like a Trip to Romulus?;R;Event;;Second Edition;Print;3;0
+Hoya;C;Personnel;Federation;Second Edition;Print;3;0
+Hunt Alien;S;Mission;;Call to Arms;Print;2;0
 Hunt for DNA Program;U;Mission;;Second Edition;Print;2;0
+Hunter Gangs;C;Dilemma;;Second Edition;Print;3;0
+I Don't Like to Lose;R;Event;;Call to Arms;Print;3;0
+I.K.S. Hegh'ta;R;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. K'Vort;U;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. K't'inga;C;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. Lukara;U;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. Maht-H'a;R;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. Pagh;R;Ship;Klingon;Call to Arms;Print;3;0
+I.K.S. Qam-Chee;R;Ship;Klingon;Energize;Print;3;0
+I.K.S. Rotarran, Ship of Tears;R;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. Vor'cha;S;Ship;Klingon;Second Edition;Print;3;0
 Iconia Investigation;U;Mission;;Second Edition;Print;2;0
+If Wishes Were Horses;R;Interrupt;;Energize;Print;3;0
+Ikat'ika, Honorable Warrior;R;Personnel;Dominion;Call to Arms;Print;3;0
+Imat'Korex;C;Personnel;Dominion;Call to Arms;Print;3;0
+Impressive Trophies;R;Dilemma;;Second Edition;Print;3;0
+Inad;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Information Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Inside Collaborators;S;Dilemma;;Call to Arms;Print;3;0
+Inspiring Leader;R;Event;;Second Edition;Print;3;0
+Instruct Advanced Drone;U;Mission;;Call to Arms;Print;2;0
+Insult;U;Interrupt;;Call to Arms;Print;3;0
 Intercept Maquis;U;Mission;;Second Edition;Print;2;0
 Intercept Renegade;S;Mission;;Second Edition;Print;2;0
+Invasive Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Investigate Alien Probe;U;Mission;;Second Edition;Print;2;0
 Investigate Coup;S;Mission;;Second Edition;Print;2;0
-Investigate Massacre (Errata);U;Mission;;Second Edition;Print;2;0
+Investigate Maquis Activity;U;Mission;;Energize;Print;2;0
+Investigate Massacre;U;Mission;;Second Edition;Print;2;0
 Investigate Rogue Comet;S;Mission;;Second Edition;Print;2;0
 Investigate Rumors;U;Mission;;Second Edition;Print;2;0
 Investigate Sighting;U;Mission;;Second Edition;Print;2;0
-Khitomer Investigation;S;Mission;;Second Edition;Print;2;0
-Cardassian Outskirts, Kressari Rendezvous (Errata);U;Mission;;Second Edition;Print;2;0
-Medical Relief;U;Mission;;Second Edition;Print;2;0
-Military Exercises;U;Mission;;Second Edition;Print;2;0
-Mining Survey;S;Mission;;Second Edition;Print;2;0
-Mouth of the Wormhole, Deep Space 9;S;Mission;;Second Edition;Print;2;0
-Pegasus Search;U;Mission;;Second Edition;Print;2;0
-Plague Planet;U;Mission;;Second Edition;Print;2;0
-Qo'noS, Heart of the Empire (Errata);S;Mission;;Second Edition;Print;2;0
-Qualor II Rendezvous;U;Mission;;Second Edition;Print;2;0
-Quest for the Sword of Kahless;U;Mission;;Second Edition;Print;2;0
-Cardassia IV, Rescue Prisoners (Errata);U;Mission;;Second Edition;Print;2;0
-Romulus, Seat of Power;S;Mission;;Second Edition;Print;2;0
-Runabout Search;U;Mission;;Second Edition;Print;2;0
-Search and Rescue;U;Mission;;Second Edition;Print;2;0
-Search for Survivors;S;Mission;;Second Edition;Print;2;0
-Security Briefing;S;Mission;;Second Edition;Print;2;0
-Sensitive Search;S;Mission;;Second Edition;Print;2;0
-Study Cometary Cloud;S;Mission;;Second Edition;Print;2;0
-Remus, Supervise Dilithium Mine (Errata);S;Mission;;Second Edition;Print;2;0
-Surgery Under Fire;S;Mission;;Second Edition;Print;2;0
-Uncover DNA Clues;U;Mission;;Second Edition;Print;2;0
-Verify Evidence;U;Mission;;Second Edition;Print;2;0
-Wormhole Negotiations;U;Mission;;Second Edition;Print;2;0
-Anara;C;Personnel;Bajoran;Second Edition;Print;3;0
-Bareil Antos, Esteemed Vedek;R;Personnel;Bajoran;Second Edition;Print;3;0
-Benjamin Sisko, The Emissary of the Prophets;R;Personnel;Bajoran;Second Edition;Print;3;0
-Brilgar;C;Personnel;Bajoran;Second Edition;Print;3;0
-Dohlem;C;Personnel;Bajoran;Second Edition;Print;3;0
-Furel, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
-Hazar;U;Personnel;Bajoran;Second Edition;Print;3;0
+Invidium Leak;C;Dilemma;;Second Edition;Print;3;0
+J'Dan;C;Personnel;Klingon;Second Edition;Print;3;0
+Ja'chuq;R;Interrupt;;Energize;Print;3;0
 Jabara;C;Personnel;Bajoran;Second Edition;Print;3;0
-Keeve Falor;C;Personnel;Bajoran;Second Edition;Print;3;0
-Kira Nerys, Colonel Kira;R;Personnel;Bajoran;Second Edition;Print;3;0
-Li Nalas, Legend of Bajor;S;Personnel;Bajoran;Second Edition;Print;3;0
-Lupaza, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
-Mora Pol, Pioneering Scientist;U;Personnel;Bajoran;Second Edition;Print;3;0
-Odo, Constable;R;Personnel;Bajoran;Second Edition;Print;3;0
-Opaka, Kai of Bajor;R;Personnel;Bajoran;Second Edition;Print;3;0
-Ranjen Koral, Student of B'hala;U;Personnel;Bajoran;Second Edition;Print;3;0
-Rom, Diagnostic and Repair Technician;R;Personnel;Bajoran;Second Edition;Print;3;0
-Shakaar Edon, Resistance Leader;R;Personnel;Bajoran;Second Edition;Print;3;0
-Shandor;C;Personnel;Bajoran;Second Edition;Print;3;0
-Trazko, Hired Muscle;R;Personnel;Bajoran;Second Edition;Print;3;0
-Weld Ram;C;Personnel;Bajoran;Second Edition;Print;3;0
-Winn Adami, Kai of Bajor (Errata);U;Personnel;Bajoran;Second Edition;Print;3;0
-Ari;U;Personnel;Cardassian;Second Edition;Print;3;0
-Corbin Entek, Undercover Operations Supervisor;R;Personnel;Cardassian;Second Edition;Print;3;0
-Damar, Loyal Glinn;U;Personnel;Cardassian;Second Edition;Print;3;0
-Danar, Irascible Gul;U;Personnel;Cardassian;Second Edition;Print;3;0
-Darhe'el, The Butcher of Gallitep;U;Personnel;Cardassian;Second Edition;Print;3;0
-Daro;C;Personnel;Cardassian;Second Edition;Print;3;0
-Dukat, Military Advisor;R;Personnel;Cardassian;Second Edition;Print;3;0
-Elim Garak, Agent of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
-Emok;C;Personnel;Cardassian;Second Edition;Print;3;0
-Enabran Tain, Head of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
-Evek, Attaché to the Demilitarized Zone;R;Personnel;Cardassian;Second Edition;Print;3;0
-Gilora Rejal, Subspace Researcher;U;Personnel;Cardassian;Second Edition;Print;3;0
-Jerax;C;Personnel;Cardassian;Second Edition;Print;3;0
-Joret Dal, Patriotic Visionary;R;Personnel;Cardassian;Second Edition;Print;3;0
-Kovat, Public Conservator;U;Personnel;Cardassian;Second Edition;Print;3;0
-Lemec, Posturing Negotiator;U;Personnel;Cardassian;Second Edition;Print;3;0
-Madred, Calculating Captor;R;Personnel;Cardassian;Second Edition;Print;3;0
-Makbar, Chief Archon;R;Personnel;Cardassian;Second Edition;Print;3;0
-Megar;C;Personnel;Cardassian;Second Edition;Print;3;0
-Ocett, Dogged Rival;R;Personnel;Cardassian;Second Edition;Print;3;0
-Parn;C;Personnel;Cardassian;Second Edition;Print;3;0
-Rogesh;C;Personnel;Cardassian;Second Edition;Print;3;0
-Altman;C;Personnel;Federation;Second Edition;Print;3;0
-Alyssa Ogawa, Enterprise Medical Assistant;R;Personnel;Federation;Second Edition;Print;3;0
-Andrea Brand, Academy Superintendent;U;Personnel;Federation;Second Edition;Print;3;0
-Bandee;C;Personnel;Federation;Second Edition;Print;3;0
-Barron;C;Personnel;Federation;Second Edition;Print;3;0
-Benjamin Sisko, Defiant Captain;S;Personnel;Federation;Second Edition;Print;3;0
-Beverly Crusher, Chief Medical Officer;R;Personnel;Federation;Second Edition;Print;3;0
-Daniel Kwan;C;Personnel;Federation;Second Edition;Print;3;0
-Data, Aspirer;R;Personnel;Federation;Second Edition;Print;3;0
-Davies;C;Personnel;Federation;Second Edition;Print;3;0
-Deanna Troi, Guide and Conscience (Errata);R;Personnel;Federation;Second Edition;Print;3;0
-Elizabeth Shelby, Formidable Presence;S;Personnel;Federation;Second Edition;Print;3;0
-Geordi La Forge, Chief Engineer;R;Personnel;Federation;Second Edition;Print;3;0
-Gideon Seyetik, Great Terraformer;U;Personnel;Federation;Second Edition;Print;3;0
-Hoya;C;Personnel;Federation;Second Edition;Print;3;0
+Jack, Maladjusted Misfit;R;Personnel;Federation;Call to Arms;Print;3;0
 Jadzia Dax, Science Officer;R;Personnel;Federation;Second Edition;Print;3;0
+Jaglom Shrek;C;Personnel;Non-Aligned;Energize;Print;3;0
+Jake Sisko, Temporal Anchor;R;Personnel;Federation;Energize;Print;3;0
+Jakin;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
+Jaro Essa, Leader of the Circle;R;Personnel;Bajoran;Energize;Print;3;0
 Jean-Luc Picard, Argo Pilot;R;Personnel;Federation;Second Edition;Print;3;0
 Jean-Luc Picard, Explorer;S;Personnel;Federation;Second Edition;Print;3;0
+Jem'Hadar Ambush;C;Event;;Call to Arms;Print;3;0
+Jem'Hadar Attack Ship;S;Ship;Dominion;Call to Arms;Print;3;0
+Jem'Hadar Birthing Chamber;R;Event;;Call to Arms;Print;3;0
+Jem'Hadar Disruptor Pistol;U;Equipment;;Call to Arms;Print;3;0
+Jem'Hadar Strike Force;U;Event;;Call to Arms;Print;3;0
+Jem'Hadar Warship;C;Ship;Dominion;Call to Arms;Print;3;0
+Jerax;C;Personnel;Cardassian;Second Edition;Print;3;0
+Jo'Bril, Patient Schemer;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Jorem;C;Personnel;Bajoran;Call to Arms;Print;3;0
+Joret Dal, Patriotic Visionary;R;Personnel;Cardassian;Second Edition;Print;3;0
+Jorvas;C;Personnel;Romulan;Second Edition;Print;3;0
+Joseph Sisko, Creole Chef;U;Personnel;Federation;Energize;Print;3;0
 Julian Bashir, "Frontier" Physician;R;Personnel;Federation;Second Edition;Print;3;0
-Kalandra, Battlefield Surgeon;U;Personnel;Federation;Second Edition;Print;3;0
-Kathryn Janeway, Wry Admiral;R;Personnel;Federation;Second Edition;Print;3;0
-Leyton, Chief of Starfleet Operations;R;Personnel;Federation;Second Edition;Print;3;0
-Lian T'su;C;Personnel;Federation;Second Edition;Print;3;0
-Lopez;C;Personnel;Federation;Second Edition;Print;3;0
-Luther Sloan, Man of Secrets;R;Personnel;Federation;Second Edition;Print;3;0
-Martin;C;Personnel;Federation;Second Edition;Print;3;0
-Miles O'Brien, Chief of Operations;R;Personnel;Federation;Second Edition;Print;3;0
-Mills;C;Personnel;Federation;Second Edition;Print;3;0
-Nog, Eager Cadet;R;Personnel;Federation;Second Edition;Print;3;0
-Paulson;C;Personnel;Federation;Second Edition;Print;3;0
-Rixx;C;Personnel;Federation;Second Edition;Print;3;0
-Robin Lefler, Mission Specialist (Errata);U;Personnel;Federation;Second Edition;Print;3;0
-Seth Mendoza;C;Personnel;Federation;Second Edition;Print;3;0
-T'Lara;C;Personnel;Federation;Second Edition;Print;3;0
-T'Lor;C;Personnel;Federation;Second Edition;Print;3;0
-Tasha Yar, Chief of Security;R;Personnel;Federation;Second Edition;Print;3;0
-Van Orton;C;Personnel;Federation;Second Edition;Print;3;0
-Wesley Crusher, Prodigy;R;Personnel;Federation;Second Edition;Print;3;0
-William T. Riker, Number One;S;Personnel;Federation;Second Edition;Print;3;0
-Worf, Security Detail Leader (Errata);S;Personnel;Federation;Second Edition;Print;3;0
-Worf, Strategic Operations Officer;S;Personnel;Federation;Second Edition;Print;3;0
-B'amara;C;Personnel;Klingon;Second Edition;Print;3;0
-B'Etor, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
-Bo'rak, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
-Dokar;C;Personnel;Klingon;Second Edition;Print;3;0
-Duras, Son of a Traitor;R;Personnel;Klingon;Second Edition;Print;3;0
-Gowron, Leader of the High Council;S;Personnel;Klingon;Second Edition;Print;3;0
-J'Dan;C;Personnel;Klingon;Second Edition;Print;3;0
+Julian Bashir, "Unnatural Freak";U;Personnel;Federation;Energize;Print;3;0
+Jural;C;Personnel;Cardassian;Energize;Print;3;0
+Just Like Old Times;U;Event;;Second Edition;Print;3;0
+Justice or Vengeance;S;Dilemma;;Call to Arms;Print;3;0
+K'mpec, Klingon Supreme Commander;R;Personnel;Klingon;Energize;Print;3;0
 K'nera, Klingon Defense Force Commander;S;Personnel;Klingon;Second Edition;Print;3;0
+Kahless, The Greatest Warrior of Them All;U;Personnel;Klingon;Energize;Print;3;0
+Kahless, The Unforgettable;R;Personnel;Klingon;Energize;Print;3;0
 Kahlest, GhojmoH of Worf;S;Personnel;Klingon;Second Edition;Print;3;0
 Kahmis;C;Personnel;Klingon;Second Edition;Print;3;0
+Kalandra, Battlefield Surgeon;U;Personnel;Federation;Second Edition;Print;3;0
+Kamala, The Perfect Mate;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Kang, Honored Warrior;R;Personnel;Klingon;Second Edition;Print;3;0
-Kitrik, "The Tyrant Molor" (Errata);S;Personnel;Klingon;Second Edition;Print;3;0
+Kargan, Rash Captain;R;Personnel;Klingon;Energize;Print;3;0
+Karina, Intelligence Analyst;U;Personnel;Romulan;Call to Arms;Print;3;0
+Kasidy Yates, Maquis Smuggler;R;Personnel;Non-Aligned;Call to Arms;Print;3;0
+Kathryn Janeway, Wry Admiral;R;Personnel;Federation;Second Edition;Print;3;0
+Keevan, Conniving Liar;U;Personnel;Dominion;Call to Arms;Print;3;0
+Keeve Falor;C;Personnel;Bajoran;Second Edition;Print;3;0
+Keiko O'Brien, School Teacher;R;Personnel;Federation;Energize;Print;3;0
+Keldon Advanced;U;Ship;Cardassian;Second Edition;Print;3;0
+Keldon;C;Ship;Cardassian;Second Edition;Print;3;0
+Kelly, Relief Tactical Officer;C;Personnel;Federation;Energize;Print;3;0
+Kelvan Show of Force;R;Dilemma;;Second Edition;Print;3;0
+Kevin Uxbridge;R;Interrupt;;Second Edition;Print;3;0
+Khar;C;Personnel;Klingon;Energize;Print;3;0
+Khazara;R;Ship;Romulan;Energize;Print;3;0
+Khitomer Investigation;S;Mission;;Second Edition;Print;2;0
+Khos;C;Personnel;Klingon;Energize;Print;3;0
+Kilana, Dissembling Envoy;S;Personnel;Dominion;Call to Arms;Print;3;0
+Kira Founder, Examiner;R;Personnel;Dominion;Call to Arms;Print;3;0
+Kira Nerys, Colonel Kira;R;Personnel;Bajoran;Second Edition;Print;3;0
+Kira Nerys, Impassioned Major;R;Personnel;Bajoran;Energize;Print;3;0
+Kira Nerys, Reformed Collaborator;R;Personnel;Bajoran;Call to Arms;Print;3;0
+Kitara;R;Ship;Bajoran;Energize;Print;3;0
+Kitrik, "The Tyrant Molor";S;Personnel;Klingon;Second Edition;Print;3;0
+Klingon Disruptor Pistol;U;Equipment;;Second Edition;Print;3;0
+Kobb;C;Personnel;Non-Aligned;Energize;Print;3;0
+Kolaran Raiders;S;Dilemma;;Second Edition;Print;3;0
+Kolos;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Koloth, D'akturak;R;Personnel;Klingon;Second Edition;Print;3;0
+Konmel, Renegade Warrior;R;Personnel;Klingon;Energize;Print;3;0
 Kor, Dahar Master;R;Personnel;Klingon;Second Edition;Print;3;0
+Kor, Noble Warrior to the End;R;Personnel;Klingon;Call to Arms;Print;3;0
+Koral, Dour Smuggler;C;Personnel;Klingon;Energize;Print;3;0
 Koroth, High Cleric of Boreth;U;Personnel;Klingon;Second Edition;Print;3;0
+Korris, Renegade Captain;R;Personnel;Klingon;Energize;Print;3;0
+Kotra;U;Event;;Energize;Print;3;0
+Kovat, Public Conservator;U;Personnel;Cardassian;Second Edition;Print;3;0
 Kroval;C;Personnel;Klingon;Second Edition;Print;3;0
 Kurak, Warp Field Specialist;R;Personnel;Klingon;Second Edition;Print;3;0
+Kurn, Bajoran Security Officer;R;Personnel;Bajoran;Energize;Print;3;0
 Kurn, Squadron Commander;R;Personnel;Klingon;Second Edition;Print;3;0
-Lursa, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
-Martok, Soldier of the Empire;R;Personnel;Klingon;Second Edition;Print;3;0
-Meraht;C;Personnel;Klingon;Second Edition;Print;3;0
-Morka, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
-Nu'Daq, Tenacious Rival;R;Personnel;Klingon;Second Edition;Print;3;0
-T'vis;C;Personnel;Klingon;Second Edition;Print;3;0
-Vorax;C;Personnel;Klingon;Second Edition;Print;3;0
-Acost Jared;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Altovar, Vindictive Criminal (Errata);R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Berild;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Bhavani;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Brull, Encampment Leader;U;Personnel;Non-Aligned;Second Edition;Print;3;0
-Chorgan, Leader of the Gatherers;U;Personnel;Non-Aligned;Second Edition;Print;3;0
-Dallan;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Dathon, Speaker of Tama;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Durg;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Etana Jol, Ktarian Operative;U;Personnel;Non-Aligned;Second Edition;Print;3;0
-Galnar;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Grathon Tolar, Hologram Forger;U;Personnel;Non-Aligned;Second Edition;Print;3;0
-Grenis;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Inad;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Jo'Bril, Patient Schemer;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Kamala, The Perfect Mate;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Kolos;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Labor Camp;U;Event;;Second Edition;Print;3;0
+Lapideas System, Geological Survey;S;Mission;;Second Edition;Print;2;0
+Larg, Piece of Baktag;U;Personnel;Klingon;Call to Arms;Print;3;0
+Lasting Peace;C;Interrupt;;Second Edition;Print;3;0
+Lauren, Seductress;R;Personnel;Federation;Call to Arms;Print;3;0
+Leeta, Dabo Girl;R;Personnel;Bajoran;Energize;Print;3;0
+Legal Proceedings;C;Event;;Energize;Print;3;0
+Lemec, Posturing Negotiator;U;Personnel;Cardassian;Second Edition;Print;3;0
+Let Honor Guide You;U;Event;;Second Edition;Print;3;0
 Leyor;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Leyton, Chief of Starfleet Operations;R;Personnel;Federation;Second Edition;Print;3;0
+Li Nalas, Legend of Bajor;S;Personnel;Bajoran;Second Edition;Print;3;0
+Liam Bilby, Family Man;C;Personnel;Non-Aligned;Energize;Print;3;0
+Lian T'su;C;Personnel;Federation;Second Edition;Print;3;0
+Life Support;C;Event;;Energize;Print;3;0
+Limara'Son, Fierce Soldier;U;Personnel;Dominion;Call to Arms;Print;3;0
+Limited Welcome;S;Dilemma;;Second Edition;Print;3;0
+Line of Defense;C;Event;;Second Edition;Print;3;0
+Locutus' Borg Cube;R;Ship;Borg;Call to Arms;Print;3;0
+Locutus, Voice of the Borg;R;Personnel;Borg;Call to Arms;Print;3;0
+Lopez;C;Personnel;Federation;Second Edition;Print;3;0
+Losta;C;Personnel;Klingon;Energize;Print;3;0
+Lovok Founder, Puppet Master;U;Personnel;Dominion;Call to Arms;Print;3;0
+Lovok, Tal Shiar Colonel;R;Personnel;Romulan;Second Edition;Print;3;0
+Lupaza, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
+Lursa, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
+Luther Sloan, Man of Secrets;R;Personnel;Federation;Second Edition;Print;3;0
+M'vil;U;Personnel;Klingon;Energize;Print;3;0
+Machinations;R;Event;;Energize;Print;3;0
+Macius;C;Personnel;Non-Aligned;Energize;Print;3;0
+Madred, Calculating Captor;R;Personnel;Cardassian;Second Edition;Print;3;0
+Maglock;R;Dilemma;;Second Edition;Print;3;0
+Magnetic Field Disruptions;C;Dilemma;;Second Edition;Print;3;0
+Magren;C;Personnel;Cardassian;Call to Arms;Print;3;0
+Makbar, Chief Archon;R;Personnel;Cardassian;Second Edition;Print;3;0
+Maques, Cairn Delegate;C;Personnel;Non-Aligned;Energize;Print;3;0
+Maquis Raider;C;Ship;Federation;Energize;Print;3;0
 Marouk, Sovereign of Acamar;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Marshor;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Martin;C;Personnel;Federation;Second Edition;Print;3;0
+Martok Founder, Poison of the Empire;S;Personnel;Dominion;Call to Arms;Print;3;0
+Martok, Leader of Destiny;U;Personnel;Klingon;Call to Arms;Print;3;0
+Martok, Soldier of the Empire;R;Personnel;Klingon;Second Edition;Print;3;0
+Mavek, Science Officer;U;Personnel;Cardassian;Call to Arms;Print;3;0
+McAllister C-5 Nebula, Mine Nebula;U;Mission;;Energize;Print;2;0
+Meaningless Words;C;Dilemma;;Energize;Print;3;0
+Medical Kit;C;Equipment;;Second Edition;Print;3;0
+Medical Relief;U;Mission;;Second Edition;Print;2;0
+Medical Tricorder;C;Equipment;;Second Edition;Print;3;0
+Megar;C;Personnel;Cardassian;Second Edition;Print;3;0
+Memory Invasion;C;Dilemma;;Energize;Print;3;0
+Mental Discipline;U;Event;;Energize;Print;3;0
+Meraht;C;Personnel;Klingon;Second Edition;Print;3;0
+Mercenary Ship;C;Ship;Non-Aligned;Energize;Print;3;0
+Michael Eddington, Noble Hero;R;Personnel;Federation;Energize;Print;3;0
+Michael Eddington, Traitor to Starfleet;R;Personnel;Federation;Call to Arms;Print;3;0
+Microbrain;C;Dilemma;;Second Edition;Print;3;0
+Miles O'Brien, Chief of Operations;R;Personnel;Federation;Second Edition;Print;3;0
+Miles O'Brien, Transporter Chief;R;Personnel;Federation;Energize;Print;3;0
+Military Exercises;U;Mission;;Second Edition;Print;2;0
+Mills;C;Personnel;Federation;Second Edition;Print;3;0
+Miner Disagreement;C;Dilemma;;Call to Arms;Print;3;0
+Mining Survey;S;Mission;;Second Edition;Print;2;0
+Miradorn Raider;C;Ship;Non-Aligned;Second Edition;Print;3;0
+Mirok, Interphase Researcher;U;Personnel;Romulan;Energize;Print;3;0
+Misguided Activist;C;Dilemma;;Second Edition;Print;3;0
+Mission Briefing;S;Interrupt;;Second Edition;Print;3;0
+Modern Galor;C;Ship;Cardassian;Call to Arms;Print;3;0
+Mopak;C;Personnel;Romulan;Second Edition;Print;3;0
+Mora Pol, Pioneering Scientist;U;Personnel;Bajoran;Second Edition;Print;3;0
+Morka, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
 Morn, Barfly;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Mouth of the Wormhole, Deep Space 9;S;Mission;;Second Edition;Print;2;0
+Mouth of the Wormhole, Terok Nor;U;Mission;;Call to Arms;Print;2;0
+Movar, Political General;S;Personnel;Romulan;Second Edition;Print;3;0
+Mullen;C;Personnel;Romulan;Call to Arms;Print;3;0
+Murder Investigation;C;Dilemma;;Call to Arms;Print;3;0
+N'Vek, Soldier of the Underground;R;Personnel;Romulan;Second Edition;Print;3;0
+Nanite Attack;R;Dilemma;;Second Edition;Print;3;0
+Narik;C;Personnel;Non-Aligned;Energize;Print;3;0
+Natima Lang, Professor of Political Ethics;U;Personnel;Cardassian;Energize;Print;3;0
+Nausicaan Pirates;C;Dilemma;;Energize;Print;3;0
+Negation Drone;U;Personnel;Borg;Call to Arms;Print;3;0
 Nel Apgar, Temperamental Researcher;U;Personnel;Non-Aligned;Second Edition;Print;3;0
+Nelvana Trap;R;Event;;Second Edition;Print;3;0
+Neral, Senate Proconsul;R;Personnel;Romulan;Energize;Print;3;0
+Nerot;C;Personnel;Cardassian;Call to Arms;Print;3;0
+Niles;C;Personnel;Federation;Energize;Print;3;0
+No Love for the Spoon Heads;U;Event;;Second Edition;Print;3;0
+No Peace in Our Time;R;Event;;Second Edition;Print;3;0
+Nog, Eager Cadet;R;Personnel;Federation;Second Edition;Print;3;0
+None Shall Pass;C;Dilemma;;Second Edition;Print;3;0
+Norah Satie, Starfleet Investigator;U;Personnel;Federation;Call to Arms;Print;3;0
+Noram;C;Personnel;Romulan;Second Edition;Print;3;0
+Noret'ikar;S;Personnel;Dominion;Call to Arms;Print;3;0
+Nothing That Happens is Truly Random;U;Event;;Second Edition;Print;3;0
+Nu'Daq, Tenacious Rival;R;Personnel;Klingon;Second Edition;Print;3;0
+Nydrom;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
+Observer from the Obsidian Order;U;Event;;Second Edition;Print;3;0
+Ocett, Dogged Rival;R;Personnel;Cardassian;Second Edition;Print;3;0
+Odera'Klen;C;Personnel;Dominion;Call to Arms;Print;3;0
+Odo, Constable;R;Personnel;Bajoran;Second Edition;Print;3;0
+Odo, Wayward Link;R;Personnel;Bajoran;Call to Arms;Print;3;0
+One With the Borg;U;Event;;Call to Arms;Print;3;0
+Opaka, Kai of Bajor;R;Personnel;Bajoran;Second Edition;Print;3;0
+Opposition Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Order of the Bat'leth;U;Event;;Second Edition;Print;3;0
+Ornaran Threat;C;Dilemma;;Second Edition;Print;3;0
+Our Death is Glory to the Founders;R;Interrupt;;Call to Arms;Print;3;0
+Overwhelmed;R;Dilemma;;Call to Arms;Print;3;0
+Pacify Warring Factions;U;Mission;;Call to Arms;Print;2;0
+Palteth;C;Personnel;Romulan;Energize;Print;3;0
+Pardek, Betrayer;R;Personnel;Romulan;Call to Arms;Print;3;0
+Parn;C;Personnel;Cardassian;Second Edition;Print;3;0
+Parting Shot;R;Interrupt;;Call to Arms;Print;3;0
+Patrick, Idiot Savant;U;Personnel;Federation;Call to Arms;Print;3;0
+Paulson;C;Personnel;Federation;Second Edition;Print;3;0
+Peaceful Contact;U;Mission;;Call to Arms;Print;2;0
+Peacemaker or Predator?;C;Event;;Second Edition;Print;3;0
+Pegasus Search;U;Mission;;Second Edition;Print;2;0
+Peldor Joi;U;Event;;Energize;Print;3;0
+Personal Duty;R;Dilemma;;Second Edition;Print;3;0
+Personal Forcefield;C;Event;;Energize;Print;3;0
+Picking Up the Basics;U;Event;;Energize;Print;3;0
+Picking Up the Pieces;U;Dilemma;;Energize;Print;3;0
+Pickpocket;C;Event;;Energize;Print;3;0
+Pierce Their Defenses;U;Event;;Second Edition;Print;3;0
+Pinned Down;S;Dilemma;;Second Edition;Print;3;0
+Plague Planet;U;Mission;;Second Edition;Print;2;0
+Planetary Survey;C;Dilemma;;Second Edition;Print;3;0
+Plasma Shock;U;Dilemma;;Energize;Print;3;0
+Plot Invasion;U;Mission;;Call to Arms;Print;2;0
+Point Blank Strike;U;Event;;Second Edition;Print;3;0
+Political Leverage;U;Event;;Energize;Print;3;0
+Porta, Advisor to the Emissary;R;Personnel;Bajoran;Call to Arms;Print;3;0
+Power to the Shields;U;Interrupt;;Second Edition;Print;3;0
+Power to the Weapons;C;Event;;Energize;Print;3;0
+Powerful Example;R;Interrupt;;Energize;Print;3;0
+Prakesh;U;Ship;Cardassian;Second Edition;Print;3;0
 Pran Tainer, Atrean Seismologist;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Precautionary Measures;U;Interrupt;;Energize;Print;3;0
+Precise Attack;U;Event;;Second Edition;Print;3;0
+Prejudice and Politics;U;Event;;Second Edition;Print;3;0
+Preservation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Primitive Culture;U;Dilemma;;Second Edition;Print;3;0
+Process Identification;U;Event;;Second Edition;Print;3;0
+Protection of the Tal Shiar;U;Interrupt;;Second Edition;Print;3;0
+Pseudopod;R;Interrupt;;Call to Arms;Print;3;0
+Psychic Receptacle;U;Dilemma;;Call to Arms;Print;3;0
+Psycho-Kinetic Attack;S;Dilemma;;Call to Arms;Print;3;0
+Psychological Pressure;R;Event;;Call to Arms;Print;3;0
+Pursuit Course;R;Interrupt;;Second Edition;Print;3;0
+Pursuit Just Behind;R;Dilemma;;Second Edition;Print;3;0
+Qo'noS, Heart of the Empire;S;Mission;;Second Edition;Print;2;0
+Quaint Technology;U;Dilemma;;Energize;Print;3;0
+Qualor II Rendezvous;U;Mission;;Second Edition;Print;2;0
+Quantum Filament;R;Dilemma;;Call to Arms;Print;3;0
+Quantum Slipstream Drive;C;Interrupt;;Second Edition;Print;3;0
+Quark, Resistance Informant;R;Personnel;Ferengi;Call to Arms;Print;3;0
+Quarren Labor Shortage;U;Dilemma;;Second Edition;Print;3;0
+Quest for the Sword of Kahless;U;Mission;;Second Edition;Print;2;0
+Quite a Coincidence;C;Event;;Call to Arms;Print;3;0
 Rabal;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Racial Tension;C;Dilemma;;Energize;Print;3;0
+Raimus, Criminal Master;U;Personnel;Non-Aligned;Energize;Print;3;0
+Rak'tazan;C;Personnel;Dominion;Call to Arms;Print;3;0
+Ranjen Koral, Student of B'hala;U;Personnel;Bajoran;Second Edition;Print;3;0
+Rash Aggression;C;Event;;Energize;Print;3;0
+Rebecca Sullivan, Resistance Fighter;R;Personnel;Federation;Energize;Print;3;0
+Reclamation Drone;U;Personnel;Borg;Call to Arms;Print;3;0
+Reconfiguration;C;Event;;Energize;Print;3;0
+Recurring Injury;C;Dilemma;;Second Edition;Print;3;0
 Regana Tosh;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Regeneration Alcoves;C;Event;;Call to Arms;Print;3;0
+Reginald Barclay, Reclusive Engineer;R;Personnel;Federation;Call to Arms;Print;3;0
+Reklar;R;Ship;Cardassian;Second Edition;Print;3;0
+Relentless;R;Interrupt;;Energize;Print;3;0
+Remata'Klan, Unit Leader;R;Personnel;Dominion;Call to Arms;Print;3;0
+Remus, Supervise Dilithium Mine;S;Mission;;Second Edition;Print;2;0
+Render Assistance;S;Interrupt;;Second Edition;Print;3;0
+Rescue Captives;U;Event;;Second Edition;Print;3;0
+Rescue Prisoners of War;S;Mission;;Call to Arms;Print;2;0
+Research Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Resistance Tactics;R;Event;;Second Edition;Print;3;0
+Restock Ketracel-White;U;Mission;;Call to Arms;Print;2;0
+Restricted Area;U;Dilemma;;Call to Arms;Print;3;0
+Retaliation;R;Event;;Energize;Print;3;0
 Retaya, Urbane Poisoner;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Riva, Respected Mediator;U;Personnel;Non-Aligned;Second Edition;Print;3;0
-Serova, Warp Field Theorist;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Soto;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Sunad;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Temarek;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-The Albino, Killer of Children;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Togaran;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Tosk, The Hunted;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Ty Kajada, Relentless Investigator;S;Personnel;Non-Aligned;Second Edition;Print;3;0
-Vash, Treasure Hunter;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Volnoth;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Alidar Jarok, Conscientious Admiral;U;Personnel;Romulan;Second Edition;Print;3;0
-Chagrith;C;Personnel;Romulan;Second Edition;Print;3;0
-Cretak, Supporter of the Alliance;S;Personnel;Romulan;Second Edition;Print;3;0
-Donatra, Compassionate Patriot;R;Personnel;Romulan;Second Edition;Print;3;0
-Dralvak;C;Personnel;Romulan;Second Edition;Print;3;0
-Hiren, Romulan Praetor;U;Personnel;Romulan;Second Edition;Print;3;0
-Jorvas;C;Personnel;Romulan;Second Edition;Print;3;0
-Lovok, Tal Shiar Colonel;R;Personnel;Romulan;Second Edition;Print;3;0
-Mopak;C;Personnel;Romulan;Second Edition;Print;3;0
-Movar, Political General;S;Personnel;Romulan;Second Edition;Print;3;0
-N'Vek, Soldier of the Underground;R;Personnel;Romulan;Second Edition;Print;3;0
-Noram;C;Personnel;Romulan;Second Edition;Print;3;0
+Rixx;C;Personnel;Federation;Second Edition;Print;3;0
+Ro Laren, Maquis Sympathizer;C;Personnel;Bajoran;Energize;Print;3;0
+Robin Lefler, Mission Specialist;U;Personnel;Federation;Second Edition;Print;3;0
+Rock People;C;Dilemma;;Call to Arms;Print;3;0
+Roga Danar, Decorated Subhadar;R;Personnel;Non-Aligned;Energize;Print;3;0
+Rogesh;C;Personnel;Cardassian;Second Edition;Print;3;0
+Rogue Borg Ambush;U;Dilemma;;Call to Arms;Print;3;0
+Rom, Diagnostic and Repair Technician;R;Personnel;Bajoran;Second Edition;Print;3;0
+Rom, Undercover Spy;R;Personnel;Ferengi;Call to Arms;Print;3;0
+Romulan Disruptor Pistol;U;Equipment;;Second Edition;Print;3;0
+Romulan Intelligence Network;U;Event;;Second Edition;Print;3;0
+Romulan Scout Vessel;C;Ship;Romulan;Second Edition;Print;3;0
+Romulus, Seat of Power;S;Mission;;Second Edition;Print;2;0
+Runabout Search;U;Mission;;Second Edition;Print;2;0
+Ruwon, Intelligence Analyst;R;Personnel;Romulan;Call to Arms;Print;3;0
+Sabotage Program;U;Event;;Call to Arms;Print;3;0
 Sabrun;C;Personnel;Romulan;Second Edition;Print;3;0
+Sakonna, Gunrunner;R;Personnel;Non-Aligned;Energize;Print;3;0
+Salvage Borg Ship;S;Mission;;Call to Arms;Print;2;0
+Salvaging the Wreckage;C;Event;;Energize;Print;3;0
+Sarina Douglas, Cataleptic Conundrum;U;Personnel;Federation;Call to Arms;Print;3;0
+Sark;C;Personnel;Non-Aligned;Energize;Print;3;0
+Science PADD;C;Equipment;;Second Edition;Print;3;0
+Scimitar, Predator;R;Ship;Romulan;Second Edition;Print;3;0
+Search and Rescue;U;Mission;;Second Edition;Print;2;0
+Search for Survivors;S;Mission;;Second Edition;Print;2;0
+Secret Conspiracy;R;Interrupt;;Second Edition;Print;3;0
+Secret Identity;U;Dilemma;;Call to Arms;Print;3;0
+Security Briefing;S;Mission;;Second Edition;Print;2;0
+Security Sweep;U;Interrupt;;Call to Arms;Print;3;0
 Sela, Mysterious Operative;R;Personnel;Romulan;Second Edition;Print;3;0
 Selveth, Tal Shiar Pilot;U;Personnel;Romulan;Second Edition;Print;3;0
+Sensing a Trap;U;Event;;Call to Arms;Print;3;0
+Sensitive Search;S;Mission;;Second Edition;Print;2;0
+Sensor Sweep;U;Interrupt;;Second Edition;Print;3;0
+Sermon;R;Interrupt;;Second Edition;Print;3;0
+Serova, Warp Field Theorist;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Serrola;R;Ship;Romulan;Second Edition;Print;3;0
+Set Up;R;Event;;Call to Arms;Print;3;0
+Seth Mendoza;C;Personnel;Federation;Second Edition;Print;3;0
+Seven of Nine, Part of the Greater Whole;R;Personnel;Borg;Call to Arms;Print;3;0
+Seven of Nine, Representative of the Hive;S;Personnel;Borg;Call to Arms;Print;3;0
+Severed Link;C;Event;;Call to Arms;Print;3;0
+Shadow Operation;R;Event;;Energize;Print;3;0
+Shady Resources;S;Interrupt;;Second Edition;Print;3;0
+Shakaar Edon, Resistance Leader;R;Personnel;Bajoran;Second Edition;Print;3;0
+Shandor;C;Personnel;Bajoran;Second Edition;Print;3;0
+Sharat;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
+Shared Delicacy;U;Interrupt;;Energize;Print;3;0
+Sheer Lunacy;C;Dilemma;;Call to Arms;Print;3;0
 Shinzon, Capable Commander;R;Personnel;Romulan;Second Edition;Print;3;0
 Shinzon, Romulan Praetor;S;Personnel;Romulan;Second Edition;Print;3;0
+Sickbay;U;Event;;Energize;Print;3;0
+Signal for Rescue;U;Mission;;Call to Arms;Print;2;0
+Sirol, Diplomatic Adversary;R;Personnel;Romulan;Energize;Print;3;0
+Skeleton Crew;U;Dilemma;;Call to Arms;Print;3;0
+Skullduggery;U;Dilemma;;Second Edition;Print;3;0
+Sluggo;R;Event;;Call to Arms;Print;3;0
+Smuggling Run;U;Event;;Energize;Print;3;0
+So Many Enemies;C;Dilemma;;Call to Arms;Print;3;0
+Sokath, His Eyes Uncovered!;S;Dilemma;;Call to Arms;Print;3;0
+Sorting Things Out;C;Dilemma;;Energize;Print;3;0
+Soterus;R;Ship;Romulan;Call to Arms;Print;3;0
+Soto;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Souls of the Dead;C;Interrupt;;Second Edition;Print;3;0
+Stage Bombardment;U;Mission;;Call to Arms;Print;2;0
+Standard Cardassian Procedure;U;Event;;Second Edition;Print;3;0
+Starfleet Type-2 Phaser;U;Equipment;;Second Edition;Print;3;0
+Staunch Determination;U;Event;;Energize;Print;3;0
+Steeled By Loss;R;Event;;Call to Arms;Print;3;0
+Stellar Core Fragment;C;Dilemma;;Second Edition;Print;3;0
+Stir Crazy;C;Event;;Call to Arms;Print;3;0
+Stolen Computer Core;U;Dilemma;;Energize;Print;3;0
+Straying from the Path;R;Event;;Energize;Print;3;0
+Stricken Dumb;U;Interrupt;;Energize;Print;3;0
+Study Cometary Cloud;S;Mission;;Second Edition;Print;2;0
+Study Rare Phenomenon;U;Mission;;Call to Arms;Print;2;0
+Subspace Accident;C;Dilemma;;Energize;Print;3;0
+Sunad;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Suran, Ambitious Commander;R;Personnel;Romulan;Second Edition;Print;3;0
+Surgery Under Fire;S;Mission;;Second Edition;Print;2;0
+Survey Star System;S;Mission;;Call to Arms;Print;2;0
+Symbol of Devotion;U;Interrupt;;Second Edition;Print;3;0
+Sympathetic Magic;R;Dilemma;;Second Edition;Print;3;0
+Systems Diagnostic;C;Dilemma;;Second Edition;Print;3;0
+T'Lani Munitions Ship;C;Ship;Non-Aligned;Second Edition;Print;3;0
+T'Lara;C;Personnel;Federation;Second Edition;Print;3;0
+T'Lor;C;Personnel;Federation;Second Edition;Print;3;0
+T'Rul, Curt Subcommander;U;Personnel;Romulan;Energize;Print;3;0
+T'vis;C;Personnel;Klingon;Second Edition;Print;3;0
+Tactical Planning;U;Event;;Second Edition;Print;3;0
+Tahna Los, Voice of the Kohn-Ma;U;Personnel;Bajoran;Call to Arms;Print;3;0
+Taken Prisoner;U;Event;;Second Edition;Print;3;0
 Tal'Aura, Impatient Senator;R;Personnel;Romulan;Second Edition;Print;3;0
 Talvin;C;Personnel;Romulan;Second Edition;Print;3;0
+Tama;U;Ship;Non-Aligned;Energize;Print;3;0
+Tamarian Vessel;C;Ship;Non-Aligned;Second Edition;Print;3;0
+Tapestry;R;Event;;Second Edition;Print;3;0
 Taris, Deceitful Subcommander;U;Personnel;Romulan;Second Edition;Print;3;0
+Tasha Yar, Chief of Security;R;Personnel;Federation;Second Edition;Print;3;0
+Team of Ambassadors;C;Interrupt;;Energize;Print;3;0
 Telek R'Mor, Astrophysical Researcher;R;Personnel;Romulan;Second Edition;Print;3;0
+Telepathic Deception;C;Dilemma;;Energize;Print;3;0
+Temarek;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Temba, His Arms Wide;U;Event;;Energize;Print;3;0
+Temptation;U;Dilemma;;Second Edition;Print;3;0
+Tenak'talar, Weyoun's Warship;R;Ship;Dominion;Call to Arms;Print;3;0
+Tense Negotiations;C;Dilemma;;Second Edition;Print;3;0
+Terix;R;Ship;Romulan;Energize;Print;3;0
+The Albino, Killer of Children;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+The Blight;R;Event;;Call to Arms;Print;3;0
+The Crystalline Entity;R;Event;;Call to Arms;Print;3;0
+The Demands of Duty;R;Dilemma;;Call to Arms;Print;3;0
+The Enterprise Incident;R;Event;;Call to Arms;Print;3;0
+The Founder is Wise;C;Interrupt;;Call to Arms;Print;3;0
+The Manheim Effect;R;Event;;Call to Arms;Print;3;0
+The Moon's a Window to Heaven;R;Dilemma;;Second Edition;Print;3;0
+The Orion Underworld;R;Event;;Second Edition;Print;3;0
+The Pillage of Bajor;U;Event;;Second Edition;Print;3;0
+The Promise;S;Interrupt;;Second Edition;Print;3;0
+The Prophets' Guidance;C;Interrupt;;Energize;Print;3;0
+The Reman Mines;U;Event;;Second Edition;Print;3;0
+The Siege of AR-558;U;Mission;;Call to Arms;Print;2;0
+The Sirah, The Storyteller;U;Personnel;Bajoran;Energize;Print;3;0
+The Text of the Kosst Amojan;R;Event;;Energize;Print;3;0
+The Tides of Fortune;U;Interrupt;;Second Edition;Print;3;0
+The Trial Never Ended;U;Event;;Call to Arms;Print;3;0
+The Truth of War;C;Interrupt;;Energize;Print;3;0
 The Viceroy, Shinzon's Protector;R;Personnel;Romulan;Second Edition;Print;3;0
+The Will of the Collective;U;Event;;Call to Arms;Print;3;0
 Thexor;S;Personnel;Romulan;Second Edition;Print;3;0
+Tholun;C;Personnel;Dominion;Call to Arms;Print;3;0
+Thomas Riker, Defiant Leader;R;Personnel;Federation;Energize;Print;3;0
+Thorel;C;Personnel;Cardassian;Call to Arms;Print;3;0
+Ties of Blood and Water;S;Interrupt;;Second Edition;Print;3;0
+Timescape;C;Dilemma;;Energize;Print;3;0
+To Boldly Go;U;Event;;Second Edition;Print;3;0
+Togaran;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Tomalak, Beguiling Adversary;R;Personnel;Romulan;Second Edition;Print;3;0
-Vreenak, Tal Shiar Chairman;R;Personnel;Romulan;Second Edition;Print;3;0
-Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;0
-Bajoran Interceptor;C;Ship;Bajoran;Second Edition;Print;3;0
-Bajoran Scout Vessel;C;Ship;Bajoran;Second Edition;Print;3;0
-Bralek;R;Ship;Cardassian;Second Edition;Print;3;0
-Galor;C;Ship;Cardassian;Second Edition;Print;3;0
-Keldon;C;Ship;Cardassian;Second Edition;Print;3;0
-Keldon Advanced;U;Ship;Cardassian;Second Edition;Print;3;0
-Prakesh;U;Ship;Cardassian;Second Edition;Print;3;0
-Reklar;R;Ship;Cardassian;Second Edition;Print;3;0
-Vetar;R;Ship;Cardassian;Second Edition;Print;3;0
+Tora Ziyal, Beloved Daughter;R;Personnel;Cardassian;Call to Arms;Print;3;0
+Toraan;C;Personnel;Romulan;Energize;Print;3;0
+Toreth, Cautious Commander;R;Personnel;Romulan;Energize;Print;3;0
+Torga IV, Salvage Dominion Ship;S;Mission;;Call to Arms;Print;2;0
+Torture;U;Interrupt;;Second Edition;Print;3;0
+Tosk, The Hunted;R;Personnel;Non-Aligned;Second Edition;Print;3;0
+Tozara'Kesh;C;Personnel;Dominion;Call to Arms;Print;3;0
+Trabe Grenade;C;Dilemma;;Second Edition;Print;3;0
+Training Accident;R;Dilemma;;Energize;Print;3;0
+Traitor Exposed;C;Dilemma;;Energize;Print;3;0
+Transwarp Drone;C;Personnel;Borg;Call to Arms;Print;3;0
+Trazko, Hired Muscle;R;Personnel;Bajoran;Second Edition;Print;3;0
+Treat Plague Ship;U;Mission;;Energize;Print;2;0
+Triage;C;Dilemma;;Second Edition;Print;3;0
+Trial of Faith;U;Event;;Call to Arms;Print;3;0
+Tricorder;C;Equipment;;Second Edition;Print;3;0
+Trolarak;R;Ship;Romulan;Energize;Print;3;0
+Twist of Fate;R;Interrupt;;Second Edition;Print;3;0
+Ty Kajada, Relentless Investigator;S;Personnel;Non-Aligned;Second Edition;Print;3;0
 U.S.S. Akira;S;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Defiant, Prototype Warship;R;Ship;Federation;Second Edition;Print;3;0
+U.S.S. Defiant, Stolen Warship;R;Ship;Federation;Call to Arms;Print;3;0
 U.S.S. Enterprise-E, Federation Envoy;R;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Excelsior;C;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Galaxy;C;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Nebula;S;Ship;Federation;Second Edition;Print;3;0
 U.S.S. Sovereign;U;Ship;Federation;Second Edition;Print;3;0
-I.K.S. Hegh'ta;R;Ship;Klingon;Second Edition;Print;3;0
-I.K.S. K't'inga;C;Ship;Klingon;Second Edition;Print;3;0
-I.K.S. K'Vort;U;Ship;Klingon;Second Edition;Print;3;0
-I.K.S. Lukara;U;Ship;Klingon;Second Edition;Print;3;0
-I.K.S. Maht-H'a;R;Ship;Klingon;Second Edition;Print;3;0
-I.K.S. Rotarran, Ship of Tears;R;Ship;Klingon;Second Edition;Print;3;0
-I.K.S. Vor'cha;S;Ship;Klingon;Second Edition;Print;3;0
-Flaxian Scout Vessel;C;Ship;Non-Aligned;Second Edition;Print;3;0
-Miradorn Raider;C;Ship;Non-Aligned;Second Edition;Print;3;0
-T'Lani Munitions Ship;C;Ship;Non-Aligned;Second Edition;Print;3;0
-Tamarian Vessel;C;Ship;Non-Aligned;Second Edition;Print;3;0
-D'deridex;S;Ship;Romulan;Second Edition;Print;3;0
-D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
-Deranas;U;Ship;Romulan;Second Edition;Print;3;0
-Haakona;R;Ship;Romulan;Second Edition;Print;3;0
-Romulan Scout Vessel;C;Ship;Romulan;Second Edition;Print;3;0
-Scimitar, Predator;R;Ship;Romulan;Second Edition;Print;3;0
-Serrola;R;Ship;Romulan;Second Edition;Print;3;0
-Valdore;R;Ship;Romulan;Second Edition;Print;3;0
-A Klingon Matter;U;Dilemma;;Energize;Print;3;0
-Casualties of War;R;Dilemma;;Energize;Print;3;0
-Crippling Attack;U;Dilemma;;Energize;Print;3;0
-Dedication to Duty;C;Dilemma;;Energize;Print;3;0
-Disgraceful Assault;C;Dilemma;;Energize;Print;3;0
-Disruptor Accident;C;Dilemma;;Energize;Print;3;0
-DNA Security Scan;C;Dilemma;;Energize;Print;3;0
-Exposed Power Relay;U;Dilemma;;Energize;Print;3;0
-Face to Face;R;Dilemma;;Energize;Print;3;0
-Flim-Flam Artist;U;Dilemma;;Energize;Print;3;0
-Head to Head;R;Dilemma;;Energize;Print;3;0
-Hired Muscle;U;Dilemma;;Energize;Print;3;0
-Houdini Mines;C;Dilemma;;Energize;Print;3;0
-Meaningless Words;C;Dilemma;;Energize;Print;3;0
-Memory Invasion;C;Dilemma;;Energize;Print;3;0
-Nausicaan Pirates;C;Dilemma;;Energize;Print;3;0
-Picking Up the Pieces;U;Dilemma;;Energize;Print;3;0
-Plasma Shock;U;Dilemma;;Energize;Print;3;0
-Quaint Technology;U;Dilemma;;Energize;Print;3;0
-Racial Tension;C;Dilemma;;Energize;Print;3;0
-Sorting Things Out;C;Dilemma;;Energize;Print;3;0
-Stolen Computer Core;U;Dilemma;;Energize;Print;3;0
-Subspace Accident;C;Dilemma;;Energize;Print;3;0
-Telepathic Deception;C;Dilemma;;Energize;Print;3;0
-Timescape;C;Dilemma;;Energize;Print;3;0
-Training Accident;R;Dilemma;;Energize;Print;3;0
-Traitor Exposed;C;Dilemma;;Energize;Print;3;0
-Unexpected;C;Dilemma;;Energize;Print;3;0
-Bat'leth (Errata);C;Equipment;;Energize;Print;3;0
-Ak'voh;R;Event;;Energize;Print;3;0
-Assassination Plot;R;Event;;Energize;Print;3;0
-Born for Conquest;U;Event;;Energize;Print;3;0
-Brief Reunion;U;Event;;Energize;Print;3;0
-Cargo Run;C;Event;;Energize;Print;3;0
-Common Ground;R;Event;;Energize;Print;3;0
-Complications;R;Event;;Energize;Print;3;0
-Confessions in the Pale Moonlight;R;Event;;Energize;Print;3;0
-Conscription;R;Event;;Energize;Print;3;0
-Crowd Control;C;Event;;Energize;Print;3;0
-Deep Roots;R;Event;;Energize;Print;3;0
-Disable Sensors;R;Event;;Energize;Print;3;0
-Ferocity;U;Event;;Energize;Print;3;0
-For the Cause (Errata);C;Event;;Energize;Print;3;0
-For The Sisko;U;Event;;Energize;Print;3;0
-Heart of Glory;C;Event;;Energize;Print;3;0
-Kotra;U;Event;;Energize;Print;3;0
-Legal Proceedings;C;Event;;Energize;Print;3;0
-Life Support;C;Event;;Energize;Print;3;0
-Machinations (Errata);R;Event;;Energize;Print;3;0
-Mental Discipline;U;Event;;Energize;Print;3;0
-Peldor Joi;U;Event;;Energize;Print;3;0
-Personal Forcefield;C;Event;;Energize;Print;3;0
-Picking Up the Basics;U;Event;;Energize;Print;3;0
-Pickpocket;C;Event;;Energize;Print;3;0
-Political Leverage;U;Event;;Energize;Print;3;0
-Power to the Weapons;C;Event;;Energize;Print;3;0
-Rash Aggression;C;Event;;Energize;Print;3;0
-Reconfiguration;C;Event;;Energize;Print;3;0
-Retaliation;R;Event;;Energize;Print;3;0
-Salvaging the Wreckage;C;Event;;Energize;Print;3;0
-Shadow Operation;R;Event;;Energize;Print;3;0
-Sickbay;U;Event;;Energize;Print;3;0
-Smuggling Run;U;Event;;Energize;Print;3;0
-Staunch Determination;U;Event;;Energize;Print;3;0
-Straying from the Path;R;Event;;Energize;Print;3;0
-Temba, His Arms Wide;U;Event;;Energize;Print;3;0
-The Text of the Kosst Amojan (Errata);R;Event;;Energize;Print;3;0
+Uncover DNA Clues;U;Mission;;Second Edition;Print;2;0
 Under Scrutiny;R;Event;;Energize;Print;3;0
-Unexpected Difficulties (Errata);C;Event;;Energize;Print;3;0
+Under Suspicion;U;Event;;Call to Arms;Print;3;0
+Unexpected Difficulties;C;Event;;Energize;Print;3;0
+Unexpected;C;Dilemma;;Energize;Print;3;0
+Unicomplex, Root of the Hive Mind;S;Mission;;Call to Arms;Print;2;0
+Unscientific Method;R;Dilemma;;Second Edition;Print;3;0
 Unseen Manipulations;U;Event;;Energize;Print;3;0
+Valdore;R;Ship;Romulan;Second Edition;Print;3;0
+Valjean;R;Ship;Federation;Energize;Print;3;0
+Van Orton;C;Personnel;Federation;Second Edition;Print;3;0
+Vandros IV, Destroy Iconian Gateway;S;Mission;;Call to Arms;Print;2;0
+Varen'agor;C;Personnel;Dominion;Call to Arms;Print;3;0
+Varis Sul, Tetrarch of the Paqu;U;Personnel;Bajoran;Energize;Print;3;0
+Vash, Treasure Hunter;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Vast Resources;U;Event;;Energize;Print;3;0
-Visionary;R;Event;;Energize;Print;3;0
-We Will Not Surrender;U;Event;;Energize;Print;3;0
-Bank Heist;U;Interrupt;;Energize;Print;3;0
-Coordinated Attack;C;Interrupt;;Energize;Print;3;0
-Diplomatic Masquerade;U;Interrupt;;Energize;Print;3;0
-Discreet Inquiry;U;Interrupt;;Energize;Print;3;0
-Emergency Treatment;C;Interrupt;;Energize;Print;3;0
-Fresh Tactic;C;Interrupt;;Energize;Print;3;0
-Honorable Death;U;Interrupt;;Energize;Print;3;0
-If Wishes Were Horses;R;Interrupt;;Energize;Print;3;0
-Ja'chuq;R;Interrupt;;Energize;Print;3;0
-Powerful Example;R;Interrupt;;Energize;Print;3;0
-Precautionary Measures;U;Interrupt;;Energize;Print;3;0
-Relentless;R;Interrupt;;Energize;Print;3;0
-Shared Delicacy;U;Interrupt;;Energize;Print;3;0
-Stricken Dumb;U;Interrupt;;Energize;Print;3;0
-Team of Ambassadors;C;Interrupt;;Energize;Print;3;0
-The Prophets' Guidance;C;Interrupt;;Energize;Print;3;0
-The Truth of War;C;Interrupt;;Energize;Print;3;0
+Vastly Outnumbered;U;Dilemma;;Second Edition;Print;3;0
+Vekor;C;Personnel;Non-Aligned;Energize;Print;3;0
+Verify Evidence;U;Mission;;Second Edition;Print;2;0
+Vetar;R;Ship;Cardassian;Second Edition;Print;3;0
 Vile Deception;R;Interrupt;;Energize;Print;3;0
 Vision of Violence;C;Interrupt;;Energize;Print;3;0
+Visionary;R;Event;;Energize;Print;3;0
+Volnoth;C;Personnel;Non-Aligned;Second Edition;Print;3;0
+Vorax;C;Personnel;Klingon;Second Edition;Print;3;0
+Vorta Cloning;C;Event;;Call to Arms;Print;3;0
+Vreenak, Tal Shiar Chairman;R;Personnel;Romulan;Second Edition;Print;3;0
+Warrior's Birthright;C;Event;;Second Edition;Print;3;0
+Wavefront;C;Dilemma;;Second Edition;Print;3;0
 We Are Klingon;U;Interrupt;;Energize;Print;3;0
+We Will Not Surrender;U;Event;;Energize;Print;3;0
+We're Everywhere;C;Interrupt;;Call to Arms;Print;3;0
+We're Mutants;U;Event;;Call to Arms;Print;3;0
+Weld Ram;C;Personnel;Bajoran;Second Edition;Print;3;0
 Well-Crafted Lure;U;Interrupt;;Energize;Print;3;0
-Aid Clone Colony;U;Mission;;Energize;Print;2;0
-Athos IV, Maquis Base (Errata);U;Mission;;Energize;Print;2;0
-Avert Danger;U;Mission;;Energize;Print;2;0
-Brute Force;U;Mission;;Energize;Print;2;0
-Cargo Haul (Errata);U;Mission;;Energize;Print;2;0
-Investigate Maquis Activity;U;Mission;;Energize;Print;2;0
-McAllister C-5 Nebula, Mine Nebula (Errata);U;Mission;;Energize;Print;2;0
-Treat Plague Ship;U;Mission;;Energize;Print;2;0
-Akorem Laan, Revered Poet (Errata);U;Personnel;Bajoran;Energize;Print;3;0
-Borum, Selfless Hero;R;Personnel;Bajoran;Energize;Print;3;0
-Jaro Essa, Leader of the Circle;R;Personnel;Bajoran;Energize;Print;3;0
-Kira Nerys, Impassioned Major;R;Personnel;Bajoran;Energize;Print;3;0
-Kurn, Bajoran Security Officer;R;Personnel;Bajoran;Energize;Print;3;0
-Leeta, Dabo Girl;R;Personnel;Bajoran;Energize;Print;3;0
-Ro Laren, Maquis Sympathizer;C;Personnel;Bajoran;Energize;Print;3;0
-The Sirah, The Storyteller;U;Personnel;Bajoran;Energize;Print;3;0
-Varis Sul, Tetrarch of the Paqu;U;Personnel;Bajoran;Energize;Print;3;0
-Winn Adami, Devious Manipulator;R;Personnel;Bajoran;Energize;Print;3;0
-Boheeka, Clandestine Connection;U;Personnel;Cardassian;Energize;Print;3;0
-Enabran Tain, Retired Mastermind;R;Personnel;Cardassian;Energize;Print;3;0
-Evek, Harsh Interrogator;R;Personnel;Cardassian;Energize;Print;3;0
-Jural;C;Personnel;Cardassian;Energize;Print;3;0
-Natima Lang, Professor of Political Ethics;U;Personnel;Cardassian;Energize;Print;3;0
-Benjamin Sisko, Man of Resolve;U;Personnel;Federation;Energize;Print;3;0
-Cal Hudson, Attaché to the Demilitarized Zone;U;Personnel;Federation;Energize;Print;3;0
-Chakotay, Freedom Fighter;R;Personnel;Federation;Energize;Print;3;0
-Ezri Dax, Station Counselor;R;Personnel;Federation;Energize;Print;3;0
-Jake Sisko, Temporal Anchor (Errata);R;Personnel;Federation;Energize;Print;3;0
-Joseph Sisko, Creole Chef (Errata);U;Personnel;Federation;Energize;Print;3;0
-Julian Bashir, "Unnatural Freak";U;Personnel;Federation;Energize;Print;3;0
-Keiko O'Brien, School Teacher;R;Personnel;Federation;Energize;Print;3;0
-Kelly, Relief Tactical Officer;C;Personnel;Federation;Energize;Print;3;0
-Michael Eddington, Noble Hero;R;Personnel;Federation;Energize;Print;3;0
-Miles O'Brien, Transporter Chief;R;Personnel;Federation;Energize;Print;3;0
-Niles;C;Personnel;Federation;Energize;Print;3;0
-Rebecca Sullivan, Resistance Fighter;R;Personnel;Federation;Energize;Print;3;0
-Thomas Riker, Defiant Leader;R;Personnel;Federation;Energize;Print;3;0
+Wesley Crusher, Prodigy;R;Personnel;Federation;Second Edition;Print;3;0
+Weyoun, Instrument of the Founders;U;Personnel;Dominion;Call to Arms;Print;3;0
+Weyoun, Loyal Subject of the Dominion;R;Personnel;Dominion;Call to Arms;Print;3;0
 William Patrick Samuels, Maquis Saboteur;U;Personnel;Federation;Energize;Print;3;0
-Bregath;C;Personnel;Klingon;Energize;Print;3;0
-Divok;C;Personnel;Klingon;Energize;Print;3;0
-Drex, Arrogant Warrior;R;Personnel;Klingon;Energize;Print;3;0
-K'mpec, Klingon Supreme Commander;R;Personnel;Klingon;Energize;Print;3;0
-Kahless, The Greatest Warrior of Them All;U;Personnel;Klingon;Energize;Print;3;0
-Kahless, The Unforgettable;R;Personnel;Klingon;Energize;Print;3;0
-Kargan, Rash Captain;R;Personnel;Klingon;Energize;Print;3;0
-Khar;C;Personnel;Klingon;Energize;Print;3;0
-Khos;C;Personnel;Klingon;Energize;Print;3;0
-Konmel, Renegade Warrior;R;Personnel;Klingon;Energize;Print;3;0
-Koral, Dour Smuggler;C;Personnel;Klingon;Energize;Print;3;0
-Korris, Renegade Captain;R;Personnel;Klingon;Energize;Print;3;0
-Losta;C;Personnel;Klingon;Energize;Print;3;0
-M'vil;U;Personnel;Klingon;Energize;Print;3;0
-Amaros, Earnest Vanguard;U;Personnel;Non-Aligned;Energize;Print;3;0
-Arctus Baran, Mercenary Captain;C;Personnel;Non-Aligned;Energize;Print;3;0
-Harana;C;Personnel;Non-Aligned;Energize;Print;3;0
-Jaglom Shrek;C;Personnel;Non-Aligned;Energize;Print;3;0
-Kobb;C;Personnel;Non-Aligned;Energize;Print;3;0
-Liam Bilby, Family Man;C;Personnel;Non-Aligned;Energize;Print;3;0
-Macius;C;Personnel;Non-Aligned;Energize;Print;3;0
-Maques, Cairn Delegate;C;Personnel;Non-Aligned;Energize;Print;3;0
-Narik;C;Personnel;Non-Aligned;Energize;Print;3;0
-Raimus, Criminal Master;U;Personnel;Non-Aligned;Energize;Print;3;0
-Roga Danar, Decorated Subhadar;R;Personnel;Non-Aligned;Energize;Print;3;0
-Sakonna, Gunrunner;R;Personnel;Non-Aligned;Energize;Print;3;0
-Sark;C;Personnel;Non-Aligned;Energize;Print;3;0
-Vekor;C;Personnel;Non-Aligned;Energize;Print;3;0
-Galathon, Steadfast Rival;R;Personnel;Romulan;Energize;Print;3;0
-Mirok, Interphase Researcher;U;Personnel;Romulan;Energize;Print;3;0
-Neral, Senate Proconsul;R;Personnel;Romulan;Energize;Print;3;0
-Palteth;C;Personnel;Romulan;Energize;Print;3;0
-Sirol, Diplomatic Adversary;R;Personnel;Romulan;Energize;Print;3;0
-T'Rul, Curt Subcommander;U;Personnel;Romulan;Energize;Print;3;0
-Toraan;C;Personnel;Romulan;Energize;Print;3;0
-Toreth, Cautious Commander;R;Personnel;Romulan;Energize;Print;3;0
-Kitara;R;Ship;Bajoran;Energize;Print;3;0
-Aldara;R;Ship;Cardassian;Energize;Print;3;0
-Guingouin;U;Ship;Federation;Energize;Print;3;0
-Maquis Raider;C;Ship;Federation;Energize;Print;3;0
-Valjean;R;Ship;Federation;Energize;Print;3;0
-I.K.S. Qam-Chee;R;Ship;Klingon;Energize;Print;3;0
-Fortune;R;Ship;Non-Aligned;Energize;Print;3;0
-Mercenary Ship;C;Ship;Non-Aligned;Energize;Print;3;0
-Tama;U;Ship;Non-Aligned;Energize;Print;3;0
-Khazara;R;Ship;Romulan;Energize;Print;3;0
-Terix;R;Ship;Romulan;Energize;Print;3;0
-Trolarak;R;Ship;Romulan;Energize;Print;3;0
+William T. Riker, Number One;S;Personnel;Federation;Second Edition;Print;3;0
+Winn Adami, Devious Manipulator;R;Personnel;Bajoran;Energize;Print;3;0
+Winn Adami, Kai of Bajor;U;Personnel;Bajoran;Second Edition;Print;3;0
+Worf, Security Detail Leader;S;Personnel;Federation;Second Edition;Print;3;0
+Worf, Strategic Operations Officer;S;Personnel;Federation;Second Edition;Print;3;0
+Wormhole Negotiations;U;Mission;;Second Edition;Print;2;0
+Xhosa;R;Ship;Non-Aligned;Call to Arms;Print;3;0
+Yak'Talon, Deadly Patroller;U;Personnel;Dominion;Call to Arms;Print;3;0
+Yassim, Zealous Protester;R;Personnel;Bajoran;Call to Arms;Print;3;0
+Yelgrun, Blunt Negotiator;R;Personnel;Dominion;Call to Arms;Print;3;0
+Yelsar;C;Personnel;Bajoran;Call to Arms;Print;3;0
+You Could Be Invaluable;U;Interrupt;;Call to Arms;Print;3;0
