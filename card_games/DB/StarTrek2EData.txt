@@ -3891,8 +3891,7 @@ Wolf 359, Last Stand;V;Mission;;20th Anniversary Collection;Virtual;2;0
 Worf, Chief of Security;VP;Personnel;Federation;Virtual Promo;Virtual;3;0 // Two virtual promos
 Worf, Clandestine Staffer;V;Personnel;Federation;Unity;Virtual;3;0
 Worf, Conn Officer;U;Personnel;Federation;Necessary Evil;Print;3;0
-Worf, Defiant Commander;R/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
-Worf, Defiant Commander;V;Personnel;Federation;Second Skin;Virtual;3;0
+Worf, Defiant Commander;R/VP/V;Personnel;Federation;In a Mirror Darkly/Virtual Promo/Second Skin;Both;3;0
 Worf, Desirous Disciple;V;Personnel;Klingon;Zero Hour;Virtual;3;0
 Worf, First Officer;P;Personnel;Federation;Fractured Time;Print;3;0
 Worf, Governor of H'atoria;C;Personnel;Klingon;What You Leave Behind;Print;3;0
