@@ -8,3 +8,5 @@ Aussie Hold the Line;Italy;UK;1/24/1941;Mechili, Libya;African;11,14;12;Desert H
 Outflank Trap;Italy;UK;2/7/1941;Beda Fomm, Libya;African;12,13;12;Desert Heat
 Nothing Left to Lose;Italy;UK;11/19/1941;Bir el Gubi, Libya;African;12,13;12;Desert Heat
 Free French at Bir Hacheim;Italy;France;5/27/1942;Bir Hacheim, Libya;African;12;9;Desert Heat
+Parters Advance;Italy, Germany;UK;4/8/1941;Mechili, Libya;African;11, 13;8;Desert Heat
+Steel Beasts on Aslagh Ridge;Italy;UK;5/30/1942;Gazala, Libya;African;12,13;10;Desert Heat
