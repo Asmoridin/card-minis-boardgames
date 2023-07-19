@@ -10,3 +10,5 @@ Nothing Left to Lose;Italy;UK;11/19/1941;Bir el Gubi, Libya;African;12,13;12;Des
 Free French at Bir Hacheim;Italy;France;5/27/1942;Bir Hacheim, Libya;African;12;9;Desert Heat
 Parters Advance;Italy, Germany;UK;4/8/1941;Mechili, Libya;African;11, 13;8;Desert Heat
 Steel Beasts on Aslagh Ridge;Italy;UK;5/30/1942;Gazala, Libya;African;12,13;10;Desert Heat
+Indian Summer;Germany;UK;7/1/1942;;African;13,14;10;Desert Heat
+Out of Time and Ammunition;Italy;UK;7/3/1942;El Alamein, Egypt;African;13;10;Desert Heat
