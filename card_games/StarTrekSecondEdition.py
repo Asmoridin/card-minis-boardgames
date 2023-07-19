@@ -4,7 +4,9 @@ import sys, os
 
 GAME_NAME = "Star Trek: Second Edition"
 
-physical_sets = ['Necessary Evil', 'Energize', 'What You Leave Behind']
+physical_sets = ['Necessary Evil', 'Energize', 'What You Leave Behind', 'Second Edition', 'Call to Arms', 'Tenth Anniversary Collection', 'Fractured Time'
+    'Reflections 2.0', 'Archive Portrait', 'Strange New Worlds', 'To Boldly Go', 'Dangerous Missions', "Captain's Log", 'Genesis', 'These Are The Voyages',
+    'In A Mirror Darkly', 'What You Leave Behind', ]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/StarTrek2EData.txt', 'r')
