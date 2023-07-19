@@ -79,6 +79,44 @@ for line in filter_lines:
 filter_lines = new_filter_lines
 card_set_sorter = []
 for card_set in card_set_map:
-    card_set_sorter.append((card_set, card_set_map[card_set][1]/card_set_map[card_set][0], card_set_map[card_set][0] - card_set_map[card_set][1]))
+    if print_type_sorter[0][0] == 'Print' and card_set in physical_sets:
+        card_set_sorter.append((card_set, card_set_map[card_set][1]/card_set_map[card_set][0], card_set_map[card_set][0] - card_set_map[card_set][1]))
+    elif print_type_sorter[0][0] == 'Virtual' and card_set not in physical_sets:
+        card_set_sorter.append((card_set, card_set_map[card_set][1]/card_set_map[card_set][0], card_set_map[card_set][0] - card_set_map[card_set][1]))
 card_set_sorter = sorted(card_set_sorter, key=lambda x:(x[1], -x[2], x[0]))
-print(card_set_sorter) # Check if we have a physical set or not
+
+# Sort by card type, and filter by card set
+card_type_map = {}
+new_filter_lines = []
+for line in filter_lines:
+    if card_set_sorter[0][0] in line[1]:
+        if line[2] not in card_type_map:
+            card_type_map[line[2]] = [0, 0]
+        card_type_map[line[2]][0] += line[6]
+        card_type_map[line[2]][1] += line[7]
+        new_filter_lines.append(line)
+filter_lines = new_filter_lines
+card_type_sorter = []
+for card_type in card_type_map:
+    card_type_sorter.append((card_type, card_type_map[card_type][1]/card_type_map[card_type][0], card_type_map[card_type][0] - card_type_map[card_type][1]))
+card_type_sorter = sorted(card_type_sorter, key=lambda x:(x[1], -x[2], x[0]))
+
+# Find a final card to go with
+final_sorter = []
+for line in filter_lines:
+    if line[2] == card_type_sorter[0][0]:
+        final_sorter.append((line[5], line[7]/line[6], line[6] - line[7]))
+final_sorter = sorted(final_sorter, key=lambda x:(x[1], -x[2], x[0]))
+final_card = ''
+for card in filter_lines:
+    if card[5] == final_sorter[0][0]:
+        final_card = card
+
+if __name__ == "__main__":
+    if os.getcwd().endswith('card-minis-boardgames'):
+        out_file_h = open("card_games/output/ST2EOut.txt", 'w')
+    else:
+        out_file_h = open("output/ST2EOut.txt", 'w')
+    
+    double_print("Have %d out of %d - %.2f percent" % (total_own, total_max, total_own * 100/total_max), out_file_h)
+    double_print("Buy a %s from %s, maybe %s (have %d out of %d)" % (final_card[2], final_card[1], final_card[5], final_card[7], final_card[6]), out_file_h)
