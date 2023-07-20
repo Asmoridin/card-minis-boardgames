@@ -6,7 +6,7 @@ Achelous;Roman;Set 8;1;0
 Achillea;Roman;Set 8;1;0
 Achilles;Greek;Set 1;1;0
 Adon;Carthaginian;Set 8;1;0
-Aeizanas of Axum;African Kingdoms;Set 8;1;0
+Aeizanas of Axum;African Kingdoms;Set 8;1;0 // Have badly printed version
 Aeneas;Trojan;Set 7;1;0
 Afroditi;Trojan;Set 7;1;0
 Agamemnon;Greek;Set 7;1;0
@@ -43,7 +43,7 @@ Anne Bonny;Irish/Pirate;Set 6;1;0
 Antariya;East Indian;Set 10;1;0
 Anu;Irish;Set 4;1;0
 Anubis;Roman/Egyptian;Set 8;1;0
-Apedemak;African Kingdoms;Set 8;1;0
+Apedemak;African Kingdoms;Set 8;1;0 // Have badly printed version
 Apollo;Roman;Set 1;1;0
 Apranik;Persian;Set 4;1;0
 Ar-a-mach Crabhach;Scottish;Set 3;1;0
@@ -76,7 +76,7 @@ Atropos;Greek;Promo;1;0
 Attila the Hun;Mongol;Set 2;1;0
 Augustus;UNKNOWN;Promo;1;0
 Auitzotl;Aztec;Set 5;1;0
-Axumite Obelisk;African Kingdoms;Set 8;1;0
+Axumite Obelisk;African Kingdoms;Set 8;1;0 // Have badly printed version
 Ay It-hetjer;Egyptian;Set 10;1;0
 Azukinagamitsu;Japanese;Set 5;1;0
 B'gsw;Egyptian;Set 2;1;0
@@ -111,7 +111,7 @@ Bec de Corbin;French;Promo;1;0
 Belt of Hippolyte;Greek;Set 1;1;0
 Benrig Medb;Irish;Set 4;1;0
 Beowulf;Norse;Set 1;1;0
-Berber Takouba;African Kingdoms;Set 8;1;0
+Berber Takouba;African Kingdoms;Set 8;1;0 // Have badly printed version
 Berengaria;Briton;Set 2;1;0
 Berserkergangr;Norse;Set 1;1;0
 Beyazid I, the Thunderbolt;Turkish;Set 6;1;0
@@ -130,7 +130,7 @@ Boarding Axe;Irish/Pirate;Set 6;1;0
 Boethius;Germanic;Set 3;1;0
 Bokken;Japanese;Set 1;1;0
 Bonaid Tri-Iteagan;Scottish;Set 3;1;0
-Bone-Handled Dagger;African Kingdoms;Set 8;1;0
+Bone-Handled Dagger;African Kingdoms;Set 8;1;0 // Have badly printed version
 Book of the Law;Tribes of Israel;Set 10;1;0
 Boonesborough;American Frontiersmen;Set 7;1;0
 Bouclier Carolingien;French;Set 3;1;0
@@ -148,7 +148,7 @@ Brunhild;Norse;Set 9;1;0
 Brutus;Trojan;Set 7;1;0
 Brynhilds Spyd;Norse;Set 9;1;0
 Bucephalus;Greek;Set 1;1;0
-Buffalo Tactic;African Kingdoms;Set 8;1;0
+Buffalo Tactic;African Kingdoms;Set 8;1;0 // Have badly printed version
 Burebista;Romanian;Set 6;1;0
 Burhs;Briton;Set 8;1;0
 Burqan-Qaldun;Mongol;Set 2;1;0
@@ -240,7 +240,7 @@ Cutlass;Pirate/Welsh;Set 9;1;0
 Cyrus the Great;Persian;Set 4;1;0
 D'Artagnan;French;Promo;1;0
 Daeboreum;Korean;Set 9;1;0
-Dahiyah al-Kahina;African Kingdoms;Set 8;1;0
+Dahiyah al-Kahina;African Kingdoms;Set 8;1;0 // Have badly printed version
 Dahl Shield;East Indian;Set 10;1;0
 Damhan-Allaidh Leantalach;Scottish;Set 3;1;0
 Dane Axe;Norse;Set 1;1;0
@@ -250,7 +250,7 @@ Dao;Chinese;Set 2;1;0
 Darius the Great;Persian;Set 4;1;0
 David;Tribes of Israel;Set 7;1;0
 Davy Jones' Locker;Welsh/Pirate;Set 6;1;0
-Dawn's Love;African Kingdoms;Set 8;1;0
+Dawn's Love;African Kingdoms;Set 8;1;0 // Have badly printed version
 De Bello Gallico;Roman;Set 1;1;0
 De Gronlandske Kolonier;Norse;Set 9;1;0
 Deed of Emancipation;American Frontiersmen;Set 7;1;0
@@ -260,11 +260,11 @@ Dhruvasvamini;East Indian;Set 10;1;0
 Diao Chan;Chinese;Set 6;1;0
 Diet of Roncaglia;Holy Roman;Set 10;1;0
 Dilitiriasmeno Velos;Trojan;Set 7;1;0
-Dingiswayo;African Kingdoms;Set 8;1;0
+Dingiswayo;African Kingdoms;Set 8;1;0 // Have badly printed version
 Dionysus;Persian;Set 4;1;0
 Disaccordi Vantaggiosi;Italian;Set 9;1;0
 Disciplina;Roman;Set 1;1;0
-Djellaba;African Kingdoms;Set 8;1;0
+Djellaba;African Kingdoms;Set 8;1;0 // Have badly printed version
 Dli Breithim;Irish;Set 4;1;0
 Do;Japanese;Set 1;1;0
 Domesday Book;Briton;Set 8;1;0
@@ -292,7 +292,7 @@ Eleni tis Spartis;Trojan;Set 7;1;0
 Elephantry;East Indian;Set 10;1;0
 Elhaz Rune;Norse;Set 1;1;0
 Ensis;Roman;Set 8;1;0
-Eos;African Kingdoms;Set 8;1;0
+Eos;African Kingdoms;Set 8;1;0 // Have badly printed version
 Epee Carolingienne;French;Set 3;1;0
 Epee Celtique;French;Set 3;1;0
 Epee de Martel;French;Set 3;1;0
@@ -302,7 +302,7 @@ Erik the Red;Norse;Set 9;1;0
 Escudo de Carlos V;Spanish;Set 5;1;0
 Espasa;Carthaginian;Set 8;1;0
 Ethelfleda;Briton;Set 8;1;0
-Ethiopian Spear;African Kingdoms;Set 8;1;0
+Ethiopian Spear;African Kingdoms;Set 8;1;0 // Have badly printed version
 Excalibur;Briton;Set 2;1;0
 Fabian Tactics;Roman;Set 8;1;0
 Fabius Maximus;Roman;Set 8;1;0
@@ -328,7 +328,7 @@ Fredegunde;Germanic;Set 3;1;0
 Frederick I Barbarossa;Holy Roman;Set 10;1;0
 Freya;Germanic;Set 3;1;0
 Freydis Eiriksdottir;Norse;Set 1;1;0
-Frumentius;African Kingdoms;Set 8;1;0
+Frumentius;African Kingdoms;Set 8;1;0 // Have badly printed version
 Full Mail Hauberk;Briton;Set 2;1;0
 Furinkazan;Japanese;Set 5;1;0
 Fusta;Pirate/Turkish;Set 9;1;0
@@ -403,7 +403,7 @@ Hatupatu;Maori;Set 4;1;0
 Haubergeon;Briton;Set 8;1;0
 Hauhau-Te-Rangi;Maori;Set 4;1;0
 Hawaiki;Maori;Promo;1;0
-Head of the First Emperor;African Kingdoms;Set 8;1;0
+Head of the First Emperor;African Kingdoms;Set 8;1;0 // Have badly printed version
 Healsbeorgs;Norse;Set 1;1;0
 Heavy Chariot;Tribes of Israel;Set 10;1;0
 Heavy Pilum;Roman;Set 8;1;0
@@ -446,7 +446,7 @@ Hugh Glass;American Frontiersmen;Set 7;1;0
 Huitzilopochtli;Aztec;Set 5;1;0
 Hunter's Paradise;American Frontiersmen;Set 7;1;0
 Hwandodaedo;Korean;Set 9;1;0
-I-klwa;African Kingdoms;Set 8;1;0
+I-klwa;African Kingdoms;Set 8;1;0 // Have badly printed version
 Iaculum;Roman;Set 8;1;0
 Iberian Helm;Carthaginian;Set 8;1;0
 Ichcahuipilli;Aztec;Set 5;1;0
@@ -463,7 +463,7 @@ Iombhas Forasna;Scottish;Set 3;1;0
 Iron Pillar of Delhi;East Indian;Set 10;1;0
 Isabella I of Castile;Spanish;Set 5;1;0
 Ishida-Sanyaku;Japanese;Set 5;1;0
-IsiHlangu;African Kingdoms;Set 8;1;0
+IsiHlangu;African Kingdoms;Set 8;1;0 // Have badly printed version
 Isla Tortuga;Pirate;Promo;1;0
 Israelite Bow;Tribes of Israel;Set 10;1;0
 Istanbul;Turkish;Promo;1;0
@@ -498,7 +498,7 @@ Jue Ying;Chinese;Set 6;1;0
 Julius Caesar;Roman;Set 1;1;0
 Jupiter;Roman;Set 1;1;0
 Justinian I;Byzantine;Set 10;1;0
-Kahina;African Kingdoms;Set 8;1;0
+Kahina;African Kingdoms;Set 8;1;0 // Have badly printed version
 Kahu Kiwi;Maori;Set 4;1;0
 Kali;East Indian;Set 10;1;0
 Kaliva tis Ekalis;Greek;Set 7;1;0
@@ -512,7 +512,7 @@ Katar;East Indian;Set 10;1;0
 Kawanakajima;Japanese;Set 5;1;0
 Kaws;Saracen;Set 5;1;0
 Kebentiu;Egyptian;Set 10;1;0
-Kedeke Amanirenas;African Kingdoms;Set 8;1;0
+Kedeke Amanirenas;African Kingdoms;Set 8;1;0 // Have badly printed version
 Kemuri-Kona;Japanese;Set 1;1;0
 Ketoneth;Tribes of Israel;Set 7;1;0
 Khadim ul Haremeyn;Turkish;Set 6;1;0
@@ -645,8 +645,8 @@ Mehmed II, the Conquerer;Turkish;Set 6;1;0
 Mektup in Komutan;Turkish;Set 6;1;0
 Melchizedek;Tribes of Israel;Set 10;1;0
 Melqart;Carthaginian;Set 8;1;0
-Memnon;African Kingdoms;Set 8;1;0
-Memnonides;African Kingdoms;Set 8;1;0
+Memnon;African Kingdoms;Set 8;1;0 // Have badly printed version
+Memnonides;African Kingdoms;Set 8;1;0 // Have badly printed version
 Mempo;Japanese;Set 1;1;0
 Menelaos;Greek;Set 7;1;0
 Mercurino Gattinara;Spanish;Set 5;1;0
@@ -684,7 +684,7 @@ Naginata;Japanese;Set 1;1;0
 Nakano Takeko;Japanese;Set 1;1;0
 Naomh Maireid;Scottish;Set 3;1;0
 Nape Luta Wahachanka;Native American;Set 3;1;0
-Negusa Nagast;African Kingdoms;Set 8;1;0
+Negusa Nagast;African Kingdoms;Set 8;1;0 // Have badly printed version
 Nemere;Mongol;Set 2;1;0
 Nemesis;Greek;Set 1;1;0
 Neptune;UNKNOWN;Promo;1;0
@@ -710,7 +710,7 @@ Old Glory;American Frontiersmen;Promo;1;0
 Olifant;French;Set 3;1;0
 Olivier III de Clisson;Pirate/French;Set 9;1;0
 Olmutz Hjelm;Norse;Set 9;1;0
-One-Eyed Candace;African Kingdoms;Set 8;1;0
+One-Eyed Candace;African Kingdoms;Set 8;1;0 // Have badly printed version
 Oprichniki;Russian;Set 4;1;0
 Oracle of Delphi;Greek;Set 1;1;0
 Ordin de Balaur;Romanian;Promo;1;0
@@ -755,7 +755,7 @@ Pou Whenua;Maori;Promo;1;0
 Ppalgong Angma Gabot;Korean;Set 9;1;0
 Priam;Trojan;Set 7;1;0
 Prinz Mikhail Skopin-Shuisky;Russian;Set 4;1;0
-Prophecy;African Kingdoms;Set 8;1;0
+Prophecy;African Kingdoms;Set 8;1;0 // Have badly printed version
 Propirgio ton Axeon;Greek;Set 7;1;0
 Prosveschenniy Absolutism;Russian;Set 4;1;0
 Ptah;Egyptian;Set 10;1;0
@@ -841,7 +841,7 @@ Sfidare Bolla Papale;Italian;Set 9;1;0
 Sgathach an Eilein Sgiathanaich;Scottish;Set 3;1;0
 Sgiath Gailbhinn;Irish;Set 4;1;0
 Shabrack;Norse;Set 9;1;0
-Shaka Zulu;African Kingdoms;Set 8;1;0
+Shaka Zulu;African Kingdoms;Set 8;1;0 // Have badly printed version
 Shamshir;Persian;Promo;1;0
 Shan Dian Mao;Chinese;Set 6;1;0
 Shan Wen Jia;Chinese;Set 2;1;0
@@ -918,7 +918,7 @@ Swept-Hilt Rapier;Briton/Pirate;Set 6;1;0
 Sweyn I Forkbeard;Norse;Set 9;1;0
 Sword in the Stone;Briton;Set 8;1;0
 Sword of Mars;Mongol;Set 2;1;0
-Ta-Seti;African Kingdoms;Set 8;1;0
+Ta-Seti;African Kingdoms;Set 8;1;0 // Have badly printed version
 Taejo of Joseon;Korean;Set 9;1;0
 Tahra';Tribes of Israel;Set 7;1;0
 Tai Chi Gun;Chinese;Set 6;1;0
