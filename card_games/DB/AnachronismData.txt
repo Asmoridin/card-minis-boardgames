@@ -217,7 +217,7 @@ Club Hauling;Pirate/Welsh;Set 9;1;0
 Code du Paladin;French;Set 3;1;0
 Common Soldier's Disguise;Tribes of Israel;Set 10;1;0
 Confucius;Chinese;Promo;1;0
-Copilli;Aztec;Set 5;1;0
+Copilli;Aztec;Set 5;1;1
 Cota Corta;Spanish;Set 5;1;0
 Cotte de Mailles du Paladin;French;Set 3;1;0
 Couronne Imperiale;French;Set 3;1;0
@@ -235,7 +235,7 @@ Culain Tairbh;Irish;Set 4;1;0
 Cumhnant Briste;Scottish;Set 3;1;0
 Cunctator;Roman;Set 8;1;0
 Cupa de Aur;Romanian;Set 6;1;0
-Custer's Last Stand;UNKNOWN;Promo;1;0
+Custer's Last Stand;American Frontiersmen;Promo;1;0 // Have badly printed version
 Cutlass;Pirate/Welsh;Set 9;1;0
 Cyrus the Great;Persian;Set 4;1;0
 D'Artagnan;French;Promo;1;0
@@ -669,7 +669,7 @@ Mithradates VI the Great;Persian;Set 4;1;0
 Mitray-i;Persian;Set 4;1;0
 Miyamoto Musashi;Japanese;Set 1;1;0
 Mjollnir;Norse;Set 1;1;0
-Moctezuma II;Aztec;Set 5;1;0
+Moctezuma II;Aztec;Set 5;1;1
 Mokkgum;Korean;Set 9;1;0
 Moko;Maori;Set 4;1;0
 Mor Rioghain;Irish;Set 4;1;0
@@ -706,7 +706,7 @@ Oda Nobunaga;Japanese;Set 1;1;0
 Odin;Norse;Set 1;1;0
 Odysseus;Greek;Set 7;1;0
 Okichize Channunpa;Native American;Set 3;1;0
-Old Glory;American Frontiersmen;Promo;1;0
+Old Glory;American Frontiersmen;Promo;1;0 // Have badly printed version
 Olifant;French;Set 3;1;0
 Olivier III de Clisson;Pirate/French;Set 9;1;0
 Olmutz Hjelm;Norse;Set 9;1;0
@@ -772,7 +772,7 @@ Quauhololli;Aztec;Promo;1;0
 Qubbat al-Nabi;Turkish;Set 6;1;0
 Queen Anne's Revenge;Briton/Pirate;Promo;1;0
 Queen Elissar;UNKNOWN;Promo;1;0
-Quetzalcoatl;Aztec;Set 5;1;0
+Quetzalcoatl;Aztec;Set 5;1;1
 Ra;Egyptian;Set 2;1;0
 Raibeart Brus;Scottish;Set 3;1;0
 Ramses II;Egyptian;Set 2;1;0
@@ -939,7 +939,7 @@ Tariq ibn Ziyad;Saracen;Set 5;1;0
 Tarnkappe;Germanic;Set 3;1;0
 Te Kohatu-o-Hatupatu;Maori;Set 4;1;0
 Te Raupraha;Maori;Set 4;1;0
-Tecpatl;Aztec;Set 5;1;0
+Tecpatl;Aztec;Set 5;1;1
 Tecumtha;Native American;Set 3;1;0
 Tekhen Waty;Egyptian;Set 10;1;0
 Tematlatl;Aztec;Set 5;1;0
@@ -977,7 +977,7 @@ Tizona y Colada;Spanish;Set 5;1;0
 Tlacaelel;Aztec;Set 5;1;0
 Tlacochtli;Aztec;Set 5;1;0
 Tlaloc;Aztec;Set 5;1;0
-Tlimatli;Aztec;Set 5;1;0
+Tlimatli;Aztec;Set 5;1;1
 Tomahawk;American Frontiersmen;Set 7;1;0
 Tomas de Torquemada;Spanish;Promo;1;0
 Tomor Scimitar;Mongol;Set 2;1;0
@@ -1045,6 +1045,7 @@ Xanadu;Mongol;Set 2;1;0
 Xanthippus;Carthaginian;Set 8;1;0
 Xerxes I;Persian;Promo;1;0
 Xifos;Greek;Set 7;1;0
+Xipe Totec;Aztec;Promo;1;0 // Have badly printed version
 Xochivaovotl;Aztec;Set 5;1;0
 Xps Pr;Egyptian;Set 10;1;0
 Xtipimeno Mproutzino Thorakio;Trojan;Set 7;1;0
