@@ -12,3 +12,5 @@ Parters Advance;Italy, Germany;UK;4/8/1941;Mechili, Libya;African;11, 13;8;Deser
 Steel Beasts on Aslagh Ridge;Italy;UK;5/30/1942;Gazala, Libya;African;12,13;10;Desert Heat
 Indian Summer;Germany;UK;7/1/1942;;African;13,14;10;Desert Heat
 Out of Time and Ammunition;Italy;UK;7/3/1942;El Alamein, Egypt;African;13;10;Desert Heat
+10th Panzer vs The Big Red One;Italy, Germany;USA;3/21/1943;El Guetter, Tunisia;African;13,14;10;Desert Heat
+First Come First Defense;Germany;France, USA;1/30/1943;Faid, Tunisia;African;13;10;Desert Heat
