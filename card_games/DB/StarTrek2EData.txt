@@ -2791,8 +2791,7 @@ Revised Kizar;V;Personnel;Federation;Caretaker;Virtual;3;0
 Revised Neelix, Hedgehog Ops Officer;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Revised Paris, Female Ensign Chaser;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Revised Paris, Female Ensign Chaser;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
-Revised Seven of Nine, Shock-Trooper;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Revised Seven of Nine, Shock-Trooper;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Revised Seven of Nine, Shock-Trooper;U/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
 Revised Tuvok, Evil Instrument of Destruction;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Revok, Eager Ally;V;Personnel;Cardassian;Balance of Terror;Virtual;3;0
 Reyga, Young Scientist;V;Personnel;Ferengi;Favor the Bold;Virtual;3;0
@@ -2806,8 +2805,7 @@ Riley Shepard, Confident Cadet;C;Personnel;Federation;Necessary Evil;Print;3;0
 Rinnak Pire;VP;Personnel;Bajoran;Inheritance;Virtual;3;0
 Rionoj;V;Personnel;Non-Aligned;Hard Time;Virtual;3;0
 Ripple Effect;V;Event;;A Time to Stand;Virtual;3;0
-Risa, Shore Leave;U;Mission;;What You Leave Behind;Print;2;0
-Risa, Shore Leave;VP;Mission;;Virtual Promo;Virtual;3;0
+Risa, Shore Leave;U/VP;Mission;;What You Leave Behind/Virtual Promo;Both;2;0
 Rise to the Occasion;V;Interrupt;;Lower Decks;Virtual;3;0
 Rishon Uxbridge;V;Event;;The Menagerie;Virtual;3;0
 Riva, Respected Mediator;U;Personnel;Non-Aligned;Second Edition;Print;3;0
@@ -2835,18 +2833,15 @@ Rollins, Trusted Subordinate;V;Personnel;Federation;Caretaker;Virtual;3;0
 Rom, Diagnostic and Repair Technician;R;Personnel;Bajoran;Second Edition;Print;3;0
 Rom, Little Green Man;U;Personnel;Ferengi;What You Leave Behind;Print;3;0
 Rom, Professional Soldier;U;Personnel;Ferengi;In a Mirror Darkly;Print;3;0
-Rom, Undercover Spy;R;Personnel;Ferengi;Call to Arms;Print;3;0
-Rom, Undercover Spy;V;Personnel;Ferengi;Second Skin;Virtual;3;0
+Rom, Undercover Spy;R/V;Personnel;Ferengi;Call to Arms/Second Skin;Both;3;0
 Rom, Younger Brother;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Romara Cal, Personal Physician;V;Personnel;Bajoran;Shattered Mirror;Virtual;3;0
 Romulan Disruptor Pistol;U;Equipment;;Second Edition;Print;3;0
 Romulan Impersonator, "Geordi La Forge";V;Personnel;Romulan;Legacy;Virtual;3;0
 Romulan Intelligence Network;U;Event;;Second Edition;Print;3;0
 Romulan Scout Vessel;C;Ship;Romulan;Second Edition;Print;3;0
-Romulus, Patient Stronghold;V;Mission;;Face of the Enemy;Virtual;2;0
-Romulus, Patient Stronghold;V;Mission;;Move Along Home;Virtual;1;0
-Romulus, Seat of Power;S;Mission;;Second Edition;Print;2;0
-Romulus, Seat of Power;V;Mission;;Move Along Home;Virtual;1;0
+Romulus, Patient Stronghold;V;Mission;;Face of the Enemy/Move Along Home;Virtual;2;0
+Romulus, Seat of Power;S/V;Mission;;Second Edition/Move Along Home;Both;2;0
 Ronald Tracey, Delusional Captain;V;Personnel;Federation;Tacking Into the Wind;Virtual;3;0
 Rossi;V;Personnel;Starfleet;A Time to Stand;Virtual;3;0
 Rota Sevrin, Deranged Doctor;V;Personnel;Non-Aligned;Zero Hour;Virtual;3;0
@@ -2866,13 +2861,11 @@ Rule of Acquisition #18;U;Event;;These Are The Voyages;Print;3;0
 Rule of Acquisition #194;V;Event;;Lineage;Virtual;3;0
 Rule of Acquisition #22;C;Event;;Strange New Worlds;Print;3;0
 Rule of Acquisition #239;V;Interrupt;;Lineage;Virtual;3;0
-Rule of Acquisition #33;U;Interrupt;;What You Leave Behind;Print;3;0
-Rule of Acquisition #33;VP;Interrupt;;Virtual Promo;Virtual;3;0
+Rule of Acquisition #33;U/VP;Interrupt;;What You Leave Behind/Virtual Promo;Both;3;0
 Rule of Acquisition #34;V;Event;;Tacking Into the Wind;Virtual;3;0
 Rule of Acquisition #45;V;Event;;Heroes and Demons;Virtual;3;0
 Rule of Acquisition #62;V;Event;;Heroes and Demons;Virtual;3;0
-Rule of Acquisition #6;R;Event;;Strange New Worlds;Print;3;0
-Rule of Acquisition #6;VP;Event;;Virtual Promo;Virtual;3;0
+Rule of Acquisition #6;R/VP;Event;;Strange New Worlds/Virtual Promo;Both;3;0
 Rule of Acquisition #75;V;Event;;Strange Bedfellows;Virtual;3;0
 Rule of Acquisition #76;C;Event;;Strange New Worlds;Print;3;0
 Rules of Obedience;VP;Dilemma;;Inheritance;Virtual;3;0
@@ -2880,15 +2873,13 @@ Ruling Council;V;Interrupt;;Peak Performance;Virtual;3;0
 Runabout Search;U;Mission;;Second Edition;Print;2;0
 Running a Tight Ship;R;Event;;Necessary Evil;Print;3;0
 Rush Job;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
-Rusot, Proud Nationalist;U;Personnel;Cardassian;Necessary Evil;Print;3;0
-Rusot, Proud Nationalist;VP;Personnel;Cardassian;Virtual Promo;Virtual;3;0
+Rusot, Proud Nationalist;U/VP;Personnel;Cardassian;Necessary Evil/Virtual Promo;Both;3;0
 Russell Toddman, Security Conscious;V;Personnel;Federation;Return to Grace;Virtual;3;0
 Ruthless Efficiency;V;Event;;Sacrifice of Angels;Virtual;3;0
 Ruwon, Hindering Analyst;V;Personnel;Romulan;Peak Performance;Virtual;3;0
 Ruwon, Intelligence Analyst;R;Personnel;Romulan;Call to Arms;Print;3;0
 S'Salk, Gorn Captain;R;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
-S'rrel;V;Personnel;Federation;Zero Hour;Virtual;3;0
-S'rrel;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+S'rrel;V/VP;Personnel;Federation;Zero Hour/Virtual Promo;Virtual;3;0
 Saavik, Protégée;P;Personnel;Federation;Genesis;Print;3;0
 Sabotage Program;U;Event;;Call to Arms;Print;3;0
 Sabotaged Reactor;C;Dilemma;;Captain's Log;Print;3;0
@@ -2903,13 +2894,11 @@ Salvaging the Wreckage;C;Event;;Energize;Print;3;0
 Sam'po, Left in Command;V;Personnel;Dominion;Heroes and Demons;Virtual;3;0
 Samantha Wildman, First Mother on Voyager;U;Personnel;Federation;Captain's Log;Print;3;0
 Samuel T. Cogley, Attorney at Law;V;Personnel;Federation;Classification: Civilian;Virtual;3;0
-Santos, Squad Leader;P;Personnel;Federation;Reflections 2.0;Print;3;0
-Santos, Squad Leader;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Santos, Squad Leader;P/VP;Personnel;Federation;Reflections 2.0/Virtual Promo;Both;3;0
 Sara Fisher;V;Personnel;Starfleet;Unity;Virtual;3;0
 Sarajevo, Starfleet Vessel;C;Ship;Starfleet;To Boldly Go;Print;3;0
 Sarek, Logical Being;R;Personnel;Federation;What You Leave Behind;Print;3;0
-Sarek, Vulcan Delegate;C;Personnel;Federation;What You Leave Behind;Print;3;0
-Sarek, Vulcan Delegate;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Sarek, Vulcan Delegate;C/VP;Personnel;Federation;What You Leave Behind/Virtual Promo;Both;3;0
 Sarin, Charmer;V;Personnel;Non-Aligned;20th Anniversary Collection;Virtual;3;0
 Sarina Douglas, Cataleptic Conundrum;U;Personnel;Federation;Call to Arms;Print;3;0
 Sarish Rez, Ministerial Adjutant;V;Personnel;Bajoran;Strange Bedfellows;Virtual;3;0
@@ -2939,15 +2928,12 @@ Second, Neonatal Drone;R;Personnel;Borg;Captain's Log;Print;3;0
 Secret Agenda;V;Interrupt;;Peak Performance;Virtual;3;0
 Secret Conspiracy;R;Interrupt;;Second Edition;Print;3;0
 Secret Identity;U/VP;Dilemma;;Call to Arms/Virtual Promo;Both;3;1 // have 1 CtA
-Sector 21396, Commandeer Prototype;U;Mission;;What You Leave Behind;Print;2;0
-Sector 21396, Commandeer Prototype;VP;Mission;;Virtual Promo;Virtual;3;0
+Sector 21396, Commandeer Prototype;U/VP;Mission;;What You Leave Behind/Virtual Promo;Both;2;0
 Sector 3641, Locate Abducted Klingon;AP;Mission;;Timeless;Virtual;2;0
 Sector 39-J, Investigate Annihilation;V;Mission;;Symbiosis;Virtual;2;0
-Sector 441, Analyze Radiation;V;Mission;;Heroes and Demons;Virtual;2;0
-Sector 441, Analyze Radiation;VP;Mission;;Virtual Promo;Virtual;3;0
+Sector 441, Analyze Radiation;V/VP;Mission;;Heroes and Demons/Virtual Promo;Virtual;2;0
 Security Briefing;S;Mission;;Second Edition;Print;2;0
-Security Drills;P;Event;;Fractured Time;Print;3;0
-Security Drills;VP;Event;;Virtual Promo;Virtual;3;0
+Security Drills;P/VP;Event;;Fractured Time/Virtual Promo;Both;3;0
 Security Precautions;V;Event;;Unnatural Selection;Virtual;3;0
 Security Sweep;U;Interrupt;;Call to Arms;Print;3;0
 Security Weapons;C;Dilemma;;In a Mirror Darkly;Print;3;0
@@ -2982,8 +2968,7 @@ Seth Matthews, Red Squad Cadet;C;Personnel;Federation;Necessary Evil;Print;3;0
 Seth Mendoza;C;Personnel;Federation;Second Edition;Print;3;0
 Setting the Stage;V;Dilemma;;Infinite Diversity Remastered;Virtual;3;0
 Settle Holographic Colony;V;Mission;;Unity;Virtual;2;0
-Seven of Nine, Annika;V;Personnel;Borg;Unity;Virtual;3;0
-Seven of Nine, Annika;VP;Personnel;Borg;Virtual Promo;Virtual;3;0
+Seven of Nine, Annika;V/VP;Personnel;Borg;Unity/Virtual Promo;Virtual;3;0
 Seven of Nine, Efficient Analyst;R/VP;Personnel;Federation;These Are The Voyages/Virtual Promo;Both;3;0
 Seven of Nine, Ideal Candidate;V;Personnel;Federation;Classification: Civilian;Virtual;3;0
 Seven of Nine, Immersed in Chaos;V;Personnel;Non-Aligned;The Nth Degree;Virtual;3;0
