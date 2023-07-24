@@ -14,3 +14,5 @@ Indian Summer;Germany;UK;7/1/1942;;African;13,14;10;Desert Heat
 Out of Time and Ammunition;Italy;UK;7/3/1942;El Alamein, Egypt;African;13;10;Desert Heat
 10th Panzer vs The Big Red One;Italy, Germany;USA;3/21/1943;El Guetter, Tunisia;African;13,14;10;Desert Heat
 First Come First Defense;Germany;France, USA;1/30/1943;Faid, Tunisia;African;13;10;Desert Heat
+A Fox in the Hen House;Germany;USA;2/14/1943;Sidi Bou Zid, Tunisia;African;13,14;10;Desert Heat
+Rock the Kasbah;Vichy France;USA;11/9/1942;Kasbah, Morocco;African;11;8;Desert Heat
