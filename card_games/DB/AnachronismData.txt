@@ -27,7 +27,7 @@ Alarich;Germanic;Set 3;1;0
 Alexander III of Macedon;Greek;Promo;1;0
 Alexander the Great;Greek;Set 1;1;0
 Alf Layla wa-Layla;Saracen;Set 5;1;0
-Alfred the Great;Briton;Set 2;1;0
+Alfred the Great;Briton;Set 2;1;1
 Allt a'Bhonnaich;Scottish;Promo;1;0
 Alman Sukh;Mongol;Set 2;1;0
 Alnabi Mosa;Saracen;Set 5;1;0
@@ -61,7 +61,7 @@ Arminius Standarte;Germanic;Set 3;1;0
 Arminius;Germanic;Set 3;1;0
 Armor of Hephaestus;Greek;Set 1;1;0
 Aron Ha'eduth;Tribes of Israel;Set 7;1;0
-Arrow Scars;Briton;Set 8;1;0
+Arrow Scars;Briton;Set 8;1;0 // Have okay printed version
 Artemis;Trojan;Set 7;1;0
 Articles of Interrogatory;Irish/Pirate;Set 6;1;0
 Ashley's Hundred;American Frontiersmen;Set 7;1;0
@@ -135,11 +135,11 @@ Book of the Law;Tribes of Israel;Set 10;1;0
 Boonesborough;American Frontiersmen;Set 7;1;0
 Bouclier Carolingien;French;Set 3;1;0
 Bouclier Celtique;French;Set 3;1;0
-Boudicca;Briton;Set 2;1;0
+Boudicca;Briton;Set 2;1;1
 Bowie Knife;American Frontiersmen;Set 7;1;0
 Bran agus Sceolang;Irish;Set 4;1;0
 Brat Derg;Irish;Set 4;1;0
-Bratt;Briton;Set 2;1;0
+Bratt;Briton;Set 2;1;1
 Brian Boru;Irish;Set 4;1;0
 British East India Company;Pirate/Scottish;Set 9;1;0
 Broigne d'Ecailles;French;Set 3;1;0
@@ -150,7 +150,7 @@ Brynhilds Spyd;Norse;Set 9;1;0
 Bucephalus;Greek;Set 1;1;0
 Buffalo Tactic;African Kingdoms;Set 8;1;0 // Have badly printed version
 Burebista;Romanian;Set 6;1;0
-Burhs;Briton;Set 8;1;0
+Burhs;Briton;Set 8;1;0 // Have badly printed version
 Burqan-Qaldun;Mongol;Set 2;1;0
 Bushido;Japanese;Promo;1;0
 Buzdovan;Turkish;Set 6;1;0
@@ -182,7 +182,7 @@ Caterina Sforza;Italian;Set 9;1;0
 Ceannasg Mailleach;Scottish;Set 3;1;0
 Cesare Borgia;Italian;Set 9;1;0
 Cetatea Poenari;Romanian;Set 6;1;0
-Chainmail Shirt;Briton;Set 2;1;0
+Chainmail Shirt;Briton;Set 2;1;1
 Chan Zhang;Chinese;Promo;1;0
 Chanakya;East Indian;Set 10;1;0
 Chandragupta II;East Indian;Set 10;1;0
@@ -282,6 +282,7 @@ Durga;East Indian;Set 10;1;0
 Duugla;Mongol;Set 2;1;0
 Ealswith;Briton;Set 2;1;0
 Edicts of Ashoka;East Indian;Set 10;1;0
+Edward the Black Prince;Briton;Promo;1;0 // Badly printed version
 Edward the Elder;Briton;Set 8;1;0
 Ekavi;Trojan;Set 7;1;0
 El Cid;Spanish;Set 5;1;0
@@ -301,7 +302,7 @@ Eric Bloodaxe;Norse;Set 9;1;0
 Erik the Red;Norse;Set 9;1;0
 Escudo de Carlos V;Spanish;Set 5;1;0
 Espasa;Carthaginian;Set 8;1;0
-Ethelfleda;Briton;Set 8;1;0
+Ethelfleda;Briton;Set 8;1;0 // Have badly printed version
 Ethiopian Spear;African Kingdoms;Set 8;1;0 // Have badly printed version
 Excalibur;Briton;Set 2;1;0
 Fabian Tactics;Roman;Set 8;1;0
@@ -329,7 +330,7 @@ Frederick I Barbarossa;Holy Roman;Set 10;1;0
 Freya;Germanic;Set 3;1;0
 Freydis Eiriksdottir;Norse;Set 1;1;0
 Frumentius;African Kingdoms;Set 8;1;0 // Have badly printed version
-Full Mail Hauberk;Briton;Set 2;1;0
+Full Mail Hauberk;Briton;Set 2;1;1
 Furinkazan;Japanese;Set 5;1;0
 Fusta;Pirate/Turkish;Set 9;1;0
 Fylking;Norse;Set 9;1;0
@@ -341,7 +342,7 @@ Gaitay Geprech;Mongol;Set 2;1;0
 Gaius Julius;Roman;Promo;1;0
 Gajuk Helmes;Korean;Set 9;1;0
 Galerus;Roman;Set 8;1;0
-Gambeson;Briton;Set 2;1;0
+Gambeson;Briton;Set 2;1;1
 Ganesha;East Indian;Set 10;1;0
 Gazavat-i Hayreddin Pasa;Pirate/Turkish;Set 9;1;0
 Geat King Beowulf;Norse;Promo;1;0
@@ -400,7 +401,7 @@ Hasdrubal;Carthaginian;Set 8;1;0
 Hata Bi;Japanese;Set 5;1;0
 Hattori Hanzo;Japanese;Promo;1;0
 Hatupatu;Maori;Set 4;1;0
-Haubergeon;Briton;Set 8;1;0
+Haubergeon;Briton;Set 8;1;0  // Have okay printed version
 Hauhau-Te-Rangi;Maori;Set 4;1;0
 Hawaiki;Maori;Promo;1;0
 Head of the First Emperor;African Kingdoms;Set 8;1;0 // Have badly printed version
@@ -411,7 +412,7 @@ Hector;Trojan;Set 7;1;0
 Hei-Tiki;Maori;Set 4;1;0
 Heimdal;Germanic;Set 3;1;0
 Hemu;East Indian;Set 10;1;0
-Henry V;Briton;Set 8;1;0
+Henry V;Briton;Set 8;1;0 // Have okay printed version
 Heqa and Was Scepters;Egyptian;Set 2;1;0
 Hera;Greek;Promo;1;0
 Heraclius;Byzantine;Set 10;1;0
@@ -530,8 +531,8 @@ Kilij;Turkish;Promo;1;0
 Kim Yun-hu;Korean;Set 9;1;0
 Kimono;Japanese;Set 1;1;0
 King Ahab;Tribes of Israel;Set 10;1;0
-King Arthur;Briton;Set 2;1;0
-King Edward;Briton;Set 8;1;0
+King Arthur;Briton;Set 2;1;1
+King Edward;Briton;Set 8;1;0 // Have ok printed version
 King Saul;Tribes of Israel;Set 10;1;0
 King in the Mountain;Holy Roman;Set 10;1;0
 Kirasa;Russian;Set 4;1;0
@@ -786,12 +787,12 @@ Reconquista;Spanish;Promo;1;0
 Reu Nu Pert Em Hru;Egyptian;Set 2;1;0
 Rhiannon;Briton;Set 2;1;0
 Rhyton;Persian;Set 4;1;0
-Richard the Lionheart;Briton;Set 2;1;0
+Richard the Lionheart;Briton;Set 2;1;1
 Ridders Sverd;Norse;Set 9;1;0
 Rikutosanryaku;Japanese;Set 5;1;0
 Rindi;Russian;Set 4;1;0
 Rob Ruadh Macgriogair;Scottish;Set 3;1;0
-Robin Hood;Briton;Set 2;1;0
+Robin Hood;Briton;Set 2;1;1
 Rocky Mountain Fur Company;American Frontiersmen;Set 7;1;0
 Rokunmonsenmon;Japanese;Set 5;1;0
 Roland le Paladin;French;Set 3;1;0
