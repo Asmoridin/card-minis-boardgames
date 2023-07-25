@@ -16,3 +16,5 @@ Out of Time and Ammunition;Italy;UK;7/3/1942;El Alamein, Egypt;African;13;10;Des
 First Come First Defense;Germany;France, USA;1/30/1943;Faid, Tunisia;African;13;10;Desert Heat
 A Fox in the Hen House;Germany;USA;2/14/1943;Sidi Bou Zid, Tunisia;African;13,14;10;Desert Heat
 Rock the Kasbah;Vichy France;USA;11/9/1942;Kasbah, Morocco;African;11;8;Desert Heat
+Last Night in Medjez-el-Bab;Germany;UK, USA;11/25/1942;Medjez-el-Bab, Tunisia;African;11,14;10;Desert Heat
+Tigers at Tebourba;Germany;UK;11/27/1942;Tebourba, Tunisia;African;14;10;Desert Heat
