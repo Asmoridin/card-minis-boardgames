@@ -2743,8 +2743,7 @@ Remata'Klan, Steadfast Sentinel;V;Personnel;Dominion;Second Skin;Virtual;3;0
 Remata'Klan, Steadfast Sentinel;V;Personnel;Dominion;Symbiosis;Virtual;3;0
 Remata'Klan, Unit Leader;R;Personnel;Dominion;Call to Arms;Print;3;0
 Remata'Klan, Unit Leader;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
-Remus, Supervise Dilithium Mine;S;Mission;;Second Edition;Print;2;0
-Remus, Supervise Dilithium Mine;VP;Mission;;Virtual Promo;Virtual;3;0
+Remus, Supervise Dilithium Mine;S/VP;Mission;;Second Edition/Virtual Promo;Both;2;0
 Render Assistance;S;Interrupt;;Second Edition;Print;3;0
 Renegade Ambush;U;Dilemma;;Necessary Evil;Print;3;3
 Repair Null Space Catapult;V;Mission;;Tacking Into the Wind;Virtual;2;0
@@ -2753,10 +2752,8 @@ Reprimand;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
 Reprogrammed;V;Interrupt;;Favor the Bold;Virtual;3;0
 Repurposed E.M.H.;V;Personnel;Non-Aligned;Sacrifice of Angels;Virtual;3;0
 Repurposed Transmission;V;Event;;The Nth Degree;Virtual;3;0
-Requisitions Drone;P;Personnel;Borg;Reflections 2.0;Print;3;0
-Requisitions Drone;VP;Personnel;Borg;Virtual Promo;Virtual;3;0
-Rescue Captives;U;Event;;Second Edition;Print;3;0
-Rescue Captives;VP;Event;;Virtual Promo;Virtual;3;0
+Requisitions Drone;P/VP;Personnel;Borg;Reflections 2.0/Virtual Promo;Both;3;0
+Rescue Captives;U/VP;Event;;Second Edition/Virtual Promo;Both;3;0
 Rescue Prisoners of War;S;Mission;;Call to Arms;Print;2;0
 Research Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Resilience;V;Event;;Face of the Enemy;Virtual;3;0
@@ -2764,8 +2761,7 @@ Resistance Rifle;V;Equipment;;Extreme Measures;Virtual;3;0
 Resistance Tactics;R;Event;;Second Edition;Print;3;0
 Resolve Trade Dispute;V;Mission;;Unity;Virtual;2;0
 Respect in Diversity;V;Event;;A Time to Stand;Virtual;3;0
-Ressikan Flute;R;Event;;Necessary Evil;Print;3;0
-Ressikan Flute;VP;Event;;Virtual Promo;Virtual;3;0
+Ressikan Flute;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Restock Ketracel-White;U;Mission;;Call to Arms;Print;2;0
 Restorative Responsibility;C;Event;;To Boldly Go;Print;3;0
 Restore Errant Moon;U;Mission;;What You Leave Behind;Print;2;0
@@ -2775,17 +2771,13 @@ Retaya, Chemical Agent;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Retaya, Urbane Poisoner;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Retrieve Materiel;U;Mission;;To Boldly Go;Print;2;0
 Revelry;R;Dilemma;;Dangerous Missions;Print;3;0
-Revised Chakotay, Imposturous First Officer;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Revised Chakotay, Imposturous First Officer;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
-Revised Doctor, Mass Murderer;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Revised Doctor, Mass Murderer;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
-Revised Janeway, Cold-Blooded Killer;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Revised Janeway, Cold-Blooded Killer;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Revised Chakotay, Imposturous First Officer;U/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
+Revised Doctor, Mass Murderer;U/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
+Revised Janeway, Cold-Blooded Killer;U/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
 Revised Kim, Interrogator;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Revised Kizar;V;Personnel;Federation;Caretaker;Virtual;3;0
 Revised Neelix, Hedgehog Ops Officer;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Revised Paris, Female Ensign Chaser;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Revised Paris, Female Ensign Chaser;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Revised Paris, Female Ensign Chaser;U/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
 Revised Seven of Nine, Shock-Trooper;U/VP;Personnel;Federation;In a Mirror Darkly/Virtual Promo;Both;3;0
 Revised Tuvok, Evil Instrument of Destruction;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Revok, Eager Ally;V;Personnel;Cardassian;Balance of Terror;Virtual;3;0
