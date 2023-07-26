@@ -99,8 +99,8 @@ Barbarossa;Pirate/Turkish;Set 9;1;0
 Barbute;Italian;Set 9;1;0
 Bargustuwan;Saracen;Set 5;1;0
 Bas Sheasamhach;Irish;Set 4;1;0
-Basil II Boulgaraktonos;Byzantine;Set 10;1;0
-Basileus Autokrator Romaion;Byzantine;Set 10;1;0
+Basil II Boulgaraktonos;Byzantine;Set 10;1;0 // have okay printed version
+Basileus Autokrator Romaion;Byzantine;Set 10;1;0 // have okay printed version
 Battle of Cannae;Carthaginian;Set 8;1;0
 Battle of Megiddo;Tribes of Israel;Set 10;1;0
 Battle of Qarqar;Tribes of Israel;Set 10;1;0
@@ -317,7 +317,7 @@ Fernando II de Aragon;Spanish;Set 5;1;0
 Fervor Religioso;Spanish;Set 5;1;0
 Finn MacCumhaill;Irish;Set 4;1;0
 First Triumvirate;Roman;Set 8;1;0
-Flavius Belasarius;Byzantine;Set 10;1;0
+Flavius Belasarius;Byzantine;Set 10;1;0 // have okay printed version
 Flies of Honor;Egyptian;Set 10;1;0
 Flintlock Pistol;Irish/Pirate;Set 6;1;0
 Flyn;Norse;Set 9;1;0
@@ -416,7 +416,7 @@ Hemu;East Indian;Set 10;1;0
 Henry V;Briton;Set 8;1;0 // Have okay printed version
 Heqa and Was Scepters;Egyptian;Set 2;1;0
 Hera;Greek;Promo;1;0
-Heraclius;Byzantine;Set 10;1;0
+Heraclius;Byzantine;Set 10;1;0 // have okay printed version
 Herakles of Thebes;Greek;Promo;1;0
 Herakles;Greek;Set 1;1;0
 Herev Appolonius;Tribes of Israel;Set 7;1;0
@@ -428,7 +428,7 @@ Hijikata Toshizo;Japanese;Set 5;1;0
 Hilia Plia;Greek;Set 7;1;0
 Himilco;Carthaginian;Set 8;1;0
 Hindarfjall;Norse;Set 9;1;0
-Hippodrome;Byzantine;Set 10;1;0
+Hippodrome;Byzantine;Set 10;1;0 // have okay printed version
 Hjelm;Norse;Set 1;1;0
 Hombreras;Spanish;Set 5;1;0
 Hongqi Jiandui;Pirate/Chinese;Set 9;1;0
@@ -499,7 +499,7 @@ Judah Maccabee;Tribes of Israel;Set 7;1;0
 Jue Ying;Chinese;Set 6;1;0
 Julius Caesar;Roman;Set 1;1;0
 Jupiter;Roman;Set 1;1;0
-Justinian I;Byzantine;Set 10;1;0
+Justinian I;Byzantine;Set 10;1;0 // have okay printed version
 Kahina;African Kingdoms;Set 8;1;0 // Have badly printed version
 Kahu Kiwi;Maori;Set 4;1;0
 Kali;East Indian;Set 10;1;0
@@ -538,7 +538,7 @@ King Saul;Tribes of Israel;Set 10;1;0
 King in the Mountain;Holy Roman;Set 10;1;0
 Kirasa;Russian;Set 4;1;0
 Kite Shield;Briton;Set 8;1;0
-Klebanion;Byzantine;Set 10;1;0
+Klebanion;Byzantine;Set 10;1;0 // have okay printed version
 Klironomimena Opla;Greek;Set 7;1;0
 Koeke Moengke Tengri;Mongol;Set 2;1;0
 Kogaion;Romanian;Set 6;1;0
@@ -546,7 +546,7 @@ Kol'chuga;Russian;Set 4;1;0
 Kolah Khod-e Sasani;Persian;Set 4;1;0
 Kolontar;Russian;Set 4;1;0
 Konstantinya;Turkish;Set 6;1;0
-Kontarion;Byzantine;Set 10;1;0
+Kontarion;Byzantine;Set 10;1;0 // have okay printed version
 Kontos;Persian;Set 4;1;0
 Kopis;Greek;Set 1;1;0
 Kosem Sultan;Turkish;Set 6;1;0
@@ -628,7 +628,7 @@ Mardukh;Persian;Set 4;1;0
 Marlinspike;Pirate/Scottish;Set 9;1;0
 Mars;Roman;Promo;1;0
 Marteau de Cavalerie;French;Set 3;1;0
-Martina;Byzantine;Set 10;1;0
+Martina;Byzantine;Set 10;1;0 // have okay printed version
 Masada;Tribes of Israel;Set 10;1;0
 Masang Ssanggum;Korean;Set 9;1;0
 Masjid Ahl ar-Rayah;Saracen;Set 5;1;0
@@ -730,7 +730,7 @@ Palta;Persian;Set 4;1;0
 Papa Leone X;Italian;Set 9;1;0
 Papa Sixtus al IV-lea;Romanian;Set 6;1;0
 Pape Hadrien Ier;French;Set 3;1;0
-Paramerion;Byzantine;Set 10;1;0
+Paramerion;Byzantine;Set 10;1;0 // have okay printed version
 Paris;Trojan;Set 7;1;0
 Parma;Roman;Set 1;1;0
 Patronato Papale;Italian;Set 9;1;0
@@ -821,7 +821,7 @@ Salsu-gang Daecheop;Korean;Set 9;1;0
 Samozvantez Dmitry I;Russian;Set 4;1;0
 Samson;Tribes of Israel;Set 7;1;0
 Samuel;Tribes of Israel;Set 10;1;0
-Samuil of Bulgaria;Byzantine;Set 10;1;0
+Samuil of Bulgaria;Byzantine;Set 10;1;0 // have okay printed version
 San Jie Gun;Chinese;Promo;1;0
 Sanada Nobushige;Japanese;Set 5;1;0
 Sanadamaru;Japanese;Set 5;1;0
@@ -876,7 +876,7 @@ Siuloir na Cosach Croise;Irish;Set 4;1;0
 Skeggox;Norse;Set 9;1;0
 Skegox Francisca;Norse;Set 1;1;0
 Skjold;Norse;Set 1;1;0
-Skutos;Byzantine;Set 10;1;0
+Skutos;Byzantine;Set 10;1;0 // have okay printed version
 Slea Bladhmadh;Irish;Set 4;1;0
 Slea le Scian le Cuma Duilleog;Irish;Set 4;1;0
 Slujba Valaha;Romanian;Set 6;1;0
@@ -898,7 +898,7 @@ Spartiatiko Polemiko Kranos;Greek;Set 7;1;0
 Spatha;Roman;Set 1;1;0
 Spathi Me Asimenia Lavi;Trojan;Set 7;1;0
 Spathi tis Trias;Trojan;Set 7;1;0
-Spathion;Byzantine;Set 10;1;0
+Spathion;Byzantine;Set 10;1;0 // have okay printed version
 Splinter av Korset;Norse;Set 9;1;0
 Sporan;Scottish;Set 3;1;0
 Sprone da Rotella;Italian;Set 9;1;0
@@ -958,7 +958,7 @@ The Alamo;American Frontiersmen;Set 7;1;0
 The Half-Dead King;Briton;Set 8;1;0
 The Sandbar Fight;American Frontiersmen;Set 7;1;0
 Theiki Paremvasi;Trojan;Set 7;1;0
-Themata;Byzantine;Set 10;1;0
+Themata;Byzantine;Set 10;1;0 // have okay printed version
 Theoderich der Grosse;Germanic;Set 3;1;0
 Theseus;Greek;Set 7;1;0
 Thetis;Greek;Set 1;1;0
@@ -1011,7 +1011,7 @@ Urim and Thummim;Tribes of Israel;Promo;1;0
 Urumi;East Indian;Set 10;1;0
 Usumidori;Japanese;Set 5;1;0
 Uther Pendragon;Briton;Set 8;1;0
-Varangian Guard;Byzantine/Norse;Set 10;1;0
+Varangian Guard;Byzantine/Norse;Set 10;1;0 // have okay printed version
 Varusschlacht;Germanic;Set 3;1;0
 Vasallo de la Reina;Spanish;Set 5;1;0
 Vercingetorix;French;Set 3;1;0
