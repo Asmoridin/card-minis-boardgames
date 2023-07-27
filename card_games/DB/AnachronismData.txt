@@ -773,7 +773,7 @@ Qing Long Yan Yue Dao;Chinese;Set 2;1;0
 Quauhololli;Aztec;Promo;1;0
 Qubbat al-Nabi;Turkish;Set 6;1;0
 Queen Anne's Revenge;Briton/Pirate;Promo;1;0
-Queen Elissar;UNKNOWN;Promo;1;0
+Queen Elissar;Carthaginian;Promo;1;0 // have okay printed version
 Quetzalcoatl;Aztec;Set 5;1;1
 Ra;Egyptian;Set 2;1;0
 Raibeart Brus;Scottish;Set 3;1;0
