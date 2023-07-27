@@ -34,7 +34,7 @@
 1 Tribble - Evolve;Tribble;No Tribble at All;20;0
 1 Tribble - Exchange;Tribble;More Tribbles, More Troubles;20;0
 1 Tribble - Fold;Tribble;Tribbles Royale;20;0
-1 Tribble - Go;Tribble;Tribbles/Trials and Tribble-ations/Virtual Promos;20;8
+1 Tribble - Go;Tribble;Tribbles/Trials and Tribble-ations/Virtual Promos;20;18
 1 Tribble - IDIC;Tribble;Nothing But Tribble;20;0
 1 Tribble - IDIC;Tribble;Virtual Promos;20;0
 1 Tribble - Kindness;Tribble;A Tribble of a Different Color;20;0
@@ -44,16 +44,15 @@
 1 Tribble - Process;Tribble;No Tribble at All;20;0
 1 Tribble - Process;Tribble;Virtual Promos;20;0
 1 Tribble - Recycle;Tribble;A Tribble of a Different Color;20;0
-1 Tribble - Replay;Tribble;More Tribbles, More Troubles/Virtual Promos;20;8 // All are MTMT
+1 Tribble - Replay;Tribble;More Tribbles, More Troubles/Virtual Promos;20;13 // All are MTMT
 1 Tribble - Retreat;Tribble;Star Trek 50;20;0
 1 Tribble - Skip;Tribble;Nothing But Tribble;20;0
 1 Tribble - Skip;Tribble;Tribbles;20;0
 10 Tribbles - Advance;Tribble;Nothing But Tribble;20;0
 10 Tribbles - Advance;Tribble;Virtual Promos;20;0
-10 Tribbles - Ante;Tribble;Tribbles Royale;20;0
+10 Tribbles - Ante;Tribble;Tribbles Royale;20;4
 10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;0
-10 Tribbles - Battle;Tribble;No Tribble at All;20;0
-10 Tribbles - Battle;Tribble;Virtual Promos;20;0
+10 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;10 // All from NTaA
 10 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
 10 Tribbles - Confront;Tribble;Star Trek 50;20;0
 10 Tribbles - Convert;Tribble;Star Trek 50;20;0
@@ -77,7 +76,7 @@
 10 Tribbles - Time Warp;Tribble;A Tribble of a Different Color;20;0
 10 Tribbles - Toxin;Tribble;No Tribble at All;20;4
 10 Tribbles - Utilize;Tribble;Nothing But Tribble;20;6
-100 Tribbles - Battle;Tribble;No Tribble at All;20;0
+100 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;7 // All from NTaA
 100 Tribbles - Battle;Tribble;Virtual Promos;20;0
 100 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
 100 Tribbles - Cheat;Tribble;A Tribble of a Different Color;20;0
@@ -128,9 +127,8 @@
 1,000 Tribbles - Masaka;Tribble;Nothing But Tribble;20;2
 1,000 Tribbles - Process;Tribble;No Tribble at All;20;0
 1,000 Tribbles - Process;Tribble;Virtual Promos;20;0
-1,000 Tribbles - Qapla';Tribble;Big Tribble in Little Qo'noS;20;0
-1,000 Tribbles - Qapla';Tribble;Virtual Promos;20;0
-1,000 Tribbles - Recycle;Tribble;More Tribbles, More Troubles;20;0
+1,000 Tribbles - Qapla';Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;4 // All from BTiLQ
+1,000 Tribbles - Recycle;Tribble;More Tribbles, More Troubles;20;4
 1,000 Tribbles - Rescue;Tribble;Trials and Tribble-ations/Tribbles;20;4 // 4 from Tribbles
 1,000 Tribbles - Reveal;Tribble;A Tribble of a Different Color;20;0
 1,000 Tribbles - Reverse;Tribble;Nothing But Tribble;20;0
@@ -146,7 +144,7 @@
 10,000 Tribbles - Acquire;Tribble;Star Trek 50;20;0
 10,000 Tribbles - Acquire;Tribble;Virtual Promos;20;0
 10,000 Tribbles - Advance;Tribble;Virtual Promos;20;0
-10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;0
+10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;8
 10,000 Tribbles - Assimilate;Tribble;Nothing But Tribble;20;0
 10,000 Tribbles - Assimilate;Tribble;Virtual Promos;20;0
 10,000 Tribbles - BiJ;Tribble;Big Tribble in Little Qo'noS;20;0
@@ -200,7 +198,7 @@
 100,000 Tribbles - Discard;Tribble;Virtual Promos;20;2
 100,000 Tribbles - Draw;Tribble;Big Tribble in Little Qo'noS;20;0
 100,000 Tribbles - Draw;Tribble;Virtual Promos;20;0
-100,000 Tribbles - Fizzbin (Errata);Tribble;Tribbles Royale;20;0
+100,000 Tribbles - Fizzbin (Errata);Tribble;Tribbles Royale;20;10 // Needs errata
 100,000 Tribbles - Flash;Tribble;A Tribble of a Different Color;20;0
 100,000 Tribbles - Fold;Tribble;Star Trek 50;20;0
 100,000 Tribbles - Freeze;Tribble;Trials and Tribble-ations;20;0
@@ -215,7 +213,7 @@
 100,000 Tribbles - Rescue;Tribble;Virtual Promos;20;0
 100,000 Tribbles - Safety;Tribble;No Tribble at All;20;0
 100,000 Tribbles - Safety;Tribble;Virtual Promos;20;0
-100,000 Tribbles - Tally;Tribble;No Tribble at All/Virtual Promos;20;8 // 8 from NTaA
+100,000 Tribbles - Tally;Tribble;No Tribble at All/Virtual Promos;23;23
 100,000 Tribbles - Time Warp;Tribble;Nothing But Tribble;20;0
 100,000 Tribbles - Time Warp;Tribble;Virtual Promos;20;0
 100,000 Tribbles - Trick;Tribble;A Tribble of a Different Color;20;0
