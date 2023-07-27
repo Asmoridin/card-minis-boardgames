@@ -22,34 +22,26 @@
 1 Tribble - Beam;Tribble;A Tribble of a Different Color;20;0
 1 Tribble - Bonus & Freeze;Tribble;Trials and Tribble-ations;20;0
 1 Tribble - Bonus;Tribble;The Trouble with Tribbles;20;0
-1 Tribble - Clone & Reverse;Tribble;No Tribble at All;20;0
-1 Tribble - Clone & Reverse;Tribble;Virtual Promos;20;0
-1 Tribble - Convert;Tribble;Nothing But Tribble;20;0
-1 Tribble - Convert;Tribble;Virtual Promos;20;0
+1 Tribble - Clone & Reverse;Tribble;No Tribble at All/Virtual Promos;20;0
+1 Tribble - Convert;Tribble;Nothing But Tribble/Virtual Promos;20;0
 1 Tribble - Cycle;Tribble;More Tribbles, More Troubles;20;0
 1 Tribble - Discard;Tribble;Trials and Tribble-ations/Tribbles;20;7 // 7 from Tribbles
 1 Tribble - Draw;Tribble;Big Tribble in Little Qo'noS;20;0
-1 Tribble - Evade;Tribble;Star Trek 50;20;0
-1 Tribble - Evade;Tribble;Virtual Promos;20;0
+1 Tribble - Evade;Tribble;Star Trek 50/Virtual Promos;20;0
 1 Tribble - Evolve;Tribble;No Tribble at All;20;0
 1 Tribble - Exchange;Tribble;More Tribbles, More Troubles;20;0
 1 Tribble - Fold;Tribble;Tribbles Royale;20;0
 1 Tribble - Go;Tribble;Tribbles/Trials and Tribble-ations/Virtual Promos;20;18
-1 Tribble - IDIC;Tribble;Nothing But Tribble;20;0
-1 Tribble - IDIC;Tribble;Virtual Promos;20;0
+1 Tribble - IDIC;Tribble;Nothing But Tribble/Virtual Promos;20;0
 1 Tribble - Kindness;Tribble;A Tribble of a Different Color;20;0
 1 Tribble - Mirror;Tribble;A Tribble of a Different Color;20;0
-1 Tribble - Party;Tribble;Big Tribble in Little Qo'noS;20;0
-1 Tribble - Party;Tribble;Virtual Promos;20;0
-1 Tribble - Process;Tribble;No Tribble at All;20;0
-1 Tribble - Process;Tribble;Virtual Promos;20;0
+1 Tribble - Party;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;0
+1 Tribble - Process;Tribble;No Tribble at All/Virtual Promo;20;0
 1 Tribble - Recycle;Tribble;A Tribble of a Different Color;20;0
 1 Tribble - Replay;Tribble;More Tribbles, More Troubles/Virtual Promos;20;13 // All are MTMT
 1 Tribble - Retreat;Tribble;Star Trek 50;20;0
-1 Tribble - Skip;Tribble;Nothing But Tribble;20;0
-1 Tribble - Skip;Tribble;Tribbles;20;0
-10 Tribbles - Advance;Tribble;Nothing But Tribble;20;0
-10 Tribbles - Advance;Tribble;Virtual Promos;20;0
+1 Tribble - Skip;Tribble;Nothing But Tribble/Tribbles;20;0
+10 Tribbles - Advance;Tribble;Nothing But Tribble/Virtual Promos;20;0
 10 Tribbles - Ante;Tribble;Tribbles Royale;20;4
 10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;0
 10 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;10 // All from NTaA
@@ -59,38 +51,30 @@
 10 Tribbles - Copy;Tribble;More Tribbles, More Troubles;20;0
 10 Tribbles - Cycle;Tribble;More Tribbles, More Troubles;20;0
 10 Tribbles - Decloak;Tribble;A Tribble of a Different Color;20;0
-10 Tribbles - Draw;Tribble;More Tribbles, More Troubles;20;0
-10 Tribbles - Draw;Tribble;Virtual Promos;20;0
+10 Tribbles - Draw;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
 10 Tribbles - Evolve;Tribble;No Tribble at All;20;0
 10 Tribbles - Exchange;Tribble;Big Tribble in Little Qo'noS;20;0
 10 Tribbles - Generosity (Errata);Tribble;A Tribble of a Different Color;20;0
 10 Tribbles - Go;Tribble;Trials and Tribble-ations/Tribbles;20;3 // 3 from Tribbles
 10 Tribbles - Poison;Tribble;Trials and Tribble-ations/Tribbles;20;4 // All 4 are from Tribbles
 10 Tribbles - Recycle & Freeze;Tribble;Nothing But Tribble;20;2
-10 Tribbles - Replicate;Tribble;Big Tribble in Little Qo'noS;20;0
-10 Tribbles - Replicate;Tribble;Virtual Promos;20;0
+10 Tribbles - Replicate;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;0
 10 Tribbles - Sabotage (Errata);Tribble;Big Tribble in Little Qo'noS;20;0
 10 Tribbles - Shift;Tribble;Tribbles Royale;20;0
-10 Tribbles - Skip;Tribble;Nothing But Tribble;20;0
-10 Tribbles - Skip;Tribble;Tribbles;20;0
+10 Tribbles - Skip;Tribble;Nothing But Tribble/Tribbles;20;0
 10 Tribbles - Time Warp;Tribble;A Tribble of a Different Color;20;0
 10 Tribbles - Toxin;Tribble;No Tribble at All;20;4
 10 Tribbles - Utilize;Tribble;Nothing But Tribble;20;6
 100 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;7 // All from NTaA
-100 Tribbles - Battle;Tribble;Virtual Promos;20;0
 100 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
-100 Tribbles - Cheat;Tribble;A Tribble of a Different Color;20;0
-100 Tribbles - Cheat;Tribble;Virtual Promos;20;0
+100 Tribbles - Cheat;Tribble;A Tribble of a Different Color/Virtual Promos;20;0
 100 Tribbles - Clone & Skip;Tribble;No Tribble at All;20;0
 100 Tribbles - Copy;Tribble;More Tribbles, More Troubles/Virtual Promos;20;2 // All are from MTMT
 100 Tribbles - Cycle;Tribble;Star Trek 50;20;0
 100 Tribbles - Decloak;Tribble;A Tribble of a Different Color;20;0
-100 Tribbles - Draw;Tribble;More Tribbles, More Troubles;20;0
-100 Tribbles - Draw;Tribble;Virtual Promos;20;0
-100 Tribbles - Evade;Tribble;Star Trek 50;20;0
-100 Tribbles - Evade;Tribble;Virtual Promos;20;0
-100 Tribbles - Exchange;Tribble;Big Tribble in Little Qo'noS;20;0
-100 Tribbles - Exchange;Tribble;Virtual Promos;20;0
+100 Tribbles - Draw;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
+100 Tribbles - Evade;Tribble;Star Trek 50/Virtual Promos;20;0
+100 Tribbles - Exchange;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;0
 100 Tribbles - Laughter (Errata);Tribble;A Tribble of a Different Color;20;0
 100 Tribbles - Party;Tribble;Star Trek 50;20;0
 100 Tribbles - Poison;Tribble;Trials and Tribble-ations;20;0
