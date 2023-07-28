@@ -2427,15 +2427,14 @@ Paenol, Resistance Soldier;V;Personnel;Bajoran;Unity;Virtual;3;0
 Palmer;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Palor Toff, Trader;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Palteth;C;Personnel;Romulan;Energize;Print;3;0
-Par Lenor, Lascivious Emissary;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Par Lenor, Lascivious Emissary;VP;Personnel;Ferengi;Virtual Promo;Virtual;3;0
+Par Lenor, Lascivious Emissary;U/VP;Personnel;Ferengi;Strange New Worlds/Virtual Promo;Both;3;0
 Parada II, Expose Security Threat;V;Mission;;Return to Grace;Virtual;2;0
 Paradan Replicant;R;Dilemma;;In a Mirror Darkly;Print;3;0
 Paradise Found;V;Dilemma;;Star Trek 50;Virtual;3;0
 Paradise Lost;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
 Parallel Course;R;Event;;Captain's Log;Print;3;0
 Parallel Romance;V;Dilemma;;This Side of Paradise;Virtual;3;3
-Parallels;R;Dilemma;;To Boldly Go;Print;3;0
+Parallels;R;Dilemma;;To Boldly Go;Print;3;2
 Paralyzing Procedure;V;Interrupt;;Balance of Terror;Virtual;3;0
 Paranoid Escape;R;Dilemma;;In a Mirror Darkly;Print;3;0
 Pardek, Betrayer;R;Personnel;Romulan;Call to Arms;Print;3;0
@@ -2450,14 +2449,13 @@ Party Atmosphere;C;Event;;Necessary Evil;Print;3;0
 Patrick, Idiot Savant;U;Personnel;Federation;Call to Arms;Print;3;0
 Patriotic Spirit;V;Dilemma;;Favor the Bold;Virtual;3;3
 Patrol Neutral Zone;U;Mission;;What You Leave Behind;Print;2;0
-Pattern Loss;V;Dilemma;;Hard Time;Virtual;3;0
+Pattern Loss;V;Dilemma;;Hard Time;Virtual;3;3
 Paul Mayweather, Burdened with Command;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
 Paulson;C;Personnel;Federation;Second Edition;Print;3;0
 Pavel A. Chekov, Experienced Adept;V;Personnel;Federation;Zero Hour;Virtual;3;0
 Pavel A. Chekov, Hapless Puppet;V;Personnel;Non-Aligned;The Menagerie;Virtual;3;0
 Pavel A. Chekov, Treacherous Underling;C;Personnel;Federation;In a Mirror Darkly;Print;3;0
-Pavel A. Chekov, Young Navigator;C;Personnel;Federation;These Are The Voyages;Print;3;0
-Pavel A. Chekov, Young Navigator;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Pavel A. Chekov, Young Navigator;C/VP;Personnel;Federation;These Are The Voyages/Virtual Promo;Both;3;0
 Pawn Against Pawn;V;Dilemma;;Return to Grace;Virtual;3;0
 Paxton Reese, Stellar Cartographer;V;Personnel;Federation;Return to Grace;Virtual;3;0
 Peaceful Coexistence;V;Event;;Balance of Terror;Virtual;3;0
@@ -2473,11 +2471,10 @@ Peremptory Plea;V;Dilemma;;Balance of Terror;Virtual;3;3
 Perilous Proposal;V;Interrupt;;A Time to Stand;Virtual;3;0
 Persis, Loyal Daughter;C;Personnel;Non-Aligned;What You Leave Behind;Print;3;0
 Persistent Strike;V;Event;;Infinite Diversity Remastered;Virtual;3;0
-Personal Duty;R;Dilemma;;Second Edition;Print;3;0
-Personal Duty;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Personal Duty;R/VP;Dilemma;;Second Edition/Virtual Promo;Both;3;2 // 2 from 2E
 Personal Forcefield;C;Event;;Energize;Print;3;0
 Personal Transport;C;Ship;Ferengi;Strange New Worlds;Print;3;0
-Pest Control;V;Dilemma;;Balance of Terror;Virtual;3;0
+Pest Control;V;Dilemma;;Balance of Terror;Virtual;3;3
 Phase Pistol;C;Equipment;;To Boldly Go;Print;3;0
 Phillipa Louvois, J.A.G. Officer for Sector 23;V;Personnel;Federation;Second Chances;Virtual;3;0
 Phlox, Alien Physiologist;R;Personnel;Starfleet;To Boldly Go;Print;3;0
@@ -2524,8 +2521,7 @@ Porthos;V;Dilemma;;The Menagerie;Virtual;3;0
 Porthos;VP;Dilemma;;Virtual Promo;Virtual;3;0
 Posturing;V;Interrupt;;Raise the Stakes;Virtual;3;0
 Power Loss;V;Event;;Balance of Terror;Virtual;3;0
-Power Shift;U;Event;;Necessary Evil;Print;3;0
-Power Shift;VP;Event;;Virtual Promo;Virtual;3;0
+Power Shift;U/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Power to the Shields;U;Interrupt;;Second Edition;Print;3;0
 Power to the Weapons;C;Event;;Energize;Print;3;0
 Powerful Example;R;Interrupt;;Energize;Print;3;0
@@ -2544,7 +2540,7 @@ Precise Attack;U;Event;;Second Edition;Print;3;0
 Predicament;U;Event;;In a Mirror Darkly;Print;3;0
 Predictable Response;V;Dilemma;;The Undiscovered Country;Virtual;3;0 // Reprint these
 Preeminent Precision;U;Event;;To Boldly Go;Print;3;0
-Prefix Codes;C;Dilemma;;What You Leave Behind;Print;3;0
+Prefix Codes;C;Dilemma;;What You Leave Behind;Print;3;3
 Prejudice and Politics;U;Event;;Second Edition;Print;3;0
 Prejudice and Politics;VP;Event;;Virtual Promo;Virtual;3;0
 Preposterous Plan;V;Interrupt;;Matter of Time;Virtual;3;0
@@ -2562,11 +2558,10 @@ Prisoner of the Exile;R;Dilemma;;What You Leave Behind;Print;3;1
 Process Identification;U;Event;;Second Edition;Print;3;0
 Proclamation of Doom;V;Dilemma;;All Our Yesterdays;Virtual;3;0
 Product Placement;V;Event;;Infinite Diversity Remastered;Virtual;3;0
-Professor Honey Bare, Way Too Smart for You;V;Personnel;Non-Aligned;Second Chances;Virtual;3;0
-Professor Honey Bare, Way Too Smart for You;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Professor Honey Bare, Way Too Smart for You;V/VP;Personnel;Non-Aligned;Second Chances/Virtual Promo;Virtual;3;0
 Profitable Venture;U;Dilemma;;To Boldly Go;Print;3;3
 Profound Discovery;V;Event;;Strange Bedfellows;Virtual;3;0
-Programmed Compulsion;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
+Programmed Compulsion;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 Promenade School;V;Event;;Extreme Measures;Virtual;3;0
 Prosar;V;Personnel;Ferengi;Hard Time;Virtual;3;0
 Protect Wormhole;V;Mission;;Raise the Stakes;Virtual;2;0
@@ -2597,15 +2592,13 @@ Put to the Screws;V;Dilemma;;Lower Decks;Virtual;3;3
 Q'ret, Adoptive Father;V;Personnel;Non-Aligned;Caretaker;Virtual;3;0
 Q's Planet, Enticing Diversion;V;Mission;;Symbiosis;Virtual;2;0
 Qatai, Determined Hunter;V;Personnel;Non-Aligned;Symbiosis;Virtual;3;0
-Qo'noS, Heart of the Empire;S;Mission;;Second Edition;Print;2;0
-Qo'noS, Heart of the Empire;V;Mission;;Move Along Home;Virtual;1;0
-Qo'noS, Heart of the Empire;VP;Mission;;Virtual Promo;Virtual;3;0
+Qo'noS, Heart of the Empire;S/V;Mission;;Second Edition/Move Along Home;Both;2;0
 Qol, Lascivious Lackey;U;Personnel;Ferengi;These Are The Voyages;Print;3;0
 Quaint Technology;U;Dilemma;;Energize;Print;3;2
-Qualification;V;Dilemma;;Lower Decks;Virtual;3;0
+Qualification;V;Dilemma;;Lower Decks;Virtual;3;3
 Qualor II Rendezvous;U;Mission;;Second Edition;Print;2;0
 Quantum Drone;V;Personnel;Borg;Lower Decks;Virtual;3;0
-Quantum Filament;R;Dilemma;;Call to Arms;Print;3;0
+Quantum Filament;R;Dilemma;;Call to Arms;Print;3;1
 Quantum Incursions;P;Event;;Fractured Time;Print;3;0
 Quantum Slipstream Drive;C;Interrupt;;Second Edition;Print;3;0
 Quarantine;P;Event;;Fractured Time;Print;3;0
@@ -2614,8 +2607,7 @@ Quark's Treasure, Sabotaged Shuttle;R;Ship;Ferengi;Captain's Log;Print;3;0
 Quark, Cordial Host;V;Personnel;Ferengi;Star Trek 50;Virtual;3;0
 Quark, Frontline Observer;V;Personnel;Ferengi;Apocalypse Rising;Virtual;3;0
 Quark, In Love;V;Personnel;Cardassian;The Menagerie;Virtual;3;0
-Quark, Little Green Man;R;Personnel;Ferengi;Captain's Log;Print;3;0
-Quark, Little Green Man;VP;Personnel;Ferengi;Virtual Promo;Virtual;3;0
+Quark, Little Green Man;R/VP;Personnel;Ferengi;Captain's Log/Virtual Promo;Both;3;0
 Quark, Lumba;V;Personnel;Ferengi;This Side of Paradise;Virtual;3;0
 Quark, Middleman;V;Personnel;Ferengi;Classification: Civilian;Virtual;3;0
 Quark, Opportunistic Envoy;V;Personnel;Ferengi;Strange Bedfellows;Virtual;3;0
@@ -2787,7 +2779,7 @@ Roger Korby, A Shadow of His Former Self;V;Personnel;Non-Aligned;The Menagerie;V
 Rogers;V;Personnel;Federation;A Time to Stand;Virtual;3;0
 Rogesh;C;Personnel;Cardassian;Second Edition;Print;3;0
 Rogue Borg Ambush;U;Dilemma;;Call to Arms;Print;3;0 // Has a VP that is identical
-Rogue Borg Ship;V/VP;Dilemma;;Legacy/Virtual Promo;Virtual;3;0
+Rogue Borg Ship;V/VP;Dilemma;;Legacy/Virtual Promo;Virtual;4;3 // Need a VP
 Rokassa, Tampering Vessel;V;Ship;Cardassian;Raise the Stakes;Virtual;3;0
 Rollins, Trusted Subordinate;V;Personnel;Federation;Caretaker;Virtual;3;0
 Rom, Diagnostic and Repair Technician;R;Personnel;Bajoran;Second Edition;Print;3;0
@@ -2810,7 +2802,7 @@ Rovaran;P;Ship;Romulan;Tenth Anniversary Collection;Print;3;0
 Royale Casino: Craps;V;Dilemma;;Sacrifice of Angels;Virtual;3;0
 Ru'afo, Once Called Ro'tin;V;Personnel;Dominion;Heroes and Demons;Virtual;3;0
 Ru'afo, Reluctant "Partner";V;Personnel;Non-Aligned;Star Trek 50;Virtual;3;0
-Rude Awakening;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
+Rude Awakening;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 Rudolph Ransom, Devious Captain;V;Personnel;Federation;Allegiance;Virtual;3;0
 Ruk, Old One Servitor;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Rule of Acquisition #102;U;Event;;To Boldly Go;Print;3;0
@@ -2832,7 +2824,7 @@ Rules of Obedience;VP;Dilemma;;Inheritance;Virtual;3;0
 Ruling Council;V;Interrupt;;Peak Performance;Virtual;3;0
 Runabout Search;U;Mission;;Second Edition;Print;2;0
 Running a Tight Ship;R;Event;;Necessary Evil;Print;3;0
-Rush Job;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
+Rush Job;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 Rusot, Proud Nationalist;U/VP;Personnel;Cardassian;Necessary Evil/Virtual Promo;Both;3;0
 Russell Toddman, Security Conscious;V;Personnel;Federation;Return to Grace;Virtual;3;0
 Ruthless Efficiency;V;Event;;Sacrifice of Angels;Virtual;3;0
@@ -2955,7 +2947,7 @@ Shared Delicacy;U;Interrupt;;Energize;Print;3;0
 Shared Hallucination;V;Dilemma;;Tapestry;Virtual;3;0
 Shared Problems;C;Event;;Necessary Evil;Print;3;0
 Shattered;U;Dilemma;;In a Mirror Darkly;Print;3;0
-Sheer Lunacy;C;Dilemma;;Call to Arms;Print;3;0
+Sheer Lunacy;C;Dilemma;;Call to Arms;Print;3;3
 Shelley;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
 Shields Up!;R;Dilemma;;Dangerous Missions;Print;3;0
 Shining So Bright;VP;Event;;Virtual Promo;Virtual;3;0 // Two different VPs
@@ -2986,11 +2978,11 @@ Signs of Sentience;V;Interrupt;;Unnatural Selection;Virtual;3;0
 Silaran Prin, Between Darkness and Light;U;Personnel;Cardassian;What You Leave Behind;Print;3;0
 Silent Attack;C;Dilemma;;These Are The Voyages;Print;3;0
 Silent Strike;U;Interrupt;;What You Leave Behind;Print;3;0
-Silent Witness;V;Dilemma;;Hard Time;Virtual;3;0
+Silent Witness;V;Dilemma;;Hard Time;Virtual;3;3
 Silik, Chameleon;R/VP;Personnel;Non-Aligned;To Boldly Go/Virtual Promo;Both;3;0
 Sim, Sacrificial Lamb;V;Personnel;Starfleet;Classification: Civilian;Virtual;3;0
 Simmons;V;Personnel;Federation;Matter of Time;Virtual;3;0
-Simulated Prey;V;Dilemma;;Lower Decks;Virtual;3;0
+Simulated Prey;V;Dilemma;;Lower Decks;Virtual;3;3
 Sirella, Forbidding Matriarch;V;Personnel;Klingon;A Less Perfect Union;Virtual;3;0
 Sirna Kolrami, Famed Strategist;C;Personnel;Federation;What You Leave Behind;Print;3;0
 Sirol, Diplomatic Adversary;R;Personnel;Romulan;Energize;Print;3;0
