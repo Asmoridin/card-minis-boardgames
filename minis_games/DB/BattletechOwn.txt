@@ -2,3 +2,14 @@
 'Mechbuster (Laser);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;3039;0
 'Mechbuster (LB-X);Inner Sphere;Conventional Fighter;Civil War (3062 - 3067);Mechbuster;3039;0
 'Mechbuster (SRM);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;3039;0
+AC/2 Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;3039;0
+AC/2 Carrier (LB-X);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;3058;0
+LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;3039;0
+LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;3059;0
+LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;3059;0
+Laser Carrier;Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Missile Carrier;3039;0
+MRM Carrier;Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;3059;0
+SRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;3039;0
+SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;3059;0
+SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;3059;0
+SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;3059;0
