@@ -1,0 +1,4 @@
+'Mechbuster;Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;3039;0
+'Mechbuster (Laser);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;3039;0
+'Mechbuster (LB-X);Inner Sphere;Conventional Fighter;Civil War (3062 - 3067);Mechbuster;3039;0
+'Mechbuster (SRM);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;3039;0
