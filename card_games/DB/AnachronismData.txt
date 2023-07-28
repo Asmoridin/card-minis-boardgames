@@ -125,7 +125,7 @@ Blackbeard's Jolly Roger;Briton/Pirate;Set 6;1;0
 Blackbeard;Briton/Pirate;Set 6;1;0
 Blanc Harnois;French;Set 3;1;0
 Blossius of Cumae;Roman;Set 1;1;0
-Bo Xiong Jia;Chinese;Set 2;1;0
+Bo Xiong Jia;Chinese;Set 2;1;1
 Boarding Axe;Irish/Pirate;Set 6;1;0
 Boethius;Germanic;Set 3;1;0
 Bokken;Japanese;Set 1;1;0
@@ -375,7 +375,7 @@ Grendel;Norse;Set 1;1;0
 Grettir the Strong;Norse;Set 1;1;0
 Griwban;Persian;Set 4;1;0
 Guan Di;Chinese;Set 2;1;0
-Guan Yu;Chinese;Set 2;1;0
+Guan Yu;Chinese;Set 2;1;1
 Guandu Hu Cheng He;Chinese;Set 6;1;0
 Gukgung;Korean;Set 9;1;0
 Gunhild Kongemor;Norse;Set 9;1;0
@@ -440,8 +440,8 @@ Horus;Egyptian;Set 2;1;0
 Howdah;East Indian;Set 10;1;0
 Hriflingr;Norse;Set 9;1;0
 Hu Die Shuang Dao;Pirate/Chinese;Set 9;1;0
-Hu Xiong Jia;Chinese;Set 2;1;0
-Hua Mulan;Chinese;Set 2;1;0
+Hu Xiong Jia;Chinese;Set 2;1;1
+Hua Mulan;Chinese;Set 2;1;1
 Huang Jin Zhi Luan;Chinese;Set 6;1;0
 Huang Lao Jun;Chinese;Set 6;1;0
 Hugh Glass;American Frontiersmen;Set 7;1;0
@@ -484,13 +484,13 @@ Janggeom;Korean;Set 9;1;0
 Jeanne de Clisson;Pirate/French;Set 9;1;0
 Jezebel;Tribes of Israel;Set 10;1;0
 Ji;Chinese;Set 6;1;0
-Jie the Tyrant;Chinese;Set 2;1;0
+Jie the Tyrant;Chinese;Set 2;1;1
 Jihad;Saracen;Promo;1;0
 Jim Bowie;American Frontiersmen;Set 7;1;0
 Jim Bridger;American Frontiersmen;Set 7;1;0
 Jin Cheng Bao Guo;Chinese;Set 2;1;0
 Jin-Dachi;Japanese;Set 5;1;0
-Jlang Jun Zhil Kai;Chinese;Set 2;1;0
+Jlang Jun Zhil Kai;Chinese;Set 2;1;1
 Johnson's Army;American Frontiersmen;Set 7;1;0
 Jorsalfare;Norse;Set 9;1;0
 Joshua;Tribes of Israel;Set 7;1;0
@@ -846,7 +846,7 @@ Shabrack;Norse;Set 9;1;0
 Shaka Zulu;African Kingdoms;Set 8;1;0 // Have badly printed version
 Shamshir;Persian;Promo;1;0
 Shan Dian Mao;Chinese;Set 6;1;0
-Shan Wen Jia;Chinese;Set 2;1;0
+Shan Wen Jia;Chinese;Set 2;1;1
 Shapur I;Persian;Set 4;1;0
 Shendyt;Egyptian;Set 10;1;0
 Sheng Kai De Mu Lan Hua;Chinese;Set 2;1;0
@@ -914,7 +914,7 @@ Subedei;Mongol;Set 2;1;0
 Sublician Bridge;Roman;Set 8;1;0
 Suleiman I, the Magnificent;Turkish;Set 6;1;0
 Sumeru;East Indian;Set 10;1;0
-Sun Tzu;Chinese;Set 2;1;0
+Sun Tzu;Chinese;Set 2;1;1
 Sverd;Norse;Set 1;1;0
 Swept-Hilt Rapier;Briton/Pirate;Set 6;1;0
 Sweyn I Forkbeard;Norse;Set 9;1;0
@@ -971,7 +971,7 @@ Threats of Mutiny;Pirate/Scottish;Set 9;1;0
 Thutmose III;Egyptian;Set 10;1;0
 Tiara;Persian;Set 4;1;0
 Tiberinus;Roman;Set 8;1;0
-Tie Chen Shan Qi Gong;Chinese;Set 6;1;0
+Tie Chen Shan Qi Gong;Chinese;Set 6;1;1
 Tie Xia Bi Hu Jia;Chinese;Set 6;1;0
 Tihi tis Trias;Trojan;Set 7;1;0
 Tiwaz;Germanic;Set 3;1;0
@@ -1031,6 +1031,7 @@ Wanazi Wachipi Wahachanka;Native American;Set 3;1;0
 Wanazi Wachipi;Native American;Set 3;1;0
 Wanderlust;American Frontiersmen;Set 7;1;0
 Wanhi Chanhpi;Native American;Set 3;1;0
+Wanli Changcheng;Chinese;Promo;1;0 // Have okay printed version
 War Elephants;Carthaginian;Set 8;1;0
 War Wolf;Briton;Set 8;1;0 // Have okay printed version
 Wei Guo;Chinese;Set 6;1;0
@@ -1067,7 +1068,7 @@ Yi Tian Dao;Chinese;Set 6;1;0
 Yin Tou Hui;Chinese;Set 6;1;0
 Yu Huang Shang Di;Chinese;Set 2;1;0
 Yu Seong-ryong;Korean;Set 9;1;0
-Yue Fei;Chinese;Set 2;1;0
+Yue Fei;Chinese;Set 2;1;1
 Yue;Chinese;Set 2;1;0
 Yumi;Japanese;Set 1;1;0
 Zamolxis;Romanian;Set 6;1;0
@@ -1075,7 +1076,7 @@ Zartosht;Persian;Set 4;1;0
 Zeus;Greek;Set 1;1;0
 Zhad;Mongol;Set 2;1;0
 Zhang Fei;Chinese;Set 6;1;0
-Zhang Jiao;Chinese;Set 6;1;0
-Zhou;Chinese;Set 2;1;0
+Zhang Jiao;Chinese;Set 6;1;1
+Zhou;Chinese;Set 2;1;1
 Zhu Rong;Chinese;Set 2;1;0
 Zoni tou Eanta;Trojan;Set 7;1;0
