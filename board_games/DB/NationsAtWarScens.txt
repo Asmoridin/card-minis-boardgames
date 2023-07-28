@@ -18,3 +18,6 @@ A Fox in the Hen House;Germany;USA;2/14/1943;Sidi Bou Zid, Tunisia;African;13,14
 Rock the Kasbah;Vichy France;USA;11/9/1942;Kasbah, Morocco;African;11;8;Desert Heat
 Last Night in Medjez-el-Bab;Germany;UK, USA;11/25/1942;Medjez-el-Bab, Tunisia;African;11,14;10;Desert Heat
 Tigers at Tebourba;Germany;UK;11/27/1942;Tebourba, Tunisia;African;14;10;Desert Heat
+Rommel at Kasserine Pass;Germany, Italy;USA;2/20/1943;Kasserine Pass, Tunisia;African;12,13;10;Desert Heat
+Escape at Dunkirk;Germany;France, UK;6/2/1940;France;Western;3,4;11;Compendium 1
+Jubilee;Germany;Canada, UK;8/19/1942;Dieppe, France;Western;4;10;Compendium 1
