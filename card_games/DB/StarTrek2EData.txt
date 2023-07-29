@@ -2684,8 +2684,7 @@ Reg, Inside Man;V;Personnel;Ferengi;Caretaker;Virtual;3;0
 Regana Tosh;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Regency 1, Alliance Flagship;V;Ship;Klingon;Sacrifice of Angels;Virtual;3;0
 Regeneration Alcoves;C;Event;;Call to Arms;Print;3;0
-Reginald Barclay, Exceeding Limits;V;Personnel;Federation;The Nth Degree;Virtual;3;0
-Reginald Barclay, Exceeding Limits;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Reginald Barclay, Exceeding Limits;V/VP;Personnel;Federation;The Nth Degree/Virtual Promo;Virtual;3;0
 Reginald Barclay, Reclusive Engineer;R;Personnel;Federation;Call to Arms;Print;3;0
 Regula, Exact Vengeance;V;Mission;;A Time to Stand;Virtual;2;0
 Reide;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
@@ -2704,10 +2703,8 @@ Reliving the Past;V;Event;;Matter of Time;Virtual;3;0
 Reman Assault Team;V;Event;;Allegiance;Virtual;3;0
 Reman Subterfuge;R;Event;;To Boldly Go;Print;3;0
 Remarkable Regeneration;R;Event;;To Boldly Go;Print;3;0
-Remata'Klan, Steadfast Sentinel;V;Personnel;Dominion;Second Skin;Virtual;3;0
-Remata'Klan, Steadfast Sentinel;V;Personnel;Dominion;Symbiosis;Virtual;3;0
-Remata'Klan, Unit Leader;R;Personnel;Dominion;Call to Arms;Print;3;0
-Remata'Klan, Unit Leader;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
+Remata'Klan, Steadfast Sentinel;V;Personnel;Dominion;Symbiosis/Second Skin;Virtual;3;0
+Remata'Klan, Unit Leader;R/VP;Personnel;Dominion;Call to Arms/Virtual Promo;Both;3;0
 Remus, Supervise Dilithium Mine;S/VP;Mission;;Second Edition/Virtual Promo;Both;2;0
 Render Assistance;S;Interrupt;;Second Edition;Print;3;0
 Renegade Ambush;U;Dilemma;;Necessary Evil;Print;3;3

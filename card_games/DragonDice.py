@@ -95,6 +95,8 @@ faction_map = {}
 for item in item_list:
     if getMetaType(item[1]) != chosen_meta:
         continue
+    if chosen_meta == 'Unit' and item[1] not in my_current_factions:
+        continue
     if item[1] not in faction_map:
         faction_map[item[1]] = [0, 0]
     faction_map[item[1]][1] += item[4]
