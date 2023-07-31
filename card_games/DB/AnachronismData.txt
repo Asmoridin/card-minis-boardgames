@@ -81,7 +81,7 @@ Ay It-hetjer;Egyptian;Set 10;1;0
 Azukinagamitsu;Japanese;Set 5;1;0
 B'gsw;Egyptian;Set 2;1;0
 Ba Bian She Mao;Chinese;Set 6;1;0
-Ba Duan Jin;Chinese;Set 2;1;0
+Ba Duan Jin;Chinese;Set 2;1;1
 Ba'al Hammon;Carthaginian;Set 8;1;0
 Baba Yaga;Russian;Promo;1;0
 Babieca;Spanish;Set 5;1;0
@@ -118,7 +118,7 @@ Beyazid I, the Thunderbolt;Turkish;Set 6;1;0
 Biao Qi Jiangjun;Chinese;Set 6;1;0
 Bidenhander;Holy Roman;Set 10;1;0
 Bilesik Yay Yapimi;Pirate/Turkish;Set 9;1;0
-Bing Fa;Chinese;Set 2;1;0
+Bing Fa;Chinese;Set 2;1;1
 Bishamon-ten;Japanese;Set 1;1;0
 Black Bart;Welsh/Pirate;Set 6;1;0
 Blackbeard's Jolly Roger;Briton/Pirate;Set 6;1;0
@@ -246,7 +246,7 @@ Damhan-Allaidh Leantalach;Scottish;Set 3;1;0
 Dane Axe;Norse;Set 1;1;0
 Dangun;Korean;Set 9;1;0
 Daniel Boone;American Frontiersmen;Set 7;1;0
-Dao;Chinese;Set 2;1;0
+Dao;Chinese;Set 2;1;1
 Darius the Great;Persian;Set 4;1;0
 David;Tribes of Israel;Set 7;1;0
 Davy Jones' Locker;Welsh/Pirate;Set 6;1;0
@@ -374,7 +374,7 @@ Greaves;Greek;Set 1;1;0
 Grendel;Norse;Set 1;1;0
 Grettir the Strong;Norse;Set 1;1;0
 Griwban;Persian;Set 4;1;0
-Guan Di;Chinese;Set 2;1;0
+Guan Di;Chinese;Set 2;1;1
 Guan Yu;Chinese;Set 2;1;1
 Guandu Hu Cheng He;Chinese;Set 6;1;0
 Gukgung;Korean;Set 9;1;0
@@ -442,8 +442,8 @@ Hriflingr;Norse;Set 9;1;0
 Hu Die Shuang Dao;Pirate/Chinese;Set 9;1;0
 Hu Xiong Jia;Chinese;Set 2;1;1
 Hua Mulan;Chinese;Set 2;1;1
-Huang Jin Zhi Luan;Chinese;Set 6;1;0
-Huang Lao Jun;Chinese;Set 6;1;0
+Huang Jin Zhi Luan;Chinese;Set 6;1;1
+Huang Lao Jun;Chinese;Set 6;1;1
 Hugh Glass;American Frontiersmen;Set 7;1;0
 Huitzilopochtli;Aztec;Set 5;1;0
 Hunter's Paradise;American Frontiersmen;Set 7;1;0
@@ -488,7 +488,7 @@ Jie the Tyrant;Chinese;Set 2;1;1
 Jihad;Saracen;Promo;1;0
 Jim Bowie;American Frontiersmen;Set 7;1;0
 Jim Bridger;American Frontiersmen;Set 7;1;0
-Jin Cheng Bao Guo;Chinese;Set 2;1;0
+Jin Cheng Bao Guo;Chinese;Set 2;1;1
 Jin-Dachi;Japanese;Set 5;1;0
 Jlang Jun Zhil Kai;Chinese;Set 2;1;1
 Johnson's Army;American Frontiersmen;Set 7;1;0
@@ -696,7 +696,7 @@ Ninja;Japanese;Set 1;1;0
 Nobunaga;Japanese;Promo;1;0
 Norman Lance;Briton;Set 8;1;0
 Nsywt;Egyptian;Set 2;1;0
-Nu Gong;Chinese;Set 2;1;0
+Nu Gong;Chinese;Set 2;1;1
 Num Mor;Mongol;Set 2;1;0
 Num Tom;Mongol;Set 2;1;0
 O Potamos Styx;UNKNOWN;Promo;1;0
@@ -766,10 +766,10 @@ Publius Scipio Africanus;Roman;Set 8;1;0
 Pugio;Roman;Set 1;1;0
 Pythagoras;Greek;Set 1;1;0
 Qela';Tribes of Israel;Set 7;1;0
-Qiang;Chinese;Set 2;1;0
+Qiang;Chinese;Set 2;1;1
 Qin'at Beteka;Tribes of Israel;Set 7;1;0
-Qing Gong Palace;Chinese;Set 2;1;0
-Qing Long Yan Yue Dao;Chinese;Set 2;1;0
+Qing Gong Palace;Chinese;Set 2;1;1
+Qing Long Yan Yue Dao;Chinese;Set 2;1;1
 Quauhololli;Aztec;Promo;1;0
 Qubbat al-Nabi;Turkish;Set 6;1;0
 Queen Anne's Revenge;Briton/Pirate;Promo;1;0
@@ -849,7 +849,7 @@ Shan Dian Mao;Chinese;Set 6;1;0
 Shan Wen Jia;Chinese;Set 2;1;1
 Shapur I;Persian;Set 4;1;0
 Shendyt;Egyptian;Set 10;1;0
-Sheng Kai De Mu Lan Hua;Chinese;Set 2;1;0
+Sheng Kai De Mu Lan Hua;Chinese;Set 2;1;1
 Shestoper;Russian;Set 4;1;0
 Shi Tou Kou;Chinese;Set 6;1;0
 Shield of Hephaestus;Greek;Set 1;1;0
@@ -923,7 +923,7 @@ Sword of Mars;Mongol;Set 2;1;0
 Ta-Seti;African Kingdoms;Set 8;1;0 // Have badly printed version
 Taejo of Joseon;Korean;Set 9;1;0
 Tahra';Tribes of Israel;Set 7;1;0
-Tai Chi Gun;Chinese;Set 6;1;0
+Tai Chi Gun;Chinese;Set 6;1;1
 Taiaha;Maori;Set 4;1;0
 Takeda Shingen;Japanese;Set 5;1;0
 Tall Tales;American Frontiersmen;Set 7;1;0
@@ -931,7 +931,7 @@ Talwar;East Indian;Set 10;1;0
 Tane Mahuta;Maori;Set 4;1;0
 Tangaroa;Maori;Set 4;1;0
 Tanit;Carthaginian;Set 8;1;0
-Tao Yuan San Jie Yi;Chinese;Set 2;1;0
+Tao Yuan San Jie Yi;Chinese;Set 2;1;1
 Tapered Leather Shield;Egyptian;Set 10;1;0
 Tapu;Maori;Set 4;1;0
 Tar Pits;Tribes of Israel;Set 10;1;0
@@ -1058,7 +1058,7 @@ Yasuk;Turkish;Set 6;1;0
 Yataghan;Turkish;Set 6;1;0
 Ye Dirty Swabs;Irish/Pirate;Set 6;1;0
 Yeke Mongghul Ulus;Mongol;Set 2;1;0
-Yeng Wang Ye;Chinese;Set 2;1;0
+Yeng Wang Ye;Chinese;Set 2;1;1
 Yeon Gaesomun;Korean;Set 9;1;0
 Yereho;Tribes of Israel;Set 7;1;0
 Ygerna;Briton;Set 8;1;0
@@ -1066,10 +1066,10 @@ Yggdrasil;Norse;Promo;1;0
 Yi Sunsin;Korean;Set 9;1;0
 Yi Tian Dao;Chinese;Set 6;1;0
 Yin Tou Hui;Chinese;Set 6;1;0
-Yu Huang Shang Di;Chinese;Set 2;1;0
+Yu Huang Shang Di;Chinese;Set 2;1;1
 Yu Seong-ryong;Korean;Set 9;1;0
 Yue Fei;Chinese;Set 2;1;1
-Yue;Chinese;Set 2;1;0
+Yue;Chinese;Set 2;1;1
 Yumi;Japanese;Set 1;1;0
 Zamolxis;Romanian;Set 6;1;0
 Zartosht;Persian;Set 4;1;0
@@ -1078,5 +1078,5 @@ Zhad;Mongol;Set 2;1;0
 Zhang Fei;Chinese;Set 6;1;0
 Zhang Jiao;Chinese;Set 6;1;1
 Zhou;Chinese;Set 2;1;1
-Zhu Rong;Chinese;Set 2;1;0
+Zhu Rong;Chinese;Set 2;1;1
 Zoni tou Eanta;Trojan;Set 7;1;0
