@@ -122,7 +122,7 @@
 1,000 Tribbles - Scan;Tribble;Nothing But Tribble;20;0
 1,000 Tribbles - Score;Tribble;More Tribbles, More Troubles;20;3
 1,000 Tribbles - Time Warp;Tribble;Tribbles Royale;20;0
-10,000 Tribbles - Acquire;Tribble;Star Trek 50;20;0
+10,000 Tribbles - Acquire;Tribble;Star Trek 50/Virtual Promos;20;13 // All from ST50
 10,000 Tribbles - Acquire;Tribble;Virtual Promos;20;0
 10,000 Tribbles - Advance;Tribble;Virtual Promos;20;0
 10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;9
