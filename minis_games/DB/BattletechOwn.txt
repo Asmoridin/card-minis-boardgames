@@ -1,27 +1,33 @@
-'Mechbuster;Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
-'Mechbuster (Laser);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
 'Mechbuster (LB-X);Inner Sphere;Conventional Fighter;Civil War (3062 - 3067);Mechbuster;Attack;3039;0
+'Mechbuster (Laser);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
 'Mechbuster (SRM);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
-AC/2 Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Sniper;3039;0
+'Mechbuster;Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
 AC/2 Carrier (LB-X);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Sniper;3058;0
-LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
-LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
-LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
-Laser Carrier;Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Missile Carrier;Ambusher;3039;0
-MRM Carrier;Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
-SRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Ambusher;3039;0
-SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Ambusher;3059;0
-SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
-SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
-APC (Hover);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+AC/2 Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Sniper;3039;0
 APC (Hover LRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Missile Boat;3039;0
 APC (Hover MG);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
 APC (Hover SRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
-APC (Tracked);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Hover);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
 APC (Tracked LRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Missile Boat;3039;0
 APC (Tracked MG);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
 APC (Tracked SRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
-APC (Wheeled);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Tracked);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
 APC (Wheeled LRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Missile Boat;3039;0
 APC (Wheeled MG);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
 APC (Wheeled SRM);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+APC (Wheeled);Inner Sphere;Light Vehicle;Age of War (2005 - 2570);Armored Personnel Carrier;Scout;3039;0
+Achileus (David);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (Flamer);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (Laser);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (MG);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (TAG);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
+Achileus (WoB);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Achileus Light Battle Armor;Scout;3058;0
+LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
+LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
+LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
+Laser Carrier;Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Missile Carrier;Ambusher;3039;0
+MRM Carrier;Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
+SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Ambusher;3059;0
+SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
+SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
+SRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Ambusher;3039;0
