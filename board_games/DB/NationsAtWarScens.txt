@@ -21,3 +21,6 @@ Tigers at Tebourba;Germany;UK;11/27/1942;Tebourba, Tunisia;African;14;10;Desert 
 Rommel at Kasserine Pass;Germany, Italy;USA;2/20/1943;Kasserine Pass, Tunisia;African;12,13;10;Desert Heat
 Escape at Dunkirk;Germany;France, UK;6/2/1940;France;Western;3,4;11;Compendium 1
 Jubilee;Germany;Canada, UK;8/19/1942;Dieppe, France;Western;4;10;Compendium 1
+Barce, Libya;Italy;UK;9/13/1942;Barce, Libya;African;12;5;Compendium 1
+NAN-White;Germany;Canada;6/6/1944;Juno Beach, Normandy, France;Western;4;10;Compendium 1
+Confusion Near Carentan;Germany;USA;6/13/1944;Near Junction D223/D971, Normandy, France;Western;1;Variable;Compendium 1
