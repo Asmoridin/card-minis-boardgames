@@ -14,6 +14,7 @@ A Dash of Peiper
 A Fatal Attraction: The Gallipoli Campaign
 A Fistful of Kung Fu: Hong Kong Movie Wargame Rules
 A Gate of Hell: The Campaign for Charleston, July-September 1863
+A Glorious Chance: The Naval Struggle for Lake Ontario in the War of 1812
 A Hill Near Hastings: The Beginning of the Norman Conquests
 A Most Fearful Sacrifice: The Three Days of Gettysburg
 A Sheer Butchery: Solferino 1859
@@ -22,6 +23,7 @@ A Thunder Upon the Land: The Battles of Narva and Poltava
 A Victory Lost: Crisis in Ukraine 1942-1943
 A Week In Hell: The Battle of Hue
 A World Aflame
+Aces of Valor
 Adeptus Titanicus
 Admirals' War: World War II at Sea
 Aeronautica Imperialis
@@ -39,6 +41,7 @@ Assault on Narvik
 Atlantic Chase
 Austin Powers CCG
 Balck Friday: The Tatsinskaya Raid, December 1942
+Barbarossa: Army Group Center, 1941
 Barbarossa: Crimea
 Barbarossa: Kiev to Rostov, 1941
 Barring the Gate
@@ -181,7 +184,6 @@ Legend of the Burning Sands
 Lion of Malaya
 Lion of the North: The Dawn of Modern Warfare, 1631-1632
 Lock 'n Load Tactical: Heroes Against the Red Star
-Lock ‘n Load Tactical: Heroes of the Bitter Harvest
 MacArthur's Defeat: The Battle For Luzon
 Magic: The Gathering – Arena of the Planeswalkers
 Manila '45: Stalingrad of the Pacific
