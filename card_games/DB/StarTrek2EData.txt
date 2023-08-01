@@ -2461,12 +2461,10 @@ Personal Transport;C;Ship;Ferengi;Strange New Worlds;Print;3;0
 Pest Control;V;Dilemma;;Balance of Terror;Virtual;3;3
 Phase Pistol;C;Equipment;;To Boldly Go;Print;3;3
 Phillipa Louvois, J.A.G. Officer for Sector 23;V;Personnel;Federation;Second Chances;Virtual;3;0
-Phlox, Alien Physiologist;R;Personnel;Starfleet;To Boldly Go;Print;3;0
-Phlox, Alien Physiologist;VP;Personnel;Starfleet;Virtual Promo;Virtual;3;0
+Phlox, Alien Physiologist;R/VP;Personnel;Starfleet;To Boldly Go/Virtual Promo;Both;3;0
 Phlox, Damaged Doctor;V;Personnel;Starfleet;Peak Performance;Virtual;3;0
 Phlox, Sadistic Physiologist;R;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
-Phoenix, Risen From the Ashes;R;Ship;Non-Aligned;In a Mirror Darkly;Print;3;0
-Phoenix, Risen From the Ashes;VP;Ship;Non-Aligned;Virtual Promo;Virtual;3;0
+Phoenix, Risen From the Ashes;R/VP;Ship;Non-Aligned;In a Mirror Darkly/Virtual Promo;Both;3;0
 Photonic Turncoat;V;Dilemma;;Caretaker;Virtual;3;0
 Photons Be Free;V;Event;;Unity;Virtual;3;0
 Pi, Off Course;VP;Ship;Romulan;Inheritance;Virtual;3;0
@@ -2475,8 +2473,7 @@ Picking Up the Pieces;U/VP;Dilemma;;Energize/Virtual Promo;Both;4;3 // Need 1 VP
 Pickpocket;C;Event;;Energize;Print;3;0
 Pierce Their Defenses;U;Event;;Second Edition;Print;3;0
 Pillage and Plunder;V;Dilemma;;Infinite Diversity Remastered;Virtual;3;0
-Pillar of the Community;V;Event;;Classification: Civilian;Virtual;3;0
-Pillar of the Community;VP;Event;;Virtual Promo;Virtual;3;0
+Pillar of the Community;V/VP;Event;;Classification: Civilian/Virtual Promo;Virtual;3;0
 Piller;V;Personnel;Federation;Caretaker;Virtual;3;0
 Pimoo;V;Personnel;Dominion;Hard Time;Virtual;3;0
 Pinned Down;S;Dilemma;;Second Edition;Print;3;0
@@ -2501,8 +2498,7 @@ Pooling Resources;V;Interrupt;;Unnatural Selection;Virtual;3;0
 Population 9 Billion - All Borg;VP;Event;;Inheritance;Virtual;3;0
 Porta, Advisor to the Emissary;R;Personnel;Bajoran;Call to Arms;Print;3;0
 Portent;V;Event;;Unnatural Selection;Virtual;3;0
-Porthos;V;Dilemma;;The Menagerie;Virtual;3;0
-Porthos;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Porthos;V/VP;Dilemma;;The Menagerie/Virtual Promo;Virtual;3;0
 Posturing;V;Interrupt;;Raise the Stakes;Virtual;3;0
 Power Loss;V;Event;;Balance of Terror;Virtual;3;0
 Power Shift;U/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
@@ -2525,19 +2521,16 @@ Predicament;U;Event;;In a Mirror Darkly;Print;3;0
 Predictable Response;V;Dilemma;;The Undiscovered Country;Virtual;3;0 // Reprint these
 Preeminent Precision;U;Event;;To Boldly Go;Print;3;0
 Prefix Codes;C;Dilemma;;What You Leave Behind;Print;3;3
-Prejudice and Politics;U;Event;;Second Edition;Print;3;0
-Prejudice and Politics;VP;Event;;Virtual Promo;Virtual;3;0
+Prejudice and Politics;U/VP;Event;;Second Edition/Virtual Promo;Both;3;0
 Preposterous Plan;V;Interrupt;;Matter of Time;Virtual;3;0
 Preservation Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Pressing On;V;Event;;Zero Hour;Virtual;3;0
-Prevent Historical Disruption;V;Mission;;Matter of Time;Virtual;2;0
-Prevent Historical Disruption;V;Mission;;Move Along Home;Virtual;1;0
+Prevent Historical Disruption;V;Mission;;Matter of Time/Move Along Home;Virtual;2;0
 Preventative Repercussions;C;Dilemma;;In a Mirror Darkly;Print;3;0
 Preventative Ritual;U;Interrupt;;Captain's Log;Print;3;0
 Primitive Culture;U;Dilemma;;Second Edition;Print;3;2
 Principled Stand;V;Event;;Heroes and Demons;Virtual;3;0
-Prison Compound;R;Event;;Necessary Evil;Print;3;0
-Prison Compound;VP;Event;;Virtual Promo;Virtual;3;0
+Prison Compound;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Prisoner of the Exile;R;Dilemma;;What You Leave Behind;Print;3;1
 Process Identification;U;Event;;Second Edition;Print;3;0
 Proclamation of Doom;V;Dilemma;;All Our Yesterdays;Virtual;3;0
@@ -2596,22 +2589,17 @@ Quark, Lumba;V;Personnel;Ferengi;This Side of Paradise;Virtual;3;0
 Quark, Middleman;V;Personnel;Ferengi;Classification: Civilian;Virtual;3;0
 Quark, Opportunistic Envoy;V;Personnel;Ferengi;Strange Bedfellows;Virtual;3;0
 Quark, Practical Apologist;V;Personnel;Ferengi;Far Beyond the Stars;Virtual;3;0
-Quark, Resistance Informant;R;Personnel;Ferengi;Call to Arms;Print;3;0
-Quark, Resistance Informant;V;Personnel;Ferengi;Second Skin;Virtual;3;0
+Quark, Resistance Informant;R/V;Personnel;Ferengi;Call to Arms/Second Skin;Both;3;0
 Quark, Simple Barkeep;R;Personnel;Ferengi;In a Mirror Darkly;Print;3;0
 Quark, Smarmy Restauranteur;V;Personnel;Ferengi;Shore Leave;Virtual;3;0
 Quark, Son of Keldar;U;Personnel;Klingon;To Boldly Go;Print;3;0
-Quark, True Ferengi;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Quark, True Ferengi;VP;Personnel;Ferengi;Virtual Promo;Virtual;3;0
+Quark, True Ferengi;R/VP;Personnel;Ferengi;Strange New Worlds/Virtual Promo;Both;3;0
 Quark, Vastly Outnumbered;V;Personnel;Ferengi;Allegiance;Virtual;3;0
 Quarrel;C;Dilemma;;Strange New Worlds;Print;3;3
 Quarren Labor Shortage;U;Dilemma;;Second Edition;Print;3;3
-Quatal Prime, Quiet Mining Colony;V;Mission;;A Time to Stand;Virtual;2;0
-Quatal Prime, Quiet Mining Colony;V;Mission;;Move Along Home;Virtual;1;0
-Queen's Borg Cube;P;Ship;Borg;Tenth Anniversary Collection;Print;3;0
-Queen's Borg Cube;VP;Ship;Borg;Virtual Promo;Virtual;3;0
-Queen's Borg Sphere, Contingency Vessel;P;Ship;Borg;Genesis;Print;3;0
-Queen's Borg Sphere, Contingency Vessel;VP;Ship;Borg;Virtual Promo;Virtual;3;0
+Quatal Prime, Quiet Mining Colony;V;Mission;;A Time to Stand/Move Along Home;Virtual;2;0
+Queen's Borg Cube;P/VP;Ship;Borg;Tenth Anniversary Collection/Virtual Promo;Both;3;0
+Queen's Borg Sphere, Contingency Vessel;P/VP;Ship;Borg;Genesis/Virtual Promo;Both;3;0
 Quen Paltra;V;Personnel;Bajoran;Extreme Measures;Virtual;3;0
 Quest for the Sword of Kahless;U;Mission;;Second Edition;Print;2;0
 Quetsivoo, Unidentified Pirate Ship;V;Ship;Ferengi;Allegiance;Virtual;3;0
@@ -2629,8 +2617,7 @@ Racial Tension;C;Dilemma;;Energize;Print;3;0
 Rae'alin;V;Personnel;Dominion;Heroes and Demons;Virtual;3;0
 Raimus, Criminal Master;U;Personnel;Non-Aligned;Energize;Print;3;0
 Raimus, Syndicate Collaborator;V;Personnel;Dominion;Classification: Civilian;Virtual;3;0
-Raise the Stakes;V;Event;;Infinite Diversity Remastered;Virtual;3;0
-Raise the Stakes;V;Event;;This Side of Paradise;Virtual;3;0
+Raise the Stakes;V;Event;;Infinite Diversity Remastered/This Side of Paradise;Virtual;3;0
 Rak'tazan;C;Personnel;Dominion;Call to Arms;Print;3;0
 Rakosa System, Intercept "Dreadnought";V;Mission;;Caretaker;Virtual;2;0
 Ralami;V;Personnel;Federation;Zero Hour;Virtual;3;0
@@ -2646,12 +2633,10 @@ Rayna Kapec, Developing Android;V;Personnel;Non-Aligned;This Side of Paradise;Vi
 Rayva, Bureaucratic Ally;V;Personnel;Dominion;Balance of Terror;Virtual;3;0
 Razka Karn, Scavenger;C;Personnel;Bajoran;Necessary Evil;Print;3;0
 Rebecca Sullivan, Resistance Fighter;R;Personnel;Federation;Energize;Print;3;0
-Reborn;U;Interrupt;;Necessary Evil;Print;3;0
-Reborn;VP;Interrupt;;Virtual Promo;Virtual;3;0
+Reborn;U/VP;Interrupt;;Necessary Evil/Virtual Promo;Both;3;0
 Rebuilding the Fleet;V;Interrupt;;Raise the Stakes;Virtual;3;0
 Recessive Mutation;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
-Reclaim Terok Nor;C;Event;;What You Leave Behind;Print;3;0
-Reclaim Terok Nor;VP;Event;;Virtual Promo;Virtual;3;0
+Reclaim Terok Nor;C/VP;Event;;What You Leave Behind/Virtual Promo;Both;3;0
 Reclamation Drone;U;Personnel;Borg;Call to Arms;Print;3;0
 Reconfiguration;C;Event;;Energize;Print;3;0
 Reconfigure;V;Interrupt;;Caretaker;Virtual;3;0

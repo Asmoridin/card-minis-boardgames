@@ -25,10 +25,43 @@ filter_lines = []
 for line in lines:
     line = line.split('//')[0].strip()
     card_name, card_type, card_sets, max_item, own_item = line.split(';')
+    if card_name in card_names:
+        print("Duplicate: " + card_name)
+    card_names.add(card_name)
     max_item = int(max_item)
     own_item = int(own_item)
-    card_lines.append((card_name, card_type, card_sets, max_item, own_item))
+    if card_type == 'Tribble':
+        card_count, card_power = card_name.split('-')
+        card_count = card_count.strip()
+        card_power = card_power.strip()
+        card_lines.append((card_count, card_power, max_item, own_item))
+    elif card_type == 'Trouble':
+        pass
     total_max += max_item
     total_own += own_item
 
-card_type_map = {}
+# Figure out appropriate Tribble power
+card_power_map = {}
+for line in card_lines:
+    if line[1] not in card_power_map:
+        card_power_map[line[1]] = [0, 0]
+    card_power_map[line[1]][0] += line[2]
+    card_power_map[line[1]][1] += line[3]
+card_power_sorter = []
+for card_power in card_power_map:
+    card_power_sorter.append((card_power, card_power_map[card_power][1]/card_power_map[card_power][0], card_power_map[card_power][0] - card_power_map[card_power][1]))
+card_power_sorter = sorted(card_power_sorter, key=lambda x:(x[1], -x[2], x[0]))
+
+# Filter out by power, then sort by quantity
+card_qty_map = {}
+for line in card_lines:
+    if line[1] == card_power_sorter[0][0]:
+        print(line)
+        if line[0] not in card_qty_map:
+            card_qty_map[line[0]] = [0, 0]
+        card_qty_map[line[0]][0] += line[2]
+        card_qty_map[line[0]][1] += line[3]
+card_qty_sorter = []
+print(card_qty_map)
+for card_qty in card_qty_map:
+    pass
