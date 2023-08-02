@@ -41,7 +41,7 @@
 1 Tribble - Replay;Tribble;More Tribbles, More Troubles/Virtual Promos;20;15 // All are MTMT
 1 Tribble - Retreat;Tribble;Star Trek 50;20;0
 1 Tribble - Skip;Tribble;Nothing But Tribble/Tribbles;20;0
-10 Tribbles - Advance;Tribble;Nothing But Tribble/Virtual Promos;20;0
+10 Tribbles - Advance;Tribble;Nothing But Tribble/Virtual Promos;21;20 // Need 1 VP
 10 Tribbles - Ante;Tribble;Tribbles Royale;20;4
 10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;0
 10 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;10 // All from NTaA
@@ -122,7 +122,7 @@
 1,000 Tribbles - Score;Tribble;More Tribbles, More Troubles;20;3
 1,000 Tribbles - Time Warp;Tribble;Tribbles Royale;20;0
 10,000 Tribbles - Acquire;Tribble;Star Trek 50/Virtual Promos;20;13 // All from ST50
-10,000 Tribbles - Advance;Tribble;Virtual Promos;20;0
+10,000 Tribbles - Advance;Tribble;Virtual Promos;20;20
 10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;9
 10,000 Tribbles - Assimilate;Tribble;Nothing But Tribble;20;0
 10,000 Tribbles - Assimilate;Tribble;Virtual Promos;20;0
