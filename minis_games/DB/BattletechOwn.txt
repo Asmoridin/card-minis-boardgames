@@ -22,6 +22,41 @@ Achileus (Laser);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Ach
 Achileus (MG);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
 Achileus (TAG);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Achileus Light Battle Armor;Ambusher;3058;0
 Achileus (WoB);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Achileus Light Battle Armor;Scout;3058;0
+Ahab AHB-443;Inner Sphere;Heavy Aerospace;Star League (2571 - 2780);Ahab;Attack;3050;0
+Ahab AHB-643;Inner Sphere;Heavy Aerospace;Civil War (3062 - 3067);Ahab;Attack;3050;0
+Ahab AHB-MD;Inner Sphere;Heavy Aerospace;Clan Invasion (3050 - 3061);Ahab;Attack;3050;0
+Ahab AHB-X;Inner Sphere;Heavy Aerospace;Star League (2571 - 2780);Ahab;Attack;3050;0
+Alacorn Mk III Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Juggernaut;3059;0
+Alacorn Mk IV Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Juggernaut;3059;0
+Alacorn Mk VI Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Sniper;3059;0
+Alacorn Mk VII Heavy Tank;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Alacorn;Juggernaut;3059;0
+Annihilator ANH-1A;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Annihilator;Juggernaut;3050;0
+Annihilator ANH-2A;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Annihilator;Juggernaut;3050;0
+Annihilator ANH-3A;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Annihilator;Juggernaut;3050;0
+Annihilator ANH-4A;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Annihilator;Sniper;3050;0
+Annihilator C 2;Clan;Assault Mech;Early Succession War (2781 - 2900);Annihilator;Sniper;3050;0
+Annihilator C;Clan;Assault Mech;Early Succession War (2781 - 2900);Annihilator;Sniper;3050;0
+Archer ARC-2K;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Archer;Missile Boat;3039;0
+Archer ARC-2R;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Archer;Missile Boat;3039;1
+Archer ARC-2S;Inner Sphere;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Archer;Missile Boat;3039;0
+Archer ARC-2W;Inner Sphere;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Archer;Missile Boat;3039;0
+Assassin "Servitor";Inner Sphere;Medium Mech;Civil War (3062 - 3067);Assassin;Striker;3050;0
+Assassin ASN-101;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Assassin;Scout;3039;0
+Assassin ASN-21;Inner Sphere;Medium Mech;Star League (2571 - 2780);Assassin;Scout;3039;1
+Assassin ASN-23;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Assassin;Striker;3050;0
+Assassin ASN-30;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Assassin;Scout;3050;0
+Assassin ASN-99;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Assassin;Scout;3050;0
+Atlas AS7-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-CM;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-D-DC;Inner Sphere;Assault Mech;Star League (2571 - 2780);Atlas;Juggernaut;3039;0
+Atlas AS7-D;Inner Sphere;Assault Mech;Star League (2571 - 2780);Atlas;Juggernaut;3039;1
+Atlas AS7-K-DC;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-K;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-RS;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Atlas;Juggernaut;3039;0
+Atlas AS7-S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;3050;0
+Atlas AS7-S3;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Atlas;Sniper;3050;0
+Atlas AS7-S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Juggernaut;3050;0
+Atlas C;Mixed;Assault Mech;Early Succession War (2781 - 2900);Atlas;Juggernaut;3050;0
 LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
 LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
 LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
