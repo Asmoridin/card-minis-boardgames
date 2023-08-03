@@ -209,10 +209,9 @@ B'Elanna Torres, Straightforward Engineer;U;Personnel;Federation;Captain's Log;P
 B'Elanna Torres, Straightforward Engineer;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
 B'Etor, Ambitious Renegade;R;Personnel;Klingon;Necessary Evil;Print;3;0
 B'Etor, Cutthroat Accomplice;V;Personnel;Klingon;Heroes and Demons;Virtual;3;0
-B'Etor, Romulan Conspirator;R;Personnel;Romulan;Necessary Evil;Print;3;0
-B'Etor, Romulan Conspirator;VP;Personnel;Romulan;Virtual Promo;Virtual;3;0
+B'Etor, Romulan Conspirator;R/VP;Personnel;Romulan;Necessary Evil/Virtual Promo;Both;3;0
 B'Etor, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
-B'aht Qul Challenge;V;Event;;Raise the Stakes;Virtual;3;0
+B'aht Qul Challenge;V;Event;;Raise the Stakes;Virtual;3;3
 B'amara;C;Personnel;Klingon;Second Edition;Print;3;0
 B'hava'el, Prevent Systemic Annihilation;V;Mission;;A Time to Stand;Virtual;2;0
 B'omar Sovereignty, Traverse Restricted Space;V;Mission;;Unnatural Selection;Virtual;2;0
@@ -229,17 +228,15 @@ BaH!;U;Event;;Second Edition;Print;3;0
 Back Room Dealings;C;Dilemma;;Necessary Evil;Print;3;0
 Back Room Dealings;VP;Dilemma;;Virtual Promo;Virtual;3;0
 Back to Basics;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;1 // Have 1 print copy, want at least one VP
-Back to Basics;VP;Dilemma;;Virtual Promo;Virtual;3;0
-Back-Flush Bussard Collectors;U;Event;;Second Edition;Print;3;0
+Back-Flush Bussard Collectors;U;Event;;Second Edition;Print;3;1
 Badar N'D'D, Parliamentary Predator;V;Personnel;Non-Aligned;The Omega Directive;Virtual;3;0
 Bahrat's Space Station, Negotiate for Supplies;V;Mission;;Caretaker;Virtual;2;0
 Bait and Switch;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
 Bajor, Blessed of the Prophets;V;Mission;;Move Along Home;Virtual;1;0
 Bajor, Blessed of the Prophets;V;Mission;;Return to Grace;Virtual;2;0
-Bajor, Gift of the Prophets;U;Mission;;Second Edition;Print;2;0
-Bajor, Gift of the Prophets;V;Mission;;Move Along Home;Virtual;1;0
+Bajor, Gift of the Prophets;U;Mission;;Second Edition/Move Along Home;Both;2;0
 Bajor, Terok Nor;V;Mission;;Move Along Home/Shattered Mirror;Virtual;2;0
-Bajoran Gratitude Festival;C;Event;;Second Edition;Print;3;0
+Bajoran Gratitude Festival;C;Event;;Second Edition;Print;3;3
 Bajoran Interceptor;C;Ship;Bajoran;Second Edition;Print;3;0
 Bajoran Phaser Pistol;U;Equipment;;Second Edition;Print;3;3
 Bajoran Resistance Cell;V;Event;;Extreme Measures;Virtual;3;0
@@ -251,8 +248,7 @@ Bank Heist;U;Interrupt;;Energize;Print;3;0
 Bar Brawl;V;Interrupt;;All Our Yesterdays;Virtual;3;0
 Baraka;P;Ship;Bajoran;Tenth Anniversary Collection;Print;3;0
 Bareil Antos, Escort;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
-Bareil Antos, Esteemed Vedek;R;Personnel;Bajoran;Second Edition;Print;3;0
-Bareil Antos, Esteemed Vedek;VP;Personnel;Bajoran;Virtual Promo;Virtual;3;0
+Bareil Antos, Esteemed Vedek;R/VP;Personnel;Bajoran;Second Edition/Virtual Promo;Both;3;0
 Bareil Antos, Opaka's Protector;R;Personnel;Bajoran;Necessary Evil;Print;3;0
 Bareil Antos, Petty Thief;R;Personnel;Bajoran;In a Mirror Darkly;Print;3;0
 Bareil Antos, Selfless Scapegoat;AP;Personnel;Bajoran;Timeless;Virtual;3;0
@@ -266,7 +262,7 @@ Bashir Founder, Nefarious Saboteur;R;Personnel;Dominion;Call to Arms;Print;3;0
 Bassen Rift, Interdict Genocidal Praetor;V/VP;Mission;;The Omega Directive/Virtual Promo;Virtual;2;0
 Basso Tromac, Smug Subordinate;R;Personnel;Bajoran;Captain's Log;Print;3;0
 Bat'leth;C;Equipment;;Energize;Print;3;1
-Battle Drills;R;Event;;Second Edition;Print;3;0
+Battle Drills;R;Event;;Second Edition;Print;3;2
 Battle Lust;U;Event;;Necessary Evil;Print;3;0
 Battle Reconnaissance;S;Mission;;Call to Arms;Print;2;0
 Baxial, Salvage Ship;C;Ship;Non-Aligned;Captain's Log;Print;3;0
@@ -315,18 +311,16 @@ Bigger Tattoo;R;Event;;In a Mirror Darkly;Print;3;0
 Bio-neural Computer Core;R;Dilemma;;Dangerous Missions;Print;3;3
 Bio-ship Attack;V;Dilemma;;Caretaker;Virtual;3;0
 Biochemical Hyperacceleration;R;Dilemma;;Necessary Evil;Print;3;0
-Biogenic Weapon;P;Event;;Reflections 2.0;Print;3;0
-Biogenic Weapon;VP;Event;;Virtual Promo;Virtual;3;0
+Biogenic Weapon;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
 Biological Distinctiveness;U;Event;;Necessary Evil;Print;3;0
-Bird-of-Prey;V;Ship;Romulan;Raise the Stakes;Virtual;3;0
-Bird-of-Prey;VP;Ship;Romulan;Virtual Promo;Virtual;3;0
+Bird-of-Prey;V/VP;Ship;Romulan;Raise the Stakes/Virtual Promo;Virtual;3;0
 Birta, "Helpful" DaiMon;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Black Operation;V;Event;;Warp Pack: Access Denied;Virtual;3;0
 Bleeding to Death;U;Dilemma;;Necessary Evil;Print;3;0
 Blended;U;Dilemma;;Second Edition;Print;3;3
-Blind Spot;C;Event;;Second Edition;Print;3;0
+Blind Spot;C;Event;;Second Edition;Print;3;3
 Blow You Out of the Stars;P;Event;;Genesis;Print;3;0
-Blue Match;V;Event;;Lower Decks;Virtual;3;0
+Blue Match;V;Event;;Lower Decks;Virtual;3;3
 Bo'rak, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
 Bochra, Loyal Centurion;U;Personnel;Romulan;Necessary Evil;Print;3;0
 Boheeka, Clandestine Connection;U;Personnel;Cardassian;Energize;Print;3;0
@@ -340,14 +334,11 @@ Borath, Psychological Researcher;R;Personnel;Dominion;Call to Arms;Print;3;0
 Borath, Subconscious Projection;P;Personnel;Dominion;Fractured Time;Print;3;0
 Boratus, Temporal Thief;V;Personnel;Non-Aligned;Favor the Bold;Virtual;3;0
 Boreth, Place of Questions;V;Mission;;Shattered Mirror;Virtual;2;0
-Borg Cube;B;Ship;Borg;Borderless Promos;Virtual;3;0
-Borg Cube;C;Ship;Borg;Call to Arms;Print;3;0
-Borg Cutting Beam;S;Event;;Call to Arms;Print;3;0
-Borg Cutting Beam;VP;Event;;Virtual Promo;Virtual;3;0
+Borg Cube;B/C;Ship;Borg;Borderless Promos/Call to Arms;Both;3;0
+Borg Cutting Beam;S/VP;Event;;Call to Arms/Virtual Promo;Both;4;3 // Need 1 VP
 Borg Nanoprobes;VP;Equipment;;Inheritance;Virtual;3;0
 Borg Queen's Vessel, Borg Flagship;R;Ship;Borg;What You Leave Behind;Print;3;0
-Borg Queen, Bringer of Order;S;Personnel;Borg;Call to Arms;Print;3;0
-Borg Queen, Bringer of Order;VP;Personnel;Borg;Virtual Promo;Virtual;3;0
+Borg Queen, Bringer of Order;S/VP;Personnel;Borg;Call to Arms/Virtual Promo;Both;3;0
 Borg Queen, Guardian of the Hive;R;Personnel;Borg;Call to Arms;Print;3;0
 Borg Queen, Obsessed;R;Personnel;Borg;What You Leave Behind;Print;3;0
 Borg Queen, Perfectionist;P/VP;Personnel;Borg;Tenth Anniversary Collection/Virtual Promo;Both;3;0
@@ -357,7 +348,7 @@ Born for Conquest;U;Event;;Energize;Print;3;0
 Borts;C;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Borum, Selfless Hero;R;Personnel;Bajoran;Energize;Print;3;0
 Borven;V;Personnel;Cardassian;The Menagerie;Virtual;3;0
-Bound by Addiction;C;Event;;To Boldly Go;Print;3;0
+Bound by Addiction;C;Event;;To Boldly Go;Print;3;3
 Bractor, Suspicious Leader;V;Personnel;Ferengi;Tacking Into the Wind;Virtual;3;0
 Brainwashing;R;Interrupt;;Necessary Evil;Print;3;0
 Bralek;R;Ship;Cardassian;Second Edition;Print;3;0
@@ -370,7 +361,7 @@ Breach Barrier;V;Mission;;The Undiscovered Country;Virtual;2;0
 Breached;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 Bread and Circuses;V;Dilemma;;Zero Hour;Virtual;3;3
 Breaking the Ice;V;Dilemma;;The Undiscovered Country;Virtual;3;3
-Bred for Battle;R;Event;;Call to Arms;Print;3;0
+Bred for Battle;R;Event;;Call to Arms;Print;3;2
 Breen CRM 114;V;Equipment;;The Nth Degree;Virtual;3;0
 Breen Founder, Persuader;V;Personnel;Dominion;Raise the Stakes;Virtual;3;0
 Bregath;C;Personnel;Klingon;Energize;Print;3;0
@@ -378,7 +369,7 @@ Brennan Scott;C;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
 Brian Evethers;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
 Brian Sofin;V;Personnel;Federation;Return to Grace;Virtual;3;0
 Bridge Officer's Test;V;Interrupt;;Raise the Stakes;Virtual;3;0
-Brief Reunion;U;Event;;Energize;Print;3;0
+Brief Reunion;U;Event;;Energize;Print;3;2
 Brilgar;C;Personnel;Bajoran;Second Edition;Print;3;0
 Brin;V;Personnel;Bajoran;Hard Time;Virtual;3;0
 Brink of War;V;Dilemma;;Zero Hour;Virtual;3;3
@@ -397,15 +388,14 @@ Bruce Maddox, Chair of Robotics;C;Personnel;Federation;Strange New Worlds;Print;
 Brull, Encampment Leader;U;Personnel;Non-Aligned;Second Edition;Print;3;0
 Brun;V;Personnel;Cardassian;The Menagerie;Virtual;3;0
 Brunt, Acting Grand Nagus;V;Personnel;Ferengi;Raise the Stakes;Virtual;3;0
-Brunt, FCA Liquidator;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Brunt, FCA Liquidator;VP;Personnel;Ferengi;Virtual Promo;Virtual;3;0
+Brunt, FCA Liquidator;R/VP;Personnel;Ferengi;Strange New Worlds/Virtual Promo;Both;3;0
 Brunt, Nice Guy;U;Personnel;Ferengi;In a Mirror Darkly;Print;3;0
 Brutal Experiments;R;Interrupt;;In a Mirror Darkly;Print;3;0
-Brutal Struggle;U;Event;;Second Edition;Print;3;0
+Brutal Struggle;U;Event;;Second Edition;Print;3;2
 Brute Force;U;Mission;;Energize;Print;2;0
-Building a Bridge;R;Event;;Call to Arms;Print;3;0
+Building a Bridge;R;Event;;Call to Arms;Print;3;3
 Burrows, Diagnostic Tech;C;Personnel;Starfleet;To Boldly Go;Print;3;0
-Bustling with Activity;P;Event;;Reflections 2.0;Print;3;0
+Bustling with Activity;P;Event;;Reflections 2.0;Print;3;3
 Bynars' Password;C;Dilemma;;Second Edition;Print;3;3
 Cadet Review;V;Dilemma;;Unnatural Selection;Virtual;3;0
 Caithlin Dar, Innocent Consul;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
