@@ -13,12 +13,12 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
+started_games = [DaemonDice, DragonDice, StarTrekSecondEdition, Tribbles]
+
 total_have = 0
 total_max = 0
-new_games_started = 3
+new_games_started = 1 + len(started_games)
 game_data = []
-
-started_games = [DaemonDice, DragonDice, StarTrekSecondEdition, Tribbles]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     in_file = open("card_games/DB/NewCardGames.txt")
