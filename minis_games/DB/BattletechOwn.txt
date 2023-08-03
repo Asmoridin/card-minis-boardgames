@@ -57,11 +57,43 @@ Atlas AS7-S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Sniper;
 Atlas AS7-S3;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Atlas;Sniper;3050;0
 Atlas AS7-S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Atlas;Juggernaut;3050;0
 Atlas C;Mixed;Assault Mech;Early Succession War (2781 - 2900);Atlas;Juggernaut;3050;0
+Avatar AV1-O;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Avatar AV1-OA;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Avatar AV1-OB;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Missile Boat;3059;0
+Avatar AV1-OC;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Sniper;3059;0
+Avatar AV1-OD;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Avatar AV1-OE;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Avatar;Brawler;3059;0
+Avatar AV1-OF;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Avatar;Brawler;3059;0
+Avatar AV1-OG;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Sniper;3059;0
+Avatar AV1-OH;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Avatar;Sniper;3059;0
+Avatar AV1-OI;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Avatar;Missile Boat;3059;0
+Avatar AV1-OR;Mixed;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Awesome AWS-10KM;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Awesome;Juggernaut;3050;0
+Awesome AWS-8Q;Inner Sphere;Assault Mech;Star League (2571 - 2780);Awesome;Sniper;3039;1
+Awesome AWS-8R;Inner Sphere;Assault Mech;Star League (2571 - 2780);Awesome;Missile Boat;3039;0
+Awesome AWS-8T;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Awesome;Missile Boat;3039;0
+Awesome AWS-8V;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Awesome;Sniper;3039;0
+Awesome AWS-9M;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Awesome;Brawler;3050;0
+Awesome AWS-9Ma;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Awesome;Sniper;3050;0
+Awesome AWS-9Q Klatt;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Awesome;Sniper;3050;0
+Awesome AWS-9Q;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Awesome;Sniper;3050;0
+Axel IIC Tank (XL);Clan;Heavy Vehicle;Jihad (3068 - 3080);Patton/Rommel;Brawler;3059;0
+Axel IIC Tank;Clan;Heavy Vehicle;Jihad (3068 - 3080);Patton/Rommel;Brawler;3059;0
+Axel Mk 1;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Juggernaut;3039;0
+Axel Mk 2;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Juggernaut;3039;0
+Axman AXM-1N;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Axman;Skirmisher;3050;0
+Axman AXM-2N;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Axman;Skirmisher;3050;0
+Axman AXM-3S;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Axman;Skirmisher;3050;0
+Axman AXM-4D;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Axman;Brawler;3050;0
 LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
 LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
 LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
 Laser Carrier;Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Missile Carrier;Ambusher;3039;0
 MRM Carrier;Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
+Patton Tank (Ultra);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Patton/Rommel;Brawler;3059;0
+Patton Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Brawler;3039;0
+Rommel Tank (Gauss);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Patton/Rommel;Brawler;3059;0
+Rommel Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Juggernaut;3039;0
 SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Ambusher;3059;0
 SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
 SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
