@@ -49,7 +49,7 @@ Apranik;Persian;Set 4;1;0
 Ar-a-mach Crabhach;Scottish;Set 3;1;0
 Arabe Haye Darrande;Persian;Set 4;1;0
 Arcabuz;Spanish;Set 5;1;0
-Archange Michel;French;Set 3;1;0
+Archange Michel;French;Set 3;1;1
 Ard Ri;Irish;Set 4;1;0
 Ares;Carthaginian;Set 8;1;0
 Ariki Te Wherowhero;Maori;Set 4;1;0
@@ -123,7 +123,7 @@ Bishamon-ten;Japanese;Set 1;1;0
 Black Bart;Welsh/Pirate;Set 6;1;0
 Blackbeard's Jolly Roger;Briton/Pirate;Set 6;1;0
 Blackbeard;Briton/Pirate;Set 6;1;0
-Blanc Harnois;French;Set 3;1;0
+Blanc Harnois;French;Set 3;1;1
 Blossius of Cumae;Roman;Set 1;1;0
 Bo Xiong Jia;Chinese;Set 2;1;1
 Boarding Axe;Irish/Pirate;Set 6;1;0
@@ -133,8 +133,8 @@ Bonaid Tri-Iteagan;Scottish;Set 3;1;0
 Bone-Handled Dagger;African Kingdoms;Set 8;1;0 // Have badly printed version
 Book of the Law;Tribes of Israel;Set 10;1;0
 Boonesborough;American Frontiersmen;Set 7;1;0
-Bouclier Carolingien;French;Set 3;1;0
-Bouclier Celtique;French;Set 3;1;0
+Bouclier Carolingien;French;Set 3;1;1
+Bouclier Celtique;French;Set 3;1;1
 Boudicca;Briton;Set 2;1;1
 Bowie Knife;American Frontiersmen;Set 7;1;0
 Bran agus Sceolang;Irish;Set 4;1;0
@@ -142,7 +142,7 @@ Brat Derg;Irish;Set 4;1;0
 Bratt;Briton;Set 2;1;1
 Brian Boru;Irish;Set 4;1;0
 British East India Company;Pirate/Scottish;Set 9;1;0
-Broigne d'Ecailles;French;Set 3;1;0
+Broigne d'Ecailles;French;Set 3;1;1
 Bronze Scale Mail;Egyptian;Set 10;1;0
 Brunhild;Norse;Set 9;1;0
 Brutus;Trojan;Set 7;1;0
@@ -165,7 +165,7 @@ Caithbheart-Ruighe Leathrach;Scottish;Set 3;1;0
 Calico Jack Rackham;Irish/Pirate;Set 6;1;0
 Caliga;Roman;Set 8;1;0
 Calum III;Scottish;Set 3;1;0
-Camulos;French;Set 3;1;0
+Camulos;French;Set 3;1;1
 Canute I of Denmark;Norse;Promo;1;0
 Canute the Great;Norse;Set 1;1;0
 Cao Cao;Chinese;Set 6;1;0
@@ -190,8 +190,8 @@ Chandragupta Maurya;East Indian;Set 10;1;0
 Chang Ban Po;Chinese;Set 6;1;0
 Chariot Javelin;Tribes of Israel;Set 10;1;0
 Chariot Spear;Egyptian;Set 10;1;0
-Charlemagne;French;Set 3;1;0
-Charles Martel;French;Set 3;1;0
+Charlemagne;French;Set 3;1;1
+Charles Martel;French;Set 3;1;1
 Chehupahu Chanksa;Native American;Set 3;1;0
 Chekan;Russian;Set 4;1;0
 Cheng I Sao;Pirate/Chinese;Set 9;1;0
@@ -214,13 +214,13 @@ Clogaid Phembridge;Scottish;Set 3;1;0
 Clotho;Greek;Promo;1;0
 Cluaran na h-Alba;Scottish;Set 3;1;0
 Club Hauling;Pirate/Welsh;Set 9;1;0
-Code du Paladin;French;Set 3;1;0
+Code du Paladin;French;Set 3;1;1
 Common Soldier's Disguise;Tribes of Israel;Set 10;1;0
 Confucius;Chinese;Promo;1;0
 Copilli;Aztec;Set 5;1;1
 Cota Corta;Spanish;Set 5;1;0
-Cotte de Mailles du Paladin;French;Set 3;1;0
-Couronne Imperiale;French;Set 3;1;0
+Cotte de Mailles du Paladin;French;Set 3;1;1
+Couronne Imperiale;French;Set 3;1;1
 Craobh nan Clach;Scottish;Set 3;1;0
 Crocodile-Skin Armor;Egyptian;Set 10;1;0 // have okay printed version
 Crown of England;Norse;Set 1;1;0
@@ -277,7 +277,7 @@ Dourios Ippos;Greek;Set 7;1;0
 Dragon-Shaped Comet;Briton;Set 8;1;0
 Duban;Irish;Set 4;1;0
 Duckbilled Canaanite Axe;Tribes of Israel;Set 10;1;0
-Durendal;French;Set 3;1;0
+Durendal;French;Set 3;1;1
 Durga;East Indian;Set 10;1;0 // have okay printed version
 Duugla;Mongol;Set 2;1;0
 Ealswith;Briton;Set 2;1;1
@@ -294,9 +294,9 @@ Elephantry;East Indian;Set 10;1;0 // have okay printed version
 Elhaz Rune;Norse;Set 1;1;0
 Ensis;Roman;Set 8;1;0
 Eos;African Kingdoms;Set 8;1;0 // Have badly printed version
-Epee Carolingienne;French;Set 3;1;0
-Epee Celtique;French;Set 3;1;0
-Epee de Martel;French;Set 3;1;0
+Epee Carolingienne;French;Set 3;1;1
+Epee Celtique;French;Set 3;1;1
+Epee de Martel;French;Set 3;1;1
 Erasmo da Narni;Italian;Set 9;1;0
 Eric Bloodaxe;Norse;Set 9;1;0
 Erik the Red;Norse;Set 9;1;0
@@ -396,7 +396,7 @@ Hannuka;Tribes of Israel;Set 7;1;0
 Haori;Japanese;Set 5;1;0
 Harald Blatann;Norse;Set 9;1;0
 Harald Hardrada;Norse;Set 1;1;0
-Harnachement;French;Set 3;1;0
+Harnachement;French;Set 3;1;1
 Harun al-Rashid;Saracen;Set 5;1;0
 Hasdrubal;Carthaginian;Set 8;1;0
 Hata Bi;Japanese;Set 5;1;0
@@ -562,7 +562,7 @@ Kupe;Maori;Set 4;1;0
 Kusubekawasugakeodoshi;Japanese;Set 5;1;0
 Kyokuchu-Hatto;Japanese;Set 5;1;0
 Kyudo;Japanese;Set 1;1;0
-L'Epee aux Cinq Croix;French;Set 3;1;0
+L'Epee aux Cinq Croix;French;Set 3;1;1
 La Flotte Noire;Pirate/French;Set 9;1;0
 La Inquisicion Espanola;Spanish;Set 5;1;0
 La Malinche;Spanish;Set 5;1;0
@@ -627,7 +627,7 @@ Marcus Claudius Marcellus;Roman;Set 1;1;0
 Mardukh;Persian;Set 4;1;0
 Marlinspike;Pirate/Scottish;Set 9;1;0
 Mars;Roman;Promo;1;0
-Marteau de Cavalerie;French;Set 3;1;0
+Marteau de Cavalerie;French;Set 3;1;1
 Martina;Byzantine;Set 10;1;0 // have okay printed version
 Masada;Tribes of Israel;Set 10;1;0
 Masang Ssanggum;Korean;Set 9;1;0
@@ -709,7 +709,7 @@ Odin;Norse;Set 1;1;0
 Odysseus;Greek;Set 7;1;0
 Okichize Channunpa;Native American;Set 3;1;0
 Old Glory;American Frontiersmen;Promo;1;0 // Have badly printed version
-Olifant;French;Set 3;1;0
+Olifant;French;Set 3;1;1
 Olivier III de Clisson;Pirate/French;Set 9;1;0
 Olmutz Hjelm;Norse;Set 9;1;0
 One-Eyed Candace;African Kingdoms;Set 8;1;0 // Have badly printed version
@@ -729,7 +729,7 @@ Palladio;Trojan;Set 7;1;0
 Palta;Persian;Set 4;1;0
 Papa Leone X;Italian;Set 9;1;0
 Papa Sixtus al IV-lea;Romanian;Set 6;1;0
-Pape Hadrien Ier;French;Set 3;1;0
+Pape Hadrien Ier;French;Set 3;1;1
 Paramerion;Byzantine;Set 10;1;0 // have okay printed version
 Paris;Trojan;Set 7;1;0
 Parma;Roman;Set 1;1;0
@@ -796,7 +796,7 @@ Rob Ruadh Macgriogair;Scottish;Set 3;1;0
 Robin Hood;Briton;Set 2;1;1
 Rocky Mountain Fur Company;American Frontiersmen;Set 7;1;0
 Rokunmonsenmon;Japanese;Set 5;1;0
-Roland le Paladin;French;Set 3;1;0
+Roland le Paladin;French;Set 3;1;1
 Ropalo;Greek;Set 1;1;0
 Ropera Toledana;Spanish;Set 5;1;0
 Rostam;UNKNOWN;Promo;1;0
@@ -810,9 +810,9 @@ Sahm;Saracen;Set 5;1;0
 Saif Damashki;Saracen;Set 5;1;0
 Saif;Saracen;Promo;1;0
 Saint Alexander Nevsky;Russian;Set 4;1;0
-Saint Boniface;French;Set 3;1;0
-Sainte Banniere;French;Set 3;1;0
-Sainte Jeanne d'Arc;French;Set 3;1;0
+Saint Boniface;French;Set 3;1;1
+Sainte Banniere;French;Set 3;1;1
+Sainte Jeanne d'Arc;French;Set 3;1;1
 Saintie;East Indian;Set 10;1;0 // have okay printed version
 Saito Musashibo Benkei;Japanese;Set 1;1;0
 Salah ad-Din;Saracen;Set 5;1;0
@@ -1014,7 +1014,7 @@ Uther Pendragon;Briton;Set 8;1;0
 Varangian Guard;Byzantine/Norse;Set 10;1;0 // have okay printed version
 Varusschlacht;Germanic;Set 3;1;0
 Vasallo de la Reina;Spanish;Set 5;1;0
-Vercingetorix;French;Set 3;1;0
+Vercingetorix;French;Set 3;1;1
 Vergifteter Dolch;Germanic;Set 3;1;0
 Vlad II Dracul;Romanian;Promo;1;0
 Vlad Tepes;Romanian;Set 6;1;0
