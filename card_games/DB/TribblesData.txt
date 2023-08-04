@@ -123,7 +123,7 @@
 1,000 Tribbles - Time Warp;Tribble;Tribbles Royale;20;0
 10,000 Tribbles - Acquire;Tribble;Star Trek 50/Virtual Promos;20;13 // All from ST50
 10,000 Tribbles - Advance;Tribble;Virtual Promos;20;20
-10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;9
+10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;20
 10,000 Tribbles - Assimilate;Tribble;Nothing But Tribble;20;0
 10,000 Tribbles - Assimilate;Tribble;Virtual Promos;20;0
 10,000 Tribbles - BiJ;Tribble;Big Tribble in Little Qo'noS;20;0
@@ -150,7 +150,7 @@
 10,000 Tribbles - Time Warp;Tribble;Trials and Tribble-ations;20;0
 10,000 Tribbles - Toxin;Tribble;No Tribble at All/Virtual Promos;20;3 // 3 from NTaA
 100,000 Tribbles - Ante;Tribble;Star Trek 50;20;13
-100,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
+100,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles/Virtual Promos;24;24
 100,000 Tribbles - Assimilate;Tribble;Nothing But Tribble/Virtual Promos;20;0
 100,000 Tribbles - Avalanche;Tribble;Virtual Promos;20;0
 100,000 Tribbles - Bah!;Tribble;Big Tribble in Little Qo'noS;20;0
