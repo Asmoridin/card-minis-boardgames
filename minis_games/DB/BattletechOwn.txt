@@ -85,6 +85,54 @@ Axman AXM-1N;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3
 Axman AXM-2N;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Axman;Skirmisher;3050;0
 Axman AXM-3S;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Axman;Skirmisher;3050;0
 Axman AXM-4D;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Axman;Brawler;3050;0
+Badger (C) Tracked Transport A;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Striker;3058;0
+Badger (C) Tracked Transport B;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Scout;3058;0
+Badger (C) Tracked Transport C;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Scout;3058;0
+Badger (C) Tracked Transport D;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Scout;3058;0
+Badger (C) Tracked Transport E;Clan;Light Vehicle;Civil War (3062 - 3067);Badger;Scout;3058;0
+Badger (C) Tracked Transport F;Clan;Light Vehicle;Jihad (3068 - 3080);Badger;Scout;3058;0
+Badger (C) Tracked Transport H;Clan;Light Vehicle;Civil War (3062 - 3067);Badger;Striker;3058;0
+Badger (C) Tracked Transport Prime;Clan;Light Vehicle;Early Succession War (2781 - 2900);Badger;Striker;3058;0
+Badger Tracked Transport A;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Striker;3058;0
+Badger Tracked Transport B;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Scout;3058;0
+Badger Tracked Transport C;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Missile Boat;3058;0
+Badger Tracked Transport D;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Striker;3058;0
+Badger Tracked Transport E;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Scout;3058;0
+Badger Tracked Transport F;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Badger;Scout;3058;0
+Badger Tracked Transport G;Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Badger;Sniper;3058;0
+Badger Tracked Transport Prime;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Badger;Striker;3058;0
+Bandit (C) Hovercraft A;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit (C) Hovercraft B;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Missile Boat;3058;0
+Bandit (C) Hovercraft C;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit (C) Hovercraft D;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit (C) Hovercraft E;Clan;Medium Vehicle;Civil War (3062 - 3067);Bandit;Striker;3058;0
+Bandit (C) Hovercraft F;Clan;Medium Vehicle;Jihad (3068 - 3080);Bandit;Striker;3058;0
+Bandit (C) Hovercraft G;Clan;Medium Vehicle;Jihad (3068 - 3080);Bandit;Scout;3058;0
+Bandit (C) Hovercraft H;Clan;Medium Vehicle;Civil War (3062 - 3067);Bandit;Striker;3058;0
+Bandit (C) Hovercraft Prime;Clan;Medium Vehicle;Early Succession War (2781 - 2900);Bandit;Striker;3058;0
+Bandit Hovercraft A;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Scout;3058;0
+Bandit Hovercraft B;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft C;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft D;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Missile Boat;3058;0
+Bandit Hovercraft E;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Missile Boat;3058;0
+Bandit Hovercraft F;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft G;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Bandit Hovercraft H;Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Bandit;Skirmisher;3058;0
+Bandit Hovercraft I;Inner Sphere;Medium Vehicle;Jihad (3068 - 3080);Bandit;Striker;3058;0
+Bandit Hovercraft Prime;Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Bandit;Striker;3058;0
+Banshee BNC-3E;Inner Sphere;Assault Mech;Age of War (2005 - 2570);Banshee;Sniper;3039;1
+Banshee BNC-3M;Inner Sphere;Assault Mech;Star League (2571 - 2780);Banshee;Brawler;3039;0
+Banshee BNC-3MC;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Banshee;Brawler;3039;0
+Banshee BNC-3Q;Inner Sphere;Assault Mech;Late Succession War - LosTech (2901 - 3019);Banshee;Juggernaut;3039;0
+Banshee BNC-3S Reinesblatt;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Banshee;Juggernaut;3039;0
+Banshee BNC-3S;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Banshee;Juggernaut;3039;0
+Banshee BNC-5S Sawyer;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Banshee;Sniper;3050;0
+Banshee BNC-5S Vandergriff;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Skirmisher;3050;0
+Banshee BNC-5S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Banshee;Sniper;3050;0
+Banshee BNC-6S;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Brawler;3050;0
+Banshee BNC-7S;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Brawler;3050;0
+Banshee BNC-8S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Banshee;Brawler;3050;0
+Banshee BNC-9S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Banshee;Juggernaut;3050;0
 LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
 LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
 LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
