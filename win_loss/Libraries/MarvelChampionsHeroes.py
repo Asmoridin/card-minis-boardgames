@@ -2,7 +2,7 @@
 
 import itertools
 
-aspects = ['Leadership', 'Justice', 'Protection', 'Aggression']
+aspects = ['Leadership', 'Justice', 'Protection', 'Aggression'] # 'Pool
 
 class Hero:
     def __init__(self, name, num_aspects=1):
@@ -26,7 +26,7 @@ heroes.extend([
     Hero('Spectrum'), Hero('Adam Warlock', 0), Hero('Nebula'), Hero('War Machine'), Hero('Vision'), Hero('Valkyrie'), 
     Hero('Spider-Man (Miles Morales)'), Hero('Ghost-Spider'), Hero('Nova'), Hero('Ironheart'), Hero('Spider-Ham'), Hero('Sp//Dr'),
     Hero('Colossus'), Hero('Shadowcat'), Hero('Cyclops'), Hero('Phoenix'), Hero('Wolverine'), Hero('Storm'), Hero('Gambit'), Hero('Rogue'),
-    #Hero('Cable'), Hero('Domino'), Hero('Psylocke'), Hero('Angel'), Hero('X-23'), 
+    #Hero('Cable'), Hero('Domino'), Hero('Psylocke'), Hero('Angel'), Hero('X-23'), Hero('Deadpool')
 ])
 
 hero_combinations = []
