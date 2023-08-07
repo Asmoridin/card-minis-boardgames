@@ -133,6 +133,81 @@ Banshee BNC-6S;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Brawler
 Banshee BNC-7S;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Banshee;Brawler;3050;0
 Banshee BNC-8S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Banshee;Brawler;3050;0
 Banshee BNC-9S;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Banshee;Juggernaut;3050;0
+Black Hawk (Nova) A;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Sniper;3050;0
+Black Hawk (Nova) B;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Sniper;3050;0
+Black Hawk (Nova) C;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Sniper;3050;0
+Black Hawk (Nova) D;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Missile Boat;3050;0
+Black Hawk (Nova) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk;Skirmisher;3050;0
+Black Hawk (Nova) F;Clan;Medium Mech;Jihad (3068 - 3080);Black Hawk;Skirmisher;3050;0
+Black Hawk (Nova) H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk;Skirmisher;3050;0
+Black Hawk (Nova) Prime;Clan;Medium Mech;Early Succession War (2781 - 2900);Black Hawk;Skirmisher;3050;1
+Black Hawk (Nova) S;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Hawk;Skirmisher;3050;0
+Catapult CPLT-A1;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Catapult;Missile Boat;3039;0
+Catapult CPLT-C1;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Catapult;Missile Boat;3039;1
+Catapult CPLT-C1b;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Catapult;Missile Boat;3039;0
+Catapult CPLT-C2;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Catapult;Missile Boat;3050;0
+Catapult CPLT-C3;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Missile Boat;3050;0
+Catapult CPLT-C4;Inner Sphere;Heavy Mech;Age of War (2005 - 2570);Catapult;Missile Boat;3039;0
+Catapult CPLT-C4C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Missile Boat;3050;0
+Catapult CPLT-C5;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Missile Boat;3050;0
+Catapult CPLT-C6;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Catapult;Skirmisher;3050;0
+Catapult CPLT-H2;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Catapult;Skirmisher;3050;0
+Catapult CPLT-K2;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Catapult;Sniper;3039;0
+Catapult CPLT-K2K;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Sniper;3050;0
+Catapult CPLT-K3;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Catapult;Sniper;3050;0
+Catapult CPLT-K4;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Catapult;Sniper;3050;0
+Catapult CPLT-K5;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Catapult;Skirmisher;3050;0
+Catapult CPLT-K6;Inner Sphere;Heavy Mech;Dark Age (3131 - 3150);Catapult;Missile Boat;ilClan Vol. 5;0
+Catapult Jenny;Inner Sphere;Heavy Mech;Late Succession War - Renaissance (3020 - 3049);Catapult;Skirmisher;3039;0
+Cheetah F-10;Inner Sphere;Light Aerospace;Star League (2571 - 2780);Cheetah;Interceptor;3039;1
+Cheetah F-11-R;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);Cheetah;Interceptor;3039;0
+Cheetah F-11-RR;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Cheetah;Interceptor;3039;0
+Cheetah F-11;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Cheetah;Interceptor;3039;0
+Cheetah F-12-S;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);Cheetah;Interceptor;3039;0
+Cheetah F-13;Inner Sphere;Light Aerospace;Jihad (3068 - 3080);Cheetah;Interceptor;3039;0
+Cheetah F-14-S;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Cheetah;Interceptor;3039;0
+Cicada CDA-2A;Inner Sphere;Medium Mech;Star League (2571 - 2780);Cicada;Scout;3039;1
+Cicada CDA-2B;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Cicada;Scout;3039;0
+Cicada CDA-3C;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Cicada;Scout;3039;0
+Cicada CDA-3F;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Cicada;Striker;3050;0
+Cicada CDA-3G;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Cicada;Striker;3050;0
+Cicada CDA-3M;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Cicada;Striker;3050;0
+Cicada CDA-3MA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Cicada;Striker;3050;0
+Cicada CDA-3P;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Cicada;Striker;3050;0
+Clint CLNT-1-2R;Inner Sphere;Medium Mech;Star League (2571 - 2780);Clint;Striker;3039;0
+Clint CLNT-2-3T Denton;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Clint;Striker;3039;0
+Clint CLNT-2-3T;Inner Sphere;Medium Mech;Star League (2571 - 2780);Clint;Striker;3039;1
+Clint CLNT-2-3U;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Clint;Striker;3050;0
+Clint CLNT-2-3UL;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Clint;Striker;3050;0
+Clint CLNT-2-4T;Inner Sphere;Medium Mech;Star League (2571 - 2780);Clint;Sniper;3039;0
+Clint CLNT-3-3T;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Clint;Striker;3050;0
+Clint CLNT-5U;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Clint;Striker;3050;0
+Clint CLNT-6S;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Clint;Striker;3050;0
+Commando COM-1B;Inner Sphere;Light Mech;Late Succession War - LosTech (2901 - 3019);Commando;Striker;3050;0
+Commando COM-1C;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Commando;Striker;3050;0
+Commando COM-1D;Inner Sphere;Light Mech;Age of War (2005 - 2570);Commando;Striker;3039;0
+Commando COM-2D;Inner Sphere;Light Mech;Age of War (2005 - 2570);Commando;Striker;3039;1
+Commando COM-3A;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Commando;Striker;3039;0
+Commando COM-4H;Inner Sphere;Light Mech;Civil War (3062 - 3067);Commando;Striker;3050;0
+Commando COM-5S;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Commando;Striker;3050;0
+Commando COM-7B;Inner Sphere;Light Mech;Jihad (3068 - 3080);Commando;Striker;3050;0
+Commando COM-7S;Inner Sphere;Light Mech;Civil War (3062 - 3067);Commando;Striker;3050;0
+Conjurer (Hellhound) 7;Clan;Medium Mech;Early Succession War (2781 - 2900);Conjurer;Skirmisher;ilClan Vol. 5;0
+Conjurer (Hellhound) 8;Clan;Medium Mech;Dark Age (3131 - 3150);Conjurer;Skirmisher;ilClan Vol. 5;0
+Conjurer (Hellhound);Clan;Medium Mech;Early Succession War (2781 - 2900);Conjurer;Skirmisher;ilClan Vol. 5;1
+Cyclops CP-10-HQ;Inner Sphere;Assault Mech;Star League (2571 - 2780);Cyclops;Juggernaut;3039;0
+Cyclops CP-10-Q;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Cyclops;Missile Boat;3039;0
+Cyclops CP-10-Z;Inner Sphere;Assault Mech;Star League (2571 - 2780);Cyclops;Juggernaut;3039;1
+Cyclops CP-11-A-DC;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Cyclops;Sniper;3050;0
+Cyclops CP-11-A;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Cyclops;Sniper;3050;0
+Cyclops CP-11-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Cyclops;Brawler;3050;0
+Cyclops CP-11-G;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Cyclops;Sniper;3050;0
+Cyclops CP-11-H;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Cyclops;Juggernaut;3050;0
+Cyclops CP-12-K;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Cyclops;Brawler;3050;0
+Dervish DV-6M;Inner Sphere;Medium Mech;Star League (2571 - 2780);Dervish;Missile Boat;3039;1
+Dervish DV-7D;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Dervish;Missile Boat;3050;0
+Dervish DV-8D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Dervish;Missile Boat;3050;0
+Dervish DV-9D;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Dervish;Missile Boat;3050;0
 LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
 LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
 LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
