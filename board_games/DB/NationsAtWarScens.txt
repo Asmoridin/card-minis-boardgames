@@ -24,3 +24,5 @@ Jubilee;Germany;Canada, UK;8/19/1942;Dieppe, France;Western;4;10;Compendium 1
 Barce, Libya;Italy;UK;9/13/1942;Barce, Libya;African;12;5;Compendium 1
 NAN-White;Germany;Canada;6/6/1944;Juno Beach, Normandy, France;Western;4;10;Compendium 1
 Confusion Near Carentan;Germany;USA;6/13/1944;Near Junction D223/D971, Normandy, France;Western;1;Variable;Compendium 1
+Point 213;Germany;UK;6/13/1944;France;Western;15;9;Compendium 1
+Point 213 - The Next Day;Germany;UK;6/14/1944;France;Western;15;9;Compendium 1
