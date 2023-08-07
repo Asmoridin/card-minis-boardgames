@@ -129,6 +129,7 @@ Kid Kaiju
 Killmonger
 Kingpin
 Leviathon Mother
+Liu Kang
 Loki (MCU Villains)
 Loki (Supervillains)
 *Loki*
@@ -180,6 +181,7 @@ Pyro
 Quake
 Quicksilver/Scarlet Witch
 Rachel Summers
+Raiden
 Ravonna Renslayer
 Red Skull (Hydra)
 Red Skull (MCU Villains)
@@ -192,6 +194,7 @@ Royce
 Sabretooth
 Scarlet Spider
 Scarlet Witch
+Scorpion (MK)
 Sentinel
 She-Hulk (A-Force)
 She-Hulk (Pro-Registration)
@@ -202,6 +205,7 @@ Simon Trask
 Singularity
 Sinister Six
 Sister Grimm
+Sonya Blade
 Spider-Man (Anti-Registration)
 Spider-Man (Avengers)
 Spider-Man (MCU Heroes)
@@ -220,6 +224,7 @@ Star-Lord (MCU Heroes)
 Storm (Anti-Registration)
 Storm (X-Men; House of X)
 Storm (X-Men; Marvel Battles)
+Sub-Zero
 Super Skrull
 Superior Spider-Man
 Supreme Leader
