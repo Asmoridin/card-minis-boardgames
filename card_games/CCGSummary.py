@@ -7,9 +7,11 @@ import DaemonDice, DragonDice, StarTrekSecondEdition, Tribbles
 if os.getcwd().endswith('card-minis-boardgames'):
     sys.path.append('.')
     from utils.output_utils import double_print
+    in_file = open("card_games/DB/NewCardGames.txt")
 else:
     sys.path.append('.')
     from utils.output_utils import double_print
+    in_file = open("DB/NewCardGames.txt")
 
 #print("\033[96mTest.\033[0m")
 
@@ -20,10 +22,6 @@ total_max = 0
 new_games_started = 1 + len(started_games)
 game_data = []
 
-if os.getcwd().endswith('card-minis-boardgames'):
-    in_file = open("card_games/DB/NewCardGames.txt")
-else:
-    in_file = open("DB/NewCardGames.txt")
 other_games = in_file.readlines()
 in_file.close()
 other_games = [line.strip() for line in other_games]

@@ -56,12 +56,12 @@ card_power_sorter = sorted(card_power_sorter, key=lambda x:(x[1], -x[2], x[0]))
 card_qty_map = {}
 for line in card_lines:
     if line[1] == card_power_sorter[0][0]:
-        print(line)
         if line[0] not in card_qty_map:
             card_qty_map[line[0]] = [0, 0]
         card_qty_map[line[0]][0] += line[2]
         card_qty_map[line[0]][1] += line[3]
 card_qty_sorter = []
-print(card_qty_map)
 for card_qty in card_qty_map:
-    pass
+    card_qty_sorter.append((card_qty, card_qty_map[card_qty][1]/card_qty_map[card_qty][0], card_qty_map[card_qty][0] - card_qty_map[card_qty][1]))
+card_qty_sorter = sorted(card_qty_sorter, key=lambda x:(x[1], -x[2], x[0]))
+print(card_qty_sorter)

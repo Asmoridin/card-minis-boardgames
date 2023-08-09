@@ -1,6 +1,17 @@
 #!/usr/bin/python3
 
-import random, math, itertools, os
+import random, math, itertools, os, sys
+
+if os.getcwd().endswith('card-minis-boardgames'):
+    sys.path.append('.')
+    from utils.output_utils import double_print
+    file_h = open('win_loss/DB/ChampionsPlayedHeroes.txt', 'r')
+    enc_file_h = open('win_loss/DB/ChampionsPlayedEncounters.txt', 'r')
+else:
+    sys.path.append('.')
+    from utils.output_utils import double_print
+    file_h = open('DB/ChampionsPlayedHeroes.txt', 'r')
+    enc_file_h = open('DB/ChampionsPlayedEncounters.txt', 'r')
 
 from Libraries import MarvelChampionsEncounters as ChampEncounters
 from Libraries import MarvelChampionsHeroes as ChampHeroes
@@ -125,10 +136,6 @@ def getModularStats(encounter_map):
     return(mod_tuples[-1][0], mod_tuples[-1][1], mod_tuples[0][0], mod_tuples[0][1])
 
 # Read in and set up Hero data structures
-if os.getcwd().endswith('card-minis-boardgames'):
-    file_h = open('win_loss/DB/ChampionsPlayedHeroes.txt', 'r')
-else:
-    file_h = open('DB/ChampionsPlayedHeroes.txt', 'r')
 hero_lines = file_h.readlines()
 file_h.close()
 hero_lines = [line.strip() for line in hero_lines]
@@ -144,12 +151,8 @@ for line in hero_lines:
     hero_played_map[(hero_line[0], aspects)] = (int(hero_line[2]), int(hero_line[3]))
 
 # Read in and process the Encounter data structures
-if os.getcwd().endswith('card-minis-boardgames'):
-    file_h = open('win_loss/DB/ChampionsPlayedEncounters.txt', 'r')
-else:
-    file_h = open('DB/ChampionsPlayedEncounters.txt', 'r')
-encounter_lines = file_h.readlines()
-file_h.close()
+encounter_lines = enc_file_h.readlines()
+enc_file_h.close()
 encounter_lines = [line.strip() for line in encounter_lines]
 enc_played_map = {}
 played_max = 0
@@ -164,11 +167,15 @@ for line in encounter_lines:
     enc_played_map[(encounter_line[0], encounter_sets)] = (int(encounter_line[3]), int(encounter_line[4]))
 
 if __name__ == "__main__":
-    print("Generating a game")
-    print("There are %d different Hero/Aspect combinations, and %d different game pairings" % (total_hero_choices, determineCombinations()))
+    if os.getcwd().endswith('card-minis-boardgames'):
+        out_file_h = open("win_loss/output/MarvelChampionsOut.txt", 'w')
+    else:
+        out_file_h = open("output/MarvelChampionsOut.txt", 'w')
+    double_print("Generating a game", out_file_h)
+    double_print("There are %d different Hero/Aspect combinations, and %d different game pairings" % (total_hero_choices, determineCombinations()), out_file_h)
     
-    print("Currently have played %.1f percent of Hero/Aspects" % (len(hero_played_map) * 100 / total_hero_choices))
-    print("There are %d heroes, %d different encounters, and %d different modular encounter sets\n" % (len(ChampHeroes.heroes), len(ChampEncounters.encounters), len(ChampEncounters.modular_encounters)))
+    double_print("Currently have played %.1f percent of Hero/Aspects" % (len(hero_played_map) * 100 / total_hero_choices), out_file_h)
+    double_print("There are %d heroes, %d different encounters, and %d different modular encounter sets\n" % (len(ChampHeroes.heroes), len(ChampEncounters.encounters), len(ChampEncounters.modular_encounters)), out_file_h)
 
     # Choose first hero - always choose least played hero
     choice_1 = getLeastPlayedHero(hero_played_map)
@@ -192,24 +199,24 @@ if __name__ == "__main__":
     choice_2 = (choices[0][0], choices[0][1])
 
     hero_tuple = getHeroStats(hero_played_map)
-    print("Most played hero: %s (%d times). Least: %s (%d)" % (hero_tuple))
+    double_print("Most played hero: %s (%d times). Least: %s (%d)" % (hero_tuple), out_file_h)
     aspect_tuple = getAspectStats(hero_played_map)
-    print("Most played aspect: %s (%d times). Least: %s (%d)" % (aspect_tuple))
+    double_print("Most played aspect: %s (%d times). Least: %s (%d)" % (aspect_tuple), out_file_h)
     scenario_tuple = getVillainStats(enc_played_map)
-    print("Most played scenario: %s (%d times). Least: %s (%d)" % (scenario_tuple))
+    double_print("Most played scenario: %s (%d times). Least: %s (%d)" % (scenario_tuple), out_file_h)
     modular_tuple = getModularStats(enc_played_map)
-    print("Most played modular encounter: %s (%d times). Least: %s (%d)" % (modular_tuple))
+    double_print("Most played modular encounter: %s (%d times). Least: %s (%d)" % (modular_tuple), out_file_h)
 
     # Choose an encounter
     encounter_choice = getLeastPlayedEncounter(enc_played_map)
 
     hero_1_wl = getHeroWL(choice_1[0], choice_1[1], hero_played_map)
     hero_2_wl = getHeroWL(choice_2[0], choice_2[1], hero_played_map)
-    print("\nHeroes/Aspects chosen: %s %s (%sW-%sL) and %s %s (%sW-%sL)" % ('/'.join(choice_1[1]), choice_1[0], hero_1_wl[0], hero_1_wl[1], '/'.join(choice_2[1]), choice_2[0], hero_2_wl[0], hero_2_wl[1]))
+    double_print("\nHeroes/Aspects chosen: %s %s (%sW-%sL) and %s %s (%sW-%sL)" % ('/'.join(choice_1[1]), choice_1[0], hero_1_wl[0], hero_1_wl[1], '/'.join(choice_2[1]), choice_2[0], hero_2_wl[0], hero_2_wl[1]), out_file_h)
     enc_wl = getEncounterWL(encounter_choice[0], encounter_choice[1], enc_played_map)
-    print("Chosen encounter is %s %s (%sW-%sL)" % ('/'.join(encounter_choice[1]), encounter_choice[0], enc_wl[0], enc_wl[1]))
+    double_print("Chosen encounter is %s %s (%sW-%sL)" % ('/'.join(encounter_choice[1]), encounter_choice[0], enc_wl[0], enc_wl[1]), out_file_h)
 
-    print("\nTotal W-L by hero:")
+    double_print("\nTotal W-L by hero:", out_file_h)
     hero_wl = {}
     for hero_choice in ChampHeroes.hero_combinations:
         if hero_choice[0] not in hero_wl:
@@ -218,10 +225,10 @@ if __name__ == "__main__":
         hero_wl[hero_choice[0]][0] += wins
         hero_wl[hero_choice[0]][1] += losses
     for hero in sorted(hero_wl):
-        print("%s%s%d - %d" % (hero, " " * (30 - len(hero)), hero_wl[hero][0], hero_wl[hero][1]))
+        double_print("%s%s%d - %d" % (hero, " " * (30 - len(hero)), hero_wl[hero][0], hero_wl[hero][1]), out_file_h)
 
     overall_wl = [0, 0]
-    print("\nTotal W-L by villain:")
+    double_print("\nTotal W-L by villain:", out_file_h)
     villain_wl = {}
     for villain_choice in enc_played_map:
         if villain_choice[0] not in villain_wl:
@@ -233,9 +240,9 @@ if __name__ == "__main__":
         overall_wl[1] += losses
 
     for villain in sorted(villain_wl):
-        print("%s%s%d - %d" % (villain, " " * (30-len(villain)), villain_wl[villain][0], villain_wl[villain][1]))
+        double_print("%s%s%d - %d" % (villain, " " * (30-len(villain)), villain_wl[villain][0], villain_wl[villain][1]), out_file_h)
 
-    print("\nTotal W-L by aspect:")
+    double_print("\nTotal W-L by aspect:", out_file_h)
     aspect_wl = {}
     for hero_choice in ChampHeroes.hero_combinations:
         for aspect in hero_choice[1]:
@@ -244,8 +251,8 @@ if __name__ == "__main__":
             wins, losses = getHeroWL(hero_choice[0], hero_choice[1], hero_played_map)
             aspect_wl[aspect][0] += wins
             aspect_wl[aspect][1] += losses
-    print(aspect_wl)
+    double_print(str(aspect_wl), out_file_h)
 
-    print("\nWin Loss Records, Overall: %d - %d, %.3f" % (overall_wl[0], overall_wl[1], overall_wl[0]/(overall_wl[0] + overall_wl[1])))
+    double_print("\nWin Loss Records, Overall: %d - %d, %.3f" % (overall_wl[0], overall_wl[1], overall_wl[0]/(overall_wl[0] + overall_wl[1])), out_file_h)
     if not os.getcwd().endswith('card-minis-boardgames'):
         input("Press enter to continue...")

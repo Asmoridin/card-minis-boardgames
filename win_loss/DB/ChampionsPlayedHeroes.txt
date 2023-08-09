@@ -1,4 +1,4 @@
-Adam Warlock;;3;2
+Adam Warlock;Aggression/Justice/Leadership/Protection;3;2
 Ant-Man;Aggression;2;2
 Ant-Man;Justice;2;2
 Ant-Man;Leadership;1;1

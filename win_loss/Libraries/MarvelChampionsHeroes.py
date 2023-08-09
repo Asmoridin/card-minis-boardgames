@@ -2,7 +2,7 @@
 
 import itertools
 
-aspects = ['Leadership', 'Justice', 'Protection', 'Aggression'] # 'Pool
+aspects = ['Leadership', 'Justice', 'Protection', 'Aggression', ] # 'Pool
 
 class Hero:
     def __init__(self, name, num_aspects=1):
@@ -23,7 +23,7 @@ heroes.extend([
     Hero('Captain America'), Hero('Ms. Marvel'), Hero('Thor'), Hero('Black Widow'), Hero('Dr. Strange'), Hero('Hulk'),
     Hero('Hawkeye'), Hero('Spider-Woman', 2), Hero('Ant-Man'), Hero('Wasp'), Hero('Quicksilver'), Hero('Scarlet Witch'), 
     Hero('Groot'), Hero('Rocket Racoon'), Hero('Star-Lord'), Hero('Gamora'), Hero('Drax'), Hero('Venom'), 
-    Hero('Spectrum'), Hero('Adam Warlock', 0), Hero('Nebula'), Hero('War Machine'), Hero('Vision'), Hero('Valkyrie'), 
+    Hero('Spectrum'), Hero('Adam Warlock', 4), Hero('Nebula'), Hero('War Machine'), Hero('Vision'), Hero('Valkyrie'), 
     Hero('Spider-Man (Miles Morales)'), Hero('Ghost-Spider'), Hero('Nova'), Hero('Ironheart'), Hero('Spider-Ham'), Hero('Sp//Dr'),
     Hero('Colossus'), Hero('Shadowcat'), Hero('Cyclops'), Hero('Phoenix'), Hero('Wolverine'), Hero('Storm'), Hero('Gambit'), Hero('Rogue'),
     #Hero('Cable'), Hero('Domino'), Hero('Psylocke'), Hero('Angel'), Hero('X-23'), Hero('Deadpool')

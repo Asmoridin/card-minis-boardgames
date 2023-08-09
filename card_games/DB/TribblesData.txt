@@ -124,11 +124,9 @@
 10,000 Tribbles - Acquire;Tribble;Star Trek 50/Virtual Promos;20;13 // All from ST50
 10,000 Tribbles - Advance;Tribble;Virtual Promos;20;20
 10,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles;20;20
-10,000 Tribbles - Assimilate;Tribble;Nothing But Tribble;20;0
-10,000 Tribbles - Assimilate;Tribble;Virtual Promos;20;0
+10,000 Tribbles - Assimilate;Tribble;Nothing But Tribble/Virtual Promos;20;0
 10,000 Tribbles - BiJ;Tribble;Big Tribble in Little Qo'noS;20;0
-10,000 Tribbles - Clone;Tribble;Tribbles;20;0
-10,000 Tribbles - Clone;Tribble;Virtual Promos;20;0
+10,000 Tribbles - Clone;Tribble;Tribbles/Virtual Promos;20;0
 10,000 Tribbles - Cycle;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;0
 10,000 Tribbles - Double;Tribble;A Tribble of a Different Color/Virtual Promos;20;0
 10,000 Tribbles - Exchange;Tribble;Star Trek 50/Virtual Promos;20;0
