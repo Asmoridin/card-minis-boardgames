@@ -42,6 +42,7 @@ Captain Marvel (A-Force)
 Captain Marvel (Avengers)
 Captain Marvel (MCU Heroes)
 Carnage
+Cetrion
 Cigarette Smoking Man
 Cloak and Dagger
 Colonists
@@ -123,11 +124,13 @@ Juggernaut (BOM Expansion)
 Juggernaut (Heroes of Krakoa)
 Jungle Hunter
 Kang
+Kano
 Karnak
 Kate Pryde/Kitty Pryde
 Kid Kaiju
 Killmonger
 Kingpin
+Kronika
 Leviathon Mother
 Liu Kang
 Loki (MCU Villains)
@@ -165,6 +168,7 @@ Nick Fury (MCU Heroes)
 Nick Fury (SHIELD)
 Nighthawk
 Nimrod
+Noob Saibot
 Norman Osborn
 Norrin Rand/Silver Surfer
 Nova
@@ -196,6 +200,7 @@ Scarlet Spider
 Scarlet Witch
 Scorpion (MK)
 Sentinel
+Shao Kahn
 She-Hulk (A-Force)
 She-Hulk (Pro-Registration)
 Shriek
