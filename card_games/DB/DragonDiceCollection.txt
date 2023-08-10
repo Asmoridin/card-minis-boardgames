@@ -345,7 +345,7 @@ Death Drake;Dragons;Dragon;1
 Death Wyrm;Dragons;Dragon;1
 Air Drake;Dragons;Dragon;2
 Air Wyrm;Dragons;Dragon;0
-Earth Drake;Dragons;Dragon;0
+Earth Drake;Dragons;Dragon;1
 Earth Wyrm;Dragons;Dragon;1
 Water Drake;Dragons;Dragon;1
 Water Wyrm;Dragons;Dragon;0
