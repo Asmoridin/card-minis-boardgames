@@ -1,3 +1,8 @@
 #MyCardID;Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using my IDs
-1;H.M.S. Bounty;Ship;Klingon;The Motion Pictures/The Motion Pictures Remastered/Virtual Promos;1,7183,4259;2
-2;H.M.S. Bounty;Ship;Federation;The Motion Pictures/The Motion Pictures Remastered/Virtual Promos;4662, 7251, 1278;1
+1;H.M.S. Bounty;Ship;Klingon;The Motion Pictures Remastered/Virtual Promos;1,7183,4259;2
+2;H.M.S. Bounty;Ship;Federation;The Motion Pictures Remastered/Virtual Promos;4662, 7251, 1278;1
+3;Haakona;Ship;Romulan;Premiere;2;
+4;Hagath;Personnel;Non-Aligned;Rules of Acquisition;3;
+5;Hail;Interrupt;;Alternate Universe;4;
+6;Hajur;Personnel;Hirogen;The Borg/Virtual Promos;5,4661;7
+7;Hajur;Personnel;Non-Aligned;The Borg/Virtual Promos;6,4186;6
