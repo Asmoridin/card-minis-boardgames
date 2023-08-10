@@ -1,0 +1,3 @@
+#MyCardID;Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using my IDs
+1;H.M.S. Bounty;Ship;Klingon;The Motion Pictures/The Motion Pictures Remastered/Virtual Promos;1,7183,4259;2
+2;H.M.S. Bounty;Ship;Federation;The Motion Pictures/The Motion Pictures Remastered/Virtual Promos;4662, 7251, 1278;1
