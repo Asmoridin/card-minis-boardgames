@@ -23,7 +23,7 @@ Al Madina al Mokadassa;Saracen;Set 5;1;0
 Al-Khayzuran;Saracen;Set 5;1;0
 Alabarda Espanola;Spanish;Set 5;1;0
 Alainor of Castile;Briton;Set 8;1;0 // Have okay printed version
-Alarich;Germanic;Set 3;1;0
+Alarich;Germanic;Set 3;1;1
 Alexander III of Macedon;Greek;Promo;1;0
 Alexander the Great;Greek;Set 1;1;0
 Alf Layla wa-Layla;Saracen;Set 5;1;0
@@ -57,8 +57,8 @@ Aristourgima tou Ifestou;Trojan;Set 7;1;0
 Armadura Completa;Spanish;Set 5;1;0
 Armatura Bianca;Italian;Set 9;1;0
 Arming Sword;Briton;Set 8;1;0 // Have okay printed version
-Arminius Standarte;Germanic;Set 3;1;0
-Arminius;Germanic;Set 3;1;0
+Arminius Standarte;Germanic;Set 3;1;1
+Arminius;Germanic;Set 3;1;1
 Armor of Hephaestus;Greek;Set 1;1;0
 Aron Ha'eduth;Tribes of Israel;Set 7;1;0
 Arrow Scars;Briton;Set 8;1;0 // Have okay printed version
@@ -85,12 +85,12 @@ Ba Duan Jin;Chinese;Set 2;1;1
 Ba'al Hammon;Carthaginian;Set 8;1;0
 Baba Yaga;Russian;Promo;1;0
 Babieca;Spanish;Set 5;1;0
-Bad im Drachenblut;Germanic;Set 3;1;0
+Bad im Drachenblut;Germanic;Set 3;1;1
 Bakhterets;Russian;Set 4;1;0
 Balestra;Italian;Set 9;1;0
 Ballestero Vasco;Spanish;Set 5;1;0
 Balltat Harb;Saracen;Set 5;1;0
-Balmung;Germanic;Set 3;1;0
+Balmung;Germanic;Set 3;1;1
 Balteus;Roman;Set 8;1;0
 Balyemez;Turkish;Set 6;1;0
 Band of Merrie Men;Briton;Set 2;1;1
@@ -127,7 +127,7 @@ Blanc Harnois;French;Set 3;1;1
 Blossius of Cumae;Roman;Set 1;1;0
 Bo Xiong Jia;Chinese;Set 2;1;1
 Boarding Axe;Irish/Pirate;Set 6;1;0
-Boethius;Germanic;Set 3;1;0
+Boethius;Germanic;Set 3;1;1
 Bokken;Japanese;Set 1;1;0
 Bonaid Tri-Iteagan;Scottish;Set 3;1;0
 Bone-Handled Dagger;African Kingdoms;Set 8;1;0 // Have badly printed version
@@ -325,9 +325,9 @@ Formacion de Piqueros;Spanish;Set 5;1;0
 Fort Bridger;American Frontiersmen;Set 7;1;0
 Fort Jhansi;East Indian;Set 10;1;0 // have okay printed version
 Fort Kiowa;American Frontiersmen;Set 7;1;0
-Fredegunde;Germanic;Set 3;1;0
+Fredegunde;Germanic;Set 3;1;1
 Frederick I Barbarossa;Holy Roman;Set 10;1;0
-Freya;Germanic;Set 3;1;0
+Freya;Germanic;Set 3;1;1
 Freydis Eiriksdottir;Norse;Set 1;1;0
 Frumentius;African Kingdoms;Set 8;1;0 // Have badly printed version
 Full Mail Hauberk;Briton;Set 2;1;1
@@ -350,7 +350,7 @@ Genghis Khan;Mongol;Set 2;1;0
 Genji;Japanese;Set 5;1;0
 Geobukseon;Korean;Set 9;1;0
 Georg von Frundsberg;Holy Roman;Set 10;1;0
-Ger;Germanic;Set 3;1;0
+Ger;Germanic;Set 3;1;1
 Gerron;Persian;Set 4;1;0
 Gi-Chang;Korean;Set 9;1;0
 Gideon;Tribes of Israel;Promo;1;0
@@ -411,7 +411,7 @@ Heavy Chariot;Tribes of Israel;Set 10;1;0
 Heavy Pilum;Roman;Set 8;1;0
 Hector;Trojan;Set 7;1;0
 Hei-Tiki;Maori;Set 4;1;0
-Heimdal;Germanic;Set 3;1;0
+Heimdal;Germanic;Set 3;1;1
 Hemu;East Indian;Set 10;1;0 // have okay printed version
 Henry V;Briton;Set 8;1;0 // Have okay printed version
 Heqa and Was Scepters;Egyptian;Set 2;1;1
@@ -554,8 +554,8 @@ Kotiate;Maori;Set 4;1;0
 Kotynos;Greek;Set 1;1;0
 Kranos Me Lofio;Trojan;Set 7;1;0
 Kremlin;Kremlin;Promo;1;0
-Kriegsaxt;Germanic;Set 3;1;0
-Krimhild;Germanic;Set 3;1;0
+Kriegsaxt;Germanic;Set 3;1;1
+Krimhild;Germanic;Set 3;1;1
 Krisi tou Pari;Trojan;Set 7;1;0
 Kublai Khan;Mongol;Set 2;1;0
 Kupe;Maori;Set 4;1;0
@@ -610,7 +610,7 @@ Macuahuitl;Aztec;Set 5;1;0
 Maddai Sa'ul Hammelek;Tribes of Israel;Set 7;1;0
 Magen;Tribes of Israel;Set 7;1;0
 Magiko Votani;Greek;Set 7;1;0
-Magister Militum;Germanic;Set 3;1;0
+Magister Militum;Germanic;Set 3;1;1
 Mahera;Trojan;Set 7;1;0
 Mahpiya Luta;Native American;Set 3;1;0
 Maid Marion;Briton;Set 2;1;1
@@ -802,7 +802,7 @@ Ropera Toledana;Spanish;Set 5;1;0
 Rostam;UNKNOWN;Promo;1;0
 Roxelana;Turkish;Set 6;1;0
 Rumeli Hisari;Turkish;Set 6;1;0
-Rustung der Romisches Hilfstruppen;Germanic;Set 3;1;0
+Rustung der Romisches Hilfstruppen;Germanic;Set 3;1;1
 Sabie Pentru o Mana 'i Jumatate;Romanian;Set 6;1;0
 Sabie Puternica;Romanian;Set 6;1;0
 Sagaris;Persian;Promo;1;0
@@ -816,7 +816,7 @@ Sainte Jeanne d'Arc;French;Set 3;1;1
 Saintie;East Indian;Set 10;1;0 // have okay printed version
 Saito Musashibo Benkei;Japanese;Set 1;1;0
 Salah ad-Din;Saracen;Set 5;1;0
-Salarische Tor;Germanic;Set 3;1;0
+Salarische Tor;Germanic;Set 3;1;1
 Salsu-gang Daecheop;Korean;Set 9;1;0
 Samozvantez Dmitry I;Russian;Set 4;1;0
 Samson;Tribes of Israel;Set 7;1;0
@@ -830,7 +830,7 @@ Sarissa;Greek;Set 1;1;0
 Sarissae;Greek;Set 1;1;0
 Saul's Spear;Tribes of Israel;Set 10;1;0
 Savasi Nicopolis;Turkish;Set 6;1;0
-Schutzherrin der Meuchelmorder;Germanic;Set 3;1;0
+Schutzherrin der Meuchelmorder;Germanic;Set 3;1;1
 Scutulum;Roman;Set 1;1;0
 Scutum;Roman;Set 1;1;0
 Se'ar-Ro's Simson;Tribes of Israel;Set 7;1;0
@@ -865,7 +865,7 @@ Si An Bhru;Irish;Promo;1;0
 Sica;Roman;Set 1;1;0
 Sica;Tribes of Israel;Set 10;1;0
 Sicarii;Tribes of Israel;Set 10;1;0
-Siegfried;Germanic;Set 3;1;0
+Siegfried;Germanic;Set 3;1;1
 Sigurd I Magnusson;Norse;Set 9;1;0
 Silah Iman;Turkish;Set 6;1;0
 Simon bar Giora;Tribes of Israel;Set 10;1;0
@@ -905,7 +905,7 @@ Sprone da Rotella;Italian;Set 9;1;0
 Srqt, the Scorpion King;Egyptian;Set 2;1;1
 Sspw;Egyptian;Promo;1;0
 Stephen the Great;Romanian;Set 6;1;0
-Steppumhang;Germanic;Set 3;1;0
+Steppumhang;Germanic;Set 3;1;1
 Stili tis Trias;Trojan;Set 7;1;0
 Stocco Milanese;Italian;Set 9;1;0
 Stone of Destiny;Briton/Scottish;Promo;1;1
@@ -938,7 +938,7 @@ Tar Pits;Tribes of Israel;Set 10;1;0
 Targaid Ghaidhealach;Scottish;Set 3;1;0
 Targe;Briton;Set 2;1;1
 Tariq ibn Ziyad;Saracen;Set 5;1;0
-Tarnkappe;Germanic;Set 3;1;0
+Tarnkappe;Germanic;Set 3;1;1
 Te Kohatu-o-Hatupatu;Maori;Set 4;1;0
 Te Raupraha;Maori;Set 4;1;0
 Tecpatl;Aztec;Set 5;1;1
@@ -959,7 +959,7 @@ The Half-Dead King;Briton;Set 8;1;0
 The Sandbar Fight;American Frontiersmen;Set 7;1;0
 Theiki Paremvasi;Trojan;Set 7;1;0
 Themata;Byzantine;Set 10;1;0 // have okay printed version
-Theoderich der Grosse;Germanic;Set 3;1;0
+Theoderich der Grosse;Germanic;Set 3;1;1
 Theseus;Greek;Set 7;1;0
 Thetis;Greek;Set 1;1;0
 Thigmeni Timi;Greek;Set 7;1;0
@@ -974,7 +974,7 @@ Tiberinus;Roman;Set 8;1;0
 Tie Chen Shan Qi Gong;Chinese;Set 6;1;1
 Tie Xia Bi Hu Jia;Chinese;Set 6;1;0
 Tihi tis Trias;Trojan;Set 7;1;0
-Tiwaz;Germanic;Set 3;1;0
+Tiwaz;Germanic;Set 3;1;1
 Tizona y Colada;Spanish;Set 5;1;0
 Tlacaelel;Aztec;Set 5;1;0
 Tlacochtli;Aztec;Set 5;1;0
@@ -1012,10 +1012,10 @@ Urumi;East Indian;Set 10;1;0 // have okay printed version
 Usumidori;Japanese;Set 5;1;0
 Uther Pendragon;Briton;Set 8;1;0
 Varangian Guard;Byzantine/Norse;Set 10;1;0 // have okay printed version
-Varusschlacht;Germanic;Set 3;1;0
+Varusschlacht;Germanic;Set 3;1;1
 Vasallo de la Reina;Spanish;Set 5;1;0
 Vercingetorix;French;Set 3;1;1
-Vergifteter Dolch;Germanic;Set 3;1;0
+Vergifteter Dolch;Germanic;Set 3;1;1
 Vlad II Dracul;Romanian;Promo;1;0
 Vlad Tepes;Romanian;Set 6;1;0
 Volkerwanderung;German;Promo;1;0
@@ -1040,7 +1040,7 @@ Wi;Native American;Set 3;1;0
 Wilderness Road;American Frontiersmen;Set 7;1;0
 William Kidd;Pirate/Scottish;Set 9;1;0
 William the Conqueror;Briton;Set 8;1;0
-Wolfsfell;Germanic;Set 3;1;0
+Wolfsfell;Germanic;Set 3;1;1
 Wophiye Wakhan;Native American;Set 3;1;0
 Wu Hu;Chinese;Set 6;1;0
 Wuihwa Seom-e Baesin;Korean;Set 9;1;0
