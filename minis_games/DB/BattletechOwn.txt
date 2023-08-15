@@ -268,3 +268,11 @@ SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061
 SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
 SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
 SRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Ambusher;3039;0
+Hermes II HER-2M "Mercury";Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Striker;0
+Hermes II HER-2S;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Scout;1
+Hermes II HER-5C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;0
+Hermes II HER-5ME "Mercury Elite";Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Sniper;0
+Hermes II HER-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Striker;0
+Hermes II HER-5SA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hermes II;Striker;0
+Hermes II HER-6D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;0
+Hermes III HER-4K;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hermes II;Scout;0
