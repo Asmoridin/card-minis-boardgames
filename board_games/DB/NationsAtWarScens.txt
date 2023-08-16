@@ -29,3 +29,5 @@ Point 213 - The Next Day;Germany;UK;6/14/1944;France;Western;15;9;Compendium 1
 Queen of Battle;Germany;USA;6/18/1944;;Western;3;9;Compendium 1
 Operation Godwood Day 1;Germany;UK;7/18/1944;France;Western;1,3;10;Compendium 1
 Operation Godwood Day 2;Germany;UK;7/19/1944;France;Western;3;6;Compendium 1
+Rolling Forward;Germany;France;7/19/1944;France;Western;3;12;Compendium 1
+Incident at Bullingen;Germany;UK;7/23/1944;Normandy, France;Western;3;8;Compendium 1
