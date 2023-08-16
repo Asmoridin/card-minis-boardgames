@@ -1,3 +1,6 @@
+# Behemoth (Stone Rhino)
+# Marauder IIC
+# Warhammer IIC
 'Mechbuster (LB-X);Inner Sphere;Conventional Fighter;Civil War (3062 - 3067);Mechbuster;Attack;3039;0
 'Mechbuster (Laser);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
 'Mechbuster (SRM);Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Mechbuster;Attack;3039;0
@@ -255,6 +258,17 @@ Grendel (Mongrel) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker
 Grendel (Mongrel) F;Clan;Medium Mech;Jihad (3068 - 3080);Grendel;Striker;3059;0
 Grendel (Mongrel) H;Clan;Medium Mech;Civil War (3062 - 3067);Grendel;Striker;3059;0
 Grendel (Mongrel) Prime;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3059;1
+Hermes II HER-2M "Mercury";Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Striker;3039;0
+Hermes II HER-2S;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Scout;3039;1
+Hermes II HER-5C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
+Hermes II HER-5ME "Mercury Elite";Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Sniper;3050;0
+Hermes II HER-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Striker;3050;0
+Hermes II HER-5SA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hermes II;Striker;3050;0
+Hermes II HER-6D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
+Hermes III HER-4K;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hermes II;Scout;3039;0
+Hunchback IIC 2;Clan;Medium Mech;Clan Invasion (3050 - 3061);Hunchback II;Ambusher;3059;0
+Hunchback IIC 3;Clan;Medium Mech;Civil War (3062 - 3067);Hunchback II;Brawler;3059;0
+Hunchback IIC;Clan;Medium Mech;Early Succession War (2781 - 2900);Hunchback II;Ambusher;3059;1
 LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
 LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
 LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
@@ -268,11 +282,9 @@ SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061
 SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
 SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
 SRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Ambusher;3039;0
-Hermes II HER-2M "Mercury";Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Striker;3039;0
-Hermes II HER-2S;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hermes II;Scout;3039;1
-Hermes II HER-5C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
-Hermes II HER-5ME "Mercury Elite";Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Sniper;3050;0
-Hermes II HER-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;Striker;3050;0
-Hermes II HER-5SA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hermes II;Striker;3050;0
-Hermes II HER-6D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
-Hermes III HER-4K;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hermes II;Scout;3039;0
+Supernova 2;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3059;0
+Supernova 3;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Sniper;3059;0
+Supernova 4;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3059;0
+Supernova;Clan;Assault Mech;Early Succession War (2781 - 2900);Supernova;Sniper;3059;1
+Sylph Battle Armor (Upgrade);Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
+Sylph Battle Armor;Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
