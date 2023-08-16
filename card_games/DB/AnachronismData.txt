@@ -4,7 +4,7 @@ A'Phiob Mhor;Scottish;Promo;1;0
 Abraham;Tribes of Israel;Set 10;1;0
 Achelous;Roman;Set 8;1;0
 Achillea;Roman;Set 8;1;0
-Achilles;Greek;Set 1;1;0
+Achilles;Greek;Set 1;1;1
 Adon;Carthaginian;Set 8;1;0
 Aeizanas of Axum;African Kingdoms;Set 8;1;0 // Have badly printed version
 Aeneas;Trojan;Set 7;1;0
@@ -24,8 +24,8 @@ Al-Khayzuran;Saracen;Set 5;1;0
 Alabarda Espanola;Spanish;Set 5;1;0
 Alainor of Castile;Briton;Set 8;1;0 // Have okay printed version
 Alarich;Germanic;Set 3;1;1
-Alexander III of Macedon;Greek;Promo;1;0
-Alexander the Great;Greek;Set 1;1;0
+Alexander III of Macedon;Greek;Promo;1;1
+Alexander the Great;Greek;Set 1;1;1
 Alf Layla wa-Layla;Saracen;Set 5;1;0
 Alfred the Great;Briton;Set 2;1;1
 Allt a'Bhonnaich;Scottish;Promo;1;0
@@ -59,7 +59,7 @@ Armatura Bianca;Italian;Set 9;1;0
 Arming Sword;Briton;Set 8;1;0 // Have okay printed version
 Arminius Standarte;Germanic;Set 3;1;1
 Arminius;Germanic;Set 3;1;1
-Armor of Hephaestus;Greek;Set 1;1;0
+Armor of Hephaestus;Greek;Set 1;1;1
 Aron Ha'eduth;Tribes of Israel;Set 7;1;0
 Arrow Scars;Briton;Set 8;1;0 // Have okay printed version
 Artemis;Trojan;Set 7;1;0
@@ -108,7 +108,7 @@ Batu Khan;Mongol;Promo;1;0
 Bear Hide;American Frontiersmen;Set 7;1;0
 Bear Sark;Norse;Set 1;1;0
 Bec de Corbin;French;Promo;1;0
-Belt of Hippolyte;Greek;Set 1;1;0
+Belt of Hippolyte;Greek;Set 1;1;1
 Benrig Medb;Irish;Set 4;1;0
 Beowulf;Norse;Set 1;1;0
 Berber Takouba;African Kingdoms;Set 8;1;0 // Have badly printed version
@@ -147,7 +147,7 @@ Bronze Scale Mail;Egyptian;Set 10;1;0
 Brunhild;Norse;Set 9;1;0
 Brutus;Trojan;Set 7;1;0
 Brynhilds Spyd;Norse;Set 9;1;0
-Bucephalus;Greek;Set 1;1;0
+Bucephalus;Greek;Set 1;1;1
 Buffalo Tactic;African Kingdoms;Set 8;1;0 // Have badly printed version
 Burebista;Romanian;Set 6;1;0
 Burhs;Briton;Set 8;1;0 // Have badly printed version
@@ -370,7 +370,7 @@ Gorin no Sho;Japanese;Set 1;1;0
 Governor Lynch;Pirate/Welsh;Set 9;1;0
 Grainne Ni Mhaille;Irish/Pirate;Set 6;1;0
 Greatsword;Briton;Set 2;1;1
-Greaves;Greek;Set 1;1;0
+Greaves;Greek;Set 1;1;1
 Grendel;Norse;Set 1;1;0
 Grettir the Strong;Norse;Set 1;1;0
 Griwban;Persian;Set 4;1;0
@@ -415,10 +415,10 @@ Heimdal;Germanic;Set 3;1;1
 Hemu;East Indian;Set 10;1;0 // have okay printed version
 Henry V;Briton;Set 8;1;0 // Have okay printed version
 Heqa and Was Scepters;Egyptian;Set 2;1;1
-Hera;Greek;Promo;1;0
+Hera;Greek;Promo;1;0 // have badly printed version
 Heraclius;Byzantine;Set 10;1;0 // have okay printed version
 Herakles of Thebes;Greek;Promo;1;0
-Herakles;Greek;Set 1;1;0
+Herakles;Greek;Set 1;1;1
 Herev Appolonius;Tribes of Israel;Set 7;1;0
 Herev Pifiyot;Tribes of Israel;Set 7;1;0
 Herev;Tribes of Israel;Set 7;1;0
@@ -432,7 +432,7 @@ Hippodrome;Byzantine;Set 10;1;0 // have okay printed version
 Hjelm;Norse;Set 1;1;0
 Hombreras;Spanish;Set 5;1;0
 Hongqi Jiandui;Pirate/Chinese;Set 9;1;0
-Hoplon;Greek;Set 1;1;0
+Hoplon;Greek;Set 1;1;1
 Horatius Cocles;Roman;Set 8;1;0
 Horemheb the Restorer;Egyptian;Set 2;1;1
 Horn Bow;Egyptian;Set 2;1;0
@@ -548,10 +548,10 @@ Kolontar;Russian;Set 4;1;0
 Konstantinya;Turkish;Set 6;1;0
 Kontarion;Byzantine;Set 10;1;0 // have okay printed version
 Kontos;Persian;Set 4;1;0
-Kopis;Greek;Set 1;1;0
+Kopis;Greek;Set 1;1;1
 Kosem Sultan;Turkish;Set 6;1;0
 Kotiate;Maori;Set 4;1;0
-Kotynos;Greek;Set 1;1;0
+Kotynos;Greek;Set 1;1;1
 Kranos Me Lofio;Trojan;Set 7;1;0
 Kremlin;Kremlin;Promo;1;0
 Kriegsaxt;Germanic;Set 3;1;1
@@ -581,14 +581,14 @@ Lehi-Hamor;Tribes of Israel;Set 7;1;0
 Leiter;Norse;Set 1;1;0
 Leiv Eiriksson;Norse;Set 9;1;0
 Leonardo da Vinci;Italian;Set 9;1;0
-Leonidas I of Sparta;Greek;Promo;1;0
-Leonidas;Greek;Set 1;1;0
+Leonidas I of Sparta;Greek;Promo;1;1
+Leonidas;Greek;Set 1;1;1
 Letter of Marque;Briton/Pirate;Set 6;1;0
 Liga Sfinta;Romanian;Set 6;1;0
-Linen Cuirass;Greek;Set 1;1;0
+Linen Cuirass;Greek;Set 1;1;1
 Linothorax;Carthaginian;Set 8;1;0
 Lion's Brood;Carthaginian;Set 8;1;0
-Liontari;Greek;Set 1;1;0
+Liontari;Greek;Set 1;1;1
 Liu Bei;Chinese;Promo;1;0
 Loki;Norse;Set 1;1;0
 Longbow;Briton;Set 2;1;1
@@ -661,7 +661,7 @@ Michael the Brave;Romanian;Set 6;1;0
 Michmash Pass;Tribes of Israel;Set 10;1;0
 Micrea the Old;Romanian;Set 6;1;0
 Mikinaikos Thorakas;Greek;Set 7;1;0
-Milo of Croton;Greek;Set 1;1;0
+Milo of Croton;Greek;Set 1;1;1
 Minamoto no Yoshitsune;Japanese;Set 5;1;0
 Minb Ahhotep;Egyptian;Set 10;1;0 // have okay printed version
 Minb;Egyptian;Set 2;1;1
@@ -678,7 +678,7 @@ Mor Rioghain;Irish;Set 4;1;0
 Mount Ercte;Carthaginian;Set 8;1;0
 Murad IV, the Cruel;Turkish;Set 6;1;0
 Muramasa;Japanese;Set 5;1;0
-Muscle Cuirass;Greek;Set 1;1;0
+Muscle Cuirass;Greek;Set 1;1;1
 Musha-Shugyo;Japanese;Set 1;1;0
 Myeongnyang Haejeon;Korean;Set 9;1;0
 Naegling;Norse;Promo;1;0
@@ -688,7 +688,7 @@ Naomh Maireid;Scottish;Set 3;1;0
 Nape Luta Wahachanka;Native American;Set 3;1;0
 Negusa Nagast;African Kingdoms;Set 8;1;0 // Have badly printed version
 Nemere;Mongol;Set 2;1;0
-Nemesis;Greek;Set 1;1;0
+Nemesis;Greek;Set 1;1;1
 Neptune;UNKNOWN;Promo;1;0
 Neyze-ye Darrande;Persian;Set 4;1;0
 Ninja-to;Japanese;Set 1;1;0
@@ -699,7 +699,7 @@ Nsywt;Egyptian;Set 2;1;1
 Nu Gong;Chinese;Set 2;1;1
 Num Mor;Mongol;Set 2;1;0
 Num Tom;Mongol;Set 2;1;0
-O Potamos Styx;UNKNOWN;Promo;1;0
+O Potamos Styx;Greek;Promo;1;0 // have badly printed version
 Oberster Feldhauptmann;Holy Roman;Set 10;1;0
 Ocelocolohtic;Aztec;Set 5;1;0
 Ocelomeh;Aztec;Set 5;1;0
@@ -714,7 +714,7 @@ Olivier III de Clisson;Pirate/French;Set 9;1;0
 Olmutz Hjelm;Norse;Set 9;1;0
 One-Eyed Candace;African Kingdoms;Set 8;1;0 // Have badly printed version
 Oprichniki;Russian;Set 4;1;0
-Oracle of Delphi;Greek;Set 1;1;0
+Oracle of Delphi;Greek;Set 1;1;1
 Ordin de Balaur;Romanian;Promo;1;0
 Orgi tou Posidona;Greek;Set 7;1;0
 Oro Azteca;Spanish;Set 5;1;0
@@ -764,7 +764,7 @@ Ptah;Egyptian;Set 10;1;0
 Pteryges;Roman;Set 1;1;0
 Publius Scipio Africanus;Roman;Set 8;1;0
 Pugio;Roman;Set 1;1;0
-Pythagoras;Greek;Set 1;1;0
+Pythagoras;Greek;Set 1;1;1
 Qela';Tribes of Israel;Set 7;1;0
 Qiang;Chinese;Set 2;1;1
 Qin'at Beteka;Tribes of Israel;Set 7;1;0
@@ -797,7 +797,7 @@ Robin Hood;Briton;Set 2;1;1
 Rocky Mountain Fur Company;American Frontiersmen;Set 7;1;0
 Rokunmonsenmon;Japanese;Set 5;1;0
 Roland le Paladin;French;Set 3;1;1
-Ropalo;Greek;Set 1;1;0
+Ropalo;Greek;Set 1;1;1
 Ropera Toledana;Spanish;Set 5;1;0
 Rostam;UNKNOWN;Promo;1;0
 Roxelana;Turkish;Set 6;1;0
@@ -826,15 +826,15 @@ San Jie Gun;Chinese;Promo;1;0
 Sanada Nobushige;Japanese;Set 5;1;0
 Sanadamaru;Japanese;Set 5;1;0
 Santiago Matamoros;Spanish;Set 5;1;0
-Sarissa;Greek;Set 1;1;0
-Sarissae;Greek;Set 1;1;0
+Sarissa;Greek;Set 1;1;1
+Sarissae;Greek;Set 1;1;1
 Saul's Spear;Tribes of Israel;Set 10;1;0
 Savasi Nicopolis;Turkish;Set 6;1;0
 Schutzherrin der Meuchelmorder;Germanic;Set 3;1;1
 Scutulum;Roman;Set 1;1;0
 Scutum;Roman;Set 1;1;0
 Se'ar-Ro's Simson;Tribes of Israel;Set 7;1;0
-Seirines;UNKNOWN;Promo;1;0
+Seirines;Greek;Promo;1;0 // have okay printed version
 Sekhmet;Egyptian;Set 10;1;0 // have okay printed version
 Selim I, the Brave;Turkish;Set 6;1;0
 Seth;Egyptian;Promo;1;0
@@ -852,7 +852,7 @@ Shendyt;Egyptian;Set 10;1;0 // have okay printed version
 Sheng Kai De Mu Lan Hua;Chinese;Set 2;1;1
 Shestoper;Russian;Set 4;1;0
 Shi Tou Kou;Chinese;Set 6;1;0
-Shield of Hephaestus;Greek;Set 1;1;0
+Shield of Hephaestus;Greek;Set 1;1;1
 Shinmen Takezo;Japanese;Promo;1;0
 Shinobo Shozoku;Japanese;Set 1;1;0
 Shinshi;Korean;Set 9;1;0
@@ -893,7 +893,7 @@ Spartacus of Thrace;Roman;Promo;1;0
 Spartacus;Roman;Set 1;1;0
 Spartan Bow;Carthaginian;Set 8;1;0
 Spartan Greaves;Carthaginian;Set 8;1;0
-Spartan Lakonian;Greek;Set 1;1;0
+Spartan Lakonian;Greek;Set 1;1;1
 Spartiatiko Polemiko Kranos;Greek;Set 7;1;0
 Spatha;Roman;Set 1;1;0
 Spathi Me Asimenia Lavi;Trojan;Set 7;1;0
@@ -961,7 +961,7 @@ Theiki Paremvasi;Trojan;Set 7;1;0
 Themata;Byzantine;Set 10;1;0 // have okay printed version
 Theoderich der Grosse;Germanic;Set 3;1;1
 Theseus;Greek;Set 7;1;0
-Thetis;Greek;Set 1;1;0
+Thetis;Greek;Set 1;1;1
 Thigmeni Timi;Greek;Set 7;1;0
 Third Mithridatic War;Roman/Persian;Set 8;1;0
 Thor;Norse;Set 1;1;0
@@ -1073,7 +1073,7 @@ Yue;Chinese;Set 2;1;1
 Yumi;Japanese;Set 1;1;0
 Zamolxis;Romanian;Set 6;1;0
 Zartosht;Persian;Set 4;1;0
-Zeus;Greek;Set 1;1;0
+Zeus;Greek;Set 1;1;1
 Zhad;Mongol;Set 2;1;0
 Zhang Fei;Chinese;Set 6;1;0
 Zhang Jiao;Chinese;Set 6;1;1
