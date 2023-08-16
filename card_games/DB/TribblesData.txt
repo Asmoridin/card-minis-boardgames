@@ -43,7 +43,7 @@
 1 Tribble - Skip;Tribble;Nothing But Tribble/Tribbles;20;0
 10 Tribbles - Advance;Tribble;Nothing But Tribble/Virtual Promos;21;20 // Need 1 VP
 10 Tribbles - Ante;Tribble;Tribbles Royale;20;20
-10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;0
+10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;20
 10 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;10 // All from NTaA
 10 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
 10 Tribbles - Confront;Tribble;Star Trek 50;20;0
@@ -149,7 +149,7 @@
 10,000 Tribbles - Toxin;Tribble;No Tribble at All/Virtual Promos;20;3 // 3 from NTaA
 100,000 Tribbles - Ante;Tribble;Star Trek 50;20;13
 100,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles/Virtual Promos;24;24
-100,000 Tribbles - Assimilate;Tribble;Nothing But Tribble/Virtual Promos;20;12 // all from NBT
+100,000 Tribbles - Assimilate;Tribble;Nothing But Tribble/Virtual Promos;20;15 // all from NBT
 100,000 Tribbles - Avalanche;Tribble;Virtual Promos;20;0
 100,000 Tribbles - Bah!;Tribble;Big Tribble in Little Qo'noS;20;0
 100,000 Tribbles - Clone;Tribble;Virtual Promos;20;6
