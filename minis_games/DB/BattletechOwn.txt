@@ -288,3 +288,48 @@ Supernova 4;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3059;
 Supernova;Clan;Assault Mech;Early Succession War (2781 - 2900);Supernova;Sniper;3059;1
 Sylph Battle Armor (Upgrade);Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
 Sylph Battle Armor;Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
+
+Hunchback HBK-4G;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hunchback;Juggernaut;3039;1
+Hunchback HBK-4H;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hunchback;Juggernaut;3039;0
+Hunchback HBK-4J;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hunchback;Missile Boat;3039;0
+Hunchback HBK-4N;Inner Sphere;Medium Mech;Late Succession War - LosTech (2901 - 3019);Hunchback;Brawler;3039;0
+Hunchback HBK-4P;Inner Sphere;Medium Mech;Late Succession War - LosTech (2901 - 3019);Hunchback;Juggernaut;3039;0
+Hunchback HBK-4SP;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hunchback;Juggernaut;3039;0
+Hunchback HBK-5H;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5M;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5N;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5P;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hunchback;Juggernaut;3050;0
+Hunchback HBK-5SG;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hunchback;Brawler;3050;0
+Hunchback HBK-5SS;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hunchback;Missile Boat;3050;0
+Hunchback HBK-6N;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hunchback;Juggernaut;3050;0
+Hunchback HBK-6S;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hunchback;Striker;3050;0
+
+Battle Cobra A;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Striker;3059;0
+Battle Cobra B;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Sniper;3059;0
+Battle Cobra BTL-C-20;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3059;0
+Battle Cobra BTL-C-20A;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3059;0
+Battle Cobra BTL-C-20B;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3059;0
+Battle Cobra BTL-C-20C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Scout;3059;0
+Battle Cobra BTL-C-20D;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Sniper;3059;0
+Battle Cobra BTL-C-20E;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Missile Boat;3059;0
+Battle Cobra BTL-C-20F;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Brawler;3059;0
+Battle Cobra C;Clan;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Striker;3059;0
+Battle Cobra F;Clan;Medium Mech;Clan Invasion (3050 - 3061);Battle Cobra;Striker;3059;0
+Battle Cobra H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Battle Cobra;Striker;3059;0
+Battle Cobra Prime;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Sniper;3059;0
+Battle Cobra X;Clan;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Striker;3059;0
+
+BattleMaster BLR-1D;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Battlemaster;Brawler;3039;0
+BattleMaster BLR-1G-DC;Inner Sphere;Assault Mech;Star League (2571 - 2780);Battlemaster;Brawler;3039;0
+BattleMaster BLR-1G;Inner Sphere;Assault Mech;Star League (2571 - 2780);Battlemaster;Brawler;3039;0
+BattleMaster BLR-1S;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Battlemaster;Brawler;3039;0
+
+Beagle Hover Scout (C3i);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Beagle;Scout;3050;0
+Beagle Hover Scout (TAG);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Beagle;Scout;3050;0
+Beagle Hover Scout;Inner Sphere;Light Vehicle;Star League (2571 - 2780);Beagle;Scout;3050;0
+
+Behemoth Heavy Tank (Armor);Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Behemoth Heavy Tank;Juggernaut;3039;0
+Behemoth Heavy Tank (Flamer);Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Behemoth Heavy Tank;Juggernaut;3039;0
+Behemoth Heavy Tank (Kurita);Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Behemoth Heavy Tank;Juggernaut;3039;0
+Behemoth Heavy Tank;Inner Sphere;Assault Vehicle;Late Succession War - LosTech (2901 - 3019);Behemoth Heavy Tank;Juggernaut;3039;0
