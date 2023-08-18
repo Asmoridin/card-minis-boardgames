@@ -1,3 +1,4 @@
+A-Train
 Abomination
 Adam Warlock
 Agatha Harkness
@@ -107,6 +108,7 @@ Hela
 Helmut Zemo (Hydra)
 Helmut Zemo (Pro-Registration)
 Helmut Zemo/Baron Zemo (MCU Villains)
+Homelander
 Hughie
 Hulk
 *Hulk*
@@ -188,6 +190,7 @@ Professor X (New Mutants)
 Pyreus Kril/Firelord
 Pyro
 Quake
+Queen Maeve
 Quicksilver/Scarlet Witch
 Rachel Summers
 Raiden
@@ -231,6 +234,7 @@ Spike
 Star-Lord (Guardians of the Galaxy)
 Star-Lord (MCU Heroes)
 *Star-Lord*
+Starlight
 Storm (Anti-Registration)
 Storm (X-Men; House of X)
 Storm (X-Men; Marvel Battles)
@@ -244,6 +248,7 @@ Thanos (Black Order)
 Thanos (MCU Villains)
 Thanos (Marvel Battles)
 The Collector
+The Deep
 The Dragon
 The First Evil
 The Grandmaster
