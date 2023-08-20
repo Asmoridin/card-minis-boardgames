@@ -179,23 +179,23 @@ Sprayer;Swamp Stalkers;Common;0
 Bog Runner;Swamp Stalkers;Common;0
 Bog Adept;Swamp Stalkers;Common;0
 Cryohydra;Frostwings;Monster;2
-Frost Ogre;Frostwings;Monster;0
+Frost Ogre;Frostwings;Monster;1
 Remorhaz;Frostwings;Monster;3
 Wolf Pack;Frostwings;Monster;2
 Yeti;Frostwings;Monster;2
 Vindicator;Frostwings;Rare;1
-Devastator;Frostwings;Rare;2
+Devastator;Frostwings;Rare;3
 Assailer;Frostwings;Rare;0
 Bear Master;Frostwings;Rare;2
 Magi;Frostwings;Rare;0
-Defender;Frostwings;Uncommon;3
-Dispatcher;Frostwings;Uncommon;2
+Defender;Frostwings;Uncommon;4
+Dispatcher;Frostwings;Uncommon;3
 Assaulter;Frostwings;Uncommon;0
 Wolf Master;Frostwings;Uncommon;3
 Magus;Frostwings;Uncommon;1
 Advocate;Frostwings;Common;4
-Destroyer;Frostwings;Common;2
-Attacker;Frostwings;Common;3
+Destroyer;Frostwings;Common;4
+Attacker;Frostwings;Common;5
 Hound Master;Frostwings;Common;2
 Apprentice;Frostwings;Common;6
 Ettercap;Scalders;Monster;0

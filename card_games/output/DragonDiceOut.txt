@@ -1,5 +1,5 @@
-Have 204 out of 2504 - 8.15 percent
-Buy a Common from Frostwings - perhaps a Destroyer (have 40 out of 80 Frostwings)
+Have 213 out of 2505 - 8.50 percent
+Buy a Common from Fire Walkers - perhaps a Explorer (have 40 out of 77 Fire Walkers)
 Summary:
 Amazons: 0
 Coral Elves: 0
@@ -8,7 +8,7 @@ Dwarves: 0
 Eldarim: 4
 Feral: 0
 Fire Walkers: 75
-Frostwings: 86
+Frostwings: 101
 Goblins: 0
 Lava Elves: 0
 Scalders: 0
