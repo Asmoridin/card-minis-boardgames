@@ -1,6 +1,7 @@
 A-Train
 Abomination
 Adam Cole
+Adam Page
 Adam Warlock
 Agatha Harkness
 Alex Krycek
@@ -47,6 +48,7 @@ Captain Marvel (Avengers)
 Captain Marvel (MCU Heroes)
 Carnage
 Cetrion
+Chris Jericho
 Cigarette Smoking Man
 Cloak and Dagger
 Colonists
@@ -59,6 +61,7 @@ Cyclops (X-Men; Heroes of Krakoa)
 Cyclops (X-Men; Legacy)
 Daken
 Dana Scully
+Darby Allin
 Daredevil
 Dark Beast
 Dark Willow
@@ -128,6 +131,7 @@ Isabelle
 Jade Cargill
 Jean Grey
 Jessica Jones
+Jon Moxley
 Joseph
 Juggernaut (BOM Expansion)
 Juggernaut (Heroes of Krakoa)
@@ -140,6 +144,7 @@ Kid Kaiju
 Killmonger
 Kimiko
 Kingpin
+Kris Statlander
 Kronika
 Leviathon Mother
 Liu Kang
@@ -267,6 +272,7 @@ The Wizard
 Thing
 Thor (Avengers)
 Thor (MCU Heroes)
+Thunder Rosa
 Toad
 Toxin
 Ultron (MCU Villains)
