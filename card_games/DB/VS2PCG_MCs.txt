@@ -1,5 +1,6 @@
 A-Train
 Abomination
+Adam Cole
 Adam Warlock
 Agatha Harkness
 Alex Krycek
@@ -28,6 +29,7 @@ Black Widow (SHIELD)
 Blade
 Blob
 Bruce Banner/Hulk (MCU Heroes)
+Bryan Danielson
 Bucky Barnes/Winter Soldier (Photographic Universe)
 Buffy
 Bullseye (HAMMER)
@@ -71,6 +73,7 @@ Doctor Strange (Avengers)
 Doctor Strange (MCU Heroes)
 Dormammu (MCU Villains)
 Dormammu (Supervillains)
+Dr. Britt Baker, D.M.D
 Dr. Henry Pym/Giant-Man/Ant-Man
 Dr. Strange
 Drax
@@ -122,6 +125,7 @@ Iron Man (MCU Heroes)
 Iron Man (Pro-Registration)
 Iron Monger
 Isabelle
+Jade Cargill
 Jean Grey
 Jessica Jones
 Joseph
@@ -149,6 +153,7 @@ Madame Hydra
 Magneto (Brotherhood of Mutants)
 Magneto (Heroes of Krakoa)
 Magneto (Supervillains)
+Malakai Black
 Marvel Girl
 Master Mold
 Mayor Wilkins
@@ -156,6 +161,7 @@ Medusa
 Mesmero
 Mimic
 Mister Fantastic
+MJF
 Mobius
 Mole Man
 Monica Rambeau
