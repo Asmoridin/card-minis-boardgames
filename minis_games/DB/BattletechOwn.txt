@@ -353,3 +353,38 @@ Supernova 4;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3059;
 Supernova;Clan;Assault Mech;Early Succession War (2781 - 2900);Supernova;Sniper;3059;1
 Sylph Battle Armor (Upgrade);Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
 Sylph Battle Armor;Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
+
+Jenner JR7-A;Inner Sphere;Light Mech;Star League (2571 - 2780);Jenner;Scout;3039;0
+Jenner JR7-C2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Jenner;Missile Boat;3050;0
+Jenner JR7-C3;Inner Sphere;Light Mech;Jihad (3068 - 3080);Jenner;Striker;3050;0
+Jenner JR7-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Jenner;Striker;3050;0
+Jenner JR7-D;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Jenner;Striker;3039;1
+Jenner JR7-F;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Jenner;Striker;3039;0
+Jenner JR7-K;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Jenner;Striker;3050;0
+
+Black Lanner A;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Black Lanner B;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Missile Boat;3059;0
+Black Lanner C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Black Lanner D;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Black Lanner E;Clan;Medium Mech;Civil War (3062 - 3067);Black Lanner;Skirmisher;3059;0
+Black Lanner H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Black Lanner Prime;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Black Lanner X;Clan;Medium Mech;Jihad (3068 - 3080);Black Lanner;Skirmisher;3059;0
+
+Blackjack BJ-1;Inner Sphere;Medium Mech;Star League (2571 - 2780);Blackjack;Sniper;3039;0
+Blackjack BJ-1DB;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Blackjack;Brawler;3039;0
+Blackjack BJ-1DC;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Blackjack;Brawler;3039;0
+Blackjack BJ-1X;Inner Sphere;Medium Mech;Star League (2571 - 2780);Blackjack;Skirmisher;3039;0
+Blackjack BJ-2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack;Sniper;3050;0
+Blackjack BJ-3;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Blackjack;Brawler;3050;0
+Blackjack BJ-4;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Blackjack;Brawler;3050;0
+
+Blackjack BJ2-0;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Blackjack BJ2-0A;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Missile Boat;3059;0
+Blackjack BJ2-0B;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
+Blackjack BJ2-0C;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Blackjack BJ2-0D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Blackjack BJ2-0E;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
+Blackjack BJ2-0F;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
+Blackjack BJ2-0R;Mixed;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Blackjack BJ2-0X;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Blackjack 2;Brawler;3059;0
