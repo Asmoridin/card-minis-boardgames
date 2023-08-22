@@ -18,7 +18,7 @@
 ... In the Security Office;Trouble;Tribbles Royale;1;1
 ... In the Transporter Room;Trouble;Tribbles Royale;1;1
 ... On the Bridge;Trouble;Tribbles Royale;1;1
-1 Tribble - BaH!;Tribble;Big Tribble in Little Qo'noS;20;0
+1 Tribble - BaH!;Tribble;Big Tribble in Little Qo'noS;20;20
 1 Tribble - Beam;Tribble;A Tribble of a Different Color;20;0
 1 Tribble - Bonus & Freeze;Tribble;Trials and Tribble-ations;20;0
 1 Tribble - Bonus;Tribble;The Trouble with Tribbles;20;0
@@ -101,8 +101,7 @@
 1,000 Tribbles - Exchange;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
 1,000 Tribbles - Famine;Tribble;Trials and Tribble-ations;20;0
 1,000 Tribbles - Famine;Tribble;Virtual Promos;20;0
-1,000 Tribbles - Freeze;Tribble;No Tribble at All;20;0
-1,000 Tribbles - Freeze;Tribble;Virtual Promos;20;0
+1,000 Tribbles - Freeze;Tribble;No Tribble at All/Virtual Promos;20;0
 1,000 Tribbles - IDIC;Tribble;A Tribble of a Different Color;20;0
 1,000 Tribbles - Magic;Tribble;A Tribble of a Different Color;20;0
 1,000 Tribbles - Masaka;Tribble;Nothing But Tribble;20;3
@@ -151,7 +150,7 @@
 100,000 Tribbles - Antidote;Tribble;More Tribbles, More Troubles/Virtual Promos;24;24
 100,000 Tribbles - Assimilate;Tribble;Nothing But Tribble/Virtual Promos;20;15 // all from NBT
 100,000 Tribbles - Avalanche;Tribble;Virtual Promos;20;0
-100,000 Tribbles - Bah!;Tribble;Big Tribble in Little Qo'noS;20;0
+100,000 Tribbles - Bah!;Tribble;Big Tribble in Little Qo'noS;20;20
 100,000 Tribbles - Clone;Tribble;Virtual Promos;20;6
 100,000 Tribbles - Confront;Tribble;Star Trek 50/Virtual Promos;20;0
 100,000 Tribbles - Dabo;Tribble;Tribbles Royale/Virtual Promos;20;0
