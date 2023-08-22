@@ -37,3 +37,5 @@ Mont Pincon;Germany;UK;8/16/1944;;Western;1,2;8;Compendium 1
 Operation Totalize;Germany;Canada;8/8/1944;;Western;3;10;Compendium 1
 First of Many Starts Here... At Alencon;Germany;France;8/12/1944;;Western;1,2;7;Compendium 1
 Mont Ormel Ridge;Germany;Poland;8/19/1944;;Western;3,4;10;Compendium 1
+St. Lambert-sur-Dives;Germany;Canada;8/19/1944;;Western;2,3;12;Compendium 1
+Chambois;Germany;Poland, USA;8/19/1944;;Western;2;4;Compendium 1
