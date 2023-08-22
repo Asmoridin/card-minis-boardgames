@@ -388,3 +388,28 @@ Blackjack BJ2-0E;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 
 Blackjack BJ2-0F;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
 Blackjack BJ2-0R;Mixed;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
 Blackjack BJ2-0X;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Blackjack 2;Brawler;3059;0
+
+Mad Cat (Timber Wolf) A;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Skirmisher;3050;0
+Mad Cat (Timber Wolf) B;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Sniper;3050;0
+Mad Cat (Timber Wolf) (Bounty Hunter);Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Brawler;3050;0
+Mad Cat (Timber Wolf) C;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Sniper;3050;0
+Mad Cat (Timber Wolf) D;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Skirmisher;3050;0
+Mad Cat (Timber Wolf) E;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Sniper;3050;0
+Mad Cat (Timber Wolf) F;Clan;Heavy Mech;Jihad (3068 - 3080);Mad Cat;Missile Boat;3050;0
+Mad Cat (Timber Wolf) Prime;Clan;Heavy Mech;Late Succession War - LosTech (2901 - 3019);Mad Cat;Brawler;3050;2
+Mad Cat (Timber Wolf) (Pryde);Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Missile Boat;3050;0
+Mad Cat (Timber Wolf) S;Clan;Heavy Mech;Clan Invasion (3050 - 3061);Mad Cat;Skirmisher;3050;0
+
+Blizzard Hover Transport "Black Blizzard";Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Blizzard;Striker;3058;0
+Blizzard Hover Transport (SRM);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Blizzard;Scout;3058;0
+Blizzard Hover Transport;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Blizzard;Scout;3058;0
+
+Boeing Jump Bomber;Inner Sphere;Conventional Fighter;Late Succession War - Renaissance (3020 - 3049);Boeing Jump Bomber;None;3039;0
+
+Bombardier BMB-05A;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Bombardier;Missile Boat;3050;0
+Bombardier BMB-10D;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Bombardier;Missile Boat;3039;0
+Bombardier BMB-12D;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Bombardier;Missile Boat;3050;0
+Bombardier BMB-14C;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Bombardier;Missile Boat;3050;0
+Bombardier BMB-14K;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Bombardier;Missile Boat;3050;0
+
+Boomerang Spotter Plane;Inner Sphere;Conventional Fighter;Early Succession War (2781 - 2900);Boomerang;Attack;3039;0
