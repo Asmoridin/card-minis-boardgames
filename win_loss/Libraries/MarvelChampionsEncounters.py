@@ -9,7 +9,8 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'Beasty Boys', 'Mister Hyde', 'Sinister Syndicate', "Crossfire's Crew", 'Wrecking Crew', 'Ransacked Armory', 'State of Emergency', 'Streets of Mayhem', 'Brothers Grimm',
     'Guerilla Tactics', 'Sinister Assault', 'City in Chaos', 'Down to Earth', 'Symbiotic Strength', 'Personal Nightmare', 'Whispers of Paranoia', 'Goblin Gear', 'Osborn Tech',
     'Armadillo', 'Zzzax', 'The Inheritors', "Iron Spider's Sinister Six", 'Deathstrike', 'Shadow King', 'Exodus', 'Reavers', 
-    'Zero Tolerance', 'Sentinels', 'Future Past', 'Brotherhood', 'Mystique', 'Acolytes', ]
+    'Zero Tolerance', 'Sentinels', 'Future Past', 'Brotherhood', 'Mystique', 'Acolytes', 
+    'Military Grade', 'Mutant Slayers', 'Nasty Boys', 'Black Tom Cassidy', 'Flight', 'Super Strength', 'Telepathy', 'Extreme Measures', 'Mutant Insurrection', ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 modular_encounters = modular_encounters + mojo_encounters
 
@@ -85,11 +86,11 @@ encounters.extend([
   Encounter('MaGog', 1),
   Encounter('Spiral', 3, mojo_only=True),
   Encounter('Mojo', 3, mojo_only=True),
-  #Encounter('Morlock Siege', 1),
-  #Encounter('On the Run', 1),
-  #Encounter('Juggernaut', 1),
-  #Encounter('Mister Sinister', 1),
-  #Encounter('Stryfe', 1),
+  Encounter('Morlock Siege', 2),
+  Encounter('On the Run', 2, ['Mutant Slayers']),
+  Encounter('Juggernaut', 1),
+  Encounter('Mister Sinister', 1, ['Flight', 'Super Strength', 'Telepathy',]),
+  Encounter('Stryfe', 2),
 ])
 
 encounter_map = {}
