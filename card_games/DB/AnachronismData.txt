@@ -258,7 +258,7 @@ Delila;Tribes of Israel;Set 7;1;0
 Devora;Tribes of Israel;Set 7;1;0
 Dhruvasvamini;East Indian;Set 10;1;0 // have okay printed version
 Diao Chan;Chinese;Set 6;1;0
-Diet of Roncaglia;Holy Roman;Set 10;1;0
+Diet of Roncaglia;Holy Roman;Set 10;1;0 // have okay printed version
 Dilitiriasmeno Velos;Trojan;Set 7;1;0
 Dingiswayo;African Kingdoms;Set 8;1;0 // Have badly printed version
 Dionysus;Persian;Set 4;1;0
@@ -308,7 +308,7 @@ Excalibur;Briton;Set 2;1;1
 Fabian Tactics;Roman;Set 8;1;0
 Fabius Maximus;Roman;Set 8;1;0
 Falcata;Carthaginian;Set 8;1;0
-Falchion;Holy Roman;Set 10;1;0
+Falchion;Holy Roman;Set 10;1;0 // have okay printed version
 Falx;Romanian;Set 6;1;0
 Fascina;Roman;Set 8;1;0
 Fearsome Reputation;Briton/Pirate;Set 6;1;0
@@ -326,7 +326,7 @@ Fort Bridger;American Frontiersmen;Set 7;1;0
 Fort Jhansi;East Indian;Set 10;1;0 // have okay printed version
 Fort Kiowa;American Frontiersmen;Set 7;1;0
 Fredegunde;Germanic;Set 3;1;1
-Frederick I Barbarossa;Holy Roman;Set 10;1;0
+Frederick I Barbarossa;Holy Roman;Set 10;1;0 // have okay printed version
 Freya;Germanic;Set 3;1;1
 Freydis Eiriksdottir;Norse;Set 1;1;0
 Frumentius;African Kingdoms;Set 8;1;0 // Have badly printed version
@@ -535,7 +535,7 @@ King Ahab;Tribes of Israel;Set 10;1;0
 King Arthur;Briton;Set 2;1;1
 King Edward;Briton;Set 8;1;0 // Have ok printed version
 King Saul;Tribes of Israel;Set 10;1;0
-King in the Mountain;Holy Roman;Set 10;1;0
+King in the Mountain;Holy Roman;Set 10;1;0 // have okay printed version
 Kirasa;Russian;Set 4;1;0
 Kite Shield;Briton;Set 8;1;0
 Klebanion;Byzantine;Set 10;1;0 // have okay printed version
@@ -570,7 +570,7 @@ Lachesis;Greek;Promo;1;0
 Lady of the Lake;Briton;Set 2;1;1
 Lady of the Mercians;Briton;Set 8;1;0 // Have okay printed version
 Lakshmi Bai;East Indian;Set 10;1;0 // have okay printed version
-Lancea Longini;Holy Roman;Set 10;1;0
+Lancea Longini;Holy Roman;Set 10;1;0 // have okay printed version
 Lancia;Italian;Set 9;1;0
 Langox;Norse;Set 1;1;0
 Langseax;Norse;Set 1;1;0
