@@ -44,7 +44,7 @@
 10 Tribbles - Advance;Tribble;Nothing But Tribble/Virtual Promos;21;20 // Need 1 VP
 10 Tribbles - Ante;Tribble;Tribbles Royale;20;20
 10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;20
-10 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;10 // All from NTaA
+10 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;15 // All from NTaA
 10 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
 10 Tribbles - Confront;Tribble;Star Trek 50;20;0
 10 Tribbles - Convert;Tribble;Star Trek 50;20;0
@@ -65,7 +65,7 @@
 10 Tribbles - Time Warp;Tribble;A Tribble of a Different Color;20;0
 10 Tribbles - Toxin;Tribble;No Tribble at All;20;6
 10 Tribbles - Utilize;Tribble;Nothing But Tribble;20;7
-100 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;20;7 // All from NTaA
+100 Tribbles - Battle;Tribble;No Tribble at All/Virtual Promos;21;21
 100 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
 100 Tribbles - Cheat;Tribble;A Tribble of a Different Color/Virtual Promos;20;0
 100 Tribbles - Clone & Skip;Tribble;No Tribble at All;20;1
