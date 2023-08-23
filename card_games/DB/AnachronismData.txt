@@ -35,13 +35,13 @@ Amaterasu;Japanese;Set 1;1;0
 Amazonia;Roman;Set 1;1;0
 Amr ibn al-A'as;Saracen;Set 5;1;0
 Amrtaka;Persian;Set 4;1;0
-An Bradan Feasa;Irish;Set 4;1;0
+An Bradan Feasa;Irish;Set 4;1;1
 Anahita;Persian;Set 4;1;0
 Anastasia Romanova Zakharyina;Russian;Set 4;1;0
 Andvarinaut;Norse;Set 9;1;0
 Anne Bonny;Irish/Pirate;Set 6;1;0
 Antariya;East Indian;Set 10;1;0
-Anu;Irish;Set 4;1;0
+Anu;Irish;Set 4;1;1
 Anubis;Roman/Egyptian;Set 8;1;0
 Apedemak;African Kingdoms;Set 8;1;0 // Have badly printed version
 Apollo;Roman;Set 1;1;0
@@ -50,7 +50,7 @@ Ar-a-mach Crabhach;Scottish;Set 3;1;0
 Arabe Haye Darrande;Persian;Set 4;1;0
 Arcabuz;Spanish;Set 5;1;0
 Archange Michel;French;Set 3;1;1
-Ard Ri;Irish;Set 4;1;0
+Ard Ri;Irish;Set 4;1;1
 Ares;Carthaginian;Set 8;1;0
 Ariki Te Wherowhero;Maori;Set 4;1;0
 Aristourgima tou Ifestou;Trojan;Set 7;1;0
@@ -98,7 +98,7 @@ Barak;Tribes of Israel;Set 7;1;0
 Barbarossa;Pirate/Turkish;Set 9;1;0
 Barbute;Italian;Set 9;1;0
 Bargustuwan;Saracen;Set 5;1;0
-Bas Sheasamhach;Irish;Set 4;1;0
+Bas Sheasamhach;Irish;Set 4;1;1
 Basil II Boulgaraktonos;Byzantine;Set 10;1;0 // have okay printed version
 Basileus Autokrator Romaion;Byzantine;Set 10;1;0 // have okay printed version
 Battle of Cannae;Carthaginian;Set 8;1;0
@@ -109,7 +109,7 @@ Bear Hide;American Frontiersmen;Set 7;1;0
 Bear Sark;Norse;Set 1;1;0
 Bec de Corbin;French;Promo;1;0
 Belt of Hippolyte;Greek;Set 1;1;1
-Benrig Medb;Irish;Set 4;1;0
+Benrig Medb;Irish;Set 4;1;1
 Beowulf;Norse;Set 1;1;0
 Berber Takouba;African Kingdoms;Set 8;1;0 // Have badly printed version
 Berengaria;Briton;Set 2;1;1
@@ -137,10 +137,10 @@ Bouclier Carolingien;French;Set 3;1;1
 Bouclier Celtique;French;Set 3;1;1
 Boudicca;Briton;Set 2;1;1
 Bowie Knife;American Frontiersmen;Set 7;1;0
-Bran agus Sceolang;Irish;Set 4;1;0
-Brat Derg;Irish;Set 4;1;0
+Bran agus Sceolang;Irish;Set 4;1;1
+Brat Derg;Irish;Set 4;1;1
 Bratt;Briton;Set 2;1;1
-Brian Boru;Irish;Set 4;1;0
+Brian Boru;Irish;Set 4;1;1
 British East India Company;Pirate/Scottish;Set 9;1;0
 Broigne d'Ecailles;French;Set 3;1;1
 Bronze Scale Mail;Egyptian;Set 10;1;0
@@ -209,9 +209,10 @@ Claidheamh-Catha Da-Laimhe;Scottish;Set 3;1;0
 Claidheamh-mor Gaidhealach;Scottish;Set 3;1;0
 Clairseach Bhoru;Irish;Promo;1;0
 Cleopatra VII;Egyptian;Set 2;1;1
-Cliabh Mor;Irish;Set 4;1;0
+Cliabh Mor;Irish;Set 4;1;1
 Clogaid Phembridge;Scottish;Set 3;1;0
 Clotho;Greek;Promo;1;0
+Cluain Tairbh;Irish;Set 4;1;1
 Cluaran na h-Alba;Scottish;Set 3;1;0
 Club Hauling;Pirate/Welsh;Set 9;1;0
 Code du Paladin;French;Set 3;1;1
@@ -226,12 +227,11 @@ Crocodile-Skin Armor;Egyptian;Set 10;1;0 // have okay printed version
 Crown of England;Norse;Set 1;1;0
 Crude Whittled Spear;American Frontiersmen;Set 7;1;0
 Crun na h-Alba;Scottish;Set 3;1;0
-Cu Chulainn;Irish;Set 4;1;0
+Cu Chulainn;Irish;Set 4;1;1
 Cuauhcuachimalli;Aztec;Set 5;1;0
 Cuauhxicalli;Aztec;Promo;1;0
 Cuir Bouilli;Pirate/French;Set 9;1;0
 Cuitlahuac;Aztec;Set 5;1;0
-Culain Tairbh;Irish;Set 4;1;0
 Cumhnant Briste;Scottish;Set 3;1;0
 Cunctator;Roman;Set 8;1;0
 Cupa de Aur;Romanian;Set 6;1;0
@@ -265,17 +265,17 @@ Dionysus;Persian;Set 4;1;0
 Disaccordi Vantaggiosi;Italian;Set 9;1;0
 Disciplina;Roman;Set 1;1;0
 Djellaba;African Kingdoms;Set 8;1;0 // Have badly printed version
-Dli Breithim;Irish;Set 4;1;0
+Dli Breithim;Irish;Set 4;1;1
 Do;Japanese;Set 1;1;0
 Domesday Book;Briton;Set 8;1;0
-Donal McCarthaigh Mor;Irish;Set 4;1;0
+Donal McCarthaigh Mor;Irish;Set 4;1;1
 Donar-Eiche;German;Promo;1;0
-Donn Cuailnge;Irish;Set 4;1;0
+Donn Cuailnge;Irish;Set 4;1;1
 Dorata Me Mproutzini Ehmi;Trojan;Set 7;1;0
 Doro tis Ariadnis;Greek;Set 7;1;0
 Dourios Ippos;Greek;Set 7;1;0
 Dragon-Shaped Comet;Briton;Set 8;1;0
-Duban;Irish;Set 4;1;0
+Duban;Irish;Set 4;1;1
 Duckbilled Canaanite Axe;Tribes of Israel;Set 10;1;0
 Durendal;French;Set 3;1;1
 Durga;East Indian;Set 10;1;0 // have okay printed version
@@ -315,7 +315,7 @@ Fearsome Reputation;Briton/Pirate;Set 6;1;0
 Federico da Montefeltro;Italian;Set 9;1;0
 Fernando II de Aragon;Spanish;Set 5;1;0
 Fervor Religioso;Spanish;Set 5;1;0
-Finn MacCumhaill;Irish;Set 4;1;0
+Finn MacCumhaill;Irish;Set 4;1;1
 First Triumvirate;Roman;Set 8;1;0
 Flavius Belasarius;Byzantine;Set 10;1;0 // have okay printed version
 Flies of Honor;Egyptian;Set 10;1;0 // have okay printed version
@@ -336,7 +336,7 @@ Fusta;Pirate/Turkish;Set 9;1;0
 Fylking;Norse;Set 9;1;0
 Gabal el Taur;Saracen;Set 5;1;0
 Gaddhjalt;Briton;Set 8;1;0 // // Have okay printed version
-Gae Bolg;Irish;Set 4;1;0
+Gae Bolg;Irish;Set 4;1;1
 Gaiseric;Germanic;Promo;1;0
 Gaitay Geprech;Mongol;Set 2;1;0
 Gaius Julius;Roman;Promo;1;0
@@ -591,8 +591,8 @@ Lion's Brood;Carthaginian;Set 8;1;0
 Liontari;Greek;Set 1;1;1
 Liu Bei;Chinese;Promo;1;0
 Loki;Norse;Set 1;1;0
-Longbow;Briton;Set 2;1;1
 Longbow and Stakes;Briton;Set 8;1;0 // Have okay printed version
+Longbow;Briton;Set 2;1;1
 Longsword;Briton;Set 2;1;1
 Lorica Hamata;Germanic;Set 3;1;0
 Lorica Musculata;Roman;Set 8;1;0
@@ -603,7 +603,7 @@ Lu Wei;Chinese;Set 6;1;0
 Lycurgus;Greek;Promo;1;0
 Ma Chao;Chinese;Set 6;1;0
 Ma'at;Egyptian;Set 10;1;0
-Mac an Luin;Irish;Set 4;1;0
+Mac an Luin;Irish;Set 4;1;1
 Maccus og Osulf;Norse;Set 9;1;0
 Mace of the Scorpion King;Egyptian;Set 2;1;1
 Macuahuitl;Aztec;Set 5;1;0
@@ -614,7 +614,7 @@ Magister Militum;Germanic;Set 3;1;1
 Mahera;Trojan;Set 7;1;0
 Mahpiya Luta;Native American;Set 3;1;0
 Maid Marion;Briton;Set 2;1;1
-Maille na Lub;Irish;Set 4;1;0
+Maille na Lub;Irish;Set 4;1;1
 Makataimeshekiakiak;Native American;Set 3;1;0
 Man-High Shield;Egyptian;Set 2;1;1
 Mana;Maori;Set 4;1;0
@@ -674,7 +674,7 @@ Mjollnir;Norse;Set 1;1;0
 Moctezuma II;Aztec;Set 5;1;1
 Mokkgum;Korean;Set 9;1;0
 Moko;Maori;Set 4;1;0
-Mor Rioghain;Irish;Set 4;1;0
+Mor Rioghain;Irish;Set 4;1;1
 Mount Ercte;Carthaginian;Set 8;1;0
 Murad IV, the Cruel;Turkish;Set 6;1;0
 Muramasa;Japanese;Set 5;1;0
@@ -841,7 +841,7 @@ Seth;Egyptian;Promo;1;0
 Seti I;Egyptian;Set 2;1;1
 Sfidare Bolla Papale;Italian;Set 9;1;0
 Sgathach an Eilein Sgiathanaich;Scottish;Set 3;1;0
-Sgiath Gailbhinn;Irish;Set 4;1;0
+Sgiath Gailbhinn;Irish;Set 4;1;1
 Shabrack;Norse;Set 9;1;0
 Shaka Zulu;African Kingdoms;Set 8;1;0 // Have badly printed version
 Shamshir;Persian;Promo;1;0
@@ -872,13 +872,13 @@ Simon bar Giora;Tribes of Israel;Set 10;1;0
 Sir Francis Drake;Briton/Pirate;Set 6;1;0
 Sir Henry Morgan;Pirate/Welsh;Set 9;1;0
 Siryon;Tribes of Israel;Set 7;1;0
-Siuloir na Cosach Croise;Irish;Set 4;1;0
+Siuloir na Cosach Croise;Irish;Set 4;1;1
 Skeggox;Norse;Set 9;1;0
 Skegox Francisca;Norse;Set 1;1;0
 Skjold;Norse;Set 1;1;0
 Skutos;Byzantine;Set 10;1;0 // have okay printed version
-Slea Bladhmadh;Irish;Set 4;1;0
-Slea le Scian le Cuma Duilleog;Irish;Set 4;1;0
+Slea Bladhmadh;Irish;Set 4;1;1
+Slea le Scian le Cuma Duilleog;Irish;Set 4;1;1
 Slujba Valaha;Romanian;Set 6;1;0
 Small Sword;Welsh/Pirate;Set 6;1;0
 Sobek;Egyptian;Set 10;1;0 // have okay printed version
@@ -984,7 +984,7 @@ Tomahawk;American Frontiersmen;Set 7;1;0
 Tomas de Torquemada;Spanish;Promo;1;0
 Tomor Scimitar;Mongol;Set 2;1;0
 Topuz;Turkish;Set 6;1;0
-Torc Orga;Irish;Set 4;1;0
+Torc Orga;Irish;Set 4;1;1
 Touseigusoku;Japanese;Set 5;1;0
 Tower of London;Briton;Set 8;1;0
 Toxo tou Odissea;Greek;Set 7;1;0
