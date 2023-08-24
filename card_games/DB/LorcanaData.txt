@@ -1,0 +1,38 @@
+3;Cinderella - Gentle and Kind;Character;Amber;The First Chapter;Uncommon;1
+22;Stitch - New Dog;Character;Amber;The First Chapter;Common;1
+39;Dr. Facilier - Remarkable Gentleman;Character;Amethyst;Rare;1
+60;Yzma - Alchemist;Character;Amethyst;The First Chapter;Common;1
+69;Aladdin - Prince Ali;Character;Emerald;The First Chapter;Common;2
+72;Cruella de Vil - Miserable as Usual;Character;Emerald;The First Chapter;Rare;1
+73;Duke of Weselton - Opportunistic Official;Character;Emerald;The First Chapter;Common;2
+79;Horace - No-Good Soundrel;Character;Emerald;The First Chapter;Common;3
+80;Iago - Loud-Mouthed Parrot;Character;Emerald;The First Chapter;Rare;1
+81;Jasper - Common Crook;Character;Emerald;The First Chapter;Uncommon;2
+86;Mad Hatter - Gracious Host;Character;Emerald;The First Chapter;Uncommon;2
+87;Megara - Pulling the Strings;Character;Emerald;The First Chapter;Common;3
+89;Mickey Mouse - Steamboat Pilot;Character;Emerald;The First Chapter;Common;3
+91;Peter Pan - Never Landing;Character;Emerald;The First Chapter;Common;2
+95;Mother Knows Best;Action;Emerald;The First Chapter;Uncommon;3
+96;Stampede;Action;Emerald;The First Chapter;Common;2
+97;Steal From the Rich;Action;Emerald;The First Chapter;Rare;1
+98;Sudden Chill;Action;Emerald;The First Chapter;Common;1
+100;Vicious Betrayal;Action;Emerald;The First Chapter;Common;2
+102;Stolen Scimitar;Item;Emerald;The First Chapter;Common;2
+104;Aladdin - Heroic Outlaw;Character;Ruby;The First Chapter;Super Rare;1
+105;Aladdin - Street Rat;Character;Ruby;The First Chapter;Common;3
+106;Captain - Colonel's Lieutenant;Character;Ruby;The First Chapter;Uncommon;2
+108;Donald Duck - Boisterous Fowl;Character;Ruby;The First Chapter;Uncommon;2
+112;Lefou - Instigator;Character;Ruby;The First Chapter;Rare;1
+120;Pongo - Ol' Rascal;Character;Ruby;The First Chapter;Common;3
+121;Rapunzel - Letting Down Her Hair;Character;Ruby;The First Chapter;Uncommon;3
+122;Scar - Fiery Usurper;Character;Ruby;The First Chapter;Common;2
+124;Sergeant Tibbs - Courageous Cat;Character;Ruby;The First Chapter;Common;4
+125;Stitch - Abomination;Character;Ruby;The First Chapter;Rare;1
+129;Cut to the Chase;Action;Ruby;The First Chapter;Uncommon;1
+130;Dragon Fire;Action;Ruby;The First Chapter;Uncommon;4
+132;He's Got a Sword!;Action;Ruby;The First Chapter;Common;2
+135;Shield of Virtue;Item;Ruby;The First Chapter;Uncommon;2
+144;Donald Duck - Strutting His Stuff;Character;Sapphire;The First Chapter;Common;1
+152;Maurice - World-Famous Inventor;Character;Sapphire;The First Chapter;Rare;1
+182;Kristoff - Official Ice Master;Character;Steel;The First Chapter;Common;1
+190;Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;1
