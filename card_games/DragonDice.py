@@ -7,8 +7,8 @@ GAME_NAME = "Dragon Dice"
 army_factions = ['Dwarves', 'Coral Elves', 'Goblins', 'Lava Elves', 'Amazons', 'Fire Walkers', 'Undead', 'Feral', 'Swamp Stalkers', 'Frostwings', 'Scalders', 'Treefolk', 'Eldarim', 'Dracolem']
 valid_factions = army_factions + ['Medallion', 'Items', 'Dragons', 'Dragonkin', 'Relics', 'Major Terrain', 'Minor Terrain', 'Special Terrain']
 
-my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk',]
-my_future_factions = ['Amazons', 'Eldarim', 'Goblins', 'Scalders', 'Undead', 'Feral', 'Swamp Stalkers', 'Dwarves', 'Coral Elves', 'Lava Elves', 'Dracolem']
+my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk', 'Eldarim',]
+my_future_factions = ['Amazons', 'Goblins', 'Scalders', 'Undead', 'Feral', 'Swamp Stalkers', 'Dwarves', 'Coral Elves', 'Lava Elves', 'Dracolem']
 
 def getMetaType(in_type):
     if in_type in army_factions:
