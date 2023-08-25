@@ -1,7 +1,33 @@
-3;Cinderella - Gentle and Kind;Character;Amber;The First Chapter;Uncommon;1
-22;Stitch - New Dog;Character;Amber;The First Chapter;Common;1
-39;Dr. Facilier - Remarkable Gentleman;Character;Amethyst;Rare;1
-60;Yzma - Alchemist;Character;Amethyst;The First Chapter;Common;1
+1;Ariel - On Human Legs;Character;Amber;The First Chapter;Uncommon;2
+3;Cinderella - Gentle and Kind;Character;Amber;The First Chapter;Uncommon;3
+6;Hades - Lord of the Underworld;Character;Amber;The First Chapter;Rare;1
+7;Heihei - Boat Snack;Character;Amber;The First Chapter;Common;2
+11;Maximus - Relentless Pursuer;Character;Amber;The First Chapter;Uncommon;2
+12;Mickey Mouse - True Friend;Character;Amber;The First Chapter;Uncommon;3
+13;Minnie Mouse - Beloved Princess;Character;Amber;The First Chapter;Common;3
+14;Moana - Of Motunui;Character;Amber;The First Chapter;Rare;1
+22;Stitch - New Dog;Character;Amber;The First Chapter;Common;4
+25;Be Our Guest;Action;Amber;The First Chapter;Uncommon;2
+26;Control Your Temper!;Action;Amber;The First Chapter;Common;2
+27;Hakuna Matata;Action;Amber;The First Chapter;Common;2
+30;Part of Your World;Action;Amber;The First Chapter;Rare;1
+32;Dinglehopper;Item;Amber;The First Chapter;Common;3
+37;Dr. Facilier - Agent Provocateur;Character;Amethyst;The First Chapter;Rare;1
+38;Dr. Facilier - Charlatan;Character;Amethyst;The First Chapter;Common;2
+39;Dr. Facilier - Remarkable Gentleman;Character;Amethyst;The First Chapter;Rare;1
+43;Flotsam - Ursula's Spy;Character;Amethyst;The First Chapter;Rare;1
+45;Jafar - Wicked Sorcerer;Character;Amethyst;The First Chapter;Common;2
+46;Jetsam - Ursula's Spy;Character;Amethyst;The First Chapter;Common;2
+47;Magic Broom - Bucket Brigade;CharacterAmethyst;The First Chapter;Common;3
+49;Maleficent - Sorceress;Character;Amethyst;The First Chapter;Common;2
+51;Mickey Mouse - Wayward Sorcerer;Character;Amethyst;The First Chapter;Super Rare;1
+52;Olaf - Friendly Snowman;Character;Amethyst;The First Chapter;Uncommon;3
+53;Pascal - Rapunzel's Companion;Character;Amethyst;The First Chapter;Uncommon;2
+54;Rafiki - Mysterious Sage;Character;Amethyst;The First Chapter;Uncommon;3
+55;Sven - Official Ice Deliverer;Character;Amethyst;The First Chapter;Uncommon;1
+57;The Wardrobe - Belle's Confidant;Character;Amethyst;The First Chapter;Common;3
+60;Yzma - Alchemist;Character;Amethyst;The First Chapter;Common;3
+64;Friends on the Other Side;Action;Amethyst;The First Chapter;Common;3
 69;Aladdin - Prince Ali;Character;Emerald;The First Chapter;Common;2
 72;Cruella de Vil - Miserable as Usual;Character;Emerald;The First Chapter;Rare;1
 73;Duke of Weselton - Opportunistic Official;Character;Emerald;The First Chapter;Common;2
@@ -36,3 +62,4 @@
 152;Maurice - World-Famous Inventor;Character;Sapphire;The First Chapter;Rare;1
 182;Kristoff - Official Ice Master;Character;Steel;The First Chapter;Common;1
 190;Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;1
+194;Tinker Bell - Tiny Tactician;Character;Steel;The First Chapter;Common;1
