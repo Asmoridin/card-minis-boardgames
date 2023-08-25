@@ -1,87 +1,204 @@
 1;Ariel - On Human Legs;Character;Amber;The First Chapter;Uncommon;2
+2;Ariel - Spectacular Singer;Character;Amber;The First Chapter;Super Rare;0
 3;Cinderella - Gentle and Kind;Character;Amber;The First Chapter;Uncommon;3
+4;Goofy - Musketeer;Character;Amber;The First Chapter;Uncommon;1
+5;Hades - King of Olyumpus;Character;Amber;The First Chapter;Rare;0
 6;Hades - Lord of the Underworld;Character;Amber;The First Chapter;Rare;1
 7;Heihei - Boat Snack;Character;Amber;The First Chapter;Common;2
+8;Lefou - Bumbler;Character;Amber;The First Chapter;Uncommon;1
+9;Lilo - Making a Wish;Character;Amber;The First Chapter;Rare;1
+10;Maximux - Palace Horse;Character;Amber;The First Chapter;Super Rare;0
 11;Maximus - Relentless Pursuer;Character;Amber;The First Chapter;Uncommon;2
 12;Mickey Mouse - True Friend;Character;Amber;The First Chapter;Uncommon;3
-13;Minnie Mouse - Beloved Princess;Character;Amber;The First Chapter;Common;3
+13;Minnie Mouse - Beloved Princess;Character;Amber;The First Chapter;Common;4
 14;Moana - Of Motunui;Character;Amber;The First Chapter;Rare;1
+15;Mr. Smee - Loyal First Mate;Character;Amber;The First Chapter;Common;0
+16;Prince Phillip - Dragonslayer;Character;Amber;The First Chapter;Uncommon;0
+17;Pumbaa - Friendly Warthog;Character;Amber;The First Chapter;Common;0
+18;Rapunzel - Gifted with Healing;Character;Amber;The First Chapter;Legendary;0
+19;Sebastian - Court Composer;Character;Amber;The First Chapter;Common;0
+20;Simba - Protective Cub;Character;Amber;The First Chapter;Common;1
+21;Stitch - Carefree Surfer;Character;Amber;The First Chapter;Legendary;0
 22;Stitch - New Dog;Character;Amber;The First Chapter;Common;4
+23;Stitch - Rock Star;Character;Amber;The First Chapter;Super Rare;0
+24;Timon - Grub Rustler;Character;Amber;The First Chapter;Common;0
 25;Be Our Guest;Action;Amber;The First Chapter;Uncommon;2
 26;Control Your Temper!;Action;Amber;The First Chapter;Common;2
-27;Hakuna Matata;Action;Amber;The First Chapter;Common;2
+27;Hakuna Matata;Action;Amber;The First Chapter;Common;3
+28;Healing Glow;Action;Amber;The First Chapter;Common;0
+29;Just in Time;Action;Amber;The First Chapter;Rare;0
 30;Part of Your World;Action;Amber;The First Chapter;Rare;1
+31;You Have Forgotten Me;Action;Amber;The First Chapter;Uncommon;0
 32;Dinglehopper;Item;Amber;The First Chapter;Common;3
+33;Lantern;Item;Amber;The First Chapter;Rare;0
+34;Ursula's Shell Necklace;Item;Amber;The First Chapter;Rare;0
+35;Anna - Heir to Arendelle;Character;Amethyst;The First Chapter;Uncommon;0
+36;Archimedes - Highly Educated Owl;Character;Amethyst;The First Chapter;Common;1
 37;Dr. Facilier - Agent Provocateur;Character;Amethyst;The First Chapter;Rare;1
 38;Dr. Facilier - Charlatan;Character;Amethyst;The First Chapter;Common;2
 39;Dr. Facilier - Remarkable Gentleman;Character;Amethyst;The First Chapter;Rare;1
+40;Elsa - Queen Regent;Character;Amethyst;The First Chapter;Common;0
+41;Elsa - Snow Queen;Character;Amethyst;The First Chapter;Uncommon;0
+42;Elsa - Spirit of Winter;Character;Amethyst;The First Chapter;Legendary;0
 43;Flotsam - Ursula's Spy;Character;Amethyst;The First Chapter;Rare;1
+44;Jafar - Keeper of Secrets;Character;Amethyst;The First Chapter;Rare;0
 45;Jafar - Wicked Sorcerer;Character;Amethyst;The First Chapter;Common;2
-46;Jetsam - Ursula's Spy;Character;Amethyst;The First Chapter;Common;2
-47;Magic Broom - Bucket Brigade;CharacterAmethyst;The First Chapter;Common;3
+46;Jetsam - Ursula's Spy;Character;Amethyst;The First Chapter;Common;3
+47;Magic Broom - Bucket Brigade;Character;Amethyst;The First Chapter;Common;4
+48;Maleficent - Biding Her Time;Character;Amethyst;The First Chapter;Rare;0
 49;Maleficent - Sorceress;Character;Amethyst;The First Chapter;Common;2
+50;Marshmallow - Persistent Guardian;Character;Amethyst;The First Chapter;Super Rare;0
 51;Mickey Mouse - Wayward Sorcerer;Character;Amethyst;The First Chapter;Super Rare;1
 52;Olaf - Friendly Snowman;Character;Amethyst;The First Chapter;Uncommon;3
 53;Pascal - Rapunzel's Companion;Character;Amethyst;The First Chapter;Uncommon;2
 54;Rafiki - Mysterious Sage;Character;Amethyst;The First Chapter;Uncommon;3
 55;Sven - Official Ice Deliverer;Character;Amethyst;The First Chapter;Uncommon;1
+56;The Queen - Wicked and Vain;Character;Amethyst;The First Chapter;Super Rare;0
 57;The Wardrobe - Belle's Confidant;Character;Amethyst;The First Chapter;Common;3
+58;Tinker Bell - Peter Pan's Ally;Character;Amethyst;The First Chapter;Common;0
+59;Ursula - Power Hungry;Character;Amethyst;The First Chapter;Legendary;0
 60;Yzma - Alchemist;Character;Amethyst;The First Chapter;Common;3
+61;Zeus - God of Lightning;Character;Amethyst;The First Chapter;Rare;1
+62;Befuddle;Action;Amethyst;The First Chapter;Uncommon;0
+63;Freeze;Action;Amethyst;The First Chapter;Common;0
 64;Friends on the Other Side;Action;Amethyst;The First Chapter;Common;3
+65;Reflection;Action;Amethyst;The First Chapter;Uncommon;1
+66;Magic Mirror;Item;Amethyst;The First Chapter;Rare;0
+67;Ursula's Cauldron;Item;Amethyst;The First Chapter;Uncommon;0
+68;White Rabbit's Pocket Watch;Item;Amethyst;The First Chapter;Rare;0
 69;Aladdin - Prince Ali;Character;Emerald;The First Chapter;Common;2
+70;Beast - Wolfsbane;Character;Emerald;The First Chapter;Legendary;0
+71;Cheshire Cat - Not All There;Character;Emerald;The First Chapter;Uncommon;0
 72;Cruella de Vil - Miserable as Usual;Character;Emerald;The First Chapter;Rare;1
 73;Duke of Weselton - Opportunistic Official;Character;Emerald;The First Chapter;Common;2
-79;Horace - No-Good Soundrel;Character;Emerald;The First Chapter;Common;3
+74;Flynn Rider - Charming Rogue;Character;Emerald;The First Chapter;Uncommon;0
+75;Genie - On the Job;Character;Emerald;The First Chapter;Super Rare;0
+76;Genie - Powers Unleashed;Character;Emerald;The First Chapter;Rare;0
+77;Genie - The Ever Impressive;Character;Emerald;The First Chapter;Common;0
+78;Hans - Scheming Prince;Character;Emerald;The First Chapter;Rare;0
+79;Horace - No-Good Soundrel;Character;Emerald;The First Chapter;Common;4
 80;Iago - Loud-Mouthed Parrot;Character;Emerald;The First Chapter;Rare;1
-81;Jasper - Common Crook;Character;Emerald;The First Chapter;Uncommon;2
+81;Jasper - Common Crook;Character;Emerald;The First Chapter;Uncommon;4
+82;John Silver - Alien Pirate;Character;Emerald;The First Chapter;Legendary;0
+83;Jumba Jookiba - Renegade Scientist;Character;Emerald;The First Chapter;Uncommon;0
+84;Kuzco - Temperamental Emperor;Character;Emerald;The First Chapter;Rare;1
+85;Lady Tremaine - Wicked Stepmother;Character;Emerald;The First Chapter;Rare;0
 86;Mad Hatter - Gracious Host;Character;Emerald;The First Chapter;Uncommon;2
 87;Megara - Pulling the Strings;Character;Emerald;The First Chapter;Common;3
+88;Mickey Mouse - Artful Rogue;Character;Emerald;The First Chapter;Super Rare;0
 89;Mickey Mouse - Steamboat Pilot;Character;Emerald;The First Chapter;Common;3
+90;Mother Gothel - Selfish Manipulator;Character;Emerald;The First Chapter;Super Rare;0
 91;Peter Pan - Never Landing;Character;Emerald;The First Chapter;Common;2
+92;Tamatoa - Drab Little Crab;Character;Emerald;The First Chapter;Uncommon;0
+93;	Tinker Bell - Most Helpful;Character;Emerald;The First Chapter;Common;0
+94;	Do It Again!;Action;Emerald;The First Chapter;Rare;0
 95;Mother Knows Best;Action;Emerald;The First Chapter;Uncommon;3
-96;Stampede;Action;Emerald;The First Chapter;Common;2
-97;Steal From the Rich;Action;Emerald;The First Chapter;Rare;1
+96;Stampede;Action;Emerald;The First Chapter;Common;4
+97;Steal From the Rich;Action;Emerald;The First Chapter;Rare;2
 98;Sudden Chill;Action;Emerald;The First Chapter;Common;1
+99;The Beast Is Mine!;Action;Emerald;The First Chapter;Uncommon;0
 100;Vicious Betrayal;Action;Emerald;The First Chapter;Common;2
+101;Dr. Facilier's Cards;Item;Emerald;The First Chapter;Uncommon;0
 102;Stolen Scimitar;Item;Emerald;The First Chapter;Common;2
+103;Abu - Mischievous Monkey;Character;Ruby;The First Chapter;Common;0
 104;Aladdin - Heroic Outlaw;Character;Ruby;The First Chapter;Super Rare;1
-105;Aladdin - Street Rat;Character;Ruby;The First Chapter;Common;3
+105;Aladdin - Street Rat;Character;Ruby;The First Chapter;Common;4
 106;Captain - Colonel's Lieutenant;Character;Ruby;The First Chapter;Uncommon;2
+107;Captain Hook - Ruthless Pirate;Character;Ruby;The First Chapter;Rare;0
 108;Donald Duck - Boisterous Fowl;Character;Ruby;The First Chapter;Uncommon;2
+109;Elsa - Ice Surfer;Character;Ruby;The First Chapter;Common;0
+110;Gaston - Arrogant Hunter;Character;Ruby;The First Chapter;Common;2
+111;Goofy - Daredevil;Character;Ruby;The First Chapter;Common;0
 112;Lefou - Instigator;Character;Ruby;The First Chapter;Rare;1
+113;Maleficent - Monstrous Dragon;Character;Ruby;The First Chapter;Legendary;0
+114;Maui - Hero to All;Character;Ruby;The First Chapter;Rare;0
+115;Mickey Mouse - Brave Little Tailor;Character;Ruby;The First Chapter;Legendary;0
+116;Minnie Mouse - Always Classy;Character;Ruby;The First Chapter;Common;0
+117;Moana - Chosen by the Ocean;Character;Ruby;The First Chapter;Uncommon;1
+118;Mulan - Imperial Soldier;Character;Ruby;The First Chapter;Super Rare;0
+119;Peter Pan - Fearless Fighter;Character;Ruby;The First Chapter;Common;0
 120;Pongo - Ol' Rascal;Character;Ruby;The First Chapter;Common;3
 121;Rapunzel - Letting Down Her Hair;Character;Ruby;The First Chapter;Uncommon;3
 122;Scar - Fiery Usurper;Character;Ruby;The First Chapter;Common;2
+123;Scar - Shameless Firebrand;Character;Ruby;The First Chapter;Rare;0
 124;Sergeant Tibbs - Courageous Cat;Character;Ruby;The First Chapter;Common;4
 125;Stitch - Abomination;Character;Ruby;The First Chapter;Rare;1
+126;Te Kā - The Burning One;Character;Ruby;The First Chapter;Super Rare;0
+127;Tigger - Wonderful Thing;Character;Ruby;The First Chapter;Uncommon;0
+128;Be Prepared;Action;Ruby;The First Chapter;Rare;0
 129;Cut to the Chase;Action;Ruby;The First Chapter;Uncommon;1
 130;Dragon Fire;Action;Ruby;The First Chapter;Uncommon;4
+131;Fan the Flames;Action;Ruby;The First Chapter;Uncommon;0
 132;He's Got a Sword!;Action;Ruby;The First Chapter;Common;2
+133;Tangle;Action;Ruby;The First Chapter;Common;0
+134;Poisoned Apple;Item;Ruby;The First Chapter;Rare;0
 135;Shield of Virtue;Item;Ruby;The First Chapter;Uncommon;2
+136;Sword of Truth;Item;Ruby;The First Chapter;Rare;0
+137;Ariel - Whoseit Collector;Character;Sapphire;The First Chapter;Rare;1
 138;Aurora - Briar Rose;Character;Sapphire;The First Chapter;Common;3
 139;Aurora - Dreaming Guardian;Character;Sapphire;The First Chapter;Super Rare;1
-140;Aurora - Regal Princess;Character;Sapphire;The First Chapter;Uncommon;3
+140;Aurora - Regal Princess;Character;Sapphire;The First Chapter;Uncommon;4
+141;Belle - Inventive Engineer;Character;Sapphire;The First Chapter;Uncommon;0
+142;Belle - Strange but Special;Character;Sapphire;The First Chapter;Legendary;0
+143;Chief Tui - Respected Leader;Character;Sapphire;The First Chapter;Uncommon;1
 144;Donald Duck - Strutting His Stuff;Character;Sapphire;The First Chapter;Common;1
 145;Flounder - Voice of Reason;Character;Sapphire;The First Chapter;Common;2
 146;Gramma Tala - Storyteller;Character;Sapphire;The First Chapter;Uncommon;2
+147;Hades - Infernal Schemer;Character;Sapphire;The First Chapter;Legendary;0
 148;Jasmine - Disguised;Character;Sapphire;The First Chapter;Common;2
-150;Maleficent - Sinister Visitor;Character;Sapphire;The First Chapter;Common;3
+149;Jasmine - Queen of Agrabah;Character;Sapphire;The First Chapter;Rare;0
+150;Maleficent - Sinister Visitor;Character;Sapphire;The First Chapter;Common;4
 151;Maleficent - Uninvited;Character;Sapphire;The First Chapter;Rare;1
 152;Maurice - World-Famous Inventor;Character;Sapphire;The First Chapter;Rare;1
+153;Merlin - Self-Appointed Mentor;Character;Sapphire;The First Chapter;Common;0
 154;Mickey Mouse - Detective;Character;Sapphire;The First Chapter;Common;3
 155;Mufasa - King of the Pride Lands;Character;Sapphire;The First Chapter;Common;2
+156;Philoctetes - Trainer of Heroes;Character;Sapphire;The First Chapter;Common;0
+157;Robin Hood - Unrivaled Archer;Character;Sapphire;The First Chapter;Super Rare;0
 158;Scar - Mastermind;Character;Sapphire;The First Chapter;Rare;1
+159;Tamatoa - So Shiny!;Character;Sapphire;The First Chapter;Super Rare;0
+160;Triton - The Sea King;Character;Sapphire;The First Chapter;Uncommon;0
 161;Develop Your Brain;Action;Sapphire;The First Chapter;Common;3
+162;If It's Not Baroque;Action;Sapphire;The First Chapter;Rare;0
+163;Let it Go;Action;Sapphire;The First Chapter;Rare;1
 164;One Jump Ahead;Action;Sapphire;The First Chapter;Uncommon;2
+165;Work Together;Action;Sapphire;The First Chapter;Common;2
 166;Coconut Basket;Item;Sapphire;The First Chapter;Uncommon;3
+167;Eye of the Fates;Item;Sapphire;The First Chapter;Uncommon;0
+168;Fishbone Quill;Item;Sapphire;The First Chapter;Rare;0
 169;Magic Golden Flower;Item;Sapphire;The First Chapter;Common;2
+170;Scepter of Arendelle;Item;Sapphire;The First Chapter;Uncommon;0
+171;Aladdin - Cornered Swordsman;Character;Steel;The First Chapter;Common;1
 172;Beast - Hardheaded;Character;Steel;The First Chapter;Uncommon;2
+173;Captain Hook - Captain of the Jolly Roger;Character;Steel;The First Chapter;Rare;0
 174;Captain Hook - Forceful Duelist;Character;Steel;The First Chapter;Common;3
+175;Captain Hook - Thinking a Happy Thought;Character;Steel;The First Chapter;Rare;0
+176;Cerberus - Three-Headed Dog;Character;Steel;The First Chapter;Common;0
+177;Donald Duck - Musketeer;Character;Steel;The First Chapter;Uncommon;0
+178;Gantu - Galactic Federation Captain;Character;Steel;The First Chapter;Legendary;0
 179;Goons - Maleficent's Underlings;Character;Steel;The First Chapter;Common;2
-181;Hercules - True Hero;Character;Steel;The First Chapter;Common;2
+180;Hans - Thirteenth in Line;Character;Steel;The First Chapter;Super Rare;0
+181;Hercules - True Hero;Character;Steel;The First Chapter;Common;3
 182;Kristoff - Official Ice Master;Character;Steel;The First Chapter;Common;3
+183;Kronk - Right-Hand Man;Character;Steel;The First Chapter;Uncommon;0
+184;Lilo - Galactic Hero;Character;Steel;The First Chapter;Uncommon;1
 185;Maui - Demigod;Character;Steel;The First Chapter;Rare;1
+186;Mickey Mouse - Musketeer;Character;Steel;The First Chapter;Rare;0
 187;Prince Eric - Dashing and Brave;Character;Steel;The First Chapter;Common;2
+188;Simba - Future King;Character;Steel;The First Chapter;Common;0
 189;Simba - Returned King;Character;Steel;The First Chapter;Rare;1
-190;Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;2
+190;Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;3
+191;Starkey - Hook's Henchman;Character;Steel;The First Chapter;Uncommon;0
+192;Te Kā - Heartless;Character;Steel;The First Chapter;Legendary;0
+193;Tinker Bell - Giant Fairy;Character;Steel;The First Chapter;Super Rare;0
 194;Tinker Bell - Tiny Tactician;Character;Steel;The First Chapter;Common;1
+195;A Whole New World;Action;Steel;The First Chapter;Super Rare;0
+196;Break;Action;Steel;The First Chapter;Common;0
+197;Fire the Cannons!;Action;Steel;The First Chapter;Common;3
+198;Grab Your Sword;Action;Steel;The First Chapter;Rare;1
+199;Ransack;Action;Steel;The First Chapter;Uncommon;2
+200;Smash;Action;Steel;The First Chapter;Uncommon;2
+201;Beast's Mirror;Steel;The First Chapter;Common;1
+202;Frying Pan;Item;Steel;The First Chapter;Uncommon;2
+203;Musketeer Tabard;Item;Steel;The First Chapter;Rare;0
+204;Plasma Blaster;Item;Steel;The First Chapter;Rare;1
