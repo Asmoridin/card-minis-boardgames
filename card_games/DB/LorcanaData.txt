@@ -58,8 +58,30 @@
 130;Dragon Fire;Action;Ruby;The First Chapter;Uncommon;4
 132;He's Got a Sword!;Action;Ruby;The First Chapter;Common;2
 135;Shield of Virtue;Item;Ruby;The First Chapter;Uncommon;2
+138;Aurora - Briar Rose;Character;Sapphire;The First Chapter;Common;3
+139;Aurora - Dreaming Guardian;Character;Sapphire;The First Chapter;Super Rare;1
+140;Aurora - Regal Princess;Character;Sapphire;The First Chapter;Uncommon;3
 144;Donald Duck - Strutting His Stuff;Character;Sapphire;The First Chapter;Common;1
+145;Flounder - Voice of Reason;Character;Sapphire;The First Chapter;Common;2
+146;Gramma Tala - Storyteller;Character;Sapphire;The First Chapter;Uncommon;2
+148;Jasmine - Disguised;Character;Sapphire;The First Chapter;Common;2
+150;Maleficent - Sinister Visitor;Character;Sapphire;The First Chapter;Common;3
+151;Maleficent - Uninvited;Character;Sapphire;The First Chapter;Rare;1
 152;Maurice - World-Famous Inventor;Character;Sapphire;The First Chapter;Rare;1
-182;Kristoff - Official Ice Master;Character;Steel;The First Chapter;Common;1
-190;Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;1
+154;Mickey Mouse - Detective;Character;Sapphire;The First Chapter;Common;3
+155;Mufasa - King of the Pride Lands;Character;Sapphire;The First Chapter;Common;2
+158;Scar - Mastermind;Character;Sapphire;The First Chapter;Rare;1
+161;Develop Your Brain;Action;Sapphire;The First Chapter;Common;3
+164;One Jump Ahead;Action;Sapphire;The First Chapter;Uncommon;2
+166;Coconut Basket;Item;Sapphire;The First Chapter;Uncommon;3
+169;Magic Golden Flower;Item;Sapphire;The First Chapter;Common;2
+172;Beast - Hardheaded;Character;Steel;The First Chapter;Uncommon;2
+174;Captain Hook - Forceful Duelist;Character;Steel;The First Chapter;Common;3
+179;Goons - Maleficent's Underlings;Character;Steel;The First Chapter;Common;2
+181;Hercules - True Hero;Character;Steel;The First Chapter;Common;2
+182;Kristoff - Official Ice Master;Character;Steel;The First Chapter;Common;3
+185;Maui - Demigod;Character;Steel;The First Chapter;Rare;1
+187;Prince Eric - Dashing and Brave;Character;Steel;The First Chapter;Common;2
+189;Simba - Returned King;Character;Steel;The First Chapter;Rare;1
+190;Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;2
 194;Tinker Bell - Tiny Tactician;Character;Steel;The First Chapter;Common;1
