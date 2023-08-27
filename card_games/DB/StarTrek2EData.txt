@@ -2111,7 +2111,7 @@ Natima Lang, Professor of Political Ethics;U;Personnel;Cardassian;Energize;Print
 Natural Instincts;U/VP;Interrupt;;Necessary Evil/Virtual Promo;Both;3;0
 Nausicaan Pirates;C;Dilemma;;Energize;Print;3;3
 Nava;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Navaar, Experienced Gift;C.VP;Personnel;Non-Aligned;What You Leave Behind/Virtual Promo;Both;3;0
+Navaar, Experienced Gift;C/VP;Personnel;Non-Aligned;What You Leave Behind/Virtual Promo;Both;3;0
 Navigate Argolis Cluster;U;Mission;;These Are The Voyages;Print;2;0
 Navigate Minefield;U;Mission;;To Boldly Go;Print;2;0
 Navigate Xindi Corridor;U;Mission;;What You Leave Behind;Print;2;0
@@ -2272,20 +2272,16 @@ Oq'nab, Academy Commandant;V;Personnel;Federation;Balance of Terror;Virtual;3;0
 Oran, Irritable Gul;U;Personnel;Cardassian;These Are The Voyages;Print;3;0
 Orb Transport Vessel;V;Ship;Bajoran;Return to Grace;Virtual;3;0
 Orb of Contemplation;V;Equipment;;Return to Grace;Virtual;3;0
-Orb of Prophecy and Change;V;Equipment;;Return to Grace;Virtual;3;0
-Orb of Prophecy and Change;VP;Equipment;;Virtual Promo;Virtual;3;0
+Orb of Prophecy and Change;V/VP;Equipment;;Return to Grace/Virtual Promo;Virtual;3;0
 Orb of Time;V;Equipment;;Return to Grace;Virtual;3;0
-Orb of the Emissary;V;Equipment;;Second Skin;Virtual;3;0
-Orb of the Emissary;V;Equipment;;The Menagerie;Virtual;3;0
+Orb of the Emissary;V;Equipment;;Second Skin/The Menagerie;Virtual;3;0
 Orbital Weapon Platform;V;Event;;Sacrifice of Angels;Virtual;3;0
 Orchestrated Attack;V;Event;;Zero Hour;Virtual;3;0
 Order of the Bat'leth;U;Event;;Second Edition;Print;3;0
 Orfil Quinteros;U;Personnel;Federation;These Are The Voyages;Print;3;0
-Organia, Secure Strategic Base;U;Mission;;These Are The Voyages;Print;2;0
-Organia, Secure Strategic Base;VP;Mission;;Virtual Promo;Virtual;3;0
+Organia, Secure Strategic Base;U/VP;Mission;;These Are The Voyages/Virtual Promo;Both;2;0
 Organized Crime;V;Event;;Unnatural Selection;Virtual;3;0
-Organized Terrorist Activities;R;Event;;Necessary Evil;Print;3;0
-Organized Terrorist Activities;VP;Event;;Virtual Promo;Virtual;3;0
+Organized Terrorist Activities;R/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
 Orion Interceptor;V;Ship;Non-Aligned;Raise the Stakes;Virtual;3;0
 Orlitus Cluster, Astronomical Survey;V;Mission;;Lower Decks;Virtual;2;0
 Ornaran Threat;C;Dilemma;;Second Edition;Print;3;3
@@ -2302,8 +2298,7 @@ Outmatched;C;Dilemma;;Strange New Worlds;Print;3;0 // Get new errata
 Overburdened;V;Dilemma;;Matter of Time;Virtual;3;0
 Overindulgence;V;Dilemma;;Shattered Mirror;Virtual;3;3
 Overrun;V;Event;;Lower Decks;Virtual;3;0
-Overwhelmed;R;Dilemma;;Call to Arms;Print;3;0
-Overwhelmed;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Overwhelmed;R/VP;Dilemma;;Call to Arms/Virtual Promo;Both;3;0
 Pa'rena;V;Personnel;Dominion;Heroes and Demons;Virtual;3;0
 Pacify Warring Factions;U;Mission;;Call to Arms;Print;2;0
 Paenol, Resistance Soldier;V;Personnel;Bajoran;Unity;Virtual;3;0

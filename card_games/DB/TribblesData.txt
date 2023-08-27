@@ -78,41 +78,34 @@
 100 Tribbles - Laughter (Errata);Tribble;A Tribble of a Different Color;20;0
 100 Tribbles - Party;Tribble;Star Trek 50;20;0
 100 Tribbles - Poison;Tribble;Trials and Tribble-ations/Tribbles;20;1 // all from Tribbles
-100 Tribbles - Qapla';Tribble;Big Tribble in Little Qo'noS;20;0
-100 Tribbles - Qapla';Tribble;Virtual Promos;20;0
+100 Tribbles - Qapla';Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;0
 100 Tribbles - Recycle & Reverse;Tribble;No Tribble at All;20;0
 100 Tribbles - Replicate;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;1 // all from BTiLQ
 100 Tribbles - Rescue;Tribble;Trials and Tribble-ations/Tribbles/Virtual Promos;20;5 // 5 from Tribbles
-100 Tribbles - Reverse;Tribble;Tribbles;20;0
-100 Tribbles - Reverse;Tribble;Virtual Promos;20;0
+100 Tribbles - Reverse;Tribble;Tribbles/Virtual Promos;20;0
 100 Tribbles - Rival;Tribble;Tribbles Royale;20;0
 100 Tribbles - Scan;Tribble;Nothing But Tribble;20;0
-100 Tribbles - Score;Tribble;More Tribbles, More Troubles;20;0
-100 Tribbles - Score;Tribble;Virtual Promos;20;0
+100 Tribbles - Score;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
 100 Tribbles - Stampede;Tribble;Trials and Tribble-ations;20;2
 100 Tribbles - Time Warp;Tribble;Star Trek 50;20;0
 100 Tribbles - Utilize;Tribble;Nothing But Tribble/Virtual Promos;20;12 // 12 from NBT
 1,000 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;0
-1,000 Tribbles - Cheat;Tribble;Star Trek 50;20;0
-1,000 Tribbles - Cheat;Tribble;Virtual Promos;20;0
+1,000 Tribbles - Cheat;Tribble;Star Trek 50/Virtual Promos;20;0
 1,000 Tribbles - Cycle;Tribble;Big Tribble in Little Qo'noS;20;0
 1,000 Tribbles - Dabo;Tribble;Star Trek 50;20;0
 1,000 Tribbles - Discard;Tribble;Tribbles/Trials and Tribble-ations;20;6 // 6 from Tribbles
 1,000 Tribbles - Exchange;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
-1,000 Tribbles - Famine;Tribble;Trials and Tribble-ations;20;0
-1,000 Tribbles - Famine;Tribble;Virtual Promos;20;0
+1,000 Tribbles - Famine;Tribble;Trials and Tribble-ations/Virtual Promos;20;0
 1,000 Tribbles - Freeze;Tribble;No Tribble at All/Virtual Promos;20;0
 1,000 Tribbles - IDIC;Tribble;A Tribble of a Different Color;20;0
 1,000 Tribbles - Magic;Tribble;A Tribble of a Different Color;20;0
 1,000 Tribbles - Masaka;Tribble;Nothing But Tribble;20;3
-1,000 Tribbles - Process;Tribble;No Tribble at All;20;0
-1,000 Tribbles - Process;Tribble;Virtual Promos;20;0
+1,000 Tribbles - Process;Tribble;No Tribble at All/Virtual Promos;20;0
 1,000 Tribbles - Qapla';Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;5 // All from BTiLQ
 1,000 Tribbles - Recycle;Tribble;More Tribbles, More Troubles;20;4
 1,000 Tribbles - Rescue;Tribble;Trials and Tribble-ations/Tribbles;20;6 // 6 from Tribbles
 1,000 Tribbles - Reveal;Tribble;A Tribble of a Different Color;20;0
-1,000 Tribbles - Reverse;Tribble;Nothing But Tribble;20;0
-1,000 Tribbles - Reverse;Tribble;Tribbles;20;0
+1,000 Tribbles - Reverse;Tribble;/TribblesNothing But Tribble;20;0
 1,000 Tribbles - Roll;Tribble;Tribbles Royale;20;0
 1,000 Tribbles - Sabotage (Errata);Tribble;Big Tribble in Little Qo'noS;20;0
 1,000 Tribbles - Sabotage;Tribble;Virtual Promos;20;0

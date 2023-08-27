@@ -64,4 +64,14 @@ card_qty_sorter = []
 for card_qty in card_qty_map:
     card_qty_sorter.append((card_qty, card_qty_map[card_qty][1]/card_qty_map[card_qty][0], card_qty_map[card_qty][0] - card_qty_map[card_qty][1]))
 card_qty_sorter = sorted(card_qty_sorter, key=lambda x:(x[1], -x[2], x[0]))
-print(card_qty_sorter)
+lowest_card_power = card_power_sorter[0][0]
+lowest_card_qty = card_qty_sorter[0][0]
+
+if __name__ == "__main__":
+    if os.getcwd().endswith('card-minis-boardgames'):
+        out_file_h = open("card_games/output/TribblesOut.txt", 'w')
+    else:
+        out_file_h = open("output/TribblesOut.txt", 'w')
+    
+    double_print("Have %d out of %d Tribbles cards - %.2f percent" % (total_own, total_max, 100*total_own / total_max), out_file_h)
+    double_print("Next purchase sould be %s - %s, where I have %.2f percent" % (lowest_card_qty, lowest_card_power, card_qty_sorter[0][1] * 100), out_file_h)
