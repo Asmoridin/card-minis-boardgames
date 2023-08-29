@@ -39,3 +39,5 @@ First of Many Starts Here... At Alencon;Germany;France;8/12/1944;;Western;1,2;7;
 Mont Ormel Ridge;Germany;Poland;8/19/1944;;Western;3,4;10;Compendium 1
 St. Lambert-sur-Dives;Germany;Canada;8/19/1944;;Western;2,3;12;Compendium 1
 Chambois;Germany;Poland, USA;8/19/1944;;Western;2;4;Compendium 1
+Drive to Stolberg;Germany;USA;9/13/1944;Near Stolberg, Germany;Western;3;8;Compendium 1
+You Shall Not Pass;Germany;France;9/15/1944;Near Dompaire, France;Western;3;9;Compendium 1
