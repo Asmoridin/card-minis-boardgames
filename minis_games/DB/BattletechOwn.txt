@@ -413,3 +413,22 @@ Bombardier BMB-14C;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Bombardier;Mi
 Bombardier BMB-14K;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Bombardier;Missile Boat;3050;0
 
 Boomerang Spotter Plane;Inner Sphere;Conventional Fighter;Early Succession War (2781 - 2900);Boomerang;Attack;3039;0
+
+Panther PNT-10K;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Panther PNT-10KA;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Panther PNT-12A;Inner Sphere;Light Mech;Civil War (3062 - 3067);Panther;Brawler;3050;0
+Panther PNT-14S;Inner Sphere;Light Mech;Jihad (3068 - 3080);Panther;Scout;3050;0
+Panther PNT-16K;Inner Sphere;Light Mech;Jihad (3068 - 3080);Panther;Brawler;3050;0
+Panther PNT-8Z;Inner Sphere;Light Mech;Star League (2571 - 2780);Panther;Brawler;3039;0
+Panther PNT-9R;Inner Sphere;Light Mech;Star League (2571 - 2780);Panther;Brawler;3039;1
+Panther PNT-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+Panther PNT-CA;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Panther;Brawler;3050;0
+
+Brutus Assault Tank (LRM);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Missile Boat;3059;0
+Brutus Assault Tank (PPC 2);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3059;0
+Brutus Assault Tank (PPC);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3059;0
+Brutus Assault Tank;Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3059;0
+
+Bulldog Medium Tank (AC2);Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Bulldog;Brawler;3039;0
+Bulldog Medium Tank (LRM);Inner Sphere;Heavy Vehicle;Early Succession War (2781 - 2900);Bulldog;Missile Boat;3039;0
+Bulldog Medium Tank;Inner Sphere;Heavy Vehicle;Star League (2571 - 2780);Bulldog;Brawler;3039;0
