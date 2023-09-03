@@ -1,0 +1,159 @@
+Invalid source doc: 3059
+Relevant line: Alacorn Mk III Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Alacorn Mk IV Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Alacorn Mk VI Heavy Tank;Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Alacorn;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Alacorn Mk VII Heavy Tank;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Alacorn;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-O;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OA;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OB;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OC;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OD;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OE;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Avatar;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OF;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Avatar;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OG;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OH;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Avatar;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OI;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Avatar;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Avatar AV1-OR;Mixed;Heavy Mech;Clan Invasion (3050 - 3061);Avatar;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Axel IIC Tank (XL);Clan;Heavy Vehicle;Jihad (3068 - 3080);Patton/Rommel;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Axel IIC Tank;Clan;Heavy Vehicle;Jihad (3068 - 3080);Patton/Rommel;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra A;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra B;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20A;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20B;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20C;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Scout;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20D;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20E;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra BTL-C-20F;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra C;Clan;Medium Mech;Civil War (3062 - 3067);Battle Cobra;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra F;Clan;Medium Mech;Clan Invasion (3050 - 3061);Battle Cobra;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Battle Cobra;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra Prime;Clan;Medium Mech;Early Succession War (2781 - 2900);Battle Cobra;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Battle Cobra X;Clan;Medium Mech;Jihad (3068 - 3080);Battle Cobra;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner A;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner B;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner D;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner E;Clan;Medium Mech;Civil War (3062 - 3067);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner Prime;Clan;Medium Mech;Clan Invasion (3050 - 3061);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Black Lanner X;Clan;Medium Mech;Jihad (3068 - 3080);Black Lanner;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0A;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0B;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0C;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0E;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0F;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0R;Mixed;Medium Mech;Clan Invasion (3050 - 3061);Blackjack 2;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Blackjack BJ2-0X;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Blackjack 2;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Brutus Assault Tank (LRM);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Brutus Assault Tank (PPC 2);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Brutus Assault Tank (PPC);Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Brutus Assault Tank;Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Brutus;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Bushwacker BSW-L1;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Bushwacker;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Bushwacker BSW-S2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Bushwacker;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Bushwacker BSW-X1;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Bushwacker;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Bushwacker BSW-X2;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Bushwacker;Skirmisher;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) A;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) B;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) D;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) F;Clan;Medium Mech;Jihad (3068 - 3080);Grendel;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) H;Clan;Medium Mech;Civil War (3062 - 3067);Grendel;Striker;3059;0
+Invalid source doc: 3059
+Relevant line: Grendel (Mongrel) Prime;Clan;Medium Mech;Clan Invasion (3050 - 3061);Grendel;Striker;3059;1
+Invalid source doc: 3059
+Relevant line: Hunchback IIC 2;Clan;Medium Mech;Clan Invasion (3050 - 3061);Hunchback II;Ambusher;3059;0
+Invalid source doc: 3059
+Relevant line: Hunchback IIC 3;Clan;Medium Mech;Civil War (3062 - 3067);Hunchback II;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Hunchback IIC;Clan;Medium Mech;Early Succession War (2781 - 2900);Hunchback II;Ambusher;3059;1
+Invalid source doc: 3059
+Relevant line: LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3059;0
+Invalid source doc: 3059
+Relevant line: MRM Carrier;Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
+Invalid source doc: 3059
+Relevant line: Patton Tank (Ultra);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Patton/Rommel;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: Rommel Tank (Gauss);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Patton/Rommel;Brawler;3059;0
+Invalid source doc: 3059
+Relevant line: SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Ambusher;3059;0
+Invalid source doc: 3059
+Relevant line: SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
+Invalid source doc: 3059
+Relevant line: SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
+Invalid source doc: 3059
+Relevant line: Supernova 2;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Supernova 3;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Sniper;3059;0
+Invalid source doc: 3059
+Relevant line: Supernova 4;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3059;0
+Invalid source doc: 3059
+Relevant line: Supernova;Clan;Assault Mech;Early Succession War (2781 - 2900);Supernova;Sniper;3059;1
+I own 34 out of 482 - 7.05 percent

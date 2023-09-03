@@ -423,7 +423,7 @@ Puma (Adder) H;Clan;Light Mech;Clan Invasion (3050 - 3061);Puma;Brawler;3050;0
 Puma (Adder) J;Clan;Light Mech;Jihad (3068 - 3080);Puma;Sniper;3050;0
 Puma (Adder) Prime;Clan;Light Mech;Late Succession War - LosTech (2901 - 3019);Puma;Sniper;3050;1
 Rommel Tank (Gauss);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Patton/Rommel;Brawler;3059;0
-Rommel Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Juggernaut;3039;0
+Rommel Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Patton/Rommel;Juggernaut;3039;0
 SRM Carrier (3054 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Ambusher;3059;0
 SRM Carrier (C3);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Ambusher;3059;0
 SRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Missile Carrier;Ambusher;3059;0
