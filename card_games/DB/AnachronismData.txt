@@ -316,6 +316,7 @@ Federico da Montefeltro;Italian;Set 9;1;0
 Fernando II de Aragon;Spanish;Set 5;1;0
 Fervor Religioso;Spanish;Set 5;1;0
 Finn MacCumhaill;Irish;Set 4;1;1
+Fiore Dei Liberi;Italian;Promo;1;0 // have okay printed version
 First Triumvirate;Roman;Set 8;1;0
 Flavius Belasarius;Byzantine;Set 10;1;0 // have okay printed version
 Flies of Honor;Egyptian;Set 10;1;0 // have okay printed version
@@ -691,6 +692,7 @@ Nemere;Mongol;Set 2;1;0
 Nemesis;Greek;Set 1;1;1
 Neptune;UNKNOWN;Promo;1;0
 Neyze-ye Darrande;Persian;Set 4;1;0
+Niccolo Machiavelli;Italian;Promo;1;0 // have okay printed version
 Ninja-to;Japanese;Set 1;1;0
 Ninja;Japanese;Set 1;1;0
 Nobunaga;Japanese;Promo;1;0
