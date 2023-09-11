@@ -43,3 +43,5 @@ Drive to Stolberg;Germany;USA;9/13/1944;Near Stolberg, Germany;Western;3;8;Compe
 You Shall Not Pass;Germany;France;9/15/1944;Near Dompaire, France;Western;3;9;Compendium 1
 Come As You Are;Germany;USA;9/17/1944;Market Garden Day 1;Western;2,3;12;Compendium 1
 Groesbeek Heights;Germany;USA;9/18/1944;Market Garden Day 1;Western;1,3;8;Compendium 1
+Attack Countered;Germany;USA;12/19/1944;Noville;Western;16,18;7;Compendium 1
+Dancing at Dawn;Germany;USA;12/20/1944;Noville;Western;16,18;7;Compendium 1
