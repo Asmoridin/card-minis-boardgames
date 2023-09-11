@@ -32,7 +32,7 @@ def getMetaType(in_type):
         return("Mech")
     elif in_type in ['Light Battle Armor', 'Medium Battle Armor', ]:
         return ("Battle Armor")
-    elif in_type in ['Light Aerospace', 'Heavy Aerospace']:
+    elif in_type in ['Light Aerospace', 'Heavy Aerospace', 'Conventional Fighter']:
         return("Aerospace")
     else:
         print("Unknown meta tpe: " + in_type)
