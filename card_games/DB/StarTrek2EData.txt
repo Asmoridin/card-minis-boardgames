@@ -2073,9 +2073,7 @@ Morta;V;Personnel;Ferengi;Heroes and Demons;Virtual;3;0
 Mortal Q, Student of the Humanities;V;Personnel;Non-Aligned;Shore Leave;Virtual;3;0
 Mortimer Harren, Reclusive Genius;V;Personnel;Federation;Lower Decks;Virtual;3;0
 Mot, The Barber;C;Personnel;Federation;What You Leave Behind;Print;3;0
-Mouth of the Wormhole, Deep Space 9;S;Mission;;Second Edition;Print;2;0
-Mouth of the Wormhole, Deep Space 9;V;Mission;;Move Along Home;Virtual;1;0
-Mouth of the Wormhole, Deep Space 9;VP;Mission;;Virtual Promo;Virtual;3;0
+Mouth of the Wormhole, Deep Space 9;S/V/VP;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;3;0
 Mouth of the Wormhole, Terok Nor;U/V;Mission;;Call to Arms/Move Along Home;Both;2;0
 Mouthpiece;V;Event;;Matter of Time;Virtual;3;0
 Movar, Political General;S;Personnel;Romulan;Second Edition;Print;3;0
@@ -2118,8 +2116,7 @@ Navigate Xindi Corridor;U;Mission;;What You Leave Behind;Print;2;0
 Navok;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Near Polaris, Survey New World;U;Mission;;To Boldly Go;Print;2;0
 Necessary Evil;R;Event;;In a Mirror Darkly;Print;3;0
-Necessary Execution;C;Dilemma;;Captain's Log;Print;3;0
-Necessary Execution;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Necessary Execution;C/VP;Dilemma;;Captain's Log/Virtual Promo;Both;3;0
 Neela, Misguided Activist;V;Personnel;Bajoran;This Side of Paradise;Virtual;3;0
 Neelix, "Fearless Warrior";V/VP;Personnel;Klingon;Caretaker/Virtual Promo;Virtual;3;0
 Neelix, Culinary Usurper;V;Personnel;Federation;Shore Leave;Virtual;3;0
