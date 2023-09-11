@@ -464,3 +464,27 @@ Supernova 4;Clan;Assault Mech;Civil War (3062 - 3067);Supernova;Juggernaut;3058;
 Supernova;Clan;Assault Mech;Early Succession War (2781 - 2900);Supernova;Sniper;3058;1
 Sylph Battle Armor (Upgrade);Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
 Sylph Battle Armor;Clan;Light Battle Armor;Clan Invasion (3050 - 3061);Sylph;Scout;3058;0
+
+Seydlitz SYD-21;Inner Sphere;Light Aerospace;Age of War (2005 - 2570);Seydlitz;Interceptor;3039;1
+Seydlitz SYD-Z1;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z2;Inner Sphere;Light Aerospace;Star League (2571 - 2780);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z2A;Inner Sphere;Light Aerospace;Clan Invasion (3050 - 3061);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z2B;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z3;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z3A;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
+Seydlitz SYD-Z4;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
+
+Cavalier (Flamer);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalier (Laser);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalier (MG);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+Cavalier (SRM);Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Cavalier;Ambusher;3058;0
+
+Cavalry Attack Helicopter (Infantry);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Cavalry;Striker;3058;0
+Cavalry Attack Helicopter (LRM);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Missile Boat;3058;0
+Cavalry Attack Helicopter (SRM);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Striker;3058;0
+Cavalry Attack Helicopter (TAG);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Missile Boat;3058;0
+Cavalry Attack Helicopter;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Cavalry;Striker;3058;0
+
+Centipede Scout Car (SRM);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Centipede;Scout;3058;0
+Centipede Scout Car (TAG);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Centipede;Scout;3058;0
+Centipede Scout Car;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Centipede;Scout;3058;0
