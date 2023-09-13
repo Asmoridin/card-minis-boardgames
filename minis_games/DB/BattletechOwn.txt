@@ -488,3 +488,32 @@ Cavalry Attack Helicopter;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061)
 Centipede Scout Car (SRM);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Centipede;Scout;3058;0
 Centipede Scout Car (TAG);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Centipede;Scout;3058;0
 Centipede Scout Car;Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Centipede;Scout;3058;0
+
+
+Spider SDR-5D;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
+Spider SDR-5K:Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
+Spider SDR-5V;Inner Sphere;Light Mech;Star League (2571 - 2780);Spider;Scout;3039;1
+Spider SDR-7K2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Spider;Scout;3050;0
+Spider SDR-7K;Inner Sphere;Light Mech;Civil War (3062 - 3067);Spider;Striker;3050;0
+Spider SDR-7KC;Inner Sphere;Light Mech;Jihad (3068 - 3080);Spider;Scout;3050;0
+Spider SDR-7M;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Spider;Striker;3050;0
+Spider SDR-8M;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Spider;Striker;3050;0
+Spider SDR-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Spider;Striker;3050;0
+
+
+Centurion CN10-B;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Brawler;3050;0
+Centurion CN9-A;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Centurion;Brawler;3039;0
+Centurion CN9-AL;Inner Sphere;Medium Mech;Late Succession War - LosTech (2901 - 3019);Centurion;Brawler;3039;0
+Centurion CN9-D3;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Centurion CN9-D3D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Centurion CN9-D4D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Centurion;Skirmisher;3050;0
+Centurion CN9-D5;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Centurion;Skirmisher;3050;0
+Centurion CN9-D9;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Centurion;Skirmisher;3050;0
+Centurion CN9-D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+Centurion CN9-YLW "Yen Lo Wang";Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Centurion;Juggernaut;3039;0
+Centurion CN9-YLW2 "Yen Lo Wang";Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Centurion;Skirmisher;3050;0
+
+Cestus CTS-6X;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Cestus;Brawler;3058;0
+Cestus CTS-6Y;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Cestus;Brawler;3058;0
+Cestus CTS-6Z;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Cestus;Brawler;3058;0
+Cestus CTS-7A;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Cestus;Brawler;3058;0
