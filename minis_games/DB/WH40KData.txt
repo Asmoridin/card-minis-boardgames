@@ -1,47 +1,47 @@
-Barbgaunts;Tyranids;Infantry, Great Devourer, Barbgaunts;110;.5 // have 5, max unit is 10
-Biovores;Tyranids;Infantry, Great Devourer, Biovores;135;0
+Barbgaunts;Tyranids;Infantry, Great Devourer, Barbgaunts;120;.5 // have 5, max unit is 10
+Biovores;Tyranids;Infantry, Great Devourer, Biovores;225;0
 Broodlord;Tyranids;Infantry, Character, Psyker, Great Devourer, Vanguard Invader, Broodlord;90;0
 Carnifexes;Tyranids;Monster, Great Devourer, Carnifexes;250;0
-Deathleaper;Tyranids;Infantry, Character, Epic Hero, Great Devourer, Vanguard Invader, Deathleaper;75;0
-Exocrine;Tyranids;Monster, Great Devourer, Exocrine;125;0
-Gargoyles;Tyranids;Infantry, Battleline, Fly, Great Devourer, Endless Multitude, Vanguard Invader, Gargoyles;140;0
-Genestealers;Tyranids;Infantry, Great Devourer, Vanguard Invader, Genestealers;190;0
-Harpy;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Harpy;165;0
-Haruspex;Tyranids;Monster, Great Devourer, Harvester, Haruspex;120;0
-Hive Crone;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Hive Crone;195;0
-Hive Guard;Tyranids;Infantry, Great Devourer, Hive Guard;190;0
-Hive Tyrant;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Hive Tyrant;215;0
-Hormagaunts;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts;140;0
-Lictor;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Lictor;70;0
-Maleceptor;Tyranids;Monster, Psyker, Great Devourer, Synapse, Maleceptor;160;0
-Mawloc;Tyranids;Monster, Great Devourer, Mawloc;135;0
-Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;80;0
+Deathleaper;Tyranids;Infantry, Character, Epic Hero, Great Devourer, Vanguard Invader, Deathleaper;70;0
+Exocrine;Tyranids;Monster, Great Devourer, Exocrine;135;0
+Gargoyles;Tyranids;Infantry, Battleline, Fly, Great Devourer, Endless Multitude, Vanguard Invader, Gargoyles;150;0
+Genestealers;Tyranids;Infantry, Great Devourer, Vanguard Invader, Genestealers;170;0
+Harpy;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Harpy;215;0
+Haruspex;Tyranids;Monster, Great Devourer, Harvester, Haruspex;125;0
+Hive Crone;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Hive Crone;200;0
+Hive Guard;Tyranids;Infantry, Great Devourer, Hive Guard;220;0
+Hive Tyrant;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Hive Tyrant;235;0
+Hormagaunts;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts;130;0
+Lictor;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Lictor;60;0
+Maleceptor;Tyranids;Monster, Psyker, Great Devourer, Synapse, Maleceptor;170;0
+Mawloc;Tyranids;Monster, Great Devourer, Mawloc;145;0
+Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
-Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;60;0
-Neurotyrant;Tyranids;Monster, Character, Fly, Psyker, Great Devourer, Synapse, Neurotyrant;95;1
-Norn Assimilator;Tyranids;Monster, Great Devourer, Synapse, Norn Assimilator;305;0
-Norn Emissary;Tyranids;Monster, Psyker, Great Devourer, Synapse, Norn Emissary;385;0
+Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;65;0
+Neurotyrant;Tyranids;Monster, Character, Fly, Psyker, Great Devourer, Synapse, Neurotyrant;105;1
+Norn Assimilator;Tyranids;Monster, Great Devourer, Synapse, Norn Assimilator;310;0
+Norn Emissary;Tyranids;Monster, Psyker, Great Devourer, Synapse, Norn Emissary;290;0
 Old One Eye;Tyranids;Monster, Character, Epic Hero, Great Devourer, Old One Eye;140;0
-Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader;Parasite of Mortrex;75;0
+Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader;Parasite of Mortrex;80;0
 Psycophage;Tyranids;Monster, Great Devourer, Harvester, Psychopage;125;1
 Pyrovores;Tyranids;Infantry, Great Devourer, Harvester, Pyrovores;90;0
 Raveners;Tyranids;Infantry, Great Devourer, Raveners;150;0
-Ripper Swarms;Tyranids;Swarm, Great Devourer, Harvester, Ripper Swarms;45;2/3 // have 2, max size is 3
-Screamer-Killer;Tyranids;Monster, Great Devourer, Screamer-Killer;175;1
-Spore Mines;Tyranids;Beast, Fly, Great Devourer, Spore Mines;90;0
-Sporocyst;Tyranids;Monster, Great Devourer, Sporocyst;125;0
+Ripper Swarms;Tyranids;Swarm, Great Devourer, Harvester, Ripper Swarms;60;2/3 // have 2, max size is 3
+Screamer-Killer;Tyranids;Monster, Great Devourer, Screamer-Killer;170;1
+Spore Mines;Tyranids;Beast, Fly, Great Devourer, Spore Mines;110;0
+Sporocyst;Tyranids;Monster, Great Devourer, Sporocyst;145;0
 Termagants;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Termagants;120;1
 Tervigon;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Tervigon;190;0
-The Swarmlord;Tyranids;Monster, Character, Epic Hero, Psyker, Great Devourer, Synapse, Hive Tyrant, The Swarmlord;250;0
-Toxicrene;Tyranids;Monster, Great Devourer, Toxicrene;200;0
-Trygon;Tyranids;Monster, Great Devourer, Trygon;170;0
-Tyranid Warriors with Melee Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Melee Bio-Weapons;190;0
+The Swarmlord;Tyranids;Monster, Character, Epic Hero, Psyker, Great Devourer, Synapse, Hive Tyrant, The Swarmlord;270;0
+Toxicrene;Tyranids;Monster, Great Devourer, Toxicrene;180;0
+Trygon;Tyranids;Monster, Great Devourer, Trygon;180;0
+Tyranid Warriors with Melee Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Melee Bio-Weapons;170;0
 Tyranid Warriors with Ranged Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Ranged Bio-Weapons;140;0
-Tyrannocyte;Tyranids;Monster, Fly, Transport, Dedicated Transport, Great Devourer, Vanguard Invader, Tyrannocyte;95;0
-Tyrannofex;Tyranids;Monster, Great Devourer, Tyrannofex;190;0
+Tyrannocyte;Tyranids;Monster, Fly, Transport, Dedicated Transport, Great Devourer, Vanguard Invader, Tyrannocyte;105;0
+Tyrannofex;Tyranids;Monster, Great Devourer, Tyrannofex;245;0
 Tyrant Guard;Tyranids;Infantry, Great Devourer, Tyrant Guard;190;0
 Venomthropes;Tyranids;Infantry, Fly, Great Devourer, Venomthropes;140;0
-Von Ryan's Leapers;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Von Ryan's Leapers;140;.5 // have 3, max unit size is 6
-Winged Hive Tyrant;Tyranids;Monster, Character, Psyker, Fly, Great Devourer, Synapse, Vanguard Invader, Hive Tyrant, Winged Hive Tyrant;190;0
+Von Ryan's Leapers;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Von Ryan's Leapers;150;.5 // have 3, max unit size is 6
+Winged Hive Tyrant;Tyranids;Monster, Character, Psyker, Fly, Great Devourer, Synapse, Vanguard Invader, Hive Tyrant, Winged Hive Tyrant;210;0
 Winged Tyranid Prime;Tyranids;Infantry, Character, Fly, Great Devourer, Synapse, Vanguard Invader, Winged Tyranid Prime;65;1
-Zoanthropes;Tyranids;Infantry, Psyker, Fly, Great Devourer, Synapse, Zoanthropes;180;0
+Zoanthropes;Tyranids;Infantry, Psyker, Fly, Great Devourer, Synapse, Zoanthropes;220;0
