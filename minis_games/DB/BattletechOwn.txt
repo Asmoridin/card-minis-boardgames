@@ -521,7 +521,7 @@ Seydlitz SYD-Z3;Inner Sphere;Light Aerospace;Early Succession War (2781 - 2900);
 Seydlitz SYD-Z3A;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
 Seydlitz SYD-Z4;Inner Sphere;Light Aerospace;Civil War (3062 - 3067);Seydlitz;Interceptor;3039;0
 Spider SDR-5D;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
-Spider SDR-5K:Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
+Spider SDR-5K;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Spider;Scout;3039;0
 Spider SDR-5V;Inner Sphere;Light Mech;Star League (2571 - 2780);Spider;Scout;3039;1
 Spider SDR-7K2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Spider;Scout;3050;0
 Spider SDR-7K;Inner Sphere;Light Mech;Civil War (3062 - 3067);Spider;Striker;3050;0
@@ -589,6 +589,6 @@ Zeus ZEU-6S;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Zeus;Sn
 Zeus ZEU-6T;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Zeus;Sniper;3039;0
 Zeus ZEU-9S-DC;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
 Zeus ZEU-9S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
-Zeus ZEU-9S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061)Zeus;Sniper;3050;0
+Zeus ZEU-9S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
 Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;0
 Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
