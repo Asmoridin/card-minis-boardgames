@@ -1,4 +1,3 @@
-1066, Tears to Many Mothers: The Battle of Hastings Card Game
 1565: St. Elmo's Pay – The Great Siege of Malta
 1805: Sea of Glory
 1815, Scum of the Earth: The Battle of Waterloo Card Game
@@ -88,6 +87,7 @@ Codeword: Barbarossa (Four Roads to Moscow)
 Combat Commander: Pacific
 Combat Veteran
 Combined Arms: The World War II Campaign Game
+Commands and Colors: Ancients
 Confederate Rails: Railroading in the American Civil War 1861-1865
 Counter-Attack! Arras
 Crowbar! The Rangers at Pointe Du Hoc
@@ -130,6 +130,7 @@ Fire on the Mountain: Battle of South Mountain September 14, 1862
 First Battle of Britain: The Air War Over England, 1917-18
 First Blood: Second Marne, 15 July 1918
 Flesh and Blood
+Flying Colors
 For Bloody Honor: The Russian Civil War
 For the People
 Forged Realms
