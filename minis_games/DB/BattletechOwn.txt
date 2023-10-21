@@ -634,7 +634,7 @@ Cyrano Gunship (Plasma);Inner Sphere;Light Vehicle;Jihad (3068 - 3080);Cyrano Gu
 Cyrano Gunship;Inner Sphere;Light Vehicle;Star League (2571 - 2780);Cyrano Gunship;Scout;3050;0
 
 
-Daboku DCMS-MX90-D;Inner Sphere;Late Succession War - Renaissance (3020 - 3049);Daboku;Sniper;3039;0
+Daboku DCMS-MX90-D;Inner Sphere;Assault Mech;Late Succession War - Renaissance (3020 - 3049);Daboku;Sniper;3039;0
 
 Daishi (Dire Wolf) A;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Daishi;Juggernaut;3050;0
 Daishi (Dire Wolf) B;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Daishi;Sniper;3050;0
@@ -662,7 +662,7 @@ Dasher (Fire Moth) Prime;Clan;Light Mech;Early Succession War (2781 - 2900);Dash
 Demolisher Heavy Tank (Arrow IV);Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Demolisher;Missile Boat;3058;0
 Demolisher Heavy Tank (Clan);Clan;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Juggernaut;3058;0
 Demolisher Heavy Tank (Defensive);Inner Sphere;Assault Vehicle;Early Succession War (2781 - 2900);Demolisher;Juggernaut;3039;0
-Demolisher Heavy Tank (Gauss);Inner Sphere;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Sniper;3059;0
+Demolisher Heavy Tank (Gauss);Inner Sphere;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Sniper;3058;0
 Demolisher Heavy Tank (MRM);Inner Sphere;Assault Vehicle;Clan Invasion (3050 - 3061);Demolisher;Juggernaut;3058;0
 Demolisher Heavy Tank Mk. II;Inner Sphere;Assault Vehicle;Early Succession War (2781 - 2900);Demolisher;Juggernaut;3039;0
 

@@ -1,18 +1,19 @@
 Generating a game
-There are 179 different Hero/Aspect combinations, and 12046 different game pairings
-Currently have played 62.0 percent of Hero/Aspects
-There are 45 heroes, 41 different encounters, and 79 different modular encounter sets
+There are 187 different Hero/Aspect combinations, and 13146 different game pairings
+Currently have played 59.4 percent of Hero/Aspects
+There are 47 heroes, 41 different encounters, and 79 different modular encounter sets
 
-Most played hero: Rocket Racoon (18 times). Least: Cable (0)
+Most played hero: Rocket Racoon (18 times). Least: Angel (0)
 Most played aspect: Protection (53 times). Least: Leadership (44)
 Most played scenario: Rhino (8 times). Least: Juggernaut (0)
 Most played modular encounter: Ship Command (14 times). Least: Acolytes (0)
 
-Heroes/Aspects chosen: Aggression Cable (0W-0L) and Leadership Black Panther (0W-0L)
+Heroes/Aspects chosen: Aggression Angel (0W-0L) and Leadership Black Panther (0W-0L)
 Chosen encounter is A Mess of Things Juggernaut (0W-0L)
 
 Total W-L by hero:
 Adam Warlock                  2 - 1
+Angel                         0 - 0
 Ant-Man                       6 - 0
 Black Panther                 4 - 2
 Black Widow                   4 - 1
@@ -36,6 +37,7 @@ Ms. Marvel                    4 - 0
 Nebula                        5 - 2
 Nova                          2 - 0
 Phoenix                       1 - 1
+Psylocke                      0 - 0
 Quicksilver                   2 - 1
 Rocket Racoon                 4 - 14
 Rogue                         0 - 0

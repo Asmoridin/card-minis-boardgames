@@ -32,18 +32,18 @@ def getMetaType(in_type):
         return("Mech")
     elif in_type in ['Light Battle Armor', 'Medium Battle Armor', ]:
         return ("Battle Armor")
-    elif in_type in ['Light Aerospace', 'Heavy Aerospace', 'Conventional Fighter']:
+    elif in_type in ['Light Aerospace', 'Heavy Aerospace', 'Conventional Fighter', 'Medium Aerospace', ]:
         return("Aerospace")
     else:
         print("Unknown meta tpe: " + in_type)
         return("")
 
 valid_model_types = ['Heavy Vehicle', 'Medium Vehicle', 'Medium Mech', 'Light Mech', 'Assault Mech', 'Light Battle Armor', 'Heavy Mech', 'Light Vehicle', 'Medium Battle Armor',
-        'Light Aerospace',  'Conventional Fighter', 'Assault Vehicle', 'Heavy Aerospace', ]
+        'Light Aerospace',  'Conventional Fighter', 'Assault Vehicle', 'Heavy Aerospace', 'Medium Aerospace']
 eras = ['Age of War (2005 - 2570)', 'Star League (2571 - 2780)', 'Early Succession War (2781 - 2900)', 'Late Succession War - LosTech (2901 - 3019)', 
         'Late Succession War - Renaissance (3020 - 3049)', 'Clan Invasion (3050 - 3061)', 'Civil War (3062 - 3067)', 'Jihad (3068 - 3080)', 'Early Republic (3081 - 3100)', 
         'Late Republic (3101 - 3130)', 'Dark Age (3131 - 3150)', ]
-roles = ['Juggernaut', 'Sniper', 'Scout', 'Ambusher', 'Brawler', 'Missile Boat', 'Skirmisher', 'Striker', 'None', 'Interceptor', 'Attack', ]
+roles = ['Juggernaut', 'Sniper', 'Scout', 'Ambusher', 'Brawler', 'Missile Boat', 'Skirmisher', 'Striker', 'None', 'Interceptor', 'Attack', 'Dogfighter', 'Fire-Support', ]
 source_documents = ['3039', '3050', '3058', 'ilClan Vol. 5', ]
 
 total_max = 0
