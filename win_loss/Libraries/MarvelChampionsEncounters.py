@@ -10,7 +10,9 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'Guerilla Tactics', 'Sinister Assault', 'City in Chaos', 'Down to Earth', 'Symbiotic Strength', 'Personal Nightmare', 'Whispers of Paranoia', 'Goblin Gear', 'Osborn Tech',
     'Armadillo', 'Zzzax', 'The Inheritors', "Iron Spider's Sinister Six", 'Deathstrike', 'Shadow King', 'Exodus', 'Reavers', 
     'Zero Tolerance', 'Sentinels', 'Future Past', 'Brotherhood', 'Mystique', 'Acolytes', 
-    'Military Grade', 'Mutant Slayers', 'Nasty Boys', 'Black Tom Cassidy', 'Flight', 'Super Strength', 'Telepathy', 'Extreme Measures', 'Mutant Insurrection', ]
+    'Military Grade', 'Mutant Slayers', 'Nasty Boys', 'Black Tom Cassidy', 'Flight', 'Super Strength', 'Telepathy', 'Extreme Measures', 'Mutant Insurrection', 
+    #'Infinites', 
+]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 modular_encounters = modular_encounters + mojo_encounters
 
@@ -91,6 +93,9 @@ encounters.extend([
   Encounter('Juggernaut', 1),
   Encounter('Mister Sinister', 1, ['Flight', 'Super Strength', 'Telepathy',]),
   Encounter('Stryfe', 2),
+  #Encounter('Unus', ?),
+  #Encounter('Four Horsemen', ?, can_infinity=False),
+  #Encounter('Apocalypse', ?),
 ])
 
 encounter_map = {}
