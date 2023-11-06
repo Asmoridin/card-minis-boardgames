@@ -714,3 +714,37 @@ Zeus ZEU-9S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3
 Zeus ZEU-9S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
 Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;0
 Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
+
+Fenrir Battle Armor (ERML);Inner Sphere;Assault Battle Armor;Civil War (3062 - 3067);Fenrir;Scout;3058;0
+Fenrir Battle Armor (MG);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (MPL);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (Mortar);Inner Sphere;Assault Battle Armor;Civil War (3062 - 3067);Fenrir;Scout;3058;0
+Fenrir Battle Armor (SL);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (SPL);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (SRM);Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Fenrir;Scout;3058;0
+Fenrir Battle Armor (VSP);Inner Sphere;Assault Battle Armor;Jihad (3068 - 3080);Fenrir;Scout;3058;0
+
+Fenris (Ice Ferret) A;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Fenris (Ice Ferret) B;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Fenris (Ice Ferret) C;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Missile Boat;3050;0
+Fenris (Ice Ferret) D;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+Fenris (Ice Ferret) E;Clan;Medium Mech;Clan Invasion (3050 - 3061);Fenris;Striker;3050;0
+Fenris (Ice Ferret) H;Clan;Medium Mech;Clan Invasion (3050 - 3061);Fenris;Striker;3050;0
+Fenris (Ice Ferret) L;Clan;Medium Mech;Jihad (3068 - 3080);Fenris;Scout;3050;0
+Fenris (Ice Ferret) Prime;Clan;Medium Mech;Late Succession War - LosTech (2901 - 3019);Fenris;Striker;3050;0
+
+Fire Falcon A;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon B;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Sniper;3058;0
+Fire Falcon C;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon D;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon E;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+Fire Falcon F;Clan;Light Mech;Jihad (3068 - 3080);Fire Falcon;Striker;3058;0
+Fire Falcon H;Clan;Light Mech;Civil War (3062 - 3067);Fire Falcon;Striker;3058;0
+Fire Falcon Prime;Clan;Light Mech;Clan Invasion (3050 - 3061);Fire Falcon;Striker;3058;0
+
+Firefly FFL-4A;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Firefly;Striker;3050;0
+Firefly FFL-4B;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Firefly;Striker;3050;0
+Firefly FFL-4C;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Firefly;Striker;3050;0
+Firefly FFL-4D;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firefly;Striker;3050;0
+Firefly FFL-4DA;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firefly;Striker;3050;0
+
