@@ -748,3 +748,48 @@ Firefly FFL-4C;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 -
 Firefly FFL-4D;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firefly;Striker;3050;0
 Firefly FFL-4DA;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firefly;Striker;3050;0
 
+Firestarter FS9-O;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OA;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OB;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OC;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Missile Boat;3058;0
+Firestarter FS9-OD;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Sniper;3058;0
+Firestarter FS9-OE;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OF;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Sniper;3058;0
+Firestarter FS9-OG;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OH;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-OR;Mixed;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Sniper;3058;0
+Firestarter FS9-OX;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Firestarter (OmniMech);Striker;3058;0
+Firestarter FS9-A;Inner Sphere;Light Mech;Age of War (2005 - 2570);Firestarter;Scout;3039;0
+Firestarter FS9-B;Inner Sphere;Light Mech;Jihad (3068 - 3080);Firestarter;Scout;3050;0
+Firestarter FS9-C;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firestarter;Striker;3050;0
+Firestarter FS9-H;Inner Sphere;Light Mech;Star League (2571 - 2780);Firestarter;Scout;3039;0
+Firestarter FS9-K;Inner Sphere;Light Mech;Age of War (2005 - 2570);Firestarter;Scout;3039;0
+Firestarter FS9-M "Mirage";Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Firestarter;Scout;3039;0
+Firestarter FS9-P;Inner Sphere;Light Mech;Civil War (3062 - 3067);Firestarter;Striker;3050;0
+Firestarter FS9-S1;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Firestarter;Scout;3050;0
+Firestarter FS9-S2;Inner Sphere;Light Mech;Jihad (3068 - 3080);Firestarter;Scout;3050;0
+Firestarter FS9-S3;Inner Sphere;Light Mech;Jihad (3068 - 3080);Firestarter;Scout;3050;0
+Firestarter FS9-S;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Firestarter;Scout;3050;0
+
+Flashman FLS-7K;Inner Sphere;Heavy Mech;Early Succession War (2781 - 2900);Flashman;Brawler;3039;0
+Flashman FLS-8K;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Flashman;Skirmisher;3050;0
+Flashman FLS-9B;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Flashman;Skirmisher;3050;0
+Flashman FLS-9C;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Flashman;Skirmisher;3050;0
+Flashman FLS-9M;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Flashman;Brawler;3050;0
+Flashman FLS-C;Inner Sphere;Heavy Mech;Civil War (3062 - 3067);Flashman;Skirmisher;3050;0
+
+Flea "Fire Ant";Inner Sphere;Light Mech;Civil War (3062 - 3067);Flea;Scout;3039;0
+Flea FLE-15;Inner Sphere;Light Mech;Age of War (2005 - 2570);Flea;Scout;3050;0
+Flea FLE-17;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Flea;Striker;3050;0
+Flea FLE-19;Inner Sphere;Light Mech;Jihad (3068 - 3080);Flea;Striker;3050;0
+Flea FLE-20;Inner Sphere;Light Mech;Jihad (3068 - 3080);Flea;Striker;3050;0
+Flea FLE-4;Inner Sphere;Light Mech;Age of War (2005 - 2570);Flea;Scout;3039;0
+
+Fulcrum Heavy Hovertank;Inner Sphere;Medium Vehicle;Clan Invasion (3050 - 3061);Fulcrum;Striker;3058;0
+Fulcrum Heavy Hovertank II;Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Fulcrum;Striker;3058;0
+
+Fury Command Tank (C3M);Inner Sphere;Assault Vehicle;Jihad (3068 - 3080);Fury;Brawler;3050;0
+Fury Command Tank (C3S);Inner Sphere;Assault Vehicle;Jihad (3068 - 3080);Fury;Sniper;3050;0
+Fury Command Tank (Fury II);Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Fury;Sniper;3050;0
+Fury Command Tank (Original);Inner Sphere;Assault Vehicle;Star League (2571 - 2780);Fury;Sniper;3050;0
+Fury Command Tank;Inner Sphere;Assault Vehicle;Civil War (3062 - 3067);Fury;Sniper;3050;0
