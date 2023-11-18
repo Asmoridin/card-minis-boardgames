@@ -1,1 +1,9 @@
-I own 43 out of 762 - 5.64 percent
+Problem with line:
+Fa Shih Battle Armor (LRR);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
+Problem with line:
+Fa Shih Battle Armor (Laser);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
+Problem with line:
+Fa Shih Battle Armor (MG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
+Problem with line:
+Fa Shih Battle Armor (TAG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
+I own 43 out of 867 - 4.96 percent
