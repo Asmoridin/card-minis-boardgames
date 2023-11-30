@@ -5,7 +5,7 @@ Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
 Apothecary Biologis;Adeptus Astartes;Infantry, Character, Imperium, Gravis, Apothecary, Biologis;55;1
 Apothecary;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
 Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;0
-Assault Intercessors with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium, Tacticus;180;0
+Assault Intercessors with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium, Tacticus;180;1.5
 Ballistus Dreadnought;Adeptus Astartes;Vehicle, Walker, Imperium, Dreadnought;160;1
 Barbgaunts;Tyranids;Infantry, Great Devourer, Barbgaunts;120;.5 // have 5, max unit is 10
 Biovores;Tyranids;Infantry, Great Devourer, Biovores;225;0
@@ -17,7 +17,7 @@ Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, 
 Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Gravis, Captain;85;0
 Captain in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Captain;75;0
 Captain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Captain;95;0
-Captain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Grenades, Imperium, Tacticus, Captain;95;0
+Captain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Grenades, Imperium, Tacticus, Captain;95;1
 Captain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Captain;70;0
 Carnifexes;Tyranids;Monster, Great Devourer, Carnifexes;250;0
 Centurion Assault Squad;Adeptus Astartes;Infantry, Imperium, Centurion;340;0
@@ -58,7 +58,7 @@ Incursor Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Imperium, Phobos;180;
 Infernus Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;190;1
 Infiltrator Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Imperium, Phobos;180;0
 Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;190;0
-Invader ATV;Adeptus Astartes;Mounted, Grenades, Imperium;75;0
+Invader ATV;Adeptus Astartes;Mounted, Grenades, Imperium;75;1
 Invictor Tactical Warsuit;Adeptus Astartes;Vehicle, Walker, Imperium, Phobos;155;0
 Iron Father Feirros;Adeptus Astartes, Iron Hands;Infantry, Character, Epic Hero, Imperium, Gravis;105;0
 Judicar;Adeptus Astartes;Infantry, Character, Imperium, Tacticus;70;0
@@ -85,7 +85,7 @@ Neurotyrant;Tyranids;Monster, Character, Fly, Psyker, Great Devourer, Synapse, N
 Norn Assimilator;Tyranids;Monster, Great Devourer, Synapse, Norn Assimilator;310;0
 Norn Emissary;Tyranids;Monster, Psyker, Great Devourer, Synapse, Norn Emissary;290;0
 Old One Eye;Tyranids;Monster, Character, Epic Hero, Great Devourer, Old One Eye;140;0
-Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;0
+Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;.5
 Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader;Parasite of Mortrex;80;0
 Pedro Kantor;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;100;0
 Predator Annihilator;Adeptus Astartes;Vehicle, Smoke, Imperium;120;0
