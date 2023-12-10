@@ -1310,8 +1310,7 @@ I.K.S. Lukara;U;Ship;Klingon;Second Edition;Print;3;0
 I.K.S. Maht-H'a;R;Ship;Klingon;Second Edition;Print;3;0
 I.K.S. Negh'Var, Imperial Flagship;V;Ship;Klingon;Face of the Enemy;Virtual;3;0
 I.K.S. Negh'Var, Infiltrated Flagship;V;Ship;Dominion;Far Beyond the Stars;Virtual;3;0
-I.K.S. Ning'tao;R;Ship;Klingon;Necessary Evil;Print;3;0
-I.K.S. Ning'tao;VP;Ship;Klingon;Virtual Promo;Virtual;3;0
+I.K.S. Ning'tao;R/VP;Ship;Klingon;Necessary Evil/Virtual Promo;Both;3;0
 I.K.S. Pagh;R;Ship;Klingon;Call to Arms;Print;3;0
 I.K.S. Qam-Chee;R;Ship;Klingon;Energize;Print;3;0
 I.K.S. Qel'Poh, Clandestine Vessel;R;Ship;Klingon;What You Leave Behind;Print;3;0
@@ -1415,11 +1414,8 @@ Invocation of Kosst Amojan;P;Event;;Reflections 2.0;Print;3;1
 Iota Geminorum IV, Relocate Polygeminus Grex;V;Mission;;Hard Time;Virtual;2;0
 Ira Graves, Noted Molecular Cyberneticist;R;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Isabella;V;Event;;Extreme Measures;Virtual;3;0
-Ishara Yar, Deceitful Soldier;AP;Personnel;Non-Aligned;Virtual Archive Portrait;Virtual;3;0
-Ishara Yar, Deceitful Soldier;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
-Ishka, Moogie;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Ishka, Moogie;V;Personnel;Ferengi;Second Skin;Virtual;3;0
-Ishka, Moogie;VP;Personnel;Ferengi;Virtual Promo;Virtual;3;0
+Ishara Yar, Deceitful Soldier;AP/VP;Personnel;Non-Aligned;Virtual Archive Portrait/Virtual Promo;Virtual;3;0
+Ishka, Moogie;R/V/VP;Personnel;Ferengi;Strange New Worlds/Second Skin/Virtual Promo;Both;3;0
 Ishka, Opportunistic Hostage;V;Personnel;Dominion;Symbiosis;Virtual;3;0
 Isolated Detachment;V;Dilemma;;Symbiosis;Virtual;3;0
 Isolated Ion Storm, Investigate Klingon Artifact;AP;Mission;;Timeless;Virtual;2;0
@@ -1427,33 +1423,26 @@ Isolytic Detonation;V;Event;;Heroes and Demons;Virtual;3;0
 Isotope Drone;V;Personnel;Borg;Lower Decks;Virtual;3;0
 It's Only a Paper Moon;V;Dilemma;;Raise the Stakes;Virtual;3;3
 Its Thinking is Chaotic;V;Dilemma;;This Side of Paradise;Virtual;3;3
-Ixtana'Rax, Honored Elder;P;Personnel;Dominion;Reflections 2.0;Print;3;0
-Ixtana'Rax, Honored Elder;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
+Ixtana'Rax, Honored Elder;P/VP;Personnel;Dominion;Reflections 2.0/Virtual Promo;Both;3;0
 Izir'isel, Lemec's Warship;V;Ship;Dominion;Apocalypse Rising;Virtual;3;0
 J'Dan;C;Personnel;Klingon;Second Edition;Print;3;0
-Ja'chuq;R;Interrupt;;Energize;Print;3;0
-Ja'chuq;VP;Interrupt;;Virtual Promo;Virtual;3;0
+Ja'chuq;R/VP;Interrupt;;Energize/Virtual Promo;Both;3;0
 Jabara;C;Personnel;Bajoran;Second Edition;Print;3;0
 Jack Crusher, Beloved Father;VP;Personnel;Federation;Inheritance;Virtual;3;0
 Jack, Maladjusted Misfit;R;Personnel;Federation;Call to Arms;Print;3;0
 Jadzia Dax, Communications Staffer;R;Personnel;Federation;These Are The Voyages;Print;3;0
 Jadzia Dax, Conversant Veteran;V;Personnel;Federation;Dead Stop;Virtual;3;0
 Jadzia Dax, Defiant Captain;U;Personnel;Federation;Captain's Log;Print;3;0
-Jadzia Dax, Elder;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
-Jadzia Dax, Elder;VP;Personnel;Bajoran;Virtual Promo;Virtual;3;0
+Jadzia Dax, Elder;R/VP;Personnel;Bajoran;Dangerous Missions/Virtual Promo;Both;3;0
 Jadzia Dax, Problem Solver;R;Personnel;Federation;Necessary Evil;Print;3;0
-Jadzia Dax, Science Officer;R;Personnel;Federation;Second Edition;Print;3;0
-Jadzia Dax, Science Officer;V;Personnel;Federation;Second Skin;Virtual;3;0
-Jadzia Dax, Science Officer;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Jadzia Dax, Science Officer;R/V/VP;Personnel;Federation;Second Edition/Second Skin/Virtual Promo;Both;3;0
 Jadzia Dax, Soldier of Fortune;C;Personnel;Non-Aligned;In a Mirror Darkly;Print;3;0
 Jadzia Dax, Sworn Ally;R;Personnel;Klingon;Necessary Evil;Print;3;0
 Jadzia Dax, The Second Heart;U;Personnel;Klingon;Captain's Log;Print;3;0
 Jadzia Dax, Tongo Player;V;Personnel;Ferengi;Unity;Virtual;3;0
 Jaglom Shrek;C;Personnel;Non-Aligned;Energize;Print;3;0
 Jake Sisko, Engineer's Apprentice;V;Personnel;Federation;The Undiscovered Country;Virtual;3;0
-Jake Sisko, Reporter Behind the Lines;R;Personnel;Federation;Necessary Evil;Print;3;0
-Jake Sisko, Reporter Behind the Lines;V;Personnel;Federation;Second Skin;Virtual;3;0
-Jake Sisko, Reporter Behind the Lines;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Jake Sisko, Reporter Behind the Lines;R/V/VP;Personnel;Federation;Necessary Evil/Second Skin/Virtual Promo;Both;3;0
 Jake Sisko, Temporal Anchor;R;Personnel;Federation;Energize;Print;3;0
 Jakin;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
 James Moriarty, Awakened Nemesis;V;Personnel;Non-Aligned;Star Trek 50;Virtual;3;0
@@ -1499,8 +1488,7 @@ Jem'Hadar Birthing Chamber;R;Event;;Call to Arms;Print;3;1
 Jem'Hadar Disruptor Pistol;U;Equipment;;Call to Arms;Print;3;2
 Jem'Hadar Entrenchment;V;Event;;Raise the Stakes;Virtual;3;3
 Jem'Hadar Strike Force;U;Event;;Call to Arms;Print;3;1
-Jem'Hadar Warship;B;Ship;Dominion;Borderless Promos;Virtual;3;0
-Jem'Hadar Warship;C;Ship;Dominion;Call to Arms;Print;3;0
+Jem'Hadar Warship;B/C;Ship;Dominion;Borderless Promos/Call to Arms;Both;3;0
 Jenna D'Sora, Veteran Security Officer;V;Personnel;Federation;This Side of Paradise;Virtual;3;0
 Jennifer Sisko, Sympathetic Professor;V;Personnel;Non-Aligned;Shattered Mirror;Virtual;3;0
 Jera;C;Personnel;Romulan;In a Mirror Darkly;Print;3;0
@@ -1540,13 +1528,11 @@ Journey to the Past;V;Dilemma;;Hard Time;Virtual;3;3
 Jovis, Museum;U;Ship;Non-Aligned;Captain's Log;Print;3;0
 Judith Hume;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
 Juel Ducane, Above Reproach;V;Personnel;Federation;Matter of Time;Virtual;3;0
-Julian Bashir, "Frontier" Physician;R;Personnel;Federation;Second Edition;Print;3;0
-Julian Bashir, "Frontier" Physician;V;Personnel;Federation;Second Skin;Virtual;3;0
+Julian Bashir, "Frontier" Physician;R/V;Personnel;Federation;Second Edition/Second Skin;Both;3;0
 Julian Bashir, "Unnatural Freak";U;Personnel;Federation;Energize;Print;3;0
 Julian Bashir, Medical Staffer;R;Personnel;Federation;These Are The Voyages;Print;3;0
 Julian Bashir, Nostalgic Doctor;V;Personnel;Federation;Return to Grace;Virtual;3;0
-Julian Bashir, Rebel Captain;C;Personnel;Non-Aligned;In a Mirror Darkly;Print;3;0
-Julian Bashir, Rebel Captain;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Julian Bashir, Rebel Captain;C/VP;Personnel;Non-Aligned;In a Mirror Darkly/Virtual Promo;Both;3;0
 Julian Bashir, Vastly Outnumbered;V;Personnel;Federation;Allegiance;Virtual;3;0
 Julian Bashir, Visiting Colleague;V;Personnel;Federation;Shattered Mirror;Virtual;3;0
 Juliana Tainer, Unknowing Automaton;V;Personnel;Non-Aligned;Lineage;Virtual;3;0
@@ -1572,14 +1558,12 @@ Kahless, The Greatest Warrior of Them All;U;Personnel;Klingon;Energize;Print;3;0
 Kahless, The Unforgettable;R;Personnel;Klingon;Energize;Print;3;0
 Kahlest, GhojmoH of Worf;S;Personnel;Klingon;Second Edition;Print;3;0
 Kahmis;C;Personnel;Klingon;Second Edition;Print;3;0
-Kaitaama, Precious Cargo;V;Personnel;Non-Aligned;Extreme Measures;Virtual;3;0
-Kaitaama, Precious Cargo;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Kaitaama, Precious Cargo;V/VP;Personnel;Non-Aligned;Extreme Measures/Virtual Promo;Virtual;3;0
 Kalandra, Battlefield Surgeon;U;Personnel;Federation;Second Edition;Print;3;0
 Kaleb Sector, Covert Rendezvous;V;Mission;;Face of the Enemy;Virtual;2;0
 Kalenna, Sentry;V;Personnel;Romulan;This Side of Paradise;Virtual;3;0
 Kalita, Maquis Pilot;U;Personnel;Federation;Necessary Evil;Print;3;0
-Kamala, The Perfect Mate;R;Personnel;Non-Aligned;Second Edition;Print;3;0
-Kamala, The Perfect Mate;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Kamala, The Perfect Mate;R/VP;Personnel;Non-Aligned;Second Edition/Virtual Promo;Both;3;0
 Kamarag, Passionate Orator;V;Personnel;Klingon;Star Trek 50;Virtual;3;0
 Kamok;V;Personnel;Klingon;Lower Decks;Virtual;3;0
 Kang, Honored Warrior;R/V;Personnel;Klingon;Second Edition/Second Skin;Both;3;0
@@ -1605,8 +1589,7 @@ Kassem, Stern Operative;U;Personnel;Romulan;Strange New Worlds;Print;3;0
 Katherine Pulaski, Chief Medical Officer;U;Personnel;Federation;What You Leave Behind;Print;3;0
 Kathryn Janeway, Clever Captain;C;Personnel;Federation;Captain's Log;Print;3;0
 Kathryn Janeway, Forceful Captain;R;Personnel;Federation;Captain's Log;Print;3;0
-Kathryn Janeway, Mindful Keeper;V;Personnel;Federation;Lower Decks;Virtual;3;0
-Kathryn Janeway, Mindful Keeper;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Kathryn Janeway, Mindful Keeper;V/VP;Personnel;Federation;Lower Decks/Virtual Promo;Virtual;3;0
 Kathryn Janeway, Mostly Assimilated;V;Personnel;Borg;Unity;Virtual;3;0
 Kathryn Janeway, Regretful Leader;V;Personnel;Federation;Raise the Stakes;Virtual;3;0
 Kathryn Janeway, Wry Admiral;R;Personnel;Federation;Second Edition;Print;3;0
@@ -1619,11 +1602,9 @@ Kaza'kime, Effective Demonstration;V;Ship;Dominion;Tacking Into the Wind;Virtual
 Kazago, First Officer;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Ke Hovath, The Sirah;V;Personnel;Bajoran;The Menagerie;Virtual;3;0
 Keeping Track of You;V;Event;;Favor the Bold;Virtual;3;3
-Keevan, Conniving Liar;U;Personnel;Dominion;Call to Arms;Print;3;0
-Keevan, Conniving Liar;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
+Keevan, Conniving Liar;U/VP;Personnel;Dominion;Call to Arms/Virtual Promo;Both;3;0
 Keevan, Pragmatic Captor;V;Personnel;Dominion;Symbiosis;Virtual;3;0
-Keevan;V;Equipment;;Second Skin;Virtual;3;0
-Keevan;V;Equipment;;The Nth Degree;Virtual;3;0
+Keevan;V;Equipment;;Second Skin/The Nth Degree;Virtual;3;0
 Keeve Falor;C;Personnel;Bajoran;Second Edition;Print;3;0
 Keiko O'Brien, Botanist;U;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Keiko O'Brien, Pah-Wraith Hostage;V;Personnel;Bajoran;Strange Bedfellows;Virtual;3;0
@@ -1643,14 +1624,12 @@ Kelvas V, Steal Breen Armament;V;Mission;;A Time to Stand;Virtual;2;0
 Kenneth Dalby, Insubordinate Crewman;U;Personnel;Federation;Captain's Log;Print;3;0
 Keras, Creature of Duty;R;Personnel;Romulan;These Are The Voyages;Print;3;0
 Kered, Bemused Executioner;V;Personnel;Klingon;All Our Yesterdays;Virtual;3;0
-Kerla, Military Advisor;V;Personnel;Klingon;The Undiscovered Country;Virtual;3;0
-Kerla, Military Advisor;VP;Personnel;Klingon;Virtual Promo;Virtual;3;0
+Kerla, Military Advisor;V/VP;Personnel;Klingon;The Undiscovered Country/Virtual Promo;Virtual;3;0
 Kes, Curious Ocampa;U;Personnel;Non-Aligned;Captain's Log;Print;3;0
 Kes, Experienced Ocampa;V;Personnel;Non-Aligned;The Undiscovered Country;Virtual;3;0
 Kevin Uxbridge;R;Interrupt;;Second Edition;Print;3;0
 Key to the Alpha Quadrant;U;Dilemma;;In a Mirror Darkly;Print;3;0
-Khan Noonien Singh, Bold Man;R;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
-Khan Noonien Singh, Bold Man;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Khan Noonien Singh, Bold Man;R/VP;Personnel;Non-Aligned;These Are The Voyages/Virtual Promo;Both;3;0
 Khan Noonien Singh, Genetically-Engineered Nemesis;P/VP;Personnel;Non-Aligned;Genesis/Virtual Promo;Both;3;0
 Khan Noonien Singh, Superior Sleeper;V;Personnel;Non-Aligned;A Time to Stand;Virtual;3;0
 Khan!;P;Interrupt;;Genesis;Print;3;0
@@ -1670,17 +1649,14 @@ Kira Meru, Comfort Woman;R;Personnel;Bajoran;Necessary Evil;Print;3;0
 Kira Nerys, Ambitious Ally;V;Personnel;Bajoran;Tacking Into the Wind;Virtual;3;0
 Kira Nerys, Bit of a Fighter;U;Personnel;Bajoran;These Are The Voyages;Print;3;0
 Kira Nerys, Blockade Commander;U;Personnel;Bajoran;Captain's Log;Print;3;0
-Kira Nerys, Colonel Kira;R;Personnel;Bajoran;Second Edition;Print;3;0
-Kira Nerys, Colonel Kira;VP;Personnel;Bajoran;Virtual Promo;Virtual;3;0
+Kira Nerys, Colonel Kira;R/VP;Personnel;Bajoran;Second Edition/Virtual Promo;Both;3;0
 Kira Nerys, Defiant Leader;V;Personnel;Bajoran;Favor the Bold;Virtual;3;0
 Kira Nerys, Fifth Columnist;V;Personnel;Bajoran;Apocalypse Rising;Virtual;3;0
 Kira Nerys, First Officer;U;Personnel;Bajoran;What You Leave Behind;Print;3;0
-Kira Nerys, Grudging Ally;V;Personnel;Bajoran;Balance of Terror;Virtual;3;0
-Kira Nerys, Grudging Ally;V;Personnel;Bajoran;Second Skin;Virtual;3;0
+Kira Nerys, Grudging Ally;V;Personnel;Bajoran;Balance of Terror/Second Skin;Virtual;3;0
 Kira Nerys, Hero of Bajor;R;Personnel;Bajoran;Dangerous Missions;Print;3;0
 Kira Nerys, Ih'valla;V;Personnel;Bajoran;Extreme Measures;Virtual;3;0
-Kira Nerys, Iliana Ghemor;R;Personnel;Cardassian;Necessary Evil;Print;3;0
-Kira Nerys, Iliana Ghemor;VP;Personnel;Cardassian;Virtual Promo;Virtual;3;0
+Kira Nerys, Iliana Ghemor;R/VP;Personnel;Cardassian;Necessary Evil/Virtual Promo;Both;3;0
 Kira Nerys, Impassioned Major;R;Personnel;Bajoran;Energize;Print;3;0
 Kira Nerys, Lela;V;Personnel;Bajoran;Raise the Stakes;Virtual;3;0
 Kira Nerys, Liberator;V;Personnel;Bajoran;Peak Performance;Virtual;3;0
@@ -1706,8 +1682,7 @@ Klingon Law;V;Dilemma;;Favor the Bold;Virtual;3;2
 Klingon Tea Ceremony;V;Event;;Peak Performance;Virtual;3;3
 Klingon-Occupied Outland, Enact Poetic Revenge;V;Mission;;Second Chances;Virtual;2;0
 Know Thy Enemy;V;Dilemma;;Hard Time;Virtual;3;3
-Knowledge and Experience;R;Interrupt;;Necessary Evil;Print;3;0
-Knowledge and Experience;VP;Interrupt;;Virtual Promo;Virtual;3;0
+Knowledge and Experience;R/VP;Interrupt;;Necessary Evil/Virtual Promo;Both;3;0
 Kobb;C;Personnel;Non-Aligned;Energize;Print;3;0
 Kodos the Executioner, "Anton Karidian";V;Personnel;Federation;Hard Time;Virtual;3;0
 Kohl Settlement, Thaw Hibernating Survivors;V;Mission;;Caretaker;Virtual;2;0
@@ -1716,8 +1691,7 @@ Kol;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Kolaran Raiders;S;Dilemma;;Second Edition;Print;3;1
 Kolopak, Bound to Tradition;V;Personnel;Federation;A Time to Stand;Virtual;3;0
 Kolos;C;Personnel;Non-Aligned;Second Edition;Print;3;0
-Koloth, D'akturak;R;Personnel;Klingon;Second Edition;Print;3;0
-Koloth, D'akturak;V;Personnel;Klingon;Second Skin;Virtual;3;0
+Koloth, D'akturak;R/V;Personnel;Klingon;Second Edition/Second Skin;Both;3;0
 Koloth, Ingratiating Captain;R;Personnel;Klingon;These Are The Voyages;Print;3;0
 Komal;V;Personnel;Klingon;All Our Yesterdays;Virtual;3;0
 Konmel, Renegade Warrior;R;Personnel;Klingon;Energize;Print;3;0
@@ -1735,8 +1709,7 @@ Kortar, Slayer of Gods;V;Personnel;Klingon;Shattered Mirror;Virtual;3;0
 Kosinski, Arrogant Engineer;U;Personnel;Federation;Captain's Log;Print;3;0
 Kotan Pa'Dar, Prominent Politician;V;Personnel;Cardassian;Classification: Civilian;Virtual;3;0
 Kotra;U;Event;;Energize;Print;3;1
-Koval, Chairman of the Tal Shiar;R;Personnel;Romulan;Necessary Evil;Print;3;0
-Koval, Chairman of the Tal Shiar;VP;Personnel;Romulan;Virtual Promo;Virtual;3;0
+Koval, Chairman of the Tal Shiar;R/VP;Personnel;Romulan;Necessary Evil/Virtual Promo;Both;3;0
 Kovat, Public Conservator;U;Personnel;Cardassian;Second Edition;Print;3;0
 Krajensky Founder, Adversary;R;Personnel;Dominion;These Are The Voyages;Print;3;0
 Kras, Merciless Officer;U;Personnel;Klingon;These Are The Voyages;Print;3;0
@@ -1845,11 +1818,9 @@ Lineage;V;Event;;Matter of Time;Virtual;3;0
 Ling, Herculean Adjutant;V;Personnel;Non-Aligned;The Menagerie;Virtual;3;0
 Lingering Grief;V;Event;;Star Trek 50;Virtual;3;0
 Locate Fuel Source;V;Mission;;Allegiance;Virtual;2;0
-Locutus' Borg Cube;R;Ship;Borg;Call to Arms;Print;3;0
-Locutus' Borg Cube;VP;Ship;Borg;Virtual Promo;Virtual;3;0
+Locutus' Borg Cube;R/VP;Ship;Borg;Call to Arms/Virtual Promo;Both;3;0
 Locutus, Almost Human;V;Personnel;Borg;Tapestry;Virtual;3;0
-Locutus, Implacable Scourge;V;Personnel;Borg;Sacrifice of Angels;Virtual;3;0
-Locutus, Implacable Scourge;VP;Personnel;Borg;Virtual Promo;Virtual;3;0
+Locutus, Implacable Scourge;V/VP;Personnel;Borg;Sacrifice of Angels/Virtual Promo;Virtual;3;0
 Locutus, Voice of the Borg;R;Personnel;Borg;Call to Arms;Print;3;0
 Logan Black;C;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
 Logical Solution;V;Dilemma;;Star Trek 50;Virtual;3;0
@@ -1860,8 +1831,7 @@ Lon Suder, Casual Killer;V;Personnel;Federation;20th Anniversary Collection;Virt
 Lonzak, Loyal Henchman;V;Personnel;Non-Aligned;Caretaker;Virtual;3;0
 Lopez;C;Personnel;Federation;Second Edition;Print;3;0
 Lore, Brother and Son;V;Personnel;Non-Aligned;Favor the Bold;Virtual;3;0
-Lore, The One;R;Personnel;Non-Aligned;Necessary Evil;Print;3;0
-Lore, The One;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Lore, The One;R/VP;Personnel;Non-Aligned;Necessary Evil/Virtual Promo;Both;3;0
 Loren III, Combined Discovery;V;Mission;;Strange Bedfellows;Virtual;2;0
 Lorian, Displaced Descendant;V;Personnel;Starfleet;Allegiance;Virtual;3;0
 Losira;V;Dilemma;;This Side of Paradise;Virtual;3;3
@@ -1872,8 +1842,7 @@ Lovok, Tal Shiar Colonel;R;Personnel;Romulan;Second Edition;Print;3;0
 Luaran, Cautious Inspector;U;Personnel;Dominion;Necessary Evil;Print;3;0
 Luaran, Critical Coordinator;V;Personnel;Dominion;This Side of Paradise;Virtual;3;0
 Lucsly, Temporal Investigator;VP;Personnel;Federation;Inheritance;Virtual;3;0
-Luna, Orpheus Mining Facility;V;Mission;;A Less Perfect Union;Virtual;2;0
-Luna, Orpheus Mining Facility;V;Mission;;Move Along Home;Virtual;1;0
+Luna, Orpheus Mining Facility;V;Mission;;A Less Perfect Union/Move Along Home;Virtual;2;0
 Lupaza, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
 Lurin, Heartless Profiteer;AP;Personnel;Ferengi;Timeless;Virtual;3;0
 Lurin, Renegade DaiMon;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
@@ -1881,14 +1850,10 @@ Lursa, Ambitious Renegade;R;Personnel;Klingon;Necessary Evil;Print;3;0
 Lursa, Cutthroat Accomplice;V;Personnel;Klingon;Heroes and Demons;Virtual;3;0
 Lursa, Romulan Conspirator;R;Personnel;Romulan;Necessary Evil;Print;3;0
 Lursa, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
-Lustful Distraction;V;Interrupt;;Peak Performance;Virtual;3;0
-Lustful Distraction;VP;Interrupt;;Virtual Promo;Virtual;3;0
-Luther Sloan, Man of Action;V;Personnel;Federation;Extreme Measures;Virtual;3;0
-Luther Sloan, Man of Action;V;Personnel;Federation;Second Skin;Virtual;3;0
-Luther Sloan, Man of Action;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Lustful Distraction;V/VP;Interrupt;;Peak Performance/Virtual Promo;Virtual;3;0
+Luther Sloan, Man of Action;V;Personnel;Federation;Extreme Measures/Second Skin/Virtual Promo;Virtual;3;0
 Luther Sloan, Man of Secrets;R;Personnel;Federation;Second Edition;Print;3;0
-Lwaxana Troi, Extraordinary Ambassador;V;Personnel;Federation;Strange Bedfellows;Virtual;3;0
-Lwaxana Troi, Extraordinary Ambassador;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Lwaxana Troi, Extraordinary Ambassador;V/VP;Personnel;Federation;Strange Bedfellows/Virtual Promo;Virtual;3;0
 Lwaxana Troi, Extravagant Ambassador;C;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Lwaxana Troi, Psychic Tutor;V;Personnel;Federation;Face of the Enemy;Virtual;3;0
 Lwaxana Troi, Telepathic Asset;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
@@ -1998,22 +1963,18 @@ Michael Eddington, Noble Hero;R;Personnel;Federation;Energize;Print;3;0
 Michael Eddington, Traitor to Starfleet;R/V;Personnel;Federation;Call to Arms/Second Skin;Both;3;0
 Michael Jonas, Crafty Mechanic;V;Personnel;Federation;Zero Hour;Virtual;3;0
 Microbrain;C;Dilemma;;Second Edition;Print;3;3
-Mila, Trusted Confidante;U;Personnel;Cardassian;Necessary Evil;Print;3;0
-Mila, Trusted Confidante;VP;Personnel;Cardassian;Virtual Promo;Virtual;3;0
+Mila, Trusted Confidante;U/VP;Personnel;Cardassian;Necessary Evil/Virtual Promo;Both;3;0
 Miles O'Brien, "Pahash the Grumpy";V;Personnel;Federation;Apocalypse Rising;Virtual;3;0
-Miles O'Brien, "Smiley";P;Personnel;Non-Aligned;Fractured Time;Print;3;0
-Miles O'Brien, "Smiley";VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Miles O'Brien, "Smiley";P/VP;Personnel;Non-Aligned;Fractured Time/Virtual Promo;Both;3;0
 Miles O'Brien, Chief of Operations;R;Personnel;Federation;Second Edition;Print;3;0
 Miles O'Brien, Conn Officer;V;Personnel;Federation;Tapestry;Virtual;3;0
 Miles O'Brien, Connelly;V;Personnel;Non-Aligned;Legacy;Virtual;3;0
 Miles O'Brien, Engineering Staffer;U;Personnel;Federation;These Are The Voyages;Print;3;0
 Miles O'Brien, Ill-Equipped Storyteller;V;Personnel;Bajoran;The Nth Degree;Virtual;3;0
-Miles O'Brien, Repair Chief;U;Personnel;Federation;Necessary Evil;Print;3;0
-Miles O'Brien, Repair Chief;V;Personnel;Federation;Second Skin;Virtual;3;0
+Miles O'Brien, Repair Chief;V/U;Personnel;Federation;Necessary Evil/Second Skin;Both;3;0
 Miles O'Brien, Transporter Chief;R;Personnel;Federation;Energize;Print;3;0
 Miles O'Brien, Vastly Outnumbered;V;Personnel;Federation;Allegiance;Virtual;3;0
-Military Assault Command Operations;R;Event;;What You Leave Behind;Print;3;0
-Military Assault Command Operations;VP;Event;;Virtual Promo;Virtual;3;0
+Military Assault Command Operations;R/VP;Event;;What You Leave Behind/Virtual Promo;Both;3;0
 Military Exercises;U;Mission;;Second Edition;Print;2;0
 Military Recon Program;V;Event;;Apocalypse Rising;Virtual;3;0
 Militia Patrol;R;Event;;Necessary Evil;Print;3;0
@@ -2027,8 +1988,7 @@ Minuet, Jazz Lover;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Miracle Working;V;Event;;Face of the Enemy;Virtual;3;0
 Miradorn Raider;C;Ship;Non-Aligned;Second Edition;Print;3;0
 Miral Paris, Daughter of B'Elanna;V;Personnel;Federation;A Less Perfect Union;Virtual;3;0
-Miramanee, Loyal Priestess;AP;Personnel;Non-Aligned;Virtual Archive Portrait;Virtual;3;0
-Miramanee, Loyal Priestess;VP;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
+Miramanee, Loyal Priestess;VP/AP;Personnel;Non-Aligned;Virtual Promo/Virtual Archive Portrait;Virtual;3;0
 Miranda O'Brien, Proud Descendant;V;Personnel;Non-Aligned;Matter of Time;Virtual;3;0
 Mirok, Interphase Researcher;U;Personnel;Romulan;Energize;Print;3;0
 Misdirection;U/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0

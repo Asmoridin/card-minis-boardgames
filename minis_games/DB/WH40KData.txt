@@ -76,7 +76,7 @@ Lieutenant in Reiver Armour;Adeptus Astartes;Infantry, Character, Smoke, Grenade
 Lieutenant with Combi-Weapon;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Lieutenant;70;1
 Lieutenant;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Lieutenant;65;0
 Maleceptor;Tyranids;Monster, Psyker, Great Devourer, Synapse, Maleceptor;170;0
-Marneus Calgar;Adeptus Astartes, Ultramarines;Infantry, Imperium, Character, Epic Hero, Gravis, Chapter Master;;200;0
+Marneus Calgar;Adeptus Astartes, Ultramarines;Infantry, Imperium, Character, Epic Hero, Gravis, Chapter Master;200;0
 Mawloc;Tyranids;Monster, Great Devourer, Mawloc;145;0
 Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
@@ -86,7 +86,7 @@ Norn Assimilator;Tyranids;Monster, Great Devourer, Synapse, Norn Assimilator;310
 Norn Emissary;Tyranids;Monster, Psyker, Great Devourer, Synapse, Norn Emissary;290;0
 Old One Eye;Tyranids;Monster, Character, Epic Hero, Great Devourer, Old One Eye;140;0
 Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;.5
-Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader;Parasite of Mortrex;80;0
+Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader, Parasite of Mortrex;80;0
 Pedro Kantor;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;100;0
 Predator Annihilator;Adeptus Astartes;Vehicle, Smoke, Imperium;120;0
 Predator Destructor;Adeptus Astartes;Vehicle, Smoke, Imperium;130;0
@@ -105,7 +105,7 @@ Scout Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Imperium;140;0
 Screamer-Killer;Tyranids;Monster, Great Devourer, Screamer-Killer;170;1
 Spore Mines;Tyranids;Beast, Fly, Great Devourer, Spore Mines;110;0
 Sporocyst;Tyranids;Monster, Great Devourer, Sporocyst;145;0
-Sternguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;.5 # have 5, max unit is 10
+Sternguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;.5 // have 5, max unit is 10
 Storm Speeder Hailstrike;Adeptus Astartes;Vehicle, Fly, Imperium;130;0
 Storm Speeder Hammerstrike;Adeptus Astartes;Vehicle, Fly, Imperium;150;0
 Storm Speeder Thunderstrike;Adeptus Astartes;Vehicle, Fly, Imperium;150;0
@@ -117,7 +117,7 @@ Tactical Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium;165;0
 Techmarine;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;60;0
 Termagants;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Termagants;120;1
 Terminator Assault Squad;Adeptus Astartes;Infantry, Imperium, Terminator;390;0
-Terminator Sqaud;Adeptus Astartes;Infantry, Imperium, Terminator;400;.5 # have 5 unit max is 10
+Terminator Sqaud;Adeptus Astartes;Infantry, Imperium, Terminator;400;.5 // have 5 unit max is 10
 Tervigon;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Tervigon;190;0
 The Swarmlord;Tyranids;Monster, Character, Epic Hero, Psyker, Great Devourer, Synapse, Hive Tyrant, The Swarmlord;270;0
 Tor Garadon;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Imperium, Gravis, Captain;100;0
@@ -134,7 +134,7 @@ Venomthropes;Tyranids;Infantry, Fly, Great Devourer, Venomthropes;140;0
 Vindicator;Adeptus Astartes;Vehicle, Smoke, Imperium;195;0
 Von Ryan's Leapers;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Von Ryan's Leapers;150;.5 // have 3, max unit size is 6
 Vulkan He'stan;Adeptus Astartes, Salamanders;Infantry, Character, Epic Hero, Grenades, Imperium, Captain;85;0
-Whirlwind;Adeptus Astartes;Vehicle, Smoke;Imperium;115;0
+Whirlwind;Adeptus Astartes;Vehicle, Smoke, Imperium;115;0
 Winged Hive Tyrant;Tyranids;Monster, Character, Psyker, Fly, Great Devourer, Synapse, Vanguard Invader, Hive Tyrant, Winged Hive Tyrant;210;0
 Winged Tyranid Prime;Tyranids;Infantry, Character, Fly, Great Devourer, Synapse, Vanguard Invader, Winged Tyranid Prime;65;1
 Zoanthropes;Tyranids;Infantry, Psyker, Fly, Great Devourer, Synapse, Zoanthropes;220;0

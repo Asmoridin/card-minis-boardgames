@@ -3,6 +3,7 @@
 import sys, os
 
 GAME_NAME = "Battletech"
+COMPANY = "Catalyst"
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('minis_games/DB/BattletechOwn.txt', 'r')

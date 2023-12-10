@@ -508,10 +508,10 @@ Exterminator EXT-4D;Inner Sphere;Heavy Mech;Star League (2571 - 2780);Exterminat
 Exterminator EXT-5E;Inner Sphere;Heavy Mech;Clan Invasion (3050 - 3061);Exterminator;Skirmisher;3050;0
 Exterminator EXT-5F;Inner Sphere;Heavy Mech;Jihad (3068 - 3080);Exterminator;Skirmisher;3050;0
 Fa Shih Battle Armor (Flamer);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
-Fa Shih Battle Armor (LRR);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
-Fa Shih Battle Armor (Laser);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
-Fa Shih Battle Armor (MG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
-Fa Shih Battle Armor (TAG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;3058;0
+Fa Shih Battle Armor (LRR);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (Laser);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (MG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
+Fa Shih Battle Armor (TAG);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Fa Shih;Ambusher;3058;0
 Falcon FLC-4N;Inner Sphere;Light Mech;Star League (2571 - 2780);Falcon;Scout;3039;0
 Falcon FLC-4P;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Falcon;Scout;3050;0
 Falcon FLC-5P;Inner Sphere;Light Mech;Civil War (3062 - 3067);Falcon;Striker;3050;0
