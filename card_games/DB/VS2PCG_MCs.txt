@@ -94,6 +94,7 @@ Falconer
 Fin Fang Foom
 Flash Thompson/Agent Venom
 Fox Mulder
+Franklin Richards
 Frenchie
 Galactus
 Gambit
@@ -119,9 +120,11 @@ Hughie
 Hulk
 *Hulk*
 Human Torch
+Human Torch (FF/Anti-Registration; Fractured Family)
 *Human Torch*/*Nova*
 Iceman
 Invisible Woman
+Invisible Woman (FF/Anti-Registration; Fractured Family)
 Iron Fist
 Iron Man (Avengers)
 Iron Man (MCU Heroes)
@@ -166,6 +169,7 @@ Medusa
 Mesmero
 Mimic
 Mister Fantastic
+Mister Fantastic (FF/Pro-Registration; Fractured Family)
 MJF
 Mobius
 Mole Man
@@ -270,11 +274,13 @@ The Perfect Organism
 The Queen
 The Wizard
 Thing
+Thing (FF/Pro-Registration; Fractured Family)
 Thor (Avengers)
 Thor (MCU Heroes)
 Thunder Rosa
 Toad
 Toxin
+Uatu
 Ultron (MCU Villains)
 Ultron (Super Villains)
 Valkyrie (Defenders)
