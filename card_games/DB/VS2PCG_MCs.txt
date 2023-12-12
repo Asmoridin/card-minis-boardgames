@@ -10,6 +10,7 @@ Angel/Archangel
 Angelus
 Annihilus
 Ant-Man
+*Ant-Man*
 Anti-Venom
 Arnim Zola
 Avalanche
@@ -133,6 +134,7 @@ Iron Monger
 Isabelle
 Jade Cargill
 Jean Grey
+Jennifer Walters/She-Hulk
 Jessica Jones
 Jon Moxley
 Joseph
@@ -253,6 +255,7 @@ Starlight
 Storm (Anti-Registration)
 Storm (X-Men; House of X)
 Storm (X-Men; Marvel Battles)
+Sub-Mariner
 Sub-Zero
 Super Skrull
 Superior Spider-Man
@@ -276,6 +279,7 @@ The Wizard
 Thing
 Thing (FF/Pro-Registration; Fractured Family)
 Thor (Avengers)
+Thor (Frightful)
 Thor (MCU Heroes)
 Thunder Rosa
 Toad
