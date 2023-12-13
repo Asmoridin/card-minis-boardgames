@@ -97,7 +97,8 @@ Flash Thompson/Agent Venom
 Fox Mulder
 Franklin Richards
 Frenchie
-Galactus
+Galactus (Frightful Foes)
+Galactus (The Frightful)
 Gambit
 Gamora (Guardians of the Galaxy)
 Gamora (MCU Heroes)
@@ -105,6 +106,7 @@ Ghost (MCU Villains)
 Ghost (Predators)
 Ghost Rider
 Ghost-Spider
+God Emperor Doom
 Goom
 Grandmaster
 Green Goblin
@@ -141,7 +143,8 @@ Joseph
 Juggernaut (BOM Expansion)
 Juggernaut (Heroes of Krakoa)
 Jungle Hunter
-Kang
+Kang (Frightful Foes)
+Kang (The Frightful)
 Kano
 Karnak
 Kate Pryde/Kitty Pryde
@@ -175,6 +178,7 @@ Mister Fantastic (FF/Pro-Registration; Fractured Family)
 MJF
 Mobius
 Mole Man
+Molecule Man
 Monica Rambeau
 Morbius
 Mother's Milk
@@ -271,6 +275,7 @@ The Dragon
 The First Evil
 The Grandmaster
 The Maestro
+The Maker
 The Master
 The Newborn
 The Perfect Organism
