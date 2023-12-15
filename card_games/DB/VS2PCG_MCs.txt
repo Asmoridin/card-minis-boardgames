@@ -25,6 +25,7 @@ Black Cat
 Black Panther (Anti-Registration)
 Black Panther (Avengers)
 Black Panther (MCU Heroes)
+*Black Panther*
 Black Widow (MCU Heroes)
 Black Widow (Pro-Registration)
 Black Widow (SHIELD)
@@ -166,6 +167,7 @@ Madame Hydra
 Magneto (Brotherhood of Mutants)
 Magneto (Heroes of Krakoa)
 Magneto (Supervillains)
+*Magneto*
 Malakai Black
 Marvel Girl
 Master Mold
@@ -315,3 +317,4 @@ X-23
 Xander
 Xorn
 Yellowjacket
+Zombie Heroes
