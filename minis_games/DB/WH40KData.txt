@@ -2,17 +2,30 @@ Adrax Agatone;Adeptus Astartes, Salamanders;Infantry, Character, Epic Hero, Impe
 Aggressor Squad;Adeptus Astartes;Infantry, Imperium, Gravis;220;0
 Ancient in Termintor Ancient;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Ancient;85;0
 Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
+Annihilation Barge;Necrons;Vehicle, Fly;115;0
 Apothecary Biologis;Adeptus Astartes;Infantry, Character, Imperium, Gravis, Apothecary, Biologis;55;1
 Apothecary;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
+Archaeopter Fusilave;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;Adeptus Mechanicus;150;0
+Archaeopter Stratoraptor;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;175;0
+Archaeopter Transvector;Adeptus Mechanicus;Vehicle, Aircraft, Transport, Fly, Imperium, Skitarii;155;0
 Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;0
 Assault Intercessors with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium, Tacticus;180;1.5
 Ballistus Dreadnought;Adeptus Astartes;Vehicle, Walker, Imperium, Dreadnought;160;1
 Barbgaunts;Tyranids;Infantry, Great Devourer, Barbgaunts;120;.5 // have 5, max unit is 10
+Belisarius Cawl;Adeptus Mechanicus;Monster, Character, Epic Hero, Imperium, Tech-Priest, Cult Mechanicus;180;0
 Biovores;Tyranids;Infantry, Great Devourer, Biovores;225;0
 Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Ancient;50;0
 Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;0
 Broodlord;Tyranids;Infantry, Character, Psyker, Great Devourer, Vanguard Invader, Broodlord;90;0
 Brutalis Dreadnought;Adeptus Astartes;Vehicle, Walker, Imperium, Dreadnought;210;0
+C'tan Shard of the Deceiver;Necrons;Monster, Character, Epic Hero, Fly;265;0
+C'tan Shard of the Nightbringer;Necrons;Monster, Character, Epic Hero, Fly;255;0
+C'tan Shard of the Void Dragon;Necrons;Monster, Character, Fly, Epic Hero;270;0
+Canoptek Doomstalker;Necrons;Vehicle, Walker, Canoptek;125;0
+Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;0
+Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;0
+Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;0
+Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;0
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
 Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Gravis, Captain;85;0
 Captain in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Captain;75;0
@@ -20,6 +33,7 @@ Captain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Ter
 Captain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Grenades, Imperium, Tacticus, Captain;95;1
 Captain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Captain;70;0
 Carnifexes;Tyranids;Monster, Great Devourer, Carnifexes;250;0
+Catacomb Comand Barge;Necrons;Vehicle, Character, Fly;155;0
 Centurion Assault Squad;Adeptus Astartes;Infantry, Imperium, Centurion;340;0
 Centurion Devastator Squad;Adeptus Astartes;Infantry, Imperium, Centurion;400;0
 Chaplain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Chaplain;85;1
@@ -27,19 +41,30 @@ Chaplain on Bike;Adeptus Astartes;Mounted, Character, Grenades, Imperium, Chapla
 Chaplain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Imperium, Chaplain;85;0
 Chaplain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;65;0
 Chief Librarian Tigurius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Psyker, Imperium, Tacticus;85;0
+Chronomancer;Necrons;Infantry, Character, Cryptek;;50;0
 Company Heroes;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;95;0
+Convergence of Dominion;Necrons;Fortification, Vehicle;180;0
+Corpuscarii Electro-Priests;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Electro-Priests, Corpuscarii;120;0
+Cryptothralls;Necrons;Infantry;40;0
+Cybernetica Datasmith;Adeptus Mechanicus;Infantry, Character, Imperium, Legio Cybernetica, Tech-Priest;35;0
 Darnath Lysander;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Imperium, Terminator, Captain;110;0
 Deathleaper;Tyranids;Infantry, Character, Epic Hero, Great Devourer, Vanguard Invader, Deathleaper;70;0
+Deathmarks;Necrons;Infantry;130;0
 Desolation Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;240;0
 Devastator Squad;Adeptus Astartes;Infantry, Grenades, Imperium;200;0
+Doom Scythe;Necrons;Vehicle, Aircraft, Fly;230;0
+Doomsday Ark;Necrons;Vehicle, Fly;185;0
 Dreadnought;Adeptus Astartes;Vehicle, Walker, Smoke, Imperium;155;0
 Drop Pod;Adeptus Astartes;Vehicle, Transport, Imperium;65;0
 Eliminator Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Phobos;85;0
 Eradicator Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Gravis;190;0
 Exocrine;Tyranids;Monster, Great Devourer, Exocrine;135;0
 Firestrike Servo-Turrets;Adeptus Astartes;Artillery, Vehicle, Imperium;150;0
+Flayed Ones;Necrons;Infantry;140;0
+Fulgurite Electro-Priests;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Electro-Priests, Fulgurite;150;0
 Gargoyles;Tyranids;Infantry, Battleline, Fly, Great Devourer, Endless Multitude, Vanguard Invader, Gargoyles;150;0
 Genestealers;Tyranids;Infantry, Great Devourer, Vanguard Invader, Genestealers;170;0
+Ghost Ark;Necrons;Vehicle, Fly, Transport, Dedicated Transport;125;0
 Gladiator Lancer;Adeptus Astartes;Vehicle, Smoke, Imperium;135;0
 Gladiator Reaper;Adeptus Astartes;Vehicle, Smoke, Imperium;145;0
 Gladiator Valiant;Adeptus Astartes;Vehicle, Smoke, Imperium;145;0
@@ -48,10 +73,14 @@ Harpy;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Harpy;2
 Haruspex;Tyranids;Monster, Great Devourer, Harvester, Haruspex;125;0
 Heavy Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Gravis;230;0
 Hellblaster Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;250;0
+Hexmark Destroyer;Necrons;Infantry, Character, Destroyer Cult;70;0
 Hive Crone;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Hive Crone;200;0
 Hive Guard;Tyranids;Infantry, Great Devourer, Hive Guard;220;0
 Hive Tyrant;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Hive Tyrant;235;0
 Hormagaunts;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts;130;0
+Illuminor Szeras;Necrons;Infantry, Character, Epic Hero, Cryptek;210;0
+Immortals;Necrons;Infantry, Battleline;140;0
+Imotekh The Stormlord;Necrons;Infantry, Character, Epic Hero, Noble;110;0
 Impulsor;Adeptus Astartes;Vehicle, Transport, Dedicated Transport, Imperium;85;0
 Inceptor Squad;Adeptus Astartes;Infantry, Jump Pack, Fly, Imperium, Gravis;220;0
 Incursor Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Imperium, Phobos;180;0
@@ -61,7 +90,11 @@ Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tac
 Invader ATV;Adeptus Astartes;Mounted, Grenades, Imperium;75;1
 Invictor Tactical Warsuit;Adeptus Astartes;Vehicle, Walker, Imperium, Phobos;155;0
 Iron Father Feirros;Adeptus Astartes, Iron Hands;Infantry, Character, Epic Hero, Imperium, Gravis;105;0
+Ironstrider Ballistarii;Adeptus Mechanicus;Vehicle, Walker, Smoke, Imperium, Skitarii;150;0
 Judicar;Adeptus Astartes;Infantry, Character, Imperium, Tacticus;70;0
+Kastelan Robots;Adeptus Mechanicus;Vehicle, Walker, Imperium, Legion Cybernetica;430;0
+Kataphron Breachers;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Kataphron;300;0
+Kataphron Destroyers;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Kataphron;240;0
 Kayvaan Shrike;Adeptus Astartes, Raven Guard;Infantry, Character, Epic Hero, Fly, Jump Pack, Imperium, Phobos, Chapter Master;110;0
 Kor'Sarro Khan;Adeptus Astartes, White Scars;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;70;0
 Land Raider Crusader;Adeptus Astartes;Vehicle, Smoke, Grenades, Transport, Imperium;245;0
@@ -75,22 +108,39 @@ Lieutenant in Phobos Armor;Adeptus Astartes;Infantry, Character, Grenades, Imper
 Lieutenant in Reiver Armour;Adeptus Astartes;Infantry, Character, Smoke, Grenades, Imperium, Phobos, Lieutenant;65;0
 Lieutenant with Combi-Weapon;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Lieutenant;70;1
 Lieutenant;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Lieutenant;65;0
+Lokhust Destroyers;Necrons;Mounted, Fly, Destroyer Cult;200;0
+Lokhust Heavy Destroyers;Necrons;Mounted, Fly, Destroyer Cult;135;0
+Lokhust Lord;Necrons;Mounted, Character, Fly, Destroyer Cult;90;0
+Lychguard;Necrons;Infantry;190;0
 Maleceptor;Tyranids;Monster, Psyker, Great Devourer, Synapse, Maleceptor;170;0
 Marneus Calgar;Adeptus Astartes, Ultramarines;Infantry, Imperium, Character, Epic Hero, Gravis, Chapter Master;200;0
 Mawloc;Tyranids;Monster, Great Devourer, Mawloc;145;0
+Monolith;Necrons;Vehicle, Titanic, Fly, Towering;400;0
 Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
+Necron Warriors;Necrons;Infantry, Battleline;200;0
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
 Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;65;0
 Neurotyrant;Tyranids;Monster, Character, Fly, Psyker, Great Devourer, Synapse, Neurotyrant;105;1
+Night Scythe;Necrons;Vehicle, Aircraft, Fly, Transport;145;0
 Norn Assimilator;Tyranids;Monster, Great Devourer, Synapse, Norn Assimilator;310;0
 Norn Emissary;Tyranids;Monster, Psyker, Great Devourer, Synapse, Norn Emissary;290;0
+Obelisk;Necrons;Vehicle, Titanic, Fly, Towering;350;0
 Old One Eye;Tyranids;Monster, Character, Epic Hero, Great Devourer, Old One Eye;140;0
+Onager Dunecrawler;Adeptus Mechanicus;Vehicle, Walker, Imperium, Skitarii, Smoke;155;0
+Ophydian Destroyers;Necrons;Infantry, Destroyer Cult;220;0
+Orikan The Diviner;Necrons;Infantry, Character, Epic Hero, Cryptek, Chronomancer;80;0
 Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;.5
+Overlord with Translocation Shroud;Necrons;Infantry, Character, Noble, Overlord;85;0
+Overlord;Necrons;Infantry, Character, Noble;85;0
 Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader, Parasite of Mortrex;80;0
 Pedro Kantor;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;100;0
+Plasmancer;Necrons;Infantry, Character, Cryptek;55;0
 Predator Annihilator;Adeptus Astartes;Vehicle, Smoke, Imperium;120;0
 Predator Destructor;Adeptus Astartes;Vehicle, Smoke, Imperium;130;0
+Psychomancer;Necrons;Infantry, Character, Cryptek;55;0
 Psycophage;Tyranids;Monster, Great Devourer, Harvester, Psychopage;125;1
+Pteraxii Skystalkers;Adeptus Mechanicus;Infantry, Fly, Jump Pack, Grenades, Imperium, Skitarii, Pteraxii;130;0
+Pteraxii Sterylizors;Adeptus Mechanicus;Infantry, Fly, Jump Pack, Imperium, Skitarii, Pteraxii;150;0
 Pyrovores;Tyranids;Infantry, Great Devourer, Harvester, Pyrovores;90;0
 Raveners;Tyranids;Infantry, Great Devourer, Raveners;150;0
 Razorback;Adeptus Astartes;Vehicle, Smoke, Transport, Dedicated Transport, Imperium;90;0
@@ -101,8 +151,20 @@ Repulsor;Adeptus Astartes;Vehicle, Smoke, Transport, Imperium;190;0
 Rhino;Adeptus Astartes;Vehicle, Smoke, Transport, Dedicated Transport, Imperium;75;0
 Ripper Swarms;Tyranids;Swarm, Great Devourer, Harvester, Ripper Swarms;60;2/3 // have 2, max size is 3
 Roboute Guilliman;Adeptus Astartes, Ultramarines;Monster, Character, Epic Hero, Imperium, Primarch;345;0
+Royal Warden;Necrons;Infantry, Character;45;0
 Scout Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Imperium;140;0
 Screamer-Killer;Tyranids;Monster, Great Devourer, Screamer-Killer;170;1
+Serberys Raiders;Adeptus Mechanicus;Mounted, Imperium, Skitarii;160;0
+Serberys Sulphurhounds;Adeptus Mechanicus;Mounted, Imperium, Skitarii;130;0
+Sicarian Infiltrators;Adeptus Mechanicus;Infantry, Imperium, Skitarii, Sicarian;160;0
+Sicarian Ruststalkers;Adeptus Mechanicus;Infantry, Imperium, Skitarii, Sicarian;150;0
+Skitarii Marshal;Adeptus Mechanicus;Infantry, Character, Imperium, Skitarii;45;0
+Skitarii Rangers;Adeptus Mechanicus;Infantry, Battleline, Imperium, Skitarii;130;0
+Skitarii Vanguard;Adeptus Mechanicus;Infantry, Battleline, Imperium, Skitarii;105;0
+Skorpekh Destroyers;Necrons;Infantry, Destroyer Cult;240;0
+Skorpekh Lord;Necrons;Infantry, Character, Destroyer Cult;115;0
+Skorpius Disintegrator;Adeptus Mechanicus;Vehicle, Imperium, Skitarii, Smoke;195;0
+Skorpius Dunerider;Adeptus Mechanicus;Vehicle, Transport, Dedicated Transport, Imperium, Skitarii, Smoke;95;0
 Spore Mines;Tyranids;Beast, Fly, Great Devourer, Spore Mines;110;0
 Sporocyst;Tyranids;Monster, Great Devourer, Sporocyst;145;0
 Sternguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;.5 // have 5, max unit is 10
@@ -113,15 +175,30 @@ Stormhawk Interceptor;Adeptus Astartes;Vehicle, Fly, Aircraft, Imperium, Smoke;1
 Stormraven Gunship;Adeptus Astartes;Vehicle, Fly, Aircraft, Transport, Imperium;240;0
 Stormtalon Gunship;Adeptus Astartes;Vehicle, Fly, Aircraft, Imperium;165;0
 Suppressor Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Jump Pack, Fly, Imperium;95;0
+Sydonian Dragoons with Radium Jezzails;Adeptus Mechanicus;Vehicle, Walker, Smoke, Imperium, Skitarii, Sydonian;135;0
+Sydonian Dragoons with Taser Lances;Adeptus Mechanicus;Vehicle, Walker, Smoke,Imperium, Skitarii, Sydonian;240;0
+Sydonian Skatros;Adeptus Mechanicus;Infantry, Character, Imperium, Skitarii, Sydonian;65;0
 Tactical Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium;165;0
+Tech-Priest Dominus;Adeptus Mechanicus;Infantry, Character, Imperium, Cult Mechanicus, Tech-Priest;75;0
+Tech-Priest Enginseer;Adeptus Mechanicus;Infantry, Character, Imperium, Cult Mechanicus, Tech-Priest;45;0
+Tech-Priest Manipulus;Adeptus Mechanicus;Infantry, Character, Imperium, Cult Mechanicus, Tech-Priest;60;0
 Techmarine;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;60;0
+Technoarcheologist;Adeptus Mechanicus;Infantry, Character, Imperium, Cult Mechanicus, Tech-Priest;45;0
+Technomancer;Necrons;Infantry, Character, Fly, Cryptek;60;0
 Termagants;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Termagants;120;1
 Terminator Assault Squad;Adeptus Astartes;Infantry, Imperium, Terminator;390;0
 Terminator Sqaud;Adeptus Astartes;Infantry, Imperium, Terminator;400;.5 // have 5 unit max is 10
 Tervigon;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Tervigon;190;0
+Tesseract Vault;Necrons;Vehicle, Titanic, Fly, Towering;475;0
+The Silent King;Necrons;Vehicle, Character, Epic Hero;480;0
 The Swarmlord;Tyranids;Monster, Character, Epic Hero, Psyker, Great Devourer, Synapse, Hive Tyrant, The Swarmlord;270;0
+Tomb Blades;Necrons;Mounted, Fly;150;0
 Tor Garadon;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Imperium, Gravis, Captain;100;0
 Toxicrene;Tyranids;Monster, Great Devourer, Toxicrene;180;0
+Transcendent C'tan;Necrons;Monster, Character, Fly;275;0
+Trazyn The Infinite;Necrons;Infantry, Character, Epic Hero, Noble;75;0
+Triarch Praetorians;Necrons;Infantry, Fly, Triarch;280;0
+Triarch Stalker;Necrons;Vehicle, Walker, Triarch;160;0
 Trygon;Tyranids;Monster, Great Devourer, Trygon;180;0
 Tyranid Warriors with Melee Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Melee Bio-Weapons;170;0
 Tyranid Warriors with Ranged Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Ranged Bio-Weapons;140;0
