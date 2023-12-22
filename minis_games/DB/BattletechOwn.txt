@@ -732,6 +732,30 @@ Hermes II HER-5S;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hermes II;
 Hermes II HER-5SA;Inner Sphere;Medium Mech;Jihad (3068 - 3080);Hermes II;Striker;3050;0
 Hermes II HER-6D;Inner Sphere;Medium Mech;Civil War (3062 - 3067);Hermes II;Striker;3050;0
 Hermes III HER-4K;Inner Sphere;Medium Mech;Late Succession War - Renaissance (3020 - 3049);Hermes II;Scout;3039;0
+Hetzer Wheeled Assault Gun (AC10);Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun (LB-X);Inner Sphere;Medium Vehicle;Civil War (3062 - 3067);Hetzer;Ambusher;3058;0
+Hetzer Wheeled Assault Gun (LRM);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Hetzer;Missile Boat;3039;0
+Hetzer Wheeled Assault Gun (Laser);Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun (SRM);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun (Scout);Inner Sphere;Medium Vehicle;Late Succession War - LosTech (2901 - 3019);Hetzer;Ambusher;3039;0
+Hetzer Wheeled Assault Gun;Inner Sphere;Medium Vehicle;Early Succession War (2781 - 2900);Hetzer;Ambusher;3039;0
+Hi-Scout Drone Carrier;Inner Sphere;Heavy Vehicle;Late Succession War - LosTech (2901 - 3019);Hi-Scout Drone Carrier;None;3039;0
+Highlander HGN-694;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Highlander;Juggernaut;3050;0
+Highlander HGN-732;Inner Sphere;Assault Mech;Star League (2571 - 2780);Highlander;Sniper;3050;0
+Highlander HGN-733;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Highlander;Juggernaut;3039;0
+Highlander HGN-733C;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Highlander;Juggernaut;3039;0
+Highlander HGN-733P;Inner Sphere;Assault Mech;Early Succession War (2781 - 2900);Highlander;Sniper;3039;0
+Highlander HGN-734;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Highlander;Juggernaut;3050;0
+Highlander HGN-736;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Highlander;Sniper;3050;0
+Highlander HGN-738;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Highlander;Juggernaut;3050;0
+Hoplite C;Clan;Medium Mech;Clan Invasion (3050 - 3061);Hoplite;Brawler;3050;0
+Hoplite HOP-4B;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hoplite;Sniper;3050;0
+Hoplite HOP-4C;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hoplite;Brawler;3050;0
+Hoplite HOP-4D;Inner Sphere;Medium Mech;Clan Invasion (3050 - 3061);Hoplite;Sniper;3050;0
+Hornet HNT-151;Inner Sphere;Light Mech;Star League (2571 - 2780);Hornet;Striker;3039;0
+Hornet HNT-152;Inner Sphere;Light Mech;Late Succession War - LosTech (2901 - 3019);Hornet;Striker;3039;0
+Hornet HNT-161;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hornet;Striker;3050;0
+Hornet HNT-171;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Hornet;Striker;3050;0
 Hunchback HBK-4G;Inner Sphere;Medium Mech;Star League (2571 - 2780);Hunchback;Juggernaut;3039;1
 Hunchback HBK-4H;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hunchback;Juggernaut;3039;0
 Hunchback HBK-4J;Inner Sphere;Medium Mech;Early Succession War (2781 - 2900);Hunchback;Missile Boat;3039;0
