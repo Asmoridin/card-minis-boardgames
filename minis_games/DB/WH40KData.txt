@@ -5,7 +5,7 @@ Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
 Annihilation Barge;Necrons;Vehicle, Fly;115;0
 Apothecary Biologis;Adeptus Astartes;Infantry, Character, Imperium, Gravis, Apothecary, Biologis;55;1
 Apothecary;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
-Archaeopter Fusilave;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;Adeptus Mechanicus;150;0
+Archaeopter Fusilave;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;150;0
 Archaeopter Stratoraptor;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;175;0
 Archaeopter Transvector;Adeptus Mechanicus;Vehicle, Aircraft, Transport, Fly, Imperium, Skitarii;155;0
 Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;0
@@ -41,7 +41,7 @@ Chaplain on Bike;Adeptus Astartes;Mounted, Character, Grenades, Imperium, Chapla
 Chaplain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Imperium, Chaplain;85;0
 Chaplain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;65;0
 Chief Librarian Tigurius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Psyker, Imperium, Tacticus;85;0
-Chronomancer;Necrons;Infantry, Character, Cryptek;;50;0
+Chronomancer;Necrons;Infantry, Character, Cryptek;50;0
 Company Heroes;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;95;0
 Convergence of Dominion;Necrons;Fortification, Vehicle;180;0
 Corpuscarii Electro-Priests;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Electro-Priests, Corpuscarii;120;0

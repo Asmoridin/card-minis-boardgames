@@ -27,7 +27,11 @@ army_points = {}
 filter_lines = []
 for line in lines:
     line = line.split('//')[0].strip()
-    item_name, factions, keywords, points, item_own = line.split(';')
+    try:
+        item_name, factions, keywords, points, item_own = line.split(';')
+    except:
+        print("Issue with line: " + line)
+        continue
     item_names.add(item_name)
     factions = factions.split(',')
     factions = [faction.strip() for faction in factions]
