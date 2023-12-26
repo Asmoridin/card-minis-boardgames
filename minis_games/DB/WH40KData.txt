@@ -23,8 +23,8 @@ C'tan Shard of the Nightbringer;Necrons;Monster, Character, Epic Hero, Fly;255;1
 C'tan Shard of the Void Dragon;Necrons;Monster, Character, Fly, Epic Hero;270;0
 Canoptek Doomstalker;Necrons;Vehicle, Walker, Canoptek;125;0
 Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;0
-Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;0
-Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;0
+Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;1
+Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;.5
 Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;0
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
 Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Gravis, Captain;85;0
