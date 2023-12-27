@@ -23,9 +23,9 @@ C'tan Shard of the Nightbringer;Necrons;Monster, Character, Epic Hero, Fly;255;1
 C'tan Shard of the Void Dragon;Necrons;Monster, Character, Fly, Epic Hero;270;0
 Canoptek Doomstalker;Necrons;Vehicle, Walker, Canoptek;125;0
 Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;0
-Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;1
+Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;1 // have 7 total models
 Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;.5
-Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;0
+Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;1
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
 Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Gravis, Captain;85;0
 Captain in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Captain;75;0
@@ -108,16 +108,16 @@ Lieutenant in Phobos Armor;Adeptus Astartes;Infantry, Character, Grenades, Imper
 Lieutenant in Reiver Armour;Adeptus Astartes;Infantry, Character, Smoke, Grenades, Imperium, Phobos, Lieutenant;65;0
 Lieutenant with Combi-Weapon;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Lieutenant;70;1
 Lieutenant;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Lieutenant;65;0
-Lokhust Destroyers;Necrons;Mounted, Fly, Destroyer Cult;200;0
+Lokhust Destroyers;Necrons;Mounted, Fly, Destroyer Cult;200;.5 // 4 total models
 Lokhust Heavy Destroyers;Necrons;Mounted, Fly, Destroyer Cult;135;0
-Lokhust Lord;Necrons;Mounted, Character, Fly, Destroyer Cult;90;0
+Lokhust Lord;Necrons;Mounted, Character, Fly, Destroyer Cult;90;1
 Lychguard;Necrons;Infantry;190;0
 Maleceptor;Tyranids;Monster, Psyker, Great Devourer, Synapse, Maleceptor;170;0
 Marneus Calgar;Adeptus Astartes, Ultramarines;Infantry, Imperium, Character, Epic Hero, Gravis, Chapter Master;200;0
 Mawloc;Tyranids;Monster, Great Devourer, Mawloc;145;0
 Monolith;Necrons;Vehicle, Titanic, Fly, Towering;400;0
 Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
-Necron Warriors;Necrons;Infantry, Battleline;200;0
+Necron Warriors;Necrons;Infantry, Battleline;200;2.5 // Have 53 total models
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
 Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;65;0
 Neurotyrant;Tyranids;Monster, Character, Fly, Psyker, Great Devourer, Synapse, Neurotyrant;105;1
@@ -131,7 +131,7 @@ Ophydian Destroyers;Necrons;Infantry, Destroyer Cult;220;0
 Orikan The Diviner;Necrons;Infantry, Character, Epic Hero, Cryptek, Chronomancer;80;0
 Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;.5
 Overlord with Translocation Shroud;Necrons;Infantry, Character, Noble, Overlord;85;0
-Overlord;Necrons;Infantry, Character, Noble;85;0
+Overlord;Necrons;Infantry, Character, Noble;85;1
 Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader, Parasite of Mortrex;80;0
 Pedro Kantor;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;100;0
 Plasmancer;Necrons;Infantry, Character, Cryptek;55;0
