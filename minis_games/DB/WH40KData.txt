@@ -174,6 +174,7 @@ Storm Speeder Thunderstrike;Adeptus Astartes;Vehicle, Fly, Imperium;150;0
 Stormhawk Interceptor;Adeptus Astartes;Vehicle, Fly, Aircraft, Imperium, Smoke;155;0
 Stormraven Gunship;Adeptus Astartes;Vehicle, Fly, Aircraft, Transport, Imperium;240;0
 Stormtalon Gunship;Adeptus Astartes;Vehicle, Fly, Aircraft, Imperium;165;0
+Strike Squad;Grey Knights;Infantry, Battleline, Psyker, Grenades, Imperium;250;.5 // have 5 models, unit max is 10
 Suppressor Squad;Adeptus Astartes;Infantry, Grenades, Smoke, Jump Pack, Fly, Imperium;95;0
 Sydonian Dragoons with Radium Jezzails;Adeptus Mechanicus;Vehicle, Walker, Smoke, Imperium, Skitarii, Sydonian;135;0
 Sydonian Dragoons with Taser Lances;Adeptus Mechanicus;Vehicle, Walker, Smoke,Imperium, Skitarii, Sydonian;240;0
