@@ -45,7 +45,7 @@ for line in lines:
     item_max = 3
     if 'Epic Hero' in keywords:
         item_max = 1
-    elif 'Batteline' in keywords or 'Dedicated Transport' in keywords:
+    elif 'Battleline' in keywords or 'Dedicated Transport' in keywords:
         item_max = 6
     total_max += item_max
     total_own += item_own
