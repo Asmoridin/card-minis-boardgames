@@ -29,14 +29,14 @@ Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;1
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
 Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Gravis, Captain;85;0
 Captain in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Captain;75;0
-Captain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Captain;95;0
+Captain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Captain;95;1
 Captain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Grenades, Imperium, Tacticus, Captain;95;1
 Captain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Captain;70;1
 Carnifexes;Tyranids;Monster, Great Devourer, Carnifexes;250;0
 Catacomb Comand Barge;Necrons;Vehicle, Character, Fly;155;0
 Centurion Assault Squad;Adeptus Astartes;Infantry, Imperium, Centurion;340;0
 Centurion Devastator Squad;Adeptus Astartes;Infantry, Imperium, Centurion;400;0
-Chaplain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Chaplain;85;2
+Chaplain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Chaplain;85;1
 Chaplain on Bike;Adeptus Astartes;Mounted, Character, Grenades, Imperium, Chaplain;75;0
 Chaplain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Imperium, Chaplain;85;1
 Chaplain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;65;0
