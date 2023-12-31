@@ -1,11 +1,14 @@
-I own 42.17 out of 690 - 6.11 percent
+I own 48.17 out of 699 - 6.89 percent
 Buy a Smoke unit from the Adeptus Astartes army, perhaps a Razorback
 
 Army points summary:
- - Adeptus Astartes: 1750
+ - Adepta Sororitas: 50
+ - Adeptus Astartes: 1760
+ - Aeldari: 110
  - Agents of the Imperium: 80
- - Drukhari: 400
- - Grey Knights: 425
- - Necrons: 2450
+ - Black Templars: 75
+ - Drukhari: 485
+ - Grey Knights: 550
+ - Necrons: 2605
  - Thousand Sons: 130
  - Tyranids: 805
