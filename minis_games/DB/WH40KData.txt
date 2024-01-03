@@ -17,7 +17,7 @@ Apothecary;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55
 Archaeopter Fusilave;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;150;0
 Archaeopter Stratoraptor;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Skitarii;175;0
 Archaeopter Transvector;Adeptus Mechanicus;Vehicle, Aircraft, Transport, Fly, Imperium, Skitarii;155;0
-Archon;Drukhari;Infantry, Kabal, Character, Aeldari;75;0
+Archon;Drukhari;Infantry, Kabal, Character, Aeldari;75;1
 Arco-Flagellants;Adepta Sororitas;Infantry, Imperium;130;0
 Armoured Sentinels;Astra Militarum;Vehicle, Walker, Imperium, Regiment, Squadron, Smoke;210;0
 Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;0
@@ -67,7 +67,7 @@ Callidus Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Imperiu
 Canoness;Adepta Sororitas;Infantry, Character, Grenades, Imperium;50;1
 Canoptek Doomstalker;Necrons;Vehicle, Walker, Canoptek;125;0
 Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;0
-Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;1 // have 8 total models, unit is 3/6
+Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;1.5 // have 9 total models, unit is 3/6
 Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;1 // unit is 1-2, I have 2
 Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;1
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
@@ -166,7 +166,7 @@ Grey Knights Stormhawk Interceptor;Grey Knights;Vehicle, Aircraft, Fly, Smoke, I
 Grey Knights Stormraven Gunship;Grey Knights;Vehicle, Aircraft, Transport, Fly, Imperium;265;0
 Grey Knights Stormtalon Gunship;Grey Knights;Vehicle, Aircraft, Fly, Imperium;170;0
 Grey Knights Venerable Dreadnought;Grey Knights;Vehicle, Walker, Psyker, Smoke, Imperium;155;0
-Grotesques;Drukhari;Infantry, Haemonculus Covens;Aeldari;210;0 // unit is 3/6, I have 2 models
+Grotesques;Drukhari;Infantry, Haemonculus Covens, Aeldari;210;0 // unit is 3/6, I have 2 models
 Guardian Defenders;Aeldari;Infantry, Battleline, Grenades, Guardians;110;0
 Haemonculus;Drukhari;Infantry, Haemonculus Covens, Character, Aeldari;60;1
 Hammerfall Bunker;Adeptus Astartes;Fortification, Vehicle, Imperium;175;0
@@ -477,7 +477,7 @@ Wraithblades;Aeldari;Infantry, Wraith Construct;340;0
 Wraithguard;Aeldari;Infantry, Wraith Construct;340;0
 Wraithknight;Aeldari;Monster, Titanic, Towering, Walker, Wraith Construct;510;0
 Wraithlord;Aeldari;Monster, Walker, Wraith Construct;160;0
-Wyches;Drukhari;Infantry, Battleline, Wych Cult, Aeldari;90;0
+Wyches;Drukhari;Infantry, Battleline, Wych Cult, Aeldari;90;0 // unit size is 10, have 5
 Wyvern;Astra Militarum;Vehicle, Artillery, Imperium, Squadron, Smoke;110;0
 Yvraine;Aeldari;Infantry, Character, Epic Hero, Ynnari, Psyker;100;0
 Zephyrim Squad;Adepta Sororitas;Infantry, Jump Pack, Fly, Grenades, Imperium;140;0

@@ -5,7 +5,7 @@ import sys, os
 GAME_NAME = "Warhammer 40,000"
 COMPANY = "Games Workshop"
 
-my_armies = ['Adeptus Astartes', 'Necrons', ]
+my_armies = ['Adeptus Astartes', 'Necrons', 'Adepta Sororitas', ]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('minis_games/DB/WH40KData.txt', 'r')
@@ -27,6 +27,8 @@ army_points = {}
 filter_lines = []
 for line in lines:
     line = line.split('//')[0].strip()
+    if line == '':
+        continue
     try:
         item_name, factions, keywords, points, item_own = line.split(';')
     except:
