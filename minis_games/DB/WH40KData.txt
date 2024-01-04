@@ -9,6 +9,9 @@ Aestred Thurga and Agathae Dolan;Adepta Sororitas;Infantry, Grendaes, Character,
 Aggressor Squad;Adeptus Astartes;Infantry, Imperium, Gravis;220;0
 Ahriman on Disc of Tzeentch;Thousand Sons;Infantry, Character, Epic Hero, Psyker, Fly, Chaos, Tzeentch;140;0
 Ahriman;Thousand Sons;Infantry, Character, Epic Hero, Psyker, Chaos, Tzeentch;130;1
+Aleya;Adeptus Custodes;Infantry, Character, Epic Hero;80;0
+Allarus Custodians;Adeptus Custodes;Infantry, Terminator, Imperium;420;0
+Anathema Psykana Rhino;Adeptus Custodes;Vehicle, Transport, Dedicated Transport, Smoke, Imperium, Anathema Psykana, Rhino;75;0
 Ancient in Termintor Ancient;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Ancient;85;0
 Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;55;0
 Annihilation Barge;Necrons;Vehicle, Fly;115;0
@@ -45,6 +48,7 @@ Black Templars Gladiator Valiant;Adeptus Astartes, Black Templars;Vehicle, Smoke
 Black Templars Impulsor;Adeptus Astartes, Black Templars;Vehicle, Transport, Dedicated Transport, Imperium;85;0
 Black Templars Repulsor Executioner;Adeptus Astartes, Black Templars;Vehicle, Smoke, Transport, Imperium;235;0
 Black Templars Repulsor;Adeptus Astartes, Black Templars;Vehicle, Smoke, Transport, Imperium;200;0
+Blade Champion;Adpetus Custodes;Infantry, Character, Imperium;120;0
 Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Ancient;50;0
 Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;0
 Broodlord;Tyranids;Infantry, Character, Psyker, Great Devourer, Vanguard Invader, Broodlord;90;0
@@ -106,6 +110,8 @@ Crusader Squad;Adeptus Astartes, Black Templars;Infantry, Battleline, Grenades, 
 Crusaders;Adepta Sororitas;Infantry, Imperium;75;0
 Cryptothralls;Necrons;Infantry;40;0
 Culexus Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Grenades, Imperium;85;0
+Custodian Guard;Adeptus Custodes;Infantry, Battleline, Imperium;250;0
+Custodian Wardens;Adeptus Custodes;Infantry, Imperium;275;0
 Cybernetica Datasmith;Adeptus Mechanicus;Infantry, Character, Imperium, Legio Cybernetica, Tech-Priest;35;0
 Daemonifuge;Adepta Sororitas;Infantry, Grenades, Character, Epic Hero, Imperium;80;0
 Dark Reapers;Aeldari;Infantry;160;0
@@ -226,6 +232,7 @@ Kastelan Robots;Adeptus Mechanicus;Vehicle, Walker, Imperium, Legion Cybernetica
 Kataphron Breachers;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Kataphron;300;0
 Kataphron Destroyers;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Kataphron;240;0
 Kayvaan Shrike;Adeptus Astartes, Raven Guard;Infantry, Character, Epic Hero, Fly, Jump Pack, Imperium, Phobos, Chapter Master;110;0
+Knight-Centura;Adeptus Custodes;Infantry, Character, Imperium, Anathema Psykana;75;0
 Kor'Sarro Khan;Adeptus Astartes, White Scars;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;70;0
 Land Raider Crusader;Adeptus Astartes;Vehicle, Smoke, Grenades, Transport, Imperium;245;0
 Land Raider Redeemer;Adeptus Astartes;Vehicle, Smoke, Grenades, Transport, Imperum;280;0
@@ -303,6 +310,7 @@ Primaris Crusader Suqad;Adeptus Astartes, Black Templars;Infantry, Battleline, G
 Primaris Psyker;Astra Militarum;Infantry, Character, Psyker, Imperium;60;0
 Primaris Sword Brethren;Adeptus Astartes, Black Templars;Infantry, Grenades, Imperium, Tacticus;280;0
 Prince Yriel;Aeldari;Infantry, Character, Epic Hero;100;0
+Prosecutors;Adeptus Custodes;Infantry, Battleline, Imperium, Anathema Psykana;100;0
 Psychomancer;Necrons;Infantry, Character, Cryptek;55;0
 Psycophage;Tyranids;Monster, Great Devourer, Harvester, Psychopage;125;1
 Pteraxii Skystalkers;Adeptus Mechanicus;Infantry, Fly, Jump Pack, Grenades, Imperium, Skitarii, Pteraxii;130;0
@@ -347,6 +355,9 @@ Sergeant Harker;Astra Militarum;Infantry, Character, Epic Hero, Imperium, Grenad
 Servitors;Grey Knights;Infantry, Imperium;50;0
 Shadowseer;Aeldari;Infantry, Character, Psyker, Grenades, Harlequins;60;0
 Shadowsword;Astra Militarum;Vehicle, Titanic, Imperium, Smoke;440;0
+Shield-Captain in Allarus Terminator Armour;Adeptus Custodes;Infantry, Character, Imperium, Terminator, Shield-Captain;140;0
+Shield-Captain on Dawneagle Jetbike;Adeptus Custodes;Mounted, Character, Fly, Imperium, Dawneagle Jetbike, Shield-Captain;180;0
+Shield-Captain;Adeptus Custodes;Infantry, Character, Imperium;140;0
 Shining Spears;Aeldari;Mounted, Fly;240;0
 Shroud Runners;Aeldari;Mounted, Fly;160;0
 Sicarian Infiltrators;Adeptus Mechanicus;Infantry, Imperium, Skitarii, Sicarian;160;0
@@ -428,6 +439,7 @@ Thousand Sons Vindicator;Thousand Sons;Vehicle, Smoke, Chaos, Tzeentch;190;0
 Tomb Blades;Necrons;Mounted, Fly;150;0
 Tor Garadon;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Imperium, Gravis, Captain;100;0
 Toxicrene;Tyranids;Monster, Great Devourer, Toxicrene;180;0
+Trajann Valoris;Adeptus Custodes;Infantry, Character, Epic Hero, Imperium;160;0
 Transcendent C'tan;Necrons;Monster, Character, Fly;275;0
 Trazyn The Infinite;Necrons;Infantry, Character, Epic Hero, Noble;75;0
 Triarch Praetorians;Necrons;Infantry, Fly, Triarch;280;0
@@ -447,11 +459,16 @@ Tzaangors;Thousand Sons;Infantry, Battleline, Chaos, Tzeentch;130;0
 Uriel Ventris;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;75;0
 Urien Rakarth;Drukhari;Infantry, Haemonculus Covens, Character, Epic Hero, Aeldari, Haemonculus;80;0
 Ursula Creed;Astra Militarum;Infantry, Character, Epic Hero, Imperium, Officer;55;0
+Valerian;Adeptus Custodes;Infantry,  Character, Epic Hero, Imperium, Shield-Captain;115;0
 Valkyrie;Astra Militarum;Vehicle, Fly, Aircraft, Imperium, Transport;190;0
 Vanguard Veteran Squad with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium;250;0
+Venerable Contemptor Dreadnought;Adeptus Custodes;Vehicle, Walker, Imperium;185;0
+Venerable Land Raider;Adeptus Custodes;Vehicle, Imperium, Transport, Smoke;240;0
 Venom;Drukhari;Vehicle, Transport, Dedicated Transport, Fly, Aeldari;80;0
 Venomthropes;Tyranids;Infantry, Fly, Great Devourer, Venomthropes;140;0
+Vertus Praetors;Adeptus Custodes;Mounted, Fly, Imperium;240;0
 Vigilant Squad;Agents of the Imperium;Infantry, Battleline, Grenades, Imperium, Retinue;105;0
+Vigilators;Adeptus Custodes;Infantry, Imperium, Anathema Psykana;130;0
 Vindicare Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Smoke, Imperium;80;1
 Vindicator;Adeptus Astartes;Vehicle, Smoke, Imperium;195;0
 Voidraven Bomber;Drukhari;Vehicle, Aircraft, Aeldari;195;0
@@ -472,6 +489,7 @@ Whirlwind;Adeptus Astartes;Vehicle, Smoke, Imperium;115;0
 Windriders;Aeldari;Mounted, Fly;240;0
 Winged Hive Tyrant;Tyranids;Monster, Character, Psyker, Fly, Great Devourer, Synapse, Vanguard Invader, Hive Tyrant, Winged Hive Tyrant;210;0
 Winged Tyranid Prime;Tyranids;Infantry, Character, Fly, Great Devourer, Synapse, Vanguard Invader, Winged Tyranid Prime;65;1
+Witchseekers;Adeptus Custodes;Infantry, Imperium, Anathema Psykana;125;0
 Wracks;Drukhari;Infantry, Battleline, Haemonculus Covens, Aeldari;120;0
 Wraithblades;Aeldari;Infantry, Wraith Construct;340;0
 Wraithguard;Aeldari;Infantry, Wraith Construct;340;0
