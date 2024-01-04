@@ -49,7 +49,7 @@ Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tac
 Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;0
 Broodlord;Tyranids;Infantry, Character, Psyker, Great Devourer, Vanguard Invader, Broodlord;90;0
 Brother-Captain Stern;Grey Knights;Infantry, Character, Epic Hero, Psyker, Imperium, Terminator;90;0
-Brother-Captain;Grey Knights;Infantry, Character, Psyker, Terminator, Imperium;90;1
+Brother-Captain;Grey Knights;Infantry, Character, Psyker, Terminator, Imperium;90;2
 Brotherhood Champion;Grey Knights;Infantry, Character, Psyker, Imperium;80;0
 Brotherhood Chaplain;Grey Knights;Infantry, Character, Psyker, Terminator, Imperium;75;0
 Brotherhood Librarian;Grey Knights;Infantry, Character, Terminator, Psyker, Imperium;100;0
@@ -125,7 +125,7 @@ Dominion Squad;Adepta Sororitas;Infantry, Grenades, Imperium;120;0
 Doom Scythe;Necrons;Vehicle, Aircraft, Fly;230;0
 Doomhammer;Astra Militarum;Vehicle, Titanic, Imperium, Transport, Smoke;455;0
 Doomsday Ark;Necrons;Vehicle, Fly;185;0
-Drazhar;Drukhari;Infantry, Character, Epic Hero, Aeldari;90;0
+Drazhar;Drukhari;Infantry, Character, Epic Hero, Aeldari;90;1
 Dreadnought;Adeptus Astartes;Vehicle, Walker, Smoke, Imperium;155;0
 Drop Pod;Adeptus Astartes;Vehicle, Transport, Imperium;65;0
 Eldrad Ulthran;Aeldari;Infantry, Character, Epic Hero, Psyker, Farseer;110;1
@@ -144,7 +144,7 @@ Field Ordnance Battery;Astra Militarum;Infantry, Artillery, Imperium, Grenades, 
 Fire Dragons;Aeldari;Infantry, Grenades;170;0
 Fire Prism;Aeldari;Vehicle, Fly;180;0
 Firestrike Servo-Turrets;Adeptus Astartes;Artillery, Vehicle, Imperium;150;0
-Flayed Ones;Necrons;Infantry;140;1 // Unit is 5/10, I have 10 models
+Flayed Ones;Necrons;Infantry;140;1 // Unit is 5/10, I have 12 models
 Fuegan;Aeldari;Infantry, Character, Epic Hero, Phoenix Lord;115;0
 Fulgurite Electro-Priests;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Electro-Priests, Fulgurite;150;0
 Gargoyles;Tyranids;Infantry, Battleline, Fly, Great Devourer, Endless Multitude, Vanguard Invader, Gargoyles;150;0 // I have 2
@@ -254,7 +254,7 @@ Lord Solar Leontus;Astra Militarum;Mounted, Character, Epic Hero, Imperium, Offi
 Lychguard;Necrons;Infantry;190;0 // unit size is 5/10, I have 1 model
 Magnus the Red;Thousand Sons;Monster, Psyker, Fly, Character, Epic Hero, Daemon, Chaos, Tzeentch, Primarch;440;0
 Maleceptor;Tyranids;Monster, Psyker, Great Devourer, Synapse, Maleceptor;170;0
-Mandrakes;Drukhari;Infantry, Aeldari;130;0
+Mandrakes;Drukhari;Infantry, Aeldari;130;0 // have 2 models - unit is 5/10
 Manticore;Astra Militarum;Vehicle, Artillery, Imperium, Squadron, Smoke;150;0
 Marneus Calgar;Adeptus Astartes, Ultramarines;Infantry, Imperium, Character, Epic Hero, Gravis, Chapter Master;200;0
 Marshal;Adeptus Astartes, Black Templars;Infantry, Character, Grenades, Imperium, Tacticus, Captain;80;1
@@ -268,7 +268,7 @@ Morvenn Vahl;Adepta Sororitas;Vehicle, Walker, Character, Epic Hero, Imperium;12
 Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
 Munitorum Servitors;Astra Militarum;Infantry, Imperium;35;0
 Mutalith Vortex Beast;Thousand Sons;Monster, Daemon, Chaos, Tzeentch;165;0
-Necron Warriors;Necrons;Infantry, Battleline;200;2.5 // Have 56 total models - 10/20 per unit
+Necron Warriors;Necrons;Infantry, Battleline;200;2.5 // Have 57 total models - 10/20 per unit
 Nemesis Dreadknight;Grey Knights;Vehicle, Walker, Psyker, Imperium;185;0
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
 Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;65;0
