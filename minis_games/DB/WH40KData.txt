@@ -39,7 +39,7 @@ Banesword;Astra Militarum;Vehicle, Titanic, Imperium, Smoke;480;0
 Barbgaunts;Tyranids;Infantry, Great Devourer, Barbgaunts;120;.5 // have 5, max unit is 10
 Basilisk;Astra Militarum;Vehicle, Artillery, Imperium, Squadron, Smoke;135;0
 Battle Sisters Squad;Adepta Sororitas;Infantry, Grenades, Batteline, Imperium;100;0 // 10 person squads, 2 special weapons
-Beastmaster;Drukhari;Beasts, Aeldari, Fly, Mounted, Character;105;0
+Beastmaster;Drukhari;Beasts, Aeldari, Fly, Mounted, Character;105;0 // Have 2 Khymaera (unit is 10 total models)
 Belisarius Cawl;Adeptus Mechanicus;Monster, Character, Epic Hero, Imperium, Tech-Priest, Cult Mechanicus;180;0
 Biovores;Tyranids;Infantry, Great Devourer, Biovores;225;0
 Black Templars Gladiator Lancer;Adeptus Astartes, Black Templars;Vehicle, Smoke, Imperium;165;0
@@ -197,7 +197,7 @@ Hydra;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;95;0
 Illic Nightspear;Aeldari;Infantry, Character, Epic Hero;70;0
 Illuminor Szeras;Necrons;Infantry, Character, Epic Hero, Cryptek;210;0
 Imagifier;Adepta Sororitas;Infantry, Grenades, Character, Imperium;35;0
-Immolator;Adepta Sororitas;Vehicle, Smoke, Transport, Dedicated Transport, Imperium;115;1
+Immolator;Adepta Sororitas;Vehicle, Smoke, Transport, Dedicated Transport, Imperium;115;2
 Immortals;Necrons;Infantry, Battleline;140;.5 // Unit is 5/10, I have 5 models
 Imotekh The Stormlord;Necrons;Infantry, Character, Epic Hero, Noble;110;0
 Imperial Navy Breachers;Agents of the Imperium;Infantry, Grenades, Imperium, Navis Imperialis, Retinue;105;0
