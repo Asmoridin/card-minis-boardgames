@@ -1,5 +1,6 @@
 'Iron Hand' Straken;Astra Militarum;Infantry, Character, Epic Hero, Imperium, Grenades, Officer;55;0
 // BLACK TEMPLARS: Your army cannot include any Adeptus Astartes Psyker models, and cannot include any of the following models that do not have the Black Templars keyword: Gladiator Lancer; Gladiator Reaper; Gladiator Valiant; Impulsor; Repulsor; Repulsor Executioner.
+// BLOOD ANGELS: Your army can include Blood Angels units, but it cannot include any Adeptus Astartes units drawn from any other Chapter.
 // DARK ELDAR: Can add up to 500 points of Harlequins/Anhrathe army
 // YNNARI: If Yvraine in army, can include 1500 poitns of Dark Eldar, but no: Phoenix Lords; Anhrathe; Avatar of Khaine; Solitaire; Haemonculus Covens.
 // make sure regimental preacher gets number from sororitas preacher
@@ -25,12 +26,14 @@ Arco-Flagellants;Adepta Sororitas;Infantry, Imperium;130;0
 Armoured Sentinels;Astra Militarum;Vehicle, Walker, Imperium, Regiment, Squadron, Smoke;210;0
 Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;0
 Assault Intercessors with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium, Tacticus;180;1.5
+Astorath;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, Imperium, Chaplain;85;0
 Asurmen;Aeldari;Infantry, Character, Epic Hero, Phoenix Lord;135;0
 Attilan Rough Riders;Astra Militarum;Mounted, Imperium, Grenades, Regiment;140;0
 Autarch Skyrunner;Aeldari;Mounted, Character, Fly, Autarch;90;0
 Autarch Wayleaper;Aeldari;Infantry, Character, Jump Pack, Fly, Grenades;90;0
 Autarch;Aeldari;Infantry, Character, Grenades;75;0
 Avatar of Khaine;Aeldari;Monster, Character, Epic Hero, Daemon;335;0
+Baal Predator;Adeptus Astartes, Blood Angels;Vehicle, Smoke, Imperium;125;0
 Baharroth;Aeldari;Infantry, Character, Epic Hero, Jump Pack, Fly, Grenades, Phoenix Lord;125;0
 Ballistus Dreadnought;Adeptus Astartes;Vehicle, Walker, Imperium, Dreadnought;160;1
 Baneblade;Astra Militarum;Vehicle, Titanic, Imperium, Smoke;480;0
@@ -52,6 +55,7 @@ Blade Champion;Adpetus Custodes;Infantry, Character, Imperium;120;0
 Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Ancient;50;0
 Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;0
 Broodlord;Tyranids;Infantry, Character, Psyker, Great Devourer, Vanguard Invader, Broodlord;90;0
+Brother Corbulo;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Sanguinary Priest;75;0
 Brother-Captain Stern;Grey Knights;Infantry, Character, Epic Hero, Psyker, Imperium, Terminator;90;0
 Brother-Captain;Grey Knights;Infantry, Character, Psyker, Terminator, Imperium;90;2
 Brotherhood Champion;Grey Knights;Infantry, Character, Psyker, Imperium;80;0
@@ -75,6 +79,7 @@ Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;1.5 // have 9 total model
 Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;1 // unit is 1-2, I have 2
 Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;1
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
+Captain Tycho;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Captain;75;0
 Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Gravis, Captain;85;0
 Captain in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Captain;75;0
 Captain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Captain;95;1
@@ -94,9 +99,11 @@ Chaplain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Te
 Chaplain on Bike;Adeptus Astartes;Mounted, Character, Grenades, Imperium, Chaplain;75;0
 Chaplain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Imperium, Chaplain;85;2
 Chaplain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;65;0
+Chief Librarian Mephiston;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, Tacticus;110;0
 Chief Librarian Tigurius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Psyker, Imperium, Tacticus;85;0
 Chimera;Astra Militarum;Vehicle, Imperium, Squadron, Transport, Dedicated Transport, Smoke;70;0
 Chronomancer;Necrons;Infantry, Character, Cryptek;50;0
+Commander Dante;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, Imperium, Tacticus, Chapter Master;120;0
 Commissar;Astra Militarum;Infantry, Character, Imperium, Officer;30;0
 Company Heroes;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;95;0
 Convergence of Dominion;Necrons;Fortification, Vehicle;180;0
@@ -116,6 +123,10 @@ Cybernetica Datasmith;Adeptus Mechanicus;Infantry, Character, Imperium, Legio Cy
 Daemonifuge;Adepta Sororitas;Infantry, Grenades, Character, Epic Hero, Imperium;80;0
 Dark Reapers;Aeldari;Infantry;160;0
 Darnath Lysander;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Imperium, Terminator, Captain;110;0
+Death Company Dreadnought;Adeptus Astartes, Blood Angels;Vehicle, Walker, Smoke, Imperium;165;0
+Death Company Intercessors;Adeptus Astartes, Blood Angels;Infantry, Grenades, Imperium, Tacticus;170;0
+Death Company Marines with Jump Packs;Adeptus Astartes, Blood Angels;Infantry, Fly, Jump Pack,Grenades, Imperium;260;0
+Death Company Marines;Adeptus Astartes, Blood Angels;Infantry, Grenades, Imperium;230;0
 Death Cult Assassins;Adepta Sororitas;Infantry, Imperium;105;0 // unit is 2/4/6
 Death Jester;Aeldari;Infantry, Character, Harlequins;90;0
 Death Korps of Krieg;Astra Militarum;Infantry, Battleline, Imperium, Grenades, Regiment, Platoon;130;0
@@ -153,6 +164,8 @@ Firestrike Servo-Turrets;Adeptus Astartes;Artillery, Vehicle, Imperium;150;0
 Flayed Ones;Necrons;Infantry;140;1 // Unit is 5/10, I have 12 models
 Fuegan;Aeldari;Infantry, Character, Epic Hero, Phoenix Lord;115;0
 Fulgurite Electro-Priests;Adeptus Mechanicus;Infantry, Imperium, Cult Mechanicus, Electro-Priests, Fulgurite;150;0
+Furioso Dreadnought;Adeptus Astartes, Blood Angels;Vehicle, Walker, Imperium;150;0
+Gabriel Seth;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Chapter Master;90;0
 Gargoyles;Tyranids;Infantry, Battleline, Fly, Great Devourer, Endless Multitude, Vanguard Invader, Gargoyles;150;0 // I have 2
 Gaunt's Ghosts;Astra Militarum;Infantry, Imperium, Grenades, Character, Epic Hero, Officer;100;0
 Genestealers;Tyranids;Infantry, Great Devourer, Vanguard Invader, Genestealers;170;0
@@ -245,6 +258,8 @@ Leman Russ Executioner;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;180;0
 Leman Russ Exterminator;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;180;0
 Leman Russ Punisher;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;160;0
 Leman Russ Vanquisher;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;155;0
+Lemartes;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, Imperium, Chaplain;110;0
+Librarian Dreadnought;Adeptus Astartes, Blood Angels;Vehicle, Walker, Psyker, Imperium;170;0
 Librarian in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Psyker, Imperium, Phobos, Librarian;75;0
 Librarian in Terminator Armour;Adeptus Astartes;Infantry, Character, Psyker, Imperium, Terminator, Librarian;90;1
 Librarian;Adeptus Astartes;Infantry, Character, Grenades, Psyker, Imperium, Tacticus;65;0
@@ -343,6 +358,9 @@ Rogue Trader Entourage;Agents of the Imperium;Infantry, Grenades, Imperium, Navi
 Royal Warden;Necrons;Infantry, Character;45;0
 Rubric Marines;Thousand Sons;Infantry, Battleline, Chaos, Tzeentch, Psyker;210;0
 Saint Celestine;Adepta Sororitas;Infantry, Jump Pack, Fly, Grenades, Imperium, Character, Epic Hero;135;0
+Sanguinary Guard;Adeptus Astartes, Blood Angels;Infantry, Fly, Jump Pack, Grenades, Imperium;350;0
+Sanguinary Priest with Jump Pack;Adeptus Astartes, Blood Angels;Infantry, Character, Grenades, Imperium, Fly, Jump Pack;90;0
+Sanguinary Priest;Adeptus Astartes, Blood Angels;Infantry, Character, Grenades, Imperium;80;0
 Scarab Occult Terminators;Thousand Sons;Infantry, Terminator, Chaos, Tzeentch, Psyker;430;0
 Scourges;Drukhari;Infantry, Fly, Grenades, Jump Pack, Aeldari;220;0
 Scout Sentinels;Astra Militarum;Vehicle, Walker, Imperium, Regiment, Squadron, Smoke;180;0
@@ -416,6 +434,7 @@ Terminator Sqaud;Adeptus Astartes;Infantry, Imperium, Terminator;400;.5 // have 
 Tervigon;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Tervigon;190;0
 Tesseract Vault;Necrons;Vehicle, Titanic, Fly, Towering;475;0
 The Emperor's Champion;Adeptus Astartes, Black Templars;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus;75;1
+The Sanguinor;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Fly, Jump Pack, Imperium;140;0
 The Silent King;Necrons;Vehicle, Character, Epic Hero;480;1
 The Swarmlord;Tyranids;Monster, Character, Epic Hero, Psyker, Great Devourer, Synapse, Hive Tyrant, The Swarmlord;270;0
 The Visarch;Aeldari;Infantry, Character, Epic Hero, Ynnari;90;0
@@ -448,6 +467,7 @@ Triumph of Saint Katherine;Adepta Sororitas;Infantry, Grendaes, Character, Epic 
 Troupe Master;Aeldari;Infantry, Character, Grenades, Harlequins;55;0
 Troupe;Aeldari;Infantry, Grenades, Harlequins;180;0
 Trygon;Tyranids;Monster, Great Devourer, Trygon;180;0
+Tycho the Lost;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Captain;90;0
 Tyranid Warriors with Melee Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Melee Bio-Weapons;170;0
 Tyranid Warriors with Ranged Bio-Weapons;Tyranids;Infantry, Great Devourer, Synapse, Tyranid Warriors with Ranged Bio-Weapons;140;0
 Tyrannocyte;Tyranids;Monster, Fly, Transport, Dedicated Transport, Great Devourer, Vanguard Invader, Tyrannocyte;105;0
