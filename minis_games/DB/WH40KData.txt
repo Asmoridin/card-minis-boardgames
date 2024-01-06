@@ -24,7 +24,7 @@ Archaeopter Transvector;Adeptus Mechanicus;Vehicle, Aircraft, Transport, Fly, Im
 Archon;Drukhari;Infantry, Kabal, Character, Aeldari;75;1
 Arco-Flagellants;Adepta Sororitas;Infantry, Imperium;130;0
 Armoured Sentinels;Astra Militarum;Vehicle, Walker, Imperium, Regiment, Squadron, Smoke;210;0
-Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;0
+Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;1 // unit is 5/10, have 10
 Assault Intercessors with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium, Tacticus;180;1.5
 Astorath;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, Imperium, Chaplain;85;0
 Asurmen;Aeldari;Infantry, Character, Epic Hero, Phoenix Lord;135;0
@@ -52,8 +52,8 @@ Black Templars Impulsor;Adeptus Astartes, Black Templars;Vehicle, Transport, Ded
 Black Templars Repulsor Executioner;Adeptus Astartes, Black Templars;Vehicle, Smoke, Transport, Imperium;235;0
 Black Templars Repulsor;Adeptus Astartes, Black Templars;Vehicle, Smoke, Transport, Imperium;200;0
 Blade Champion;Adpetus Custodes;Infantry, Character, Imperium;120;0
-Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Ancient;50;0
-Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;0
+Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Ancient;50;1
+Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;.5 // unit size is 3/6, have 3
 Broodlord;Tyranids;Infantry, Character, Psyker, Great Devourer, Vanguard Invader, Broodlord;90;0
 Brother Corbulo;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Sanguinary Priest;75;0
 Brother-Captain Stern;Grey Knights;Infantry, Character, Epic Hero, Psyker, Imperium, Terminator;90;0
@@ -74,8 +74,8 @@ Cadian Shock Troops;Astra Militarum;Infantry, Battleline, Imperium, Grenades, Re
 Callidus Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Imperium;90;0
 Canoness;Adepta Sororitas;Infantry, Character, Grenades, Imperium;50;1
 Canoptek Doomstalker;Necrons;Vehicle, Walker, Canoptek;125;0
-Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;0
-Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;2.5 // have 17 total models, unit is 3/6
+Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;1
+Canoptek Scarab Swarms;Necrons;Swarm, Fly, Canoptek;80;3 // have 23 total models, unit is 3/6
 Canoptek Spyders;Necrons;Vehicle, Fly, Canoptek;150;1 // unit is 1-2, I have 2
 Canoptek Wraiths;Necrons;Beasts, Fly, Canoptek;220;1
 Captain Sicarius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;85;0
@@ -84,7 +84,7 @@ Captain in Gravis Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperiu
 Captain in Phobos Armour;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Captain;75;0
 Captain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Captain;95;1
 Captain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Grenades, Imperium, Tacticus, Captain;95;1
-Captain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Captain;70;2
+Captain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Captain;70;3
 Carnifexes;Tyranids;Monster, Great Devourer, Carnifexes;250;0
 Castellan Crowe;Grey Knights;Infantry, Character, Epic Hero, Psyker, Imperium;75;0
 Castellan;Adeptus Astartes, Black Templars;Infantry, Character, Grenades, Imperium, Tacticus;65;0
@@ -98,7 +98,7 @@ Chaplain Grimaldus;Adeptus Astartes, Black Templars;Infantry, Imperium, Tacticus
 Chaplain in Terminator Armour;Adeptus Astartes;Infantry, Character, Imperium, Terminator, Chaplain;85;1
 Chaplain on Bike;Adeptus Astartes;Mounted, Character, Grenades, Imperium, Chaplain;75;0
 Chaplain with Jump Pack;Adeptus Astartes;Infantry, Character, Jump Pack, Fly, Imperium, Chaplain;85;2
-Chaplain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;65;0
+Chaplain;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus;65;1
 Chief Librarian Mephiston;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, Tacticus;110;0
 Chief Librarian Tigurius;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Psyker, Imperium, Tacticus;85;0
 Chimera;Astra Militarum;Vehicle, Imperium, Squadron, Transport, Dedicated Transport, Smoke;70;0
@@ -115,7 +115,7 @@ Crimson Hunter;Aeldari;Vehicle, Fly, Aircraft;160;0
 Cronos;Drukhari;Monster, Haemonculus Covens, Fly, Aeldari;100;0
 Crusader Squad;Adeptus Astartes, Black Templars;Infantry, Battleline, Grenades, Imperium;250;0
 Crusaders;Adepta Sororitas;Infantry, Imperium;75;0
-Cryptothralls;Necrons;Infantry;40;0
+Cryptothralls;Necrons;Infantry;60;1
 Culexus Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Grenades, Imperium;85;0
 Custodian Guard;Adeptus Custodes;Infantry, Battleline, Imperium;250;0
 Custodian Wardens;Adeptus Custodes;Infantry, Imperium;275;0
@@ -129,7 +129,7 @@ Death Company Marines with Jump Packs;Adeptus Astartes, Blood Angels;Infantry, F
 Death Company Marines;Adeptus Astartes, Blood Angels;Infantry, Grenades, Imperium;230;0
 Death Cult Assassins;Adepta Sororitas;Infantry, Imperium;105;0 // unit is 2/4/6
 Death Jester;Aeldari;Infantry, Character, Harlequins;90;0
-Death Korps of Krieg;Astra Militarum;Infantry, Battleline, Imperium, Grenades, Regiment, Platoon;130;0
+Death Korps of Krieg;Astra Militarum;Infantry, Battleline, Imperium, Grenades, Regiment, Platoon;130;.5 // unit size is 10/20, have 11 models
 Deathleaper;Tyranids;Infantry, Character, Epic Hero, Great Devourer, Vanguard Invader, Deathleaper;70;0
 Deathmarks;Necrons;Infantry;130;0
 Deathstrike;Astra Militarum;Vehicle, Artillery, Imperium, Squadron, Smoke;160;0
@@ -147,7 +147,7 @@ Dreadnought;Adeptus Astartes;Vehicle, Walker, Smoke, Imperium;155;0
 Drop Pod;Adeptus Astartes;Vehicle, Transport, Imperium;65;0
 Eldrad Ulthran;Aeldari;Infantry, Character, Epic Hero, Psyker, Farseer;110;1
 Eliminator Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Phobos;85;0
-Eradicator Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Gravis;190;0
+Eradicator Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Gravis;190;.5 // unit size is 3/6, have 3
 Eversor Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Grenades, Imperium;75;0
 Exaction Squad;Agents of the Imperium;Infantry, Grenades, Imperium, Retinue;110;0
 Exalted Sorcerer on Disc of Tzeentch;Thousand Sons;Infantry, Character, Fly, Psyker, Chaos, Tzeentch;115;0
@@ -235,7 +235,7 @@ Invictor Tactical Warsuit;Adeptus Astartes;Vehicle, Walker, Imperium, Phobos;155
 Iron Father Feirros;Adeptus Astartes, Iron Hands;Infantry, Character, Epic Hero, Imperium, Gravis;105;0
 Ironstrider Ballistarii;Adeptus Mechanicus;Vehicle, Walker, Smoke, Imperium, Skitarii;150;0
 Jain Zar;Aeldari;Infantry, Character, Epic Hero, Phoenix Lord;105;0
-Judicar;Adeptus Astartes;Infantry, Character, Imperium, Tacticus;70;0
+Judicar;Adeptus Astartes;Infantry, Character, Imperium, Tacticus;70;1
 Junith Eruita;Adepta Sororitas;Infantry, Character, Fly, Epic Hero, Imperium;90;0
 Kabalite Warriors;Drukhari;Infantry, Kabal, Battleline, Aeldari;110;2 // unit is 10, I have 23 models
 Kaldor Draigo;Grey Knights;Infantry, Character, Epic Hero, Psyker, Terminator, Grenades, Imperium;125;0
@@ -267,7 +267,7 @@ Lictor;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Lictor;60;0
 Lieutenant in Phobos Armor;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Lieutenant;60;0
 Lieutenant in Reiver Armour;Adeptus Astartes;Infantry, Character, Smoke, Grenades, Imperium, Phobos, Lieutenant;65;0
 Lieutenant with Combi-Weapon;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Lieutenant;70;1
-Lieutenant;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Lieutenant;65;0
+Lieutenant;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Lieutenant;65;1
 Lokhust Destroyers;Necrons;Mounted, Fly, Destroyer Cult;200;.5 // 5 total models, unit size goes 1,2,3,6
 Lokhust Heavy Destroyers;Necrons;Mounted, Fly, Destroyer Cult;135;0
 Lokhust Lord;Necrons;Mounted, Character, Fly, Destroyer Cult;90;1
@@ -290,7 +290,7 @@ Morvenn Vahl;Adepta Sororitas;Vehicle, Walker, Character, Epic Hero, Imperium;12
 Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
 Munitorum Servitors;Astra Militarum;Infantry, Imperium;35;0
 Mutalith Vortex Beast;Thousand Sons;Monster, Daemon, Chaos, Tzeentch;165;0
-Necron Warriors;Necrons;Infantry, Battleline;200;3 // Have 68 total models - 10/20 per unit
+Necron Warriors;Necrons;Infantry, Battleline;200;4 // Have 88 total models - 10/20 per unit
 Nemesis Dreadknight;Grey Knights;Vehicle, Walker, Psyker, Imperium;185;0
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
 Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;65;0
@@ -307,16 +307,16 @@ Old One Eye;Tyranids;Monster, Character, Epic Hero, Great Devourer, Old One Eye;
 Onager Dunecrawler;Adeptus Mechanicus;Vehicle, Walker, Imperium, Skitarii, Smoke;155;0
 Ophydian Destroyers;Necrons;Infantry, Destroyer Cult;220;0
 Orikan The Diviner;Necrons;Infantry, Character, Epic Hero, Cryptek, Chronomancer;80;0
-Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;.5
+Outrider Squad;Adeptus Astartes;Mounted, Grenades, Imperium;240;1 // unit is 3/6, have 6
 Overlord with Translocation Shroud;Necrons;Infantry, Character, Noble, Overlord;85;1
-Overlord;Necrons;Infantry, Character, Noble;85;2
+Overlord;Necrons;Infantry, Character, Noble;85;3
 Paladin Squad;Grey Knights;Infantry, Psyker, Terminator, Grenades, Imperium;450;0
 Palatine;Adepta Sororitas;Infantry, Character, Grenades, Imperium;50;0
 Paragon Warsuits;Adepta Sororitas;Vehicle, Walker, Grenades, Imperium;200;0
 Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader, Parasite of Mortrex;80;0
 Pedro Kantor;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;100;0
 Penitent Engines;Adepta Sororitas;Vehicle, Walker, Imperium;120;0
-Plasmancer;Necrons;Infantry, Character, Cryptek;55;0
+Plasmancer;Necrons;Infantry, Character, Cryptek;55;1
 Platoon Command Squad;Astra Militarum;Infantry, Imperium, Grenades, Platoon, Character, Officer;60;0
 Preacher;Adepta Sororitas;Infantry, Character, Imperium;40;1
 Predator Annihilator;Adeptus Astartes;Vehicle, Smoke, Imperium;120;0
@@ -354,8 +354,8 @@ Rhino;Adeptus Astartes;Vehicle, Smoke, Transport, Dedicated Transport, Imperium;
 Ripper Swarms;Tyranids;Swarm, Great Devourer, Harvester, Ripper Swarms;60;2/3 // have 2, max size is 3
 Roboute Guilliman;Adeptus Astartes, Ultramarines;Monster, Character, Epic Hero, Imperium, Primarch;345;0
 Rogal Dorn Battle Tank;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;260;0
-Rogue Trader Entourage;Agents of the Imperium;Infantry, Grenades, Imperium, Navis Imperialis, Retinue, Character;105;0
-Royal Warden;Necrons;Infantry, Character;45;0
+Rogue Trader Entourage;Agents of the Imperium;Infantry, Grenades, Imperium, Navis Imperialis, Retinue, Character;105;1
+Royal Warden;Necrons;Infantry, Character;45;1
 Rubric Marines;Thousand Sons;Infantry, Battleline, Chaos, Tzeentch, Psyker;210;0
 Saint Celestine;Adepta Sororitas;Infantry, Jump Pack, Fly, Grenades, Imperium, Character, Epic Hero;135;0
 Sanguinary Guard;Adeptus Astartes, Blood Angels;Infantry, Fly, Jump Pack, Grenades, Imperium;350;0
@@ -382,10 +382,10 @@ Sicarian Infiltrators;Adeptus Mechanicus;Infantry, Imperium, Skitarii, Sicarian;
 Sicarian Ruststalkers;Adeptus Mechanicus;Infantry, Imperium, Skitarii, Sicarian;150;0
 Sisters Novitiate Squad;Adepta Sororitas;Infantry, Grendaes, Imperium;85;0
 Skitarii Marshal;Adeptus Mechanicus;Infantry, Character, Imperium, Skitarii;45;0
-Skitarii Rangers;Adeptus Mechanicus;Infantry, Battleline, Imperium, Skitarii;130;0
+Skitarii Rangers;Adeptus Mechanicus;Infantry, Battleline, Imperium, Skitarii;130;1
 Skitarii Vanguard;Adeptus Mechanicus;Infantry, Battleline, Imperium, Skitarii;105;0
-Skorpekh Destroyers;Necrons;Infantry, Destroyer Cult;240;0
-Skorpekh Lord;Necrons;Infantry, Character, Destroyer Cult;115;0
+Skorpekh Destroyers;Necrons;Infantry, Destroyer Cult;200;.5 // unit size is 3/6, have 3
+Skorpekh Lord;Necrons;Infantry, Character, Destroyer Cult;115;1
 Skorpius Disintegrator;Adeptus Mechanicus;Vehicle, Imperium, Skitarii, Smoke;195;0
 Skorpius Dunerider;Adeptus Mechanicus;Vehicle, Transport, Dedicated Transport, Imperium, Skitarii, Smoke;95;0
 Skyweavers;Aeldari;Mounted, Fly, Smoke, Harlequins;190;0
@@ -492,7 +492,7 @@ Vigilators;Adeptus Custodes;Infantry, Imperium, Anathema Psykana;130;0
 Vindicare Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Smoke, Imperium;80;1
 Vindicator;Adeptus Astartes;Vehicle, Smoke, Imperium;195;0
 Voidraven Bomber;Drukhari;Vehicle, Aircraft, Aeldari;195;0
-Voidsmen-At-Arms;Agents of the Imperium;Infantry, Battleline, Grenades, Imperium, Navis Imperialis, Retinue;100;0
+Voidsmen-At-Arms;Agents of the Imperium;Infantry, Battleline, Grenades, Imperium, Navis Imperialis, Retinue;100;1 // odd one, in that 5+canid and 10+canid are same points.  I have 5 + canid
 Voidweaver;Aeldari;Vehicle, Fly, Smoke, Harlequins;125;0
 Von Ryan's Leapers;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Von Ryan's Leapers;150;.5 // have 3, max unit size is 6
 Vulkan He'stan;Adeptus Astartes, Salamanders;Infantry, Character, Epic Hero, Grenades, Imperium, Captain;85;0
@@ -521,3 +521,7 @@ Yvraine;Aeldari;Infantry, Character, Epic Hero, Ynnari, Psyker;100;0
 Zephyrim Squad;Adepta Sororitas;Infantry, Jump Pack, Fly, Grenades, Imperium;140;0
 Zoanthropes;Tyranids;Infantry, Psyker, Fly, Great Devourer, Synapse, Zoanthropes;220;0
 Khorne Berzerkers;World Eaters;Infantry, Battleline, Grenades, Chaos, Khorne;200;1 // Units size is 5/10, have 12 models
+Kommandos;Orks;Infantry, Grenades;135;1 // unit is 10 models, have 10
+Death Guard Chaos Spawn;Death Guard;Beast, Chaos, Nurgle, Spawn;70;2 // unit size is 2, I have 4 (Gellerpox)
+Poxwalkers;Death Guard;Infantry, Chaos, Nurgle;100;0 // unit size is 10/20, I have 3 models
+Neophyte Hybrids;Genestealer Cults;Infantry, Battleline, Grenades, Great Devourer;180;.5 // unit size is 10/20, I have 10
