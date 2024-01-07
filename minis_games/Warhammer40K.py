@@ -5,7 +5,22 @@ import sys, os
 GAME_NAME = "Warhammer 40,000"
 COMPANY = "Games Workshop"
 
-my_armies = ['Adeptus Astartes', 'Necrons', 'Adepta Sororitas', ]
+def get_meta(army_name):
+    if army_name in ['Black Templars', 'Blood Angels', 'Adeptus Astartes', 'Ultramarines', 'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands', ]:
+        return "Space Marines"
+    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', ]:
+        return "Chaos"
+    elif army_name in ['Aeldari', 'Drukhari']:
+        return "Aeldari"
+    elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', ]:
+        return "Xenos"
+    elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', ]:
+        return "Imperium"
+    else:
+        print("Army %s not given a meta type" % army_name)
+        return None
+
+my_armies = ['Adeptus Astartes', 'Necrons', 'Adepta Sororitas', 'Drukhari', 'World Eaters', ]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('minis_games/DB/WH40KData.txt', 'r')
@@ -37,6 +52,8 @@ for line in lines:
     item_names.add(item_name)
     factions = factions.split(',')
     factions = [faction.strip() for faction in factions]
+    if len(factions) == 2 and 'Adeptus Astartes' in factions:
+        factions.remove('Adeptus Astartes')
     keywords = keywords.split(',')
     keywords = [kw.strip() for kw in keywords]
     points = int(points)
@@ -58,9 +75,25 @@ for line in lines:
     army_points[army] += points * item_own
     filter_lines.append((item_name, factions, keywords, points, item_own, item_max))
 
+# Filter by meta_faction
+meta_faction = {}
+for line in filter_lines:
+    this_meta = get_meta(line[1][0])
+    if this_meta not in meta_faction:
+        meta_faction[this_meta] = [0, 0]
+    meta_faction[this_meta][1] += line[4]
+    meta_faction[this_meta][0] += line[5]
+meta_sorter = []
+for meta_item in meta_faction:
+    meta_sorter.append((meta_item, meta_faction[meta_item][1]/meta_faction[meta_item][0], meta_faction[meta_item][0] - meta_faction[meta_item][1]))
+meta_sorter = sorted(meta_sorter, key=lambda x:(x[1], -x[2], x[0]))
+print(meta_sorter)
+
 # Filter by army
 armies = {}
 for line in filter_lines:
+    if get_meta(line[1][0]) != meta_sorter[0][0]:
+        continue
     for army in line[1]:
         if army not in my_armies:
             continue
