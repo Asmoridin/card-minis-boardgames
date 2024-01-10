@@ -3,6 +3,7 @@
 // BLOOD ANGELS: Your army can include Blood Angels units, but it cannot include any Adeptus Astartes units drawn from any other Chapter.
 // DARK ELDAR: Can add up to 500 points of Harlequins/Anhrathe army
 // If your Army Faction is Genestealer Cults, you can include Astra Militarum units in your army, even though they do not have the Genestealer Cults Faction keyword.The combined points cost of Astra Militarum units you can include in your army depends on your battle size, as follows (500). No Astra Militarum models in your army can be your Warlord, and they cannot be given Enhancements. You cannot include units with any of the following keywords in your army using these rules: Epic Hero; Ogryn; Ratling; Militarum Tempestus; Commissar; Regimental Preacher; Regimental Enginseer; Munitorum Servitors; Aircraft.
+// Space Wolves: Your army cannot include any of the following units: Tactical Squad; Assault Squad; Assault Squad with Jump Packs; Devastator Squad; Command Squad; Primaris Apothecary.
 // YNNARI: If Yvraine in army, can include 1500 poitns of Dark Eldar, but no: Phoenix Lords; Anhrathe; Avatar of Khaine; Solitaire; Haemonculus Covens.
 // make sure regimental preacher gets number from sororitas preacher
 Aberrants;Genestealer Cults;Infantry, Great Devourer;370;0
@@ -30,7 +31,11 @@ Archaeopter Stratoraptor;Adeptus Mechanicus;Vehicle, Aircraft, Fly, Imperium, Sk
 Archaeopter Transvector;Adeptus Mechanicus;Vehicle, Aircraft, Transport, Fly, Imperium, Skitarii;155;0
 Archon;Drukhari;Infantry, Kabal, Character, Aeldari;75;1
 Arco-Flagellants;Adepta Sororitas;Infantry, Imperium;130;0
+Arjac Rockfist;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Imperium, Terminator;95;0
+Armiger Helverin;Imperial Knights;Vehicle, Walker, Battleline, Imperium, Armiger;150;0
+Armiger Warglaive;Imperial Knights;Vehicle, Walker, Battleline, Imperium, Armiger;150;0
 Armoured Sentinels;Astra Militarum;Vehicle, Walker, Imperium, Regiment, Squadron, Smoke;210;0
+Asmodai;Adeptus Astartes, Dark Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Chaplain;70;0
 Assault Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tacticus;180;1 // unit is 5/10, have 10
 Assault Intercessors with Jump Packs;Adeptus Astartes;Infantry, Grenades, Jump Pack, Fly, Imperium, Tacticus;180;1.5
 Astorath;Adeptus Astartes, Blood Angels;Infantry, Character, Epic Hero, Fly, Jump Pack, Grenades, Imperium, Chaplain;85;0
@@ -41,6 +46,7 @@ Autarch Skyrunner;Aeldari;Mounted, Character, Fly, Autarch;90;0
 Autarch Wayleaper;Aeldari;Infantry, Character, Jump Pack, Fly, Grenades;90;0
 Autarch;Aeldari;Infantry, Character, Grenades;75;0
 Avatar of Khaine;Aeldari;Monster, Character, Epic Hero, Daemon;335;0
+Azrael;Adeptus Astartes, Dark Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;105;0
 Baal Predator;Adeptus Astartes, Blood Angels;Vehicle, Smoke, Imperium;125;0
 Baharroth;Aeldari;Infantry, Character, Epic Hero, Jump Pack, Fly, Grenades, Phoenix Lord;125;0
 Ballistus Dreadnought;Adeptus Astartes;Vehicle, Walker, Imperium, Dreadnought;160;1
@@ -55,6 +61,7 @@ Beast Snagga Boyz;Orks;Infantry, Mob, Battleline, Beast Snagga;210;0
 Beastboss on Squigosaur;Orks;Mounted, Character, Beast Snagga;165;0
 Beastboss;Orks;Infantry, Character, Beast Snagga, Warboss;100;0
 Beastmaster;Drukhari;Beasts, Aeldari, Fly, Mounted, Character;105;0 // Have 2 Khymaera (unit is 10 total models)
+Belial;Adeptus Astartes, Dark Angels;Infantry, Character, Epic Hero, Imperium, Terminator, Captain;85;0
 Belisarius Cawl;Adeptus Mechanicus;Monster, Character, Epic Hero, Imperium, Tech-Priest, Cult Mechanicus;180;0
 Big Mek in Mega Armour;Orks;Infantry, Character;85;0
 Big Mek with Kustom Force Field;Orks;Infantry, Character, Grenades;55;0
@@ -63,6 +70,7 @@ Big'ed Bossbunka;Orks;Fortification, Vehicle, Transport;135;0
 Biologus Putrifier;Death Guard;Infantry, Character, Chaos, Nurgle, Grenades;50;0
 Biophagus;Genestealer Cults;Infantry, Character, Great Devourer;60;0
 Biovores;Tyranids;Infantry, Great Devourer, Biovores;225;0
+Bjorn the Fell-Handed;Adeptus Astartes, Space Wolves;Vehicle, Walker, Character, Epic Hero, Smoke, Imperium, Dreadnought;180;0
 Black Templars Gladiator Lancer;Adeptus Astartes, Black Templars;Vehicle, Smoke, Imperium;165;0
 Black Templars Gladiator Reaper;Adeptus Astartes, Black Templars;Vehicle, Smoke, Imperium;155;0
 Black Templars Gladiator Valiant;Adeptus Astartes, Black Templars;Vehicle, Smoke, Imperium;155;0
@@ -74,6 +82,7 @@ Bladeguard Ancient;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tac
 Bladeguard Veteran Squad;Adeptus Astartes;Infantry, Grenades, Imperium, Tacticus;200;.5 // unit size is 3/6, have 3
 Blightlord Terminators;Death Guard;Infantry, Chaos, Nurgle, Terminator;330;0
 Blitza-bommer;Orks;Vehicle, Aircraft, Fly;115;0
+Blood Claws;Adeptus Astartes, Space Wolves;Infantry, Battleline, Grenades, Imperium;210;0
 Boomdakka Snazzwagon;Orks;Vehicle, Grenades;90;0
 Boss Snikrot;Orks;Infantry, Character, Grenades, Epic Hero;85;0
 Boss Zagstruk;Orks;Infantry, Jump Pack, Fly, Character, Epic Hero;90;0
@@ -98,6 +107,8 @@ Cadian Castellan;Astra Militarum;Infantry, Character, Imperium, Grenades, Office
 Cadian Command Squad;Astra Militarum;Infantry, Imperium, Grenades, Cadian, Character, Officer;65;0
 Cadian Shock Troops;Astra Militarum;Infantry, Battleline, Imperium, Grenades, Regiment, Platoon, Cadian;120;0
 Callidus Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Imperium;90;0
+Canis Rex;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Epic Hero, Imperium;460;0
+Canis Wolfborn;Adeptus Astartes, Space Wolves;Mounted, Character, Epic Hero, Imperium;75;0
 Canoness;Adepta Sororitas;Infantry, Character, Grenades, Imperium;50;2
 Canoptek Doomstalker;Necrons;Vehicle, Walker, Canoptek;125;0
 Canoptek Reanimator;Necrons;Vehicle, Walker, Canoptek;75;1
@@ -147,6 +158,7 @@ Culexus Assassin;Agents of the Imperium;Infantry, Character, Epic Hero, Grenades
 Custodian Guard;Adeptus Custodes;Infantry, Battleline, Imperium;250;0
 Custodian Wardens;Adeptus Custodes;Infantry, Imperium;275;0
 Cybernetica Datasmith;Adeptus Mechanicus;Infantry, Character, Imperium, Legio Cybernetica, Tech-Priest;35;0
+Cyberwolf;Adeptus Astartes, Space Wolves;Beast, Character, Imperium;20;0
 Daemonifuge;Adepta Sororitas;Infantry, Grenades, Character, Epic Hero, Imperium;80;0
 Dakkajet;Orks;Vehicle, Fly, Aircraft;135;0
 Dark Reapers;Aeldari;Infantry;160;0
@@ -176,6 +188,10 @@ Deathleaper;Tyranids;Infantry, Character, Epic Hero, Great Devourer, Vanguard In
 Deathmarks;Necrons;Infantry;130;0
 Deathshroud Terminators;Death Guard;Infantry, Chaos, Nurgle, Terminator;250;0
 Deathstrike;Astra Militarum;Vehicle, Artillery, Imperium, Squadron, Smoke;160;0
+Deathwing Command Squad;Adeptus Astartes, Dark Angels;Infantry, Imperium, Terminator;420;0
+Deathwing Knights;Adeptus Astartes, Dark Angels;Infantry, Imperium, Terminator;470;0
+Deathwing Strikemaster;Adeptus Astartes, Dark Angels;Infantry, Character, Imperium, Terminator, Lieutenant;80;0
+Deathwing Terminator Squad;Adeptus Astartes, Dark Angels;Infantry, Imperium, Terminator;400;0
 Deff Dread;Orks;Vehicle, Walker;130;0
 Deffkilla Wartrike;Orks;Mounted, Warboss;80;0
 Deffkoptas;Orks;Vehicle, Fly, Grenades;200;0
@@ -202,9 +218,11 @@ Exalted Sorcerer on Disc of Tzeentch;Thousand Sons;Infantry, Character, Fly, Psy
 Exalted Sorcerer;Thousand Sons;Infantry, Character, Grenades, Psyker, Chaos, Tzeentch;100;0
 Exocrine;Tyranids;Monster, Great Devourer, Exocrine;135;0
 Exorcist;Adepta Sororitas;Vehicle, Smoke, Imperium;160;0
+Ezekiel;Adeptus Astartes, Dark Angels;Infantry, Character, Epic Hero, Psyker, Grenades, Imperium;75;0
 Falcon;Aeldari;Vehicle, Transport, Fly;140;0
 Farseer Skyrunner;Aeldari;Mounted, Character, Fly, Psyker, Farseer;90;0
 Farseer;Aeldari;Character, Infantry, Psyker;80;0
+Fenrisian Wolves;Adeptus Astartes, Space Wolves;Beasts, Imperium;60;0
 Field Ordnance Battery;Astra Militarum;Infantry, Artillery, Imperium, Grenades, Regiment;120;0
 Fire Dragons;Aeldari;Infantry, Grenades;170;0
 Fire Prism;Aeldari;Vehicle, Fly;180;0
@@ -232,6 +250,7 @@ Grand Master Voldus;Grey Knights;Infantry, Character, Epic Hero, Psyker, Termina
 Grand Master in Nemesis Dreadknight;Grey Knights;Vehicle, Character, Walker, Psyker, Imperium;200;0
 Grand Master;Grey Knights;Infantry, Character, Psyker, Grenades, Terminator, Imperium;95;0
 Gretchin;Orks;Infantry;80;0
+Grey Hunters;Adeptus Astartes, Space Wolves;Infantry, Battleline, Grenades, Imperium;170;0
 Grey Knights Land Raider Crusader;Grey Knights;Vehicle, Transport, Smoke, Grenades, Imperium, Land Raider;230;0
 Grey Knights Land Raider Redeemer;Grey Knights;Vehicle, Transport, Smoke, Grenades, Imperium, Land Raider;260;0
 Grey Knights Land Raider;Grey Knights;Vehicle, Transport, Smoke, Imperium;240;0
@@ -245,6 +264,7 @@ Grotesques;Drukhari;Infantry, Haemonculus Covens, Aeldari;210;0 // unit is 3/6, 
 Guardian Defenders;Aeldari;Infantry, Battleline, Grenades, Guardians;110;0
 Haemonculus;Drukhari;Infantry, Haemonculus Covens, Character, Aeldari;60;1
 Hammerfall Bunker;Adeptus Astartes;Fortification, Vehicle, Imperium;175;0
+Harald Deathwolf;Adeptus Astartes, Space Wolves;Mounted, Character, Epic Hero, Grenades, Imperium, Captain;85;0
 Harpy;Tyranids;Monster, Fly, Aircraft, Great Devourer, Vanguard Invader, Harpy;215;0
 Haruspex;Tyranids;Monster, Great Devourer, Harvester, Haruspex;125;0
 Heavy Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Gravis;230;0
@@ -261,6 +281,7 @@ Hive Guard;Tyranids;Infantry, Great Devourer, Hive Guard;220;0
 Hive Tyrant;Tyranids;Monster, Character, Psyker, Great Devourer, Synapse, Hive Tyrant;235;0
 Hormagaunts;Tyranids;Infantry, Battleline, Great Devourer, Endless Multitude, Hormagaunts;130;.5 // unit size is 10/20, have 16 models
 Hospitaller;Adepta Sororitas;Infantry, Character, Imperium;35;0
+Hounds of Morkai;Adeptus Astartes, Space Wolves;Infantry, Grenades, Smoke, Imperium, Phobos;180;0
 Howling Banshees;Aeldari;Infantry;170;0
 Hunta Rig;Orks;Vehicle, Transport, Beast Snagga;160;0
 Hybrid Metamorphs;Genestealer Cults;Infantry, Grenades, Great Devourer;160;0
@@ -291,6 +312,7 @@ Intercessor Squad;Adeptus Astartes;Infantry, Battleline, Grenades, Imperium, Tac
 Invader ATV;Adeptus Astartes;Mounted, Grenades, Imperium;75;1
 Invictor Tactical Warsuit;Adeptus Astartes;Vehicle, Walker, Imperium, Phobos;155;0
 Iron Father Feirros;Adeptus Astartes, Iron Hands;Infantry, Character, Epic Hero, Imperium, Gravis;105;0
+Iron Priest;Adeptus Astartes, Space Wolves;Infantry, Character, Grenades, Imperium, Techmarine;60;0
 Ironstrider Ballistarii;Adeptus Mechanicus;Vehicle, Walker, Smoke, Imperium, Skitarii;150;0
 Jackal Alphus;Genestealer Cults;Mounted, Character, Grenades, Great Devourer;60;0
 Jain Zar;Aeldari;Infantry, Character, Epic Hero, Phoenix Lord;105;0
@@ -312,13 +334,28 @@ Khorne Berzerkers;World Eaters;Infantry, Battleline, Grenades, Chaos, Khorne;200
 Khorne Lord of Skulls;World Eaters;Vehicle, Titanic, Towering, Chaos, Khorne, Daemon;480;0
 Kill Rig;Orks;Vehicle, Transport, Psyker, Beast Snagga;200;0
 Killa Kans;Orks;Vehicle, Walker;300;0
+Knight Abominant;Chaos Knights;Vehicle, Walker, Titanic, Towering, Abhorrent, Psyker, Character, Chaos;455;0
+Knight Castellan;Imperial Knights;Vehicle, Walker, Titanic, Towering, Dominus, Character, Imperium;565;0
+Knight Crusader;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Imperium;475;0
+Knight Desecrator;Chaos Knights;Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos;450;0
+Knight Despoiler;Chaos Knights;Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos;470;0
+Knight Errant;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Imperium;430;0
+Knight Gallant;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Imperium;400;0
+Knight Paladin;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Imperium;450;0
+Knight Preceptor;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Imperium;430;0
+Knight Rampager;Chaos Knights;Vehicle, Walker, Titanic, Towering, Abhorrent, Character, Chaos;380;0
+Knight Tyrant;Chaos Knights;Vehicle, Walker, Titanic, Towering, Character, Chaos;555;0
+Knight Valiant;Imperial Knights;Vehicle, Walker, Titanic, Towering, Dominus, Character, Imperium;565;0
+Knight Warden;Imperial Knights;Vehicle, Walker, Titanic, Towering, Questoris, Character, Imperium;480;0
 Knight-Centura;Adeptus Custodes;Infantry, Character, Imperium, Anathema Psykana;75;0
 Kommandos;Orks;Infantry, Grenades;135;1 // unit is 10 models, have 10
 Kor'Sarro Khan;Adeptus Astartes, White Scars;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;70;0
+Kron Dragongaze;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Grenades, Imperium, Captain;65;0
 Kustom Boosta-blasta;Orks;Vehicle;85;0
 Land Raider Crusader;Adeptus Astartes;Vehicle, Smoke, Grenades, Transport, Imperium;245;0
 Land Raider Redeemer;Adeptus Astartes;Vehicle, Smoke, Grenades, Transport, Imperum;280;0
 Land Raider;Adeptus Astartes;Vehicle, Smoke, Transport, Imperium;260;0
+Lazarus;Adeptus Astartes, Dark Angels;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Captain;70;0
 Lelith Hesperax;Drukhari;Infantry, Wych Cult, Character, Epic Hero, Aeldari, Succubus;85;1
 Leman Russ Battle Tank;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;180;0
 Leman Russ Demolisher;Astra Militarum;Vehicle, Imperium, Squadron, Smoke;200;0
@@ -337,16 +374,21 @@ Lieutenant in Phobos Armor;Adeptus Astartes;Infantry, Character, Grenades, Imper
 Lieutenant in Reiver Armour;Adeptus Astartes;Infantry, Character, Smoke, Grenades, Imperium, Phobos, Lieutenant;65;0
 Lieutenant with Combi-Weapon;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Phobos, Lieutenant;70;1
 Lieutenant;Adeptus Astartes;Infantry, Character, Grenades, Imperium, Tacticus, Lieutenant;65;1
+Lion El'Jonson;Adeptus Astartes, Dark Angels;Monster, Character, Epic Hero, Imperium, Primarch;380;0
 Locus;Genestealer Cults;Infantry, Character, Great Devourer;45;0
+Logan Grimnar on Stormrider;Adeptus Astartes, Space Wolves;Mounted, Character, Epic Hero, Imperium, Chapter Master;180;0
+Logan Grimnar;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Imperium, Terminator, Chapter Master;100;0
 Lokhust Destroyers;Necrons;Mounted, Fly, Destroyer Cult;200;.5 // 5 total models, unit size goes 1,2,3,6
 Lokhust Heavy Destroyers;Necrons;Mounted, Fly, Destroyer Cult;135;0
 Lokhust Lord;Necrons;Mounted, Character, Fly, Destroyer Cult;90;1
+Long Fangs;Adeptus Astartes, Space Wolves;Infantry, Grenades, Imperium;180;0
 Lootas;Orks;Infantry;150;0
 Lord Inquisitor Kyria Draxus;Agents of the Imperium;Infantry, Character, Epic Hero, Psyker, Grenades, Imperium, Inquisitor;75;0
 Lord Invocatus;World Eaters;Mounted, Character, Epic Hero, Grenades, Chaos, Khorne;140;0
 Lord Solar Leontus;Astra Militarum;Mounted, Character, Epic Hero, Imperium, Officer;125;0
 Lord of Contagion;Death Guard;Infantry, Character, Chaos, Nurgle, Terminator, Grenades;80;0
 Lord of Virulence;Death Guard;Infantry, Character, Chaos, Nurgle, Terminator;100;0
+Lukas the Trickster;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Grenades, Imperium;50;0
 Lychguard;Necrons;Infantry;190;0 // unit size is 5/10, I have 1 model
 Mad Dok Grotsnik;Orks;Infantry, Character, Epic Hero, Painboy;65;0
 Magnus the Red;Thousand Sons;Monster, Psyker, Fly, Character, Epic Hero, Daemon, Chaos, Tzeentch, Primarch;440;0
@@ -375,17 +417,20 @@ Morvenn Vahl;Adepta Sororitas;Vehicle, Walker, Character, Epic Hero, Imperium;12
 Mozrog Skragbad;Orks;Monster, Character, Beast Snagga, Epic Hero;195;0
 Mucolid Spores;Tyranids;Beast, Fly, Great Devourer, Mucolid Spores;100;0
 Munitorum Servitors;Astra Militarum;Infantry, Imperium;35;0
+Murderfang;Adeptus Astartes, Space Wolves;Vehicle, Walker, Character, Epic Hero, Imperium, Dreadnought;170;0
 Mutalith Vortex Beast;Thousand Sons;Monster, Daemon, Chaos, Tzeentch;165;0
 Myphitic Blight-Haulers;Death Guard;Vehicle, Chaos, Nurgle, Daemon, Smoke;300;0
 Necron Warriors;Necrons;Infantry, Battleline;200;4 // Have 88 total models - 10/20 per unit
 Nemesis Dreadknight;Grey Knights;Vehicle, Walker, Psyker, Imperium;185;0
 Neophyte Hybrids;Genestealer Cults;Infantry, Battleline, Grenades, Great Devourer;180;.5 // unit size is 10/20, I have 10
+Nephilim Jetfighter;Adeptus Astartes, Dark Angels;Vehicle, Aircraft, Fly, Imperium;195;0
 Neurogaunts;Tyranids;Infantry, Great Devourer, Endless Multitude, Neurogaunts;90;.5 // have 11, each unit can have 22 max
 Neurolictor;Tyranids;Infantry, Great Devourer, Vanguard Invader, Neurolictor;65;0
 Neurotyrant;Tyranids;Monster, Character, Fly, Psyker, Great Devourer, Synapse, Neurotyrant;105;1
 Nexos;Genestealer Cults;Infantry, Character, Great Devourer;60;0
 Night Scythe;Necrons;Vehicle, Aircraft, Fly, Transport;145;0
 Night Spinner;Aeldari;Vehicle, Fly;180;0
+Njal Stormcaller;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Psyker, Imperium, Terminator;85;0
 Nob on Smasha Squig;Orks;Mounted, Character, Beast Snagga;60;0
 Nob with Waaagh! Banner;Orks;Infantry, Character;70;0
 Nobz;Orks;Infantry, Grenades;210;0
@@ -435,11 +480,18 @@ Purestrain Genestealers;Genestealer Cults;Infantry, Great Devourer;170;0
 Purgation Squad;Grey Knights;Infantry, Psyker, Grenades, Imperium;270;0
 Purifier Squad;Grey Knights;Infantry, Psyker, Grenades, Imperium;260;0
 Pyrovores;Tyranids;Infantry, Great Devourer, Harvester, Pyrovores;90;0
+Ragnar Blackmane;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Imperium, Grenades, Tacticus, Captain;90;0
 Raider;Drukhari;Vehicle, Transport, Dedicated Transport, Fly, Aeldari;90;1
 Rangers;Aeldari;Infantry;110;0
 Ratling Snipers;Astra Militarum;Infantry, Imperium;60;0
 Ravager;Drukhari;Vehicle, Kabal, Fly, Aeldari;115;0
 Raveners;Tyranids;Infantry, Great Devourer, Raveners;150;0
+Ravenwing Black Knights;Adeptus Astartes, Dark Angels;Mounted, Grenades, Imperium;220;0
+Ravenwing Command Squad;Adeptus Astartes, Dark Angels;Mounted, Grenades, Imperium;260;0
+Ravenwing Dark Talon;Adeptus Astartes, Dark Angels;Vehicle, Aircraft, Fly, Imperium;210;0
+Ravenwing Darkshroud;Adeptus Astartes, Dark Angels;Vehicle, Fly, Imperium;125;0
+Ravenwing Land Speeder Vengeance;Adeptus Astartes, Dark Angels;Vehicle, Fly, Imperium;160;0
+Ravenwing Talonmaster;Adeptus Astartes, Dark Angels;Vehicle, Character, Fly, Imperium;105;0
 Razorback;Adeptus Astartes;Vehicle, Smoke, Transport, Dedicated Transport, Imperium;90;0
 Razorwing Jetfighter;Drukhari;Vehicle, Fly, Aircraft, Aeldari;170;0
 Reavers;Drukhari;Mounted, Wych Cult, Fly, Aeldari;140;1 // unit is 3 or 6, I have 6
@@ -462,6 +514,7 @@ Royal Warden;Necrons;Infantry, Character;45;1
 Rubric Marines;Thousand Sons;Infantry, Battleline, Chaos, Tzeentch, Psyker;210;0
 Rukkatrukk Squigbuggy;Orks;Vehicle;110;0
 Saint Celestine;Adepta Sororitas;Infantry, Jump Pack, Fly, Grenades, Imperium, Character, Epic Hero;135;0
+Sammael;Adeptus Astartes, Dark Angels;Mounted, Character, Epic Hero, Fly, Grenades, Imperium, Captain;130;0
 Sanctus;Genestealer Cults;Infantry, Character, Great Devourer;50;0
 Sanguinary Guard;Adeptus Astartes, Blood Angels;Infantry, Fly, Jump Pack, Grenades, Imperium;350;0
 Sanguinary Priest with Jump Pack;Adeptus Astartes, Blood Angels;Infantry, Character, Grenades, Imperium, Fly, Jump Pack;90;0
@@ -494,10 +547,12 @@ Skorpekh Destroyers;Necrons;Infantry, Destroyer Cult;200;.5 // unit size is 3/6,
 Skorpekh Lord;Necrons;Infantry, Character, Destroyer Cult;115;1
 Skorpius Disintegrator;Adeptus Mechanicus;Vehicle, Imperium, Skitarii, Smoke;195;0
 Skorpius Dunerider;Adeptus Mechanicus;Vehicle, Transport, Dedicated Transport, Imperium, Skitarii, Smoke;95;0
+Skyclaws;Adeptus Astartes, Space Wolves;Infantry, Jump Pack, Fly, Grenades, Imperium;270;0
 Skyweavers;Aeldari;Mounted, Fly, Smoke, Harlequins;190;0
 Sly Marbo;Astra Militarum;Infantry, Character, Epic Hero, Imperium, Grenades, Regiment;65;0
 Solitaire;Aeldari;Infantry, Character, Epic Hero, Harlequins;115;0
 Sororitas Rhino;Adepta Sororitas;Vehicle, Transport, Dedicated Transport, Smoke, Imperium;75;1
+Space Wolves Venerable Dreadnought;Adeptus Astartes, Space Wolves;Vehicle, Walker, Smoke, Imperium, Dreadnought;155;0
 Spiritseer;Aeldari;Character, Infantry, Psyker;65;0
 Spore Mines;Tyranids;Beast, Fly, Great Devourer, Spore Mines;110;0
 Sporocyst;Tyranids;Monster, Great Devourer, Sporocyst;145;0
@@ -510,11 +565,13 @@ Storm Speeder Hailstrike;Adeptus Astartes;Vehicle, Fly, Imperium;130;0
 Storm Speeder Hammerstrike;Adeptus Astartes;Vehicle, Fly, Imperium;150;0
 Storm Speeder Thunderstrike;Adeptus Astartes;Vehicle, Fly, Imperium;150;0
 Stormboyz;Orks;Infantry, Jump Pack, Fly, Grenades;130;0
+Stormfang Gunship;Adeptus Astartes, Space Wolves;Vehicle, Aircraft, Fly, Transport;300;0
 Stormhawk Interceptor;Adeptus Astartes;Vehicle, Fly, Aircraft, Imperium, Smoke;155;0
 Stormlord;Astra Militarum;Vehicle, Titanic, Imperium, Transport, Smoke;460;0
 Stormraven Gunship;Adeptus Astartes;Vehicle, Fly, Aircraft, Transport, Imperium;240;0
 Stormsword;Astra Militarum;Vehicle, Titanic, Imperium, Smoke;495;0
 Stormtalon Gunship;Adeptus Astartes;Vehicle, Fly, Aircraft, Imperium;165;0
+Stormwolf;Adeptus Astartes, Space Wolves;Vehicle, Aircraft, Fly, Transport;250;0
 Strike Squad;Grey Knights;Infantry, Battleline, Psyker, Grenades, Imperium;250;1 // have 10 models, unit is 5/10
 Striking Scorpions;Aeldari;Infantry;150;0
 Subductor Squad;Agents of the Imperium;Infantry, Grenades, Imperium, Retinue;110;0
@@ -566,6 +623,7 @@ Thousand Sons Rhino;Thousand Sons;Vehicle, Transport, Smoke, Chaos, Tzeentch, Rh
 Thousand Sons Sorcerer in Terminator Armour;Thousand Sons;Infantry, Character, Psyker, Terminator, Chaos, Tzeentch, Sorcerer;115;0
 Thousand Sons Sorcerer;Thousand Sons;Infantry, Character, Psyker, Grenades, Chaos, Tzeentch, Sorcerer;95;0
 Thousand Sons Vindicator;Thousand Sons;Vehicle, Smoke, Chaos, Tzeentch;190;0
+Thunderwolf Cavalry;Adeptus Astartes, Space Wolves;Mounted, Grenades, Imperium;180;0
 Tomb Blades;Necrons;Mounted, Fly;150;0
 Tor Garadon;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Imperium, Gravis, Captain;100;0
 Toxicrene;Tyranids;Monster, Great Devourer, Toxicrene;180;0
@@ -589,6 +647,7 @@ Tyrant Guard;Tyranids;Infantry, Great Devourer, Tyrant Guard;190;0
 Tzaangor Enlightened;Thousand Sons;Mounted, Fly, Chaos, Tzeentch;90;0
 Tzaangor Shaman;Thousand Sons;Mounted, Character, Fly, Psyker, Chaos, Tzeentch;60;0
 Tzaangors;Thousand Sons;Infantry, Battleline, Chaos, Tzeentch;130;0
+Ulrik the Slayer;Adeptus Astartes, Space Wolves;Infantry, Character, Epic Hero, Grenades, Imperium;70;0
 Uriel Ventris;Adeptus Astartes, Ultramarines;Infantry, Character, Epic Hero, Imperium, Tacticus, Captain;75;0
 Urien Rakarth;Drukhari;Infantry, Haemonculus Covens, Character, Epic Hero, Aeldari, Haemonculus;80;0
 Ursula Creed;Astra Militarum;Infantry, Character, Epic Hero, Imperium, Officer;55;0
@@ -610,6 +669,11 @@ Voidweaver;Aeldari;Vehicle, Fly, Smoke, Harlequins;125;0
 Von Ryan's Leapers;Tyranids;Infantry, Great Devourer, Vanguard Infantry, Von Ryan's Leapers;150;.5 // have 3, max unit size is 6
 Vulkan He'stan;Adeptus Astartes, Salamanders;Infantry, Character, Epic Hero, Grenades, Imperium, Captain;85;0
 Vypers;Aeldari;Vehicle, Fly;85;0
+War Dog Brigand;Chaos Knights;Vehicle, Walker, Battleline, Chaos, War Dog;160;0
+War Dog Executioner;Chaos Knights;Vehicle, Walker, Battleline, Chaos, War Dog;150;0
+War Dog Huntsman;Chaos Knights;Vehicle, Walker, Battleline, Chaos, War Dog;150;0
+War Dog Karnivore;Chaos Knights;Vehicle, Walker, Battleline, Chaos, War Dog;140;0
+War Dog Stalker;Chaos Knights;Vehicle, Walker, Battleline, Character, Chaos, War Dog;150;0
 War Walkers;Aeldari;Vehicle, Walker;110;0
 Warbikers;Orks;Mounted, Grenades;140;0
 Warboss in Mega Armour;Orks;Infantry, Character;80;0
@@ -628,6 +692,15 @@ Windriders;Aeldari;Mounted, Fly;240;0
 Winged Hive Tyrant;Tyranids;Monster, Character, Psyker, Fly, Great Devourer, Synapse, Vanguard Invader, Hive Tyrant, Winged Hive Tyrant;210;0
 Winged Tyranid Prime;Tyranids;Infantry, Character, Fly, Great Devourer, Synapse, Vanguard Invader, Winged Tyranid Prime;65;1
 Witchseekers;Adeptus Custodes;Infantry, Imperium, Anathema Psykana;125;0
+Wolf Guard Battle Leader in Terminator Armour;Adeptus Astartes, Space Wolves;Infantry, Character, Imperium, Terminator;75;0
+Wolf Guard Battle Leader on Thunderwolf;Adeptus Astartes, Space Wolves;Mounted, Character, Grenades, Imperium;80;0
+Wolf Guard Pack Leader in Terminator Armour;Adeptus Astartes, Space Wolves;Infantry, Character, Grenades, Imperium, Terminator, Pack Leader;40;0
+Wolf Guard Pack Leader with Jump Pack;Adeptus Astartes, Space Wolves;Infantry, Character, Jump Pack, Fly, Grenades, Imperium, Pack Leader;35;0
+Wolf Guard Pack Leader;Adeptus Astartes, Space Wolves;Infantry, Character, Grenades, Imperium, Pack Leader;30;0
+Wolf Guard Terminators;Adeptus Astartes, Space Wolves;Infantry, Grenades, Imperium, Terminator;390;0
+Wolf Guard;Adeptus Astartes, Space Wolves;Infantry, Grenades, Imperium;190;0
+Wolf Lord on Thunderwolf;Adeptus Astartes, Space Wolves;Mounted, Character, Grenades, Imperium, Captain;100;0
+Wolf Scouts;Adeptus Astartes, Space Wolves;Infantry, Grenades, Smoke, Imperium, Scout Squad;170;0
 World Eaters Chaos Spawn;World Eaters;Beast, Chaos, Khorne, Spawn;65;0
 World Eaters Daemon Prince with Wings;World Eaters;Monster, Character, Fly, Chaos, Khorne, Daemon, Daemon Prince;195;0
 World Eaters Daemon Prince;World Eaters;Monster, Character, Chaos, Khorne, Daemon, Daemon Prince;200;0
@@ -648,6 +721,8 @@ Wraithblades;Aeldari;Infantry, Wraith Construct;340;0
 Wraithguard;Aeldari;Infantry, Wraith Construct;340;0
 Wraithknight;Aeldari;Monster, Titanic, Towering, Walker, Wraith Construct;510;0
 Wraithlord;Aeldari;Monster, Walker, Wraith Construct;160;0
+Wulfen Dreadnought;Adeptus Astartes, Space Wolves;Vehicle, Walker, Imperium, Dreadnought;130;0
+Wulfen;Adeptus Astartes, Space Wolves;Infantry, Imperium;160;0
 Wurrboy;Orks;Infantry, Character, Beast Snagga, Psyker;60;0
 Wyches;Drukhari;Infantry, Battleline, Wych Cult, Aeldari;90;0 // unit size is 10, have 5
 Wyvern;Astra Militarum;Vehicle, Artillery, Imperium, Squadron, Smoke;110;0
