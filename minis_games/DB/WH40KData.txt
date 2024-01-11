@@ -454,7 +454,7 @@ Paladin Squad;Grey Knights;Infantry, Psyker, Terminator, Grenades, Imperium;450;
 Palatine;Adepta Sororitas;Infantry, Character, Grenades, Imperium;50;0
 Paragon Warsuits;Adepta Sororitas;Vehicle, Walker, Grenades, Imperium;200;0
 Parasite of Mortrex;Tyranids;Infantry, Character, Fly, Great Devourer, Vanguard Invader, Parasite of Mortrex;80;0
-Patriarch;Genestealer Cults;Infantry, Character, Psyker, Great Devourer;Epic Hero;85;0
+Patriarch;Genestealer Cults;Infantry, Character, Psyker, Great Devourer, Epic Hero;85;0
 Pedro Kantor;Adeptus Astartes, Imperial Fists;Infantry, Character, Epic Hero, Grenades, Imperium, Tacticus, Chapter Master;100;0
 Penitent Engines;Adepta Sororitas;Vehicle, Walker, Imperium;120;0
 Plague Marines;Death Guard;Infantry, Chaos, Nurgle, Grenades, Battleline;160;0

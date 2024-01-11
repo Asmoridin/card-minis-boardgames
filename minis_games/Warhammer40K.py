@@ -6,15 +6,16 @@ GAME_NAME = "Warhammer 40,000"
 COMPANY = "Games Workshop"
 
 def get_meta(army_name):
-    if army_name in ['Black Templars', 'Blood Angels', 'Adeptus Astartes', 'Ultramarines', 'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands', ]:
+    if army_name in ['Black Templars', 'Blood Angels', 'Adeptus Astartes', 'Ultramarines', 'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands', 
+            'Space Wolves', 'Dark Angels', 'Grey Knights', ]:
         return "Space Marines"
-    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', ]:
+    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', 'Chaos Knights']:
         return "Chaos"
     elif army_name in ['Aeldari', 'Drukhari']:
         return "Aeldari"
     elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', ]:
         return "Xenos"
-    elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', ]:
+    elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', 'Imperial Knights', ]:
         return "Imperium"
     else:
         print("Army %s not given a meta type" % army_name)
