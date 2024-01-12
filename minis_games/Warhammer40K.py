@@ -7,13 +7,13 @@ COMPANY = "Games Workshop"
 
 def get_meta(army_name):
     if army_name in ['Black Templars', 'Blood Angels', 'Adeptus Astartes', 'Ultramarines', 'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands', 
-            'Space Wolves', 'Dark Angels', 'Grey Knights', ]:
+            'Space Wolves', 'Dark Angels', 'Grey Knights', 'Deathwatch']:
         return "Space Marines"
-    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', 'Chaos Knights']:
+    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', 'Chaos Knights', 'Heretic Astartes', 'Legiones Daemonica']:
         return "Chaos"
     elif army_name in ['Aeldari', 'Drukhari']:
         return "Aeldari"
-    elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', ]:
+    elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', "T'au Empire", 'Leagues of Votann', ]:
         return "Xenos"
     elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', 'Imperial Knights', ]:
         return "Imperium"
@@ -88,7 +88,6 @@ meta_sorter = []
 for meta_item in meta_faction:
     meta_sorter.append((meta_item, meta_faction[meta_item][1]/meta_faction[meta_item][0], meta_faction[meta_item][0] - meta_faction[meta_item][1]))
 meta_sorter = sorted(meta_sorter, key=lambda x:(x[1], -x[2], x[0]))
-print(meta_sorter)
 
 # Filter by army
 armies = {}
