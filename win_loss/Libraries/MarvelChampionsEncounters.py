@@ -93,7 +93,7 @@ encounters.extend([
   Encounter('Juggernaut', 1),
   Encounter('Mister Sinister', 1, ['Flight', 'Super Strength', 'Telepathy',]),
   Encounter('Stryfe', 2),
-  #Encounter('Unus', ?),
+  #Encounter('Unus', ?, ['Infinites']),
   #Encounter('Four Horsemen', ?, can_infinity=False),
   #Encounter('Apocalypse', ?),
 ])
