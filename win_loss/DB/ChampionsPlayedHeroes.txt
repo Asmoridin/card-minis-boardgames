@@ -23,6 +23,7 @@ Dr. Strange;Leadership;1;1
 Dr. Strange;Protection;1;1
 Drax;Justice;2;2
 Drax;Protection;1;0
+Gambit;Justice;1;0
 Gamora;Aggression;1;1
 Gamora;Protection;2;2
 Ghost-Spider;Protection;1;1
@@ -57,6 +58,7 @@ Quicksilver;Protection;1;1
 Rocket Racoon;Aggression;6;1
 Rocket Racoon;Justice;9;2
 Rocket Racoon;Leadership;3;1
+Rogue;Protection;1;0
 Scarlet Witch;Justice;1;1
 Scarlet Witch;Protection;2;2
 Shadowcat;Aggression;1;0
