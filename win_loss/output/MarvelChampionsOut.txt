@@ -1,12 +1,12 @@
 Generating a game
 There are 250 different Hero/Aspect combinations, and 25195 different game pairings
-Currently have played 44.4 percent of Hero/Aspects
+Currently have played 45.2 percent of Hero/Aspects
 There are 49 heroes, 41 different encounters, and 79 different modular encounter sets
 
 Most played hero: Rocket Racoon (18 times). Least: Angel (0)
-Most played aspect: Protection (53 times). Least: 'Pool (0)
+Most played aspect: Protection (54 times). Least: 'Pool (0)
 Most played scenario: Rhino (8 times). Least: Juggernaut (0)
-Most played modular encounter: Ship Command (14 times). Least: Acolytes (0)
+Most played modular encounter: Ship Command (14 times). Least: Armadillo (0)
 
 Heroes/Aspects chosen: 'Pool Angel (0W-0L) and Leadership Black Panther (0W-0L)
 Chosen encounter is A Mess of Things Juggernaut (0W-0L)
@@ -26,7 +26,7 @@ Deadpool                      0 - 0
 Domino                        0 - 0
 Dr. Strange                   4 - 0
 Drax                          2 - 1
-Gambit                        0 - 0
+Gambit                        0 - 1
 Gamora                        3 - 0
 Ghost-Spider                  1 - 0
 Groot                         0 - 2
@@ -41,7 +41,7 @@ Phoenix                       1 - 1
 Psylocke                      0 - 0
 Quicksilver                   2 - 1
 Rocket Racoon                 4 - 14
-Rogue                         0 - 0
+Rogue                         0 - 1
 Scarlet Witch                 3 - 0
 Shadowcat                     1 - 1
 She-Hulk                      1 - 4
@@ -74,6 +74,7 @@ Kang                          1 - 4
 Klaw                          3 - 3
 Loki                          1 - 2
 MaGog                         1 - 0
+Magneto                       0 - 1
 Mansion Attack                1 - 0
 Master Mold                   1 - 0
 Mutagen Formula               2 - 2
@@ -99,6 +100,6 @@ Venom Goblin                  0 - 1
 Zola                          2 - 2
 
 Total W-L by aspect:
-{'Leadership': [25, 19], 'Justice': [33, 19], 'Protection': [34, 19], 'Aggression': [34, 16], "'Pool": [0, 0]}
+{'Leadership': [25, 19], 'Justice': [33, 20], 'Protection': [34, 20], 'Aggression': [34, 16], "'Pool": [0, 0]}
 
-Win Loss Records, Overall: 67 - 43, 0.609
+Win Loss Records, Overall: 67 - 44, 0.604
