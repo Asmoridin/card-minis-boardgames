@@ -25,6 +25,7 @@ Loki;Black Order/Streets of Mayhem;Standard;1;0
 Loki;Enchantress/Frost Giants;Standard;1;1
 Loki;Enchantress/Wrecking Crew;Standard;1;0
 Magneto;Acolytes;Standard;1;0
+Morlock Siege;Military Grade/Mutant Slayers;Standard;1;1
 Mutagen Formula;A Mess of Things;Standard;1;0
 Mutagen Formula;Goblin Gimmicks;Standard;2;1
 Mutagen Formula;Under Attack;Standard;1;1

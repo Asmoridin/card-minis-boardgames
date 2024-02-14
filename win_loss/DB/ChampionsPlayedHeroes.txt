@@ -9,6 +9,7 @@ Black Panther;Protection;3;2
 Black Widow;Aggression;1;1
 Black Widow;Justice;3;2
 Black Widow;Protection;1;1
+Cable;Leadership;1;1
 Captain America;Aggression;1;1
 Captain America;Justice;2;2
 Captain America;Leadership;2;2
@@ -18,6 +19,7 @@ Captain Marvel;Leadership;3;2
 Colossus;Protection;1;0
 Cyclops;Leadership;2;1
 Cyclops;Protection;2;0
+Domino;Justice;1;1
 Dr. Strange;Aggression;2;2
 Dr. Strange;Leadership;1;1
 Dr. Strange;Protection;1;1
