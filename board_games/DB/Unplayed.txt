@@ -93,7 +93,8 @@ Codeword: Barbarossa (Four Roads to Moscow)
 Combat Commander: Pacific
 Combat Veteran
 Combined Arms: The World War II Campaign Game
-Commands and Colors: Ancients
+Commands & Colors: Ancients
+Commands & Colors: Medieval
 Commands & Colors: Samurai Battles
 Confederate Rails: Railroading in the American Civil War 1861-1865
 Conquest: First Blood
@@ -241,6 +242,7 @@ Operation Musketeer: The '56 War in the Middle East
 Operation Pedestal: Convoy to Malta
 Operation Pincher: Stalin's Drive In the Middle East, 1949
 Pacific War: The Struggle Against Japan, 1941-1945 (Second Edition)
+Panzer North Africa
 Paukenschlag
 Paying the Peiper
 Pendragon: The Fall of Roman Britain
@@ -368,6 +370,7 @@ Vampire: The Masquerade – Rivals Expandable Card Game
 Vercingetorix: Twilight of the Gauls
 Verdun: A Generation Lost
 Vicksburg: The Assault On Stockade Redan, May 1863
+Vijayanagara: The Deccan Empires of Medieval India, 1290-1398
 War Galley
 War for Edaðh
 War in the Megacity
