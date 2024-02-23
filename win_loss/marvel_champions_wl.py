@@ -1,30 +1,39 @@
 #!/usr/bin/python3
 
-import random, math, itertools, os, sys
+"""
+List wins and losses for Marvel Champions, and give recommendations for what to play next
+"""
+
+import os
+import random
+import sys
 
 if os.getcwd().endswith('card-minis-boardgames'):
     sys.path.append('.')
     from utils.output_utils import double_print
-    file_h = open('win_loss/DB/ChampionsPlayedHeroes.txt', 'r')
-    enc_file_h = open('win_loss/DB/ChampionsPlayedEncounters.txt', 'r')
+    file_h = open('win_loss/DB/ChampionsPlayedHeroes.txt', 'r', encoding="UTF-8")
+    enc_file_h = open('win_loss/DB/ChampionsPlayedEncounters.txt', 'r', encoding="UTF-8")
 else:
     sys.path.append('.')
     from utils.output_utils import double_print
-    file_h = open('DB/ChampionsPlayedHeroes.txt', 'r')
-    enc_file_h = open('DB/ChampionsPlayedEncounters.txt', 'r')
+    file_h = open('DB/ChampionsPlayedHeroes.txt', 'r', encoding="UTF-8")
+    enc_file_h = open('DB/ChampionsPlayedEncounters.txt', 'r', encoding="UTF-8")
 
 from Libraries import MarvelChampionsEncounters as ChampEncounters
 from Libraries import MarvelChampionsHeroes as ChampHeroes
 
 total_hero_choices = len(ChampHeroes.hero_combinations)
 
-def getHeroWL(hero, aspect, playMap):
-    wins = 0
-    losses = 0
-    if (hero, aspect) in playMap:
-        wins = playMap[(hero, aspect)][1]
-        losses = playMap[(hero, aspect)][0] - wins
-    return((wins, losses))
+def get_hero_wl(in_hero, in_aspect, in_play_map):
+    """
+    For a given hero and aspect, return the total wins and losses
+    """
+    hero_wins = 0
+    hero_losses = 0
+    if (in_hero, in_aspect) in in_play_map:
+        hero_wins = in_play_map[(in_hero, in_aspect)][1]
+        hero_losses = in_play_map[(in_hero, in_aspect)][0] - hero_wins
+    return((hero_wins, hero_losses))
 
 def getEncounterWL(encounter, mod_encounters, encounter_map):
     wins = 0
@@ -35,8 +44,10 @@ def getEncounterWL(encounter, mod_encounters, encounter_map):
         losses = encounter_map[(encounter, mod_encounters)][0] - wins
     return((wins, losses))
 
-def determineCombinations():
-    # This is the number of different hero combinations I can play.
+def determine_combinations():
+    """
+    Return the number of different hero combinations I can play.
+    """
     combinations = set()
     h_1 = ChampHeroes.hero_combinations
     h_2 = ChampHeroes.hero_combinations
@@ -45,7 +56,7 @@ def determineCombinations():
             if combo_1[0] != combo_2[0] and combo_1[1] != combo_2[1]:
                 this_combo = sorted([combo_1, combo_2])
                 combinations.add(tuple(this_combo))
-    return(len(combinations))
+    return len(combinations)
 
 def getHeroStats(playMap):
     # Return the following = most played hero, most played hero amount, least played hero, least played hero amount
@@ -68,7 +79,7 @@ def getAspectStats(playMap):
     for (hero, aspect_tuple) in playMap:
         for aspect in aspect_tuple:
             sum_map[aspect] += playMap[(hero, aspect_tuple)][0]
-    # TODO: Tuple the sum map, sort it
+
     aspect_tuples = []
     for aspect in sum_map:
         aspect_tuples.append((aspect, sum_map[aspect]))
@@ -103,7 +114,7 @@ def getLeastPlayedEncounter(enc_played_map):
             return encounter_combo
         encounter_played.append((encounter_combo, enc_played_map[encounter_combo][0]))
     encounter_played = sorted(encounter_played, key=lambda x: x[1])
-    return(encounter_played[0][0])
+    return encounter_played[0][0]
 
 def getVillainStats(encounter_map):
     # Returns (most played villain, most played villain amount, least played villain, least played villain amount)
@@ -168,28 +179,28 @@ for line in encounter_lines:
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
-        out_file_h = open("win_loss/output/MarvelChampionsOut.txt", 'w')
+        out_file_h = open("win_loss/output/MarvelChampionsOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("output/MarvelChampionsOut.txt", 'w')
+        out_file_h = open("output/MarvelChampionsOut.txt", 'w', encoding="UTF-8")
     double_print("Generating a game", out_file_h)
-    double_print("There are %d different Hero/Aspect combinations, and %d different game pairings" % (total_hero_choices, determineCombinations()), out_file_h)
-    
+    double_print("There are %d different Hero/Aspect combinations, and %d different game pairings" % (total_hero_choices, determine_combinations()), out_file_h)
+
     double_print("Currently have played %.1f percent of Hero/Aspects" % (len(hero_played_map) * 100 / total_hero_choices), out_file_h)
     double_print("There are %d heroes, %d different encounters, and %d different modular encounter sets\n" % (len(ChampHeroes.heroes), len(ChampEncounters.encounters), len(ChampEncounters.modular_encounters)), out_file_h)
 
     # Choose first hero - always choose least played hero
     choice_1 = getLeastPlayedHero(hero_played_map)
-    
+
     # Choose second hero, with lowest hero/aspect combination remaining
     choices = []
     for hero_choice in ChampHeroes.hero_combinations:
         if hero_choice[0] == choice_1[0]:
             continue
-        valid = True
+        VALID = True
         for aspect in hero_choice[1]:
             if aspect in choice_1[1]:
-                valid = False
-        if not valid:
+                VALID = False
+        if not VALID:
             continue
         if (hero_choice[0], hero_choice[1]) in hero_played_map:
             choices.append((hero_choice[0], hero_choice[1], hero_played_map[(hero_choice[0], hero_choice[1])][0]))
@@ -210,8 +221,8 @@ if __name__ == "__main__":
     # Choose an encounter
     encounter_choice = getLeastPlayedEncounter(enc_played_map)
 
-    hero_1_wl = getHeroWL(choice_1[0], choice_1[1], hero_played_map)
-    hero_2_wl = getHeroWL(choice_2[0], choice_2[1], hero_played_map)
+    hero_1_wl = get_hero_wl(choice_1[0], choice_1[1], hero_played_map)
+    hero_2_wl = get_hero_wl(choice_2[0], choice_2[1], hero_played_map)
     double_print("\nHeroes/Aspects chosen: %s %s (%sW-%sL) and %s %s (%sW-%sL)" % ('/'.join(choice_1[1]), choice_1[0], hero_1_wl[0], hero_1_wl[1], '/'.join(choice_2[1]), choice_2[0], hero_2_wl[0], hero_2_wl[1]), out_file_h)
     enc_wl = getEncounterWL(encounter_choice[0], encounter_choice[1], enc_played_map)
     double_print("Chosen encounter is %s %s (%sW-%sL)" % ('/'.join(encounter_choice[1]), encounter_choice[0], enc_wl[0], enc_wl[1]), out_file_h)
@@ -221,7 +232,7 @@ if __name__ == "__main__":
     for hero_choice in ChampHeroes.hero_combinations:
         if hero_choice[0] not in hero_wl:
             hero_wl[hero_choice[0]] = [0,0]
-        wins, losses = getHeroWL(hero_choice[0], hero_choice[1], hero_played_map)
+        wins, losses = get_hero_wl(hero_choice[0], hero_choice[1], hero_played_map)
         hero_wl[hero_choice[0]][0] += wins
         hero_wl[hero_choice[0]][1] += losses
     for hero in sorted(hero_wl):
@@ -248,7 +259,7 @@ if __name__ == "__main__":
         for aspect in hero_choice[1]:
             if aspect not in aspect_wl:
                 aspect_wl[aspect] = [0,0]
-            wins, losses = getHeroWL(hero_choice[0], hero_choice[1], hero_played_map)
+            wins, losses = get_hero_wl(hero_choice[0], hero_choice[1], hero_played_map)
             aspect_wl[aspect][0] += wins
             aspect_wl[aspect][1] += losses
     double_print(str(aspect_wl), out_file_h)
