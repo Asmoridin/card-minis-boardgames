@@ -17,14 +17,14 @@ file_h.close()
 lines = [line.strip() for line in lines]
 
 item_list = []
-total_max = 0
-total_own = 0
+TOTAL_MAX = 0
+TOTAL_OWN = 0
 for line in lines:
     dice_demon, dice_part, own = line.split(';')
     own = int(own)
     dice_max = max(own, 5)
-    total_max += dice_max
-    total_own += own
+    TOTAL_MAX += dice_max
+    TOTAL_OWN += own
     item_list.append((dice_demon, dice_part, own, dice_max))
 
 faction_map = {}
@@ -70,7 +70,7 @@ if __name__=="__main__":
     else:
         out_file_h = open("output/DaemonDiceOut.txt", 'w')
 
-    double_print("Have %d out of %d - %.2f percent" % (total_own, total_max, 100*total_own/total_max), out_file_h)
+    double_print("Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100*TOTAL_OWN/TOTAL_MAX), out_file_h)
     double_print("Buy a %s (have %d out of %d)" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]), out_file_h)
 
     out_file_h.close()

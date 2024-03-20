@@ -1119,15 +1119,13 @@ Gatherers' Raid;C;Event;;What You Leave Behind;Print;3;3
 Gav, Diplomat;C;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 Gegis, Exploitative Profiteer;VP;Personnel;Ferengi;Inheritance;Virtual;3;0
 Gelnon, Accurate Estimator;V;Personnel;Dominion;Tacking Into the Wind;Virtual;3;0
-Gelnon, Aloof Tactician;P;Personnel;Dominion;Reflections 2.0;Print;3;0
-Gelnon, Aloof Tactician;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
+Gelnon, Aloof Tactician;P/VP;Personnel;Dominion;Reflections 2.0/Virtual Promo;Both;3;0
 Gem;U;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 Generous Offer;V;Dilemma;;Balance of Terror;Virtual;3;3
 Genesis Planet;P;Mission;;Genesis;Print;2;0
 Genetronic Treatment;V;Interrupt;;Allegiance;Virtual;3;0
 Geordi La Forge, Battleship Engineer;V;Personnel;Federation;Raise the Stakes;Virtual;3;0
-Geordi La Forge, Chief Engineer;R;Personnel;Federation;Second Edition;Print;3;0
-Geordi La Forge, Chief Engineer;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Geordi La Forge, Chief Engineer;R/VP;Personnel;Federation;Second Edition/Virtual Promo;Both;3;0
 Geordi La Forge, Conn Officer;U;Personnel;Federation;Necessary Evil;Print;3;0
 Geordi La Forge, Illuminated Advocate;V;Personnel;Federation;Heroes and Demons;Virtual;3;0
 Geordi La Forge, Resolute Presence;V;Personnel;Federation;Sacrifice of Angels;Virtual;3;0
@@ -1189,8 +1187,7 @@ Guidance Drone;C;Personnel;Borg;Call to Arms;Print;3;0
 Guidance of the Council;P;Event;;Reflections 2.0;Print;3;3
 Guinan's Rifle;V;Equipment;;Sacrifice of Angels;Virtual;3;0
 Guinan, Battleship Bartender;V;Personnel;Federation;Unity;Virtual;3;0
-Guinan, Listener;R;Personnel;Federation;Necessary Evil;Print;3;0
-Guinan, Listener;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Guinan, Listener;R/VP;Personnel;Federation;Necessary Evil/Virtual Promo;Both;3;0
 Guingouin;U;Ship;Federation;Energize;Print;3;0
 Guna'shan;V;Personnel;Dominion;Hard Time;Virtual;3;0
 Gunboat Diplomacy;C;Event;;Necessary Evil;Print;3;0

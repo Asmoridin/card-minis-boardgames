@@ -20,8 +20,8 @@ lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
 
-total_max = 0
-total_own = 0
+TOTAL_MAX = 0
+TOTAL_OWN = 0
 card_names = set()
 card_lines = []
 filter_lines = []
@@ -44,8 +44,8 @@ for line in lines:
         print("Invalid print type of %s for %s" % (print_type, card_name))
     max_card = int(max_card)
     card_own = int(card_own)
-    total_max += max_card
-    total_own += card_own
+    TOTAL_MAX += max_card
+    TOTAL_OWN += card_own
     filter_lines.append((print_type, card_set, card_type, card_affil, rarity, card_name, max_card, card_own))
 
 print_type_map = {'Print':[0,0], 'Virtual':[0,0]}
@@ -118,5 +118,5 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/ST2EOut.txt", 'w')
     
-    double_print("Have %d out of %d - %.2f percent" % (total_own, total_max, total_own * 100/total_max), out_file_h)
+    double_print("Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, TOTAL_OWN * 100/TOTAL_MAX), out_file_h)
     double_print("Buy a %s from %s, maybe %s (have %d out of %d)" % (final_card[2], final_card[1], final_card[5], final_card[7], final_card[6]), out_file_h)

@@ -36,8 +36,8 @@ file_h.close()
 lines = [line.strip() for line in lines]
 
 item_list = []
-total_max = 0
-total_own = 0
+TOTAL_MAX = 0
+TOTAL_OWN = 0
 faction_total = {}
 for line in lines:
     dice_name, dice_faction, dice_size, own = line.split(';')
@@ -74,8 +74,8 @@ for line in lines:
         dice_max = max(own, 1)
     else:
         print("Unhandled dice size: " + dice_size)
-    total_max += dice_max
-    total_own += own
+    TOTAL_MAX += dice_max
+    TOTAL_OWN += own
     item_list.append((dice_name, dice_faction, dice_size, own, dice_max))
 
 meta_map = {}
@@ -137,7 +137,7 @@ if __name__=="__main__":
     else:
         out_file_h = open("output/DragonDiceOut.txt", 'w')
 
-    total_string = "Have %d out of %d - %.2f percent" % (total_own, total_max, 100* total_own/total_max)
+    total_string = "Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100* TOTAL_OWN/TOTAL_MAX)
     double_print(total_string, out_file_h)
 
     next_buy_string = "Buy a %s from %s - perhaps a %s (have %d out of %d %s)" % (picked_item[2], picked_item[1], picked_item[0], faction_map[picked_item[1]][0], faction_map[picked_item[1]][1], picked_item[1])

@@ -11,7 +11,7 @@ import DaemonDice
 import DragonDice
 import StarTrekSecondEdition
 import Tribbles
-
+import card_games.star_wars_unlimited as star_wars_unlimited
 
 if os.getcwd().endswith('card-minis-boardgames'):
     sys.path.append('.')
@@ -24,7 +24,7 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [DaemonDice, DragonDice, StarTrekSecondEdition, Tribbles]
+started_games = [DaemonDice, DragonDice, StarTrekSecondEdition, Tribbles, star_wars_unlimited]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0
@@ -38,9 +38,9 @@ other_games = [line.strip() for line in other_games]
 new_games_count = len(other_games) + NEW_GAMES_STARTED
 
 for game in started_games:
-    TOTAL_HAVE += game.total_own
-    TOTAL_MAX += game.total_max
-    game_data.append((game.GAME_NAME, game.total_own, game.total_max))
+    TOTAL_HAVE += game.TOTAL_OWN
+    TOTAL_MAX += game.TOTAL_MAX
+    game_data.append((game.GAME_NAME, game.TOTAL_OWN, game.TOTAL_MAX))
 
 game_data.append(("New Game", NEW_GAMES_STARTED + 1, new_games_count+1))
 game_data = sorted(game_data, key=lambda x:(x[1]/x[2], -1 * (x[2] - x[1])))
