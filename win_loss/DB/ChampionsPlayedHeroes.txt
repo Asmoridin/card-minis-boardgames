@@ -1,4 +1,5 @@
 Adam Warlock;Aggression/Justice/Leadership/Protection;3;2
+Angel;Protection;1;1
 Ant-Man;Aggression;2;2
 Ant-Man;Justice;2;2
 Ant-Man;Leadership;1;1
@@ -54,6 +55,7 @@ Nova;Aggression;1;1
 Nova;Protection;1;1
 Phoenix;Justice;1;0
 Phoenix;Protection;1;1
+Psylocke;Justice;1;1
 Quicksilver;Aggression;1;1
 Quicksilver;Justice;1;0
 Quicksilver;Protection;1;1
