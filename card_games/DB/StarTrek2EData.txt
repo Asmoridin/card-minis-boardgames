@@ -1091,8 +1091,7 @@ Future Enterprise, Displaced Starship;B/V;Ship;Starfleet;Borderless Promos/Alleg
 Gaard;C;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 Gaeta;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Gagh Tek Or;V;Event;;Shore Leave;Virtual;3;0
-Gaila, Arms Dealer;V;Personnel;Ferengi;The Undiscovered Country;Virtual;3;0
-Gaila, Arms Dealer;VP;Personnel;Ferengi;Virtual Promo;Virtual;3;0
+Gaila, Arms Dealer;V/VP;Personnel;Ferengi;The Undiscovered Country/Virtual Promo;Virtual;3;0
 Gal Gath'thong, Pride of the Praetor;R;Ship;Romulan;These Are The Voyages;Print;3;0
 Galathon, Steadfast Rival;R;Personnel;Romulan;Energize;Print;3;0
 Galileo Grounded;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
@@ -1102,8 +1101,7 @@ Galor;C;Ship;Cardassian;Second Edition;Print;3;0
 Galorndon Core, Execute Surreptitious Operation;V;Mission;;Heroes and Demons;Virtual;2;0
 Gamma Erandi, Chart Nebula;V;Mission;;A Time to Stand;Virtual;2;0
 Gangster's Welcome;C;Dilemma;;These Are The Voyages;Print;3;0
-Gannet Brooks, Undercover Operative;V;Personnel;Starfleet;This Side of Paradise;Virtual;3;0
-Gannet Brooks, Undercover Operative;VP;Personnel;Starfleet;Virtual Promo;Virtual;3;0
+Gannet Brooks, Undercover Operative;V/VP;Personnel;Starfleet;This Side of Paradise/Virtual Promo;Virtual;3;0
 Gant;V;Personnel;Ferengi;Symbiosis;Virtual;3;0
 Gantt;V;Personnel;Bajoran;Extreme Measures;Virtual;3;0
 Garak Has Some Issues;V;Dilemma;;The Omega Directive;Virtual;3;0

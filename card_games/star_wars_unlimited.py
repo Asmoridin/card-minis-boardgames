@@ -11,7 +11,8 @@ GAME_NAME = "Star Wars: Unlimited"
 
 valid_types = ['Leader', 'Base', 'Ground Unit', 'Space Unit', 'Event', 'Upgrade']
 card_rarities = {'C':'Common', 'U':'Uncommon', 'R': 'Rare', 'S':'Special', 'L':'Legendary'}
-card_colors_map = {'U':'Blue', 'B':'Black', 'R':'Red', 'G':'Green', 'W':'White', 'Y':'Yellow', }
+card_colors_map = {'U':'Blue', 'B':'Black', 'R':'Red', 'G':'Green',
+                   'W':'White', 'Y':'Yellow', 'N':'Neutral'}
 
 def process_card_set(card_set_in):
     """
@@ -40,11 +41,11 @@ def convert_colors(in_color):
     Takes in a string, and then returns a list of card colors for this card
     """
     ret_list = []
-    for color in in_color.split('/'):
-        if color in card_colors_map:
-            ret_list.append(card_colors_map[color])
+    for color_code in in_color.split('/'):
+        if color_code in card_colors_map:
+            ret_list.append(card_colors_map[color_code])
         else:
-            print(f"Unknown color {color}")
+            print(f"Unknown color {color_code}")
             return []
     return ret_list
 
@@ -187,10 +188,11 @@ if __name__=="__main__":
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
-    next_buy_string = f"Buy a {chosen_color} {chosen_type} from {chosen_set} - perhaps {picked_item[0]} (have {picked_item[4]} out of {picked_item[5]})"
+    next_buy_string = f"Buy a {chosen_color} {chosen_type} from {chosen_set} (at " + \
+        f"{100 * type_sorter[0][1]:.1f} percent) - perhaps {picked_item[0]} (have " + \
+        f"{picked_item[4]} out of {picked_item[5]})"
     double_print(next_buy_string, out_file_h)
-
     out_file_h.close()
-    
+
     if not os.getcwd().endswith('card-minis-boardgames'):
         input("Press enter to continue...")
