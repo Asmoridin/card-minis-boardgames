@@ -29,7 +29,7 @@ Jedha City;SOR-028-R;Base;Y;0
 Administrator’s Office;SOR-029-C;Base;Y;1
 Chopper Base;SOR-030-C;Base;Y;1
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;0
-Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;1
+Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;2
 Death Trooper;SOR-033-C;Ground Unit;U/B;3
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;0
 Lieutenant Childsen, Death Star Prison Warden;SOR-035-U;Ground Unit;U/B;2
@@ -66,15 +66,15 @@ Baze Malbus, Temple Guardian;SOR-065-U;Ground Unit;U;3
 System Patrol Craft;SOR-066-C;Space Unit;U;3 # 1 foil
 Rugged Survivors;SOR-067-C;Ground Unit;U;3 #1 foil
 Cargo Juggernaut;SOR-068-C;Ground Unit;U;3
-Resilient;SOR-069-C;Upgrade;U;2
+Resilient;SOR-069-C;Upgrade;U;3
 Devotion;SOR-070-U;Upgrade;U;1
 Electrostaff;SOR-071-R;Upgrade;U;1
 Entrenched;SOR-072-U;Upgrade;U;2
 Moment of Peace;SOR-073-C;Event;U;2 # 1xHyperspace
 Repair;SOR-074-C;Event;U;3
 It Binds All Things;SOR-075-R;Event;U;0
-Make an Opening;SOR-076-C;Event;U;3
-Takedown;SOR-077-U;Event;U;0
+Make an Opening;SOR-076-C;Event;U;3 # 1 hyperspace foil
+Takedown;SOR-077-U;Event;U;1
 Vanquish;SOR-078-C;Event;U;3
 Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;G/B;3
 General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;0
@@ -83,7 +83,7 @@ Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;0
 Superlaser Technician;SOR-083-C;Ground Unit;G/B;3
 Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
 Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;0
-Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;2
+Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
 Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;G/B;1
 Blizzard Assault AT-AT;SOR-088-U;Ground Unit;G/B;1
 Relentless, Konstantine’s Folly;SOR-089-R;Space Unit;G/B;1
@@ -100,7 +100,7 @@ Bright Hope, The Last Transport;SOR-099-U;Space Unit;G/W;0
 Wedge Antilles, Star of the Rebllion;SOR-100-R;Ground Unit;G/W;0
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;2
 Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;0
-Rebel Assault;SOR-103-U;Event;G/W;2 # 1 hyperspace, 1 hyperspace foil
+Rebel Assault;SOR-103-U;Event;G/W;3 # 1 hyperspace, 1 hyperspace foil
 U-Wing Reinforcement;SOR-104-R;Event;G/W;0
 General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;0
 Attack Pattern Delta;SOR-106-U;Event;G;1 # 1x Foil
@@ -111,7 +111,7 @@ Frontline Shuttle;SOR-110-R;Space Unit;G;0
 Patrolling V-Wing;SOR-111-C;Space Unit;G;1
 Consortium StarViper;SOR-112-C;Space Unit;G;3
 Homestead Militia;SOR-113-C;Ground Unit;G;3 # 1 hyperspace
-Escort Skiff;SOR-114-C;Ground Unit;G;1
+Escort Skiff;SOR-114-C;Ground Unit;G;2
 Agent Kallus, Seeking the Rebels;SOR-115-R;Ground Unit;G;3 # 1 hyperspace foil
 Steadfast Battalion;SOR-116-C;Ground Unit;G;3
 Mercenary Company;SOR-117-C;Ground Unit;G;2
@@ -128,7 +128,7 @@ Strike True;SOR-127-C;Event;G;3
 Death Star Stormtrooper;SOR-128-C;Ground Unit;R/B;3 # 1 foil
 Admiral Ozzel, Overconfident;SOR-129-U;Ground Unit;R/B;1
 First Legion Snowtrooper;SOR-130-C;Ground Unit;R/B;3
-Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;R/B;1 #1 hyperspace foil
+Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;R/B;2 #1 hyperspace foil
 Imperial Interceptor;SOR-132-C;Space Unit;R/B;3
 Seventh Sister;SOR-133-R;Ground Unit;R/B;0
 Ruthless Raider;SOR-134-U;Space Unit;R/B;2
@@ -157,7 +157,7 @@ Benthic "Two Tubes", Partisan Lieutenant;SOR-156-U;Ground Unit;R;0
 Cantina Braggart;SOR-157-C;Ground Unit;R;3 # 1 hyperspace foil
 Jedha Agitator;SOR-158-C;Ground Unit;R;3 # 1 hyperspace
 Partisan Insurgent;SOR-159-C;Ground Unit;R;1
-Wolffe, Suspicious Veteran;SOR-160-R;Ground Unit;R;0
+Wolffe, Suspicious Veteran;SOR-160-R;Ground Unit;R;1
 Ardent Sympathizer;SOR-161-C;Ground Unit;R;1
 Disabling Fang Fighter;SOR-162-C;Space Unit;R;3
 Star Wing Scout;SOR-163-U;Space Unit;R;1
@@ -212,7 +212,7 @@ Gamorrean Guard;SOR-211-C;Ground Unit;Y;2
 Strafing Gunship;SOR-212-R;Space Unit;Y;0
 Syndicate Lackeys;SOR-213-C;Ground Unit;Y;3 # 1 hyperspace foil
 Smuggling Compartment;SOR-214-U;Upgrade;Y;2
-Snapshot Reflexes;SOR-215-C;Upgrade;Y;2
+Snapshot Reflexes;SOR-215-C;Upgrade;Y;3
 Disarm;SOR-216-C;Event;Y;2
 Shoot First;SOR-217-U;Event;Y;1
 Asteroid Sanctuary;SOR-218-C;Event;Y;3
@@ -241,7 +241,7 @@ Fleet Lieutenant;SOR-240-C;Ground Unit;W;3 # 1 hyperspace
 Wing Leader;SOR-241-U;Space Unit;W;3
 General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;1
 Regional Sympathizers;SOR-243-C;Ground Unit;W;2 # 1 hyperspace foil
-Snowspeeder;SOR-244-C;Ground Unit;W;2
+Snowspeeder;SOR-244-C;Ground Unit;W;3
 Medal Ceremony;SOR-245-C;Event;W;3
 You're My Only Hope;SOR-246-R;Event;W;0
 Underworld Thug;SOR-247-C;Ground Unit;N;2
