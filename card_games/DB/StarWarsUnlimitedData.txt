@@ -32,8 +32,8 @@ Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;1
 Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;2
 Death Trooper;SOR-033-C;Ground Unit;U/B;3
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;0
-Lieutenant Childsen, Death Star Prison Warden;SOR-035-U;Ground Unit;U/B;2
-Gideon Hask, Ruthless Loyalist;SOR-036-R;Ground Unit;U/B;2
+Lieutenant Childsen, Death Star Prison Warden;SOR-035-U;Ground Unit;U/B;3
+Gideon Hask, Ruthless Loyalist;SOR-036-R;Ground Unit;U/B;3
 Academy Defense Walker;SOR-037-C;Ground Unit;U/B;3
 Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;U/B;1
 AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;1
@@ -45,7 +45,7 @@ Restored ARC-170;SOR-044-C;Space Unit;U/W;3
 Yoda, Old Master;SOR-045-U;Ground Unit;U/W;3 # 1 foil
 Consular Security Force;SOR-046-C;Ground Unit;U/W;3
 Kanan Jarrus, Revealed Jedi;SOR-047-U;Ground Unit;U/W;3
-Vigilant Honor Guards;SOR-048-C;Ground Unit;U/W;3
+Vigilant Honor Guards;SOR-048-C;Ground Unit;U/W;3 # 1 hyperspace
 Obi-Wan Kenobi, Following Fate;SOR-049-R;Ground Unit;U/W;2
 The Ghost, Spectre Home Base;SOR-050-U;Space Unit;U/W;2
 Luke Skywalker, Jedi Knight;SOR-051-L;Ground Unit;U/W;0
@@ -58,7 +58,7 @@ Protector;SOR-057-U;Upgrade;U;1
 Vigilance;SOR-058-L;Event;U;0
 2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1x foil
 Distant Patroller;SOR-060-U;Space Unit;U;2 # 1 foil
-Guardian of the Whills;SOR-061-C;Ground Unit;U;2
+Guardian of the Whills;SOR-061-C;Ground Unit;U;3
 Regional Governor;SOR-062-R;Ground Unit;U;1
 Cloud City Wing Guard;SOR-063-C;Ground Unit;U;3
 Wilderness Fighter;SOR-064-C;Ground Unit;U;3
@@ -77,7 +77,7 @@ Make an Opening;SOR-076-C;Event;U;3 # 1 hyperspace foil
 Takedown;SOR-077-U;Event;U;2
 Vanquish;SOR-078-C;Event;U;3
 Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;G/B;3
-General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;0
+General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;1
 Seasoned Shoretrooper;SOR-081-C;Ground Unit;G/B;3
 Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;0
 Superlaser Technician;SOR-083-C;Ground Unit;G/B;3
@@ -100,7 +100,7 @@ Bright Hope, The Last Transport;SOR-099-U;Space Unit;G/W;0
 Wedge Antilles, Star of the Rebllion;SOR-100-R;Ground Unit;G/W;0
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;2
 Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;1
-Rebel Assault;SOR-103-U;Event;G/W;3 # 1 hyperspace, 1 hyperspace foil
+Rebel Assault;SOR-103-U;Event;G/W;3 # 1 hyperspace, 1 hyperspace foil, 1 hyperspace
 U-Wing Reinforcement;SOR-104-R;Event;G/W;0
 General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;0
 Attack Pattern Delta;SOR-106-U;Event;G;2 # 1x Foil
@@ -145,10 +145,10 @@ Red Three, Unstoppable;SOR-144-R;Space Unit;R/W;1
 K-2SO, Cassian's Counterpart;SOR-145-R;Ground Unit;R/W;0
 Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;1
 Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;R/W;0
-Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;2
+Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
 Mace Windu, Party Crasher;SOR-149-L;Ground Unit;R/W;1
 Heroic Sacrifice;SOR-150-R;Event;R/W;0
-Karabast;SOR-151-U;Event;R/W;1
+Karabast;SOR-151-U;Event;R/W;2
 For a Cause I Believe In;SOR-152-R;Event;R/W;0
 Saw Gerrera, Extremist;SOR-153-R;Ground Unit;R;0
 Rallying Cry;SOR-154-U;Event;R;3
@@ -166,7 +166,7 @@ Occupier Siege Tank;SOR-165-C;Ground Unit;R;2
 Infiltrator's Skill;SOR-166-C;Upgrade;R;3 # 1 foil
 Force Throw;SOR-167-U;Event;R;1
 Precision Fire;SOR-168-C;Event;R;3 # 1 foil
-Keep Fighting;SOR-169-C;Event;R;3
+Keep Fighting;SOR-169-C;Event;R;3 # 1 foil
 Power Failure;SOR-170-U;Event;R;1
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
 Open Fire;SOR-172-C;Event;R;3
@@ -177,23 +177,23 @@ ISB Agent;SOR-176-C;Ground Unit;Y/B;3
 Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;B/Y;2
 Cartel Spacer;SOR-178-U;Space Unit;B/Y;1
 Boba Fett, Disintegrator;SOR-179-L;Ground Unit;B/Y;0
-Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;1
+Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
 Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;0
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;B/Y;3
 Bounty Hunter Crew;SOR-183-C;Ground Unit;Y/B;2
 Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;0
 Chimaera, Flagship of the Seventh Fleet;SOR-185-R;Space Unit;B/Y;0
-No Good to Me Dead;SOR-186-U;Event;B/Y;2
+No Good to Me Dead;SOR-186-U;Event;B/Y;3
 I Had No Choice;SOR-187-R;Event;B/Y;1 # 1 foil
 Chopper, Metal Menace;SOR-188-R;Ground Unit;W/Y;0
 Leia Organa, Defiant Princess;SOR-189-S;Ground Unit;W/Y;3
-Lothal Insurgent;SOR-190-C;Ground Unit;W/Y;2
+Lothal Insurgent;SOR-190-C;Ground Unit;W/Y;3
 Vanguard Ace;SOR-191-U;Space Unit;W/Y;3
-Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;0
-Milennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;0
+Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;1
+Milennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
 Rogue Operative;SOR-194-C;Ground Unit;W/Y;3 # 1 hyperspace
 Auzituck Liberator Gunship;SOR-195-C;Space Unit;W/Y;3
-Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;1
+Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;2
 Lando Calrissian, Responsible Businessman;SOR-197-R;Ground Unit;W/Y;1
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;1
 Bamboozle;SOR-199-U;Event;W/Y;1
