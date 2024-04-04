@@ -133,11 +133,11 @@ picked_item = pick_list[0]
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
-        out_file_h = open("card_games/output/DragonDiceOut.txt", 'w')
+        out_file_h = open("card_games/output/DragonDiceOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("output/DragonDiceOut.txt", 'w')
+        out_file_h = open("output/DragonDiceOut.txt", 'w', encoding="UTF-8")
 
-    total_string = "Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100* TOTAL_OWN/TOTAL_MAX)
+    total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
     next_buy_string = "Buy a %s from %s - perhaps a %s (have %d out of %d %s)" % (picked_item[2], picked_item[1], picked_item[0], faction_map[picked_item[1]][0], faction_map[picked_item[1]][1], picked_item[1])
