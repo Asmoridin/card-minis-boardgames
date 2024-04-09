@@ -15,7 +15,7 @@ Sabine Wren, Galvanized Revolutionary;SOR-014-C;Leader;R/W;2 # regular + hypersp
 Boba Fett, Collecting the Bounty;SOR-015-C;Leader;Y/B;1
 Grand Admiral Thrawn;SOR-016-R;Leader;Y/B;1
 Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # hyperspace
-Jyn Erso, Resisting Oppression;SOR-018-C;Leader;Y/W;1
+Jyn Erso, Resisting Oppression;SOR-018-C;Leader;Y/W;2 # 1 hyperspace
 Security Complex;SOR-019-R;Base;U;1 # foil
 Capital City;SOR-020-C;Base;U;1 # hyperspace
 Dagobah Swamp;SOR-021-C;Base;U;2 # 1 hyperspace
@@ -38,7 +38,7 @@ Academy Defense Walker;SOR-037-C;Ground Unit;U/B;3
 Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;U/B;1
 AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;1
 Avenger, Hunting Star Destroyer;SOR-040-L;Space Unit;U/B;1
-Power of the Dark Side;SOR-041-U;Event;U/B;1
+Power of the Dark Side;SOR-041-U;Event;U/B;2
 Search Your Feelings;SOR-042-R;Event;U/B;0
 Superlaser Blast;SOR-043-L;Event;U/B;1
 Restored ARC-170;SOR-044-C;Space Unit;U/W;3
@@ -79,13 +79,13 @@ Vanquish;SOR-078-C;Event;U;3
 Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;G/B;3
 General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;1
 Seasoned Shoretrooper;SOR-081-C;Ground Unit;G/B;3
-Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;0
+Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;1
 Superlaser Technician;SOR-083-C;Ground Unit;G/B;3 # 1 foil
 Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
 Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;0
 Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
 Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;G/B;1
-Blizzard Assault AT-AT;SOR-088-U;Ground Unit;G/B;2
+Blizzard Assault AT-AT;SOR-088-U;Ground Unit;G/B;3 # 1 foil
 Relentless, Konstantine’s Folly;SOR-089-R;Space Unit;G/B;1
 Devastator, Inescapable;SOR-090-L;Space Unit;G/B;0
 The Emperor’s Legion;SOR-091-R;Event;G/B;2
@@ -111,7 +111,7 @@ Frontline Shuttle;SOR-110-R;Space Unit;G;0
 Patrolling V-Wing;SOR-111-C;Space Unit;G;3
 Consortium StarViper;SOR-112-C;Space Unit;G;3
 Homestead Militia;SOR-113-C;Ground Unit;G;3 # 1 hyperspace
-Escort Skiff;SOR-114-C;Ground Unit;G;2
+Escort Skiff;SOR-114-C;Ground Unit;G;3 # 1 hyperspace
 Agent Kallus, Seeking the Rebels;SOR-115-R;Ground Unit;G;3 # 1 hyperspace foil
 Steadfast Battalion;SOR-116-C;Ground Unit;G;3
 Mercenary Company;SOR-117-C;Ground Unit;G;3
@@ -201,7 +201,7 @@ Spark of Rebellion;SOR-200-R;Event;W/Y;0
 Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;1
 Cantina Bouncer;SOR-202-U;Ground Unit;Y;1
 Cunning;SOR-203-L;Event;Y;0
-Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;2
+Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
 Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 1 foil
 Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3
 Crafty Smuggler;SOR-207-C;Ground Unit;Y;3
@@ -227,7 +227,7 @@ Admiral Motti, Brazen and Scornful;SOR-226-S;Ground Unit;B;3
 Snowtrooper Lieutenant;SOR-227-C;Ground Unit;B;3 # 1 hyperspace
 Viper Probe Droid;SOR-228-C;Ground Unit;B;3 # 1 foil
 Cell Block Guard;SOR-229-C;Ground Unit;B;3 # 1 foil
-General Veers, Blizzard Force Commander;SOR-230-U;Ground Unit;B;2
+General Veers, Blizzard Force Commander;SOR-230-U;Ground Unit;B;3
 TIE Advanced;SOR-231-U;Space Unit;B;3 # 1 hyperspace
 AT-ST;SOR-232-C;Ground Unit;B;3
 I Am Your Father;SOR-233-S;Event;B;3
@@ -241,10 +241,10 @@ Fleet Lieutenant;SOR-240-C;Ground Unit;W;3 # 1 hyperspace
 Wing Leader;SOR-241-U;Space Unit;W;3
 General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;1
 Regional Sympathizers;SOR-243-C;Ground Unit;W;3 # 1 hyperspace foil
-Snowspeeder;SOR-244-C;Ground Unit;W;3
+Snowspeeder;SOR-244-C;Ground Unit;W;3 # 1 foil
 Medal Ceremony;SOR-245-C;Event;W;3
-You're My Only Hope;SOR-246-R;Event;W;0
-Underworld Thug;SOR-247-C;Ground Unit;N;3
+You're My Only Hope;SOR-246-R;Event;W;1
+Underworld Thug;SOR-247-C;Ground Unit;N;3 # 1 hyperspace
 Volunteer Soldier;SOR-248-C;Ground Unit;N;2
 Frontier AT-RT;SOR-249-C;Ground Unit;N;3
 Corellian Freighter;SOR-250-C;Space Unit;N;3
