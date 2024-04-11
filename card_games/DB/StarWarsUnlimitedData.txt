@@ -25,7 +25,7 @@ Echo Base;SOR-024-C;Base;G;2 # 1 hyperspace
 Tarkintown;SOR-025-R;Base;R;0
 Catacombs of Cadera;SOR-026-C;Base;R;1 # hyperspace
 Kestro City;SOR-027-C;Base;R;2 # 1 hyperspace
-Jedha City;SOR-028-R;Base;Y;0
+Jedha City;SOR-028-R;Base;Y;1
 Administrator’s Office;SOR-029-C;Base;Y;2 # 1 hyperspace
 Chopper Base;SOR-030-C;Base;Y;2 # 1 hyperspace
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;1
@@ -44,17 +44,17 @@ Superlaser Blast;SOR-043-L;Event;U/B;1
 Restored ARC-170;SOR-044-C;Space Unit;U/W;3
 Yoda, Old Master;SOR-045-U;Ground Unit;U/W;3 # 1 foil
 Consular Security Force;SOR-046-C;Ground Unit;U/W;3
-Kanan Jarrus, Revealed Jedi;SOR-047-U;Ground Unit;U/W;3
+Kanan Jarrus, Revealed Jedi;SOR-047-U;Ground Unit;U/W;3 # 1 foil
 Vigilant Honor Guards;SOR-048-C;Ground Unit;U/W;3 # 1 hyperspace
 Obi-Wan Kenobi, Following Fate;SOR-049-R;Ground Unit;U/W;2
 The Ghost, Spectre Home Base;SOR-050-U;Space Unit;U/W;3
-Luke Skywalker, Jedi Knight;SOR-051-L;Ground Unit;U/W;0
+Luke Skywalker, Jedi Knight;SOR-051-L;Ground Unit;U/W;1
 Redemption, Medical Frigate;SOR-052-R;Space Unit;U/W;2
 Luke’s Lightsaber;SOR-053-S;Upgrade;U/W;3
 Jedi Lightsaber;SOR-054-R;Upgrade;U/W;1
-The Force Is With Me;SOR-055-U;Event;U/W;2 # 1 foil
+The Force Is With Me;SOR-055-U;Event;U/W;3 # 1 foil
 Bendu, The One in the Middle;SOR-056-R;Ground Unit;U;1
-Protector;SOR-057-U;Upgrade;U;1
+Protector;SOR-057-U;Upgrade;U;2
 Vigilance;SOR-058-L;Event;U;0
 2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1x foil
 Distant Patroller;SOR-060-U;Space Unit;U;3 # 1 foil
@@ -64,7 +64,7 @@ Cloud City Wing Guard;SOR-063-C;Ground Unit;U;3
 Wilderness Fighter;SOR-064-C;Ground Unit;U;3
 Baze Malbus, Temple Guardian;SOR-065-U;Ground Unit;U;3
 System Patrol Craft;SOR-066-C;Space Unit;U;3 # 1 foil
-Rugged Survivors;SOR-067-C;Ground Unit;U;3 #1 foil
+Rugged Survivors;SOR-067-C;Ground Unit;U;3 #1 foil, 1 hyperspace
 Cargo Juggernaut;SOR-068-C;Ground Unit;U;3
 Resilient;SOR-069-C;Upgrade;U;3 # 1 foil
 Devotion;SOR-070-U;Upgrade;U;1
@@ -74,13 +74,13 @@ Moment of Peace;SOR-073-C;Event;U;3 # 1xHyperspace
 Repair;SOR-074-C;Event;U;3
 It Binds All Things;SOR-075-R;Event;U;0
 Make an Opening;SOR-076-C;Event;U;3 # 1 hyperspace foil, 1 foil
-Takedown;SOR-077-U;Event;U;2
+Takedown;SOR-077-U;Event;U;3
 Vanquish;SOR-078-C;Event;U;3
 Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;G/B;3
 General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;1
 Seasoned Shoretrooper;SOR-081-C;Ground Unit;G/B;3
 Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;1
-Superlaser Technician;SOR-083-C;Ground Unit;G/B;3 # 1 foil
+Superlaser Technician;SOR-083-C;Ground Unit;G/B;3 # 1 foil, 1 hyperspace
 Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
 Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;0
 Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
@@ -90,7 +90,7 @@ Relentless, Konstantine’s Folly;SOR-089-R;Space Unit;G/B;1
 Devastator, Inescapable;SOR-090-L;Space Unit;G/B;0
 The Emperor’s Legion;SOR-091-R;Event;G/B;2
 Overwhelming Barrage;SOR-092-U;Event;G/B;3
-Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;2
+Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;3
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;G/W;1
 Battlefield Marine;SOR-095-C;Ground Unit;G/W;3
 Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;0
@@ -101,9 +101,9 @@ Wedge Antilles, Star of the Rebllion;SOR-100-R;Ground Unit;G/W;0
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;3
 Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;2
 Rebel Assault;SOR-103-U;Event;G/W;3 # 1 hyperspace, 1 hyperspace foil, 1 hyperspace
-U-Wing Reinforcement;SOR-104-R;Event;G/W;0
+U-Wing Reinforcement;SOR-104-R;Event;G/W;1
 General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;0
-Attack Pattern Delta;SOR-106-U;Event;G;2 # 1x Foil
+Attack Pattern Delta;SOR-106-U;Event;G;3 # 1x Foil
 Command;SOR-107-L;Event;G;0
 Vanguard Infantry;SOR-108-C;Ground Unit;G;3 #1 foil
 Colonel Yularen, ISB Director;SOR-109-U;Ground Unit;G;3
@@ -115,7 +115,7 @@ Escort Skiff;SOR-114-C;Ground Unit;G;3 # 1 hyperspace
 Agent Kallus, Seeking the Rebels;SOR-115-R;Ground Unit;G;3 # 1 hyperspace foil
 Steadfast Battalion;SOR-116-C;Ground Unit;G;3
 Mercenary Company;SOR-117-C;Ground Unit;G;3
-97th Legion, Keeping the Peace on Sullust;SOR-118-U;Ground Unit;G;1
+97th Legion, Keeping the Peace on Sullust;SOR-118-U;Ground Unit;G;2
 Reinforcement Walker;SOR-119-U;Ground Unit;G;3
 Academy Training;SOR-120-C;Upgrade;G;3
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
@@ -129,7 +129,7 @@ Death Star Stormtrooper;SOR-128-C;Ground Unit;R/B;3 # 1 foil
 Admiral Ozzel, Overconfident;SOR-129-U;Ground Unit;R/B;2
 First Legion Snowtrooper;SOR-130-C;Ground Unit;R/B;3
 Fifth Brother, Fear Hunter;SOR-131-U;Ground Unit;R/B;3 #1 hyperspace foil
-Imperial Interceptor;SOR-132-C;Space Unit;R/B;3
+Imperial Interceptor;SOR-132-C;Space Unit;R/B;3 # 1 foil
 Seventh Sister;SOR-133-R;Ground Unit;R/B;1
 Ruthless Raider;SOR-134-U;Space Unit;R/B;3
 Emperor Palpatine, Master of the Dark Side;SOR-135-R;Ground Unit;R/B;2
@@ -139,7 +139,7 @@ Force Lightning;SOR-138-L;Event;R/B;0
 Force Choke;SOR-139-U;Event;R/B;3
 SpecForce Soldier;SOR-140-C;Ground Unit;R/W;3 # 1 hyperspace
 Green Squadron A-Wing;SOR-141-C;Space Unit;R/W;3
-Sabine Wren, Explosives Artist;SOR-142-U;Ground Unit;R/W;2
+Sabine Wren, Explosives Artist;SOR-142-U;Ground Unit;R/W;3
 Fighters for Freedom;SOR-143-U;Ground Unit;R/W;2 # 1 foil
 Red Three, Unstoppable;SOR-144-R;Space Unit;R/W;1
 K-2SO, Cassian's Counterpart;SOR-145-R;Ground Unit;R/W;0
@@ -147,10 +147,10 @@ Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
 Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;R/W;0
 Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
 Mace Windu, Party Crasher;SOR-149-L;Ground Unit;R/W;2 # 1 foil
-Heroic Sacrifice;SOR-150-R;Event;R/W;0
-Karabast;SOR-151-U;Event;R/W;2
+Heroic Sacrifice;SOR-150-R;Event;R/W;1
+Karabast;SOR-151-U;Event;R/W;3
 For a Cause I Believe In;SOR-152-R;Event;R/W;1
-Saw Gerrera, Extremist;SOR-153-R;Ground Unit;R;0
+Saw Gerrera, Extremist;SOR-153-R;Ground Unit;R;1
 Rallying Cry;SOR-154-U;Event;R;3
 Aggression;SOR-155-L;Event;R;1
 Benthic "Two Tubes", Partisan Lieutenant;SOR-156-U;Ground Unit;R;1
@@ -165,22 +165,22 @@ Wampa;SOR-164-C;Ground Unit;R;3
 Occupier Siege Tank;SOR-165-C;Ground Unit;R;3
 Infiltrator's Skill;SOR-166-C;Upgrade;R;3 # 1 foil
 Force Throw;SOR-167-U;Event;R;2
-Precision Fire;SOR-168-C;Event;R;3 # 1 foil
+Precision Fire;SOR-168-C;Event;R;3 # 2 foil
 Keep Fighting;SOR-169-C;Event;R;3 # 1 foil
 Power Failure;SOR-170-U;Event;R;1
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
 Open Fire;SOR-172-C;Event;R;3
 Bombing Run;SOR-173-R;Event;R;0
 Smoke and Cinders;SOR-174-R;Event;R;0
-Forced Surrender;SOR-175-U;Event;R;1
+Forced Surrender;SOR-175-U;Event;R;2
 ISB Agent;SOR-176-C;Ground Unit;Y/B;3
 Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;B/Y;3
-Cartel Spacer;SOR-178-U;Space Unit;B/Y;2 # 1 hyperspace
-Boba Fett, Disintegrator;SOR-179-L;Ground Unit;B/Y;0
+Cartel Spacer;SOR-178-U;Space Unit;B/Y;3 # 1 hyperspace
+Boba Fett, Disintegrator;SOR-179-L;Ground Unit;B/Y;1
 Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
 Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;0
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;B/Y;3
-Bounty Hunter Crew;SOR-183-C;Ground Unit;Y/B;2
+Bounty Hunter Crew;SOR-183-C;Ground Unit;Y/B;3
 Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;0
 Chimaera, Flagship of the Seventh Fleet;SOR-185-R;Space Unit;B/Y;0
 No Good to Me Dead;SOR-186-U;Event;B/Y;3 # 1 foil
@@ -189,24 +189,24 @@ Chopper, Metal Menace;SOR-188-R;Ground Unit;W/Y;1
 Leia Organa, Defiant Princess;SOR-189-S;Ground Unit;W/Y;3
 Lothal Insurgent;SOR-190-C;Ground Unit;W/Y;3
 Vanguard Ace;SOR-191-U;Space Unit;W/Y;3
-Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;1
+Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;2
 Milennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
 Rogue Operative;SOR-194-C;Ground Unit;W/Y;3 # 1 hyperspace
 Auzituck Liberator Gunship;SOR-195-C;Space Unit;W/Y;3
-Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;2
+Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;3
 Lando Calrissian, Responsible Businessman;SOR-197-R;Ground Unit;W/Y;1
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
 Bamboozle;SOR-199-U;Event;W/Y;2 # 1 foil
 Spark of Rebellion;SOR-200-R;Event;W/Y;0
-Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;1
-Cantina Bouncer;SOR-202-U;Ground Unit;Y;1
+Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;2 # 1 hyperspace
+Cantina Bouncer;SOR-202-U;Ground Unit;Y;2 # 1 foil
 Cunning;SOR-203-L;Event;Y;0
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
 Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 1 foil
-Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3
+Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Crafty Smuggler;SOR-207-C;Ground Unit;Y;3
 Outer Rim Headhunter;SOR-208-C;Space Unit;Y;3
-Pirated Starfighter;SOR-209-U;Space Unit;Y;2
+Pirated Starfighter;SOR-209-U;Space Unit;Y;3
 Swoop Racer;SOR-210-C;Ground Unit;Y;3 # 1 hyperspace
 Gamorrean Guard;SOR-211-C;Ground Unit;Y;3
 Strafing Gunship;SOR-212-R;Space Unit;Y;0
@@ -229,7 +229,7 @@ Viper Probe Droid;SOR-228-C;Ground Unit;B;3 # 1 foil
 Cell Block Guard;SOR-229-C;Ground Unit;B;3 # 1 foil
 General Veers, Blizzard Force Commander;SOR-230-U;Ground Unit;B;3
 TIE Advanced;SOR-231-U;Space Unit;B;3 # 1 hyperspace
-AT-ST;SOR-232-C;Ground Unit;B;3
+AT-ST;SOR-232-C;Ground Unit;B;3 # 1 hyperspace foil
 I Am Your Father;SOR-233-S;Event;B;3
 Maximum Firepower;SOR-234-C;Event;B;3
 Galactic Ambition;SOR-235-R;Event;B;3 # 1xHyperspace, 1x Foil
@@ -245,7 +245,7 @@ Snowspeeder;SOR-244-C;Ground Unit;W;3 # 1 foil
 Medal Ceremony;SOR-245-C;Event;W;3
 You're My Only Hope;SOR-246-R;Event;W;1
 Underworld Thug;SOR-247-C;Ground Unit;N;3 # 1 hyperspace
-Volunteer Soldier;SOR-248-C;Ground Unit;N;2
+Volunteer Soldier;SOR-248-C;Ground Unit;N;3
 Frontier AT-RT;SOR-249-C;Ground Unit;N;3
 Corellian Freighter;SOR-250-C;Space Unit;N;3
 Confiscate;SOR-251-C;Event;N;4 # 1 hyperspace, 1 foil
