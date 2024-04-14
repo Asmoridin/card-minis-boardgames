@@ -27,7 +27,7 @@ heroes.extend([
     Hero('Spider-Man (Miles Morales)'), Hero('Ghost-Spider'), Hero('Nova'), Hero('Ironheart'), Hero('Spider-Ham'), Hero('Sp//Dr'),
     Hero('Colossus'), Hero('Shadowcat'), Hero('Cyclops'), Hero('Phoenix'), Hero('Wolverine'), Hero('Storm'), Hero('Gambit'), Hero('Rogue'),
     Hero('Cable'), Hero('Domino'), Hero('Psylocke'), Hero('Angel'), Hero('X-23'), Hero('Deadpool'),
-    #Hero('Bishop'), Hero('Magik'), Hero('Iceman'), Hero('Jubilee'), 
+    Hero('Bishop'), Hero('Magik'), #Hero('Iceman'), Hero('Jubilee'), 
 ])
 
 hero_combinations = []
