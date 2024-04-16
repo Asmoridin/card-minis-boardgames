@@ -29,7 +29,7 @@ Jedha City;SOR-028-R;Base;Y;1
 Administrator’s Office;SOR-029-C;Base;Y;2 # 1 hyperspace
 Chopper Base;SOR-030-C;Base;Y;2 # 1 hyperspace
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;1
-Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;2
+Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;3
 Death Trooper;SOR-033-C;Ground Unit;U/B;3
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;0
 Lieutenant Childsen, Death Star Prison Warden;SOR-035-U;Ground Unit;U/B;3
@@ -46,7 +46,7 @@ Yoda, Old Master;SOR-045-U;Ground Unit;U/W;3 # 1 foil
 Consular Security Force;SOR-046-C;Ground Unit;U/W;3
 Kanan Jarrus, Revealed Jedi;SOR-047-U;Ground Unit;U/W;3 # 1 foil
 Vigilant Honor Guards;SOR-048-C;Ground Unit;U/W;3 # 1 hyperspace
-Obi-Wan Kenobi, Following Fate;SOR-049-R;Ground Unit;U/W;2
+Obi-Wan Kenobi, Following Fate;SOR-049-R;Ground Unit;U/W;3
 The Ghost, Spectre Home Base;SOR-050-U;Space Unit;U/W;3
 Luke Skywalker, Jedi Knight;SOR-051-L;Ground Unit;U/W;1
 Redemption, Medical Frigate;SOR-052-R;Space Unit;U/W;2
@@ -58,7 +58,7 @@ Protector;SOR-057-U;Upgrade;U;2
 Vigilance;SOR-058-L;Event;U;0
 2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1x foil
 Distant Patroller;SOR-060-U;Space Unit;U;3 # 1 foil
-Guardian of the Whills;SOR-061-C;Ground Unit;U;3
+Guardian of the Whills;SOR-061-C;Ground Unit;U;3 # 1 hyperspace
 Regional Governor;SOR-062-R;Ground Unit;U;1
 Cloud City Wing Guard;SOR-063-C;Ground Unit;U;3
 Wilderness Fighter;SOR-064-C;Ground Unit;U;3
@@ -93,7 +93,7 @@ Overwhelming Barrage;SOR-092-U;Event;G/B;3
 Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;3
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;G/W;1
 Battlefield Marine;SOR-095-C;Ground Unit;G/W;3
-Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;0
+Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;1
 Admiral Ackbar, Brilliant Strategist;SOR-097-R;Ground Unit;G/W;1
 Echo Base Defender;SOR-098-C;Ground Unit;G/W;3
 Bright Hope, The Last Transport;SOR-099-U;Space Unit;G/W;1
@@ -192,9 +192,9 @@ Vanguard Ace;SOR-191-U;Space Unit;W/Y;3
 Ezra Bridger, Resourceful Troublemaker;SOR-192-U;Ground Unit;W/Y;2
 Milennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
 Rogue Operative;SOR-194-C;Ground Unit;W/Y;3 # 1 hyperspace
-Auzituck Liberator Gunship;SOR-195-C;Space Unit;W/Y;3
+Auzituck Liberator Gunship;SOR-195-C;Space Unit;W/Y;3 #1 hyperfoil
 Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;3
-Lando Calrissian, Responsible Businessman;SOR-197-R;Ground Unit;W/Y;1
+Lando Calrissian, Responsible Businessman;SOR-197-R;Ground Unit;W/Y;2
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
 Bamboozle;SOR-199-U;Event;W/Y;2 # 1 foil
 Spark of Rebellion;SOR-200-R;Event;W/Y;0
@@ -202,7 +202,7 @@ Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;2 # 1 hyperspace
 Cantina Bouncer;SOR-202-U;Ground Unit;Y;2 # 1 foil
 Cunning;SOR-203-L;Event;Y;0
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
-Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 1 foil
+Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 2 foil
 Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Crafty Smuggler;SOR-207-C;Ground Unit;Y;3
 Outer Rim Headhunter;SOR-208-C;Space Unit;Y;3
@@ -239,7 +239,7 @@ C-3PO, Protocol Droid;SOR-238-S;Ground Unit;W;3
 Rebel Pathfinder;SOR-239-C;Ground Unit;W;3 # 1 hyperspace
 Fleet Lieutenant;SOR-240-C;Ground Unit;W;3 # 1 hyperspace
 Wing Leader;SOR-241-U;Space Unit;W;3
-General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;1
+General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;2
 Regional Sympathizers;SOR-243-C;Ground Unit;W;3 # 1 hyperspace foil
 Snowspeeder;SOR-244-C;Ground Unit;W;3 # 1 foil
 Medal Ceremony;SOR-245-C;Event;W;3
