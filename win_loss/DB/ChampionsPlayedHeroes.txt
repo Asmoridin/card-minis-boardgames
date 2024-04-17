@@ -20,6 +20,7 @@ Captain Marvel;Leadership;3;2
 Colossus;Protection;1;0
 Cyclops;Leadership;2;1
 Cyclops;Protection;2;0
+Deadpool;'Pool;1;0
 Domino;Justice;1;1
 Dr. Strange;Aggression;2;2
 Dr. Strange;Leadership;1;1
@@ -115,3 +116,4 @@ Wasp;Aggression;1;0
 Wasp;Leadership;1;1
 Wolverine;Aggression;1;1
 Wolverine;Protection;1;1
+X-23;Aggression;1;0
