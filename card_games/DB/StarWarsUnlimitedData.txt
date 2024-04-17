@@ -3,7 +3,7 @@ Iden Versio, Inferno Squad Commander;SOR-002-R;Leader;U/B;1
 Chewbacca, Walking Carpet;SOR-003-C;Leader;U/W;2 # 1x hyperspace
 Chirrut Imwe, One with the Force;SOR-004-R;Leader;U/W;1
 Luke Skywalker, Faithful Friend;SOR-005-S;Leader;U/W;2 # Normal + Prerelease
-Emperor Palpatine, Galactic Ruler;SOR-006-R;Leader;G/B;1 # showcase
+Emperor Palpatine, Galactic Ruler;SOR-006-R;Leader;G/B;2 # showcase
 Grand Moff Tarkin, Oversector Governor;SOR-007-C;Leader;G/B;2 # Regular + Hyperspace
 Hera Syndulla, Spectre Two;SOR-008-R;Leader;G/W;1
 Leia Organa, Alliance General;SOR-009-C;Leader;G/W;1
@@ -72,14 +72,14 @@ Electrostaff;SOR-071-R;Upgrade;U;1
 Entrenched;SOR-072-U;Upgrade;U;2
 Moment of Peace;SOR-073-C;Event;U;3 # 1xHyperspace
 Repair;SOR-074-C;Event;U;3
-It Binds All Things;SOR-075-R;Event;U;0
+It Binds All Things;SOR-075-R;Event;U;1
 Make an Opening;SOR-076-C;Event;U;3 # 1 hyperspace foil, 1 foil
-Takedown;SOR-077-U;Event;U;3
+Takedown;SOR-077-U;Event;U;3 # 1 hyperfoil
 Vanquish;SOR-078-C;Event;U;3
 Admiral Piett, Captain of the Executor;SOR-079-U;Ground Unit;G/B;3
-General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;1
+General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;2
 Seasoned Shoretrooper;SOR-081-C;Ground Unit;G/B;3
-Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;1
+Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;2
 Superlaser Technician;SOR-083-C;Ground Unit;G/B;3 # 1 foil, 1 hyperspace
 Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
 Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;0
@@ -182,7 +182,7 @@ Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;0
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;B/Y;3
 Bounty Hunter Crew;SOR-183-C;Ground Unit;Y/B;3
 Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;0
-Chimaera, Flagship of the Seventh Fleet;SOR-185-R;Space Unit;B/Y;0
+Chimaera, Flagship of the Seventh Fleet;SOR-185-R;Space Unit;B/Y;1
 No Good to Me Dead;SOR-186-U;Event;B/Y;3 # 1 foil
 I Had No Choice;SOR-187-R;Event;B/Y;1 # 1 foil
 Chopper, Metal Menace;SOR-188-R;Ground Unit;W/Y;1
@@ -199,10 +199,10 @@ Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
 Bamboozle;SOR-199-U;Event;W/Y;2 # 1 foil
 Spark of Rebellion;SOR-200-R;Event;W/Y;0
 Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;2 # 1 hyperspace
-Cantina Bouncer;SOR-202-U;Ground Unit;Y;2 # 1 foil
+Cantina Bouncer;SOR-202-U;Ground Unit;Y;3 # 1 foil
 Cunning;SOR-203-L;Event;Y;0
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
-Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 2 foil
+Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 2 foil, 1 hyerspace
 Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Crafty Smuggler;SOR-207-C;Ground Unit;Y;3
 Outer Rim Headhunter;SOR-208-C;Space Unit;Y;3
