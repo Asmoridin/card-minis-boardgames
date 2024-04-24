@@ -24,7 +24,7 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [DaemonDice, DragonDice, StarTrekSecondEdition, Tribbles, star_wars_unlimited]
+started_games = [DaemonDice, DragonDice, star_wars_unlimited, StarTrekSecondEdition, Tribbles, ]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0
@@ -42,7 +42,7 @@ for game in started_games:
     TOTAL_MAX += game.TOTAL_MAX
     game_data.append((game.GAME_NAME, game.TOTAL_OWN, game.TOTAL_MAX))
 
-game_data.append(("New Game", NEW_GAMES_STARTED + 1, new_games_count+1))
+game_data.append(("New Game", NEW_GAMES_STARTED + 1, new_games_count + 1))
 game_data = sorted(game_data, key=lambda x:(x[1]/x[2], -1 * (x[2] - x[1])))
 
 if __name__ == "__main__":

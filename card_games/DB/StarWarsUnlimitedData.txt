@@ -10,10 +10,10 @@ Leia Organa, Alliance General;SOR-009-C;Leader;G/W;1
 Darth Vader, Dark Lord of the Sith;SOR-010-S;Leader;R/B;2 # Normal + Prerelease
 Grand Inquisitor, Hunting the Jedi;SOR-011-R;Leader;R/B;1
 IG-88, Ruthless Bounty Hunter;SOR-012-C;Leader;R/B;1
-Cassian Andor, Dedicated to the Rebellion;SOR-013-R;Leader;R/W;0
+Cassian Andor, Dedicated to the Rebellion;SOR-013-R;Leader;R/W;1
 Sabine Wren, Galvanized Revolutionary;SOR-014-C;Leader;R/W;2 # regular + hyperspace
 Boba Fett, Collecting the Bounty;SOR-015-C;Leader;Y/B;1
-Grand Admiral Thrawn;SOR-016-R;Leader;Y/B;1
+Grand Admiral Thrawn, Patient and Insightful;SOR-016-R;Leader;Y/B;1
 Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # hyperspace
 Jyn Erso, Resisting Oppression;SOR-018-C;Leader;Y/W;2 # 1 hyperspace
 Security Complex;SOR-019-R;Base;U;1 # foil
@@ -22,7 +22,7 @@ Dagobah Swamp;SOR-021-C;Base;U;2 # 1 hyperspace
 Energy Conversion Lab;SOR-022-R;Base;G;1
 Command Center;SOR-023-C;Base;G;2 # 1 hyperspace, 1 normal
 Echo Base;SOR-024-C;Base;G;2 # 1 hyperspace
-Tarkintown;SOR-025-R;Base;R;0
+Tarkintown;SOR-025-R;Base;R;1
 Catacombs of Cadera;SOR-026-C;Base;R;1 # hyperspace
 Kestro City;SOR-027-C;Base;R;2 # 1 hyperspace
 Jedha City;SOR-028-R;Base;Y;1
@@ -170,7 +170,7 @@ Keep Fighting;SOR-169-C;Event;R;3 # 1 foil
 Power Failure;SOR-170-U;Event;R;1
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
 Open Fire;SOR-172-C;Event;R;3
-Bombing Run;SOR-173-R;Event;R;0
+Bombing Run;SOR-173-R;Event;R;3
 Smoke and Cinders;SOR-174-R;Event;R;0
 Forced Surrender;SOR-175-U;Event;R;3
 ISB Agent;SOR-176-C;Ground Unit;Y/B;3

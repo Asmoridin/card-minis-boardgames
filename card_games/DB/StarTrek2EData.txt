@@ -1051,22 +1051,17 @@ Fortune, Raider for Hire;P;Ship;Non-Aligned;Tenth Anniversary Collection;Print;3
 Fortune;R;Ship;Non-Aligned;Energize;Print;3;0
 Fortune;VP;Ship;Non-Aligned;Virtual Promo;Virtual;3;0
 Founder Agitator, Elusive Assassin;P;Personnel;Dominion;Fractured Time;Print;3;0
-Founder Architect;R;Personnel;Dominion;Necessary Evil;Print;3;0
-Founder Architect;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
+Founder Architect;VP/R;Personnel;Dominion;Necessary Evil/Virtual Promo;Both;3;0
 Founder Councilor;C;Personnel;Dominion;Call to Arms;Print;3;0
 Founder Instigator, Unmasked;V;Personnel;Dominion;Lineage;Virtual;3;0
-Founder Leader, Beguiling Teacher;U;Personnel;Dominion;Call to Arms;Print;3;0
-Founder Leader, Beguiling Teacher;V;Personnel;Dominion;Second Skin;Virtual;3;0
-Founder Leader, Desperate Dictator;V;Personnel;Dominion;Apocalypse Rising;Virtual;3;0
-Founder Leader, Desperate Dictator;VP;Personnel;Dominion;Virtual Promo;Virtual;3;0
+Founder Leader, Beguiling Teacher;U/V;Personnel;Dominion;Call to Arms/Second Skin;Both;3;0
+Founder Leader, Desperate Dictator;V/VP;Personnel;Dominion;Apocalypse Rising/Virtual Promo;Virtual;3;0
 Founder Leader, Forbidding Judge;S;Personnel;Dominion;Call to Arms;Print;3;0
 Founder Leader, Intergalactic Warlord;V;Personnel;Dominion;Balance of Terror;Virtual;3;0
 Founder Leader, Single-Minded;R;Personnel;Dominion;What You Leave Behind;Print;3;0
 Founder Trap;R;Interrupt;;Call to Arms;Print;3;0
-Founders' Homeworld, Contingent Refuge;V;Mission;;Move Along Home;Virtual;1;0
-Founders' Homeworld, Contingent Refuge;V;Mission;;Strange Bedfellows;Virtual;2;0
-Founders' Homeworld, Home of the Great Link;S;Mission;;Call to Arms;Print;2;0
-Founders' Homeworld, Home of the Great Link;V;Mission;;Move Along Home;Virtual;1;0
+Founders' Homeworld, Contingent Refuge;V;Mission;;Move Along Home/Strange Bedfellows;Virtual;2;0
+Founders' Homeworld, Home of the Great Link;S/V;Mission;;Call to Arms/Move Along Home;Both;2;0
 Four of Nine, Heuristics Drone;R;Personnel;Borg;These Are The Voyages;Print;3;0
 Four of Twelve, Standardization Drone;U;Personnel;Borg;These Are The Voyages;Print;3;0
 Fourth, Neonatal Drone;U;Personnel;Borg;To Boldly Go;Print;3;0
