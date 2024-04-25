@@ -31,7 +31,7 @@ Chopper Base;SOR-030-C;Base;Y;2 # 1 hyperspace
 Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;1
 Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;3
 Death Trooper;SOR-033-C;Ground Unit;U/B;3
-Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;0
+Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
 Lieutenant Childsen, Death Star Prison Warden;SOR-035-U;Ground Unit;U/B;3
 Gideon Hask, Ruthless Loyalist;SOR-036-R;Ground Unit;U/B;3
 Academy Defense Walker;SOR-037-C;Ground Unit;U/B;3
