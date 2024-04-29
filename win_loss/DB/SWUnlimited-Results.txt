@@ -1,1 +1,3 @@
 Hera Syndulla, Spectre Two;R;Dan;Grand Admiral Thrawn, Patient and Insightful;R;W
+Luke Skywalker;Y;Elias;Vader;G;W
+Vader;G;Elias;Luke Skywalker;Y;W
