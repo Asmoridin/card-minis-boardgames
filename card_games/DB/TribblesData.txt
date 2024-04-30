@@ -44,7 +44,7 @@
 1 Tribble - Replay;Tribble;More Tribbles, More Troubles/Virtual Promos;21;20 // need 1 vp
 1 Tribble - Reset;Tribble;Bad Brood Rising;20;0
 1 Tribble - Retreat;Tribble;Star Trek 50;20;20
-1 Tribble - Skip;Tribble;Nothing But Tribble/Tribbles;20;0
+1 Tribble - Skip;Tribble;Nothing But Tribble/Tribbles;20;20
 10 Tribbles - Advance;Tribble;Nothing But Tribble/Virtual Promos;21;20 // Need 1 VP
 10 Tribbles - Ante;Tribble;Tribbles Royale;20;20
 10 Tribbles - Avalanche;Tribble;Trials and Tribble-ations;20;20
@@ -68,8 +68,8 @@
 10 Tribbles - Recycle & Freeze;Tribble;Nothing But Tribble;20;20
 10 Tribbles - Replicate;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;15 // 15 from BTiLQ
 10 Tribbles - Sabotage (Errata);Tribble;Big Tribble in Little Qo'noS;20;20
-10 Tribbles - Shift;Tribble;Tribbles Royale;20;0
-10 Tribbles - Skip;Tribble;Nothing But Tribble/Tribbles;20;0
+10 Tribbles - Shift;Tribble;Tribbles Royale;20;20
+10 Tribbles - Skip;Tribble;Nothing But Tribble/Tribbles;20;20
 10 Tribbles - Time Warp;Tribble;A Tribble of a Different Color;20;0
 10 Tribbles - Toxin;Tribble;No Tribble at All;20;6
 10 Tribbles - Utilize;Tribble;Nothing But Tribble;20;7
@@ -97,9 +97,9 @@
 100 Tribbles - Reverse;Tribble;Tribbles/Virtual Promos;20;20
 100 Tribbles - Rival;Tribble;Tribbles Royale;20;20
 100 Tribbles - Scan;Tribble;Nothing But Tribble;20;20
-100 Tribbles - Score;Tribble;More Tribbles, More Troubles/Virtual Promos;20;0
+100 Tribbles - Score;Tribble;More Tribbles, More Troubles/Virtual Promos;24;4
 100 Tribbles - Shift;Tribble;Bad Brood Rising;20;0
-100 Tribbles - Stampede;Tribble;Trials and Tribble-ations;20;2
+100 Tribbles - Stampede;Tribble;Trials and Tribble-ations;20;20
 100 Tribbles - Time Warp;Tribble;Star Trek 50;20;0
 100 Tribbles - Utilize;Tribble;Nothing But Tribble/Virtual Promos;20;12 // 12 from NBT
 1,000 Tribbles - Bonus;Tribble;Trials and Tribble-ations;20;20
@@ -125,7 +125,7 @@
 1,000 Tribbles - Sabotage (Errata);Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;17 // need VPs (should have errata)
 1,000 Tribbles - Safety;Tribble;No Tribble at All/Virtual Promos;21;20 // all from NTaA
 1,000 Tribbles - Scan;Tribble;Nothing But Tribble;20;20
-1,000 Tribbles - Score;Tribble;More Tribbles, More Troubles;20;3
+1,000 Tribbles - Score;Tribble;More Tribbles, More Troubles;20;20
 1,000 Tribbles - Swarm;Tribble;Bad Brood Rising;20;0
 1,000 Tribbles - Time Warp;Tribble;Tribbles Royale;20;0
 1,000 Tribbles - Validate;Tribble;Bad Brood Rising;20;0
@@ -152,8 +152,8 @@
 10,000 Tribbles - Reset;Tribble;Tribbles Royale;20;20
 10,000 Tribbles - Reverse;Tribble;Tribbles/Nothing But Tribble;20;20
 10,000 Tribbles - Safety;Tribble;Trials and Tribble-ations;20;20
-10,000 Tribbles - Skip;Tribble;Tribbles/Nothing But Tribble/Virtual Promos;20;0
-10,000 Tribbles - Stampede;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;1 // all from BTiLQ
+10,000 Tribbles - Skip;Tribble;Tribbles/Nothing But Tribble/Virtual Promos;20;15 // need VP
+10,000 Tribbles - Stampede;Tribble;Big Tribble in Little Qo'noS/Virtual Promos;20;17 // all from BTiLQ
 10,000 Tribbles - Swarm;Tribble;Virtual Promos;20;0 // Two different VPs
 10,000 Tribbles - Time Warp;Tribble;Trials and Tribble-ations;20;0
 10,000 Tribbles - Toxin;Tribble;No Tribble at All/Virtual Promos;20;3 // 3 from NTaA
@@ -181,6 +181,6 @@
 100,000 Tribbles - Replay;Tribble;More Tribbles, More Troubles/Virtual Promos;24;24
 100,000 Tribbles - Rescue;Tribble;Virtual Promos;20;20
 100,000 Tribbles - Safety;Tribble;No Tribble at All/Virtual Promos;20;15 // need VP
-100,000 Tribbles - Tally;Tribble;No Tribble at All/Virtual Promos;25;25
+100,000 Tribbles - Tally;Tribble;No Tribble at All/Virtual Promos;27;27
 100,000 Tribbles - Time Warp;Tribble;Nothing But Tribble/Virtual Promos;20;0
 100,000 Tribbles - Trick;Tribble;A Tribble of a Different Color;20;0
