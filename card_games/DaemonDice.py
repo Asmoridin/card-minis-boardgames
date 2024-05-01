@@ -47,8 +47,8 @@ for item in item_list:
         filtered_list.append(item)
         if item[1] not in part_map:
             part_map[item[1]] = [0, 0]
-        part_map[item[1]][0] += 2
-        part_map[item[1]][1] += 3
+        part_map[item[1]][0] += item[2]
+        part_map[item[1]][1] += item[3]
 part_sorter = []
 for key in part_map:
     part_sorter.append((key, part_map[key][0]/part_map[key][1], part_map[key][1] - part_map[key][0]))

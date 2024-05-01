@@ -869,17 +869,13 @@ Elemental Instability;V;Dilemma;;Shattered Mirror;Virtual;3;3
 Eleven of Eighteen, Augmentation Drone;V;Personnel;Borg;Lower Decks;Virtual;3;0
 Eleventh Gradient, Export Vessel;V;Ship;Non-Aligned;Extreme Measures;Virtual;3;0
 Elias Giger, Cellular Entertainer;V;Personnel;Non-Aligned;Classification: Civilian;Virtual;3;0
-Elim Garak, Agent of the Obsidian Order;R;Personnel;Cardassian;Second Edition;Print;3;0
-Elim Garak, Agent of the Obsidian Order;VP;Personnel;Cardassian;Virtual Promo;Virtual;3;0
+Elim Garak, Agent of the Obsidian Order;R/VP;Personnel;Cardassian;Second Edition/Virtual Promo;Both;3;0
 Elim Garak, Cold-Blooded Mastermind;V;Personnel;Cardassian;Sacrifice of Angels;Virtual;3;0
-Elim Garak, Crafty Underling;R;Personnel;Cardassian;In a Mirror Darkly;Print;3;0
-Elim Garak, Crafty Underling;VP;Personnel;Cardassian;Virtual Promo;Virtual;3;0
-Elim Garak, Federation Agent;AP;Personnel;Federation;Virtual Archive Portrait;Virtual;3;0
-Elim Garak, Federation Agent;VP;Personnel;Federation;Virtual Promo;Virtual;3;0
+Elim Garak, Crafty Underling;R/VP;Personnel;Cardassian;In a Mirror Darkly/Virtual Promo;Both;3;0
+Elim Garak, Federation Agent;AP/VP;Personnel;Federation;Virtual Archive Portrait/Virtual Promo;Virtual;3;0
 Elim Garak, First Officer of Terok Nor;P;Personnel;Cardassian;Fractured Time;Print;3;0
 Elim Garak, Imposing Patriot;V;Personnel;Cardassian;Far Beyond the Stars;Virtual;3;0
-Elim Garak, Plain, Simple Tailor;U;Personnel;Cardassian;Call to Arms;Print;3;0
-Elim Garak, Plain, Simple Tailor;V;Personnel;Cardassian;Second Skin;Virtual;3;0
+Elim Garak, Plain, Simple Tailor;U/V;Personnel;Cardassian;Call to Arms/Second Skin;Both;3;0
 Eliminate Harvesters;U;Mission;;Second Edition;Print;2;0
 Elizabeth Cutler, Eager Entomologist;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Elizabeth Lense, Valedictorian;V;Personnel;Federation;Strange Bedfellows;Virtual;3;0
@@ -928,9 +924,7 @@ Eris, Harbinger of the Dominion;V;Personnel;Dominion;Extreme Measures;Virtual;3;
 Errol;V;Personnel;Non-Aligned;Shattered Mirror;Virtual;3;0
 Escape Gulag;U;Mission;;To Boldly Go;Print;2;0
 Escape Pod;R;Event;;To Boldly Go;Print;3;1
-Escape;R;Interrupt;;Second Edition;Print;3;0
-Escape;V;Interrupt;;Second Skin;Virtual;3;0
-Escape;VP;Interrupt;;Virtual Promo;Virtual;3;0
+Escape;R/V/VP;Interrupt;;Second Edition/Second Skin/Virtual Promo;Both;3;0
 Escaping Detection;U;Event;;Necessary Evil;Print;3;0
 Essential Regrets;V;Interrupt;;Star Trek 50;Virtual;3;0
 Etana Jol, Ktarian Operative;U;Personnel;Non-Aligned;Second Edition;Print;3;0
@@ -1043,13 +1037,11 @@ Forcing Their Way;V;Interrupt;;Allegiance;Virtual;3;0
 Foresight;P;Event;;Reflections 2.0;Print;3;0
 Forever Linked;U;Event;;Necessary Evil;Print;3;0
 Forewarned;V;Dilemma;;All Our Yesterdays;Virtual;3;0
-Formal Hearing;U;Dilemma;;Necessary Evil;Print;3;0
-Formal Hearing;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Formal Hearing;U/VP;Dilemma;;Necessary Evil/Virtual Promo;Both;3;0
 Former Briori Colony, Investigate SOS;V;Mission;;Caretaker;Virtual;2;0
 Forsaken;R;Dilemma;;Call to Arms;Print;3;0
 Fortune, Raider for Hire;P;Ship;Non-Aligned;Tenth Anniversary Collection;Print;3;0
-Fortune;R;Ship;Non-Aligned;Energize;Print;3;0
-Fortune;VP;Ship;Non-Aligned;Virtual Promo;Virtual;3;0
+Fortune;R/VP;Ship;Non-Aligned;Energize/Virtual Promo;Both;3;0
 Founder Agitator, Elusive Assassin;P;Personnel;Dominion;Fractured Time;Print;3;0
 Founder Architect;VP/R;Personnel;Dominion;Necessary Evil/Virtual Promo;Both;3;0
 Founder Councilor;C;Personnel;Dominion;Call to Arms;Print;3;0
@@ -1070,8 +1062,7 @@ Frame of Mind;V;Dilemma;;Dead Stop;Virtual;3;3
 Frantic Probe;V;Interrupt;;Balance of Terror;Virtual;3;0
 Fredericks;V;Personnel;Federation;Matter of Time;Virtual;3;0
 Fresh Tactic;C;Interrupt;;Energize;Print;3;0
-Friction;P;Event;;Reflections 2.0;Print;3;0
-Friction;VP;Event;;Virtual Promo;Virtual;3;0
+Friction;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
 Friendly Fire;V;Dilemma;;20th Anniversary Collection;Virtual;3;0
 Friendship and Good Will;V;Event;;Shore Leave;Virtual;3;0
 Frool, Old and Fragile;C;Personnel;Ferengi;To Boldly Go;Print;3;0

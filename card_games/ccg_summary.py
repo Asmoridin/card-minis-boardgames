@@ -7,10 +7,12 @@ Summarizes the current collection status of all tracked card/dice games
 import os
 import sys
 
+import city_of_heroes
 import DaemonDice
 import DragonDice
 import StarTrekSecondEdition
 import Tribbles
+import anachronism
 import card_games.star_wars_unlimited as star_wars_unlimited
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -24,7 +26,8 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [DaemonDice, DragonDice, star_wars_unlimited, StarTrekSecondEdition, Tribbles, ]
+started_games = [anachronism, DaemonDice, DragonDice, star_wars_unlimited, StarTrekSecondEdition,
+    Tribbles, city_of_heroes]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0
@@ -51,7 +54,7 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/CCGSummaryOut.txt", 'w', encoding="UTF-8")
     total_percentage = TOTAL_HAVE * 100 /TOTAL_MAX
-    total_string = f"Totaling {len(game_data) - 1} games, owning {TOTAL_HAVE} out of {TOTAL_MAX} ({total_percentage:.2f} percent)"
+    total_string = f"Totaling {len(game_data) - 1} games, owning {TOTAL_HAVE} out of {TOTAL_MAX} cards/dice ({total_percentage:.2f} percent)"
     double_print(total_string, out_file_h)
     lowest_game_percentage = game_data[0][1]*100/game_data[0][2]
     lowest_game_string = f"Lowest game is {game_data[0][0]} at {lowest_game_percentage:.2f} percent ({game_data[0][1]} / {game_data[0][2]})"
