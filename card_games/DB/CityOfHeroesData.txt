@@ -1,112 +1,112 @@
-Level Up!;Edge;;Uncommon;Arena;3
-Resilient;Edge;;Uncommon;Arena;3
-Combined Attack;Edge;;Rare;Arena;1
-Quick Learner;Edge;;Rare;Arena;2
-Power Mastery;Edge;;Rare;Arena;2
-Secret Identity;Edge;;Rare;Arena;2
-Increased Hold;Edge;;Rare;Arena;1
+Level Up!;Edge;;Uncommon;Arena;0
+Resilient;Edge;;Uncommon;Arena;0
+Combined Attack;Edge;;Rare;Arena;0
+Quick Learner;Edge;;Rare;Arena;0
+Power Mastery;Edge;;Rare;Arena;0
+Secret Identity;Edge;;Rare;Arena;0
+Increased Hold;Edge;;Rare;Arena;0
 Exemplar;Edge;;Rare;Arena;0
-Siphon Power;Edge;;Common;Arena;3
-Power Failure;Edge;;Rare;Arena;3
-Head Shot;Edge;;Rare;Arena;1
-Overworked;Edge;;Rare;Arena;1
-Demoralize;Edge;;Rare;Arena;2
-Fighting Spirit;Edge;;Rare;Arena;1
-Expanded Mission;Edge;;Rare;Arena;2
-Rikti Invasion;Edge;;Rare;Arena;3
-Winterlord Attack;Edge;;Rare;Arena;1
-Hallow's Eve Assault;Edge;;Rare;Arena;1
-Temporary Power;Edge;;Rare;Arena;1
-Paragon Times Extra!;Edge;;Rare;Arena;1
-Fully Enhanced;Edge;;Rare;Arena;1
-City of Power;Edge;;Rare;Arena;1
-Dramatic Improvement;Edge;;Uncommon;Arena;3
-Building Rage;Edge;;Common;Arena;3
-Uncanny Insight;Edge;;Uncommon;Arena;3
-Enraged;Edge;;Common;Arena;3
-Cornered;Edge;;Uncommon;Arena;3
-Self-Sacrifice;Edge;;Rare;Arena;2
-Knock out of the Sky;Edge;;Uncommon;Arena;3
-Fast Attack;Edge;;Uncommon;Arena;3
-Out of the Sun;Edge;;Uncommon;Arena;3
-Active Dodge;Edge;;Uncommon;Arena;3
-Defensive Teleport;Edge;;Uncommon;Arena;3
+Siphon Power;Edge;;Common;Arena;0
+Power Failure;Edge;;Rare;Arena;0
+Head Shot;Edge;;Rare;Arena;0
+Overworked;Edge;;Rare;Arena;0
+Demoralize;Edge;;Rare;Arena;0
+Fighting Spirit;Edge;;Rare;Arena;0
+Expanded Mission;Edge;;Rare;Arena;0
+Rikti Invasion;Edge;;Rare;Arena;0
+Winterlord Attack;Edge;;Rare;Arena;0
+Hallow's Eve Assault;Edge;;Rare;Arena;0
+Temporary Power;Edge;;Rare;Arena;0
+Paragon Times Extra!;Edge;;Rare;Arena;0
+Fully Enhanced;Edge;;Rare;Arena;0
+City of Power;Edge;;Rare;Arena;0
+Dramatic Improvement;Edge;;Uncommon;Arena;0
+Building Rage;Edge;;Common;Arena;0
+Uncanny Insight;Edge;;Uncommon;Arena;0
+Enraged;Edge;;Common;Arena;0
+Cornered;Edge;;Uncommon;Arena;0
+Self-Sacrifice;Edge;;Rare;Arena;0
+Knock out of the Sky;Edge;;Uncommon;Arena;0
+Fast Attack;Edge;;Uncommon;Arena;0
+Out of the Sun;Edge;;Uncommon;Arena;0
+Active Dodge;Edge;;Uncommon;Arena;0
+Defensive Teleport;Edge;;Uncommon;Arena;0
 Simultaneous Upgrade;Edge;;Rare;Arena;0
 Quick Strike;Edge;;Rare;Arena;0
-Arcane Ritual;Edge;;Rare;Arena;1
-Torn Asunder;Edge;;Rare;Arena;3
-Overwhelmed;Edge;;Rare;Arena;2
-Disrupted;Edge;;Rare;Arena;2
-Status Reflection;Edge;;Rare;Arena;3
-Blunted Attack;Edge;;Rare;Arena;2
-Hard Crash;Edge;;Rare;Arena;2
-Secret Power;Edge;;Rare;Arena;3
+Arcane Ritual;Edge;;Rare;Arena;0
+Torn Asunder;Edge;;Rare;Arena;0
+Overwhelmed;Edge;;Rare;Arena;0
+Disrupted;Edge;;Rare;Arena;0
+Status Reflection;Edge;;Rare;Arena;0
+Blunted Attack;Edge;;Rare;Arena;0
+Hard Crash;Edge;;Rare;Arena;0
+Secret Power;Edge;;Rare;Arena;0
 Christmas Gift;Edge;;Rare;Arena;0
-Superior Tactics;Edge;;Rare;Arena;3
-Inspired;Edge;;Rare;Arena;2
-Ambush;Edge;;Uncommon;Arena;2
-Bob and Weave;Edge;;Common;Arena;3
-Critical Strike;Edge;;Common;Arena;3
-Focused;Edge;;Common;Arena;3
-Freedom!;Edge;;Uncommon;Arena;3
+Superior Tactics;Edge;;Rare;Arena;0
+Inspired;Edge;;Rare;Arena;0
+Ambush;Edge;;Uncommon;Arena;0
+Bob and Weave;Edge;;Common;Arena;0
+Critical Strike;Edge;;Common;Arena;0
+Focused;Edge;;Common;Arena;0
+Freedom!;Edge;;Uncommon;Arena;0
 Ghost Ship Sighted;Edge;;Rare;Arena;0
-Helpful Contact;Edge;;Rare;Arena;3
-Learning Curve;Edge;;Rare;Arena;2
-Selfless Act;Edge;;Common;Arena;3
-Advanced Programming;Enhancement;;Rare;Arena;2
-Back Alley Brawn;Enhancement;;Rare;Arena;3
-Enhance Accuracy;Enhancement;;Common;Arena;3
-Enhance Damage;Enhancement;;Common;Arena;3
-Enhance Defense;Enhancement;;Uncommon;Arena;3
-Enhance Heal;Enhancement;;Uncommon;Arena;3
-Enhance Resistance;Enhancement;;Uncommon;Arena;3
-Amplify Debuff;Enhancement;;Uncommon;Arena;3
-Increase Status;Enhancement;;Uncommon;Arena;3
-Odin's Breath;Enhancement;;Rare;Arena;1
-Positron Precision;Enhancement;;Rare;Arena;1
-Reduce Endurance Cost;Enhancement;;Common;Arena;3
-Reduce Recharge;Enhancement;;Common;Arena;3
-Manticore's Will;Enhancement;;Rare;Arena;2
-Statesman's Fury;Enhancement;;Rare;Arena;1
-Synaptic Speed;Enhancement;;Rare;Arena;2
+Helpful Contact;Edge;;Rare;Arena;0
+Learning Curve;Edge;;Rare;Arena;0
+Selfless Act;Edge;;Common;Arena;0
+Advanced Programming;Enhancement;;Rare;Arena;0
+Back Alley Brawn;Enhancement;;Rare;Arena;0
+Enhance Accuracy;Enhancement;;Common;Arena;0
+Enhance Damage;Enhancement;;Common;Arena;0
+Enhance Defense;Enhancement;;Uncommon;Arena;0
+Enhance Heal;Enhancement;;Uncommon;Arena;0
+Enhance Resistance;Enhancement;;Uncommon;Arena;0
+Amplify Debuff;Enhancement;;Uncommon;Arena;0
+Increase Status;Enhancement;;Uncommon;Arena;0
+Odin's Breath;Enhancement;;Rare;Arena;0
+Positron Precision;Enhancement;;Rare;Arena;0
+Reduce Endurance Cost;Enhancement;;Common;Arena;0
+Reduce Recharge;Enhancement;;Common;Arena;0
+Manticore's Will;Enhancement;;Rare;Arena;0
+Statesman's Fury;Enhancement;;Rare;Arena;0
+Synaptic Speed;Enhancement;;Rare;Arena;0
 Flower Knight;Hero • Blaster;Archery • Devices • Jump;Battle Pack;Arena;1
 Fusillade;Hero • Blaster;Fire Blast • Devices • Teleport;Battle Pack;Arena;1
 Bottle Rocket;Hero • Blaster;Archery • Electrical Manipulation • Flight;Battle Pack;Arena;0
 Conductress;Hero • Blaster;Electrical Blast • Ice Manipulation • Speed;Battle Pack;Arena;0
-Flux;Hero • Blaster;Electrical Blast • Devices • Teleport;Battle Pack;Arena;0
-Paragon Blaster;Hero;(Varies) • (Varies) • Flight;Uncommon;Arena;0
+Flux;Hero • Blaster;Electrical Blast • Devices • Teleport;Battle Pack;Arena;1
+Paragon Blaster;Hero;(Varies) • (Varies) • Flight;Uncommon;Arena;1
 Pyrexiah;Hero • Blaster;Fire Blast • Ice Manipulation • Flight;Battle Pack;Arena;0
-Synapse;Hero • Blaster;Electrical Blast • Electrical Manipulation • Speed;Battle Pack;Arena;0
-Trajectory;Hero • Controller;Gravity Control • Trick Arrow • Flight;Battle Pack;Arena;0
-Tricksie;Hero • Controller;Mind Control • Trick Arrow • Jump;Battle Pack;Arena;0
-Snowslide;Hero • Controller;Ice Control • Force Field • Speed;Battle Pack;Arena;0
+Synapse;Hero • Blaster;Electrical Blast • Electrical Manipulation • Speed;Battle Pack;Arena;1
+Trajectory;Hero • Controller;Gravity Control • Trick Arrow • Flight;Battle Pack;Arena;1
+Tricksie;Hero • Controller;Mind Control • Trick Arrow • Jump;Battle Pack;Arena;1
+Snowslide;Hero • Controller;Ice Control • Force Field • Speed;Battle Pack;Arena;1
 Chain Reaction;Hero • Controller;Gravity Control • Radiation Emission • Teleport;Battle Pack;Arena;0
 Polar Star;Hero • Controller;Ice Control • Radiation Emission • Flight;Battle Pack;Arena;0
-Paragon Controller;Hero;(Varies) • (Varies) • Teleport;Uncommon;Arena;0
-Sister Psyche;Hero • Controller;Mind Control • Force Field • Flight;Battle Pack;Arena;0
+Paragon Controller;Hero;(Varies) • (Varies) • Teleport;Uncommon;Arena;1
+Sister Psyche;Hero • Controller;Mind Control • Force Field • Flight;Battle Pack;Arena;1
 Lighthouse;Hero • Defender;Force Field • Electrical Blast • Flight;Battle Pack;Arena;0
 Electronica;Hero • Defender;Trick Arrow • Electrical Blast • Jump;Battle Pack;Arena;0
-Dynamique;Hero • Defender;Force Field • Radiation Blast • Speed;Battle Pack;Arena;0
+Dynamique;Hero • Defender;Force Field • Radiation Blast • Speed;Battle Pack;Arena;1
 Regulus;Hero • Defender;Radiation Emission • Archery • Jump;Battle Pack;Arena;0
-Radstorm;Hero • Defender;Radiation Emission • Electrical Blast • Speed;Battle Pack;Arena;0
-Manticore;Hero • Defender;Trick Arrow • Archery • Teleport;Battle Pack;Arena;0
-Paragon Defender;Hero;(Varies) • (Varies) • Speed;Uncommon;Arena;0
-Positron;Hero • Defender;Radiation Emission • Radiation Blast • Flight;Battle Pack;Arena;0
-Mynx;Hero • Scrapper;Claws • Regeneration • Jump;Battle Pack;Arena;0
-Serpent Drummer;Hero • Scrapper;Martial Arts • Regeneration • Speed;Battle Pack;Arena;0
-Lady Grey;Hero • Scrapper;Dark Melee • Regeneration • Teleport;Battle Pack;Arena;0
-Somber Warrior;Hero • Scrapper;Dark Melee • Invulnerability • Flight;Battle Pack;Arena;0
-Stygian;Hero • Scrapper;Dark Melee • Dark Armor • Teleport;Battle Pack;Arena;0
+Radstorm;Hero • Defender;Radiation Emission • Electrical Blast • Speed;Battle Pack;Arena;1
+Manticore;Hero • Defender;Trick Arrow • Archery • Teleport;Battle Pack;Arena;1
+Paragon Defender;Hero;(Varies) • (Varies) • Speed;Uncommon;Arena;1
+Positron;Hero • Defender;Radiation Emission • Radiation Blast • Flight;Battle Pack;Arena;1
+Mynx;Hero • Scrapper;Claws • Regeneration • Jump;Battle Pack;Arena;1
+Serpent Drummer;Hero • Scrapper;Martial Arts • Regeneration • Speed;Battle Pack;Arena;1
+Lady Grey;Hero • Scrapper;Dark Melee • Regeneration • Teleport;Battle Pack;Arena;1
+Somber Warrior;Hero • Scrapper;Dark Melee • Invulnerability • Flight;Battle Pack;Arena;1
+Stygian;Hero • Scrapper;Dark Melee • Dark Armor • Teleport;Battle Pack;Arena;1
 Night Strike;Hero • Scrapper;Claws • Dark Armor • Speed;Battle Pack;Arena;0
-Ms. Liberty;Hero • Scrapper;Martial Arts • Invulnerability • Jump;Battle Pack;Arena;0
-Paragon Scrapper;Hero;(Varies) • (Varies) • Speed;Uncommon;Arena;0
-Infernal;Hero • Tanker;Fiery Aura • Battle Axe • Jump;Battle Pack;Arena;0
-Wasteland;Hero • Tanker;Ice Armor • Super Strength • Speed;Battle Pack;Arena;0
-Aesir;Hero • Tanker;Ice Armor • Battle Axe • Teleport;Battle Pack;Arena;0
+Ms. Liberty;Hero • Scrapper;Martial Arts • Invulnerability • Jump;Battle Pack;Arena;1
+Paragon Scrapper;Hero;(Varies) • (Varies) • Speed;Uncommon;Arena;1
+Infernal;Hero • Tanker;Fiery Aura • Battle Axe • Jump;Battle Pack;Arena;1
+Wasteland;Hero • Tanker;Ice Armor • Super Strength • Speed;Battle Pack;Arena;1
+Aesir;Hero • Tanker;Ice Armor • Battle Axe • Teleport;Battle Pack;Arena;1
 Caldera;Hero • Tanker;Fiery Aura • Energy Melee • Speed;Battle Pack;Arena;0
-Hero 1;Hero • Tanker;Invulnerability • Energy Melee • Flight;Battle Pack;Arena;0
-Paragon Tanker;Hero;(Varies) • (Varies) • Jump;Uncommon;Arena;0
-Statesman;Hero • Tanker;Invulnerability • Super Strength • Flight;Battle Pack;Arena;0
+Hero 1;Hero • Tanker;Invulnerability • Energy Melee • Flight;Battle Pack;Arena;1
+Paragon Tanker;Hero;(Varies) • (Varies) • Jump;Uncommon;Arena;1
+Statesman;Hero • Tanker;Invulnerability • Super Strength • Flight;Battle Pack;Arena;1
 The Tournament;Mission;;Uncommon;Arena;0
 Sky Raider's Time Bomb;Mission;;Common;Arena;0
 Portal of Thorns;Mission;;Uncommon;Arena;0
@@ -120,34 +120,34 @@ The Diseased Dead;Mission;;Common;Arena;0
 Victim of the Plague;Mission;;Uncommon;Arena;0
 Source of Infection;Mission;;Rare;Arena;0
 Save the Fortune Teller;Mission;;Uncommon;Arena;0
-Bind Demon;Sig Power • Infernal;Fiery Aura;Battle Pack;Arena;0
-Feral Flurry;Sig Power • Mynx;Claws;Battle Pack;Arena;0
-Summon Ancestor;Sig Power • Flower Knight;Archery;Battle Pack;Arena;0
-Teleport Arrow;Sig Power • Manticore;Trick Arrow;Battle Pack;Arena;0
-Aid from the Fae;Sig Power • Hero 1;Invulnerability;Battle Pack;Arena;0
-Rapid Fire;Sig Power • Fusillade;Fire Blast;Battle Pack;Arena;0
+Bind Demon;Sig Power • Infernal;Fiery Aura;Battle Pack;Arena;1
+Feral Flurry;Sig Power • Mynx;Claws;Battle Pack;Arena;1
+Summon Ancestor;Sig Power • Flower Knight;Archery;Battle Pack;Arena;1
+Teleport Arrow;Sig Power • Manticore;Trick Arrow;Battle Pack;Arena;1
+Aid from the Fae;Sig Power • Hero 1;Invulnerability;Battle Pack;Arena;1
+Rapid Fire;Sig Power • Fusillade;Fire Blast;Battle Pack;Arena;1
 Equinox;Sig Power • Pyrexiah;Fire Blast;Battle Pack;Arena;0
 Skyrockets in Flight;Sig Power • Bottle Rocket;Archery;Battle Pack;Arena;0
 Ice Spark;Sig Power • Conductress;Electrical Blast;Battle Pack;Arena;0
-Amplification Band;Sig Power • Flux;Electrical Blast;Battle Pack;Arena;0
-Gravity Arrow;Sig Power • Trajectory;Gravity Control;Battle Pack;Arena;0
-Mind Shaft;Sig Power • Tricksie;Mind Control;Battle Pack;Arena;0
-Glacial Shift;Sig Power • Snowslide;Ice Control;Battle Pack;Arena;0
+Amplification Band;Sig Power • Flux;Electrical Blast;Battle Pack;Arena;2
+Gravity Arrow;Sig Power • Trajectory;Gravity Control;Battle Pack;Arena;2
+Mind Shaft;Sig Power • Tricksie;Mind Control;Battle Pack;Arena;3
+Glacial Shift;Sig Power • Snowslide;Ice Control;Battle Pack;Arena;2
 Critical Reactor;Sig Power • Chain Reaction;Gravity Control;Battle Pack;Arena;0
 Icy Star;Sig Power • Polar Star;Ice Control;Battle Pack;Arena;0
 Shield of Light;Sig Power • Lighthouse;Force Field;Battle Pack;Arena;0
 Whistler;Sig Power • Electronica;Trick Arrow;Battle Pack;Arena;0
-Radiation Force;Sig Power • Dynamique;Force Field;Battle Pack;Arena;0
-Arcing Missle;Sig Power • Regulus;Radiation Emission;Battle Pack;Arena;0
-Radiation Storm;Sig Power • Radstorm;Radiation Emission;Battle Pack;Arena;0
-Mindrider;Sig Power • Sister Psyche;Mind Control;Battle Pack;Arena;0
-Snake Spirit;Sig Power • Serpent Drummer;Martial Arts;Battle Pack;Arena;0
-Aging Touch;Sig Power • Lady Grey;Dark Melee;Battle Pack;Arena;0
-Knowledge of the Ages;Sig Power • Somber Warrior;Dark Melee;Battle Pack;Arena;0
-From Beyond;Sig Power • Stygian;Dark Melee;Battle Pack;Arena;0
+Radiation Force;Sig Power • Dynamique;Force Field;Battle Pack;Arena;3
+Arcing Missle;Sig Power • Regulus;Radiation Emission;Battle Pack;Arena;2
+Radiation Storm;Sig Power • Radstorm;Radiation Emission;Battle Pack;Arena;2
+Mindrider;Sig Power • Sister Psyche;Mind Control;Battle Pack;Arena;1
+Snake Spirit;Sig Power • Serpent Drummer;Martial Arts;Battle Pack;Arena;2
+Aging Touch;Sig Power • Lady Grey;Dark Melee;Battle Pack;Arena;2
+Knowledge of the Ages;Sig Power • Somber Warrior;Dark Melee;Battle Pack;Arena;2
+From Beyond;Sig Power • Stygian;Dark Melee;Battle Pack;Arena;1
 Hit and Run;Sig Power • Night Strike;Claws;Battle Pack;Arena;0
-Survival of the Fittest;Sig Power • Wasteland;Ice Armor;Battle Pack;Arena;0
-Blood of Giants;Sig Power • Aesir;Ice Armor;Battle Pack;Arena;0
+Survival of the Fittest;Sig Power • Wasteland;Ice Armor;Battle Pack;Arena;1
+Blood of Giants;Sig Power • Aesir;Ice Armor;Battle Pack;Arena;1
 Blazing Speed;Sig Power • Caldera;Fiery Aura;Battle Pack;Arena;0
 Aimed Arrow;Power • Bottle Rocket;Archery 2;Battle Pack;Arena;0
 Aimed Shot;Power;Archery;Common;Arena;0
@@ -189,7 +189,7 @@ Ball Lightning;Power;Electrical Blast 1;Uncommon;Arena;0
 Charged Bolt;Power;Electrical Blast;Common;Arena;0
 Lightning Bolt;Power;Electrical Blast;Common;Arena;0
 Short Circuit;Power • Synapse;Electrical Blast 2;Battle Pack;Arena;0
-Synaptic Strike;Sig Power • Synapse;Electrical Blast;Battle Pack;Arena;0
+Synaptic Strike;Sig Power • Synapse;Electrical Blast;Battle Pack;Arena;2
 Tesla Cage;Power • Lighthouse;Electrical Blast 2;Battle Pack;Arena;0
 Voltaic Sentinel;Power;Electrical Blast 3;Rare;Arena;0
 Electric Fence;Power;Electrical Manipulation;Common;Arena;0
@@ -248,7 +248,7 @@ Icy Buildup;Power;Ice Manipulation 2;Uncommon;Arena;0
 Shiver Manipulation;Power • Conductress;Ice Manipulation 2;Battle Pack;Arena;0
 Dull Pain;Power;Invulnerability;Common;Arena;0
 Invincibility;Power;Invulnerability 2;Uncommon;Arena;0
-Liberty Belt;Sig Power • Ms. Liberty;Martial Arts;Battle Pack;Arena;0
+Liberty Belt;Sig Power • Ms. Liberty;Martial Arts;Battle Pack;Arena;2
 Resist Elements;Power;Invulnerability 1;Uncommon;Arena;0
 Resist Physical Damage;Power;Invulnerability;Common;Arena;0
 Unstoppable;Power;Invulnerability 3;Rare;Arena;0
@@ -285,7 +285,7 @@ Accelerate Metabolism;Power;Radiation Emission 1;Uncommon;Arena;0
 EM Pulse;Power;Radiation Emission 3;Rare;Arena;0
 Enervating Field;Power • Radstorm;Radiation Emission 2;Battle Pack;Arena;0
 Lingering Radiation;Power • Regulus;Radiation Emission 2;Battle Pack;Arena;0
-Overcharge;Sig Power • Positron;Radiation Emission;Battle Pack;Arena;0
+Overcharge;Sig Power • Positron;Radiation Emission;Battle Pack;Arena;3
 Radiation Aura;Power;Radiation Emission;Common;Arena;0
 Radiation Infection;Power;Radiation Emission;Common;Arena;0
 Fast Healing;Power;Regeneration;Common;Arena;0
@@ -300,7 +300,7 @@ Jab;Power;Super Strength;Common;Arena;0
 Knockout Blow;Power • Statesman;Super Strength 2;Battle Pack;Arena;0
 Punch;Power;Super Strength;Common;Arena;0
 Rage;Power • Wasteland;Super Strength 2;Battle Pack;Arena;0
-Zeus' Lightning Bolt;Sig Power • Statesman;Super Strength;Battle Pack;Arena;0
+Zeus' Lightning Bolt;Sig Power • Statesman;Super Strength;Battle Pack;Arena;1
 Acid Arrow;Power • Manticore;Trick Arrow 2;Battle Pack;Arena;0
 Disruption Arrow;Power • Electronica;Trick Arrow 2;Battle Pack;Arena;0
 Glue Arrow;Power;Trick Arrow;Common;Arena;0
@@ -328,10 +328,10 @@ Kill Skuls;Mission;;Promo;Arena;0
 Boxing;Power;Common Pool;Promo;Arena;0
 Provoke;Power;Common Pool;Promo;Arena;0
 Armory;Hero • Blaster;Assault Rifle • Devices • Jump;Battle Pack;Secret Origins;0
-Recoilless;Hero • Blaster;Assault Rifle • Electrical Manipulation • Speed;Battle Pack;Secret Origins;0
-The Brass Man;Hero • Blaster;Electrical Blast • Energy Manipulation • Teleport;Battle Pack;Secret Origins;0
-Incandescent;Hero • Blaster;Fire Blast • Energy Manipulation • Flight;Battle Pack;Secret Origins;0
-Gravitas;Hero • Controller;Gravity Control • Empathy • Flight;Battle Pack;Secret Origins;0
+Recoilless;Hero • Blaster;Assault Rifle • Electrical Manipulation • Speed;Battle Pack;Secret Origins;1
+The Brass Man;Hero • Blaster;Electrical Blast • Energy Manipulation • Teleport;Battle Pack;Secret Origins;1
+Incandescent;Hero • Blaster;Fire Blast • Energy Manipulation • Flight;Battle Pack;Secret Origins;1
+Gravitas;Hero • Controller;Gravity Control • Empathy • Flight;Battle Pack;Secret Origins;1
 Numina;Hero • Controller;Mind Control • Empathy • Flight;Battle Pack;Secret Origins;0
 The Dark Watcher;Hero • Controller;Illusion Control • Force Field • Teleport;Battle Pack;Secret Origins;0
 Heartseeker;Hero • Defender;Empathy • Archery • Teleport;Battle Pack;Secret Origins;0
@@ -339,12 +339,12 @@ Remedy;Hero • Defender;Empathy • Psychic Blast • Flight;Battle Pack;Secret
 Capacitor;Hero • Defender;Empathy • Electrical Blast • Speed;Battle Pack;Secret Origins;0
 Jacklight;Hero • Defender;Radiation Emission • Psychic Blast • Jump;Battle Pack;Secret Origins;0
 Swan;Hero • Defender;Force Field • Psychic Blast • Flight;Battle Pack;Secret Origins;0
-Ockham;Hero • Scrapper;Claws • Invulnerability • Speed;Battle Pack;Secret Origins;0
-Levantera;Hero • Scrapper;Katana • Dark Armor • Teleport;Battle Pack;Secret Origins;0
+Ockham;Hero • Scrapper;Claws • Invulnerability • Speed;Battle Pack;Secret Origins;1
+Levantera;Hero • Scrapper;Katana • Dark Armor • Teleport;Battle Pack;Secret Origins;1
 Borea;Hero • Scrapper;Katana • Super Reflexes • Flight;Battle Pack;Secret Origins;0
 Maiden Justice;Hero • Scrapper;Martial Arts • Super Reflexes • Jump;Battle Pack;Secret Origins;0
 Back Alley Brawler;Hero • Tanker;Invulnerability • Super Strength • Jump;Battle Pack;Secret Origins;0
-Crystal Flame;Hero • Tanker;Ice Armor • Fiery Melee • Teleport;Battle Pack;Secret Origins;0
+Crystal Flame;Hero • Tanker;Ice Armor • Fiery Melee • Teleport;Battle Pack;Secret Origins;1
 The Magmite;Hero • Tanker;Stone Armor • Fiery Melee • Teleport;Battle Pack;Secret Origins;0
 Ahnek Rah-Zul;Hero • Tanker;Stone Armor • Super Strength • Speed;Battle Pack;Secret Origins;0
 Blast Furnace;Hero • Tanker;Fiery Aura • Fiery Melee • Speed;Battle Pack;Secret Origins;0
@@ -474,19 +474,19 @@ Stamina;Power;Common Pool 6;Rare;Secret Origins;0
 Ranged Shot;Power;Archery 2;Uncommon;Secret Origins;0
 Flash Arrow;Power;Trick Arrow;Uncommon;Secret Origins;0
 Scattershot;Sig Power • Armory;Assault Rifle;Battle Pack;Secret Origins;0
-Ricochet;Sig Power • Recoilless;Assault Rifle;Battle Pack;Secret Origins;0
+Ricochet;Sig Power • Recoilless;Assault Rifle;Battle Pack;Secret Origins;1
 Street Fighting;Sig Power • Back Alley Brawler;Invulnerability;Battle Pack;Secret Origins;0
-Ockham's Razor;Sig Power • Ockham;Claws;Battle Pack;Secret Origins;0
+Ockham's Razor;Sig Power • Ockham;Claws;Battle Pack;Secret Origins;1
 Dimension Twist;Sig Power • The Dark Watcher;Illusion Control;Battle Pack;Secret Origins;0
 Oscillation;Sig Power • Capacitor;Empathy;Battle Pack;Secret Origins;0
 Heart's Blood;Sig Power • Heartseeker;Empathy;Battle Pack;Secret Origins;0
 Painful Panacea;Sig Power • Remedy;Empathy;Battle Pack;Secret Origins;0
-Lambent Flame;Sig Power • Incandescent;Fire Blast;Battle Pack;Secret Origins;0
-Bonds of Gravity;Sig Power • Gravitas;Gravity Control;Battle Pack;Secret Origins;0
-Lucent Fire;Sig Power • Crystal Flame;Ice Armor;Battle Pack;Secret Origins;0
-Cloud Strike;Sig Power • Levantera;Katana;Battle Pack;Secret Origins;0
+Lambent Flame;Sig Power • Incandescent;Fire Blast;Battle Pack;Secret Origins;1
+Bonds of Gravity;Sig Power • Gravitas;Gravity Control;Battle Pack;Secret Origins;1
+Lucent Fire;Sig Power • Crystal Flame;Ice Armor;Battle Pack;Secret Origins;1
+Cloud Strike;Sig Power • Levantera;Katana;Battle Pack;Secret Origins;1
 Chill Wind;Sig Power • Borea;Katana;Battle Pack;Secret Origins;0
-Like Clockwork;Sig Power • The Brass Man;Electrical Blast;Battle Pack;Secret Origins;0
+Like Clockwork;Sig Power • The Brass Man;Electrical Blast;Battle Pack;Secret Origins;1
 Turning Point;Sig Power • Jacklight;Radiation Emission;Battle Pack;Secret Origins;0
 Justice Is Swift;Sig Power • Maiden Justice;Martial Arts;Battle Pack;Secret Origins;0
 Portents;Sig Power • Numina;Mind Control;Battle Pack;Secret Origins;0
