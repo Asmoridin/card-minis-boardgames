@@ -1,7 +1,7 @@
 A Desparate Plea;Mission • Clockworkz 1;N/A;Common;Secret Origins;1
 A New Fuel Source;Mission;N/A;Common;Secret Origins;3
 Absorb Pain;Power;Empathy;Common;Secret Origins;0
-Accelerate Metabolism;Power;Radiation Emission 1;Uncommon;Arena;1
+Accelerate Metabolism;Power;Radiation Emission 1;Uncommon;Arena;3
 Acid Arrow;Power • Manticore;Trick Arrow 2;Battle Pack;Arena;2
 Active Dodge;Edge;;Uncommon;Arena;3
 Adrenaline Boost;Power;Empathy 3;Virtual;Hamidon;0
@@ -11,11 +11,11 @@ Agile;Power;Super Reflexes;Virtual;Hamidon;0
 Aging Touch;Sig Power • Lady Grey;Dark Melee;Battle Pack;Arena;2
 Ahnek Rah-Zul;Hero • Tanker;Stone Armor • Super Strength • Speed;Battle Pack;Secret Origins;0
 Aid Other;Power;Common Pool;Common;Arena;3
-Aid Self;Power;Common Pool 4;Common;Arena;2
+Aid Self;Power;Common Pool 4;Common;Arena;3
 Aid from the Fae;Sig Power • Hero 1;Invulnerability;Battle Pack;Arena;1
 Aimed Arrow;Power • Bottle Rocket;Archery 2;Battle Pack;Arena;0
 Aimed Shot;Power;Archery;Common;Arena;2
-Air Superiority;Power;Common Pool;Common;Arena;2
+Air Superiority;Power;Common Pool;Common;Arena;3
 Alberich;Sidekick • Tanker;Stone Armor • Battle Axe • Speed;Rare;Secret Origins;0
 Alien Mind Control;Edge;;Promo;Arena;0
 Ambush;Edge;;Uncommon;Arena;2
@@ -24,7 +24,7 @@ Amplify Debuff;Enhancement;;Uncommon;Arena;3
 Amplify;Power;Sonic Attack 2;Virtual;Hamidon;0
 Animate Stone;Power;Earth Control 3;Virtual;Hamidon;0
 Arcane Ritual;Edge;;Rare;Arena;1
-Arcing Missle;Sig Power • Regulus;Radiation Emission;Battle Pack;Arena;2
+Arcing Missle;Sig Power • Regulus;Radiation Emission;Battle Pack;Arena;3
 Arctic Air;Power;Ice Control 1;Uncommon;Secret Origins;0
 Armory;Hero • Blaster;Assault Rifle • Devices • Jump;Battle Pack;Secret Origins;0
 Atomic Arrow;Sidekick • Defender;Trick Arrow • Radiation Blast • Jump;Uncommon;Arena;3
@@ -46,7 +46,7 @@ Black Hole;Power;Dark Miasma 2;Virtual;Hamidon;0
 Blackstar;Power;Dark Blast 3;Virtual;Hamidon;0
 Blast Furnace;Hero • Tanker;Fiery Aura • Fiery Melee • Speed;Battle Pack;Secret Origins;0
 Blaze;Power • Fusillade;Fire Blast 2;Battle Pack;Arena;0
-Blazing Arrow;Power;Archery 1;Uncommon;Arena;2
+Blazing Arrow;Power;Archery 1;Uncommon;Arena;3
 Blazing Aura;Power;Fiery Aura;Common;Arena;3
 Blazing Bolt;Power;Fire Blast 2;Virtual;Hamidon;0
 Blazing Fire Aura;Power;Fire Manipulation 2;Virtual;Hamidon;0
@@ -54,11 +54,11 @@ Blazing Speed;Sig Power • Caldera;Fiery Aura;Battle Pack;Arena;0
 Blind;Power;Illusion Control;Common;Secret Origins;0
 Blindside;Edge;N/A;Rare;Secret Origins;0
 Blizzard;Power;Ice Blast 3;Virtual;Hamidon;0
-Block of Ice;Power;Ice Control;Common;Arena;2
+Block of Ice;Power;Ice Control;Common;Arena;3
 Blood of Giants;Sig Power • Aesir;Ice Armor;Battle Pack;Arena;1
-Blue Chill;Sidekick • Controller;Ice Control • Trick Arrow • Speed;Uncommon;Arena;2
+Blue Chill;Sidekick • Controller;Ice Control • Trick Arrow • Speed;Uncommon;Arena;3
 Blunted Attack;Edge;;Rare;Arena;2
-Bob and Weave;Edge;;Common;Arena;2
+Bob and Weave;Edge;;Common;Arena;3
 Bonds of Gravity;Sig Power • Gravitas;Gravity Control;Battle Pack;Secret Origins;1
 Bone Smasher;Power;Energy Melee 1;Uncommon;Secret Origins;0
 Bonfire;Power;Fire Control 2;Virtual;Hamidon;0
@@ -67,7 +67,7 @@ Borea;Hero • Scrapper;Katana • Super Reflexes • Flight;Battle Pack;Secret 
 Boss;Edge;N/A;Rare;Secret Origins;0
 Bottle Rocket;Hero • Blaster;Archery • Electrical Manipulation • Flight;Battle Pack;Arena;0
 Boxing;Power;Common Pool;Promo;Arena;0
-Brawl;Power;Common Pool;Common;Arena;2
+Brawl;Power;Common Pool;Common;Arena;3
 Breath of Fire;Power;Fiery Melee 2;Uncommon;Secret Origins;1
 Brimstone Armor;Power;Stone Armor 2;Rare;Secret Origins;2
 Broad Sword Build Up;Power;Broad Sword 1;Virtual;Hamidon;0
@@ -86,7 +86,7 @@ Chain Reaction;Hero • Controller;Gravity Control • Radiation Emission • Te
 Char;Power;Fire Control;Virtual;Hamidon;0
 Charged Bolt;Power;Electrical Blast;Common;Arena;3
 Charged Brawl;Power;Electrical Manipulation;Virtual;Hamidon;0
-Chilblain Control;Power;Ice Control;Common;Arena;2
+Chilblain Control;Power;Ice Control;Common;Arena;3
 Chilblain Manipulation;Power;Ice Manipulation;Common;Arena;3
 Chill Wind;Sig Power • Borea;Katana;Battle Pack;Secret Origins;0
 Chilled Embrace;Power;Ice Manipulation 1;Virtual;Hamidon;0
@@ -115,7 +115,7 @@ Confront;Power;Common Pool;Virtual;Hamidon;0
 Confuse;Power • Sister Psyche;Mind Control 2;Battle Pack;Arena;2
 Conserve Power;Power;Energy Manipulation 2;Rare;Secret Origins;0
 Consume;Power;Fiery Aura 2;Uncommon;Secret Origins;1
-Cornered;Edge;;Uncommon;Arena;2
+Cornered;Edge;;Uncommon;Arena;3
 Cosmic Burst;Power • Positron;Radiation Blast 2;Battle Pack;Arena;3
 Crane Kick;Power • Serpent Drummer;Martial Arts 2;Battle Pack;Arena;3
 Crippling Axe Kick;Power;Martial Arts 2;Uncommon;Secret Origins;0
@@ -136,8 +136,8 @@ Dark Servant;Power;Dark Miasma 3;Virtual;Hamidon;0
 Darkest Night;Power;Dark Miasma;Virtual;Hamidon;0
 Death Shroud;Power;Dark Armor;Common;Arena;3
 Deceive;Power;Illusion Control 1;Common;Secret Origins;0
-Defeat Teh PwNxx0rz!;Mission;;Common;Arena;1
-Defensive Teleport;Edge;;Uncommon;Arena;2
+Defeat Teh PwNxx0rz!;Mission;;Common;Arena;3
+Defensive Teleport;Edge;;Uncommon;Arena;3
 Deflection Shield;Power;Force Field;Common;Arena;3
 Delayed Attack;Edge;N/A;Rare;Secret Origins;0
 Demoralize;Edge;;Rare;Arena;2
@@ -153,7 +153,7 @@ Divine Avalanche;Power;Katana 2;Uncommon;Secret Origins;1
 Dodge;Power;Super Reflexes 1;Virtual;Hamidon;0
 Dominate;Power;Mind Control 1;Uncommon;Arena;3
 Dragon's Tail;Power • Ms. Liberty;Martial Arts 2;Battle Pack;Arena;3
-Dramatic Improvement;Edge;;Uncommon;Arena;2
+Dramatic Improvement;Edge;;Uncommon;Arena;3
 Dreadful Wail;Power;Sonic Attack 3;Virtual;Hamidon;0
 Dull Pain;Power;Invulnerability;Common;Arena;3
 Dulled Pain;Power;Regeneration 1;Virtual;Hamidon;0
@@ -181,12 +181,12 @@ Energy Stun;Power;Energy Manipulation 2;Uncommon;Secret Origins;2
 Energy Torrent;Power;Energy Blast;Virtual;Hamidon;0
 Energy Transfer;Power • Hero 1;Energy Melee 2;Battle Pack;Arena;0
 Enervating Field;Power • Radstorm;Radiation Emission 2;Battle Pack;Arena;2
-Enhance Accuracy;Enhancement;;Common;Arena;2
+Enhance Accuracy;Enhancement;;Common;Arena;3
 Enhance Damage;Enhancement;;Common;Arena;3
 Enhance Defense;Enhancement;;Uncommon;Arena;3
-Enhance Heal;Enhancement;;Uncommon;Arena;2
+Enhance Heal;Enhancement;;Uncommon;Arena;3
 Enhance Resistance;Enhancement;;Uncommon;Arena;3
-Enraged;Edge;;Common;Arena;1
+Enraged;Edge;;Common;Arena;3
 Entangling Arrow;Power;Trick Arrow;Virtual;Hamidon;0
 Equinox;Sig Power • Pyrexiah;Fire Blast;Battle Pack;Arena;0
 Evasion;Power;Super Reflexes 2;Virtual;Hamidon;0
@@ -199,7 +199,7 @@ Experimental Serum;Edge;N/A;Rare;Secret Origins;1
 Explosive Arrow;Power • Flower Knight;Archery 2;Battle Pack;Arena;2
 Explosive Blast;Power;Energy Blast 2;Virtual;Hamidon;0
 Fallout;Power;Radiation Emission 2;Virtual;Hamidon;0
-Fast Attack;Edge;;Uncommon;Arena;2
+Fast Attack;Edge;;Uncommon;Arena;3
 Fast Healing;Power;Regeneration;Common;Arena;3
 Fault;Power;Stone Melee 2;Virtual;Hamidon;0
 Fearsome Stare;Power;Dark Miasma 2;Virtual;Hamidon;0
@@ -243,7 +243,7 @@ Force Bolt;Power;Force Field;Uncommon;Secret Origins;0
 Force Bubble;Power;Force Field 3;Rare;Arena;0
 Fortitude;Power;Empathy 2;Uncommon;Secret Origins;1
 Fossilize;Power;Earth Control;Virtual;Hamidon;0
-Freedom!;Edge;;Uncommon;Arena;2
+Freedom!;Edge;;Uncommon;Arena;3
 Freeze Ray;Power;Ice Blast 1;Virtual;Hamidon;0
 Freezing Rain;Power;Storm Summoning 1;Virtual;Hamidon;0
 Freezing Touch Melee;Power;Ice Melee 2;Virtual;Hamidon;0
@@ -273,7 +273,7 @@ Gaussian;Sidekick • Blaster;Assault Rifle • Energy Manipulation • Flight;R
 Ghost Ship Sighted;Edge;;Rare;Arena;0
 Glacial Armor;Power;Ice Armor 2;Virtual;Hamidon;0
 Glacial Shift;Sig Power • Snowslide;Ice Control;Battle Pack;Arena;2
-Glacier;Power • Polar Star;Ice Control 2;Battle Pack;Arena;0
+Glacier;Power • Polar Star;Ice Control 2;Battle Pack;Arena;2
 Glitterdance;Sidekick • Tanker;Ice Armor • Energy Melee • Teleport;Common;Arena;3
 Gloom;Power;Dark Blast;Virtual;Hamidon;0
 Glue Arrow;Power;Trick Arrow;Common;Arena;3
@@ -291,7 +291,7 @@ Hailstone;Sidekick • Blaster;Archery • Ice Manipulation • Flight;Uncommon;
 Hallow's Eve Assault;Edge;;Rare;Arena;1
 Hand Clap;Power;Super Strength 1;Uncommon;Secret Origins;0
 Hard Crash;Edge;;Rare;Arena;2
-Hasten;Power;Common Pool;Common;Arena;2
+Hasten;Power;Common Pool;Common;Arena;3
 Havoc Punch;Power;Electrical Manipulation 1;Uncommon;Arena;3
 Haymaker;Power;Super Strength 1;Uncommon;Arena;3
 Head Shot;Edge;;Rare;Arena;1
@@ -327,7 +327,7 @@ Ice Sword Melee;Power;Ice Melee;Virtual;Hamidon;0
 Ice Sword;Power;Ice Manipulation 1;Uncommon;Arena;2
 Icicles;Power;Ice Armor 2;Uncommon;Arena;1
 Icy Buildup;Power;Ice Manipulation 2;Uncommon;Arena;1
-Icy Star;Sig Power • Polar Star;Ice Control;Battle Pack;Arena;0
+Icy Star;Sig Power • Polar Star;Ice Control;Battle Pack;Arena;1
 Ignite;Power;Assault Rifle 2;Virtual;Hamidon;0
 Impale;Power;Spines 1;Virtual;Hamidon;0
 Impenetrable;Sidekick • Tanker;Invulnerability • Battle Axe • Jump;Uncommon;Arena;1
@@ -339,7 +339,7 @@ Increased Hold;Edge;;Rare;Arena;1
 Inertial Reduction;Power;Kinetics 2;Virtual;Hamidon;0
 Infernal;Hero • Tanker;Fiery Aura • Battle Axe • Jump;Battle Pack;Arena;1
 Inferno;Power;Fire Blast 3;Rare;Arena;0
-Inspired;Edge;;Rare;Arena;1
+Inspired;Edge;;Rare;Arena;2
 Instant Healing;Power;Regeneration 2;Uncommon;Arena;1
 Insulation Shield;Power;Force Field 1;Uncommon;Arena;0
 Integration;Power;Regeneration 2;Uncommon;Arena;3
@@ -364,7 +364,7 @@ Lambent Flame;Sig Power • Incandescent;Fire Blast;Battle Pack;Secret Origins;1
 Lava Armor;Sig Power • The Magmite;Stone Armor;Battle Pack;Secret Origins;0
 Learning Curve;Edge;;Rare;Arena;2
 Levantera;Hero • Scrapper;Katana • Dark Armor • Teleport;Battle Pack;Secret Origins;1
-Level Up!;Edge;;Uncommon;Arena;2
+Level Up!;Edge;;Uncommon;Arena;3
 Levitate;Power;Mind Control;Common;Arena;3
 Liberty Belt;Sig Power • Ms. Liberty;Martial Arts;Battle Pack;Arena;2
 Life Drain;Power;Dark Blast 2;Virtual;Hamidon;0
@@ -375,7 +375,7 @@ Lightning Clap;Power;Electrical Manipulation 1;Uncommon;Secret Origins;1
 Lightning Field;Power;Electrical Manipulation;Common;Arena;3
 Lightning Storm;Power;Storm Summoning 3;Virtual;Hamidon;0
 Like Clockwork;Sig Power • The Brass Man;Electrical Blast;Battle Pack;Secret Origins;1
-Lingering Radiation;Power • Regulus;Radiation Emission 2;Battle Pack;Arena;1
+Lingering Radiation;Power • Regulus;Radiation Emission 2;Battle Pack;Arena;3
 Liquefy;Power;Sonic Resonance 3;Virtual;Hamidon;0
 Lou's Garage;Mission • Clockworkz 3;N/A;Rare;Secret Origins;0
 Lucent Fire;Sig Power • Crystal Flame;Ice Armor;Battle Pack;Secret Origins;1
@@ -386,7 +386,7 @@ Maiden Justice;Hero • Scrapper;Martial Arts • Super Reflexes • Jump;Battle
 Mainline;Sidekick • Blaster;Electrical Blast • Devices • Jump;Rare;Arena;1
 Maneuvers;Power;Common Pool 6;Uncommon;Arena;2
 Mano-a-Mano;Edge;N/A;Uncommon;Secret Origins;1
-Manticore's Will;Enhancement;;Rare;Arena;1
+Manticore's Will;Enhancement;;Rare;Arena;2
 Manticore;Hero • Defender;Trick Arrow • Archery • Teleport;Battle Pack;Arena;1
 Mass Confusion;Power;Mind Control 3;Rare;Arena;1
 Mass Hypnosis;Power;Mind Control 1;Virtual;Hamidon;0
@@ -445,7 +445,7 @@ Phantasm;Power;Illusion Control 3;Rare;Secret Origins;0
 Phantom Army;Power;Illusion Control 2;Uncommon;Secret Origins;0
 Plasma Shield;Power;Fiery Aura 2;Uncommon;Arena;1
 Poison Gas Arrow;Power;Trick Arrow 1;Uncommon;Arena;3
-Polar Star;Hero • Controller;Ice Control • Radiation Emission • Flight;Battle Pack;Arena;0
+Polar Star;Hero • Controller;Ice Control • Radiation Emission • Flight;Battle Pack;Arena;1
 Portal of Thorns;Mission;;Uncommon;Arena;3
 Portents;Sig Power • Numina;Mind Control;Battle Pack;Secret Origins;0
 Positron Precision;Enhancement;;Rare;Arena;1
@@ -485,9 +485,9 @@ Quickness;Power;Super Reflexes 2;Rare;Secret Origins;0
 Quicksand;Power;Earth Control 1;Virtual;Hamidon;0
 Quills;Power;Spines 2;Virtual;Hamidon;0
 Radiant Aim;Power • Dynamique;Radiation Blast 2;Battle Pack;Arena;3
-Radiation Aura;Power;Radiation Emission;Common;Arena;1
+Radiation Aura;Power;Radiation Emission;Common;Arena;3
 Radiation Force;Sig Power • Dynamique;Force Field;Battle Pack;Arena;3
-Radiation Infection;Power;Radiation Emission;Common;Arena;1
+Radiation Infection;Power;Radiation Emission;Common;Arena;3
 Radiation Storm;Sig Power • Radstorm;Radiation Emission;Battle Pack;Arena;2
 Radstorm;Hero • Defender;Radiation Emission • Electrical Blast • Speed;Battle Pack;Arena;1
 Rage;Power • Wasteland;Super Strength 2;Battle Pack;Arena;0
@@ -499,17 +499,17 @@ Rapid Fire;Sig Power • Fusillade;Fire Blast;Battle Pack;Arena;1
 Recoilless;Hero • Blaster;Assault Rifle • Electrical Manipulation • Speed;Battle Pack;Secret Origins;1
 Reconstruction;Power;Regeneration;Common;Arena;3
 Recovery Aura;Power;Empathy 2;Rare;Secret Origins;0
-Red Lightning;Sidekick • Blaster;Fire Blast • Electrical Manipulation • Jump;Common;Arena;2
-Reduce Endurance Cost;Enhancement;;Common;Arena;2
+Red Lightning;Sidekick • Blaster;Fire Blast • Electrical Manipulation • Jump;Common;Arena;3
+Reduce Endurance Cost;Enhancement;;Common;Arena;3
 Reduce Recharge;Enhancement;;Common;Arena;3
 Regeneration Aura;Power;Empathy 3;Rare;Secret Origins;0
-Regulus;Hero • Defender;Radiation Emission • Archery • Jump;Battle Pack;Arena;0
+Regulus;Hero • Defender;Radiation Emission • Archery • Jump;Battle Pack;Arena;1
 Remedy;Hero • Defender;Empathy • Psychic Blast • Flight;Battle Pack;Secret Origins;0
 Repel;Power;Kinetics;Virtual;Hamidon;0
 Repulsion Bomb;Power;Force Field 2;Virtual;Hamidon;0
 Repulsion Field;Power;Force Field 2;Virtual;Hamidon;0
 Resilience;Power;Regeneration 2;Virtual;Hamidon;0
-Resilient;Edge;;Uncommon;Arena;2
+Resilient;Edge;;Uncommon;Arena;3
 Resist Elements;Power;Invulnerability 1;Uncommon;Arena;3
 Resist Energies;Power;Invulnerability 2;Uncommon;Secret Origins;0
 Resist Physical Damage;Power;Invulnerability;Common;Arena;3
@@ -547,7 +547,7 @@ Shadow Punch;Power;Dark Melee;Common;Arena;3
 Shatter;Power;War Mace 2;Virtual;Hamidon;0
 Shield of Light;Sig Power • Lighthouse;Force Field;Battle Pack;Arena;0
 Shield of Zeus;Enhancement;N/A;Rare;Secret Origins;0
-Shiver Control;Power;Ice Control 1;Uncommon;Arena;2
+Shiver Control;Power;Ice Control 1;Uncommon;Arena;3
 Shiver Manipulation;Power • Conductress;Ice Manipulation 2;Battle Pack;Arena;0
 Shocking Grasp;Power;Electrical Manipulation 3;Rare;Arena;0
 Shockwave;Power;Claws 3;Virtual;Hamidon;0
@@ -572,7 +572,7 @@ Smite;Power;Dark Melee;Virtual;Hamidon;0
 Smoke Grenade;Power;Devices 1;Virtual;Hamidon;0
 Smoke;Power;Fire Control 1;Virtual;Hamidon;0
 Snake Spirit;Sig Power • Serpent Drummer;Martial Arts;Battle Pack;Arena;2
-Snap Shot;Power;Archery;Common;Arena;2
+Snap Shot;Power;Archery;Common;Arena;3
 Sniper Blast;Power;Energy Blast 1;Virtual;Hamidon;0
 Sniper Rifle;Power;Assault Rifle 2;Virtual;Hamidon;0
 Snow Storm;Power;Storm Summoning;Virtual;Hamidon;0
@@ -630,7 +630,7 @@ Swoop;Power • Aesir;Battle Axe 2;Battle Pack;Arena;2
 Synapse;Hero • Blaster;Electrical Blast • Electrical Manipulation • Speed;Battle Pack;Arena;1
 Synaptic Speed;Enhancement;;Rare;Arena;2
 Synaptic Strike;Sig Power • Synapse;Electrical Blast;Battle Pack;Arena;2
-Tactics;Power;Common Pool 4;Common;Arena;2
+Tactics;Power;Common Pool 4;Common;Arena;3
 Tanker Taunt;Power;Common Pool;Uncommon;Arena;3
 Tar Patch;Power;Dark Miasma;Virtual;Hamidon;0
 Targeting Drone;Power;Devices 2;Uncommon;Arena;1
@@ -677,7 +677,7 @@ Total Focus;Power;Energy Melee 3;Rare;Arena;2
 Touch of Fear;Power;Dark Melee 1;Uncommon;Arena;3
 Tough Customer;Edge;N/A;Common;Secret Origins;3
 Tough Hide;Power;Invulnerability 2;Virtual;Hamidon;0
-Tough;Power;Common Pool 4;Common;Arena;2
+Tough;Power;Common Pool 4;Common;Arena;3
 Trajectory;Hero • Controller;Gravity Control • Trick Arrow • Flight;Battle Pack;Arena;1
 Transference;Power;Kinetics 2;Virtual;Hamidon;0
 Transfusion;Power;Kinetics;Virtual;Hamidon;0
