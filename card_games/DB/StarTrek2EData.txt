@@ -773,8 +773,7 @@ Distant Exploration;P;Event;;Reflections 2.0;Print;3;0
 Distant Exploration;VP;Event;;Virtual Promo;Virtual;3;0
 Distracting Exhibition;R;Event;;To Boldly Go;Print;3;0
 Distraction;C;Dilemma;;In a Mirror Darkly;Print;3;0
-Distress Call;R;Dilemma;;These Are The Voyages;Print;3;0
-Distress Call;VP;Dilemma;;Virtual Promo;Virtual;3;0
+Distress Call;R/VP;Dilemma;;These Are The Voyages/Virtual Promo;Both;3;0
 Divergent Goals;V;Dilemma;;Symbiosis;Virtual;3;0
 Diversionary Tactics;V;Interrupt;;Peak Performance;Virtual;3;0
 Divide and Conquer;V;Dilemma;;Lower Decks;Virtual;3;3
@@ -784,9 +783,7 @@ Doctor Chaotica, Ruler of the Cosmos;V;Personnel;Non-Aligned;Caretaker;Virtual;3
 Dohlem;C;Personnel;Bajoran;Second Edition;Print;3;0
 Dokar;C;Personnel;Klingon;Second Edition;Print;3;2
 Dolak, Offended Neighbor;V;Personnel;Cardassian;Zero Hour;Virtual;3;0
-Dominion Battleship;B;Ship;Dominion;Borderless Promos;Virtual;3;0
-Dominion Battleship;P;Ship;Dominion;Reflections 2.0;Print;3;0
-Dominion Battleship;VP;Ship;Dominion;Virtual Promo;Virtual;3;0
+Dominion Battleship;B/P/VP;Ship;Dominion;Borderless Promos/Reflections 2.0/Virtual Promo;Both;3;0
 Dominion Galor;V;Ship;Dominion;Apocalypse Rising;Virtual;3;0
 Dominion Hierarchy;U;Interrupt;;These Are The Voyages;Print;3;0
 Don't Let It End This Way;C;Dilemma;;Call to Arms;Print;3;3
@@ -842,14 +839,9 @@ E.M.H. Program;C;Personnel;Federation;Strange New Worlds;Print;3;0
 Earring of Li Nalas;V;Equipment;;Extreme Measures;Virtual;3;0
 Earth Outpost 4, Border Incursion;V;Mission;;Sacrifice of Angels;Virtual;2;0
 Earth, Conduct Espionage;V;Mission;;The Omega Directive;Virtual;2;0
-Earth, Cradle of the Federation;S;Mission;;Second Edition;Print;2;0
-Earth, Cradle of the Federation;V;Mission;;Move Along Home;Virtual;1;0
-Earth, Cradle of the Federation;VP;Mission;;Virtual Promo;Virtual;3;0
-Earth, Home of Starfleet Command;U;Mission;;Second Edition;Print;2;0
-Earth, Home of Starfleet Command;V;Mission;;Move Along Home;Virtual;1;0
-Earth, Humanity's Home;U;Mission;;To Boldly Go;Print;2;0
-Earth, Humanity's Home;V;Mission;;Move Along Home;Virtual;1;0
-Earth, Humanity's Home;VP;Mission;;Virtual Promo;Virtual;3;0
+Earth, Cradle of the Federation;S/V/VP;Mission;;Second Edition/Move Along Home/Virtual Promo;Both;3;0
+Earth, Home of Starfleet Command;U/V;Mission;;Second Edition/Move Along Home;Both;2;0
+Earth, Humanity's Home;U/V/VP;Mission;;To Boldly Go/Move Along Home/Virtual Promo;Both;3;0
 Earth, Lush and Beautiful Home;U/V/VP;Mission;;These Are The Voyages/Move Along Home/Virtual Promo;Both;3;0
 Earth, Reject the Impure;V;Mission;;A Less Perfect Union;Virtual;2;0
 Earth, Stop First Contact;V;Mission;;Legacy;Virtual;2;0

@@ -13,6 +13,7 @@ import DragonDice
 import StarTrekSecondEdition
 import Tribbles
 import anachronism
+import wyvern
 import card_games.star_wars_unlimited as star_wars_unlimited
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -27,7 +28,7 @@ else:
 #print("\033[96mTest.\033[0m")
 
 started_games = [anachronism, DaemonDice, DragonDice, star_wars_unlimited, StarTrekSecondEdition,
-    Tribbles, city_of_heroes]
+    Tribbles, city_of_heroes, wyvern]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0

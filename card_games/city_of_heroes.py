@@ -60,10 +60,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/CityOfHeroesData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('card_games/DB/CityOfHeroesData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -89,43 +91,21 @@ for line in lines:
     item_list.append((card_name, card_type, card_powers, card_rarity, card_set, card_own, card_max))
 
 # Filter by set
-set_map = {}
-for item in item_list:
-    if item[4] not in set_map:
-        set_map[item[4]] = [0, 0]
-    set_map[item[4]][1] += item[6]
-    set_map[item[4]][0] += item[5]
-set_sorter = []
-for key in set_map:
-    set_sorter.append((key, set_map[key][0]/set_map[key][1], set_map[key][1] - set_map[key][0]))
-set_sorter = sorted(set_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_set = set_sorter[0][0]
-#print(chosen_set)
+chosen_set, filtered_list = sort_and_filter(item_list, 4)
 
 # Filter by card type
-filtered_list = []
-type_map = {}
-for item in item_list:
-    if chosen_set == item[4]:
-        filtered_list.append(item)
-        if item[1] not in type_map:
-            type_map[item[1]] = [0, 0]
-        type_map[item[1]][0] += item[5]
-        type_map[item[1]][1] += item[6]
-type_sorter = []
-for key in type_map:
-    type_sorter.append((key, type_map[key][0]/type_map[key][1], type_map[key][1] - type_map[key][0]))
-type_sorter = sorted(type_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_type = type_sorter[0][0]
+chosen_type, filtered_list = sort_and_filter(filtered_list, 1)
 #print(chosen_type)
 
-pick_list = []
-for item in filtered_list:
-    if item[1] == chosen_type:
-        pick_list.append(item)
-pick_list = sorted(pick_list, key=lambda x:(x[5]/x[6], -1*(x[5]-x[5]), x[0]))
-picked_item = pick_list[0]
-#print(picked_item)
+CHOSEN_POWER = ''
+if chosen_type == 'Power':
+    CHOSEN_POWER, filtered_list = sort_and_filter(filtered_list, 2)
+#print(CHOSEN_POWER)
+
+# Choose card
+pick_name, filtered_list = sort_and_filter(filtered_list, 0)
+#print(pick_name)
+picked_item = filtered_list[0]
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
