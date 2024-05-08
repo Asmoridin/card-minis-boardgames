@@ -12,7 +12,7 @@ def sort_and_filter(in_list:list, filter_index:int):
         raise ValueError("Invalid index for list")
     # Sanity check of list
     if in_list[0][-1] < in_list[0][-2]:
-        raise ValueError("List may be have own/max reversed")
+        raise ValueError("List may have own/max reversed")
     is_list = False
     if type(in_list[0][filter_index]) is list or type(in_list[0][filter_index]) is tuple:
         is_list = True
