@@ -142,7 +142,7 @@ for leader in valid_leaders:
         playable_leader_list.append((leader, 0))
     else:
         playable_leader_list.append((leader, sum(my_leader_wl[leader])))
-playable_army_list = sorted(playable_leader_list, key=lambda x:(x[1], x[0]))
+playable_leader_list = sorted(playable_leader_list, key=lambda x:(x[1], x[0]))
 least_leader = playable_leader_list[0][0]
 least_leader_games = playable_leader_list[0][1]
 

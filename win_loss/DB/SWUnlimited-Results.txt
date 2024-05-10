@@ -1,3 +1,7 @@
 Hera Syndulla, Spectre Two;R;Dan;Grand Admiral Thrawn, Patient and Insightful;R;W
 Luke Skywalker, Faithful Friend;Y;Elias;Darth Vader, Dark Lord of the Sith;G;W
 Darth Vader, Dark Lord of the Sith;G;Elias;Luke Skywalker, Faithful Friend;Y;W
+Director Krennic, Aspiring to Authority;Y;Matt;Iden Versio, Inferno Squad Commander;R;W
+Leia Organa, Alliance General;R;Elias;Luke Skywalker, Faithful Friend;Y;W
+Leia Organa, Alliance General;R;Matt;Iden Versio, Inferno Squad Commander;R;W
+Director Krennic, Aspiring to Authority;Y;Elias;Darth Vader, Dark Lord of the Sith;G;W
