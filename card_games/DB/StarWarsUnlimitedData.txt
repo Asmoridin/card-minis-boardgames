@@ -91,7 +91,7 @@ Devastator, Inescapable;SOR-090-L;Space Unit;G/B;0
 The Emperor’s Legion;SOR-091-R;Event;G/B;2
 Overwhelming Barrage;SOR-092-U;Event;G/B;3
 Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;3
-Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;G/W;1
+Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;G/W;2
 Battlefield Marine;SOR-095-C;Ground Unit;G/W;3
 Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;1
 Admiral Ackbar, Brilliant Strategist;SOR-097-R;Ground Unit;G/W;1
@@ -107,7 +107,7 @@ Attack Pattern Delta;SOR-106-U;Event;G;3 # 1x Foil, 1 hyperfoil
 Command;SOR-107-L;Event;G;1
 Vanguard Infantry;SOR-108-C;Ground Unit;G;3 #1 foil
 Colonel Yularen, ISB Director;SOR-109-U;Ground Unit;G;3
-Frontline Shuttle;SOR-110-R;Space Unit;G;0
+Frontline Shuttle;SOR-110-R;Space Unit;G;1
 Patrolling V-Wing;SOR-111-C;Space Unit;G;3
 Consortium StarViper;SOR-112-C;Space Unit;G;3
 Homestead Militia;SOR-113-C;Ground Unit;G;3 # 1 hyperspace
@@ -171,14 +171,14 @@ Power Failure;SOR-170-U;Event;R;1
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
 Open Fire;SOR-172-C;Event;R;3
 Bombing Run;SOR-173-R;Event;R;3
-Smoke and Cinders;SOR-174-R;Event;R;0
+Smoke and Cinders;SOR-174-R;Event;R;3
 Forced Surrender;SOR-175-U;Event;R;3
 ISB Agent;SOR-176-C;Ground Unit;Y/B;3
 Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;B/Y;3
 Cartel Spacer;SOR-178-U;Space Unit;B/Y;3 # 1 hyperspace
 Boba Fett, Disintegrator;SOR-179-L;Ground Unit;B/Y;1
 Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
-Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;0
+Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;1
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;B/Y;3
 Bounty Hunter Crew;SOR-183-C;Ground Unit;Y/B;3
 Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;0
@@ -209,7 +209,7 @@ Outer Rim Headhunter;SOR-208-C;Space Unit;Y;3
 Pirated Starfighter;SOR-209-U;Space Unit;Y;3
 Swoop Racer;SOR-210-C;Ground Unit;Y;3 # 1 hyperspace
 Gamorrean Guard;SOR-211-C;Ground Unit;Y;3
-Strafing Gunship;SOR-212-R;Space Unit;Y;0
+Strafing Gunship;SOR-212-R;Space Unit;Y;1
 Syndicate Lackeys;SOR-213-C;Ground Unit;Y;3 # 1 hyperspace foil
 Smuggling Compartment;SOR-214-U;Upgrade;Y;3
 Snapshot Reflexes;SOR-215-C;Upgrade;Y;3
