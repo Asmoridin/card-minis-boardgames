@@ -28,7 +28,7 @@ Kestro City;SOR-027-C;Base;R;1 # 1 hyperspace
 Jedha City;SOR-028-R;Base;Y;1
 Administrator’s Office;SOR-029-C;Base;Y;1 # 1 hyperspace
 Chopper Base;SOR-030-C;Base;Y;1 # 1 hyperspace
-Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;2
+Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;3
 Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;3
 Death Trooper;SOR-033-C;Ground Unit;U/B;3
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
@@ -55,7 +55,7 @@ Jedi Lightsaber;SOR-054-R;Upgrade;U/W;1
 The Force Is With Me;SOR-055-U;Event;U/W;3 # 1 foil
 Bendu, The One in the Middle;SOR-056-R;Ground Unit;U;2 #1 foil
 Protector;SOR-057-U;Upgrade;U;2
-Vigilance;SOR-058-L;Event;U;0
+Vigilance;SOR-058-L;Event;U;1
 2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1x foil
 Distant Patroller;SOR-060-U;Space Unit;U;3 # 1 foil
 Guardian of the Whills;SOR-061-C;Ground Unit;U;3 # 1 hyperspace
