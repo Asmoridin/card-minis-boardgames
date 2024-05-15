@@ -1,34 +1,34 @@
-Director Krennic, Aspiring to Authority;SOR-001-C;Leader;U/B;2 # 1 hyperspace
+Director Krennic, Aspiring to Authority;SOR-001-C;Leader;U/B;1 # 1 hyperspace
 Iden Versio, Inferno Squad Commander;SOR-002-R;Leader;U/B;1
-Chewbacca, Walking Carpet;SOR-003-C;Leader;U/W;2 # 1x hyperspace
+Chewbacca, Walking Carpet;SOR-003-C;Leader;U/W;1 # 1x hyperspace
 Chirrut Imwe, One with the Force;SOR-004-R;Leader;U/W;1
 Luke Skywalker, Faithful Friend;SOR-005-S;Leader;U/W;2 # Normal + Prerelease
 Emperor Palpatine, Galactic Ruler;SOR-006-R;Leader;G/B;2 # showcase
-Grand Moff Tarkin, Oversector Governor;SOR-007-C;Leader;G/B;2 # Regular + Hyperspace
+Grand Moff Tarkin, Oversector Governor;SOR-007-C;Leader;G/B;1 # Hyperspace
 Hera Syndulla, Spectre Two;SOR-008-R;Leader;G/W;1
 Leia Organa, Alliance General;SOR-009-C;Leader;G/W;1
 Darth Vader, Dark Lord of the Sith;SOR-010-S;Leader;R/B;2 # Normal + Prerelease
 Grand Inquisitor, Hunting the Jedi;SOR-011-R;Leader;R/B;1
 IG-88, Ruthless Bounty Hunter;SOR-012-C;Leader;R/B;1
 Cassian Andor, Dedicated to the Rebellion;SOR-013-R;Leader;R/W;1
-Sabine Wren, Galvanized Revolutionary;SOR-014-C;Leader;R/W;2 # regular + hyperspace
+Sabine Wren, Galvanized Revolutionary;SOR-014-C;Leader;R/W;1 # hyperspace
 Boba Fett, Collecting the Bounty;SOR-015-C;Leader;Y/B;1
 Grand Admiral Thrawn, Patient and Insightful;SOR-016-R;Leader;Y/B;1
 Han Solo, Audacious Smuggler;SOR-017-R;Leader;Y/W;1 # hyperspace
-Jyn Erso, Resisting Oppression;SOR-018-C;Leader;Y/W;2 # 1 hyperspace
+Jyn Erso, Resisting Oppression;SOR-018-C;Leader;Y/W;1 # 1 hyperspace
 Security Complex;SOR-019-R;Base;U;1 # foil
 Capital City;SOR-020-C;Base;U;1 # hyperspace
-Dagobah Swamp;SOR-021-C;Base;U;2 # 1 hyperspace
+Dagobah Swamp;SOR-021-C;Base;U;1 # 1 hyperspace
 Energy Conversion Lab;SOR-022-R;Base;G;1
-Command Center;SOR-023-C;Base;G;2 # 1 hyperspace, 1 normal
-Echo Base;SOR-024-C;Base;G;2 # 1 hyperspace
+Command Center;SOR-023-C;Base;G;1 # 1 hyperspace, 1 normal
+Echo Base;SOR-024-C;Base;G;1 # 1 hyperspace
 Tarkintown;SOR-025-R;Base;R;1
 Catacombs of Cadera;SOR-026-C;Base;R;1 # hyperspace
-Kestro City;SOR-027-C;Base;R;2 # 1 hyperspace
+Kestro City;SOR-027-C;Base;R;1 # 1 hyperspace
 Jedha City;SOR-028-R;Base;Y;1
-Administrator’s Office;SOR-029-C;Base;Y;2 # 1 hyperspace
-Chopper Base;SOR-030-C;Base;Y;2 # 1 hyperspace
-Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;1
+Administrator’s Office;SOR-029-C;Base;Y;1 # 1 hyperspace
+Chopper Base;SOR-030-C;Base;Y;1 # 1 hyperspace
+Inferno Four, Unforgetting;SOR-031-U;Space Unit;U/B;2
 Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;3
 Death Trooper;SOR-033-C;Ground Unit;U/B;3
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
@@ -53,7 +53,7 @@ Redemption, Medical Frigate;SOR-052-R;Space Unit;U/W;2
 Luke’s Lightsaber;SOR-053-S;Upgrade;U/W;3
 Jedi Lightsaber;SOR-054-R;Upgrade;U/W;1
 The Force Is With Me;SOR-055-U;Event;U/W;3 # 1 foil
-Bendu, The One in the Middle;SOR-056-R;Ground Unit;U;1
+Bendu, The One in the Middle;SOR-056-R;Ground Unit;U;2 #1 foil
 Protector;SOR-057-U;Upgrade;U;2
 Vigilance;SOR-058-L;Event;U;0
 2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1x foil
@@ -135,7 +135,7 @@ Ruthless Raider;SOR-134-U;Space Unit;R/B;3
 Emperor Palpatine, Master of the Dark Side;SOR-135-R;Ground Unit;R/B;2
 Vader's Lightsaber;SOR-136-S;Upgrade;R/B;3
 Fallen Lightsaber;SOR-137-R;Upgrade;R/B;0
-Force Lightning;SOR-138-L;Event;R/B;0
+Force Lightning;SOR-138-L;Event;R/B;1
 Force Choke;SOR-139-U;Event;R/B;3
 SpecForce Soldier;SOR-140-C;Ground Unit;R/W;3 # 1 hyperspace
 Green Squadron A-Wing;SOR-141-C;Space Unit;R/W;3
@@ -153,14 +153,14 @@ For a Cause I Believe In;SOR-152-R;Event;R/W;1
 Saw Gerrera, Extremist;SOR-153-R;Ground Unit;R;1
 Rallying Cry;SOR-154-U;Event;R;3
 Aggression;SOR-155-L;Event;R;1
-Benthic "Two Tubes", Partisan Lieutenant;SOR-156-U;Ground Unit;R;1
+Benthic "Two Tubes", Partisan Lieutenant;SOR-156-U;Ground Unit;R;2
 Cantina Braggart;SOR-157-C;Ground Unit;R;3 # 1 hyperspace foil
 Jedha Agitator;SOR-158-C;Ground Unit;R;3 # 1 hyperspace
 Partisan Insurgent;SOR-159-C;Ground Unit;R;3
 Wolffe, Suspicious Veteran;SOR-160-R;Ground Unit;R;1
 Ardent Sympathizer;SOR-161-C;Ground Unit;R;3
 Disabling Fang Fighter;SOR-162-C;Space Unit;R;3
-Star Wing Scout;SOR-163-U;Space Unit;R;2
+Star Wing Scout;SOR-163-U;Space Unit;R;3
 Wampa;SOR-164-C;Ground Unit;R;3
 Occupier Siege Tank;SOR-165-C;Ground Unit;R;3
 Infiltrator's Skill;SOR-166-C;Upgrade;R;3 # 1 foil
@@ -197,8 +197,8 @@ Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;3
 Lando Calrissian, Responsible Businessman;SOR-197-R;Ground Unit;W/Y;2
 Han Solo, Reluctant Hero;SOR-198-R;Ground Unit;W/Y;3 # 1 hyperspace
 Bamboozle;SOR-199-U;Event;W/Y;2 # 1 foil
-Spark of Rebellion;SOR-200-R;Event;W/Y;0
-Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;2 # 1 hyperspace
+Spark of Rebellion;SOR-200-R;Event;W/Y;1
+Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;3 # 1 hyperspace
 Cantina Bouncer;SOR-202-U;Ground Unit;Y;3 # 1 foil
 Cunning;SOR-203-L;Event;Y;0
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
@@ -248,5 +248,5 @@ Underworld Thug;SOR-247-C;Ground Unit;N;3 # 1 hyperspace
 Volunteer Soldier;SOR-248-C;Ground Unit;N;3
 Frontier AT-RT;SOR-249-C;Ground Unit;N;3
 Corellian Freighter;SOR-250-C;Space Unit;N;3
-Confiscate;SOR-251-C;Event;N;4 # 1 hyperspace, 1 foil
+Confiscate;SOR-251-C;Event;N;3 # 1 hyperspace, 1 foil
 Restock;SOR-252-C;Event;N;3
