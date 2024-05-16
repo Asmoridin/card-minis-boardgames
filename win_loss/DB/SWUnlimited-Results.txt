@@ -5,3 +5,6 @@ Director Krennic, Aspiring to Authority;Y;Matt;Iden Versio, Inferno Squad Comman
 Leia Organa, Alliance General;R;Elias;Luke Skywalker, Faithful Friend;Y;W
 Leia Organa, Alliance General;R;Matt;Iden Versio, Inferno Squad Commander;R;W
 Director Krennic, Aspiring to Authority;Y;Elias;Darth Vader, Dark Lord of the Sith;G;W
+Boba Fett, Collecting the Bounty;G;Dan;Leia Organa, Alliance General;R;L
+Boba Fett, Collecting the Bounty;G;Dan;Leia Organa, Alliance General;R;W
+Chirrut Imwe, One with the Force;R;Dan;Leia Organa, Alliance General;R;L
