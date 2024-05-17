@@ -12,6 +12,7 @@ modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions 
     'Zero Tolerance', 'Sentinels', 'Future Past', 'Brotherhood', 'Mystique', 'Acolytes', 
     'Military Grade', 'Mutant Slayers', 'Nasty Boys', 'Black Tom Cassidy', 'Flight', 'Super Strength', 'Telepathy', 'Extreme Measures', 'Mutant Insurrection', 
     'Infinites', 'Dystopian Nightmare', 'Hounds', 'Dark Riders', 'Blue Moon', 'Genosha', 'Savage Land', 'Celestial Tech', 'Clan Akkaba',
+    'Sauron', 
 ]
 mojo_encounters = ['Crime', 'Fantasy', 'Horror', 'Sci-Fi', 'Sitcom', 'Western']
 modular_encounters = modular_encounters + mojo_encounters
