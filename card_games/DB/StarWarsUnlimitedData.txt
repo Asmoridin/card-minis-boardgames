@@ -39,7 +39,7 @@ Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;U/B;2
 AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;2 # 1 hyperspace
 Avenger, Hunting Star Destroyer;SOR-040-L;Space Unit;U/B;1
 Power of the Dark Side;SOR-041-U;Event;U/B;2
-Search Your Feelings;SOR-042-R;Event;U/B;0
+Search Your Feelings;SOR-042-R;Event;U/B;1
 Superlaser Blast;SOR-043-L;Event;U/B;1
 Restored ARC-170;SOR-044-C;Space Unit;U/W;3
 Yoda, Old Master;SOR-045-U;Ground Unit;U/W;3 # 1 foil
@@ -82,7 +82,7 @@ Seasoned Shoretrooper;SOR-081-C;Ground Unit;G/B;3
 Emperor's Royal Guard;SOR-082-R;Ground Unit;G/B;2
 Superlaser Technician;SOR-083-C;Ground Unit;G/B;3 # 1 foil, 1 hyperspace
 Grand Moff Tarkin, Death Star Overseer;SOR-084-S;Ground Unit;G/B;3
-Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;0
+Rukh, Thrawn's Assassin;SOR-085-R;Ground Unit;G/B;1
 Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
 Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;G/B;1
 Blizzard Assault AT-AT;SOR-088-U;Ground Unit;G/B;3 # 1 foil
@@ -97,7 +97,7 @@ Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;1
 Admiral Ackbar, Brilliant Strategist;SOR-097-R;Ground Unit;G/W;1
 Echo Base Defender;SOR-098-C;Ground Unit;G/W;3
 Bright Hope, The Last Transport;SOR-099-U;Space Unit;G/W;1
-Wedge Antilles, Star of the Rebllion;SOR-100-R;Ground Unit;G/W;0
+Wedge Antilles, Star of the Rebllion;SOR-100-R;Ground Unit;G/W;2
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;3
 Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;2
 Rebel Assault;SOR-103-U;Event;G/W;3 # 1 hyperspace, 1 hyperspace foil, 1 hyperspace
@@ -134,7 +134,7 @@ Seventh Sister;SOR-133-R;Ground Unit;R/B;1
 Ruthless Raider;SOR-134-U;Space Unit;R/B;3
 Emperor Palpatine, Master of the Dark Side;SOR-135-R;Ground Unit;R/B;2
 Vader's Lightsaber;SOR-136-S;Upgrade;R/B;3
-Fallen Lightsaber;SOR-137-R;Upgrade;R/B;0
+Fallen Lightsaber;SOR-137-R;Upgrade;R/B;3
 Force Lightning;SOR-138-L;Event;R/B;1
 Force Choke;SOR-139-U;Event;R/B;3
 SpecForce Soldier;SOR-140-C;Ground Unit;R/W;3 # 1 hyperspace
@@ -144,7 +144,7 @@ Fighters for Freedom;SOR-143-U;Ground Unit;R/W;2 # 1 foil
 Red Three, Unstoppable;SOR-144-R;Space Unit;R/W;1
 K-2SO, Cassian's Counterpart;SOR-145-R;Ground Unit;R/W;1
 Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
-Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;R/W;0
+Black One, Scourge of Starkiller Base;SOR-147-L;Space Unit;R/W;1
 Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
 Mace Windu, Party Crasher;SOR-149-L;Ground Unit;R/W;2 # 1 foil
 Heroic Sacrifice;SOR-150-R;Event;R/W;1
@@ -200,7 +200,7 @@ Bamboozle;SOR-199-U;Event;W/Y;2 # 1 foil
 Spark of Rebellion;SOR-200-R;Event;W/Y;1
 Bodhi Rook, Imperial Defector;SOR-201-R;Ground Unit;Y;3 # 1 hyperspace
 Cantina Bouncer;SOR-202-U;Ground Unit;Y;3 # 1 foil
-Cunning;SOR-203-L;Event;Y;0
+Cunning;SOR-203-L;Event;Y;1
 Greedo, Slow on the Draw;SOR-204-U;Ground Unit;Y;3
 Jawa Scavenger;SOR-205-C;Ground Unit;Y;3 # 2 foil, 1 hyerspace
 Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3 # 1 foil
@@ -221,7 +221,7 @@ Surprise Strike;SOR-220-C;Event;Y;3
 Outmaneuver;SOR-221-U;Event;Y;1
 Waylay;SOR-222-C;Event;Y;3 # 1 foil
 Don't Get Cocky;SOR-223-R;Event;Y;1
-Change of Heart;SOR-224-L;Event;Y;0
+Change of Heart;SOR-224-L;Event;Y;1
 TIE/ln Fighter;SOR-225-C;Space Unit;B;3 # 1 hyperspace
 Admiral Motti, Brazen and Scornful;SOR-226-S;Ground Unit;B;3
 Snowtrooper Lieutenant;SOR-227-C;Ground Unit;B;3 # 1 hyperspace
