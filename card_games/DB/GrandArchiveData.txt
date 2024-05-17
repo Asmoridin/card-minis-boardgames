@@ -496,9 +496,9 @@ Novice Mechanist;Alchemical Revolution Starter Decks;Ally;Guardian;Norm;4
 Nullifying Lantern;Dawn of Ashes Alter Edition;Regalia Item;Cleric;Norm;0
 Nurture Crops;Mercurial Heart;Action;Cleric;Norm;0
 Oasis Trading Post;Alchemical Revolution;Domain;Warrior;Norm;0
-Obelisk of Armaments;Alchemical Revolution;Domain;Guardian;Neos;1;1
-Obelisk of Fabrication;Alchemical Revolution;Domain;Guardian;Neos;1;1
-Obelisk of Protection;Alchemical Revolution;Domain;Guardian;Neos;1;1
+Obelisk of Armaments;Alchemical Revolution;Domain;Guardian;Neos;1;1 # unique token
+Obelisk of Fabrication;Alchemical Revolution;Domain;Guardian;Neos;1;1 # unique token
+Obelisk of Protection;Alchemical Revolution;Domain;Guardian;Neos;1;1 # unique token
 Ocean's Blessing;Fractured Crown;Phantasia;Tamer;Water;0
 Ominous Shadow;Mercurial Heart;Ally;Assassin;Umbra;0
 Opening Cut;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Warrior;Norm;0
@@ -554,7 +554,7 @@ Prima Materia;Mercurial Heart;Item;Cleric;Astra;0
 Primordial Ritual;Mercurial Heart;Action;Cleric;Water;0
 Prismatic Edge;Dawn of Ashes Prelude/Dawn of Ashes Starter Decks;Regalia Weapon;Warrior;Crux;0
 Prismatic Sanctuary;Fractured Crown;Domain;Mage;Norm;0
-Prismatic Spirit;Fractured Crown Sealed Kit/Promo;Champion;Spirit;Norm;0
+Prismatic Spirit;Fractured Crown Sealed Kit/Promo;Champion;Spirit;Norm;0;1
 Prodigious Burstmage;Dawn of Ashes Alter Edition;Ally;Mage;Fire;0
 Protective Fractal;Fractured Crown;Phantasia;Cleric;Water;0
 Prototype Pistol;Alchemical Revolution Starter Decks;Regalia Weapon;Ranger;Norm;0
@@ -580,7 +580,7 @@ Raze the Land;Alchemical Revolution;Action;Guardian;Norm;0
 Razorvine;Alchemical Revolution;Item;Cleric;Norm;0
 Razorvine;Mercurial Heart;Item;Cleric;Norm;0
 Rebellious Bull;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Norm;0
-Reckless Conversion;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Mage;Arcane;0
+Reckless Conversion;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Mage;Arcane;0;1 # Banned in Standard
 Reckless Researcher;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Ally;Mage;Fire;0
 Reckless Slash;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Attack;Warrior;Norm;0
 Reclaim;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Wind;0
