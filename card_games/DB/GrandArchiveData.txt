@@ -117,7 +117,7 @@ Capricious Lynx;Fractured Crown;Ally;Tamer;Norm;0
 Captivating Cutthroat;Mercurial Heart;Ally;Assassin;Fire;0
 Careful Study;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Norm;0
 Caretaker Drone;Alchemical Revolution;Ally;Cleric;Norm;0
-Carnwennan, Shrouded Edge;Dawn of Ashes Alter Edition;Regalia Weapon;Assassin;Luxum;0
+Carnwennan, Shrouded Edge;Dawn of Ashes Alter Edition;Regalia Weapon;Assassin;Luxem;0
 Carter, Synthetic Reaper;Alchemical Revolution;Ally;Guardian/Ranger;Umbra;0
 Cascading Round;Alchemical Revolution;Regalia Item;Ranger;Water;0
 Celestial Calling;Alchemical Revolution;Action;Cleric;Astra;0
@@ -169,8 +169,8 @@ Cordelia, Aurous Kaiser;Mercurial Heart;Ally;Guardian;Neos;0
 Corhazi Arsonist;Fractured Crown;Ally;Assassin;Fire;0
 Corhazi Courier;Dawn of Ashes Alter Edition;Ally;Assassin;Fire;0
 Corhazi Infiltrator;Dawn of Ashes Alter Edition;Ally;Assassin;Luxem;0
-Corhazi Lightblade;Dawn of Ashes Alter Edition;Ally;Assasssin;Luxem;0
-Corhazi Outlook;Fractured Crown;Ally;Assain;Wind;0
+Corhazi Lightblade;Dawn of Ashes Alter Edition;Ally;Assassin;Luxem;0
+Corhazi Outlook;Fractured Crown;Ally;Assassin;Wind;0
 Corhazi Trapper;Fractured Crown;Ally;Assassin;Water;0
 Cosmic Astroscope;Alchemical Revolution Starter Decks;Regalia Item;Cleric;Astra;0
 Coup de Grace;Dawn of Ashes Alter Edition;Attack;Assassin;Norm;0
@@ -198,7 +198,7 @@ Dahlia, Idyllic Dreamer;Alchemical Revolution;Ally;Ranger;Water;0
 Dawn of Ashes;Fractured Crown;Domain;Cleric;Norm;0
 Debilitating Grasp;Mercurial Heart;Attack;Assassin;Umbra;0
 Deep Sea Beastbonder;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Water;0
-Deep Sea Fractal;Fractured Crown;Phatasia;Cleric;Water;0
+Deep Sea Fractal;Fractured Crown;Phantasia;Cleric;Water;0
 Deflecting Edge;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Warrior;Norm;0
 Dematerialize;Fractured Crown;Action;Cleric;Wind;0
 Demon's Aim;Alchemical Revolution;Action;Ranger;Umbra;0
@@ -307,7 +307,7 @@ Forgelight Shieldmaiden;Alchemical Revolution;Ally;Guardian;Fire;0
 Fortified Mana Shield;Alchemical Revolution Starter Decks;Action;Guardian;Norm;4
 Fractal of Creation;Alchemical Revolution;Phantasia;Mage;Neos;0
 Fractal of Insight;Fractured Crown;Phantasia;Mage;Norm;0
-Fractal of Intrusion;Fractured Crown;Phatasia;Cleric;Water;0
+Fractal of Intrusion;Fractured Crown;Phantasia;Cleric;Water;0
 Fractal of Rain;Mercurial Heart;Phantasia;Cleric;Water;0
 Fractal of Snow;Alchemical Revolution;Phantasia;Cleric;Water;0
 Fractured Crown;Fractured Crown;Regalia Item;Warrior;Luxem;0
@@ -509,7 +509,7 @@ Orb of Regret;Dawn of Ashes Alter Edition;Regalia Item;Cleric;Norm;0
 Orchestrated Seizure;Mercurial Heart;Action;Cleric;Wind;0
 Ordinary Bear;Fractured Crown;Ally;Tamer;Norm;0
 Organize the Alliance;Alchemical Revolution;Action;Guardian;Norm;0
-Ornamental Greatsword;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Weapon;Guardian/Warrior;0
+Ornamental Greatsword;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Weapon;Guardian/Warrior;Norm;0
 Overlord Mk III;Mercurial Heart;Ally;Guardian;Norm;0
 Overwhelming Swing;Alchemical Revolution;Attack;Guardian;Fire;0
 Owl Familiar;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Ally;Mage/Tamer;Norm;0
@@ -530,7 +530,7 @@ Plea for Peace;Alchemical Revolution;Action;Guardian;Norm;0
 Poised Strike;Dawn of Ashes Alter Edition;Attack;Assassin;Wind;0
 Poisoned Coating Oil;Dawn of Ashes Alter Edition;Regalia Item;Assassin;Norm;0
 Poisoned Dagger;Dawn of Ashes Alter Edition;Regalia Item;Assassin;Norm;0
-Polkhawk, Bombastic Shot;Alchemical Revolution;Champion;Champion;Ranger;Fire;0
+Polkhawk, Bombastic Shot;Alchemical Revolution;Champion;Ranger;Fire;0
 Port Smuggler;Dawn of Ashes Alter Edition;Ally;Assassin;Norm;0
 Portside Pirate;Mercurial Heart;Ally;Assassin;Water;0
 Possessed Remnant;Mercurial Heart;Ally;Assassin;Umbra;0
@@ -707,7 +707,7 @@ Spirit of Slime;Re: Collection Slime Sovereign;Champion;Spirit;Norm;0
 Spirit of Water;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Alchemical Revolution;Champion;Spirit;Water;0
 Spirit of Wind;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Alchemical Revolution;Champion;Spirit;Wind;1
 Spirit's Blessing;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Crux;0
-Spirited Falconer;Mercurial Heart;Ally;Tamer;0
+Spirited Falconer;Mercurial Heart;Ally;Tamer;Wind;0
 Spontaneous Combustion;Dawn of Ashes Alter Edition;Action;Mage;Fire;0
 Springleaf;Alchemical Revolution;Item;Cleric;Norm;0
 Springleaf;Mercurial Heart;Item;Cleric;Norm;0
@@ -759,7 +759,7 @@ Tempest Silverback;Dawn of Ashes Alter Edition;Ally;Tamer;Wind;0
 Temporal Spectrometer;Alchemical Revolution;Regalia Item;Cleric;Norm;0
 Tera Sight;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Tera;0
 Tether in Flames;Alchemical Revolution;Action;Cleric;Fire;0
-The Constellatory Spire;Alchemical Revolution;Domain;Cleric:Astra;0
+The Constellatory Spire;Alchemical Revolution;Domain;Cleric;Astra;0
 The Elysian Astrolabe;Alchemical Revolution;Regalia Item;Cleric;Astra;0
 The Eternal Kingdom;Alchemical Revolution;Domain;Guardian;Norm;0
 The Majestic Spirit;Fractured Crown;Regalia Ally;Mage;Crux;0
@@ -841,7 +841,7 @@ Winbless Gatekeeper;Alchemical Revolution;Ally;Guardian;Wind;0
 Winbless Hurricane Farm;Mercurial Heart;Domain;Guardian;Wind;0
 Winbless Kiteshield;Mercurial Heart;Regalia Item;Guardian;Wind;0
 Winbless Rangefinder;Mercurial Heart;Ally;Ranger;Wind;0
-Wind Cutter;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Ranger/Warror;Wind;0
+Wind Cutter;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Ranger/Warrior;Wind;0
 Wind Resonance Bauble;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;0
 Windmill Engineer;Mercurial Heart;Ally;Ranger;Wind;0
 Windpiercer;Mercurial Heart;Regalia Item;Ranger;Wind;0

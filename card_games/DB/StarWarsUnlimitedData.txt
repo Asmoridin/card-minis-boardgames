@@ -87,7 +87,7 @@ Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
 Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;G/B;1
 Blizzard Assault AT-AT;SOR-088-U;Ground Unit;G/B;3 # 1 foil
 Relentless, Konstantine’s Folly;SOR-089-R;Space Unit;G/B;1
-Devastator, Inescapable;SOR-090-L;Space Unit;G/B;0
+Devastator, Inescapable;SOR-090-L;Space Unit;G/B;1
 The Emperor’s Legion;SOR-091-R;Event;G/B;2
 Overwhelming Barrage;SOR-092-U;Event;G/B;3
 Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;3
@@ -119,7 +119,7 @@ Mercenary Company;SOR-117-C;Ground Unit;G;3
 Reinforcement Walker;SOR-119-U;Ground Unit;G;3
 Academy Training;SOR-120-C;Upgrade;G;3
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
-Traitorous;SOR-122-R;Upgrade;G;0
+Traitorous;SOR-122-R;Upgrade;G;1
 Recruit;SOR-123-C;Event;G;3 # 2 foil, 1 hyperspace
 Tactical Advantage;SOR-124-C;Event;G;3
 Prepare for Takeoff;SOR-125-C;Event;G;2
@@ -181,7 +181,7 @@ Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
 Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;1
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;B/Y;3
 Bounty Hunter Crew;SOR-183-C;Ground Unit;Y/B;3
-Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;0
+Fett's Firespray, Pursuing the Bounty;SOR-184-R;Space Unit;B/Y;1
 Chimaera, Flagship of the Seventh Fleet;SOR-185-R;Space Unit;B/Y;1
 No Good to Me Dead;SOR-186-U;Event;B/Y;3 # 1 foil
 I Had No Choice;SOR-187-R;Event;B/Y;1 # 1 foil
