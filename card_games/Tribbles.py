@@ -72,6 +72,6 @@ if __name__ == "__main__":
         out_file_h = open("card_games/output/TribblesOut.txt", 'w')
     else:
         out_file_h = open("output/TribblesOut.txt", 'w')
-    
+
     double_print("Have %d out of %d Tribbles cards - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100*TOTAL_OWN / TOTAL_MAX), out_file_h)
     double_print("Next purchase sould be %s - %s, where I have %.2f percent" % (lowest_card_qty, lowest_card_power, card_qty_sorter[0][1] * 100), out_file_h)

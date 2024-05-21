@@ -32,19 +32,23 @@ lines = [line.strip() for line in lines]
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
+card_names = set()
 item_list = []
 for line in lines:
     line = line.split('#')[0].strip()
-    temp_max = 0
+    TEMP_MAX = 0
     if line.count(';') == 5:
         card_name, card_sets, card_subtype, card_class, card_element, card_own = line.split(';')
     elif line.count(';') == 6:
-        card_name, card_sets, card_subtype, card_class, card_element, card_own, temp_max = line.split(';')
-        temp_max = int(temp_max)
+        card_name, card_sets, card_subtype, card_class, card_element, card_own, TEMP_MAX = line.split(';')
+        TEMP_MAX = int(TEMP_MAX)
     else:
         print("Invalid line:")
         print(line)
         continue
+    if card_name in card_names:
+        print("Duplicate card name: " + card_name)
+    card_names.add(card_name)
     if card_subtype not in valid_subtypes:
         print("Invalid card subtype: " + card_subtype)
     card_class = card_class.split('/')
@@ -58,8 +62,10 @@ for line in lines:
     CARD_MAX = 4
     if card_subtype in ['Champion', 'Regalia Weapon', 'Regalia Item', 'Regalia Ally']:
         CARD_MAX = 1
-    if temp_max != 0:
-        CARD_MAX = temp_max
+    if TEMP_MAX != 0:
+        CARD_MAX = TEMP_MAX
+    if card_own > CARD_MAX:
+        CARD_MAX = card_own
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
     item_list.append((card_name, card_sets, card_subtype, card_class, card_element, card_own, CARD_MAX))

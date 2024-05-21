@@ -1,10 +1,18 @@
 #!/usr/bin/python3
 
-import sys, os
+"""
+Collection tracker/manager for the Wyvern card game
+"""
+
+import os
+import sys
 
 GAME_NAME = "Wyvern"
 
 def get_sets(in_sets):
+    """
+    Break my set string into a list of sets, and validate them.
+    """
     ret_sets = []
     in_sets = in_sets.split('/')
     for in_set in in_sets:
