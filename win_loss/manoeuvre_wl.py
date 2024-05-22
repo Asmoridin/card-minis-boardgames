@@ -115,7 +115,8 @@ for army in army_games_map:
         min_seen_armies = [army]
     elif army_games_map[army] == MIN_SEEN:
         min_seen_armies.append(army)
-double_print(f"\nI've seen these armies on the table the least {MIN_SEEN} times: {', '.join(sorted(min_seen_armies))}", out_file_h)
+double_print(f"\nI've seen these armies on the table the least {MIN_SEEN} times: " + \
+    f"{', '.join(sorted(min_seen_armies))}", out_file_h)
 
 playable_army_list = []
 for army in armies:

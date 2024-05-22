@@ -134,7 +134,8 @@ for leader in leader_games_map:
         min_seen_leaders = [leader]
     elif leader_games_map[leader] == MIN_SEEN:
         min_seen_leaders.append(leader)
-double_print(f"\nI've seen these leaders on the table the least ({MIN_SEEN} times): {'; '.join(sorted(min_seen_leaders))}", out_file_h)
+double_print(f"\nI've seen these leaders on the table the least ({MIN_SEEN} times): " + \
+    f"{'; '.join(sorted(min_seen_leaders))}", out_file_h)
 
 playable_leader_list = []
 for leader in valid_leaders:

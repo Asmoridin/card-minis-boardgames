@@ -95,5 +95,6 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/ST2EOut.txt", 'w')
     
-    double_print("Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, TOTAL_OWN * 100/TOTAL_MAX), out_file_h)
+    total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
+    double_print(total_string, out_file_h)
     double_print("Buy a %s from %s, maybe %s (have %d out of %d)" % (final_card[2], chosen_set, final_card[5], final_card[7], final_card[6]), out_file_h)

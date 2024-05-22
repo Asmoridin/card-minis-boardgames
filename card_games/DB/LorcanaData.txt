@@ -2,7 +2,7 @@
 A Pirate's Life ;Action;Ruby;Ursula's Return;Uncommon;0
 A Whole New World;Action;Steel;The First Chapter;Super Rare;0
 Abu - Mischievous Monkey;Character;Ruby;The First Chapter;Common;0
-Agrabah - Marketplace;Location;Ruby;Into the Inklands;Common;0
+Agrabah - Marketplace;Location;Ruby;Into the Inklands;Common;3
 Agustin Madrigal - Clumsy Dad ;Character;Amber;Ursula's Return;Common;0
 Airfoil;Item;Emerald;Into the Inklands;Common;0
 Aladdin - Brave Rescuer ;Character;Steel;Ursula's Return;Uncommon;0
@@ -69,11 +69,11 @@ Belle - Strange but Special;Character;Sapphire;The First Chapter;Legendary;0
 Belle - Untrained Mystic;Character;Amethyst;Ursula's Return;Common;0
 Belle’s House - Maurice’s Workshop;Location;Sapphire;Into the Inklands;Rare;0
 Benja - Bold Uniter;Character;Ruby;Ursula's Return;Common;0
-Benja - Guardian of the Dragon Gem;Character;Steel;Rise of the Floodborn;Common;0
+Benja - Guardian of the Dragon Gem;Character;Steel;Rise of the Floodborn;Common;1
 Bernard - Brand-New Agent;Character;Amber;Into the Inklands;Rare;0
 Bestow a Gift;Action;Amethyst;Into the Inklands;Common;0
 Bibbidi Bobbidi Boo;Action;Emerald;Rise of the Floodborn;Rare;0
-Billy Bones - Keeper of the Map;Character;Ruby;Into the Inklands;Common;0
+Billy Bones - Keeper of the Map;Character;Ruby;Into the Inklands;Common;1
 Binding Contract;Item;Amethyst;Rise of the Floodborn;Uncommon;0
 Blue Fairy - Rewarding Good Deeds;Character;Amethyst;Rise of the Floodborn;Uncommon;0
 Boss’s Orders;Action;Amber;Into the Inklands;Common;0
@@ -99,10 +99,10 @@ Casa Madrigal - Casita ;Location;Amethyst;Ursula's Return;Common;0
 Caterpillar - Calm and Collected;Character;Sapphire;Rise of the Floodborn;Uncommon;0
 Cerberus - Three-Headed Dog;Character;Steel;The First Chapter;Common;0
 Charge!;Action;Steel;Rise of the Floodborn;Common;0
-Chernabog - Evildoer;Character;Amber;Into the Inklands;Super Rare;0
+Chernabog - Evildoer;Character;Amber;Into the Inklands;Super Rare;1
 Chernabog’s Followers - Creatures of Evil;Character;Amethyst;Into the Inklands;Uncommon;0
 Cheshire Cat - Always Grinning;Character;Emerald;Rise of the Floodborn;Uncommon;0
-Cheshire Cat - From the Shadows;Character;Emerald;Rise of the Floodborn;Super Rare;0
+Cheshire Cat - From the Shadows;Character;Emerald;Rise of the Floodborn;Super Rare;1
 Cheshire Cat - Not All There;Character;Emerald;The First Chapter;Uncommon;0
 Chi-Fu - Imperial Advisor ;Character;Steel;Ursula's Return;Uncommon;0
 Chief Bogo - Respected Officer;Character;Steel;Rise of the Floodborn;Rare;0
@@ -121,7 +121,7 @@ Cobra Bubbles - Just a Social Worker;Character;Amber;Rise of the Floodborn;Rare;
 Coconut Basket;Item;Sapphire;The First Chapter;Uncommon;3
 Cogsworth - Grandfather Clock;Character;Sapphire;Rise of the Floodborn;Super Rare;0
 Cogsworth - Majordomo;Character;Amber;Ursula's Return;Common;0
-Cogsworth - Talking Clock;Character;Sapphire;Rise of the Floodborn;Uncommon;0
+Cogsworth - Talking Clock;Character;Sapphire;Rise of the Floodborn;Uncommon;2
 Control Your Temper!;Action;Amber;The First Chapter;Common;2
 Cri-Kee - Lucky Cricket ;Character;Emerald;Ursula's Return;Rare;0
 Croquet Mallet;Item;Amethyst;Rise of the Floodborn;Common;0
@@ -141,9 +141,9 @@ Dalmatian Puppy - Tail Wagger (d);Character;Amber;Into the Inklands;Common;0
 Dalmatian Puppy - Tail Wagger (e);Character;Amber;Into the Inklands;Common;0
 Dang Hu - Talon Chief ;Character;Sapphire;Ursula's Return;Rare;0
 De Vil Manor - Cruella’s Estate;Location;Emerald;Into the Inklands;Common;0
-Della Duck - Unstoppable Mom;Character;Ruby;Into the Inklands;Common;0
+Della Duck - Unstoppable Mom;Character;Ruby;Into the Inklands;Common;3
 Develop Your Brain;Action;Sapphire;The First Chapter;Common;3
-Dewey - Showy Nephew;Character;Sapphire;Into the Inklands;Uncommon;0
+Dewey - Showy Nephew;Character;Sapphire;Into the Inklands;Uncommon;2
 Diablo - Devoted Herald ;Character;Emerald;Ursula's Return;Legendary;0
 Diablo - Faithful Pet;Character;Amethyst;Into the Inklands;Common;0
 Diablo - Maleficent's Spy;Character;Emerald;Ursula's Return;Common;0
@@ -175,7 +175,7 @@ Dr. Facilier - Savvy Opportunist;Character;Amethyst;Rise of the Floodborn;Common
 Dr. Facilier's Cards;Item;Emerald;The First Chapter;Uncommon;0
 Dragon Fire;Action;Ruby;The First Chapter;Uncommon;4
 Dragon Gem;Item;Amber;Rise of the Floodborn;Rare;0
-Duke Weaselton - Small-Time Crook;Character;Sapphire;Rise of the Floodborn;Common;0
+Duke Weaselton - Small-Time Crook;Character;Sapphire;Rise of the Floodborn;Common;2
 Duke of Weselton - Opportunistic Official;Character;Emerald;The First Chapter;Common;2
 Eeyore - Overstuffed Donkey;Character;Steel;Into the Inklands;Common;0
 Eli La Bouff - Big Daddy;Character;Steel;Rise of the Floodborn;Uncommon;0
@@ -204,13 +204,13 @@ Field of Ice ;Item;Sapphire;Ursula's Return;Rare;0
 Fire the Cannons!;Action;Steel;The First Chapter;Common;3
 First Aid;Action;Amber;Ursula's Return;Common;0
 Fishbone Quill;Item;Sapphire;The First Chapter;Rare;0
-Flintheart Glomgold - Lone Cheater;Character;Sapphire;Into the Inklands;Uncommon;0
+Flintheart Glomgold - Lone Cheater;Character;Sapphire;Into the Inklands;Uncommon;2
 Flotsam & Jetsam - Entangling Eels ;Character;Amethyst;Ursula's Return;Uncommon;0
 Flotsam - Riffraff;Character;Emerald;Into the Inklands;Common;0
 Flotsam - Ursula's "Baby" ;Character;Amethyst;Ursula's Return;Uncommon;0
 Flotsam - Ursula's Spy;Character;Amethyst;The First Chapter;Rare;1
 Flounder - Collector's Companion ;Character;Sapphire;Ursula's Return;Uncommon;0
-Flounder - Voice of Reason;Character;Sapphire;The First Chapter;Common;2
+Flounder - Voice of Reason;Character;Sapphire;The First Chapter;Common;4
 Flynn - Frenemy;Character;Ruby;Ursula's Return;Super Rare;0
 Flynn Rider - Charming Rogue;Character;Emerald;The First Chapter;Uncommon;0
 Flynn Rider - Confident Vagabond;Character;Emerald;Rise of the Floodborn;Common;0
@@ -228,13 +228,13 @@ Gaston - Arrogant Hunter;Character;Ruby;The First Chapter;Common;2
 Gaston - Baritone Bully;Character;Amber;Rise of the Floodborn;Uncommon;0
 Gaston - Despicable Dealer;Character;Amber;Ursula's Return;Super Rare;0
 Gaston - Intellectual Powerhouse;Character;Sapphire;Rise of the Floodborn;Rare;0
-Gaston - Scheming Suitor;Character;Emerald;Rise of the Floodborn;Common;0
+Gaston - Scheming Suitor;Character;Emerald;Rise of the Floodborn;Common;1
 Genie - Cramped in the Lamp;Character;Sapphire;Into the Inklands;Uncommon;0
 Genie - On the Job;Character;Emerald;The First Chapter;Super Rare;0
 Genie - Powers Unleashed;Character;Emerald;The First Chapter;Rare;0
-Genie - Supportive Friend;Character;Amethyst;Into the Inklands;Super Rare;0
+Genie - Supportive Friend;Character;Amethyst;Into the Inklands;Super Rare;1
 Genie - The Ever Impressive;Character;Emerald;The First Chapter;Common;0
-Gizmosuit;Item;Steel;Into the Inklands;Common;0
+Gizmosuit;Item;Steel;Into the Inklands;Common;1
 Glean;Action;Sapphire;Ursula's Return;Common;0
 Go the Distance;Action;Ruby;Rise of the Floodborn;Common;0
 Golden Harp - Enchanter of the Land ;Character;Amber;Ursula's Return;Rare;0
@@ -245,7 +245,7 @@ Goofy - Musketeer;Character;Amber;The First Chapter;Uncommon;1
 Goofy - Super Goof ;Character;Ruby;Ursula's Return;Rare;0
 Goons - Maleficent's Underlings;Character;Steel;The First Chapter;Common;2
 Grab Your Sword;Action;Steel;The First Chapter;Rare;1
-Gramma Tala - Keeper of Ancient Stories;Character;Sapphire;Into the Inklands;Common;0
+Gramma Tala - Keeper of Ancient Stories;Character;Sapphire;Into the Inklands;Common;3
 Gramma Tala - Spirit of the Ocean;Character;Sapphire;Into the Inklands;Legendary;0
 Gramma Tala - Storyteller;Character;Sapphire;The First Chapter;Uncommon;2
 Grand Duke - Advisor to the King;Character;Amber;Rise of the Floodborn;Rare;0
@@ -253,11 +253,11 @@ Grand Pabbie - Oldest and Wisest;Character;Sapphire;Rise of the Floodborn;Super 
 Great Stone Dragon ;Item;Sapphire;Ursula's Return;Uncommon;0
 Gruesome and Grim;Action;Amethyst;Rise of the Floodborn;Rare;0
 Grumpy - Bad-Tempered;Character;Amber;Rise of the Floodborn;Common;0
-Gumbo Pot;Item;Sapphire;Rise of the Floodborn;Common;0
+Gumbo Pot;Item;Sapphire;Rise of the Floodborn;Common;1
 Gunther - Interior Designer ;Character;Emerald;Ursula's Return;Common;0
 Gus - Champion of Cheese ;Character;Emerald;Ursula's Return;Common;0
 Gustav the Giant - Terror of the Kingdom;Character;Steel;Into the Inklands;Rare;0
-Gyro Gearloose - Gadget Whiz;Character;Sapphire;Into the Inklands;Rare;0
+Gyro Gearloose - Gadget Whiz;Character;Sapphire;Into the Inklands;Rare;1
 Hades - Double Dealer;Character;Emerald;Ursula's Return;Legendary;0
 Hades - Hotheaded Ruler;Character;Steel;Into the Inklands;Rare;0
 Hades - Infernal Schemer;Character;Sapphire;The First Chapter;Legendary;0
@@ -275,10 +275,10 @@ Heal What Has Been Hurt;Action;Amber;Into the Inklands;Common;0
 Healing Glow;Action;Amber;The First Chapter;Common;0
 Heart of Atlantis;Item;Amber;Into the Inklands;Rare;0
 Heart of Te Fiti;Item;Sapphire;Into the Inklands;Rare;0
-Heihei - Accidental Explorer;Character;Ruby;Into the Inklands;Uncommon;0
+Heihei - Accidental Explorer;Character;Ruby;Into the Inklands;Uncommon;3
 Heihei - Boat Snack;Character;Amber;The First Chapter;Common;2
 Heihei - Bumbling Rooster;Character;Emerald;Ursula's Return;Uncommon;0
-Heihei - Persistent Presence;Character;Amethyst;Rise of the Floodborn;Uncommon;0
+Heihei - Persistent Presence;Character;Amethyst;Rise of the Floodborn;Uncommon;1
 Helga Sinclair - Femme Fatale;Character;Emerald;Into the Inklands;Super Rare;0
 Helga Sinclair - Right-Hand Woman;Character;Steel;Into the Inklands;Common;0
 Helga Sinclair - Vengeful Partner;Character;Emerald;Into the Inklands;Rare;0
@@ -287,7 +287,7 @@ Hercules - Beloved Hero ;Character;Steel;Ursula's Return;Rare;0
 Hercules - Clumsy Kid ;Character;Ruby;Ursula's Return;Common;0
 Hercules - Daring Demigod;Character;Ruby;Ursula's Return;Uncommon;0
 Hercules - Divine Hero;Character;Steel;Rise of the Floodborn;Rare;0
-Hercules - Hero in Training;Character;Steel;Rise of the Floodborn;Common;0
+Hercules - Hero in Training;Character;Steel;Rise of the Floodborn;Common;1
 Hercules - True Hero;Character;Steel;The First Chapter;Common;3
 Hidden Cove - Tranquil Haven;Location;Emerald;Ursula's Return;Common;0
 Hidden Inkcaster ;Item;Emerald;Ursula's Return;Common;0
@@ -296,14 +296,14 @@ Hold Still;Action;Amber;Rise of the Floodborn;Common;0
 Honest John - Not That Honest;Character;Ruby;Rise of the Floodborn;Rare;0
 Horace - No-Good Soundrel;Character;Emerald;The First Chapter;Common;4
 How Far I’ll Go;Action;Sapphire;Into the Inklands;Uncommon;0
-Huey - Savvy Nephew;Character;Sapphire;Into the Inklands;Rare;0
+Huey - Savvy Nephew;Character;Sapphire;Into the Inklands;Rare;1
 Hydra - Deadly Serpent;Character;Ruby;Into the Inklands;Legendary;0
 Hydros - Ice Titan;Character;Amethyst;Into the Inklands;Uncommon;0
 Hypnotize;Action;Emerald;Rise of the Floodborn;Common;0
 I Find ’em - I Flatten ’em;Action;Steel;Ursula's Return;Uncommon;0
 I Will Find My Way;Action;Emerald;Into the Inklands;Common;0
 Iago - Loud-Mouthed Parrot;Character;Emerald;The First Chapter;Rare;1
-Iago - Pretty Polly;Character;Amethyst;Into the Inklands;Common;0
+Iago - Pretty Polly;Character;Amethyst;Into the Inklands;Common;1
 Ice Block;Item;Sapphire;Ursula's Return;Common;0
 Iduna - Caring Mother;Character;Sapphire;Ursula's Return;Uncommon;0
 If It's Not Baroque;Action;Sapphire;The First Chapter;Rare;0
@@ -342,7 +342,7 @@ Judy Hopps - Optimistic Officer;Character;Sapphire;Rise of the Floodborn;Uncommo
 Julieta Madrigal - Excellent Cook ;Character;Amber;Ursula's Return;Uncommon;0
 Jumba Jookiba - Renegade Scientist;Character;Emerald;The First Chapter;Uncommon;0
 Just in Time;Action;Amber;The First Chapter;Rare;0
-Kakamora - Menacing Sailor;Character;Ruby;Into the Inklands;Common;0
+Kakamora - Menacing Sailor;Character;Ruby;Into the Inklands;Common;4
 Ket the Storm Rage On;Action;Steel;Rise of the Floodborn;Common;0
 Khan - Beloved Steed ;Character;Ruby;Ursula's Return;Uncommon;0
 Kida - Atlantean;Character;Amber;Into the Inklands;Common;0
@@ -371,7 +371,7 @@ Lawrence - Jealous Manservant;Character;Steel;Rise of the Floodborn;Uncommon;0
 LeFou - Opportunistic Flunky ;Character;Steel;Ursula's Return;Rare;0
 Lefou - Bumbler;Character;Amber;The First Chapter;Uncommon;1
 Lefou - Instigator;Character;Ruby;The First Chapter;Rare;1
-Legend of the Sword in the Stone;Action;Amethyst;Rise of the Floodborn;Common;0
+Legend of the Sword in the Stone;Action;Amethyst;Rise of the Floodborn;Common;1
 Lena Sabrewing - Rebellious Teenager;Character;Amethyst;Into the Inklands;Common;0
 Let it Go;Action;Sapphire;The First Chapter;Rare;1
 Li Shang - Archery Instructor;Character;Steel;Rise of the Floodborn;Uncommon;0
@@ -386,7 +386,7 @@ Little John - Resourceful Outlaw;Character;Steel;Into the Inklands;Super Rare;0
 Little John - Robin’s Pal;Character;Steel;Into the Inklands;Uncommon;0
 Look at this Family ;Action;Amber;Ursula's Return;Rare;0
 Lost in the Woods ;Action;Amber;Ursula's Return;Uncommon;0
-Louie - Chill Nephew;Character;Sapphire;Into the Inklands;Common;0
+Louie - Chill Nephew;Character;Sapphire;Into the Inklands;Common;3
 Lucifer - Cunning Cat;Character;Emerald;Rise of the Floodborn;Rare;0
 Lucky - The 15th Puppy;Character;Amber;Into the Inklands;Rare;0
 Lucky Dime;Item;Sapphire;Into the Inklands;Legendary;0
@@ -418,7 +418,7 @@ Magica De Spell - Ambitious Witch;Character;Amethyst;Into the Inklands;Common;0
 Magica De Spell - The Midas Touch;Character;Amethyst;Into the Inklands;Super Rare;0
 Magica De Spell - Thieving Sorceress;Character;Amethyst;Into the Inklands;Uncommon;0
 Magical Maid - Feather Duster;Character;Amethyst;Ursula's Return;Uncommon;0
-Maid Marian - Delightful Dreamer;Character;Sapphire;Into the Inklands;Common;0
+Maid Marian - Delightful Dreamer;Character;Sapphire;Into the Inklands;Common;3
 Make The Potion;Action;Emerald;Ursula's Return;Common;0
 Maleficent - Biding Her Time;Character;Amethyst;The First Chapter;Rare;0
 Maleficent - Mistress of All Evil;Character;Amethyst;Into the Inklands;Legendary;0
@@ -433,9 +433,9 @@ Marshmallow - Persistent Guardian;Character;Amethyst;The First Chapter;Super Rar
 Marshmallow - Terrifying Snowman ;Character;Amethyst;Ursula's Return;Uncommon;0
 Maui - Demigod;Character;Steel;The First Chapter;Rare;1
 Maui - Hero to All;Character;Ruby;The First Chapter;Rare;0
-Maui - Soaring Demigod;Character;Ruby;Into the Inklands;Uncommon;0
+Maui - Soaring Demigod;Character;Ruby;Into the Inklands;Uncommon;3
 Maui - Whale;Character;Ruby;Into the Inklands;Rare;0
-Maui’s Fish Hook;Item;Ruby;Into the Inklands;Rare;0
+Maui’s Fish Hook;Item;Ruby;Into the Inklands;Rare;1
 Maui’s Palace of Exile - Hidden Island;Location;Steel;Into the Inklands;Rare;0
 Maurice - World-Famous Inventor;Character;Sapphire;The First Chapter;Rare;1
 Maurice’s Workshop;Item;Sapphire;Rise of the Floodborn;Rare;0
@@ -470,27 +470,27 @@ Mickey Mouse - Wayward Sorcerer;Character;Amethyst;The First Chapter;Super Rare;
 Milo Thatch - Clever Cartographer;Character;Emerald;Into the Inklands;Common;0
 Milo Thatch - King of Atlantis;Character;Emerald;Into the Inklands;Legendary;0
 Milo Thatch - Spirited Scholar;Character;Ruby;Into the Inklands;Common;0
-Minnie Mouse - Always Classy;Character;Ruby;The First Chapter;Common;0
+Minnie Mouse - Always Classy;Character;Ruby;The First Chapter;Common;2
 Minnie Mouse - Beloved Princess;Character;Amber;The First Chapter;Common;4
 Minnie Mouse - Funky Spelunker;Character;Steel;Into the Inklands;Common;0
 Minnie Mouse - Musical Artist;Character;Amber;Into the Inklands;Rare;0
 Minnie Mouse - Musketeer Champion ;Character;Amber;Ursula's Return;Super Rare;0
 Minnie Mouse - Stylish Surfer;Character;Ruby;Rise of the Floodborn;Uncommon;0
-Minnie Mouse - Wide-Eyed Diver;Character;Ruby;Rise of the Floodborn;Rare;0
+Minnie Mouse - Wide-Eyed Diver;Character;Ruby;Rise of the Floodborn;Rare;1
 Minnie Mouse - Zipping Around;Character;Ruby;Rise of the Floodborn;Common;0
 Mirabel Madrigal - Gift of the Family ;Character;Amber;Ursula's Return;Super Rare;0
 Mirabel Madrigal - Prophecy Finder ;Character;Amber;Ursula's Return;Common;0
 Miracle Candle ;Item;Amber;Ursula's Return;Rare;0
 Miss Bianca - Rescue Aid Society Agent;Character;Amber;Into the Inklands;Common;0
-Moana - Born Leader;Character;Ruby;Into the Inklands;Rare;0
+Moana - Born Leader;Character;Ruby;Into the Inklands;Rare;1
 Moana - Chosen by the Ocean;Character;Ruby;The First Chapter;Uncommon;1
 Moana - Of Motunui;Character;Amber;The First Chapter;Rare;1
-Moana - Undeterred Voyager;Character;Ruby;Into the Inklands;Common;0
+Moana - Undeterred Voyager;Character;Ruby;Into the Inklands;Common;3
 Morph - Space Goo;Character;Emerald;Into the Inklands;Rare;0
 Mother Gothel - Selfish Manipulator;Character;Emerald;The First Chapter;Super Rare;0
 Mother Gothel - Withered and Wicked;Character;Ruby;Rise of the Floodborn;Uncommon;0
 Mother Knows Best;Action;Emerald;The First Chapter;Uncommon;3
-Motunui - Island Paradise;Location;Sapphire;Into the Inklands;Uncommon;0
+Motunui - Island Paradise;Location;Sapphire;Into the Inklands;Uncommon;2
 Mouse Armor;Item;Steel;Rise of the Floodborn;Uncommon;0
 Mr. Smee - Bumbling Mate;Character;Steel;Into the Inklands;Uncommon;0
 Mr. Smee - Loyal First Mate;Character;Amber;The First Chapter;Common;0
@@ -510,7 +510,7 @@ Mulan - Reflecting;Character;Amber;Rise of the Floodborn;Rare;0
 Mulan - Soldier in Training;Character;Ruby;Rise of the Floodborn;Common;0
 Musketeer Tabard;Item;Steel;The First Chapter;Rare;0
 Mystical Rose ;Item;Amethyst;Ursula's Return;Rare;0
-Nala - Fierce Friend;Character;Steel;Into the Inklands;Uncommon;0
+Nala - Fierce Friend;Character;Steel;Into the Inklands;Uncommon;1
 Namaari - Heir of Fang ;Character;Ruby;Ursula's Return;Rare;0
 Namaari - Morning Mist;Character;Steel;Rise of the Floodborn;Legendary;0
 Namaari - Nemesis;Character;Ruby;Rise of the Floodborn;Super Rare;0
@@ -531,7 +531,7 @@ Olympus Would Be That Way;Action;Steel;Into the Inklands;Common;0
 On Your Feet! Now!;Action;Ruby;Into the Inklands;Rare;0
 One Jump Ahead;Action;Sapphire;The First Chapter;Uncommon;2
 One Last Hope ;Action;Steel;Ursula's Return;Rare;0
-Orville - Ace Pilot;Character;Amber;Into the Inklands;Common;0
+Orville - Ace Pilot;Character;Amber;Into the Inklands;Common;1
 Owl - Logical Lecturer;Character;Sapphire;Rise of the Floodborn;Common;0
 Pacha - Village Leader;Character;Steel;Rise of the Floodborn;Uncommon;0
 Pack Antics;Action;Emerald;Rise of the Floodborn;Rare;0
@@ -611,7 +611,7 @@ Rafiki - Mystical Fighter;Character;Amethyst;Into the Inklands;Rare;0
 Rajah - Royal Protector ;Character;Steel;Ursula's Return;Rare;0
 Ransack;Action;Steel;The First Chapter;Uncommon;2
 Rapunzel - Appreciative Artist ;Character;Sapphire;Ursula's Return;Rare;0
-Rapunzel - Gifted Artist;Character;Amber;Rise of the Floodborn;Uncommon;0
+Rapunzel - Gifted Artist;Character;Amber;Rise of the Floodborn;Uncommon;1
 Rapunzel - Gifted with Healing;Character;Amber;The First Chapter;Legendary;0
 Rapunzel - Letting Down Her Hair;Character;Ruby;The First Chapter;Uncommon;3
 Rapunzel - Sunshine;Character;Amber;Rise of the Floodborn;Common;0
@@ -621,7 +621,7 @@ Ratigan’s Marvelous Trap;Item;Emerald;Rise of the Floodborn;Rare;0
 Ray - Easygoing Firefly;Character;Emerald;Rise of the Floodborn;Common;0
 Raya - Fierce Protector;Character;Ruby;Ursula's Return;Super Rare;0
 Raya - Guardian of the Dragon Gem;Character;Ruby;Ursula's Return;Common;0
-Raya - Headstrong;Character;Ruby;Rise of the Floodborn;Common;0
+Raya - Headstrong;Character;Ruby;Rise of the Floodborn;Common;1
 Raya - Leader of Heart;Character;Ruby;Rise of the Floodborn;Super Rare;0
 Raya - Unstoppable Force;Character;Steel;Ursula's Return;Super Rare;0
 Raya - Warrior of Kumandra;Character;Ruby;Rise of the Floodborn;Uncommon;0
@@ -629,7 +629,7 @@ Razoul - Palace Guard;Character;Steel;Into the Inklands;Common;0
 Record Player ;Item;Amber;Ursula's Return;Common;0
 Reflection;Action;Amethyst;The First Chapter;Uncommon;1
 Repair;Action;Sapphire;Into the Inklands;Common;0
-Ring the Bell;Action;Emerald;Rise of the Floodborn;Uncommon;0
+Ring the Bell;Action;Emerald;Rise of the Floodborn;Uncommon;1
 Rise of the Titans;Action;Steel;Into the Inklands;Uncommon;0
 Robin Hood - Beloved Outlaw;Character;Steel;Into the Inklands;Common;0
 Robin Hood - Capable Fighter;Character;Steel;Rise of the Floodborn;Uncommon;0
@@ -646,9 +646,9 @@ Scar - Mastermind;Character;Sapphire;The First Chapter;Rare;1
 Scar - Shameless Firebrand;Character;Ruby;The First Chapter;Rare;0
 Scar - Vicious Cheater;Character;Ruby;Rise of the Floodborn;Legendary;0
 Scepter of Arendelle;Item;Sapphire;The First Chapter;Uncommon;0
-Scrooge McDuck - Richest Duck in the World;Character;Sapphire;Into the Inklands;Super Rare;0
-Scrooge McDuck - Uncle Moneybags;Character;Sapphire;Into the Inklands;Uncommon;0
-Scrooge’s Top Hat;Item;Sapphire;Into the Inklands;Uncommon;0
+Scrooge McDuck - Richest Duck in the World;Character;Sapphire;Into the Inklands;Super Rare;1
+Scrooge McDuck - Uncle Moneybags;Character;Sapphire;Into the Inklands;Uncommon;2
+Scrooge’s Top Hat;Item;Sapphire;Into the Inklands;Uncommon;1
 Scroop - Backstabber;Character;Ruby;Into the Inklands;Uncommon;0
 Scuttle - Expert on Humans ;Character;Sapphire;Ursula's Return;Uncommon;0
 Sebastian - Court Composer;Character;Amber;The First Chapter;Common;0
@@ -667,15 +667,15 @@ Simba - Protective Cub;Character;Amber;The First Chapter;Common;1
 Simba - Returned King;Character;Steel;The First Chapter;Rare;1
 Simba - Rightful Heir;Character;Steel;The First Chapter;Uncommon;3
 Simba - Rightful King;Character;Steel;Into the Inklands;Uncommon;0
-Simba - Scrappy Cub;Character;Ruby;Into the Inklands;Rare;0
-Sir Hiss - Aggravating Asp;Character;Emerald;Into the Inklands;Common;0
+Simba - Scrappy Cub;Character;Ruby;Into the Inklands;Rare;1
+Sir Hiss - Aggravating Asp;Character;Emerald;Into the Inklands;Common;1
 Sisu - Daring Visitor;Character;Ruby;Ursula's Return;Uncommon;0
 Sisu - Divine Water Dragon;Character;Sapphire;Rise of the Floodborn;Legendary;0
 Sisu - Emboldened Warrior ;Character;Ruby;Ursula's Return;Rare;0
 Sisu - Empowered Sibling;Character;Ruby;Ursula's Return;Legendary;0
 Sisu - Wise Friend ;Character;Sapphire;Ursula's Return;Uncommon;0
 Skippy - Energetic Rabbit;Character;Emerald;Into the Inklands;Common;0
-Sleepy - Nodding Off;Character;Amber;Rise of the Floodborn;Common;0
+Sleepy - Nodding Off;Character;Amber;Rise of the Floodborn;Common;1
 Sleepy’s Flute;Item;Amber;Rise of the Floodborn;Rare;0
 Slightly - Lost Boy;Character;Ruby;Into the Inklands;Uncommon;0
 Smash;Action;Steel;The First Chapter;Uncommon;2
@@ -701,7 +701,7 @@ Stratos - Tornado Titan;Character;Amethyst;Into the Inklands;Rare;0
 Strength of a Raging Fire;Action;Steel;Rise of the Floodborn;Rare;0
 Strike a Good Match;Action;Emerald;Into the Inklands;Common;0
 Sudden Chill;Action;Emerald;The First Chapter;Common;1
-Sumerian Talisman;Item;Ruby;Into the Inklands;Uncommon;0
+Sumerian Talisman;Item;Ruby;Into the Inklands;Uncommon;3
 Sven - Official Ice Deliverer;Character;Amethyst;The First Chapter;Uncommon;1
 Swing Into Action;Action;Amethyst;Ursula's Return;Common;0
 Sword in the Stone;Item;Ruby;Rise of the Floodborn;Uncommon;0
@@ -787,14 +787,14 @@ Ursula's Lair - Eye of the Storm ;Location;Amethyst;Ursula's Return;Rare;0
 Ursula's Plan;Action;Amethyst;Ursula's Return;Uncommon;0
 Ursula's Shell Necklace;Item;Amber;The First Chapter;Rare;0
 Ursula's Trickery;Action;Emerald;Ursula's Return;Uncommon;0
-Vault Door;Item;Sapphire;Into the Inklands;Common;0
+Vault Door;Item;Sapphire;Into the Inklands;Common;2
 Vicious Betrayal;Action;Emerald;The First Chapter;Common;2
 Virana - Fang Chief;Character;Emerald;Rise of the Floodborn;Common;0
 Vision Slab ;Item;Emerald;Ursula's Return;Uncommon;0
 Vitalisphere ;Item;Ruby;Ursula's Return;Common;0
-Voyage;Action;Ruby;Into the Inklands;Common;0
+Voyage;Action;Ruby;Into the Inklands;Common;2
 We Don't Talk About Bruno ;Action;Emerald;Ursula's Return;Rare;0
-Webby Vanderquack - Enthusiastic Duck;Character;Ruby;Into the Inklands;Common;0
+Webby Vanderquack - Enthusiastic Duck;Character;Ruby;Into the Inklands;Common;3
 Weight Set;Item;Steel;Rise of the Floodborn;Rare;0
 Wendy Darling - Authority on Peter Pan;Character;Sapphire;Into the Inklands;Super Rare;0
 Wendy Darling - Talented Sailor;Character;Amber;Into the Inklands;Uncommon;0

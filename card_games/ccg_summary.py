@@ -7,16 +7,16 @@ Summarizes the current collection status of all tracked card/dice games
 import os
 import sys
 
-import city_of_heroes
-import DaemonDice
-import DragonDice
-import StarTrekSecondEdition
-import Tribbles
 import anachronism
 import wyvern
 import dbs_fusion_world
 import grand_archive
 import lorcana
+import card_games.city_of_heroes as city_of_heroes
+import card_games.daemon_dice as daemon_dice
+import card_games.dragon_dice as dragon_dice
+import card_games.StarTrekSecondEdition as StarTrekSecondEdition
+import card_games.Tribbles as Tribbles
 import card_games.star_wars_unlimited as star_wars_unlimited
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -30,7 +30,7 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [anachronism, DaemonDice, DragonDice, star_wars_unlimited, StarTrekSecondEdition,
+started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited, StarTrekSecondEdition,
     Tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive, lorcana]
 
 TOTAL_HAVE = 0

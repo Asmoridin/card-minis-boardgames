@@ -2,8 +2,10 @@
 
 import itertools
 
-modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions of Hydra', 'The Doomsday Chair', 'A Mess of Things', 'Goblin Gimmicks', 'Power Drain', 'Running Interference',
-    'Hydra Assault', 'Weapon Master', 'Hydra Patrol', 'Master of Time', 'Anachronauts', 'Temporal', 'Kree Fanatic', 'Experimental Weapons',
+modular_encounters = ['Bomb Scare', 'Masters of Evil', 'Under Attack', 'Legions of Hydra',
+    'The Doomsday Chair', 'A Mess of Things', 'Goblin Gimmicks', 'Power Drain',
+    'Running Interference', 'Hydra Assault', 'Weapon Master', 'Hydra Patrol', 'Master of Time',
+    'Anachronauts', 'Temporal', 'Kree Fanatic', 'Experimental Weapons',
     'Band of Badoon', 'Galactic Artifacts', 'Kree Militants', 'Menagerie Medley', 'Space Pirates', 'Badoon Headhunter', 'Power Stone', 'Ship Command',
     'Infinity Gauntlet', 'Black Order', 'Armies of Titan', 'Children of Thanos', 'Legions of Hel', 'Frost Giants', 'Enchantress', 
     'Beasty Boys', 'Mister Hyde', 'Sinister Syndicate', "Crossfire's Crew", 'Wrecking Crew', 'Ransacked Armory', 'State of Emergency', 'Streets of Mayhem', 'Brothers Grimm',

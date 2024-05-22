@@ -68,7 +68,8 @@ for line in lines:
         CARD_MAX = card_own
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
-    item_list.append((card_name, card_sets, card_subtype, card_class, card_element, card_own, CARD_MAX))
+    item_list.append((card_name, card_sets, card_subtype, card_class, card_element, \
+        card_own, CARD_MAX))
 
 # Filter by card_class
 chosen_class, filtered_list = sort_and_filter(item_list, 3)

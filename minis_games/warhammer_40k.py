@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Collection tracker/manager for the Warhammer 40K minis game.
+"""
+
 import sys, os
 
 GAME_NAME = "Warhammer 40,000"

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Collection
+Collection tracker/management for the DBS Fusion World card game
 """
 
 import os
@@ -28,7 +28,9 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 item_list = []
 for line in lines:
-    card_name, card_subtypes, card_type, card_color, card_cost, card_number, card_set, card_own = line.split(';')
+    line = line.split('#')[0]
+    card_name, card_subtypes, card_type, card_color, card_cost, card_number, card_set, \
+        card_own = line.split(';')
     card_own = int(card_own)
     if card_subtypes == '':
         print("Missing subtypes:")
@@ -50,7 +52,8 @@ for line in lines:
         CARD_MAX = 1
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
-    item_list.append((card_name, card_subtypes, card_type, card_color, card_cost, card_number, card_set, card_own, CARD_MAX))
+    item_list.append((card_name, card_subtypes, card_type, card_color, card_cost, card_number, \
+        card_set, card_own, CARD_MAX))
 
 # Filter by subtype
 chosen_subtype, filtered_list = sort_and_filter(item_list, 1)
@@ -81,7 +84,7 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
 
-    double_print("Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100*TOTAL_OWN/TOTAL_MAX), out_file_h)
+    double_print(f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent", out_file_h)
     double_print("Buy %s (%s) from %s (have %d out of %d)" % (picked_item[0] + ' - ' + picked_item[5], picked_item[3] + ' ' + picked_item[2], picked_item[6], picked_item[7], picked_item[8]), out_file_h)
 
     out_file_h.close()

@@ -99,9 +99,12 @@ def getLeastPlayedHero(playMap):
     aspect_combos = sorted(aspect_combos, key=lambda x:(x[1], x[0][1]))
     return(aspect_combos[0][0][0], aspect_combos[0][0][1])
 
-def getLeastPlayedEncounter(enc_played_map):
-    # First, get least played villain
-    chosen_villain = getVillainStats(enc_played_map)[2]
+def get_least_played_encounter(in_enc_played_map):
+    """
+    Given the list of games I've played, figure out which available villain has been
+    played the least (possibly 0 times)
+    """
+    chosen_villain = getVillainStats(in_enc_played_map)[2]
     if chosen_villain == 'The Hood':
         hood_encounters = sorted(random.sample(ChampEncounters.modular_encounters, 7))
         this_encounter = ('The Hood', tuple(hood_encounters))
@@ -110,9 +113,9 @@ def getLeastPlayedEncounter(enc_played_map):
     encounter_list = sorted(encounter_list, key=lambda x:x[1])
     encounter_played = []
     for encounter_combo in encounter_list:
-        if encounter_combo not in enc_played_map:
+        if encounter_combo not in in_enc_played_map:
             return encounter_combo
-        encounter_played.append((encounter_combo, enc_played_map[encounter_combo][0]))
+        encounter_played.append((encounter_combo, in_enc_played_map[encounter_combo][0]))
     encounter_played = sorted(encounter_played, key=lambda x: x[1])
     return encounter_played[0][0]
 
@@ -219,7 +222,7 @@ if __name__ == "__main__":
     double_print("Most played modular encounter: %s (%d times). Least: %s (%d)" % (modular_tuple), out_file_h)
 
     # Choose an encounter
-    encounter_choice = getLeastPlayedEncounter(enc_played_map)
+    encounter_choice = get_least_played_encounter(enc_played_map)
 
     hero_1_wl = get_hero_wl(choice_1[0], choice_1[1], hero_played_map)
     hero_2_wl = get_hero_wl(choice_2[0], choice_2[1], hero_played_map)

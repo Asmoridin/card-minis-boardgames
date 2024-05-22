@@ -20,11 +20,11 @@ def process_card_set(card_set_in):
     """
     ret_list = []
     for card_printing in card_set_in.split('/'):
-        card_set, card_number, card_rarity = card_printing.split('-')
-        if card_set == 'SOR':
-            card_set = 'Spark of Rebellion'
+        check_card_set, card_number, card_rarity = card_printing.split('-')
+        if check_card_set == 'SOR':
+            check_card_set = 'Spark of Rebellion'
         else:
-            print(f"Unknown card set {card_set}")
+            print(f"Unknown card set {check_card_set}")
             return []
 
         if card_rarity in card_rarities:
@@ -33,7 +33,7 @@ def process_card_set(card_set_in):
             print(f"Unknown card rarity {card_rarity}")
             return []
 
-        ret_list.append((card_set, card_number, card_rarity))
+        ret_list.append((check_card_set, card_number, card_rarity))
     return ret_list
 
 def convert_colors(in_color):

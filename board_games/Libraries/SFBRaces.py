@@ -10,4 +10,4 @@ triangulum_races = ['Helgardian', 'Arachnid', 'Mallaran', 'Imperium']
 
 all_race_names = alpha_races + simulator_races + omega_races + lmc_races + triangulum_races
 
-race_map = {'Alpha':alpha_races, 'Omega;:omega_races, 'Simulator':simulator_races, 'LMC':lmc_races, 'Triangulum':triangulum_races}
+race_map = {'Alpha':alpha_races, 'Omega':omega_races, 'Simulator':simulator_races, 'LMC':lmc_races, 'Triangulum':triangulum_races}
