@@ -5,6 +5,9 @@ import itertools
 aspects = ['Leadership', 'Justice', 'Protection', 'Aggression', "'Pool"]
 
 class Hero:
+    """
+    data about a hero, including name, and the ability to generate aspect combinations
+    """
     def __init__(self, name, num_aspects=1):
         self.name = name
         if type(num_aspects) != type(0):
@@ -28,7 +31,7 @@ heroes.extend([
     Hero('Spider-Man (Miles Morales)'), Hero('Ghost-Spider'), Hero('Nova'), Hero('Ironheart'), Hero('Spider-Ham'), Hero('Sp//Dr'),
     Hero('Colossus'), Hero('Shadowcat'), Hero('Cyclops'), Hero('Phoenix'), Hero('Wolverine'), Hero('Storm'), Hero('Gambit'), Hero('Rogue'),
     Hero('Cable'), Hero('Domino'), Hero('Psylocke'), Hero('Angel'), Hero('X-23'), Hero('Deadpool'),
-    Hero('Bishop'), Hero('Magik'), Hero('Iceman'), #Hero('Jubilee'), 
+    Hero('Bishop'), Hero('Magik'), Hero('Iceman'), #Hero('Jubilee'), Hero('Nightcrawler')
 ])
 
 hero_combinations = []

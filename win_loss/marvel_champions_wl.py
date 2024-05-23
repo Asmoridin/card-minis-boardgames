@@ -35,7 +35,10 @@ def get_hero_wl(in_hero, in_aspect, in_play_map):
         hero_losses = in_play_map[(in_hero, in_aspect)][0] - hero_wins
     return((hero_wins, hero_losses))
 
-def getEncounterWL(encounter, mod_encounters, encounter_map):
+def get_encounter_wl(encounter, mod_encounters, encounter_map):
+    """
+    For a given encounter, determine the total wins and losses
+    """
     wins = 0
     losses = 0
     mod_encounters = tuple(sorted(mod_encounters))
@@ -227,7 +230,7 @@ if __name__ == "__main__":
     hero_1_wl = get_hero_wl(choice_1[0], choice_1[1], hero_played_map)
     hero_2_wl = get_hero_wl(choice_2[0], choice_2[1], hero_played_map)
     double_print("\nHeroes/Aspects chosen: %s %s (%sW-%sL) and %s %s (%sW-%sL)" % ('/'.join(choice_1[1]), choice_1[0], hero_1_wl[0], hero_1_wl[1], '/'.join(choice_2[1]), choice_2[0], hero_2_wl[0], hero_2_wl[1]), out_file_h)
-    enc_wl = getEncounterWL(encounter_choice[0], encounter_choice[1], enc_played_map)
+    enc_wl = get_encounter_wl(encounter_choice[0], encounter_choice[1], enc_played_map)
     double_print("Chosen encounter is %s %s (%sW-%sL)" % ('/'.join(encounter_choice[1]), encounter_choice[0], enc_wl[0], enc_wl[1]), out_file_h)
 
     double_print("\nTotal W-L by hero:", out_file_h)
@@ -247,7 +250,7 @@ if __name__ == "__main__":
     for villain_choice in enc_played_map:
         if villain_choice[0] not in villain_wl:
             villain_wl[villain_choice[0]] = [0,0]
-        wins, losses = getEncounterWL(villain_choice[0], villain_choice[1], enc_played_map)
+        wins, losses = get_encounter_wl(villain_choice[0], villain_choice[1], enc_played_map)
         villain_wl[villain_choice[0]][0] += wins
         overall_wl[0] += wins
         villain_wl[villain_choice[0]][1] += losses

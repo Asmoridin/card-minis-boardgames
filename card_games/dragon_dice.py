@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Collection tracker/purchase suggester for Dragon Dice
+"""
+
 import sys, os
 
 GAME_NAME = "Dragon Dice"

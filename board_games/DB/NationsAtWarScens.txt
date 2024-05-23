@@ -45,3 +45,58 @@ Come As You Are;Germany;USA;9/17/1944;Market Garden Day 1;Western;2,3;12;Compend
 Groesbeek Heights;Germany;USA;9/18/1944;Market Garden Day 1;Western;1,3;8;Compendium 1
 Attack Countered;Germany;USA;12/19/1944;Noville;Western;16,18;7;Compendium 1
 Dancing at Dawn;Germany;USA;12/20/1944;Noville;Western;16,18;7;Compendium 1
+By the Skin of Their Teeth;Germany;USA;12/20/1944;Noville;Western;16,17;7;Compendium 1
+Last Call;Germany;USA;12/16/1944;Noville;Western;2,3;10;Compendium 1
+God, Honor, and Our Land - Poland!;Germany;Poland;5/16/1944;Italy;Mediterranean;1;8;Compendium 1
+D-Day Campaign Scenario 1: Early Morning;Germany;USA;6/6/1944;Early Morning;Western;3;6;Compendium 1
+D-Day Campaign Scenario 2: Dawn Approaches;Germany;USA;6/6/1944;Approaching Dawn;Western;3;8;Compendium 1
+D-Day Campaign Scenario 3: High Noon;Germany;USA;6/6/1944;Afternoon;Western;1,3;9;Compendium 1
+Arnhem Campaign Scenario 1: To The Bridge;Germany;UK;9/17/1944;;Western;2,3;8;Compendium 1
+Arnhem Campaign Scenario 2: The First Defense;Germany;UK;9/18/1944;;Western;2,3;8;Compendium 1
+Arnhem Campaign Scenario 3: Breaking Through;Germany;UK;9/19/1944;Western;1;8;Compendium 1
+Arnhem Campaign Scenario 4: Hold the Line;Germany;UK;9/19/1944;;Western;1;8;Compendium 1
+Arnhem Campaign Scenario 5: One More Time;Germany;UK;9/20/1944;;Western;2,3;8;Compendium 1
+Operation Cobra Campaign Scenario 1: Still Here;Germany;USA;7/26/1944;;Western;1;8;Compendium 1
+Operation Cobra Campaign Scenario 2: Breakfast;Germany;USA;7/26/1944;;Western;3;10;Compendium 1
+Operation Cobra Campaign Scenario 3: The Race is On;Germany;USA;7/27/1944;;Western;2;7;Compendium 1
+Operation Cobra Campaign Scenario 4: Escape;Germany;USA;7/28/1944;;Western;2;9;Compendium 1
+Operation Cobra Campaign Scenario 5: As Far As Possible;Germany;USA;7/30/1944;;Western;1,2,3;17;Compendium 1
+No Bridge Too Far;Germany;USA;6/6/1944;;Western;2;6;White Star Rising
+A Bloody Victory;Germany;USA;6/6/1944;;Western;4;8;White Star Rising
+A Little Tea Before We Fight;Germany;UK;6/6/1944;;Western;2,3;10;White Star Rising
+Let's Get This Liberation Going;Germany;UK;6/6/1944;;Western;3,4;10;White Star Rising
+Objective Vierville;Germany;USA;6/7/1944;;Western;1,2;8;White Star Rising
+Ambush with a Surprise;Germany;USA;6/12/1944;;Western;1,2;8;White Star Rising
+Roosevelt's Butchers;Germany;USA;6/13/1944;;Western;1,2;10;White Star Rising
+The Hill of Death;Germany;UK;6/27/1944;;Western;1,2;8;White Star Rising
+Swamp Meet;Germany;USA;7/17/1944;;Western;1;9;White Star Rising
+Clash at the Crossroads;Germany;USA;7/23/1944;;Western;3;0;White Star Rising
+A Bloody Meat Sandwich;Germany;USA;9/17/1944;;Western;2,3;8;White Star Rising
+From Minutes Into Days;Germany;USA;9/18/1944;;Western;3;6;White Star Rising
+Just Beyond the Trees;Germany;USA;11/11/1944;;Western;1;10;White Star Rising
+A Rock and a Hard Place;Germany;USA;12/18/1944;;Western;1,3;8;White Star Rising
+Erasing the Bulge;Germany;USA;12/24/1944;;Western;1,3;10;White Star Rising
+Marve the Door to Bastogne;Germany;USA;12/20/1944;;Western;3;10;White Star Rising
+Drive through Chaumont;Germany;USA;12/23/1944;;Western;1;9;White Star Rising
+Aw, Nuts;Germany;USA;12/25/1944;;Western;1;10;White Star Rising
+The Duel;Germany;USA;3/6/1945;;Western;2,4;8;White Star Rising
+The Final Breach;Germany;USA;3/7/1945;;Western;1,3;8;White Star Rising
+The Tigers Still Have Teeth;Germany;USA;3/29/1945;;Western;2;10;White Star Rising
+The Heavy Iron Cross;Germany;USSR;7/5/1943;Kursk;Eastern;8;6;Stalin's Triumph
+Brechen die Zeile!;Germany;USSR;7/5/1943;Kursk;Eastern;8,9;10;Stalin's Triumph
+Boots on the Ground;Germany;USSR;7/5/1943;Kursk;Eastern;5,7;10;Stalin's Triumph
+Dawn of the Tiger;Germany;USSR;7/6/1943;Kursk;Eastern;8,10,5,7;8;Stalin's Triumph
+A Busy Morning;Germany;USSR;7/6/1943;Kursk;Eastern;6,7;10;Stalin's Triumph
+Clash of Steel;Germany;USSR;7/6/1943;Kursk;Eastern;5,6;9;Stalin's Triumph
+Little Stalingrad;Gremany;USSR;7/7/1943;Ponyri;Eastern;6;9;Stalin's Triumph
+Hill 274;Germany;USSR;7/7/1943;Kursk;Eastern;10;10;Stalin's Triumph
+The View from Here;Germany;USSR;7/10/1943;Kursk;Eastern;9,10;9;Stalin's Triumph
+No Passage;Germany;USSR;7/10/1943;Kursk;Eastern;6,8;8;Stalin's Triumph
+Stal Stal Stal;Germany;USSR;7/12/1943;Prokhorovka;Eastern;5,6,7;15;Stalin's Triumph
+The Bridge at Berezovyy Logg;Germany;USSR;7/11/1943;Berezovyy Logg;Eastern;8;8;Stalin's Triumph
+Kutozov's Revenge;Germany;USSR;7/12/1943;Kursk;Eastern;5;10;Stalin's Triumph
+Along the Psel;Germany;USSR;7/12/1943;Kursk;Eastern;5,6;10;Stalin's Triumph
+The Long Right Flank;Germany;USSR;7/12/1943;Kursk;Eastern;8;7;Stalin's Triumph
+Death Ride of Das Reich Campaign Scenario 1: Rattle the Cage;Germany;USSR;7/4/1943;Kursk;Eastern;5,10;8;Stalin's Triumph
+Death Ride of Das Reich Campaign Scenario 2: Here Comes the Fire Brigade;Germany;USSR;7/5/1943;Kursk;Eastern;5,10;10;Stalin's Triumph
+Death Ride of Das Reich Campaign Scenario 3: Blood, Iron and Steel;Germany;USSR;7/6/1943;Pokrovka;Eastern;6,7;10;Stalin's Triumph

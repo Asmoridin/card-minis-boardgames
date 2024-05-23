@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Collection manager/tracker for the Tribbles card game
+"""
+
 import sys, os
 
 GAME_NAME = "Tribbles"

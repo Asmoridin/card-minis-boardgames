@@ -11,12 +11,12 @@ import anachronism
 import wyvern
 import dbs_fusion_world
 import grand_archive
-import lorcana
+import card_games.lorcana as lorcana
 import card_games.city_of_heroes as city_of_heroes
 import card_games.daemon_dice as daemon_dice
 import card_games.dragon_dice as dragon_dice
-import card_games.StarTrekSecondEdition as StarTrekSecondEdition
-import card_games.Tribbles as Tribbles
+import card_games.star_trek_second_edition as star_trek_second_edition
+import card_games.tribbles as tribbles
 import card_games.star_wars_unlimited as star_wars_unlimited
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -30,8 +30,9 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited, StarTrekSecondEdition,
-    Tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive, lorcana]
+started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited, 
+    star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
+    lorcana]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0

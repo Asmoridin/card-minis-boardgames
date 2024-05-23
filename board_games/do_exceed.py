@@ -1,6 +1,12 @@
 #!/usr/bin/python3
 
-import random, math, os
+"""
+Script that generates groups for a future Exceed tournament
+"""
+
+import math
+import random
+import os
 
 red_horizon = ['Eva', 'Kaden', 'Miska', 'Lily', 'Reese', 'Heidi', 'Vincent', 'Nehtali', 'Satoshi', 'Mei-Lien', 'Baelkhor', 'Morathi', 'Gabrek', 'Ulrik', 'Alice', 'Zoey', ]#16
 seventh_cross = ['Geoffrey', 'Celinka', 'Taisei', "D'Janette", 'ZSolt', 'Renea', 'Minato', 'Tournelouse', 'Eugenia', 'Galdred', 'Umina', 'Remiliss', 'Luciya', 'Syrus', 'Seijun', 'Iaquis', 'Emogine', 'Sydney & Serena', ] #18

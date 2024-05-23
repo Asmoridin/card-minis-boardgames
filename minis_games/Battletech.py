@@ -4,7 +4,8 @@
 Collection manager and tracker for the Battletech miniatures game
 """
 
-import sys, os
+import os
+import sys
 
 GAME_NAME = "Battletech"
 COMPANY = "Catalyst"

@@ -9,7 +9,6 @@ import sys
 sys.path.append('.')
 from utils.output_utils import double_print
 
-
 if os.getcwd().endswith('card-minis-boardgames'):
     out_file_h = open("win_loss/output/SWUnlimitedOut.txt", 'w', encoding="UTF-8")
     in_file = open('win_loss/DB/SWUnlimited-Results.txt', 'r', encoding="UTF-8")
@@ -21,7 +20,8 @@ else:
 
 double_print("Star Wars: Unlimited W/L Loss Tracker, and deck selector", out_file_h)
 
-aspect_map = {'R':'Aggression', 'Y':'Cunning', 'U':'Vigilance', 'G':'Command', 'B':'Villainy', 'W':'Heroism'}
+aspect_map = {'R':'Aggression', 'Y':'Cunning', 'U':'Vigilance', 'G':'Command', 'B':'Villainy', \
+    'W':'Heroism'}
 base_aspects = ['Aggression', 'Cunning', 'Vigilance', 'Command']
 
 data_lines = in_file.readlines()

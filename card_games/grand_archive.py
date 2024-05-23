@@ -40,7 +40,8 @@ for line in lines:
     if line.count(';') == 5:
         card_name, card_sets, card_subtype, card_class, card_element, card_own = line.split(';')
     elif line.count(';') == 6:
-        card_name, card_sets, card_subtype, card_class, card_element, card_own, TEMP_MAX = line.split(';')
+        card_name, card_sets, card_subtype, card_class, card_element, \
+            card_own, TEMP_MAX = line.split(';')
         TEMP_MAX = int(TEMP_MAX)
     else:
         print("Invalid line:")

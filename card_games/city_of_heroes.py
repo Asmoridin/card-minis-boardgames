@@ -9,7 +9,7 @@ import sys
 
 GAME_NAME = "City of Heroes"
 
-def validateType(in_type):
+def validate_type(in_type):
     """
     Standardize the card types
     """
@@ -76,7 +76,7 @@ TOTAL_OWN = 0
 for line in lines:
     line = line.split('//')[0]
     card_name, card_type, card_powers, card_rarity, card_set, card_own = line.split(';')
-    card_type = validateType(card_type)
+    card_type = validate_type(card_type)
     if card_type == "Power":
         card_powers = validatePowers(card_powers)
     else:

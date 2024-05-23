@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-game_name = "Rogue Stars"
+GAME_NAME = "Rogue Stars"
 COMPANY = "Osprey"
 
 

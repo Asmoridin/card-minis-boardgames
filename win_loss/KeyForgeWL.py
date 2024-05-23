@@ -2,7 +2,8 @@
 
 import os
 
-valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', 'Dis', 'Saurian Republic', 'Unfathomable', ] # Ekwidon
+valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', \
+    'Dis', 'Saurian Republic', 'Unfathomable', ] # Ekwidon
 valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation', 'Dark Tidings', ] # Winds of someting
 
 if os.getcwd().endswith('card-minis-boardgames'):

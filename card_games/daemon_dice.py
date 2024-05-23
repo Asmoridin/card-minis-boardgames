@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Collection tracker/purchase suggestions for Daemon Dice
+"""
+
 import sys, os
 
 GAME_NAME = "Daemon Dice"
