@@ -26,7 +26,7 @@ def validate_type(in_type):
     print("Invalid type: " + in_type)
     return None
 
-def validatePowers(in_power):
+def validate_powers(in_power):
     """
     Standard the card powers
     """
@@ -78,7 +78,7 @@ for line in lines:
     card_name, card_type, card_powers, card_rarity, card_set, card_own = line.split(';')
     card_type = validate_type(card_type)
     if card_type == "Power":
-        card_powers = validatePowers(card_powers)
+        card_powers = validate_powers(card_powers)
     else:
         card_powers = None
     card_own = int(card_own)

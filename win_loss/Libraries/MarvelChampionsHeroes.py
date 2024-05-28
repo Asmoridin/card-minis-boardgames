@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Class to represent a hero, and aid in generating valid aspect combinations for the hero.
+"""
+
 import itertools
 
 aspects = ['Leadership', 'Justice', 'Protection', 'Aggression', "'Pool"]

@@ -129,4 +129,6 @@ playable_army_list = sorted(playable_army_list, key=lambda x:(x[1], x[0]))
 least_army = playable_army_list[0][0]
 least_army_games = playable_army_list[0][1]
 
-double_print(f"\nI should play more games with {least_army}, as I only have {least_army_games} game{('', 's')[least_army_games != 1]}", out_file_h)
+sugg_string = f"\nI should play more games with {least_army}, as I only have " + \
+    f"{least_army_games} game{('', 's')[least_army_games != 1]}"
+double_print(sugg_string, out_file_h)

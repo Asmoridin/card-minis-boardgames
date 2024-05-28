@@ -4,7 +4,8 @@
 Collection tracker/manager for the Warhammer 40K minis game.
 """
 
-import sys, os
+import os
+import sys
 
 GAME_NAME = "Warhammer 40,000"
 COMPANY = "Games Workshop"

@@ -4,7 +4,8 @@
 Collection tracker/purchase suggester for Dragon Dice
 """
 
-import sys, os
+import os
+import sys
 
 GAME_NAME = "Dragon Dice"
 

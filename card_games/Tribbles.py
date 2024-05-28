@@ -4,7 +4,8 @@
 Collection manager/tracker for the Tribbles card game
 """
 
-import sys, os
+import os
+import sys
 
 GAME_NAME = "Tribbles"
 

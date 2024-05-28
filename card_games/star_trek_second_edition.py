@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Inventory manager and collection suggestor for ST2E card game
+"""
+
 import sys, os
 
 GAME_NAME = "Star Trek: Second Edition"

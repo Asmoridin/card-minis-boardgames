@@ -4,7 +4,8 @@
 Collection tracker/purchase suggestions for Daemon Dice
 """
 
-import sys, os
+import os
+import sys
 
 GAME_NAME = "Daemon Dice"
 

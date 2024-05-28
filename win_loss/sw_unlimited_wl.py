@@ -147,4 +147,6 @@ playable_leader_list = sorted(playable_leader_list, key=lambda x:(x[1], x[0]))
 least_leader = playable_leader_list[0][0]
 least_leader_games = playable_leader_list[0][1]
 
-double_print(f"\nI should play more games with {least_leader}, as I only have {least_leader_games} game{('', 's')[least_leader_games != 1]}", out_file_h)
+sugg_string = f"\nI should play more games with {least_leader}, as I only have " + \
+    f"{least_leader_games} game{('', 's')[least_leader_games != 1]}"
+double_print(sugg_string, out_file_h)

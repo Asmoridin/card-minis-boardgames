@@ -39,13 +39,13 @@ def get_encounter_wl(encounter, mod_encounters, encounter_map):
     """
     For a given encounter, determine the total wins and losses
     """
-    wins = 0
-    losses = 0
+    ret_wins = 0
+    ret_losses = 0
     mod_encounters = tuple(sorted(mod_encounters))
     if (encounter, mod_encounters) in encounter_map:
-        wins = encounter_map[(encounter, mod_encounters)][1]
-        losses = encounter_map[(encounter, mod_encounters)][0] - wins
-    return((wins, losses))
+        ret_wins = encounter_map[(encounter, mod_encounters)][1]
+        ret_losses = encounter_map[(encounter, mod_encounters)][0] - ret_wins
+    return((ret_wins, ret_losses))
 
 def determine_combinations():
     """

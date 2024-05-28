@@ -4,14 +4,15 @@ import os
 
 valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', \
     'Dis', 'Saurian Republic', 'Unfathomable', ] # Ekwidon
-valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation', 'Dark Tidings', ] # Winds of someting
+valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation', \
+    'Dark Tidings', ] # Winds of someting
 
 if os.getcwd().endswith('card-minis-boardgames'):
-    deck_info = open('win_loss/DB/KeyForgeDecks.txt', 'r')
-    wl_info = open('win_loss/DB/KeyForgeWLData.txt', 'r')
+    deck_info = open('win_loss/DB/KeyForgeDecks.txt', 'r', encoding="UTF-8")
+    wl_info = open('win_loss/DB/KeyForgeWLData.txt', 'r', encoding="UTF-8")
 else:
-    deck_info = open('DB/KeyForgeDecks.txt', 'r')
-    wl_info = open('DB/KeyForgeWLData.txt', 'r')
+    deck_info = open('DB/KeyForgeDecks.txt', 'r', encoding="UTF-8")
+    wl_info = open('DB/KeyForgeWLData.txt', 'r', encoding="UTF-8")
 
 my_decks = []
 

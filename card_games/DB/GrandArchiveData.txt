@@ -5,7 +5,7 @@ Advent of the Stormcaller;Dawn of Ashes Alter Edition;Action;Mage;Arcane;0
 Aegis of Dawn;Mercurial Heart;Regalia Item;Guardian;Neos;0
 Aesan Protector;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Ally;Guardian;Wind;0
 Airship Cannoneer;Alchemical Revolution;Ally;Ranger;Fire;0
-Airship Captain;Mercurial Heart;Ally;Warrior;Fire;0
+Airship Captain;Mercurial Heart;Ally;Warrior;Fire;1
 Airship Cruiser;Alchemical Revolution;Ally;Ranger;Water;0
 Airship Engineer;Alchemical Revolution;Ally;Ranger;Fire;4
 Alchemical Scripture;Mercurial Heart;Regalia Item;Cleric;Neos;0
@@ -60,10 +60,10 @@ Avatar of Gaia;Fractured Crown;Ally;Tamer;Tera;0
 Awakened Deacon;Alchemical Revolution;Ally;Cleric;Water;0
 Awakened Frostguard;Alchemical Revolution;Ally;Guardian;Water;0
 Azure Protective Trinket;Fractured Crown;Regalia Item;Cleric;Norm;0
-Baby Blue Slime;Re: Collection Slime Sovereign;Ally;Tamer;Water;0
-Baby Gray Slime;Re: Collection Slime Sovereign;Ally;Tamer;Norm;0
-Baby Green Slime;Re: Collection Slime Sovereign;Ally;Tamer;Wind;0
-Baby Red Slime;Re: Collection Slime Sovereign;Ally;Tamer;Fire;0
+Baby Blue Slime;Re: Collection Slime Sovereign;Ally;Tamer;Water;4
+Baby Gray Slime;Re: Collection Slime Sovereign;Ally;Tamer;Norm;4
+Baby Green Slime;Re: Collection Slime Sovereign;Ally;Tamer;Wind;4
+Baby Red Slime;Re: Collection Slime Sovereign;Ally;Tamer;Fire;4
 Backstab;Dawn of Ashes Alter Edition;Attack;Assassin;Norm;0
 Backstep;Alchemical Revolution Starter Decks;Action;Ranger;Norm;4
 Backup Charger;Mercurial Heart;Regalia Item;Cleric;Norm;0
@@ -73,10 +73,10 @@ Barrier Servant;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes 
 Barter Herbs;Alchemical Revolution;Action;Cleric;Norm;4
 Battlefield Spotter;Alchemical Revolution;Ally;Ranger;Wind;0
 Bauble of Abundance;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Cleric;Norm;0
-Bauble of Mending;Dawn of Ashes Alter Edition;Regalia Item;Tamer;Norm;0
+Bauble of Mending;Dawn of Ashes Alter Edition;Regalia Item;Tamer;Norm;1
 Beastbond Boots;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Tamer;Norm;0
-Beastbond Ears;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Tamer;Norm;0
-Beastbond Paws;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Tamer;Norm;0
+Beastbond Ears;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Tamer;Norm;1
+Beastbond Paws;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Tamer;Norm;1
 Beastsoul Visage;Fractured Crown;Regalia Item;Tamer;Fire;0
 Bedivere, Woodland Overseer;Fractured Crown;Ally;Tamer;Norm;0
 Benevolent Battle Priest;Dawn of Ashes Alter Edition;Ally;Cleric/Warrior;Water;0
@@ -98,14 +98,14 @@ Blightroot;Alchemical Revolution/Mercurial Heart;Item;Cleric;Norm;2
 Blinding Orb;Dawn of Ashes Alter Edition;Regalia Item;Assassin;Norm;0
 Blissful Calling;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Tamer;Norm;0
 Blitz Mage;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Mage;Fire;0
-Blue Slime;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Water;0
+Blue Slime;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Water;4
 Bolster Ranks;Mercurial Heart;Action;Guardian;Neos;0
 Bombard Flarecannon;Alchemical Revolution;Regalia Weapon;Ranger;Fire;0
 Bottled Forgelight;Alchemical Revolution;Item;Cleric;Fire;1
 Brewing Kit;Alchemical Revolution;Regalia Item;Cleric;Wind;0
 Bubble Mage;Dawn of Ashes Alter Edition;Ally;Mage;Water;0
 Bulwark Sword;Alchemical Revolution Starter Decks;Regalia Weapon;Guardian;Norm;1
-Buried Grief;Mercurial Heart;Action;Cleric;Norm;0
+Buried Grief;Mercurial Heart;Action;Cleric;Norm;1
 Bushwhack Bandit;Dawn of Ashes Alter Edition;Ally;Assassin;Wind;0
 Calamity Cannon;Mercurial Heart;Action;Ranger;Fire;0
 Calculated Foresight;Alchemical Revolution;Action;Ranger;Water;0
@@ -133,12 +133,12 @@ Cerulean Decree;Mercurial Heart;Action;Cleric;Water;0
 Chalice of Blood;Dawn of Ashes Alter Edition;Regalia Item;Cleric;Norm;0
 Channel the Wind;Dawn of Ashes Alter Edition;Action;Mage;Wind;0
 Channeling Stone;Dawn of Ashes Alter Edition;Regalia Item;Mage;Norm;0
-Charged Alchemist;Mercurial Heart;Ally;Mage;Fire;0
+Charged Alchemist;Mercurial Heart;Ally;Mage;Fire;1
 Charged Assailant;Mercurial Heart;Ally;Assassin;Wind;0
 Charged Gunslinger;Mercurial Heart;Ally;Ranger;Fire;0
 Charged Hunter;Mercurial Heart;Ally;Ranger;Norm;0
 Charged Manaplate;Alchemical Revolution Starter Decks;Regalia Item;Guardian;Norm;1
-Charged Mannequin;Mercurial Heart;Ally;Warrior;Norm;0
+Charged Mannequin;Mercurial Heart;Ally;Warrior;Norm;1
 Chilling Touch;Dawn of Ashes Alter Edition;Action;Mage;Water;0
 Cinderbloom Tender;Mercurial Heart;Ally;Cleric;Fire;0
 City Protector;Mercurial Heart;Ally;Guardian;Norm;0
@@ -163,7 +163,7 @@ Conduit of the Mad Mage;Dawn of Ashes Alter Edition;Ally;Mage;Arcane;0
 Conjure Downpour;Alchemical Revolution;Action;Cleric;Water;0
 Contraband Revolver;Mercurial Heart;Regalia Weapon;Ranger;Fire;0
 Convalescent Tonic;Alchemical Revolution;Item;Cleric;Water;0
-Convoking Slime;Mercurial Heart;Ally;Tamer;Neos;0
+Convoking Slime;Mercurial Heart;Ally;Tamer;Neos;1
 Cordelia, Aurous Kaiser;Mercurial Heart;Ally;Guardian;Neos;0
 Corhazi Arsonist;Fractured Crown;Ally;Assassin;Fire;0
 Corhazi Courier;Dawn of Ashes Alter Edition;Ally;Assassin;Fire;0
@@ -189,9 +189,9 @@ Cry for Help;Dawn of Ashes Alter Edition;Action;Tamer;Wind;0
 Crystal of Argus;Dawn of Ashes Alter Edition;Regalia Item;Mage;Norm;0
 Crystal of Empowerment;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;0
 Crystalline Mirror;Alchemical Revolution;Regalia Item;Cleric;Water;0
-Cultivate;Mercurial Heart;Action;Cleric;Wind;0
+Cultivate;Mercurial Heart;Action;Cleric;Wind;1
 Cunning Broker;Fractured Crown;Ally;Assassin;Norm;0
-Curse Amplification;Mercurial Heart;Action;Ranger;Umbra;0
+Curse Amplification;Mercurial Heart;Action;Ranger;Umbra;1
 Curved Dagger;Dawn of Ashes Alter Edition;Regalia Weapon;Assassin;Norm;0
 Cyclonic Strike;Alchemical Revolution;Attack;Guardian;Wind;3
 Dahlia, Idyllic Dreamer;Alchemical Revolution;Ally;Ranger;Water;0
@@ -219,7 +219,7 @@ Disintegrate;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Sta
 Disorienting Winds;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Mage;Wind;0
 Displace;Fractured Crown;Action;Cleric/Mage;Wind;0
 Distilled Atrophy;Alchemical Revolution;Item;Cleric;Norm;1
-Dodge Roll;Mercurial Heart;Action;Ranger;Norm;0
+Dodge Roll;Mercurial Heart;Action;Ranger;Norm;1
 Dominating Strike;Alchemical Revolution;Attack;Cleric;Wind;0
 Dormant Sacrificial Altar;Alchemical Revolution;Domain;Cleric;Water;0
 Draught of Stamina;Alchemical Revolution;Item;Cleric;Wind;0
@@ -255,7 +255,7 @@ Essence of Blizzards;Alchemical Revolution Starter Decks;Item;Cleric;Water;4
 Esteemed Knight;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Warrior;Norm;0
 Eternal Dreamer;Mercurial Heart;Ally;Cleric;Water;0
 Eternal Magistrate;Mercurial Heart;Ally;Cleric;Wind;0
-Ethereal Slime;Re: Collection Slime Sovereign;Ally;Tamer;Crux;0
+Ethereal Slime;Re: Collection Slime Sovereign;Ally;Tamer;Crux;4
 Evasive Maneuvers;Promo/Alchemical Revolution Starter Decks;Action;Ranger;Norm;4
 Exalted Dorumegian Throne;Alchemical Revolution;Domain;Guardian;Norm;0
 Excalibur, Cleansing Light;Dawn of Ashes Alter Edition;Action;Warrior;Luxem;0
@@ -298,7 +298,7 @@ Flute of Taming;Dawn of Ashes Prelude/Dawn of Ashes Starter Decks;Regalia Item;T
 Focused Flames;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Fire;0
 Foraging Servant;Alchemical Revolution Starter Decks;Ally;Cleric;Norm;4
 Force Load;Alchemical Revolution;Action;Ranger;Fire;2
-Forest Cake;Re: Collection Slime Sovereign;Item;Tamer;Norm;0
+Forest Cake;Re: Collection Slime Sovereign;Item;Tamer;Norm;4
 Foretold Bloom;Mercurial Heart;Action;Cleric;Astra;0
 Forgelight Blade;Mercurial Heart;Regalia Weapon;Warrior;Fire;0
 Forgelight Scepter;Alchemical Revolution;Regalia Item;Cleric;Fire;0
@@ -332,7 +332,7 @@ Gaia's Songbird;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tam
 Galahad, Court Knight;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Ally;Warrior;Norm;0
 Galatine, Sword of Sunlight;Dawn of Ashes Alter Edition;Regalia Weapon;Warrior;Norm;0
 Gate of Alterity;Fractured Crown Sealed Kit/Promo;Regalia Item;Spirit;Norm;0
-Gather Slimes;Re: Collection Slime Sovereign;Action;Tamer;Water;0
+Gather Slimes;Re: Collection Slime Sovereign;Action;Tamer;Water;4
 Gawain, Chivalrous Thief;Fractured Crown;Ally;Assassin/Ranger;Norm;0
 Gearshift Block;Mercurial Heart;Action;Guardian;Norm;0
 Gearstride Academy;Mercurial Heart;Domain;Guardian;Wind;0
@@ -354,7 +354,7 @@ Gloamspire Wraith;Alchemical Revolution;Ally;Ranger;Umbra;0
 Gloamspire, Black Market;Alchemical Revolution;Domain;Assassin;Fire;0
 Grand Crusader's Ring;Dawn of Ashes Alter Edition;Regalia Item;Warrior;Norm;0
 Gray Wolf;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Norm;0
-Green Slime;Fractured Crown;Ally;Tamer;Wind;0
+Green Slime;Fractured Crown;Ally;Tamer;Wind;4
 Grim Foreboding;Re: Collection Shadowdancer;Action;Assassin;Umbra;0
 Guarded Dissipation;Fractured Crown;Action;Warrior;Water;0
 Hailstorm Guard;Mercurial Heart;Action;Guardian;Water;0
@@ -366,7 +366,7 @@ Haunting Demise;Re: Collection Shadowdancer;Attack;Assassin;Umbra;0
 Healing Aura;Alchemical Revolution;Phantasia;Cleric;Norm;1
 Heatwave Generator;Alchemical Revolution;Regalia Item;Guardian;Fire;0
 Heavy Swing;Alchemical Revolution Starter Decks;Attack;Guardian;Norm;4
-Hidden Enclave;Mercurial Heart;Domain;Guardian;Water;0
+Hidden Enclave;Mercurial Heart;Domain;Guardian;Water;1
 Hide in Bush;Mercurial Heart;Action;Cleric;Norm;0
 Hone by Fire;Fractured Crown;Action;Warrior;Fire;0
 Honorable Vanguard;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Warrior;Norm;0
@@ -376,7 +376,7 @@ Hurricane Sweep;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes 
 Hymn of Gaia's Grace;Dawn of Ashes Alter Edition;Action;Tamer;Tera;0
 Hypothermia;Alchemical Revolution;Action;Cleric;Water;4
 Icebound Slam;Mercurial Heart;Attack;Guardian;Water;0
-Idle Thoughts;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Norm;4
+Idle Thoughts;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Norm;8
 Ignite the Soul;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Fire;0
 Ignited Slab;Dawn of Ashes Alter Edition;Attack;Assassin;Fire;0
 Illuminate Secrets;Fractured Crown;Action;Assassin/Mage;Luxem;0
@@ -411,7 +411,7 @@ Invoke Dominance;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;
 Inzali, Unshackled Blaze;Alchemical Revolution;Ally;Cleric;Fire;0
 Jewel of Enlightenment;Dawn of Ashes Alter Edition;Regalia Item;Mage;Norm;0
 Juggle Knives;Dawn of Ashes Alter Edition;Action;Assassin/Ranger;Norm;0
-Key Slime Pudding;Re: Collection Slime Sovereign;Regalia Item;Tamer;Norm;0
+Key Slime Pudding;Re: Collection Slime Sovereign;Regalia Item;Tamer;Norm;1
 Kindling Flare;Mercurial Heart;Action;Cleric;Fire;0
 Kingdom Informant;Dawn of Ashes Alter Edition;Ally;Assassin;Norm;0
 Kraal, Stonescale Tyrant;Fractured Crown;Ally;Tamer;Tera;0
@@ -425,9 +425,9 @@ Lancelot, Goliath of Aesa;Fractured Crown;Ally;Guardian/Warrior;Norm;0
 Lavaheated Brew;Alchemical Revolution;Action;Cleric;Fire;0
 Lena, Dorumegia's Herald;Alchemical Revolution;Ally;Ranger;Norm;0
 Library Witch;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Mage;Norm;0
-Life Essence Amulet;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;1
+Life Essence Amulet;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;2
 Lightweaver's Assault;Dawn of Ashes Alter Edition;Action;Assassin;Luxem;0
-Limitless Slime;Re: Collection Slime Sovereign;Ally;Tamer;Norm;0
+Limitless Slime;Re: Collection Slime Sovereign;Ally;Tamer;Norm;4
 Liquid Amnesia;Mercurial Heart;Item;Cleric;Wind;0
 Load Soul;Alchemical Revolution;Action;Ranger;Umbra;0
 Loaded Thoughts;Mercurial Heart;Regalia Weapon;Ranger;Water;0
@@ -441,7 +441,7 @@ Lunar Conduit;Mercurial Heart;Regalia Item;Cleric;Astra;0
 Lunar Seer;Mercurial Heart;Ally;Cleric;Astra;0
 Lunete, Frostbinder Priest;Dawn of Ashes Alter Edition;Ally;Cleric;Water;0
 Lurking Assailant;Fractured Crown;Ally;Assassin;Norm;0
-Lustrous Slime;Re: Collection Slime Sovereign;Ally;Tamer;Luxem;0
+Lustrous Slime;Re: Collection Slime Sovereign;Ally;Tamer;Luxem;4
 Luxem Sight;Dawn of Ashes Alter Edition;Action;Cleric;Luxem;0
 Luxera's Map;Dawn of Ashes Alter Edition;Regalia Item;Assassin;Luxem;0
 Machined Monstrosity;Mercurial Heart;Ally;Tamer;Norm;0
@@ -534,7 +534,7 @@ Possessed Remnant;Mercurial Heart;Ally;Assassin;Umbra;0
 Potion Infusion: Blaze;Mercurial Heart;Action;Cleric;Fire;0
 Potion Infusion: Clarity;Alchemical Revolution;Action;Cleric;Water;2
 Potion Infusion: Frostbite;Alchemical Revolution;Action;Cleric;Water;3
-Potion Infusion: Growth;Mercurial Heart;Action;Cleric;Wind;0
+Potion Infusion: Growth;Mercurial Heart;Action;Cleric;Wind;1
 Potion Infusion: Seal;Mercurial Heart;Action;Cleric;Water;0
 Potion Infusion: Starlight;Alchemical Revolution;Action;Cleric;Astra;1
 Potion of Healing;Alchemical Revolution;Item;Cleric;Norm;3
@@ -560,7 +560,7 @@ Prototype Staff;Alchemical Revolution Starter Decks;Regalia Item;Cleric;Norm;1
 Provoke Obstinance;Alchemical Revolution;Action;Guardian;Neos;0
 Purge in Flames;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Fire;0
 Purification;Mercurial Heart;Action;Cleric;Norm;0
-Purified Shot;Mercurial Heart;Item;Ranger;Water;0
+Purified Shot;Mercurial Heart;Item;Ranger;Water;1
 Pyroclastic Flow;Mercurial Heart;Action;Mage;Fire;0
 Quickdraw Piercer;Alchemical Revolution Starter Decks;Regalia Weapon;Ranger;Norm;1
 Quicksilver Grail;Fractured Crown;Regalia Item;Cleric;Norm;0
@@ -583,7 +583,7 @@ Reclaim;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter 
 Reconnaissance Field;Alchemical Revolution;Phantasia;Ranger;Water;1
 Reconstructive Surgery;Alchemical Revolution;Action;Cleric;Norm;1
 Recruitment Officer;Alchemical Revolution Starter Decks;Ally;Guardian;Wind;4
-Red Slime;Fractured Crown;Ally;Tamer;Fire;0
+Red Slime;Fractured Crown;Ally;Tamer;Fire;4
 Reduce to Ash;Mercurial Heart;Action;Mage;Fire;0
 Reflect the Skies;Mercurial Heart;Action;Cleric;Astra;0
 Refracted Twilight;Mercurial Heart;Item;Cleric;Astra;0
@@ -594,7 +594,7 @@ Relentless Hexchaser;Alchemical Revolution;Ally;Ranger;Umbra;0
 Rending Flames;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Attack;Assassin/Warrior;Fire;0
 Repelling Palmblast;Alchemical Revolution;Action;Cleric;Wind;0
 Reposition;Alchemical Revolution;Action;Ranger;Norm;3
-Reprogram;Mercurial Heart;Action;Cleric;Norm;0
+Reprogram;Mercurial Heart;Action;Cleric;Norm;1
 Resolute Stand;Fractured Crown;Action;Guardian;Norm;0
 Resplendent Kite Shield;Alchemical Revolution;Regalia Item;Guardian;Norm;0
 Restorative Slash;Dawn of Ashes Alter Edition;Attack;Warrior;Water;0
@@ -614,13 +614,13 @@ Sadi, Blood Harvester;Mercurial Heart;Ally;Assassin;Norm;0
 Safeguard Amulet;Dawn of Ashes Alter Edition;Regalia Item;Cleric;Norm;0
 Sanctum of Esoteric Truth;Alchemical Revolution;Domain;Cleric;Norm;0
 Savage Slash;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Warrior;Norm;0
-Savage Smash;Mercurial Heart;Attack;Guardian;Norm;0
+Savage Smash;Mercurial Heart;Attack;Guardian;Norm;1
 Scale of Souls;Alchemical Revolution Starter Decks;Regalia Item;Cleric;Norm;1
 Scatter Essence;Fractured Crown;Action;Cleric;Wind;0
 Scattering Gusts;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Cleric/Mage;Wind;0
 Scavenge the Distillery;Alchemical Revolution;Action;Cleric;Norm;0
 Scavenging Raccoon;Fractured Crown;Ally;Tamer;Norm;0
-Scorching Trap;Mercurial Heart;Action;Assassin;Fire;0
+Scorching Trap;Mercurial Heart;Action;Assassin;Fire;1
 Scout the Land;Mercurial Heart;Action;Ranger;Wind;0
 Scry the Skies;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Alchemical Revolution;Action;Mage;Norm;4
 Scry the Stars;Alchemical Revolution;Action;Cleric;Astra;0
@@ -643,7 +643,7 @@ Shadow Resonance;Re: Collection Shadowdancer;Action;Assassin;Norm;0
 Shadow's Claw;Mercurial Heart;Regalia Weapon;Assassin;Umbra;0
 Shadow's Twin;Alchemical Revolution Starter Decks;Regalia Weapon;Ranger;Umbra;1
 Shadowstrike;Re: Collection Shadowdancer;Attack;Assassin;Umbra;0
-Sharpen Blade;Mercurial Heart;Action;Assassin;Norm;0
+Sharpen Blade;Mercurial Heart;Action;Assassin;Norm;1
 Sharpening Stone;Dawn of Ashes Alter Edition;Regalia Item;Warrior;Norm;0
 Shatterfall Keep;Alchemical Revolution;Domain;Cleric;Water;0
 Shifting Mirage;Re: Collection Shadowdancer;Action;Assassin;Umbra;0
@@ -656,9 +656,9 @@ Sidestep;Alchemical Revolution;Action;Assassin;Norm;1
 Silvershine;Alchemical Revolution/Mercurial Heart;Item;Cleric;Norm;2
 Silvie, Earth's Tune;Dawn of Ashes Alter Edition;Champion;Tamer;Tera;0
 Silvie, Loved by All;Dawn of Ashes Prelude/Dawn of Ashes Starter Decks;Champion;Tamer;Tera;0
-Silvie, Slime Sovereign;Re: Collection Slime Sovereign;Champion;Tamer;Tera;0
-Silvie, Wilds Whisperer;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Champion;Tamer;Norm;0
-Silvie, With the Pack;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Champion;Tamer;Norm;0
+Silvie, Slime Sovereign;Re: Collection Slime Sovereign;Champion;Tamer;Tera;1
+Silvie, Wilds Whisperer;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Champion;Tamer;Norm;1
+Silvie, With the Pack;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Champion;Tamer;Norm;1
 Sinister Mindreaver;Mercurial Heart;Ally;Assassin;Umbra;0
 Sink into Oblivion;Dawn of Ashes Alter Edition;Action;Mage;Water;0
 Siphoning Fractal;Mercurial Heart;Phantasia;Cleric;Umbra;0
@@ -666,20 +666,20 @@ Sirocco Operative;Re: Collection Shadowdancer;Ally;Assassin;Wind;0
 Skirting Step;Mercurial Heart;Action;Ranger;Wind;0
 Slay the King;Fractured Crown;Attack;Warrior;Crux;0
 Slice and Dice;Re: Collection Shadowdancer;Attack;Assassin;Norm;0
-Slime Eruption;Re: Collection Slime Sovereign;Action;Tamer;Fire;0
-Slime King;Re: Collection Slime Sovereign;Ally;Tamer;Tera;0
-Slime Nexus;Re: Collection Slime Sovereign;Regalia Item;Tamer;Norm;0
-Slime Totem;Re: Collection Slime Sovereign;Regalia Item;Tamer;Tera;0
-Slime's Blessing;Re: Collection Slime Sovereign;Action;Tamer;Wind;0
-Slimeshield;Re: Collection Slime Sovereign;Action;Tamer;Wind;0
+Slime Eruption;Re: Collection Slime Sovereign;Action;Tamer;Fire;4
+Slime King;Re: Collection Slime Sovereign;Ally;Tamer;Tera;4
+Slime Nexus;Re: Collection Slime Sovereign;Regalia Item;Tamer;Norm;1
+Slime Totem;Re: Collection Slime Sovereign;Regalia Item;Tamer;Tera;1
+Slime's Blessing;Re: Collection Slime Sovereign;Action;Tamer;Wind;4
+Slimeshield;Re: Collection Slime Sovereign;Action;Tamer;Wind;4
 Slip Away;Mercurial Heart;Action;Ranger;Umbra;0
-Smack with Flute;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Tamer;Norm;0
+Smack with Flute;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Tamer;Norm;4
 Smash with Obelisk;Alchemical Revolution;Attack;Guardian;Neos;3
 Smashing Force;Mercurial Heart;Attack;Guardian;Fire;0
 Smoke Bombs;Dawn of Ashes Alter Edition;Regalia Item;Assassin;Norm;0
 Snow Fairy;Dawn of Ashes Alter Edition;Ally;Mage;Water;0
 Song of Frost;Fractured Crown;Action;Tamer;Water;0
-Song of Nurturing;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Tamer;Norm;0
+Song of Nurturing;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Tamer;Norm;4
 Song of Return;Dawn of Ashes Alter Edition;Action;Tamer;Wind;0
 Sorrowcaller;Mercurial Heart;Regalia Weapon;Ranger;Umbra;0
 Spark Alight;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Mage;Fire;0
@@ -692,26 +692,26 @@ Spirit Blade: Dispersion;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn 
 Spirit Blade: Ensoul;Dawn of Ashes Alter Edition;Action;Warrior;Crux;0
 Spirit Blade: Ghost Strike;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Warrior;Crux;0
 Spirit Blade: Infusion;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Warrior;Crux;0
-Spirit Shard;Mercurial Heart;Item;Spirit;Norm;0
+Spirit Fragment;Mercurial Heart;Item;Spirit;Norm;1
 Spirit of Fire;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Alchemical Revolution;Champion;Spirit;Fire;1
 Spirit of Serene Fire;Fractured Crown;Champion;Spirit;Fire;0
 Spirit of Serene Water;Fractured Crown;Champion;Spirit;Water;0
 Spirit of Serene Wind;Fractured Crown;Champion;Spirit;Wind;0
-Spirit of Slime;Re: Collection Slime Sovereign;Champion;Spirit;Norm;0
+Spirit of Slime;Re: Collection Slime Sovereign;Champion;Spirit;Norm;1
 Spirit of Water;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Alchemical Revolution;Champion;Spirit;Water;1
 Spirit of Wind;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks/Alchemical Revolution;Champion;Spirit;Wind;1
 Spirit's Blessing;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Action;Mage;Crux;0
 Spirited Falconer;Mercurial Heart;Ally;Tamer;Wind;0
 Spontaneous Combustion;Dawn of Ashes Alter Edition;Action;Mage;Fire;0
-Springleaf;Alchemical Revolution/Mercurial Heart;Item;Cleric;Norm;3
+Springleaf;Alchemical Revolution/Mercurial Heart;Item;Cleric;Norm;4
 Spurn to Ash;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Mage;Fire;0
 Stalwart Shieldmate;Fractured Crown;Ally;Guardian;Norm;4
-Stargazer's Portent;Mercurial Heart;Action;Cleric;Astra;0
+Stargazer's Portent;Mercurial Heart;Action;Cleric;Astra;1
 Steady Verse;Fractured Crown;Action;Cleric/Tamer;Norm;0
-Steel Slug;Mercurial Heart;Regalia Item;Ranger;Norm;0
+Steel Slug;Mercurial Heart;Regalia Item;Ranger;Norm;1
 Stifling Trap;Re: Collection Shadowdancer;Action;Assassin;Wind;0
 Stillwater Patrol;Dawn of Ashes Alter Edition;Ally;Ranger;Water;0
-Storm Slime;Re: Collection Slime Sovereign;Ally;Tamer;Arcane;0
+Storm Slime;Re: Collection Slime Sovereign;Ally;Tamer;Arcane;4
 Storm Tyrant's Eye;Dawn of Ashes Alter Edition;Regalia Item;Mage;Arcane;0
 Storm of Thorns;Alchemical Revolution;Action;Guardian;Water;0
 Strapping Conscript;Dawn of Ashes Alter Edition;Ally;Warrior;Fire;0
@@ -727,7 +727,7 @@ Suffocating Miasma;Mercurial Heart;Phantasia;Assassin;Umbra;0
 Summon Gale;Dawn of Ashes Alter Edition;Action;Mage;Wind;0
 Summon Sentinels;Alchemical Revolution;Action;Guardian;Neos;4
 Supply Drone;Alchemical Revolution;Ally;Ranger;Norm;3
-Surge Protector;Mercurial Heart;Action;Guardian;Fire;0
+Surge Protector;Mercurial Heart;Action;Guardian;Fire;1
 Surging Bolt;Mercurial Heart;Action;Mage;Fire;0
 Surveil the Winds;Re: Collection Shadowdancer;Action;Assassin;Wind;0
 Surveillance Stone;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;0
@@ -802,14 +802,14 @@ Varuckan Soulknife;Fractured Crown;Regalia Weapon;Assassin;Fire;0
 Veiled Dash;Alchemical Revolution;Action;Ranger;Wind;0
 Veiling Breeze;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition;Action;Assassin;Wind;0
 Ventus, Staff of Zephyrs;Fractured Crown;Regalia Item;Mage;Wind;0
-Verdant Scepter;Re: Collection Slime Sovereign;Regalia Item;Tamer/Mage;Tera;0
-Verdant Slime;Re: Collection Slime Sovereign;Ally;Tamer;Tera;0
+Verdant Scepter;Re: Collection Slime Sovereign;Regalia Item;Tamer/Mage;Tera;1
+Verdant Slime;Re: Collection Slime Sovereign;Ally;Tamer;Tera;5
 Verdigris Decree;Mercurial Heart;Action;Cleric;Wind;0
 Vermilion Decree;Mercurial Heart;Action;Cleric;Fire;0
 Vertus, Gaia's Roar;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Tamer;Tera;0
 Veteran Blazebearer;Alchemical Revolution;Ally;Guardian;Fire;0
 Veteran Soldier;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Ally;Warrior;Norm;0
-Vicious Slice;Mercurial Heart;Attack;Assassin;Norm;0
+Vicious Slice;Mercurial Heart;Attack;Assassin;Norm;1
 Vigilant Sentry;Mercurial Heart;Ally;Guardian;Wind;0
 Violet Haze;Alchemical Revolution;Action;Ranger;Umbra;1
 Viridian Protective Trinket;Fractured Crown;Regalia Item;Cleric;Norm;0
@@ -818,7 +818,7 @@ Voltaic Sphere;Fractured Crown;Action;Mage;Arcane;0
 Wand of Frost;Fractured Crown;Regalia Item;Cleric/Mage;Water;0
 Warrior's Longsword;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Weapon;Warrior;Norm;0
 Water Barrier;Dawn of Ashes Alter Edition/Alchemical Revolution Starter Decks;Action;Cleric/Mage;Water;2
-Water Herbs;Mercurial Heart;Action;Cleric;Water;0
+Water Herbs;Mercurial Heart;Action;Cleric;Water;1
 Water Resonance Bauble;Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;0
 Waterveil Apostle;Mercurial Heart;Ally;Cleric;Water;0
 Waverider Protector;Alchemical Revolution;Ally;Guardian;Water;2
@@ -831,12 +831,12 @@ Wildheart Lyre;Fractured Crown;Regalia Item;Tamer;Water;0
 Winbless Arbalest;Alchemical Revolution;Ally;Ranger;Wind;1
 Winbless Forecaster;Mercurial Heart;Ally;Mage;Wind;0
 Winbless Gatekeeper;Alchemical Revolution;Ally;Guardian;Wind;0
-Winbless Hurricane Farm;Mercurial Heart;Domain;Guardian;Wind;0
+Winbless Hurricane Farm;Mercurial Heart;Domain;Guardian;Wind;1
 Winbless Kiteshield;Mercurial Heart;Regalia Item;Guardian;Wind;0
 Winbless Rangefinder;Mercurial Heart;Ally;Ranger;Wind;0
 Wind Cutter;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Attack;Ranger/Warrior;Wind;0
 Wind Resonance Bauble;Dawn of Ashes Prelude/Dawn of Ashes Alter Edition/Dawn of Ashes Starter Decks;Regalia Item;Mage;Norm;0
-Windmill Engineer;Mercurial Heart;Ally;Ranger;Wind;0
+Windmill Engineer;Mercurial Heart;Ally;Ranger;Wind;1
 Windpiercer;Mercurial Heart;Regalia Item;Ranger;Wind;0
 Windrider Invoker;Fractured Crown;Ally;Mage;Wind;0
 Windrider Mage;Dawn of Ashes Alter Edition;Ally;Mage;Wind;0
