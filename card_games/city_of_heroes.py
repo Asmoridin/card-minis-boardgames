@@ -83,12 +83,12 @@ for line in lines:
         card_powers = None
     card_own = int(card_own)
     if card_type == 'Hero':
-        card_max = 1
+        CARD_MAX = 1
     else:
-        card_max = 3
-    TOTAL_MAX += card_max
+        CARD_MAX = 3
+    TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_own
-    item_list.append((card_name, card_type, card_powers, card_rarity, card_set, card_own, card_max))
+    item_list.append((card_name, card_type, card_powers, card_rarity, card_set, card_own, CARD_MAX))
 
 # Filter by set
 chosen_set, filtered_list = sort_and_filter(item_list, 4)

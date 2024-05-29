@@ -25,6 +25,9 @@ modular_encounters = modular_encounters + mojo_encounters
 
 encounters = []
 def get_req_by_encounter(encounter_set):
+    """
+    For a particular encounter set, return the required encounters
+    """
     for encounter in encounters:
         if encounter.name == encounter_set:
             return encounter.required_encounters

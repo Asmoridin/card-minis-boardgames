@@ -26,7 +26,7 @@ def get_meta(army_name):
     elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', 'Imperial Knights', ]:
         return "Imperium"
     else:
-        print("Army %s not given a meta type" % army_name)
+        print(f"Army {army_name} not given a meta type")
         return None
 
 my_armies = ['Adeptus Astartes', 'Necrons', 'Adepta Sororitas', 'Drukhari', 'World Eaters', ]

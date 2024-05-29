@@ -1,7 +1,6 @@
 # Behemoth (Stone Rhino)
 # Marauder IIC
 # Warhammer IIC
-# Kodiak
 # Hellion
 # Howler
 # Pack Hunter
@@ -794,6 +793,11 @@ Jenner JR7-C;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Jenner;Striker;
 Jenner JR7-D;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Jenner;Striker;3039;1
 Jenner JR7-F;Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Jenner;Striker;3039;0
 Jenner JR7-K;Inner Sphere;Light Mech;Late Succession War - Renaissance (3020 - 3049);Jenner;Striker;3050;0
+Kodiak;Clan;Assault Mech;Late Succession War - LosTech (2901 - 3019);Kodiak;Brawler;3058;1
+Kodiak 2;Clan;Assault Mech;Civil War (3062 - 3067);Kodiak;Brawler;3058;0
+Kodiak 3;Clan;Assault Mech;Jihad (3068 - 3080);Kodiak;Brawler;3058;0
+Kodiak 4;Clan;Assault Mech;Civil War (3062 - 3067);Kodiak;Missile Boat;3058;0
+Kodiak 5;Clan;Assault Mech;Clan Invasion (3050 - 3061);Kodiak;Brawler;3058;0
 LRM Carrier (3055 Upgrade);Inner Sphere;Heavy Vehicle;Clan Invasion (3050 - 3061);Missile Carrier;Missile Boat;3058;0
 LRM Carrier (WoB);Inner Sphere;Heavy Vehicle;Civil War (3062 - 3067);Missile Carrier;Missile Boat;3058;0
 LRM Carrier;Inner Sphere;Heavy Vehicle;Age of War (2005 - 2570);Missile Carrier;Missile Boat;3039;0
@@ -914,3 +918,11 @@ Zeus ZEU-9S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3
 Zeus ZEU-9S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
 Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;0
 Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
+Hunter Light Support Tank "Assault Hunter";Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Hunter Light Support Tank;Ambusher;3058;0
+Hunter Light Support Tank (3054 Upgrade);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Hunter Light Support Tank;Missile Boat;3058;0
+Hunter Light Support Tank (Ammo);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Missile Boat;3039;0
+Hunter Light Support Tank (ERLL);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Hunter Light Support Tank;Sniper;3058;0
+Hunter Light Support Tank (LPL);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Hunter Light Support Tank;Sniper;3058;0
+Hunter Light Support Tank (LRM10);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Brawler;3039;0
+Hunter Light Support Tank (LRM15);Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Missile Boat;3039;0
+Hunter Light Support Tank;Inner Sphere;Light Vehicle;Late Succession War - LosTech (2901 - 3019);Hunter Light Support Tank;Missile Boat;3039;0

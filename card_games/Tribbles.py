@@ -74,9 +74,9 @@ lowest_card_qty = card_qty_sorter[0][0]
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
-        out_file_h = open("card_games/output/TribblesOut.txt", 'w')
+        out_file_h = open("card_games/output/TribblesOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("output/TribblesOut.txt", 'w')
+        out_file_h = open("output/TribblesOut.txt", 'w', encoding="UTF-8")
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)

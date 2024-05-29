@@ -10,4 +10,4 @@ COMPANY = "Osprey"
 
 # Read Rogue Stars data
 
-total_own  = 0
+TOTAL_OWN  = 0

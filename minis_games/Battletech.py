@@ -23,6 +23,9 @@ file_h.close()
 lines = [line.strip() for line in lines]
 
 def getMax(input):
+    """
+    Return the maximum amount of an item I'd like to own (mostly 1)
+    """
     if input in ['Mech', 'Vehicle', 'Aerospace', ]:
         return 1
     elif input in ['Battle Armor', ]:

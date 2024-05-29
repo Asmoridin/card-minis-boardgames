@@ -9,7 +9,9 @@ import sys
 
 GAME_NAME = "Dragon Dice"
 
-army_factions = ['Dwarves', 'Coral Elves', 'Goblins', 'Lava Elves', 'Amazons', 'Fire Walkers', 'Undead', 'Feral', 'Swamp Stalkers', 'Frostwings', 'Scalders', 'Treefolk', 'Eldarim', 'Dracolem']
+army_factions = ['Dwarves', 'Coral Elves', 'Goblins', 'Lava Elves', 'Amazons', 'Fire Walkers', \
+    'Undead', 'Feral', 'Swamp Stalkers', 'Frostwings', 'Scalders', 'Treefolk', 'Eldarim', \
+    'Dracolem']
 valid_factions = army_factions + ['Medallion', 'Items', 'Dragons', 'Dragonkin', 'Relics', 'Major Terrain', 'Minor Terrain', 'Special Terrain']
 
 my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk', 'Eldarim',]

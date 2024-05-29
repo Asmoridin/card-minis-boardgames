@@ -18,6 +18,9 @@ class Hero:
             raise ValueError('Invalid aspect count')
         self.num_aspects = num_aspects
     def genCombos(self):
+        """
+        Generate all of the valid hero/aspect combinations for a particular hero.
+        """
         ret_list = []
         aspect_combos = itertools.combinations(aspects, self.num_aspects)
         for aspect_combo in aspect_combos:

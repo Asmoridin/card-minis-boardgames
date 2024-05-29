@@ -53,10 +53,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]

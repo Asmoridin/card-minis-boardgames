@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 
+"""
+Deck play suggestor, W-L Tracker for KeyForge
+"""
+
 import os
 
 valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', \

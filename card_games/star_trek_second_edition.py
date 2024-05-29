@@ -4,7 +4,8 @@
 Inventory manager and collection suggestor for ST2E card game
 """
 
-import sys, os
+import os
+import sys
 
 GAME_NAME = "Star Trek: Second Edition"
 

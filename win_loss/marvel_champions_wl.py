@@ -61,7 +61,7 @@ def determine_combinations():
                 combinations.add(tuple(this_combo))
     return len(combinations)
 
-def getHeroStats(playMap):
+def get_hero_stats(playMap):
     # Return the following = most played hero, most played hero amount, least played hero, least played hero amount
     sum_map = {} # Need to sum up the plays by each hero
     for hero in ChampHeroes.heroes:
@@ -91,7 +91,7 @@ def getAspectStats(playMap):
 
 def getLeastPlayedHero(playMap):
     # Return the least played hero/aspect combination
-    least_played_hero = getHeroStats(playMap)[2]
+    least_played_hero = get_hero_stats(playMap)[2]
     combinations = ChampHeroes.hero_map[least_played_hero].genCombos()
     aspect_combos = []
     for combination in combinations:
@@ -215,7 +215,7 @@ if __name__ == "__main__":
     choices = sorted(choices, key=lambda x:(x[2], x[0], x[1]))
     choice_2 = (choices[0][0], choices[0][1])
 
-    hero_tuple = getHeroStats(hero_played_map)
+    hero_tuple = get_hero_stats(hero_played_map)
     double_print("Most played hero: %s (%d times). Least: %s (%d)" % (hero_tuple), out_file_h)
     aspect_tuple = getAspectStats(hero_played_map)
     double_print("Most played aspect: %s (%d times). Least: %s (%d)" % (aspect_tuple), out_file_h)

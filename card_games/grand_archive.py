@@ -93,8 +93,10 @@ if __name__ == "__main__":
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
-    
-    double_print("Buy %s (%s) from %s (have %d out of %d)" % (picked_item[0], chosen_class + ' ' + chosen_subtype, picked_item[1], picked_item[5], picked_item[6]), out_file_h)
+
+    sugg_string = f"Buy {picked_item[0]} ({chosen_class + ' ' + chosen_subtype}) from " + \
+        f"{picked_item[1]} (have {picked_item[5]} out of {picked_item[6]})"
+    double_print(sugg_string, out_file_h)
 
     out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):
