@@ -70,7 +70,7 @@ Ambush with a Surprise;Germany;USA;6/12/1944;;Western;1,2;8;White Star Rising
 Roosevelt's Butchers;Germany;USA;6/13/1944;;Western;1,2;10;White Star Rising
 The Hill of Death;Germany;UK;6/27/1944;;Western;1,2;8;White Star Rising
 Swamp Meet;Germany;USA;7/17/1944;;Western;1;9;White Star Rising
-Clash at the Crossroads;Germany;USA;7/23/1944;;Western;3;0;White Star Rising
+Clash at the Crossroads;Germany;USA;7/23/1944;;Western;3;9;White Star Rising
 A Bloody Meat Sandwich;Germany;USA;9/17/1944;;Western;2,3;8;White Star Rising
 From Minutes Into Days;Germany;USA;9/18/1944;;Western;3;6;White Star Rising
 Just Beyond the Trees;Germany;USA;11/11/1944;;Western;1;10;White Star Rising

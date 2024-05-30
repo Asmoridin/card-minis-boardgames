@@ -85,5 +85,17 @@ if __name__ == "__main__":
     earliest_scen_date = f"{month_map[earliest_scenario[3][0]]} {earliest_scenario[3][1]}, " + \
         f"{earliest_scenario[3][2]}"
     latest_scenario = scen_sorter[-1]
+    latest_scen_date = f"{month_map[latest_scenario[3][0]]} {latest_scenario[3][1]}, " + \
+        f"{latest_scenario[3][2]}"
     earliest_scen_str = f"Earliest scenario is {earliest_scenario[0]} - {earliest_scen_date}"
     double_print(earliest_scen_str, out_file_h)
+    latest_scen_str = f"Latest scenario is {latest_scenario[0]} - {latest_scen_date}"
+    double_print(latest_scen_str, out_file_h)
+
+    turn_scenarios = filter(lambda x: x[7] != 'Variable', scenarios)
+    scen_sorter = sorted(turn_scenarios, key = lambda x: (x[7], x[0]))
+    shortest_scenario = scen_sorter[0]
+    longest_scenario = scen_sorter[-1]
+    length_str = f"Shortest scenario is {shortest_scenario[0]} ({shortest_scenario[7]} turns)" + \
+        f"; longest is {longest_scenario[0]} ({longest_scenario[7]} turns)"
+    double_print(length_str, out_file_h)

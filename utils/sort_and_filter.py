@@ -30,9 +30,11 @@ def sort_and_filter(in_list:list, filter_index:int):
             sortable_map[item[filter_index]][0] += item[-2]
             sortable_map[item[filter_index]][1] += item[-1]
     item_sorter = []
-    for key in sortable_map:
-        item_sorter.append((key, sortable_map[key][0]/sortable_map[key][1], sortable_map[key][1] - sortable_map[key][0]))
+    for item_name, sort_vals in sortable_map.items():
+        item_sorter.append((item_name, sort_vals[0]/sort_vals[1], sort_vals[1] - sort_vals[0]))
     item_sorter = sorted(item_sorter, key=lambda x:(x[1], -x[2], x[0]))
+    #print(item_sorter)
+
     returned_value = item_sorter[0][0]
     ret_list = []
     if is_list:

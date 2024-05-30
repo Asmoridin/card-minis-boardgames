@@ -17,7 +17,7 @@ class Hero:
         if type(num_aspects) != type(0):
             raise ValueError('Invalid aspect count')
         self.num_aspects = num_aspects
-    def genCombos(self):
+    def gen_combos(self):
         """
         Generate all of the valid hero/aspect combinations for a particular hero.
         """
@@ -43,7 +43,7 @@ heroes.extend([
 
 hero_combinations = []
 for hero in heroes:
-    hero_combinations.extend(hero.genCombos())
+    hero_combinations.extend(hero.gen_combos())
 
 hero_map = {}
 for hero in heroes:

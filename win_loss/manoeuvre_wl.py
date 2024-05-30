@@ -92,10 +92,9 @@ for army, a_w_l in my_army_wl.items():
     army_h_index.append((army, sum(a_w_l)))
 army_h_index = sorted(army_h_index, key=lambda x:x[1], reverse=True)
 H_INDEX = 0
-for x in range(0, len(army_h_index)):
-    H_INDEX += 1
-    if not army_h_index[x][1] >= H_INDEX:
-        H_INDEX = H_INDEX - 1
+for x, army_games in enumerate(army_h_index):
+    if x > army_games[1]:
+        H_INDEX = x
         break
 double_print(f"\nMy H-Index is {H_INDEX}", out_file_h)
 

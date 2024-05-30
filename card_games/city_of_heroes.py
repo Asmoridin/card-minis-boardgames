@@ -79,8 +79,6 @@ for line in lines:
     card_type = validate_type(card_type)
     if card_type == "Power":
         card_powers = validate_powers(card_powers)
-    else:
-        card_powers = None
     card_own = int(card_own)
     if card_type == 'Hero':
         CARD_MAX = 1

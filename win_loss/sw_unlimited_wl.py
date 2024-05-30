@@ -128,11 +128,11 @@ for opp_leader in sorted(my_opp_leader_wl):
 
 MIN_SEEN = 1000000
 min_seen_leaders = []
-for leader in leader_games_map:
-    if leader_games_map[leader] < MIN_SEEN:
-        MIN_SEEN = leader_games_map[leader]
+for leader, leader_games in leader_games_map.items():
+    if leader_games < MIN_SEEN:
+        MIN_SEEN = leader_games
         min_seen_leaders = [leader]
-    elif leader_games_map[leader] == MIN_SEEN:
+    elif leader_games == MIN_SEEN:
         min_seen_leaders.append(leader)
 double_print(f"\nI've seen these leaders on the table the least ({MIN_SEEN} times): " + \
     f"{'; '.join(sorted(min_seen_leaders))}", out_file_h)

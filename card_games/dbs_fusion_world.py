@@ -72,8 +72,8 @@ chosen_card, filtered_list = sort_and_filter(filtered_list, 0)
 picked_item = filtered_list[0]
 
 singleton_traits = []
-for subtype in sub_type_map:
-    if sub_type_map[subtype] == 1:
+for subtype, subtype_count in sub_type_map.items():
+    if subtype_count == 1:
         singleton_traits.append(subtype)
 
 print("Folling traits show up only once: " + ', '.join(sorted(singleton_traits)))

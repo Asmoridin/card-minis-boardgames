@@ -28,10 +28,11 @@ def get_req_by_encounter(encounter_set):
     """
     For a particular encounter set, return the required encounters
     """
-    for encounter in encounters:
-        if encounter.name == encounter_set:
-            return encounter.required_encounters
-        
+    for check_encounter in encounters:
+        if check_encounter.name == encounter_set:
+            return check_encounter.required_encounters
+    return []
+
 class Encounter:
     def __init__(self, name, num_encounters, required_enc=[], can_infinity=True, mojo_only=False):
         self.name = name

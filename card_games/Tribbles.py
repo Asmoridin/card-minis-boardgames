@@ -10,11 +10,11 @@ import sys
 GAME_NAME = "Tribbles"
 
 if os.getcwd().endswith('card-minis-boardgames'):
-    file_h = open('card_games/DB/TribblesData.txt', 'r')
+    file_h = open('card_games/DB/TribblesData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
 else:
-    file_h = open('DB/TribblesData.txt', 'r')
+    file_h = open('DB/TribblesData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
 lines = file_h.readlines()

@@ -13,10 +13,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/DaemonDiceData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/DaemonDiceData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -32,34 +34,11 @@ for line in lines:
     TOTAL_OWN += own
     item_list.append((dice_demon, dice_part, own, dice_max))
 
-faction_map = {}
-for item in item_list:
-    if item[0] not in faction_map:
-        faction_map[item[0]] = [0, 0]
-    faction_map[item[0]][1] += item[3]
-    faction_map[item[0]][0] += item[2]
-faction_sorter = []
-for key in faction_map:
-    faction_sorter.append((key, faction_map[key][0]/faction_map[key][1], faction_map[key][1] - faction_map[key][0]))
-faction_sorter = sorted(faction_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_faction = faction_sorter[0][0]
-#print(chosen_faction)
+# Filter by faction
+chosen_faction, filtered_list = sort_and_filter(item_list, 0)
 
-filtered_list = []
-part_map = {}
-for item in item_list:
-    if item[0] == chosen_faction:
-        filtered_list.append(item)
-        if item[1] not in part_map:
-            part_map[item[1]] = [0, 0]
-        part_map[item[1]][0] += item[2]
-        part_map[item[1]][1] += item[3]
-part_sorter = []
-for key in part_map:
-    part_sorter.append((key, part_map[key][0]/part_map[key][1], part_map[key][1] - part_map[key][0]))
-part_sorter = sorted(part_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_part = part_sorter[0][0]
-#print(chosen_part)
+# Filter by body part
+chosen_part, filtered_list = sort_and_filter(filtered_list, 1)
 
 pick_list = []
 for item in filtered_list:

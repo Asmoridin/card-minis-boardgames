@@ -6,9 +6,9 @@ Deck play suggestor, W-L Tracker for KeyForge
 
 import os
 
-valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance', \
+valid_houses = ['Brobnar', 'Mars', 'Untamed', 'Logos', 'Sanctum', 'Shadows', 'Star Alliance',
     'Dis', 'Saurian Republic', 'Unfathomable', ] # Ekwidon
-valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation', \
+valid_sets = ['Call of the Archons', 'Worlds Collide', 'Age of Ascension', 'Mass Mutation',
     'Dark Tidings', ] # Winds of someting
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -21,6 +21,10 @@ else:
 my_decks = []
 
 class Deck:
+    """
+    Definition for a deck object, that tracks information about the contents of the deck
+    as well as its performance.
+    """
     def __init__(self, short_name, name, game_set, houses, notes):
         self.short_name = short_name
         self.name = name

@@ -20,10 +20,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/AnachronismData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('card_games/DB/AnachronismData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -45,35 +47,9 @@ for line in lines:
     TOTAL_OWN += card_own
     item_list.append((card_name, card_nation, card_set, card_own, card_max))
 
-nation_map = {}
-for item in item_list:
-    for nation in item[1]:
-        if nation not in nation_map:
-            nation_map[nation] = [0, 0]
-        nation_map[nation][1] += item[4]
-        nation_map[nation][0] += item[3]
-nation_sorter = []
-for key in nation_map:
-    nation_sorter.append((key, nation_map[key][0]/nation_map[key][1], nation_map[key][1] - nation_map[key][0]))
-nation_sorter = sorted(nation_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_nation = nation_sorter[0][0]
-#print(chosen_nation)
+chosen_nation, filtered_list = sort_and_filter(item_list, 1)
 
-filtered_list = []
-set_map = {}
-for item in item_list:
-    if chosen_nation in item[1]:
-        filtered_list.append(item)
-        if item[2] not in set_map:
-            set_map[item[2]] = [0, 0]
-        set_map[item[2]][0] += item[3]
-        set_map[item[2]][1] += item[4]
-set_sorter = []
-for key in set_map:
-    set_sorter.append((key, set_map[key][0]/set_map[key][1], set_map[key][1] - set_map[key][0]))
-set_sorter = sorted(set_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_set = set_sorter[0][0]
-#print(chosen_set)
+chosen_set, filtered_list = sort_and_filter(filtered_list, 2)
 
 pick_list = []
 for item in filtered_list:

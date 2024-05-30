@@ -22,7 +22,7 @@ lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
 
-def getMax(input):
+def get_max(input):
     """
     Return the maximum amount of an item I'd like to own (mostly 1)
     """
@@ -87,7 +87,7 @@ for line in lines:
         errors.append("Invalid source doc: %s" % source_doc)
         errors.append('Relevant line: ' + line)
     own_amount = int(own_amount)
-    max_amount = max(own_amount, 1, getMax(getMetaType(model_type)))
+    max_amount = max(own_amount, 1, get_max(getMetaType(model_type)))
     total_own += own_amount
     total_max += max_amount
     

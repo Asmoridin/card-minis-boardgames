@@ -14,8 +14,9 @@ def get_meta(army_name):
     """
     Conert an army into one of the grouping of armies, based on my own criteria
     """
-    if army_name in ['Black Templars', 'Blood Angels', 'Adeptus Astartes', 'Ultramarines', 'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands', 
-            'Space Wolves', 'Dark Angels', 'Grey Knights', 'Deathwatch']:
+    if army_name in ['Black Templars', 'Blood Angels', 'Adeptus Astartes', 'Ultramarines',
+        'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands',
+        'Space Wolves', 'Dark Angels', 'Grey Knights', 'Deathwatch']:
         return "Space Marines"
     elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', 'Chaos Knights', 'Heretic Astartes', 'Legiones Daemonica']:
         return "Chaos"
