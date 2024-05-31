@@ -46,7 +46,7 @@ for line in lines:
     rarity = rarity.split('/')
     for in_rarity in rarity:
         if in_rarity not in ['C', 'U', 'R', 'S', 'P', 'VP', 'V', 'B', 'AP', ]:
-            print("Invalid rarity of %s for %s" % (in_rarity, card_name))
+            print(f"Invalid rarity of {in_rarity} for {card_name}")
     if card_type not in ['Personnel', 'Ship', 'Dilemma', 'Equipment', 'Event', 'Interrupt', 'Mission', ]:
         print("Invalid card type of %s for %s" % (card_type, card_name))
     if print_type not in ['Print', 'Virtual', 'Both']:

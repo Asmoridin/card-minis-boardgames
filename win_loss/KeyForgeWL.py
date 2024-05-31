@@ -25,13 +25,13 @@ class Deck:
     Definition for a deck object, that tracks information about the contents of the deck
     as well as its performance.
     """
-    def __init__(self, short_name, name, game_set, houses, notes):
+    def __init__(self, short_name, name, in_set, houses, notes):
         self.short_name = short_name
         self.name = name
-        if game_set in valid_sets:
-            self.game_set = game_set
+        if in_set in valid_sets:
+            self.in_set = in_set
         else:
-            print('Invalid set: ' + game_set)
+            print('Invalid set: ' + in_set)
         self.houses = set()
         for house in houses.split(','):
             if house.strip() not in valid_houses:

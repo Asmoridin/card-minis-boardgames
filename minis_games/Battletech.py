@@ -22,16 +22,16 @@ lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
 
-def get_max(input):
+def get_max(input_item):
     """
     Return the maximum amount of an item I'd like to own (mostly 1)
     """
-    if input in ['Mech', 'Vehicle', 'Aerospace', ]:
+    if input_item in ['Mech', 'Vehicle', 'Aerospace', ]:
         return 1
-    elif input in ['Battle Armor', ]:
+    elif input_item in ['Battle Armor', ]:
         return 4 # 6 in Alpha Strike
     else:
-        print("Unknown max: " + input)
+        print("Unknown max: " + input_item)
         return 1
 
 def getMetaType(in_type):

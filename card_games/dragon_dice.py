@@ -16,7 +16,8 @@ valid_factions = army_factions + ['Medallion', 'Items', 'Dragons', 'Dragonkin', 
     'Major Terrain', 'Minor Terrain', 'Special Terrain']
 
 my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk', 'Eldarim',]
-my_future_factions = ['Amazons', 'Goblins', 'Scalders', 'Undead', 'Feral', 'Swamp Stalkers', 'Dwarves', 'Coral Elves', 'Lava Elves', 'Dracolem']
+my_future_factions = ['Amazons', 'Goblins', 'Scalders', 'Undead', 'Feral', 'Swamp Stalkers',
+    'Dwarves', 'Coral Elves', 'Lava Elves', 'Dracolem']
 
 def getMetaType(in_type):
     if in_type in army_factions:

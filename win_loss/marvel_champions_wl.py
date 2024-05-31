@@ -70,13 +70,13 @@ def get_hero_stats(play_map):
     - number of games with least played hero
     """
     sum_map = {} # Need to sum up the plays by each hero
-    for hero in ChampHeroes.heroes:
-        sum_map[hero.name] = 0
-    for (hero, aspect) in play_map:
-        sum_map[hero] += play_map[(hero, aspect)][0]
+    for this_hero in ChampHeroes.heroes:
+        sum_map[this_hero.name] = 0
+    for (this_hero, this_aspect) in play_map:
+        sum_map[this_hero] += play_map[(this_hero, this_aspect)][0]
     hero_list = []
-    for hero in sum_map:
-        hero_list.append((hero, sum_map[hero]))
+    for this_hero, hero_plays in sum_map.items():
+        hero_list.append((this_hero, hero_plays))
     hero_list = sorted(hero_list, key=lambda x:(x[1], x[0]))
     return(hero_list[-1][0], hero_list[-1][1], hero_list[0][0], hero_list[0][1])
 

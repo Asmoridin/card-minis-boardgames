@@ -18,7 +18,8 @@ def get_meta(army_name):
         'Imperial Fists', 'White Scars', 'Raven Guard', 'Salamanders', 'Iron Hands',
         'Space Wolves', 'Dark Angels', 'Grey Knights', 'Deathwatch']:
         return "Space Marines"
-    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', 'Chaos Knights', 'Heretic Astartes', 'Legiones Daemonica']:
+    elif army_name in ['Thousand Sons', 'Death Guard', 'World Eaters', 'Chaos Knights',
+        'Heretic Astartes', 'Legiones Daemonica']:
         return "Chaos"
     elif army_name in ['Aeldari', 'Drukhari']:
         return "Aeldari"

@@ -937,3 +937,5 @@ Zeus ZEU-9S2;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3
 Zeus ZEU-9S;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Zeus;Sniper;3050;0
 Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;0
 Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
+Infiltrator Mk. I Battle Armor "Waddle";Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Infiltrator Mk. I;Ambusher;3058;0
+Infiltrator Mk. I Battle Armor (Special Ops);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Infiltrator Mk. I;Ambusher;3058;0

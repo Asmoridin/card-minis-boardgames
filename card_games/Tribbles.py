@@ -80,4 +80,6 @@ if __name__ == "__main__":
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
-    double_print("Next purchase sould be %s - %s, where I have %.2f percent" % (lowest_card_qty, lowest_card_power, card_qty_sorter[0][1] * 100), out_file_h)
+    purch_str = f"Next purchase sould be {lowest_card_qty} - {lowest_card_power}, where I have " + \
+        f"{card_qty_sorter[0][1] * 100:.2f} percent"
+    double_print(purch_str, out_file_h)

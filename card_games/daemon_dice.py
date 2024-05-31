@@ -54,7 +54,8 @@ if __name__=="__main__":
     else:
         out_file_h = open("output/DaemonDiceOut.txt", 'w', encoding="UTF-8")
 
-    double_print("Have %d out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100*TOTAL_OWN/TOTAL_MAX), out_file_h)
+    inv_str = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100*TOTAL_OWN/TOTAL_MAX:.2f} percent"
+    double_print(inv_str, out_file_h)
     double_print("Buy a %s (have %d out of %d)" % (picked_item[0] + ' ' + picked_item[1], picked_item[2], picked_item[3]), out_file_h)
 
     out_file_h.close()

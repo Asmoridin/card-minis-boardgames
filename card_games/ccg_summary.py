@@ -63,7 +63,8 @@ if __name__ == "__main__":
         f"{TOTAL_MAX} cards/dice ({total_percentage:.2f} percent)"
     double_print(total_string, out_file_h)
     lowest_game_percentage = game_data[0][1]*100/game_data[0][2]
-    lowest_game_string = f"Lowest game is {game_data[0][0]} at {lowest_game_percentage:.2f} percent ({game_data[0][1]} / {game_data[0][2]})"
+    lowest_game_string = f"Lowest game is {game_data[0][0]} at {lowest_game_percentage:.2f} " + \
+        f"percent ({game_data[0][1]} / {game_data[0][2]})"
     double_print(lowest_game_string, out_file_h)
     next_lowest_percentage = game_data[1][1] * 100 / game_data[1][2]
     next_lowest_string = f"- (Next lowest game is {next_lowest_percentage:.2f} percent)"

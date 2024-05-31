@@ -34,6 +34,10 @@ def get_req_by_encounter(encounter_set):
     return []
 
 class Encounter:
+    """
+    Objects that handle all the information for an encounter, including valid/choices for
+    modular encounter sets
+    """
     def __init__(self, name, num_encounters, required_enc=[], can_infinity=True, mojo_only=False):
         self.name = name
         if type(num_encounters) != type(0):

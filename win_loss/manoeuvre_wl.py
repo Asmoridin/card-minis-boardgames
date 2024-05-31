@@ -109,11 +109,11 @@ for opp_army in sorted(my_opp_army_wl):
 
 MIN_SEEN = 1000000
 min_seen_armies = []
-for army in army_games_map:
-    if army_games_map[army] < MIN_SEEN:
-        MIN_SEEN = army_games_map[army]
+for army, army_games_played in army_games_map.items():
+    if army_games_played < MIN_SEEN:
+        MIN_SEEN = army_games_played
         min_seen_armies = [army]
-    elif army_games_map[army] == MIN_SEEN:
+    elif army_games_played == MIN_SEEN:
         min_seen_armies.append(army)
 double_print(f"\nI've seen these armies on the table the least {MIN_SEEN} times: " + \
     f"{', '.join(sorted(min_seen_armies))}", out_file_h)
