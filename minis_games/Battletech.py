@@ -35,6 +35,9 @@ def get_max(input_item):
         return 1
 
 def getMetaType(in_type):
+    """
+    For an item type, return a more general type
+    """
     if in_type in ['Heavy Vehicle', 'Medium Vehicle', 'Light Vehicle', 'Assault Vehicle', ]:
         return("Vehicle")
     elif in_type in ['Light Mech', 'Medium Mech', 'Assault Mech', 'Heavy Mech', ]:

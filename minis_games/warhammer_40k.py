@@ -23,7 +23,8 @@ def get_meta(army_name):
         return "Chaos"
     elif army_name in ['Aeldari', 'Drukhari']:
         return "Aeldari"
-    elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', "T'au Empire", 'Leagues of Votann', ]:
+    elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', "T'au Empire",
+        'Leagues of Votann', ]:
         return "Xenos"
     elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', 'Imperial Knights', ]:
         return "Imperium"

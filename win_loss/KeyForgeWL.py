@@ -33,11 +33,11 @@ class Deck:
         else:
             print('Invalid set: ' + in_set)
         self.houses = set()
-        for house in houses.split(','):
-            if house.strip() not in valid_houses:
-                print("Invalid house: " + house.strip())
+        for test_house in houses.split(','):
+            if test_house.strip() not in valid_houses:
+                print("Invalid house: " + test_house.strip())
             else:
-                self.houses.add(house.strip())
+                self.houses.add(test_house.strip())
         self.deck_note = notes
         self.games = 0
         self.wins = 0

@@ -80,7 +80,7 @@ def get_hero_stats(play_map):
     hero_list = sorted(hero_list, key=lambda x:(x[1], x[0]))
     return(hero_list[-1][0], hero_list[-1][1], hero_list[0][0], hero_list[0][1])
 
-def getAspectStats(playMap):
+def get_aspect_stats(playMap):
     # Return most played aspect, amount of times played said aspect, least played aspect, amount of plays for that aspect
     sum_map = {}
     for aspect in ChampHeroes.aspects:
@@ -223,7 +223,7 @@ if __name__ == "__main__":
 
     hero_tuple = get_hero_stats(hero_played_map)
     double_print("Most played hero: %s (%d times). Least: %s (%d)" % (hero_tuple), out_file_h)
-    aspect_tuple = getAspectStats(hero_played_map)
+    aspect_tuple = get_aspect_stats(hero_played_map)
     double_print("Most played aspect: %s (%d times). Least: %s (%d)" % (aspect_tuple), out_file_h)
     scenario_tuple = getVillainStats(enc_played_map)
     double_print("Most played scenario: %s (%d times). Least: %s (%d)" % (scenario_tuple), out_file_h)

@@ -19,7 +19,10 @@ my_current_factions = ['Frostwings', 'Fire Walkers', 'Treefolk', 'Eldarim',]
 my_future_factions = ['Amazons', 'Goblins', 'Scalders', 'Undead', 'Feral', 'Swamp Stalkers',
     'Dwarves', 'Coral Elves', 'Lava Elves', 'Dracolem']
 
-def getMetaType(in_type):
+def get_meta_type(in_type):
+    """
+    Take in a type of dice, and then return a more general dice group
+    """
     if in_type in army_factions:
         return 'Unit'
     elif in_type in ['Special Terrain', 'Major Terrain', 'Minor Terrain']:
@@ -89,10 +92,10 @@ for line in lines:
 
 meta_map = {}
 for item in item_list:
-    if getMetaType(item[1]) not in meta_map:
-        meta_map[getMetaType(item[1])] = [0, 0]
-    meta_map[getMetaType(item[1])][1] += item[4]
-    meta_map[getMetaType(item[1])][0] += item[3]
+    if get_meta_type(item[1]) not in meta_map:
+        meta_map[get_meta_type(item[1])] = [0, 0]
+    meta_map[get_meta_type(item[1])][1] += item[4]
+    meta_map[get_meta_type(item[1])][0] += item[3]
 meta_sorter = []
 for key in meta_map:
     meta_sorter.append((key, meta_map[key][0]/meta_map[key][1], meta_map[key][1] - meta_map[key][0]))
@@ -102,7 +105,7 @@ chosen_meta = meta_sorter[0][0]
 
 faction_map = {}
 for item in item_list:
-    if getMetaType(item[1]) != chosen_meta:
+    if get_meta_type(item[1]) != chosen_meta:
         continue
     if chosen_meta == 'Unit' and item[1] not in my_current_factions:
         continue

@@ -3,14 +3,14 @@ Android 16;Android;Battle;Green;3;FB01-073;Awakened Pulse;0
 Android 16;Android;Battle;Green;6;FB01-074;Awakened Pulse;0
 Android 16;Android;Battle;Green;7;FB02-075;Blazing Aura;0
 Android 17/Android 18;Android;Battle;Green;4;FB02-077;Blazing Aura;0
-Android 17/Android 18;Android;Battle;Green;6;FB01-078;Awakened Pulse;0
+Android 17/Android 18;Android;Battle;Green;6;FB01-078;Awakened Pulse;1
 Android 17;Android/Universe 7/Tournament of Power;Battle;Red;3;FB02-015;Blazing Aura;0
 Android 17;Android/Universe 7;Battle;Red;2;FB01-013;Awakened Pulse;1
 Android 17;Android/Universe 7;Battle;Red;3;FS01-06;Awakened Pulse;4
 Android 17;Android;Battle;Green;2;FB01-075;Awakened Pulse;0
 Android 17;Android;Battle;Green;3;FB01-076;Awakened Pulse;0
 Android 17;Android;Battle;Green;3;FB02-076;Blazing Aura;0
-Android 17;Android;Battle;Green;4;FB01-077;Awakened Pulse;1
+Android 17;Android;Battle;Green;4;FB01-077;Awakened Pulse;2
 Android 17;Android;Leader;Green;;FB01-070;Awakened Pulse;0
 Android 18;Android/Universe 7/Tournament of Power;Battle;Red;2;FB02-016;Blazing Aura;0
 Android 18;Android/Universe 7;Battle;Red;2;FB01-014;Awakened Pulse;0
@@ -22,17 +22,17 @@ Android 18;Android;Battle;Green;4;FB01-081;Awakened Pulse;0
 Android 18;Android;Battle;Yellow;3;FB02-116;Blazing Aura;0
 Android 19;Android;Battle;Green;1;FB02-079;Blazing Aura;0
 Android 19;Android;Battle;Green;2;FB01-082;Awakened Pulse;1
-Android 20;Android;Battle;Green;1;FB01-083;Awakened Pulse;1
+Android 20;Android;Battle;Green;1;FB01-083;Awakened Pulse;2
 Android 20;Android;Battle;Green;3;FB01-084;Awakened Pulse;0
 Android 20;Android;Battle;Green;3;FB02-080;Blazing Aura;0
 Angol;Alien;Battle;Green;2;FS03-02;Awakened Pulse;0
 Anilaza;Universe 3/Tournament of Power;Battle;Red;4;FB02-002;Blazing Aura;0
-Appule;Frieza's Army;Battle;Yellow;2;FB01-106;Awakened Pulse;0
-Assemble, Representatives of Universe 7!;Universe 7;Extra;Red;1;FB01-030;Awakened Pulse;1
+Appule;Frieza's Army;Battle;Yellow;2;FB01-106;Awakened Pulse;1
+Assemble, Representatives of Universe 7!;Universe 7;Extra;Red;1;FB01-030;Awakened Pulse;2
 Awakening to Perfect Form;Android;Extra;Green;7;FB02-100;Blazing Aura;0
 Awakening to Super Saiyan Rose;Saiyan;Extra;Blue;3;FB02-067;Blazing Aura;0
 Awakening to Super Saiyan;Saiyan;Extra;Red;2;FP-005;Promo;0
-Babarian;Alien;Battle;Blue;2;FB01-053;Awakened Pulse;0
+Babarian;Alien;Battle;Blue;2;FB01-053;Awakened Pulse;1
 Banan;Frieza's Army;Battle;Yellow;2;FB01-127;Awakened Pulse;0
 Basil;Trio De Dangers/Universe 9/Tournament of Power;Battle;Red;1;FB02-020;Blazing Aura;0
 Beerus;God of Destruction/Universe 7;Battle;Red;3;FS01-12;Awakened Pulse;2
@@ -43,12 +43,12 @@ Beerus;God of Destruction;Battle;Yellow;3;FB02-127;Blazing Aura;0
 Bergamo;Trio De Dangers/Universe 9/Tournament of Power;Battle;Red;2;FB02-025;Blazing Aura;0
 Big Bang Attack;Saiyan;Extra;Green;2;FB01-103;Awakened Pulse;0
 Black Kamehameha;Saiyan;Extra;Blue;1;FB01-067;Awakened Pulse;1
-Blade of Despair;Supreme Kai;Extra;Blue;2;FB01-064;Awakened Pulse;0
+Blade of Despair;Supreme Kai;Extra;Blue;2;FB01-064;Awakened Pulse;1
 Blades of Judgement;Supreme Kai/Potara;Extra;Blue;1;FB02-065;Blazing Aura;0
 Blue Power Awakening;Saiyan;Extra;Yellow;2;FB02-136;Blazing Aura;0
 Body Change;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-137;Awakened Pulse;1
 Bonds of Ginyu Force;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-133;Awakened Pulse;0
-Botamo;Universe 6;Battle;Red;2;FB01-028;Awakened Pulse;0
+Botamo;Universe 6;Battle;Red;2;FB01-028;Awakened Pulse;1
 Broly : BR;Saiyan;Battle;Green;7;FB02-096;Blazing Aura;0
 Broly : BR;Saiyan;Battle;Green;7;FP-014;Promo;0
 Broly : BR;Saiyan;Battle;Green;8;FS03-10;Awakened Pulse;0
@@ -57,16 +57,16 @@ Broly;Saiyan;Battle;Green;6;FP-003;Promo;0
 Broly;Saiyan;Battle;Green;6;FS03-09;Awakened Pulse;0
 Broly;Saiyan;Leader;Green;;FS03-01;Awakened Pulse;0
 Brother-Sister Combination;Android;Extra;Green;1;FB01-100;Awakened Pulse;0
-Bulma;Earthling;Battle;Blue;1;FB01-057;Awakened Pulse;0
+Bulma;Earthling;Battle;Blue;1;FB01-057;Awakened Pulse;1
 Bulma;Earthling;Battle;Blue;1;FB02-056;Blazing Aura;0
 Bulma;Earthling;Battle;Blue;1;FS02-12;Awakened Pulse;4
 Bulma;Earthling;Battle;Green;1;FB02-095;Blazing Aura;0
 Bulma;Earthling;Battle;Yellow;1;FB02-129;Blazing Aura;0
 Bulma;Earthling;Battle;Yellow;1;FB02-130;Blazing Aura;0
 Bulma;Earthling;Battle;Yellow;2;FP-012;Promo;0
-Burter;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB01-126;Awakened Pulse;2
+Burter;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB01-126;Awakened Pulse;3
 Cabba;Saiyan/Universe 6/Tournament of Power;Battle;Red;3;FB02-010;Blazing Aura;0
-Cabba;Saiyan/Universe 6;Battle;Red;7;FB01-007;Awakened Pulse;1
+Cabba;Saiyan/Universe 6;Battle;Red;7;FB01-007;Awakened Pulse;2
 Caroni/Piiza/Pirozhki;Earthling;Battle;Green;1;FB02-073;Blazing Aura;0
 Caulifla;Saiyan/Universe 6/Tournament of Power;Battle;Red;2;FB02-007;Blazing Aura;0
 Caulifla;Saiyan/Universe 6/Tournament of Power;Battle;Red;3;FB02-006;Blazing Aura;0
@@ -85,20 +85,20 @@ Chi-Chi;Earthling;Battle;Green;1;FB02-090;Blazing Aura;0
 Chilled;Frieza Clan;Battle;Yellow;3;FB01-121;Awakened Pulse;1
 Clash of the Strongest;Tournament of Power;Extra;Red;2;FB02-034;Blazing Aura;0
 Cooler;Frieza Clan;Battle;Yellow;1;FB02-111;Blazing Aura;0
-Cooler;Frieza Clan;Battle;Yellow;3;FB01-112;Awakened Pulse;0
+Cooler;Frieza Clan;Battle;Yellow;3;FB01-112;Awakened Pulse;1
 Cooler;Frieza Clan;Battle;Yellow;4;FB01-113;Awakened Pulse;0
 Cooler;Frieza Clan;Leader;Yellow;;FB01-105;Awakened Pulse;1
 Crusher Ball;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-135;Awakened Pulse;0
-Cui;Frieza's Army;Battle;Yellow;2;FB01-111;Awakened Pulse;0
+Cui;Frieza's Army;Battle;Yellow;2;FB01-111;Awakened Pulse;1
 Cui;Frieza's Army;Battle;Yellow;3;FS04-02;Awakened Pulse;0
 Death Ball;Frieza Clan/Frieza's Army;Extra;Yellow;1;FS04-16;Awakened Pulse;0
 Destructive Strength;Saiyan;Extra;Green;3;FS03-16;Awakened Pulse;0
 Divine Hammer;Supreme Kai/Potara;Extra;Blue;2;FB02-064;Blazing Aura;0
 Dodoria;Frieza's Army;Battle;Yellow;1;FB01-123;Awakened Pulse;1
 Dodoria;Frieza's Army;Battle;Yellow;1;FS04-10;Awakened Pulse;0
-Dore;Cooler's Armored Squadron;Battle;Yellow;2;FB01-122;Awakened Pulse;2
+Dore;Cooler's Armored Squadron;Battle;Yellow;2;FB01-122;Awakened Pulse;3
 Dr. Gero's Lab;Android;Extra;Green;3;FB01-102;Awakened Pulse;0
-Dr. Rota;Universe 6;Battle;Red;2;FB01-019;Awakened Pulse;1
+Dr. Rota;Universe 6;Battle;Red;2;FB01-019;Awakened Pulse;2
 Earth-Destroying Blow;Android;Extra;Green;2;FB02-104;Blazing Aura;0
 Energy Blast Volley;Saiyan;Extra;Yellow;1;FB02-138;Blazing Aura;0
 Eye Beam;Android;Extra;Green;1;FB01-099;Awakened Pulse;0
@@ -122,7 +122,7 @@ Galick Gun;Saiyan;Extra;Blue;1;FS02-15;Awakened Pulse;2
 Ganos;Universe 4/Tournament of Power;Battle;Red;3;FB02-005;Blazing Aura;0
 Gigantic Meteor;Saiyan;Extra;Green;1;FS03-15;Awakened Pulse;0
 Ginyu;Ginyu Force/Frieza's Army;Battle;Yellow;1;FB01-107;Awakened Pulse;0
-Ginyu;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB01-108;Awakened Pulse;0
+Ginyu;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB01-108;Awakened Pulse;1
 Ginyu;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB01-109;Awakened Pulse;0
 Ginyu;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB02-110;Blazing Aura;0
 Ginyu;Ginyu Force/Frieza's Army;Battle;Yellow;3;FB01-110;Awakened Pulse;0
@@ -144,13 +144,13 @@ Gotenks;Saiyan/Earthling;Battle;Blue;3;FS02-02;Awakened Pulse;4
 Gotenks;Saiyan/Earthling;Battle;Blue;4;FS02-03;Awakened Pulse;2
 Gotenks;Saiyan/Earthling;Battle;Yellow;4;FB02-0113;Blazing Aura;0
 Gowasu;Supreme Kai;Battle;Blue;1;FB01-040;Awakened Pulse;1
-Gowasu;Supreme Kai;Battle;Blue;2;FB01-041;Awakened Pulse;0
+Gowasu;Supreme Kai;Battle;Blue;2;FB01-041;Awakened Pulse;1
 Great Priest;Angel/Universe;Battle;Red;3;FB01-017;Awakened Pulse;0
 Great Saiyaman;Saiyan/Earthling;Battle;Blue;3;FB02-038;Blazing Aura;0
 Guldo;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB01-114;Awakened Pulse;0
 Haru/Maki;Earthling;Battle;Blue;1;FB01-054;Awakened Pulse;0
 Heles;God of Destruction/Universe 2;Battle;Red;4;FB02-026;Blazing Aura;0
-Hercule;Earthling;Battle;Green;1;FB01-097;Awakened Pulse;0
+Hercule;Earthling;Battle;Green;1;FB01-097;Awakened Pulse;1
 Hercule;Earthling;Battle;Green;2;FB02-098;Blazing Aura;0
 Hit;Universe 6;Battle;Red;2;FB01-021;Awakened Pulse;0
 Instant Kamehameha;Saiyan;Extra;Green;0;FB01-101;Awakened Pulse;1
@@ -172,12 +172,12 @@ King Vegeta;Saiyan;Battle;Green;7;FS03-12;Awakened Pulse;0
 Korin;Korin Tower;Battle;Green;1;FB02-072;Blazing Aura;0
 Krillin;Earthling/Universe 7;Battle;Red;2;FS01-04;Awakened Pulse;2
 Krillin;Earthling/Universe 7;Battle;Red;4;FB01-008;Awakened Pulse;0
-Krillin;Earthling;Battle;Green;1;FB01-072;Awakened Pulse;0
+Krillin;Earthling;Battle;Green;1;FB01-072;Awakened Pulse;1
 Krillin;Earthling;Battle;Green;2;FB02-074;Blazing Aura;0
 Krillin;Earthling;Battle;Yellow;2;FB02-112;Blazing Aura;0
 Lavender;Trio De Dangers/Universe 9/Tournament of Power;Battle;Red;2;FB02-028;Blazing Aura;0
 Lemo : BR;Frieza's Army;Battle;Yellow;1;FS04-14;Awakened Pulse;0
-Mafuba;Earthling/Universe 7;Extra;Red;1;FB01-034;Awakened Pulse;1
+Mafuba;Earthling/Universe 7;Extra;Red;1;FB01-034;Awakened Pulse;2
 Magetta;Universe 6;Battle;Red;2;FB01-029;Awakened Pulse;1
 Mai : Future;Earthling;Battle;Blue;1;FB01-061;Awakened Pulse;0
 Mai : Future;Earthling;Battle;Blue;1;FB01-062;Awakened Pulse;0
@@ -196,9 +196,9 @@ Murichim;Universe 10/Tournament of Power;Battle;Red;1;FB02-027;Blazing Aura;0
 Nail;Namekian;Battle;Yellow;7;FB01-125;Awakened Pulse;0
 Nappa;Saiyan;Battle;Green;2;FS03-05;Awakened Pulse;0
 Neiz;Cooler's Armored Squadron;Battle;Yellow;2;FB01-124;Awakened Pulse;0
-Now You See The Power of Ginyu Force!;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-128;Awakened Pulse;0
+Now You See The Power of Ginyu Force!;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-138;Awakened Pulse;1
 Old Kai;Supreme Kai;Battle;Blue;7;FB02-063;Blazing Aura;0
-Pan;Saiyan/Earthling;Battle;Blue;1;FB01-055;Awakened Pulse;0
+Pan;Saiyan/Earthling;Battle;Blue;1;FB01-055;Awakened Pulse;1
 Paparoni;Universe 3/Tournament of Power;Battle;Red;1;FB02-021;Blazing Aura;0
 Paragus : BR;Saiyan;Battle;Green;2;FB02-093;Blazing Aura;0
 Paragus;Saiyan;Battle;Green;2;FS03-06;Awakened Pulse;0
@@ -211,7 +211,7 @@ Piccolo;Namekian/God;Battle;Blue;3;FS02-11;Awakened Pulse;4
 Piccolo;Namekian/God;Battle;Green;2;FB01-094;Awakened Pulse;0
 Piccolo;Namekian/God;Battle;Yellow;3;FB02-126;Blazing Aura;0
 Piccolo;Namekian;Battle;Green;3;FB02-094;Blazing Aura;0
-Pilaf;Earthling;Battle;Blue;1;FB01-056;Awakened Pulse;1
+Pilaf;Earthling;Battle;Blue;1;FB01-056;Awakened Pulse;2
 Pirina;Namekian/Universe 6;Battle;Red;1;FB01-022;Awakened Pulse;1
 Quitela;God of Destruction/Universe 4;Battle;Red;2;FB02-008;Blazing Aura;0
 Raditz;Saiyan;Battle;Green;1;FS03-14;Awakened Pulse;0
@@ -252,7 +252,7 @@ Son Gohan : Future;Saiyan/Earthling;Battle;Green;5;FB02-089;Blazing Aura;0
 Son Goku;Saiyan/Universe 7/Tournament of Power;Battle;Red;3;FB02-017;Blazing Aura;0
 Son Goku;Saiyan/Universe 7/Tournament of Power;Leader;Red;;FB02-001;Blazing Aura;0
 Son Goku;Saiyan/Universe 7;Battle;Red;2;FP-006;Promo;0
-Son Goku;Saiyan/Universe 7;Battle;Red;3;FB01-015;Awakened Pulse;1
+Son Goku;Saiyan/Universe 7;Battle;Red;3;FB01-015;Awakened Pulse;2
 Son Goku;Saiyan/Universe 7;Battle;Red;4;FB01-139;Awakened Pulse;0
 Son Goku;Saiyan/Universe 7;Battle;Red;5;FS01-08;Awakened Pulse;2
 Son Goku;Saiyan/Universe 7;Leader;Red;;FB01-001;Awakened Pulse;0
@@ -260,11 +260,11 @@ Son Goku;Saiyan/Universe 7;Leader;Red;;FS01-01;Awakened Pulse;1
 Son Goku;Saiyan;Battle;Blue;1;FB02-050;Blazing Aura;0
 Son Goku;Saiyan;Battle;Blue;2;FB01-046;Awakened Pulse;0
 Son Goku;Saiyan;Battle;Blue;2;FB01-047;Awakened Pulse;1
-Son Goku;Saiyan;Battle;Blue;3;FB01-048;Awakened Pulse;1
+Son Goku;Saiyan;Battle;Blue;3;FB01-048;Awakened Pulse;2
 Son Goku;Saiyan;Battle;Blue;4;FB02-051;Blazing Aura;0
 Son Goku;Saiyan;Battle;Blue;4;FS02-04;Awakened Pulse;4
-Son Goku;Saiyan;Battle;Green;1;FB01-085;Awakened Pulse;0
-Son Goku;Saiyan;Battle;Green;2;FB01-086;Awakened Pulse;0
+Son Goku;Saiyan;Battle;Green;1;FB01-085;Awakened Pulse;2
+Son Goku;Saiyan;Battle;Green;2;FB01-086;Awakened Pulse;1
 Son Goku;Saiyan;Battle;Green;3;FB02-086;Blazing Aura;0
 Son Goku;Saiyan;Battle;Green;4;FP-008;Promo;0
 Son Goku;Saiyan;Battle;Green;5;FB01-087;Awakened Pulse;0
@@ -278,12 +278,12 @@ Son Goten;Saiyan/Earthling;Battle;Blue;2;FS02-06;Awakened Pulse;4
 Son Goten;Saiyan/Earthling;Battle;Yellow;2;FB02-120;Blazing Aura;0
 Sorbet;Frieza's Army;Battle;Yellow;1;FS04-07;Awakened Pulse;0
 Spy Robot;Robot;Battle;Green;1;FB02-081;Blazing Aura;0
-Strong Warriors of Universe 6;Universe 6;Extra;Red;1;FB01-031;Awakened Pulse;0
+Strong Warriors of Universe 6;Universe 6;Extra;Red;1;FB01-031;Awakened Pulse;1
 Sui;Frieza's Army;Battle;Yellow;3;FB01-120;Awakened Pulse;1
 Supernova;Frieza Clan;Extra;Yellow;1;FB01-136;Awakened Pulse;1
 Tagoma;Frieza's Army;Battle;Yellow;2;FS04-08;Awakened Pulse;0
 Tien Shinhan;Earthling/Universe 7/Tournament of Power;Battle;Red;3;FB02-019;Blazing Aura;0
-Tien Shinhan;Earthling/Universe 7;Battle;Red;1;FB01-018;Awakened Pulse;0
+Tien Shinhan;Earthling/Universe 7;Battle;Red;1;FB01-018;Awakened Pulse;1
 Tien Shinhan;Earthling/Universe 7;Battle;Red;1;FS01-10;Awakened Pulse;4
 Tien Shinhan;Earthling;Battle;Green;4;FB01-091;Awakened Pulse;0
 Tien Shinhan;Earthling;Battle;Yellow;3;FB02-123;Blazing Aura;0
@@ -291,14 +291,14 @@ Time Machine;Saiyan/Earthling;Extra;Blue;1;FB01-065;Awakened Pulse;0
 Time Rewound;Angel;Extra;Yellow;1;FB02-137;Blazing Aura;0
 Time Ring;Supreme Kai/Potara;Extra;Blue;1;FB02-069;Blazing Aura;0
 Time-Skip;Universe 6;Extra;Red;3;FB01-033;Awakened Pulse;2
-Tournament of Power Arena;World of Void;Extra;Red;2;FB01-032;Awakened Pulse;0
+Tournament of Power Arena;World of Void;Extra;Red;2;FB01-032;Awakened Pulse;1
 Tragedy in Ginger Town;Android;Extra;Green;3;FB02-101;Blazing Aura;0
 Trunks : Future;Saiyan/Earthling;Battle;Blue;2;FB01-049;Awakened Pulse;0
 Trunks : Future;Saiyan/Earthling;Battle;Blue;2;FB02-053;Blazing Aura;0
 Trunks : Future;Saiyan/Earthling;Battle;Blue;3;FB01-050;Awakened Pulse;1
 Trunks : Future;Saiyan/Earthling;Battle;Blue;4;FB01-051;Awakened Pulse;1
 Trunks : Future;Saiyan/Earthling;Battle;Green;2;FB01-093;Awakened Pulse;0
-Trunks : Future;Saiyan/Earthling;Battle;Green;3;FB01-092;Awakened Pulse;0
+Trunks : Future;Saiyan/Earthling;Battle;Green;3;FB01-092;Awakened Pulse;1
 Trunks : Future;Saiyan/Earthling;Battle;Green;3;FB02-091;Blazing Aura;0
 Trunks : Future;Saiyan/Earthling;Battle;Green;4;FB02-092;Blazing Aura;0
 Trunks : Future;Saiyan/Earthling;Leader;Blue;;FB01-036;Awakened Pulse;0
@@ -337,13 +337,13 @@ Videl;Earthling;Battle;Blue;1;FB02-054;Blazing Aura;0
 Videl;Earthling;Battle;Blue;7;FS02-10;Awakened Pulse;4
 Videl;Earthling;Battle;Yellow;1;FB02-125;Blazing Aura;0
 We Are Cooler's Armored Squadron!;Cooler's Armored Squadron;Extra;Yellow;1;FB01-134;Awakened Pulse;1
-Whis;Angel/Universe 7;Battle;Red;1;FB01-004;Awakened Pulse;0
+Whis;Angel/Universe 7;Battle;Red;1;FB01-004;Awakened Pulse;1
 Whis;Angel/Universe 7;Battle;Red;1;FS01-02;Awakened Pulse;4
 Whis;Angel;Battle;Yellow;4;FB02-106;Blazing Aura;0
 Whis;Angel;Battle;Yellow;5;FB02-107;Blazing Aura;0
 Yajirobe : Future;Earthling;Battle;Blue;7;FB01-063;Awakened Pulse;1
 Yamcha;Earthling;Battle;Green;2;FB02-099;Blazing Aura;0
-Yamcha;Earthling;Battle;Green;7;FB01-098;Awakened Pulse;0
+Yamcha;Earthling;Battle;Green;7;FB01-098;Awakened Pulse;1
 Zamasu : Fused;Supreme Kai/Potara;Battle;Blue;4;FB02-044;Blazing Aura;0
 Zamasu : Fused;Supreme Kai/Potara;Battle;Blue;5;FB02-045;Blazing Aura;0
 Zamasu : Fused;Supreme Kai/Potara;Battle;Blue;6;FB02-046;Blazing Aura;0
@@ -353,7 +353,7 @@ Zamasu;Supreme Kai;Battle;Blue;1;FB01-043;Awakened Pulse;1
 Zamasu;Supreme Kai;Battle;Blue;1;FB01-044;Awakened Pulse;0
 Zamasu;Supreme Kai;Battle;Blue;1;FB02-042;Blazing Aura;0
 Zamasu;Supreme Kai;Battle;Blue;2;FB02-043;Blazing Aura;0
-Zarbon;Frieza's Army;Battle;Yellow;1;FB01-116;Awakened Pulse;1
+Zarbon;Frieza's Army;Battle;Yellow;1;FB01-116;Awakened Pulse;2
 Zarbon;Frieza's Army;Battle;Yellow;2;FS04-05;Awakened Pulse;0
 Zen-Oh;Universe;Battle;Blue;6;FB02-049;Blazing Aura;0
 Zuno;Alien;Battle;Blue;2;FB02-048;Blazing Aura;0

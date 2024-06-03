@@ -124,7 +124,8 @@ for opponent in sorted(my_opp_wl):
 
 double_print("\nMy record against opposing leaders:", out_file_h)
 for opp_leader in sorted(my_opp_leader_wl):
-    double_print(f"{opp_leader}: {my_opp_leader_wl[opp_leader][0]}-{my_opp_leader_wl[opp_leader][1]}", out_file_h)
+    ldr_str = f"{opp_leader}: {my_opp_leader_wl[opp_leader][0]}-{my_opp_leader_wl[opp_leader][1]}"
+    double_print(ldr_str, out_file_h)
 
 MIN_SEEN = 1000000
 min_seen_leaders = []

@@ -38,11 +38,13 @@ class Encounter:
     Objects that handle all the information for an encounter, including valid/choices for
     modular encounter sets
     """
-    def __init__(self, name, num_encounters, required_enc=[], can_infinity=True, mojo_only=False):
+    def __init__(self, name, num_encounters, required_enc=None, can_infinity=True, mojo_only=False):
         self.name = name
         if type(num_encounters) != type(0):
             raise ValueError("Invalid modular encounter count")
         self.num_encounters = num_encounters
+        if required_enc is None:
+            required_enc = []
         self.required_encounters = required_enc
         for encounter in self.required_encounters:
             if encounter not in modular_encounters:

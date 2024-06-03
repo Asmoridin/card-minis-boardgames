@@ -20,7 +20,9 @@ street_fighter = ['Sagat', 'Ryu', 'Akuma', 'Zangief', 'Vega', 'C.Viper', 'Chun-L
 shovel_knight = ['Shovel Knight & Shield Knight', 'Propeller Knight', 'Mole Knight',
     'Tinker Knight', 'Plague Knight', 'Polar Knight', 'Treasure Knight', 'King Knight',
     'The Enchantress', 'Specter Knight', ] #10
-blazblue = ['Ragna', 'Tager', 'Taokaka', 'Rachel', 'Jin', 'Hakumen', 'Carl', 'Bang', 'Noel', 'Nu-13', 'Arakune', 'Litchi', 'Hazama', 'Nine the Phantom', 'Platinum the Trinity', 'Kokonoe', ] #16
+blazblue = ['Ragna', 'Tager', 'Taokaka', 'Rachel', 'Jin', 'Hakumen', 'Carl', 'Bang', 'Noel',
+    'Nu-13', 'Arakune', 'Litchi', 'Hazama', 'Nine the Phantom', 'Platinum the Trinity',
+    'Kokonoe', ] #16
 under_night = ['Yuzuriha', 'Carmine', 'Byakuya', 'Mika', 'Gordeau', 'Chaos', 'Hilda', 'Phonon', 'Seth', 'Enkdu', 'Vatista', 'Nanase', 'Orie', 'Waldstein', 'Merkava', 'Wagner', 'Hyde', 'Linne', 'Londrekia', ] #19
 guilty_gear = ['Sol Badguy', 'Ky Kiske', 'May', 'Axl Low', 'Chipp Zanuff', 'Potemkin', 'Faust', 'Millia Rage', 'Zato-1', 'Ramlethal Valentine', 'I-No', 'Nagoriyuki', 'Giovanna', 'Anji Mito', 'Leo Whitefang', 'Jack-O', 'Goldlewis Dickinson', 'Happy Chaos', 'Baiken', 'Testament', ] # 20
 
