@@ -1,0 +1,51 @@
+Agent Venom;Guardians of the Galaxy, S.H.I.E.L.D., Web Warriors;0
+Amazing Spider-Man;Defenders, Web Warriors/L;0
+Ancient One;Convocation, Defenders;0
+Angela;A-Force, Asgard, Guardians of the Galaxy;0
+Ant-Man;Avengers;0
+Arnim Zola;Cabal, Hydra;0
+Baron Helmut Zemo;Cabal, Hydra/L;0
+Baron Mordo;Cabal, Convocation;0
+Baron Strucker;Cabal, Hydra/L;0
+Baron Zemo;Cabal, Hydra;0
+Beast;Avengers, Inhumans, Uncanny X-Men;0
+Beta Ray Bill;Asgard, Guardians of the Galaxy;0
+Bishop;X-Force, Uncanny X-Men;0
+Black Bolt;Inhumans/L;0
+Black Cat;A-Force, Criminal Syndicate, Midnight Sons, Web Warriors;0
+Black Dwarf;Black Order;0
+Black Panther;Avengers, Wakanda/L;0
+Black Panther, Chosen of Bast;Wakanda;0
+Black Swan;Black Order;0
+Black Widow;A-Force, Avengers, S.H.I.E.L.D., Winter Guard;0
+Black Widow, Agent of S.H.I.E.L.D.;A-Force, Avengers, S.H.I.E.L.D.;0
+Blade;Avengers, Defenders, Midnight Sons/L;0
+Bob, Agent of Hydra;Cabal, Hydra;0
+Bullseye;Cabal, Criminal Syndicate;0
+Cable;Avengers, Uncanny X-Men, X-Force/L;0
+Captain America;Avengers/L;0
+Captain America (Sam Wilson);Avengers/L;0
+Captain America, First Avenger;Avengers/L, S.H.I.E.L.D.;0
+Captain Marvel;A-Force, Avengers;0
+Captain Marvel, Cosmic Avenger;A-Force, Avengers;0
+Carnage;Spider-Foes;0
+Cassandra Nova;Cabal, Sentinels;0
+Clea;Convocation, Defenders;0
+Colossus;Brotherhood of Mutants, Uncanny X-Men, X-Force;0
+Corvus Glaive;Black Order;0
+Cosmic Ghost Rider;Black Order, Guardians of the Galaxy;0
+Crimson Dynamo;Winter Guard/L;0
+Crossbones;Cabal, Criminal Syndicate, Hydra;0
+Crossbones, Merciless Merc;Cabal, Criminal Syndicate, Hydra;0
+Crystal;A-Force, Inhumans;0
+Cyclops;Uncanny X-Men/L;0
+Daredevil;Defenders/L, Web Warriors;0
+Darkstar;Winter Guard;0
+Deadpool;Avengers, Weapon X, X-Force;0
+Doc Ock, Sinister Scientist;Spider-Foes/L;0
+Doctor Octopus;Spider-Foes;0
+Doctor Strange;Convocation, Defenders/L, Midnight Sons;0
+Doctor Strange, Sorcerer Supreme;Convocation, Defenders;0
+Doctor Voodoo;Avengers, Convocation, Midnight Sons;0
+Domino;A-Force, Uncanny X-Men, Weapon X, X-Force;0
+Dormammu;Dark Dimension/L;0

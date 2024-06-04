@@ -80,31 +80,36 @@ def get_hero_stats(play_map):
     hero_list = sorted(hero_list, key=lambda x:(x[1], x[0]))
     return(hero_list[-1][0], hero_list[-1][1], hero_list[0][0], hero_list[0][1])
 
-def get_aspect_stats(playMap):
-    # Return most played aspect, amount of times played said aspect, least played aspect, amount of plays for that aspect
+def get_aspect_stats(play_map):
+    """
+    Return most played aspect, amount of times played said aspect, least played aspect,
+    amount of plays for that aspect
+    """
     sum_map = {}
-    for aspect in ChampHeroes.aspects:
-        sum_map[aspect] = 0
-    for (hero, aspect_tuple) in playMap:
-        for aspect in aspect_tuple:
-            sum_map[aspect] += playMap[(hero, aspect_tuple)][0]
+    for set_aspect in ChampHeroes.aspects:
+        sum_map[set_aspect] = 0
+    for (this_hero, this_aspect_tuple) in play_map:
+        for this_aspect in this_aspect_tuple:
+            sum_map[this_aspect] += play_map[(this_hero, this_aspect_tuple)][0]
 
     aspect_tuples = []
-    for aspect in sum_map:
-        aspect_tuples.append((aspect, sum_map[aspect]))
+    for this_aspect, aspect_plays in sum_map.items():
+        aspect_tuples.append((this_aspect, aspect_plays))
     aspect_tuples = sorted(aspect_tuples, key=lambda x:(x[1], x[0]))
     return(aspect_tuples[-1][0], aspect_tuples[-1][1], aspect_tuples[0][0], aspect_tuples[0][1])
 
-def getLeastPlayedHero(playMap):
-    # Return the least played hero/aspect combination
-    least_played_hero = get_hero_stats(playMap)[2]
+def get_least_played_hero(play_map):
+    """
+    Return the least played hero/aspect combination
+    """
+    least_played_hero = get_hero_stats(play_map)[2]
     combinations = ChampHeroes.hero_map[least_played_hero].gen_combos()
     aspect_combos = []
     for combination in combinations:
-        if combination not in playMap:
+        if combination not in play_map:
             aspect_combos.append((combination, 0))
         else:
-            aspect_combos.append((combination, playMap[combination]))
+            aspect_combos.append((combination, play_map[combination]))
     aspect_combos = sorted(aspect_combos, key=lambda x:(x[1], x[0][1]))
     return(aspect_combos[0][0][0], aspect_combos[0][0][1])
 
@@ -113,7 +118,7 @@ def get_least_played_encounter(in_enc_played_map):
     Given the list of games I've played, figure out which available villain has been
     played the least (possibly 0 times)
     """
-    chosen_villain = getVillainStats(in_enc_played_map)[2]
+    chosen_villain = get_villain_stats(in_enc_played_map)[2]
     if chosen_villain == 'The Hood':
         hood_encounters = sorted(random.sample(ChampEncounters.modular_encounters, 7))
         this_encounter = ('The Hood', tuple(hood_encounters))
@@ -128,21 +133,27 @@ def get_least_played_encounter(in_enc_played_map):
     encounter_played = sorted(encounter_played, key=lambda x: x[1])
     return encounter_played[0][0]
 
-def getVillainStats(encounter_map):
-    # Returns (most played villain, most played villain amount, least played villain, least played villain amount)
+def get_villain_stats(encounter_map):
+    """
+    Returns (most played villain, most played villain amount, least played villain,
+    least played villain amount)
+    """
     sum_map = {}
-    for villain in ChampEncounters.encounters:
-        sum_map[villain.name] = 0
+    for this_villain in ChampEncounters.encounters:
+        sum_map[this_villain.name] = 0
     for played_enc in encounter_map:
         sum_map[played_enc[0]] += encounter_map[played_enc][0]
     sum_tuples = []
-    for villain in sum_map:
-        sum_tuples.append((villain, sum_map[villain]))
+    for this_villain, this_villain_plays in sum_map.items():
+        sum_tuples.append((this_villain, this_villain_plays))
     sum_tuples = sorted(sum_tuples, key=lambda x:(x[1], x[0]))
     return(sum_tuples[-1][0], sum_tuples[-1][1], sum_tuples[0][0], sum_tuples[0][1])
 
-def getModularStats(encounter_map):
-    # Return most played encounter set, amount it was played, least played encounter set, amount played
+def get_modular_stats(encounter_map):
+    """
+    Return most played encounter set, amount it was played, least played encounter set,
+    amount played
+    """
     modular_sets = ChampEncounters.modular_encounters
     sum_map = {}
     for modular in modular_sets:
@@ -153,8 +164,8 @@ def getModularStats(encounter_map):
         for modular in played_enc[1]:
             sum_map[modular] += encounter_map[played_enc][0]
     mod_tuples = []
-    for modular in sum_map:
-        mod_tuples.append((modular, sum_map[modular]))
+    for modular, modular_plays in sum_map.items():
+        mod_tuples.append((modular, modular_plays))
     mod_tuples = sorted(mod_tuples, key=lambda x:(x[1], x[0]))
     return(mod_tuples[-1][0], mod_tuples[-1][1], mod_tuples[0][0], mod_tuples[0][1])
 
@@ -163,11 +174,11 @@ hero_lines = file_h.readlines()
 file_h.close()
 hero_lines = [line.strip() for line in hero_lines]
 hero_played_map = {}
-played_max = 0
+PLAYED_MAX = 0
 for line in hero_lines:
     hero_line = line.split(';')
-    if int(hero_line[2]) > played_max:
-        played_max = int(hero_line[2])
+    if int(hero_line[2]) > PLAYED_MAX:
+        PLAYED_MAX = int(hero_line[2])
     aspects = ()
     if hero_line[1] != '':
         aspects = tuple(hero_line[1].split('/'))
@@ -178,16 +189,17 @@ encounter_lines = enc_file_h.readlines()
 enc_file_h.close()
 encounter_lines = [line.strip() for line in encounter_lines]
 enc_played_map = {}
-played_max = 0
+PLAYED_MAX = 0
 for line in encounter_lines:
     #TODO: encounter_line[2] is the difficulty, do we want to do anything with it?
     encounter_line = line.split(';')
-    if int(encounter_line[3]) > played_max:
-        played_max = int(encounter_line[3])
+    if int(encounter_line[3]) > PLAYED_MAX:
+        PLAYED_MAX = int(encounter_line[3])
     encounter_sets = tuple(sorted(encounter_line[1].split('/')))
     if encounter_sets == ('',):
         encounter_sets = ()
-    enc_played_map[(encounter_line[0], encounter_sets)] = (int(encounter_line[3]), int(encounter_line[4]))
+    enc_map_key = (encounter_line[0], encounter_sets)
+    enc_played_map[enc_map_key] = (int(encounter_line[3]), int(encounter_line[4]))
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
@@ -195,13 +207,15 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/MarvelChampionsOut.txt", 'w', encoding="UTF-8")
     double_print("Generating a game", out_file_h)
-    double_print("There are %d different Hero/Aspect combinations, and %d different game pairings" % (total_hero_choices, determine_combinations()), out_file_h)
+    summ_str = f"There are {total_hero_choices} different Hero/Aspect combinations, and " + \
+        f"{determine_combinations()} different game pairings"
+    double_print(summ_str, out_file_h)
 
     double_print("Currently have played %.1f percent of Hero/Aspects" % (len(hero_played_map) * 100 / total_hero_choices), out_file_h)
     double_print("There are %d heroes, %d different encounters, and %d different modular encounter sets\n" % (len(ChampHeroes.heroes), len(ChampEncounters.encounters), len(ChampEncounters.modular_encounters)), out_file_h)
 
     # Choose first hero - always choose least played hero
-    choice_1 = getLeastPlayedHero(hero_played_map)
+    choice_1 = get_least_played_hero(hero_played_map)
 
     # Choose second hero, with lowest hero/aspect combination remaining
     choices = []
@@ -225,9 +239,9 @@ if __name__ == "__main__":
     double_print("Most played hero: %s (%d times). Least: %s (%d)" % (hero_tuple), out_file_h)
     aspect_tuple = get_aspect_stats(hero_played_map)
     double_print("Most played aspect: %s (%d times). Least: %s (%d)" % (aspect_tuple), out_file_h)
-    scenario_tuple = getVillainStats(enc_played_map)
+    scenario_tuple = get_villain_stats(enc_played_map)
     double_print("Most played scenario: %s (%d times). Least: %s (%d)" % (scenario_tuple), out_file_h)
-    modular_tuple = getModularStats(enc_played_map)
+    modular_tuple = get_modular_stats(enc_played_map)
     double_print("Most played modular encounter: %s (%d times). Least: %s (%d)" % (modular_tuple), out_file_h)
 
     # Choose an encounter

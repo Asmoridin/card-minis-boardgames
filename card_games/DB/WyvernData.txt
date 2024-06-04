@@ -18,7 +18,7 @@ Ananta;Dragon;Limited/Kingdom;1
 Ape;Intercept Action;Phoenix;0
 Apep;Dragon;Limited/Kingdom;1
 Apollo;Battle Action;Limited/Kingdom;0
-Archers;Battle Action;Limited/Kingdom;1
+Archers;Battle Action;Limited/Kingdom;2
 Arctic Winds;Terrain;Chameleon;0
 Argonauts;Dragon Slayer;Chameleon;0
 Armor;Battle Reaction;Premiere Limited/Limited/Kingdom;4
@@ -32,7 +32,7 @@ Bait;Dragon;Limited/Kingdom;1
 Banshee;Battle Action;Kingdom/Phoenix;0
 Basilisk;Dragon;Premiere Limited/Limited/Kingdom;1
 Battle Chaos;Battle Action;Premiere Limited/Limited/Kingdom;4
-Behomoth;Dragon;Limited/Kingdom;0
+Behomoth;Dragon;Limited/Kingdom;1
 Bellerophon;Dragon Slayer;Chameleon;0
 Beowulf;Dragon Slayer;Premiere Limited/Limited/Kingdom;4
 Bifrost;Treasure;Phoenix;0
@@ -50,7 +50,7 @@ Calypso;Reaction;Phoenix;0
 Camelot;Terrain;Kingdom/Phoenix;0
 Castle;Battle Action;Limited/Kingdom;1
 Catch a Thief;Reaction;Limited/Kingdom;3
-Cauldron;Treasure;Premiere Limited/Limited/Kingdom;3
+Cauldron;Treasure;Premiere Limited/Limited/Kingdom;4
 Cave;Terrain;Premiere Limited/Limited/Kingdom;4
 Cecrops;Dragon;Limited/Kingdom;1
 Celestial;Dragon;Premiere Limited/Limited/Kingdom;2
@@ -123,7 +123,7 @@ Firefly;Intercept Action;Phoenix;0
 Flag of Truce;Battle Action;Chameleon;0
 Flood;Battle Action;Premiere Limited/Limited/Kingdom;3
 Flying Boulder;Treasure;Chameleon;0
-Fog;Battle Action;Limited/Kingdom;0
+Fog;Battle Action;Limited/Kingdom;1
 Forest;Terrain;Premiere Limited/Limited/Kingdom;4
 Forest Fire;Terrain;Premiere Limited/Limited/Kingdom;2
 Fortuna;Battle Action;Kingdom/Phoenix;0
@@ -149,7 +149,7 @@ Gold Shortage;Action;Limited/Kingdom;4
 Gold Thief;Action;Limited/Kingdom;4
 Gold Vault;Treasure;Chameleon;0
 Golden Apple;Battle Action;Premiere Limited/Limited/Kingdom;4
-Golden Apples;Treasure;Premiere Limited/Limited/Kingdom;2
+Golden Apples;Treasure;Premiere Limited/Limited/Kingdom;3
 Golden Dragon;Dragon;Kingdom/Phoenix;0
 Golden Fleece;Treasure;Premiere Limited/Limited/Kingdom;0
 Golden Grasshopper;Battle Action;Phoenix;0
@@ -193,7 +193,7 @@ Indra's Spell;Reaction;Limited/Kingdom;1
 Inflation;Treasure;Phoenix;0
 Invisibility;Action;Limited/Kingdom;0
 Ishtar;Action;Phoenix;0
-Island;Terrain;Limited/Kingdom;0
+Island;Terrain;Limited/Kingdom;1
 Jason;Dragon Slayer;Premiere Limited/Limited/Kingdom;1
 Jewels;Treasure;Premiere Limited/Limited/Kingdom;4
 Jormungandr;Dragon;Premiere Limited/Limited/Kingdom;0
@@ -208,12 +208,12 @@ Knowledge;Action;Premiere Limited/Limited/Kingdom;4
 Kulkulcan;Dragon;Premiere Limited/Limited/Kingdom;1
 Labyrinth;Terrain;Kingdom/Phoenix;0
 Lacustrian;Dragon;Chameleon;0
-Laidly Worm;Dragon;Limited/Kingdom;0
+Laidly Worm;Dragon;Limited/Kingdom;1
 Lake;Terrain;Premiere Limited/Limited/Kingdom;4
-Lambton Worm;Dragon;Premiere Limited/Limited/Kingdom;1
+Lambton Worm;Dragon;Premiere Limited/Limited/Kingdom;2
 Last Will and Testament;Battle Action;Chameleon;0
 Leviathan;Dragon;Premiere Limited/Limited/Kingdom;1
-Lightning;Action;Limited/Kingdom;2
+Lightning;Action;Limited/Kingdom;3
 Lindwurm;Dragon;Premiere Limited/Limited/Kingdom;2
 Loki;Dragon;Limited/Kingdom;1
 Lost City;Action;Chameleon;0
@@ -248,11 +248,11 @@ Mixcoatl;Dragon;Chameleon;0
 Mo-o;Dragon;Limited/Kingdom;2
 Moat;Terrain;Premiere Limited/Limited/Kingdom;3
 Moghur;Dragon;Premiere Limited/Limited/Kingdom;2
-Mokelembembe;Dragon;Premiere Limited/Limited/Kingdom;0
-Mount Chung;Dragon;Limited/Kingdom;0
+Mokelembembe;Dragon;Premiere Limited/Limited/Kingdom;1
+Mount Chung;Dragon;Limited/Kingdom;1
 Mountains;Terrain;Premiere Limited/Limited/Kingdom;1
 Mucilinda;Dragon;Chameleon;0
-Mushussu;Dragon;Premiere Limited/Limited/Kingdom;1
+Mushussu;Dragon;Premiere Limited/Limited/Kingdom;2
 Naga;Dragon;Premiere Limited/Limited/Kingdom;1
 Nebula;Terrain;Chameleon;0
 Nectar;Treasure;Phoenix;0
@@ -277,7 +277,7 @@ Panther;Battle Action;Kingdom/Phoenix;0
 Pearl;Treasure;Premiere Limited/Limited/Kingdom;4
 Phoenix;Intercept Action;Phoenix;0
 Phrygian;Dragon;Premiere Limited/Limited/Kingdom;0
-Pi-Hsi;Dragon;Limited/Kingdom;0
+Pi-Hsi;Dragon;Limited/Kingdom;2
 Piasa;Dragon;Phoenix;0
 Pick a Treasure;Treasure;Premiere Limited/Limited/Kingdom;4
 Pirendeus Tree;Action;Limited/Kingdom;4
@@ -294,7 +294,7 @@ Possession Spell;Battle Action;Premiere Limited/Limited/Kingdom;4
 Power Switch;Battle Action;Premiere Limited/Limited/Kingdom;1
 Precious Gems;Treasure;Chameleon;0
 Price Hike;Treasure;Phoenix;0
-Princess Libya;Treasure;Premiere Limited/Limited/Kingdom;3
+Princess Libya;Treasure;Premiere Limited/Limited/Kingdom;4
 Prometheus;Battle Action;Phoenix;0
 Puk;Reaction;Kingdom/Phoenix;0
 Python;Dragon;Limited/Kingdom;2
@@ -351,7 +351,7 @@ St. George;Dragon Slayer;Premiere Limited/Limited/Kingdom;4
 Steal Strength;Battle Reaction;Limited/Kingdom;1
 Stolen Equipment;Action;Chameleon;0
 Strangle Hold;Action;Premiere Limited/Limited/Kingdom;1
-Stream;Terrain;Limited/Kingdom;3
+Stream;Terrain;Limited/Kingdom;4
 Subterranean Gold Mine;Treasure;Limited/Kingdom;0
 Subterranean Lair;Terrain;Limited/Kingdom;1
 Subterranean River;Action;Limited/Kingdom;4
@@ -363,7 +363,7 @@ Swamp Hole;Terrain;Premiere Limited/Limited/Kingdom;1
 Swamp of Lernea;Terrain;Chameleon;0
 Sword;Treasure;Premiere Limited/Limited/Kingdom;4
 Tablets of Destiny;Treasure;Limited/Kingdom;0
-Tarasque;Dragon;Premiere Limited/Limited/Kingdom;1
+Tarasque;Dragon;Premiere Limited/Limited/Kingdom;2
 Tatsu;Dragon;Kingdom/Phoenix;0
 Tatzlwurm;Dragon;Limited/Kingdom;1
 Tengu;Battle Action;Phoenix;0
@@ -390,7 +390,7 @@ Trojan Horse;Treasure;Phoenix;0
 Trolls;Hidden Action;Phoenix;0
 Tsunami;Action;Premiere Limited/Limited/Kingdom;3
 Tunnel;Terrain;Premiere Limited/Limited/Kingdom;1
-Turn the Tables;Action;Premiere Limited/Limited/Kingdom;0
+Turn the Tables;Action;Premiere Limited/Limited/Kingdom;1
 Twister;Action;Premiere Limited/Limited/Kingdom;4
 Typhon;Dragon;Premiere Limited/Limited/Kingdom;2
 Underground Avalanche;Terrain;Limited/Kingdom;1
@@ -408,7 +408,7 @@ Vouivre;Dragon;Premiere Limited/Limited/Kingdom;0
 Wall;Terrain;Premiere Limited/Limited/Kingdom;1
 Wandering Rocks;Terrain;Kingdom/Phoenix;0
 Waterfall;Terrain;Chameleon;0
-Whirlpool;Action;Premiere Limited/Limited/Kingdom;0
+Whirlpool;Action;Premiere Limited/Limited/Kingdom;1
 White;Dragon;Limited/Kingdom;1
 White-Eared Dragon;Dragon;Phoenix;0
 Windfall;Action;Chameleon;0
