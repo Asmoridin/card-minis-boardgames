@@ -16,7 +16,7 @@ Amphiptere;Dragon;Premiere Limited/Limited/Kingdom;2
 Amphisbena;Dragon;Premiere Limited/Limited/Kingdom;2
 Ananta;Dragon;Limited/Kingdom;1
 Ape;Intercept Action;Phoenix;0
-Apep;Dragon;Limited/Kingdom;1
+Apep;Dragon;Limited/Kingdom;2
 Apollo;Battle Action;Limited/Kingdom;0
 Archers;Battle Action;Limited/Kingdom;2
 Arctic Winds;Terrain;Chameleon;0
@@ -160,7 +160,7 @@ Great Library of Ninevah;Treasure;Limited/Kingdom;1
 Green Dragon;Dragon;Kingdom/Phoenix;0
 Grendel;Dragon;Premiere Limited/Limited/Kingdom;0
 Grotto;Terrain;Chameleon;0
-Growth Spurt;Treasure;Limited/Kingdom;1
+Growth Spurt;Treasure;Limited/Kingdom;2
 Gryphon;Dragon;Premiere Limited/Limited/Kingdom;2
 Guivre;Dragon;Premiere Limited/Limited/Kingdom;2
 Gully;Action;Limited/Kingdom;4
@@ -176,7 +176,7 @@ Hege;Dragon;Chameleon;0
 Helix;Dragon;Chameleon;0
 Help;Battle Action;Premiere Limited/Limited/Kingdom;4
 Help from Beyond;Battle Action;Limited/Kingdom;0
-Hercules;Action;Limited/Kingdom;3
+Hercules;Action;Limited/Kingdom;4
 Hero;Action;Premiere Limited/Limited/Kingdom;2
 Hidden Gold;Treasure;Chameleon;0
 Hidden Naga;Dragon;Phoenix;0
@@ -187,7 +187,7 @@ Hurricane;Terrain;Limited/Kingdom;4
 Hydra;Dragon;Premiere Limited/Limited/Kingdom;2
 Hypnos;Battle Action;Kingdom/Phoenix;0
 Ida;Terrain;Kingdom/Phoenix;0
-Illuyankus;Dragon;Limited/Kingdom;1
+Illuyankus;Dragon;Limited/Kingdom;2
 Indra;Dragon;Limited/Kingdom;0
 Indra's Spell;Reaction;Limited/Kingdom;1
 Inflation;Treasure;Phoenix;0
@@ -312,10 +312,10 @@ Ring of Destiny;Treasure;Chameleon;0
 Ring of Power;Treasure;Chameleon;0
 Riparian;Dragon;Chameleon;0
 Ripplet;Dragon;Chameleon;0
-River;Terrain;Premiere Limited/Limited/Kingdom;2
+River;Terrain;Premiere Limited/Limited/Kingdom;3
 Roc;Battle Action;Kingdom/Phoenix;0
 Royal Archers;Battle Action;Chameleon;0
-Ruins;Terrain;Limited/Kingdom;2
+Ruins;Terrain;Limited/Kingdom;3
 Runic Tablet;Treasure;Chameleon;0
 Rustem;Dragon Slayer;Chameleon;0
 Ryu;Dragon;Limited/Kingdom;2
@@ -365,7 +365,7 @@ Sword;Treasure;Premiere Limited/Limited/Kingdom;4
 Tablets of Destiny;Treasure;Limited/Kingdom;0
 Tarasque;Dragon;Premiere Limited/Limited/Kingdom;2
 Tatsu;Dragon;Kingdom/Phoenix;0
-Tatzlwurm;Dragon;Limited/Kingdom;1
+Tatzlwurm;Dragon;Limited/Kingdom;2
 Tengu;Battle Action;Phoenix;0
 Teuton;Dragon;Chameleon;0
 The Gambler;Action;Limited/Kingdom;0
@@ -405,7 +405,7 @@ Vishnu;Action;Limited/Kingdom;1
 Vittra;Dragon;Premiere Limited/Limited/Kingdom;2
 Volcanic Eruption;Action;Premiere Limited/Limited/Kingdom;4
 Vouivre;Dragon;Premiere Limited/Limited/Kingdom;0
-Wall;Terrain;Premiere Limited/Limited/Kingdom;1
+Wall;Terrain;Premiere Limited/Limited/Kingdom;2
 Wandering Rocks;Terrain;Kingdom/Phoenix;0
 Waterfall;Terrain;Chameleon;0
 Whirlpool;Action;Premiere Limited/Limited/Kingdom;1

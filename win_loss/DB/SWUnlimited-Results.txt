@@ -8,3 +8,10 @@ Director Krennic, Aspiring to Authority;Y;Elias;Darth Vader, Dark Lord of the Si
 Boba Fett, Collecting the Bounty;G;Dan;Leia Organa, Alliance General;R;L
 Boba Fett, Collecting the Bounty;G;Dan;Leia Organa, Alliance General;R;W
 Chirrut Imwe, One with the Force;R;Dan;Leia Organa, Alliance General;R;L
+Cassian Andor, Dedicated to the Rebellion;Y;Mark (Let's Play);Sabine Wren, Galvanized Revolutionary;G;L
+Emperor Palpatine, Galactic Ruler;U;CJ;Chirrut Imwe, One with the Force;R;L
+Emperor Palpatine, Galactic Ruler;U;CJ;Chirrut Imwe, One with the Force;R;L
+Cassian Andor, Dedicated to the Rebellion;Y;CJ;Chirrut Imwe, One with the Force;R;W
+Emperor Palpatine, Galactic Ruler;U;Braden;Sabine Wren, Galvanized Revolutionary;Y;L
+Emperor Palpatine, Galactic Ruler;U;Braden;Sabine Wren, Galvanized Revolutionary;Y;W
+Cassian Andor, Dedicated to the Rebellion;Y;Braden;Sabine Wren, Galvanized Revolutionary;Y;L

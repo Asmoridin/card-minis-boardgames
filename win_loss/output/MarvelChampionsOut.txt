@@ -1,7 +1,7 @@
 Generating a game
 There are 265 different Hero/Aspect combinations, and 28300 different game pairings
 Currently have played 44.9 percent of Hero/Aspects
-There are 52 heroes, 46 different encounters, and 89 different modular encounter sets
+There are 52 heroes, 46different encounters, and 89 different modular encounter sets
 
 Most played hero: Rocket Racoon (18 times). Least: Bishop (0)
 Most played aspect: Protection (55 times). Least: 'Pool (1)

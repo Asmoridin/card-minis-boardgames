@@ -1,11 +1,13 @@
 Star Wars: Unlimited W/L Loss Tracker, and deck selector
-My current record is 8-2
+My current record is 10-7
 
 My record by leader:
 Boba Fett, Collecting the Bounty: 1-1
+Cassian Andor, Dedicated to the Rebellion: 1-2
 Chirrut Imwe, One with the Force: 0-1
 Darth Vader, Dark Lord of the Sith: 1-0
 Director Krennic, Aspiring to Authority: 2-0
+Emperor Palpatine, Galactic Ruler: 1-3
 Hera Syndulla, Spectre Two: 1-0
 Leia Organa, Alliance General: 2-0
 Luke Skywalker, Faithful Friend: 1-0
@@ -13,25 +15,30 @@ Luke Skywalker, Faithful Friend: 1-0
 My H-Index is 2
 
 My record by aspect:
-Aggression: 4-1
-Command: 5-1
-Cunning: 4-1
-Heroism: 4-1
-Vigilance: 3-1
-Villainy: 4-1
+Aggression: 5-3
+Command: 6-4
+Cunning: 5-3
+Heroism: 5-3
+Vigilance: 4-4
+Villainy: 5-4
 
 My record against opponents:
+Braden: 1-2
+CJ: 1-2
 Dan: 2-2
 Elias: 4-0
+Mark (Let's Play): 0-1
 Matt: 2-0
 
 My record against opposing leaders:
+Chirrut Imwe, One with the Force: 1-2
 Darth Vader, Dark Lord of the Sith: 2-0
 Grand Admiral Thrawn, Patient and Insightful: 1-0
 Iden Versio, Inferno Squad Commander: 2-0
 Leia Organa, Alliance General: 1-2
 Luke Skywalker, Faithful Friend: 2-0
+Sabine Wren, Galvanized Revolutionary: 1-3
 
-I've seen these leaders on the table the least (0 times): Cassian Andor, Dedicated to the Rebellion; Chewbacca, Walking Carpet; Emperor Palpatine, Galactic Ruler; Grand Inquisitor, Hunting the Jedi; Grand Moff Tarkin, Oversector Governor; Han Solo, Audacious Smuggler; IG-88, Ruthless Bounty Hunter; Jyn Erso, Resisting Oppression; Sabine Wren, Galvanized Revolutionary
+I've seen these leaders on the table the least (0 times): Chewbacca, Walking Carpet; Grand Inquisitor, Hunting the Jedi; Grand Moff Tarkin, Oversector Governor; Han Solo, Audacious Smuggler; IG-88, Ruthless Bounty Hunter; Jyn Erso, Resisting Oppression
 
-I should play more games with Cassian Andor, Dedicated to the Rebellion, as I only have 0 games
+I should play more games with Chewbacca, Walking Carpet, as I only have 0 games

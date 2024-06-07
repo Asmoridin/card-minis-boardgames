@@ -211,8 +211,13 @@ if __name__ == "__main__":
         f"{determine_combinations()} different game pairings"
     double_print(summ_str, out_file_h)
 
-    double_print("Currently have played %.1f percent of Hero/Aspects" % (len(hero_played_map) * 100 / total_hero_choices), out_file_h)
-    double_print("There are %d heroes, %d different encounters, and %d different modular encounter sets\n" % (len(ChampHeroes.heroes), len(ChampEncounters.encounters), len(ChampEncounters.modular_encounters)), out_file_h)
+    play_str = f"Currently have played {len(hero_played_map) * 100 / total_hero_choices:.1f} " + \
+        "percent of Hero/Aspects"
+    double_print(play_str, out_file_h)
+    summ_str = f"There are {len(ChampHeroes.heroes)} heroes, {len(ChampEncounters.encounters)}" + \
+        f"different encounters, and {len(ChampEncounters.modular_encounters)} different " + \
+        "modular encounter sets\n"
+    double_print(summ_str, out_file_h)
 
     # Choose first hero - always choose least played hero
     choice_1 = get_least_played_hero(hero_played_map)
@@ -229,7 +234,8 @@ if __name__ == "__main__":
         if not VALID:
             continue
         if (hero_choice[0], hero_choice[1]) in hero_played_map:
-            choices.append((hero_choice[0], hero_choice[1], hero_played_map[(hero_choice[0], hero_choice[1])][0]))
+            choices.append((hero_choice[0], hero_choice[1], 
+                hero_played_map[(hero_choice[0], hero_choice[1])][0]))
         else:
             choices.append((hero_choice[0], hero_choice[1], 0))
     choices = sorted(choices, key=lambda x:(x[2], x[0], x[1]))
