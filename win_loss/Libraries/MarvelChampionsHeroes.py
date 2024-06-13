@@ -25,7 +25,7 @@ class Hero:
         aspect_combos = itertools.combinations(aspects, self.num_aspects)
         for aspect_combo in aspect_combos:
             ret_list.append((self.name, tuple(sorted(aspect_combo))))
-        return(ret_list)
+        return ret_list
 
 heroes = []
 heroes.extend([

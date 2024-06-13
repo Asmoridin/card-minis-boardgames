@@ -46,12 +46,15 @@ class Encounter:
         if required_enc is None:
             required_enc = []
         self.required_encounters = required_enc
-        for encounter in self.required_encounters:
-            if encounter not in modular_encounters:
-                raise ValueError("Invalid required encounter: " + encounter)
+        for this_encounter in self.required_encounters:
+            if this_encounter not in modular_encounters:
+                raise ValueError("Invalid required encounter: " + this_encounter)
         self.can_infinity = can_infinity
         self.mojo_only = mojo_only
-    def genCombos(self):
+    def gen_combos(self):
+        """
+        Generate all possible combos for this particular Encounter.
+        """
         ret_list = []
         if self.mojo_only:
             modular_combos = itertools.combinations(mojo_encounters, self.num_encounters)
@@ -66,8 +69,8 @@ class Encounter:
                 valid = False
             if valid:
                 ret_list.append((self.name, tuple(sorted(modular_combo))))
-        return(ret_list)
-    
+        return ret_list
+
 encounters.extend([
   Encounter('Rhino', 1),
   Encounter('Klaw', 1),

@@ -35,7 +35,7 @@ Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
 Lieutenant Childsen, Death Star Prison Warden;SOR-035-U;Ground Unit;U/B;3
 Gideon Hask, Ruthless Loyalist;SOR-036-R;Ground Unit;U/B;3
 Academy Defense Walker;SOR-037-C;Ground Unit;U/B;3
-Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;U/B;2
+Count Dooku, Darth Tyranus;SOR-038-R;Ground Unit;U/B;3
 AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;2 # 1 hyperspace
 Avenger, Hunting Star Destroyer;SOR-040-L;Space Unit;U/B;1
 Power of the Dark Side;SOR-041-U;Event;U/B;2
@@ -68,7 +68,7 @@ Rugged Survivors;SOR-067-C;Ground Unit;U;3 #1 foil, 1 hyperspace
 Cargo Juggernaut;SOR-068-C;Ground Unit;U;3
 Resilient;SOR-069-C;Upgrade;U;3 # 1 foil
 Devotion;SOR-070-U;Upgrade;U;2 # 1 foil
-Electrostaff;SOR-071-R;Upgrade;U;1
+Electrostaff;SOR-071-R;Upgrade;U;3
 Entrenched;SOR-072-U;Upgrade;U;3
 Moment of Peace;SOR-073-C;Event;U;3 # 1xHyperspace
 Repair;SOR-074-C;Event;U;3 # 1 foil
@@ -93,15 +93,15 @@ Overwhelming Barrage;SOR-092-U;Event;G/B;3
 Alliance Dispatcher;SOR-093-C;Ground Unit;G/W;3
 Bail Organa, Rebel Councilor;SOR-094-R;Ground Unit;G/W;2
 Battlefield Marine;SOR-095-C;Ground Unit;G/W;3
-Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;1
-Admiral Ackbar, Brilliant Strategist;SOR-097-R;Ground Unit;G/W;1
+Mon Mothma, Voice of the Rebellion;SOR-096-U;Ground Unit;G/W;3
+Admiral Ackbar, Brilliant Strategist;SOR-097-R;Ground Unit;G/W;3
 Echo Base Defender;SOR-098-C;Ground Unit;G/W;3
-Bright Hope, The Last Transport;SOR-099-U;Space Unit;G/W;1
+Bright Hope, The Last Transport;SOR-099-U;Space Unit;G/W;3
 Wedge Antilles, Star of the Rebllion;SOR-100-R;Ground Unit;G/W;2
 Rogue Squadron Skirmisher;SOR-101-U;Ground Unit;G/W;3
 Home One, Alliance Flagship;SOR-102-L;Space Unit;G/W;2
 Rebel Assault;SOR-103-U;Event;G/W;3 # 1 hyperspace, 1 hyperspace foil, 1 hyperspace
-U-Wing Reinforcement;SOR-104-R;Event;G/W;1
+U-Wing Reinforcement;SOR-104-R;Event;G/W;2
 General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;1
 Attack Pattern Delta;SOR-106-U;Event;G;3 # 1x Foil, 1 hyperfoil
 Command;SOR-107-L;Event;G;1
@@ -119,7 +119,7 @@ Mercenary Company;SOR-117-C;Ground Unit;G;3
 Reinforcement Walker;SOR-119-U;Ground Unit;G;3
 Academy Training;SOR-120-C;Upgrade;G;3
 Hardpoint Heavy Blaster;SOR-121-U;Upgrade;G;3
-Traitorous;SOR-122-R;Upgrade;G;1
+Traitorous;SOR-122-R;Upgrade;G;2
 Recruit;SOR-123-C;Event;G;3 # 2 foil, 1 hyperspace
 Tactical Advantage;SOR-124-C;Event;G;3
 Prepare for Takeoff;SOR-125-C;Event;G;2
@@ -149,7 +149,7 @@ Guerilla Attack Pod;SOR-148-C;Ground Unit;R/W;3
 Mace Windu, Party Crasher;SOR-149-L;Ground Unit;R/W;2 # 1 foil
 Heroic Sacrifice;SOR-150-R;Event;R/W;1
 Karabast;SOR-151-U;Event;R/W;3
-For a Cause I Believe In;SOR-152-R;Event;R/W;1
+For a Cause I Believe In;SOR-152-R;Event;R/W;3
 Saw Gerrera, Extremist;SOR-153-R;Ground Unit;R;1
 Rallying Cry;SOR-154-U;Event;R;3
 Aggression;SOR-155-L;Event;R;1

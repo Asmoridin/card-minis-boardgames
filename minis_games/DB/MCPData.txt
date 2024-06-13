@@ -76,7 +76,7 @@ Iron Fist;Avengers, Defenders, Midnight Sons;0
 Iron Man;Avengers, S.H.I.E.L.D.;1
 Jean Grey;Uncanny X-Men;1
 Juggernaut;Brotherhood of Mutants;0
-Killmonger;Wakanda, Cabal, Criminal Syndicate;0
+Killmonger;Wakanda, Cabal, Criminal Syndicate;1
 Killmonger, Usurper;Criminal Syndicate, Wakanda/L;0
 King T'Challa;Avengers, Wakanda/L;0
 Kingpin;Cabal, Criminal Syndicate/L, Spider-Foes;1

@@ -939,3 +939,42 @@ Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;
 Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
 Infiltrator Mk. I Battle Armor "Waddle";Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Infiltrator Mk. I;Ambusher;3058;0
 Infiltrator Mk. I Battle Armor (Special Ops);Inner Sphere;Light Battle Armor;Civil War (3062 - 3067);Infiltrator Mk. I;Ambusher;3058;0
+Infiltrator Mk. II Battle Armor "Puma";Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);Infiltrator Mk. II;Ambusher;3058;0
+Infiltrator Mk. II Battle Armor (Sensor);Inner Sphere;Medium Battle Armor;Civil War (3062 - 3067);Infiltrator Mk. II;Ambusher;3058;0
+IS Standard Battle Armor [Flamer];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [LRR];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [Laser];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [MG];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+IS Standard Battle Armor [SRM];Inner Sphere;Medium Battle Armor;Clan Invasion (3050 - 3061);IS Standard Battle Armor;Ambusher;3058;0
+Ironsides IRN-SD1;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Ironsides;Dogfighter;3050;0
+Ironsides IRN-SD2;Inner Sphere;Medium Aerospace;Star League (2571 - 2780);Ironsides;Dogfighter;3050;0
+Ironsides IRN-SD3;Inner Sphere;Medium Aerospace;Jihad (3068 - 3080);Ironsides;Dogfighter;3050;0
+J-27 Ordnance Transport (Armor);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J-27 Ordnance Transport;None;3039;0
+J-27 Ordnance Transport (Fusion);Inner Sphere;Light Vehicle;Star League (2571 - 2780);J-27 Ordnance Transport;None;3039;0
+J-27 Ordnance Transport Trailer;Inner Sphere;Light Vehicle;Star League (2571 - 2780);J-27 Ordnance Transport Trailer;None;3039;0
+J-27 Ordnance Transport;Inner Sphere;Light Vehicle;Star League (2571 - 2780);J-27 Ordnance Transport;None;3039;0
+J. Edgar Light Hover Tank (Flamer);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J. Edgar Light Hover Tank;Scout;3039;0
+J. Edgar Light Hover Tank (ICE);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J. Edgar Light Hover Tank;Scout;3039;0
+J. Edgar Light Hover Tank (Kurita);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);J. Edgar Light Hover Tank;Scout;3058;0
+J. Edgar Light Hover Tank (MG);Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J. Edgar Light Hover Tank;Scout;3039;0
+J. Edgar Light Hover Tank (TAG);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);J. Edgar Light Hover Tank;Scout;3058;0
+J. Edgar Light Hover Tank;Inner Sphere;Light Vehicle;Star League (2571 - 2780);J. Edgar Light Hover Tank;Scout;3039;0
+Javelin JVN-10F "Fire Javelin";Inner Sphere;Light Mech;Early Succession War (2781 - 2900);Javelin;Striker;3039;0
+Javelin JVN-10N;Inner Sphere;Light Mech;Star League (2571 - 2780);Javelin;Striker;3039;0
+Javelin JVN-10P;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Javelin;Striker;3050;0
+Javelin JVN-11A "Fire Javelin";Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Javelin;Striker;3050;0
+Javelin JVN-11B;Inner Sphere;Light Mech;Clan Invasion (3050 - 3061);Javelin;Striker;3050;0
+Javelin JVN-11D;Inner Sphere;Light Mech;Civil War (3062 - 3067);Javelin;Striker;3050;0
+Javelin JVN-11F;Inner Sphere;Light Mech;Jihad (3068 - 3080);Javelin;Scout;3050;0
+J-27 Ordnance Transport K-27 "Killjoy";Inner Sphere;Light Vehicle;Early Succession War (2781 - 2900);J-27 Ordnance Transport;Ambusher;3039;0
+Kage Light Battle Armor [ECM];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [Flamer];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [Laser];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [MG];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor [TAG];Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Scout;3058;0
+Kage Light Battle Armor (Vibro-Claw);Inner Sphere;Light Battle Armor;Jihad (3068 - 3080);Kage;Scout;3058;0
+Kage Light Battle Armor (DEST);Inner Sphere;Light Battle Armor;Clan Invasion (3050 - 3061);Kage;Ambusher;3058;0
+Kanazuchi Assault Battle Armor [Battle Claw];Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Kanazuchi Assault Battle Armor;Juggernaut;3058;0
+Kanazuchi Assault Battle Armor [Industrial Drill];Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Kanazuchi Assault Battle Armor;Juggernaut;3058;0
+Kanazuchi Assault Battle Armor [Salvage Arm];Inner Sphere;Assault Battle Armor;Clan Invasion (3050 - 3061);Kanazuchi Assault Battle Armor;Juggernaut;3058;0
+Kanazuchi Assault Battle Armor (Upgrade) [Battle Claw];Inner Sphere;Assault Battle Armor;Jihad (3068 - 3080);Kanazuchi Assault Battle Armor (Upgrade);Juggernaut;3058;0

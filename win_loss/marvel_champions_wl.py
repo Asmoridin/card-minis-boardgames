@@ -123,7 +123,7 @@ def get_least_played_encounter(in_enc_played_map):
         hood_encounters = sorted(random.sample(ChampEncounters.modular_encounters, 7))
         this_encounter = ('The Hood', tuple(hood_encounters))
         return this_encounter
-    encounter_list = ChampEncounters.encounter_map[chosen_villain].genCombos()
+    encounter_list = ChampEncounters.encounter_map[chosen_villain].gen_combos()
     encounter_list = sorted(encounter_list, key=lambda x:x[1])
     encounter_played = []
     for encounter_combo in encounter_list:
@@ -242,22 +242,35 @@ if __name__ == "__main__":
     choice_2 = (choices[0][0], choices[0][1])
 
     hero_tuple = get_hero_stats(hero_played_map)
-    double_print("Most played hero: %s (%d times). Least: %s (%d)" % (hero_tuple), out_file_h)
+    hero_str = f"Most played hero: {hero_tuple[0]} ({hero_tuple[1]} times). Least: " + \
+        f"{hero_tuple[2]} ({hero_tuple[3]})"
+    double_print(hero_str, out_file_h)
     aspect_tuple = get_aspect_stats(hero_played_map)
-    double_print("Most played aspect: %s (%d times). Least: %s (%d)" % (aspect_tuple), out_file_h)
+    aspect_str = f"Most played aspect: {aspect_tuple[0]} ({aspect_tuple[1]} times). Least: " + \
+        f"{aspect_tuple[2]} ({aspect_tuple[3]})"
+    double_print(aspect_str, out_file_h)
     scenario_tuple = get_villain_stats(enc_played_map)
-    double_print("Most played scenario: %s (%d times). Least: %s (%d)" % (scenario_tuple), out_file_h)
+    vill_str = f"Most played scenario: {scenario_tuple[0]} ({scenario_tuple[1]} times). Least: " + \
+        f"{scenario_tuple[2]} ({scenario_tuple[3]})"
+    double_print(vill_str, out_file_h)
     modular_tuple = get_modular_stats(enc_played_map)
-    double_print("Most played modular encounter: %s (%d times). Least: %s (%d)" % (modular_tuple), out_file_h)
+    mod_str = f"Most played modular encounter: {modular_tuple[0]} ({modular_tuple[1]} times). " + \
+        f"Least: {modular_tuple[2]} ({modular_tuple[3]})"
+    double_print(mod_str, out_file_h)
 
     # Choose an encounter
     encounter_choice = get_least_played_encounter(enc_played_map)
 
     hero_1_wl = get_hero_wl(choice_1[0], choice_1[1], hero_played_map)
     hero_2_wl = get_hero_wl(choice_2[0], choice_2[1], hero_played_map)
-    double_print("\nHeroes/Aspects chosen: %s %s (%sW-%sL) and %s %s (%sW-%sL)" % ('/'.join(choice_1[1]), choice_1[0], hero_1_wl[0], hero_1_wl[1], '/'.join(choice_2[1]), choice_2[0], hero_2_wl[0], hero_2_wl[1]), out_file_h)
+    ha_str = f"\nHeroes/Aspects chosen: {'/'.join(choice_1[1])} {choice_1[0]} ({hero_1_wl[0]}W" + \
+        f"-{hero_1_wl[1]}L) and {'/'.join(choice_2[1])} {choice_2[0]} ({hero_2_wl[0]}W-" + \
+        f"{hero_2_wl[1]}L)"
+    double_print(ha_str, out_file_h)
     enc_wl = get_encounter_wl(encounter_choice[0], encounter_choice[1], enc_played_map)
-    double_print("Chosen encounter is %s %s (%sW-%sL)" % ('/'.join(encounter_choice[1]), encounter_choice[0], enc_wl[0], enc_wl[1]), out_file_h)
+    enc_str = f"Chosen encounter is {'/'.join(encounter_choice[1])} {encounter_choice[0]} " + \
+        f"({enc_wl[0]}W-{enc_wl[1]}L)"
+    double_print(enc_str, out_file_h)
 
     double_print("\nTotal W-L by hero:", out_file_h)
     hero_wl = {}
