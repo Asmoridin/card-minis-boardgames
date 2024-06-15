@@ -48,7 +48,7 @@ Kanan Jarrus, Revealed Jedi;SOR-047-U;Ground Unit;U/W;3 # 1 foil
 Vigilant Honor Guards;SOR-048-C;Ground Unit;U/W;3 # 1 hyperspace
 Obi-Wan Kenobi, Following Fate;SOR-049-R;Ground Unit;U/W;3
 The Ghost, Spectre Home Base;SOR-050-U;Space Unit;U/W;3
-Luke Skywalker, Jedi Knight;SOR-051-L;Ground Unit;U/W;1
+Luke Skywalker, Jedi Knight;SOR-051-L;Ground Unit;U/W;2
 Redemption, Medical Frigate;SOR-052-R;Space Unit;U/W;2
 Luke’s Lightsaber;SOR-053-S;Upgrade;U/W;3
 Jedi Lightsaber;SOR-054-R;Upgrade;U/W;1
@@ -176,7 +176,7 @@ Forced Surrender;SOR-175-U;Event;R;3
 ISB Agent;SOR-176-C;Ground Unit;Y/B;3
 Bib Fortuna, Jabba's Majordomo;SOR-177-U;Ground Unit;B/Y;3
 Cartel Spacer;SOR-178-U;Space Unit;B/Y;3 # 1 hyperspace
-Boba Fett, Disintegrator;SOR-179-L;Ground Unit;B/Y;1
+Boba Fett, Disintegrator;SOR-179-L;Ground Unit;B/Y;2
 Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
 Jabba the Hutt, Cunning Daimyo;SOR-181-R;Ground Unit;B/Y;1
 Bossk, Deadly Stalker;SOR-182-U;Ground Unit;B/Y;3
