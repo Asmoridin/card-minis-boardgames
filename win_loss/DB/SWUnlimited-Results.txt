@@ -15,3 +15,9 @@ Cassian Andor, Dedicated to the Rebellion;Y;CJ;Chirrut Imwe, One with the Force;
 Emperor Palpatine, Galactic Ruler;U;Braden;Sabine Wren, Galvanized Revolutionary;Y;L
 Emperor Palpatine, Galactic Ruler;U;Braden;Sabine Wren, Galvanized Revolutionary;Y;W
 Cassian Andor, Dedicated to the Rebellion;Y;Braden;Sabine Wren, Galvanized Revolutionary;Y;L
+Chewbacca, Walking Carpet;G;Elias;Boba Fett, Collecting the Bounty;R;W
+Chewbacca, Walking Carpet;G;Matt;Iden Versio, Inferno Squad Commander;R;W
+Grand Inquisitor, Hunting the Jedi;Y;Elias;Boba Fett, Collecting the Bounty;R;W
+Chewbacca, Walking Carpet;G;Peggy;Leia Organa, Alliance General;G;W
+Chewbacca, Walking Carpet;G;Braden;Sabine Wren, Galvanized Revolutionary;Y;L
+Grand Inquisitor, Hunting the Jedi;Y;Braden;Sabine Wren, Galvanized Revolutionary;Y;W

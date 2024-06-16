@@ -8,7 +8,7 @@ def sort_and_filter(in_list:list, filter_index:int):
     """
     Function for sorting and filtering of collection data
     """
-    if filter_index > len(in_list):
+    if filter_index > len(in_list[0]):
         raise ValueError("Invalid index for list")
     # Sanity check of list
     if in_list[0][-1] < in_list[0][-2]:
