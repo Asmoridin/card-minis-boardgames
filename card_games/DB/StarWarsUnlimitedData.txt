@@ -262,7 +262,7 @@ Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
 #Bossk, Hunting His Prey;SHD-010-C;Leader;R/B;0
 #Kylo Ren, Rash and Deadly;SHD-011-R;Leader;R/B;0
 #Bo-Katan Kryze, Princess In Exile;SHD-012-R;Leader;R/W;0
-# SHD-013-?
+#Han Solo, Worth the Risk;SHD-013-C;Leader;R/W;0
 #Cad Bane, He Who Needs No Introduction;SHD-014-C;Leader;Y/B;0
 #Doctor Aphra, Rapacious Archaeologist;SHD-015-R;Leader;Y/B;0
 #Fennec Shand, Honoring the Deal;SHD-016-C;Leader;Y/W;0
@@ -351,3 +351,50 @@ Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
 #Echo, Restored;SHD-099-U;Ground Unit;G/W;0
 #Modded Cohort;SHD-100-C;Ground Unit;G/W;0
 #Adelphi Patrol Wing;SHD-101-C;Space Unit;G/W;0
+#The Marauder, Shuttling the Bad Batch;SHD-102-R;Space Unit;G/W;0
+#General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;G/W;0
+#Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
+#Spark of Hope;SHD-105-U;Event;G/W;0
+#Rule with Respect;SHD-106-L;Event;G/W;0
+# SHD-107-?
+# SHD-108-?
+#Endless Legions;SHD-109-L;Event;G;0
+#Warzone Lieutenant;SHD-110-C;Ground Unit;G;0
+#Collections Starhopper;SHD-111-C;Space Unit;G;0
+# SHD-112-?
+#Privateer Crew;SHD-113-U;Ground Unit;G;0
+#Scanning Officer;SHD-114-U;Ground Unit;G;0
+#Cobb Vanth, The Marshal;SHD-115-R;Ground Unit;G;0
+#Outlaw Corona;SHD-116-C;Space Unit;G;0
+#Reputable Hunter;SHD-117-C;Ground Unit;G;0
+#Kihraxz Heavy Fighter;SHD-118-U;Space Unit;G;0
+# SHD-119-?
+#Discerning Veteran;SHD-120-C;Ground Unit;G;0
+# SHD-121-?
+# SHD-122-?
+#Bounty Hunter's Quarry;SHD-123-U;Upgrade;G;0
+#Legal Authority;SHD-124-R;Upgrade;G;0
+#Price on Your Head;SHD-125-C;Upgrade;G;0
+#The Darksaber;SHD-126-L;Upgrade;G;0
+# SHD-127-?
+#Outflank;SHD-128-C;Event;G;0
+#Timely Intervention;SHD-129-C;Event;G;0
+#Moment of Glory;SHD-130-C;Event;G;0
+#Take Captive;SHD-131-C;Event;G;0
+#Choose Sides;SHD-132-R;Event;G;0
+#Dengar, The Demolisher;SHD-133-U;Ground Unit;R/B;0
+# SHD-134-?
+#Kylo's TIE Silencer, Ruthlessly Efficient;SHD-135-L;Space Unit;R/B;0
+#Death Watch Loyalist;SHD-136-C;Ground Unit;R/B;0
+#Punishing One, Dengar's Jumpmaster;SHD-137-U;Space Unit;R/B;0
+#Jango Fett, Renowned Bounty Hunter;SHD-138-R;Ground Unit;R/B;0
+#Krrsantan, Muscle for Hire;SHD-139-U;Ground Unit;R/B;0
+# SHD-140-?
+#Kylo Ren, Killing the Past;SHD-141-L;Ground Unit;R/B;0
+#Pre Vizsla, Power Hungry;SHD-142-R;Ground Unit;R/B;0
+#Ruthlessness;SHD-143-R;Upgrade;R/B;0
+#Give In to Your Anger;SHD-144-R;Event;R/B;0
+#Headhunting;SHD-145-U;Event;R/B;0
+# SHD-146-?
+#Ketsu Onyo, Old Friend;SHD-147-U;Ground Unit;R/W;0
+

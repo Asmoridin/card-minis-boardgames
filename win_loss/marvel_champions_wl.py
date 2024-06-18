@@ -281,7 +281,11 @@ if __name__ == "__main__":
         hero_wl[hero_choice[0]][0] += wins
         hero_wl[hero_choice[0]][1] += losses
     for hero in sorted(hero_wl):
-        double_print("%s%s%d - %d" % (hero, " " * (30 - len(hero)), hero_wl[hero][0], hero_wl[hero][1]), out_file_h)
+        hero_spacer = " " * (30 - len(hero))
+        hero_wins = hero_wl[hero][0]
+        hero_losses = hero_wl[hero][1]
+        hero_wl_str = f"{hero}{hero_spacer}{hero_wins} - {hero_losses}"
+        double_print(hero_wl_str, out_file_h)
 
     overall_wl = [0, 0]
     double_print("\nTotal W-L by villain:", out_file_h)
@@ -296,7 +300,11 @@ if __name__ == "__main__":
         overall_wl[1] += losses
 
     for villain in sorted(villain_wl):
-        double_print("%s%s%d - %d" % (villain, " " * (30-len(villain)), villain_wl[villain][0], villain_wl[villain][1]), out_file_h)
+        villain_spacer = " " * (30-len(villain))
+        villain_wins = villain_wl[villain][0]
+        villains_losses = villain_wl[villain][1]
+        villain_wl_str = f"{villain}{villain_spacer}{villain_wins} - {villains_losses}"
+        double_print(villain_wl_str, out_file_h)
 
     double_print("\nTotal W-L by aspect:", out_file_h)
     aspect_wl = {}
@@ -309,6 +317,9 @@ if __name__ == "__main__":
             aspect_wl[aspect][1] += losses
     double_print(str(aspect_wl), out_file_h)
 
-    double_print("\nWin Loss Records, Overall: %d - %d, %.3f" % (overall_wl[0], overall_wl[1], overall_wl[0]/(overall_wl[0] + overall_wl[1])), out_file_h)
+    overall_win_pct = overall_wl[0]/(overall_wl[0] + overall_wl[1])
+    wl_str = f"\nWin Loss Records, Overall: {overall_wl[0]} - {overall_wl[1]}, " + \
+        f"{overall_win_pct:.3f}"
+    double_print(wl_str, out_file_h)
     if not os.getcwd().endswith('card-minis-boardgames'):
         input("Press enter to continue...")

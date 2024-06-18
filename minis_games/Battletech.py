@@ -34,29 +34,35 @@ def get_max(input_item):
         print("Unknown max: " + input_item)
         return 1
 
-def getMetaType(in_type):
+def get_meta_type(in_type):
     """
     For an item type, return a more general type
     """
     if in_type in ['Heavy Vehicle', 'Medium Vehicle', 'Light Vehicle', 'Assault Vehicle', ]:
-        return("Vehicle")
+        return "Vehicle"
     elif in_type in ['Light Mech', 'Medium Mech', 'Assault Mech', 'Heavy Mech', ]:
-        return("Mech")
-    elif in_type in ['Light Battle Armor', 'Medium Battle Armor', 'Assault Battle Armor', 'Heavy Battle Armor', ]:
-        return ("Battle Armor")
-    elif in_type in ['Light Aerospace', 'Heavy Aerospace', 'Conventional Fighter', 'Medium Aerospace', ]:
-        return("Aerospace")
+        return "Mech"
+    elif in_type in ['Light Battle Armor', 'Medium Battle Armor', 'Assault Battle Armor',
+        'Heavy Battle Armor', ]:
+        return  "Battle Armor"
+    elif in_type in ['Light Aerospace', 'Heavy Aerospace', 'Conventional Fighter',
+        'Medium Aerospace', ]:
+        return "Aerospace"
     else:
         print("Unknown meta tpe: " + in_type)
-        return("")
+        return ""
 
-valid_model_types = ['Heavy Vehicle', 'Medium Vehicle', 'Medium Mech', 'Light Mech', 'Assault Mech', 'Light Battle Armor', 'Heavy Mech', 'Light Vehicle', 'Medium Battle Armor',
-        'Light Aerospace',  'Conventional Fighter', 'Assault Vehicle', 'Heavy Aerospace', 'Medium Aerospace', 'Assault Battle Armor', 'Heavy Battle Armor']
-eras = ['Age of War (2005 - 2570)', 'Star League (2571 - 2780)', 'Early Succession War (2781 - 2900)', 'Late Succession War - LosTech (2901 - 3019)', 
-        'Late Succession War - Renaissance (3020 - 3049)', 'Clan Invasion (3050 - 3061)', 'Civil War (3062 - 3067)', 'Jihad (3068 - 3080)', 'Early Republic (3081 - 3100)', 
-        'Late Republic (3101 - 3130)', 'Dark Age (3131 - 3150)', ]
-roles = ['Juggernaut', 'Sniper', 'Scout', 'Ambusher', 'Brawler', 'Missile Boat', 'Skirmisher', 'Striker', 'None', 'Interceptor', 'Attack', 'Dogfighter', 'Fire-Support', 
-         'Fast Dogfighter']
+valid_model_types = ['Heavy Vehicle', 'Medium Vehicle', 'Medium Mech', 'Light Mech',
+    'Assault Mech', 'Light Battle Armor', 'Heavy Mech', 'Light Vehicle', 'Medium Battle Armor',
+    'Light Aerospace',  'Conventional Fighter', 'Assault Vehicle', 'Heavy Aerospace',
+    'Medium Aerospace', 'Assault Battle Armor', 'Heavy Battle Armor']
+eras = ['Age of War (2005 - 2570)', 'Star League (2571 - 2780)',
+    'Early Succession War (2781 - 2900)', 'Late Succession War - LosTech (2901 - 3019)',
+    'Late Succession War - Renaissance (3020 - 3049)', 'Clan Invasion (3050 - 3061)',
+    'Civil War (3062 - 3067)', 'Jihad (3068 - 3080)', 'Early Republic (3081 - 3100)',
+    'Late Republic (3101 - 3130)', 'Dark Age (3131 - 3150)', ]
+roles = ['Juggernaut', 'Sniper', 'Scout', 'Ambusher', 'Brawler', 'Missile Boat', 'Skirmisher',
+    'Striker', 'None', 'Interceptor', 'Attack', 'Dogfighter', 'Fire-Support', 'Fast Dogfighter']
 source_documents = ['3039', '3050', '3058', 'ilClan Vol. 5', ]
 
 total_max = 0
@@ -90,7 +96,7 @@ for line in lines:
         errors.append("Invalid source doc: %s" % source_doc)
         errors.append('Relevant line: ' + line)
     own_amount = int(own_amount)
-    max_amount = max(own_amount, 1, get_max(getMetaType(model_type)))
+    max_amount = max(own_amount, 1, get_max(get_meta_type(model_type)))
     total_own += own_amount
     total_max += max_amount
     
