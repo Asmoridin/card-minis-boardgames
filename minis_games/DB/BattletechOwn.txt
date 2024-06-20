@@ -986,3 +986,15 @@ Zeus ZEU-9T;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus;Brawler;3050;
 Zeus-X ZEU-9WD;Inner Sphere;Assault Mech;Civil War (3062 - 3067);Zeus-X;Brawler;3050;0
 Zhukov Heavy Tank (WoB);Inner Sphere;Heavy Vehicle;Jihad (3068 - 3080);Zhukov;Juggernaut;3058;0
 Zhukov Heavy Tank;Inner Sphere;Heavy Vehicle;Late Succession War - Renaissance (3020 - 3049);Zhukov;Juggernaut;3058;0
+Kanga Medium Hovertank;Inner Sphere;Medium Vehicle;Star League (2571 - 2780);Kanga;Striker;3050;0
+Karnov UR Transport (AC);Inner Sphere;Light Vehicle;Unknown (4000 - 4000);Karnov;Striker;3039;0
+Karnov UR Transport (Artillery);Inner Sphere;Light Vehicle;Unknown (4000 - 4000);Karnov;Missile Boat;3039;0
+Karnov UR Transport (BA);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Karnov;None;3058;0
+Karnov UR Gunship;Inner Sphere;Light Vehicle;Late Succession War - Renaissance (3020 - 3049);Karnov;Striker;3039;0
+Karnov UR Transport (Periphery);Inner Sphere;Light Vehicle;Civil War (3062 - 3067);Karnov;Scout;3058;0
+Karnov UR Transport;Inner Sphere;Light Vehicle;Unknown (4000 - 4000);Karnov;Scout;3039;0
+Karnov UR Transport (3055 Upgrade);Inner Sphere;Light Vehicle;Clan Invasion (3050 - 3061);Karnov;None;3058;0
+Katana (Crockett) CRK-5003-C;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Katana;Juggernaut;3050;0
+Katana (Crockett) CRK-5003-CJ;Inner Sphere;Assault Mech;Jihad (3068 - 3080);Katana;Skirmisher;3050;0
+Katana (Crockett) CRK-5003-CM;Inner Sphere;Assault Mech;Clan Invasion (3050 - 3061);Katana;Juggernaut;3050;0
+Katana (Crockett) CRK-5006-1;Inner Sphere;Assault Mech;Late Republic (3101 - 3130);Katana;Skirmisher;3050;0

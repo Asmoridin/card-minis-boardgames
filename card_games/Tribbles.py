@@ -13,10 +13,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/TribblesData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/TribblesData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -39,38 +41,17 @@ for line in lines:
         card_count, card_power = card_name.split('-')
         card_count = card_count.strip()
         card_power = card_power.strip()
-        card_lines.append((card_count, card_power, max_item, own_item))
+        card_lines.append((card_count, card_power, own_item, max_item))
     elif card_type == 'Trouble':
         pass
     TOTAL_MAX += max_item
     TOTAL_OWN += own_item
 
 # Figure out appropriate Tribble power
-card_power_map = {}
-for line in card_lines:
-    if line[1] not in card_power_map:
-        card_power_map[line[1]] = [0, 0]
-    card_power_map[line[1]][0] += line[2]
-    card_power_map[line[1]][1] += line[3]
-card_power_sorter = []
-for card_power in card_power_map:
-    card_power_sorter.append((card_power, card_power_map[card_power][1]/card_power_map[card_power][0], card_power_map[card_power][0] - card_power_map[card_power][1]))
-card_power_sorter = sorted(card_power_sorter, key=lambda x:(x[1], -x[2], x[0]))
+chosen_power, filtered_list = sort_and_filter(card_lines, 1)
 
-# Filter out by power, then sort by quantity
-card_qty_map = {}
-for line in card_lines:
-    if line[1] == card_power_sorter[0][0]:
-        if line[0] not in card_qty_map:
-            card_qty_map[line[0]] = [0, 0]
-        card_qty_map[line[0]][0] += line[2]
-        card_qty_map[line[0]][1] += line[3]
-card_qty_sorter = []
-for card_qty in card_qty_map:
-    card_qty_sorter.append((card_qty, card_qty_map[card_qty][1]/card_qty_map[card_qty][0], card_qty_map[card_qty][0] - card_qty_map[card_qty][1]))
-card_qty_sorter = sorted(card_qty_sorter, key=lambda x:(x[1], -x[2], x[0]))
-lowest_card_power = card_power_sorter[0][0]
-lowest_card_qty = card_qty_sorter[0][0]
+# Filter and sort by quantity
+chosen_qty, filtered_list = sort_and_filter(filtered_list, 0)
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
@@ -80,6 +61,7 @@ if __name__ == "__main__":
 
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
-    purch_str = f"Next purchase sould be {lowest_card_qty} - {lowest_card_power}, where I have " + \
-        f"{card_qty_sorter[0][1] * 100:.2f} percent"
+    card_pct = (filtered_list[0][2]/filtered_list[0][3]) * 100
+    purch_str = f"Next purchase sould be {chosen_qty} - {chosen_power}, where I have " + \
+        f"{card_pct:.2f} percent"
     double_print(purch_str, out_file_h)

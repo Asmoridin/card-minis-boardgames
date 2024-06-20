@@ -26,7 +26,8 @@ def get_meta(army_name):
     elif army_name in ['Tyranids', 'Necrons', 'Genestealer Cults', 'Orks', "T'au Empire",
         'Leagues of Votann', ]:
         return "Xenos"
-    elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium', 'Astra Militarum', 'Adepta Sororitas', 'Imperial Knights', ]:
+    elif army_name in ['Adeptus Custodes', 'Adeptus Mechanicus', 'Agents of the Imperium',
+        'Astra Militarum', 'Adepta Sororitas', 'Imperial Knights', ]:
         return "Imperium"
     else:
         print(f"Army {army_name} not given a meta type")
@@ -35,19 +36,19 @@ def get_meta(army_name):
 my_armies = ['Adeptus Astartes', 'Necrons', 'Adepta Sororitas', 'Drukhari', 'World Eaters', ]
 
 if os.getcwd().endswith('card-minis-boardgames'):
-    file_h = open('minis_games/DB/WH40KData.txt', 'r')
+    file_h = open('minis_games/DB/WH40KData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
 else:
-    file_h = open('DB/WH40KData.txt', 'r')
+    file_h = open('DB/WH40KData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
 
-total_max = 0
-total_own = 0
+TOTAL_MAX = 0
+TOTAL_OWN = 0
 errors = []
 item_names = set()
 army_points = {}
@@ -58,7 +59,7 @@ for line in lines:
         continue
     try:
         item_name, factions, keywords, points, item_own = line.split(';')
-    except:
+    except ValueError:
         print("Issue with line: " + line)
         continue
     item_names.add(item_name)
@@ -73,19 +74,19 @@ for line in lines:
         item_own = float(item_own)
     except:
         item_own = int(item_own.split('/')[0])/int(item_own.split('/')[1])
-    item_max = 3
+    ITEM_MAX = 3
     if 'Epic Hero' in keywords:
-        item_max = 1
+        ITEM_MAX = 1
     elif 'Battleline' in keywords or 'Dedicated Transport' in keywords:
-        item_max = 6
-    total_max += item_max
-    total_own += item_own
+        ITEM_MAX = 6
+    TOTAL_MAX += ITEM_MAX
+    TOTAL_OWN += item_own
 
     for army in factions:
         if army not in army_points:
             army_points[army] = 0
-    army_points[army] += points * item_own
-    filter_lines.append((item_name, factions, keywords, points, item_own, item_max))
+        army_points[army] += points * item_own
+    filter_lines.append((item_name, factions, keywords, points, item_own, ITEM_MAX))
 
 # Filter by meta_faction
 meta_faction = {}
@@ -150,7 +151,7 @@ if __name__ == "__main__":
         out_file_h = open("output/Warhammer40K.txt", 'w')
     for error in errors:
         double_print(error, out_file_h)
-    double_print("I own %.2f out of %d - %.2f percent" % (total_own, total_max, 100 * total_own/total_max), out_file_h)
+    double_print("I own %.2f out of %d - %.2f percent" % (TOTAL_OWN, TOTAL_MAX, 100 * TOTAL_OWN/TOTAL_MAX), out_file_h)
 
     status_string = "Buy a %s unit from the %s army, perhaps a %s" % (keyword_sorter[0][0], army_sorter[0][0], names[0][0])
     double_print(status_string, out_file_h)
