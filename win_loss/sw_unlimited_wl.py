@@ -34,6 +34,8 @@ source_data_lines = [line.strip() for line in source_data_lines]
 valid_leaders = {}
 leader_games_map = {} # Total number of games I've seen the leader
 for line in source_data_lines:
+    if line.startswith('#') or line.strip() == '':
+        continue
     if line.split(';')[2] == 'Leader':
         leader_name = line.split(';')[0]
         aspects = []

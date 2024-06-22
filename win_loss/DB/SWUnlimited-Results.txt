@@ -21,3 +21,7 @@ Grand Inquisitor, Hunting the Jedi;Y;Elias;Boba Fett, Collecting the Bounty;R;W
 Chewbacca, Walking Carpet;G;Peggy;Leia Organa, Alliance General;G;W
 Chewbacca, Walking Carpet;G;Braden;Sabine Wren, Galvanized Revolutionary;Y;L
 Grand Inquisitor, Hunting the Jedi;Y;Braden;Sabine Wren, Galvanized Revolutionary;Y;W
+Han Solo, Audacious Smuggler;R;Matt;Iden Versio, Inferno Squad Commander;R;W
+Han Solo, Audacious Smuggler;R;Matt;Boba Fett, Collecting the Bounty;R;W
+Grand Moff Tarkin, Oversector Governor;U;Matt;Iden Versio, Inferno Squad Commander;R;W
+Grand Moff Tarkin, Oversector Governor;U;Matt;Boba Fett, Collecting the Bounty;R;L

@@ -1,5 +1,5 @@
 Star Wars: Unlimited W/L Loss Tracker, and deck selector
-My current record is 15-8
+My current record is 18-9
 
 My record by leader:
 Boba Fett, Collecting the Bounty: 1-1
@@ -10,6 +10,8 @@ Darth Vader, Dark Lord of the Sith: 1-0
 Director Krennic, Aspiring to Authority: 2-0
 Emperor Palpatine, Galactic Ruler: 1-3
 Grand Inquisitor, Hunting the Jedi: 2-0
+Grand Moff Tarkin, Oversector Governor: 1-1
+Han Solo, Audacious Smuggler: 2-0
 Hera Syndulla, Spectre Two: 1-0
 Leia Organa, Alliance General: 2-0
 Luke Skywalker, Faithful Friend: 1-0
@@ -17,12 +19,12 @@ Luke Skywalker, Faithful Friend: 1-0
 My H-Index is 3
 
 My record by aspect:
-Aggression: 7-3
-Command: 9-5
-Cunning: 7-3
-Heroism: 8-4
-Vigilance: 7-5
-Villainy: 7-4
+Aggression: 9-3
+Command: 10-6
+Cunning: 9-3
+Heroism: 10-4
+Vigilance: 8-6
+Villainy: 8-5
 
 My record against opponents:
 Braden: 2-3
@@ -30,19 +32,19 @@ CJ: 1-2
 Dan: 2-2
 Elias: 6-0
 Mark (Let's Play): 0-1
-Matt: 3-0
+Matt: 6-1
 Peggy: 1-0
 
 My record against opposing leaders:
-Boba Fett, Collecting the Bounty: 2-0
+Boba Fett, Collecting the Bounty: 3-1
 Chirrut Imwe, One with the Force: 1-2
 Darth Vader, Dark Lord of the Sith: 2-0
 Grand Admiral Thrawn, Patient and Insightful: 1-0
-Iden Versio, Inferno Squad Commander: 3-0
+Iden Versio, Inferno Squad Commander: 5-0
 Leia Organa, Alliance General: 2-2
 Luke Skywalker, Faithful Friend: 2-0
 Sabine Wren, Galvanized Revolutionary: 2-4
 
-I've seen these leaders on the table the least (0 times): Grand Moff Tarkin, Oversector Governor; Han Solo, Audacious Smuggler; IG-88, Ruthless Bounty Hunter; Jyn Erso, Resisting Oppression
+I've seen these leaders on the table the least (0 times): IG-88, Ruthless Bounty Hunter; Jyn Erso, Resisting Oppression
 
 I should play more games with Grand Admiral Thrawn, Patient and Insightful, as I only have 0 games
