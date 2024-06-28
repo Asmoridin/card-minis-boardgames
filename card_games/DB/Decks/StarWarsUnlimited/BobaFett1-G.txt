@@ -1,0 +1,29 @@
+// Astrotech - TTI League 0 Top Cut - Winner
+// .dec exported on 06/28/2024 15:53:10
+//
+// Leader and Base
+1	Boba Fett, Collecting the Bounty
+1	Energy Conversion Lab
+
+// Ground Units
+3	Boba Fett, Disintegrator
+3	Bossk, Deadly Stalker
+3	Crafty Smuggler
+3	Darth Vader, Commanding the First Legion
+3	Greedo, Slow on the Draw
+3	Steadfast Battalion
+3	Superlaser Technician
+3	Viper Probe Droid
+
+// Space Units
+3	Cartel Spacer
+3	Fett's Firespray, Pursuing the Bounty
+3	Seventh Fleet Defender
+
+// Events
+3	No Good to Me Dead
+3	Overwhelming Barrage
+3	Resupply
+3	Shoot First
+3	Surprise Strike
+2	Waylay

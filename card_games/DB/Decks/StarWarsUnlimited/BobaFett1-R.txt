@@ -1,0 +1,39 @@
+// Boba Red Party 1.1
+// .dec exported on 06/28/2024 15:55:10
+//
+// Leader and Base
+1	Boba Fett, Collecting the Bounty
+1	Kestro City
+
+// Ground Units
+3	Benthic "Two Tubes", Partisan Lieutenant
+3	Cell Block Guard
+3	Crafty Smuggler
+3	Death Star Stormtrooper
+3	First Legion Snowtrooper
+3	Greedo, Slow on the Draw
+3	Partisan Insurgent
+2	Seventh Sister, Implacable Inquisitor
+3	Snowtrooper Lieutenant
+
+// Space Units
+3	Fett's Firespray, Pursuing the Bounty
+2	Imperial Interceptor
+3	Ruthless Raider
+3	Seventh Fleet Defender
+
+// Events
+2	Open Fire
+2	Precision Fire
+3	Sneak Attack
+3	Surprise Strike
+
+// Upgrades
+3	Snapshot Reflexes
+
+// Sideboard
+2	Disabling Fang Fighter
+2	Force Choke
+2	No Good to Me Dead
+2	Pirated Starfighter
+2	Waylay

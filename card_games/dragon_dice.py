@@ -33,14 +33,14 @@ def get_meta_type(in_type):
         return 'Dragon'
     else:
         print("Unhandled meta type: " + in_type)
-        return('Unhandled')
+        return 'Unhandled'
 
 if os.getcwd().endswith('card-minis-boardgames'):
-    file_h = open('card_games/DB/DragonDiceCollection.txt', 'r')
+    file_h = open('card_games/DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
 else:
-    file_h = open('DB/DragonDiceCollection.txt', 'r')
+    file_h = open('DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
 lines = file_h.readlines()
@@ -56,39 +56,39 @@ for line in lines:
     if dice_faction not in valid_factions:
         print("Invalid faction: " + dice_faction)
     own = int(own)
-    dice_max = 1
+    DICE_MAX = 1
     if dice_faction not in faction_total:
         faction_total[dice_faction] = 0
     if dice_size == "Rare":
         if dice_faction in ['Items', 'Dragonkin']:
-            dice_max = max(own, 1)
+            DICE_MAX = max(own, 1)
         else:
-            dice_max = max(own, 2)
+            DICE_MAX = max(own, 2)
         faction_total[dice_faction] += (own * 3)
     elif dice_size == "Uncommon":
         if dice_faction in ['Items', 'Dragonkin']:
-            dice_max = max(own, 2)
+            DICE_MAX = max(own, 2)
         else:
-            dice_max = max(own, 4)
+            DICE_MAX = max(own, 4)
         faction_total[dice_faction] += (own * 2)
     elif dice_size == "Common":
         if dice_faction in ['Items', 'Dragonkin']:
-            dice_max = max(own, 4)
+            DICE_MAX = max(own, 4)
         else:
-            dice_max = max(own, 8)
+            DICE_MAX = max(own, 8)
         faction_total[dice_faction] += (own)
     elif dice_size == "Monster" or dice_size == "Champion" or dice_size == "Artifact" or dice_size == "Dragon":
-        dice_max = max(own, 1)
+        DICE_MAX = max(own, 1)
         faction_total[dice_faction] += (own * 4)
     elif dice_faction == "Major Terrain":
-        dice_max = max(own, 2)
+        DICE_MAX = max(own, 2)
     elif dice_faction in ['Minor Terrain', 'Special Terrain']:
-        dice_max = max(own, 1)
+        DICE_MAX = max(own, 1)
     else:
         print("Unhandled dice size: " + dice_size)
-    TOTAL_MAX += dice_max
+    TOTAL_MAX += DICE_MAX
     TOTAL_OWN += own
-    item_list.append((dice_name, dice_faction, dice_size, own, dice_max))
+    item_list.append((dice_name, dice_faction, dice_size, own, DICE_MAX))
 
 meta_map = {}
 for item in item_list:
@@ -160,6 +160,6 @@ if __name__=="__main__":
         double_print("%s: %d" % (faction, faction_total[faction]), out_file_h)
 
     out_file_h.close()
-    
+
     if not os.getcwd().endswith('card-minis-boardgames'):
         input("Press enter to continue...")
