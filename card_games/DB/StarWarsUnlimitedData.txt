@@ -47,7 +47,7 @@ Change of Heart;SOR-224-L;Event;Y;1
 Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;3
 Chewbacca, Walking Carpet;SOR-003-C;Leader;U/W;1 # 1x hyperspace
 Chimaera, Flagship of the Seventh Fleet;SOR-185-R;Space Unit;B/Y;1
-Chirrut Imwe, One with the Force;SOR-004-R;Leader;U/W;1
+Chirrut Îmwe, One With The Force;SOR-004-R;Leader;U/W;1
 Chopper Base;SOR-030-C;Base;Y;1 # 1 hyperspace
 Chopper, Metal Menace;SOR-188-R;Ground Unit;W/Y;1
 Cloud City Wing Guard;SOR-063-C;Ground Unit;U;3

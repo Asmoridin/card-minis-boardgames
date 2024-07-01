@@ -1,67 +1,67 @@
-Darth Vader, Commanding the First Legion: 12
-K-2SO, Cassian's Counterpart: 12
-Devastator, Inescapable: 8
+Darth Vader, Commanding the First Legion: 16
+K-2SO, Cassian's Counterpart: 15
+Devastator, Inescapable: 11
+Red Three, Unstoppable: 10
+Millennium Falcon, Piece of Junk: 9
+Seventh Sister, Implacable Inquisitor: 9
+Spark of Rebellion: 9
 Fett's Firespray, Pursuing the Bounty: 8
-Red Three, Unstoppable: 8
+It Binds All Things: 8
+Regional Governor: 8
+Relentless, Konstantine's Folly: 8
+Vigilance: 8
+Command: 7
+Luke Skywalker, Jedi Knight: 7
+Power of the Dark Side: 7
 Sneak Attack: 7
-Relentless, Konstantine's Folly: 6
-Vigilance: 6
-Change of Heart: 5
-Command: 5
+Wolffe, Suspicious Veteran: 7
+Avenger, Hunting Star Destroyer: 6
+Change of Heart: 6
+Chopper, Metal Menace: 6
+Cunning: 6
+Fighters For Freedom: 6
+Superlaser Blast: 6
+Traitorous: 6
 Emperor's Royal Guard: 5
-Fighters For Freedom: 5
-It Binds All Things: 5
-Luke Skywalker, Jedi Knight: 5
-Millennium Falcon, Piece of Junk: 5
-Spark of Rebellion: 5
-Traitorous: 5
+Force Lightning: 5
+Jedi Lightsaber: 5
 Aggression: 4
-Avenger, Hunting Star Destroyer: 4
-Cunning: 4
-Regional Governor: 4
+Benthic "Two Tubes", Partisan Lieutenant: 4
+Devotion: 4
+Ezra Bridger, Resourceful Troublemaker: 4
+Force Throw: 4
+Heroic Sacrifice: 4
 Saw Gerrera, Extremist: 4
-Superlaser Blast: 4
-Benthic "Two Tubes", Partisan Lieutenant: 3
 Boba Fett, Disintegrator: 3
-Force Lightning: 3
-Heroic Sacrifice: 3
+Emperor Palpatine, Master of the Dark Side: 3
+Frontline Shuttle: 3
+Home One, Alliance Flagship: 3
 Jabba the Hutt, Cunning Daimyo: 3
-Jedi Lightsaber: 3
+Mace Windu, Party Crasher: 3
 Outmaneuver: 3
-Power of the Dark Side: 3
 Search Your Feelings: 3
-Seventh Sister, Implacable Inquisitor: 3
-Wolffe, Suspicious Veteran: 3
+U-Wing Reinforcement: 3
 Admiral Ozzel, Overconfident: 2
 Bendu, The One In The Middle: 2
 Black One, Scourge of Starkiller Base: 2
 Chimaera, Flagship of the Seventh Fleet: 2
-Chopper, Metal Menace: 2
-Devotion: 2
 Don't Get Cocky: 2
-Emperor Palpatine, Master of the Dark Side: 2
-Ezra Bridger, Resourceful Troublemaker: 2
-Frontline Shuttle: 2
 General Krell, Heartless Tactician: 2
-Home One, Alliance Flagship: 2
+General Tagge, Concerned Commander: 2
 I Had No Choice: 2
-Mace Windu, Party Crasher: 2
 Power Failure: 2
 Rukh, Thrawn's Assassin: 2
 Strafing Gunship: 2
-U-Wing Reinforcement: 2
 You're My Only Hope: 2
+Zeb Orrelios, Headstrong Warrior: 2
 97th Legion, Keeping the Peace on Sullust: 1
 AT-AT Suppressor: 1
 Bail Organa, Rebel Councilor: 1
 Bamboozle: 1
-Force Throw: 1
 General Dodonna, Massassi Group Commander: 1
-General Tagge, Concerned Commander: 1
 Lando Calrissian, Responsible Businessman: 1
 Prepare for Takeoff: 1
 Protector: 1
 Redemption, Medical Frigate: 1
 The Emperor's Legion: 1
 Wedge Antilles, Star of the Rebllion: 1
-Zeb Orrelios, Headstrong Warrior: 1
