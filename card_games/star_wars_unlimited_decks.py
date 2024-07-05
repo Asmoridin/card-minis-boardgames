@@ -43,9 +43,9 @@ def determine_missing(deck_dict, collection_dict_in):
     Given a dictionary for a deck, return what cards I am missing
     """
     ret_dict = {}
-    for card, card_qty in deck_dict.items():
-        if collection_dict_in[card] < card_qty:
-            ret_dict[card] = card_qty - collection_dict_in[card]
+    for card, deck_card_qty in deck_dict.items():
+        if collection_dict_in[card] < deck_card_qty:
+            ret_dict[card] = deck_card_qty - collection_dict_in[card]
     return ret_dict
 
 collection_dict = {}

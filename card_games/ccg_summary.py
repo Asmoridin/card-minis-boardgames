@@ -11,6 +11,7 @@ import anachronism
 import wyvern
 import dbs_fusion_world
 import grand_archive
+import one_piece
 import card_games.lorcana as lorcana
 import card_games.city_of_heroes as city_of_heroes
 import card_games.daemon_dice as daemon_dice
@@ -32,7 +33,7 @@ else:
 
 started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited, 
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
-    lorcana]
+    lorcana, one_piece]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0

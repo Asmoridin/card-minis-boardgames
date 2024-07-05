@@ -423,3 +423,26 @@ Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
 #Covetous Rivals;SHD-171-C;Ground Unit;R;0
 #Krayt Dragon;SHD-172-L;Ground Unit;R;0
 #Guild Target;SHD-173-U;Upgrade;R;0
+#Hotshot DL-44 Blaster;SHD-174-R;Upgrade;R;0
+#Armed to the Teeth;SHD-175-U;Upgrade;R;0
+#Death Mark;SHD-176-C;Upgrade;R;0
+#Vambrace Flamethrower;SHD-177-R;Upgrade;R;0
+#Daring Raid;SHD-178-C;Event;R;0
+#Desperate Attack;SHD-179-C;Event;R;0
+#Detention Block Rescue;SHD-180-C;Event;R;0
+#Pillage;SHD-181-C;Event;R;0
+#Bravado;SHD-182-U;Event;R;0
+#Kintan Intimidator;SHD-183-C;Ground Unit;Y/B;0
+#Bazine Netal, Spy for the First Order;SHD-184-R;Ground Unit;Y/B;0
+#Doctor Evazan, Wanted on Twelve Systems;SHD-185-R;Ground Unit;Y/B;0
+#Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Y/B;0
+#Lurking TIE Phantom;SHD-187-U;Space Unit;Y/B;0
+#4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;0
+#Slaver's Freighter;SHD-189-C;Space Unit;Y/B;0
+#Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;0
+#Xanadu Blood, Cad Bane's Rewared;SHD-191-R;Space Unit;Y/B;0
+#Dryden Vos, Offering No Escape;SHD-192-L;Ground Unit;Y/B;0
+#Frozen in Carbonite;SHD-193-U;Upgrade;Y/B;0
+#Triple Dark Raid;SHD-194-R;Event;Y/B;0
+#Cartel Turncoat;SHD-195-C;Space Unit;Y/W;0
+#Grogu, Irresistible;SHD-196-S;Ground Unit;Y/W;0
