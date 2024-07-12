@@ -82,6 +82,16 @@ for line in lines:
 # Filter by subtype
 chosen_subtype, filtered_list = sort_and_filter(item_list, 4)
 
+# If there's an available Leader, let's make sure we filter to them.
+HAS_LEADER = False
+leader_list = []
+for card_tuple in filtered_list:
+    if card_tuple[2] == 'Leader' and card_tuple[6] == 0:
+        HAS_LEADER = True
+        leader_list.append(card_tuple)
+if HAS_LEADER:
+    filtered_list = leader_list
+
 #Filter by color
 chosen_color, filtered_list = sort_and_filter(filtered_list, 3)
 
