@@ -38,11 +38,11 @@ C-3PO, Protocol Droid;SOR-238-S;Ground Unit;W;3
 Cantina Bouncer;SOR-202-U;Ground Unit;Y;3 # 1 foil
 Cantina Braggart;SOR-157-C;Ground Unit;R;3 # 1 hyperspace foil
 Capital City;SOR-020-C;Base;U;1 # hyperspace
-Cargo Juggernaut;SOR-068-C;Ground Unit;U;3
+Cargo Juggernaut;SOR-068-C/SHD-066-C;Ground Unit;U;3
 Cartel Spacer;SOR-178-U;Space Unit;B/Y;3 # 1 hyperspace
 Cassian Andor, Dedicated to the Rebellion;SOR-013-R;Leader;R/W;1
 Catacombs of Cadera;SOR-026-C;Base;R;1 # hyperspace
-Cell Block Guard;SOR-229-C;Ground Unit;B;3 # 1 foil
+Cell Block Guard;SOR-229-C/SHD-238-C;Ground Unit;B;3 # 1 foil
 Change of Heart;SOR-224-L;Event;Y;1
 Chewbacca, Loyal Companion;SOR-196-U;Ground Unit;W/Y;3
 Chewbacca, Walking Carpet;SOR-003-C;Leader;U/W;1 # 1x hyperspace
@@ -54,7 +54,7 @@ Cloud City Wing Guard;SOR-063-C;Ground Unit;U;3
 Colonel Yularen, ISB Director;SOR-109-U;Ground Unit;G;3
 Command Center;SOR-023-C;Base;G;1 # 1 hyperspace, 1 normal
 Command;SOR-107-L;Event;G;1
-Confiscate;SOR-251-C;Event;N;3 # 1 hyperspace, 1 foil
+Confiscate;SOR-251-C/SHD-262-S;Event;N;3 # 1 hyperspace, 1 foil
 Consortium StarViper;SOR-112-C;Space Unit;G;3
 Consular Security Force;SOR-046-C;Ground Unit;U/W;3
 Corellian Freighter;SOR-250-C;Space Unit;N;3
@@ -65,12 +65,12 @@ Dagobah Swamp;SOR-021-C;Base;U;1 # 1 hyperspace
 Darth Vader, Commanding the First Legion;SOR-087-L;Ground Unit;G/B;1
 Darth Vader, Dark Lord of the Sith;SOR-010-S;Leader;R/B;2 # Normal + Prerelease
 Death Star Stormtrooper;SOR-128-C;Ground Unit;R/B;3 # 1 foil
-Death Trooper;SOR-033-C;Ground Unit;U/B;3
+Death Trooper;SOR-033-C/SHD-030-S;Ground Unit;U/B;3
 Del Meeko, Providing Overwatch;SOR-034-R;Ground Unit;U/B;3
 Devastator, Inescapable;SOR-090-L;Space Unit;G/B;1
 Devotion;SOR-070-U;Upgrade;U;2 # 1 foil
 Director Krennic, Aspiring to Authority;SOR-001-C;Leader;U/B;1 # 1 hyperspace
-Disabling Fang Fighter;SOR-162-C;Space Unit;R;3
+Disabling Fang Fighter;SOR-162-C/SHD-166-C;Space Unit;R;3
 Disarm;SOR-216-C;Event;Y;3
 Distant Patroller;SOR-060-U;Space Unit;U;3 # 1 foil
 Don't Get Cocky;SOR-223-R;Event;Y;1
@@ -101,7 +101,7 @@ Galactic Ambition;SOR-235-R;Event;B;3 # 1xHyperspace, 1x Foil
 Gamorrean Guards;SOR-211-C;Ground Unit;Y;3
 General Dodonna, Massassi Group Commander;SOR-242-U;Ground Unit;W;2
 General Krell, Heartless Tactician;SOR-105-R;Ground Unit;G;1
-General Tagge, Concerned Commander;SOR-080-U;Ground Unit;G/B;2
+General Tagge, Concerned Commander;SOR-080-U/SHD-081-S;Ground Unit;G/B;2
 General Veers, Blizzard Force Commander;SOR-230-U;Ground Unit;B;3
 Gideon Hask, Ruthless Loyalist;SOR-036-R;Ground Unit;U/B;3
 Gladiator Star Destroyer;SOR-086-C;Space Unit;G/B;3
@@ -152,7 +152,7 @@ Mace Windu, Party Crasher;SOR-149-L;Ground Unit;R/W;2 # 1 foil
 Make an Opening;SOR-076-C;Event;U;3 # 1 hyperspace foil, 1 foil
 Maximum Firepower;SOR-234-C;Event;B;3
 Medal Ceremony;SOR-245-C;Event;W;3
-Mercenary Company;SOR-117-C;Ground Unit;G;3
+Mercenary Company;SOR-117-C/SHD-121-C;Ground Unit;G;3
 Millennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
 Mining Guild TIE FIghter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
@@ -185,7 +185,7 @@ Regional Sympathizers;SOR-243-C;Ground Unit;W;3 # 1 hyperspace foil
 Reinforcement Walker;SOR-119-U;Ground Unit;G;3
 Relentless, Konstantine's Folly;SOR-089-R;Space Unit;G/B;1
 Repair;SOR-074-C;Event;U;3 # 1 foil
-Resilient;SOR-069-C;Upgrade;U;3 # 1 foil
+Resilient;SOR-069-C/SHD-070-S;Upgrade;U;3 # 1 foil
 Restock;SOR-252-C;Event;N;3
 Restored ARC-170;SOR-044-C;Space Unit;U/W;3
 Resupply;SOR-126-C;Event;G;3 # 1 foil
@@ -199,17 +199,17 @@ Sabine Wren, Galvanized Revolutionary;SOR-014-C;Leader;R/W;1 # hyperspace
 Saw Gerrera, Extremist;SOR-153-R;Ground Unit;R;1
 Scout Bike Pursuer;SOR-032-C;Ground Unit;U/B;3
 Search Your Feelings;SOR-042-R;Event;U/B;1
-Seasoned Shoretrooper;SOR-081-C;Ground Unit;G/B;3
+Seasoned Shoretrooper;SOR-081-C/SHD-083-S;Ground Unit;G/B;3
 Security Complex;SOR-019-R;Base;U;1 # foil
 Seventh Fleet Defender;SOR-180-C;Space Unit;B/Y;3
 Seventh Sister, Implacable Inquisitor;SOR-133-R;Ground Unit;R/B;1
 Shoot First;SOR-217-U;Event;Y;3 # 1 foil
 Smoke and Cinders;SOR-174-R;Event;R;3
 Smuggling Compartment;SOR-214-U;Upgrade;Y;3
-Snapshot Reflexes;SOR-215-C;Upgrade;Y;3
+Snapshot Reflexes;SOR-215-C/SHD-223-S;Upgrade;Y;3
 Sneak Attack;SOR-219-R;Event;Y;1
 Snowspeeder;SOR-244-C;Ground Unit;W;3 # 1 foil
-Snowtrooper Lieutenant;SOR-227-C;Ground Unit;B;3 # 1 hyperspace
+Snowtrooper Lieutenant;SOR-227-C/SHD-236-S;Ground Unit;B;3 # 1 hyperspace
 Spark of Rebellion;SOR-200-R;Event;W/Y;1
 SpecForce Soldier;SOR-140-C;Ground Unit;R/W;3 # 1 hyperspace
 Star Wing Scout;SOR-163-U;Space Unit;R;3
@@ -217,11 +217,11 @@ Steadfast Battalion;SOR-116-C;Ground Unit;G;3
 Strafing Gunship;SOR-212-R;Space Unit;Y;1
 Strike True;SOR-127-C;Event;G;3 # 1 hyperspace
 Superlaser Blast;SOR-043-L;Event;U/B;1
-Superlaser Technician;SOR-083-C;Ground Unit;G/B;3 # 1 foil, 1 hyperspace
-Surprise Strike;SOR-220-C;Event;Y;3
+Superlaser Technician;SOR-083-C/SHD-085-S;Ground Unit;G/B;3 # 1 foil, 1 hyperspace
+Surprise Strike;SOR-220-C/SHD-231-C;Event;Y;3
 Swoop Racer;SOR-210-C;Ground Unit;Y;3 # 1 hyperspace
 Syndicate Lackeys;SOR-213-C;Ground Unit;Y;3 # 1 hyperspace foil
-System Patrol Craft;SOR-066-C;Space Unit;U;3 # 1 foil
+System Patrol Craft;SOR-066-C/SHD-063-S;Space Unit;U;3 # 1 foil
 TIE Advanced;SOR-231-U;Space Unit;B;3 # 1 hyperspace
 TIE/ln Fighter;SOR-225-C;Space Unit;B;3 # 1 hyperspace
 Tactical Advantage;SOR-124-C;Event;G;3
@@ -232,7 +232,7 @@ The Force Is With Me;SOR-055-U;Event;U/W;3 # 1 foil
 The Ghost, Spectre Home Base;SOR-050-U;Space Unit;U/W;3
 Traitorous;SOR-122-R;Upgrade;G;2
 U-Wing Reinforcement;SOR-104-R;Event;G/W;2
-Underworld Thug;SOR-247-C;Ground Unit;N;3 # 1 hyperspace
+Underworld Thug;SOR-247-C/SHD-257-C;Ground Unit;N;3 # 1 hyperspace
 Vader's Lightsaber;SOR-136-S;Upgrade;R/B;3
 Vanguard Ace;SOR-191-U;Space Unit;W/Y;3
 Vanguard Infantry;SOR-108-C;Ground Unit;G;3 #1 foil
@@ -250,199 +250,250 @@ Wolffe, Suspicious Veteran;SOR-160-R;Ground Unit;R;1
 Yoda, Old Master;SOR-045-U;Ground Unit;U/W;3 # 1 foil
 You're My Only Hope;SOR-246-R;Event;W;1
 Zeb Orrelios, Headstrong Warrior;SOR-146-U;Ground Unit;R/W;2
-#Gar Saxon, Viceroy of Mandalore;SHD-001-C;Leader;U/B;0
-#Qi'ra, I Alone Survived;SHD-002-R;Leader;U/B;0
-#Finn, This is a Rescue;SHD-003-R;Leader;U/W;0
-#Rey, More than a Scavenger;SHD-004-C;Leader;U/W;0
-#Hondo Ohnaka, That's Good Business;SHD-005-C;Leader;G/B;0
-#Jabba the Hutt, His High Exaltedness;SHD-006-R;Leader;G/B;0
-#Moff Gideon, Formidable Commander;SHD-007-S;Leader;G/B;0
-#Boba Fett, Daimyo;SHD-008-C;Leader;G/W;0
-#Hunter, Outcast Sergeant;SHD-009-R;Leader;G/W;0
-#Bossk, Hunting His Prey;SHD-010-C;Leader;R/B;0
-#Kylo Ren, Rash and Deadly;SHD-011-R;Leader;R/B;0
-#Bo-Katan Kryze, Princess In Exile;SHD-012-R;Leader;R/W;0
-#Han Solo, Worth the Risk;SHD-013-C;Leader;R/W;0
-#Cad Bane, He Who Needs No Introduction;SHD-014-C;Leader;Y/B;0
-#Doctor Aphra, Rapacious Archaeologist;SHD-015-R;Leader;Y/B;0
-#Fennec Shand, Honoring the Deal;SHD-016-C;Leader;Y/W;0
-#Lando Calrissian, With Impeccable Taste;SHD-017-R;Leader;Y/W;0
-#The Mandalorian, Sworn to the Creed;SHD-018-S;Leader;Y/W;0
-# SHD-019-?
-# SHD-020-?
-# SHD-021-?
-# SHD-022-?
-# SHD-023-?
-# SHD-024-?
-#Coronet City;SHD-025-C;Base;Y;0
-# SHD-026-?
-#Hybolon Enforcer;SHD-027-C;Ground Unit;U/B;0
-#Doctor Pershing, Experimenting With Life;SHD-028-R;Ground Unit;U/B;0
-#Pyke Sentinel;SHD-029-C;Ground Unit;U/B;0
-# SHD-030-?
-#The Client, Dictated By Discretion;SHD-031-U;Ground Unit;U/B;0
-#Lom Pyke, Dealer in Truths;SHD-032-R;Ground Unit;U/B;0
-#Synara San, Loyal to Kragan;SHD-033-U;Ground Unit;U/B;0
-#Supercommando Squad;SHD-034-C;Ground Unit;U/B;0
-#Clan Saxon Gauntlet;SHD-035-U;Space Unit;U/B;0
-#First Light, Headquarters of the Crimson Dawn;SHD-036-R;Space Unit;U/B;0
-#Supreme Leader Snoke, Shadow Ruler;SHD-037-L;Ground Unit;U/B;0
-#Brutal Traditions;SHD-038-U;Upgrade;U/B;0
-#Calculated Lethality;SHD-039-S;Event;U/B;0
-#Clan Wren Rescuer;SHD-040-C;Ground Unit;U/W;0
-#Kuiil, I Have Spoken;SHD-041-U;Ground Unit;U/W;0
-#Concord Dawn Interceptors;SHD-042-U;Space Unit;U/W;0
-#Village Protectors;SHD-043-C;Ground Unit;U/W;0
-#Razor Crest, Reliable Gunship;SHD-044-S;Space Unit;U/W;0
-#Rose Tico, Dedicated to the Cause;SHD-045-U;Ground Unit;U/W;0
-#Rey, Keeping the Past;SHD-046-L;Ground Unit;U/W;0
-#The Armorer, Survival is Strength;SHD-047-U;Ground Unit;U/W;0
-#Gentle Giant;SHD-048-C;Ground Unit;U/W;0
-#The Mandalorian, Where I Go, He Goes;SHD-049-L;Ground Unit;U/W;0
-#Chewbacca, Pykesbane;SHD-050-R;Ground Unit;U/W;0
-#Mystic Reflection;SHD-051-R;Event;U/W;0
-#Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;0
-#Second Chance;SHD-053-L;Upgrade;U;0
-#Midnight Repairs;SHD-054-U;Event;U;0
-#Moisture Farmer;SHD-055-C;Ground Unit;U;0
-#Follower of the Way;SHD-056-C;Ground Unit;U;0
-#Rickety Quadjumper;SHD-057-C;Space Unit;U;0
-#Val, Loyal to the End;SHD-058-R;Ground Unit;U;0
-#Embo, Stoic and Resolute;SHD-059-U;Ground Unit;U;0
-#HWK-290 Freighter;SHD-060-C;Space Unit;U;0
-#Wroshyr Tree Tender;SHD-061-C;Ground Unit;U;0
-#Nima Outpost Constables;SHD-062-C;Ground Unit;U;0
-# SHD-063-?
-#Survivors' Gauntlet;SHD-064-R;Space Unit;U;0
-#Vigilant Pursuit Craft;SHD-065-C;Space Unit;U;0
-# SHD-066-?
-#Fenn Rau, Protector of Concord Dawn;SHD-067-U;Ground Unit;U;0
-#Public Enemy;SHD-068-C;Upgrade;U;0
-#Foundling;SHD-069-C;Upgrade;U;0
-# SHD-070-?
-#Top Target;SHD-071-U;Upgrade;U;0
-#Imprisoned;SHD-072-R;Upgrade;U;0
-#Mandalorian Armor;SHD-073-R;Upgrade;U;0
-#Vambrace Grappleshot;SHD-074-C;Upgrade;U;0
-#Covert Strength;SHD-075-C;Event;U;0
-#Unexpected Escape;SHD-076-U;Event;U;0
-#Evidence of the Crime;SHD-077-R;Event;U;0
-#Fell the Dragon;SHD-078-U;Event;U;0
-#Rival's Fall;SHD-079-C;Event;U;0
-#Salacious Crumb, Obnoxious Pet;SHD-080-U;Ground Unit;G/B;0
-# SHD-081-?
-#Outland TIE Vanguard;SHD-082-C;Space Unit;G/B;0
-# SHD-083-?
-#Phase-III Dark Trooper;SHD-084-S;Ground Unit;G/B;0
-# SHD-085-?
-#Warbird Stowaway;SHD-086-C;Ground Unit;G/B;0
-#Crosshair, Following Orders;SHD-087-U;Ground Unit;G/B;0
-#Ephant Mon, Head of Security;SHD-088-R;Ground Unit;G/B;0
-#Pirate Battle Tank;SHD-089-C;Ground Unit;G/B;0
-#Maul, Shadow Collective Visionary;SHD-090-R;Ground Unit;G/B;0
-#Jabba's Rancor, Pateesa;SHD-091-U;Ground Unit;G/B;0
-#Finalizer, Might of the First Order;SHD-091-L;Space Unit;G/B;0
-#Remnant Reserves;SHD-093-U;Event;G/B;0
-#Palpatine's Return;SHD-094-R;Event;G/B;0
-#Clone Deserter;SHD-095-C;Ground Unit;G/W;0
-#Maz Kanata, Pirate Queen;SHD-096-R;Ground Unit;G/W;0
-#Freetown Backup;SHD-097-U;Ground Unit;G/W;0
-#Sundari Peacekeeper;SHD-098-U;Ground Unit;G/W;0
-#Echo, Restored;SHD-099-U;Ground Unit;G/W;0
-#Modded Cohort;SHD-100-C;Ground Unit;G/W;0
-#Adelphi Patrol Wing;SHD-101-C;Space Unit;G/W;0
-#The Marauder, Shuttling the Bad Batch;SHD-102-R;Space Unit;G/W;0
-#General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;G/W;0
-#Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
-#Spark of Hope;SHD-105-U;Event;G/W;0
-#Rule with Respect;SHD-106-L;Event;G/W;0
-#Enterprising Lackeys;SHD-107-R;Ground Unit;G;0
-#Enforced Loyalty;SHD-108-U;Event;G;0
-#Endless Legions;SHD-109-L;Event;G;0
-#Warzone Lieutenant;SHD-110-C;Ground Unit;G;0
-#Collections Starhopper;SHD-111-C;Space Unit;G;0
-#Gamorrean Retainer;SHD-112-C;Ground Unit;G;0
-#Privateer Crew;SHD-113-U;Ground Unit;G;0
-#Scanning Officer;SHD-114-U;Ground Unit;G;0
-#Cobb Vanth, The Marshal;SHD-115-R;Ground Unit;G;0
-#Outlaw Corona;SHD-116-C;Space Unit;G;0
-#Reputable Hunter;SHD-117-C;Ground Unit;G;0
-#Kihraxz Heavy Fighter;SHD-118-U;Space Unit;G;0
-#Weequay Pirate Gang;SHD-119-C;Ground Unit;G;0
-#Discerning Veteran;SHD-120-C;Ground Unit;G;0
-# SHD-121-?
-#Arquitens Assault Cruiser;SHD-122-R;Space Unit;G;0
-#Bounty Hunter's Quarry;SHD-123-U;Upgrade;G;0
-#Legal Authority;SHD-124-R;Upgrade;G;0
-#Price on Your Head;SHD-125-C;Upgrade;G;0
-#The Darksaber;SHD-126-L;Upgrade;G;0
-#Commission;SHD-127-U;Event;G;0
-#Outflank;SHD-128-C;Event;G;0
-#Timely Intervention;SHD-129-C;Event;G;0
-#Moment of Glory;SHD-130-C;Event;G;0
-#Take Captive;SHD-131-C;Event;G;0
-#Choose Sides;SHD-132-R;Event;G;0
-#Dengar, The Demolisher;SHD-133-U;Ground Unit;R/B;0
-#Guavian Antagonizer;SHD-134-C;Ground Unit;R/B;0
-#Kylo's TIE Silencer, Ruthlessly Efficient;SHD-135-L;Space Unit;R/B;0
-#Death Watch Loyalist;SHD-136-C;Ground Unit;R/B;0
-#Punishing One, Dengar's Jumpmaster;SHD-137-U;Space Unit;R/B;0
-#Jango Fett, Renowned Bounty Hunter;SHD-138-R;Ground Unit;R/B;0
-#Krrsantan, Muscle for Hire;SHD-139-U;Ground Unit;R/B;0
-#Trandoshan Hunters;SHD-140-C;Ground Unit;R/B;0
-#Kylo Ren, Killing the Past;SHD-141-L;Ground Unit;R/B;0
-#Pre Vizsla, Power Hungry;SHD-142-R;Ground Unit;R/B;0
-#Ruthlessness;SHD-143-R;Upgrade;R/B;0
-#Give In to Your Anger;SHD-144-R;Event;R/B;0
-#Headhunting;SHD-145-U;Event;R/B;0
-#Heroic Renegade;SHD-146-C;Ground Unit;R/W;0
-#Ketsu Onyo, Old Friend;SHD-147-U;Ground Unit;R/W;0
-#Cassian Andor, Rebellions are Built on Hope;SHD-148-U;Ground Unit;R/W;0
-#Nite Owl Skirmisher;SHD-149-C;Ground Unit;R/W;0
-#Koska Reeves, Loyal Nite Owl;SHD-150-R;Ground Unit;R/W;0
-#Valiant Assault Ship;SHD-151-U;Space Unit;R/W;0
-#Desperado Freighter;SHD-152-C;Space Unit;R/W;0
-#Poe Dameron, Quick to Improvise;SHD-153-L;Ground Unit;R/W;0
-#Wrecker, Boom!;SHD-154-R;Ground Unit;R/W;0
-#Heroic Resolve;SHD-155-R;Upgrade;R/W;0
-#Cripple Authority;SHD-156-U;Event;R/W;0
-#Bo-Katan Kryze, Fighting for Mandalore;SHD-157-U;Ground Unit;R;0
-#Wild Rancor;SHD-158-R;Ground Unit;R;0
-#The Chaos of War;SHD-159-R;Event;R;0
-#Reckless Gunslinger;SHD-160-C;Ground Unit;R;0
-#Stolen Landspeeder;SHD-161-R;Ground Unit;R;0
-#House Kast Soldier;SHD-162-C;Ground Unit;R;0
-#Miggs Mayfeld, Triggerman;SHD-163-R;Ground Unit;R;0
-#Rhokai Gunship;SHD-164-C;Space Unit;R;0
-#Unlicensed Headhunter;SHD-165-U;Space Unit;R;0
-# SHD-166-?
-#Wanted Insurgents;SHD-167-C;Ground Unit;R;0
-#Hunting Nexu;SHD-168-C;Ground Unit;R;0
-#Clan Challengers;SHD-169-C;Ground Unit;R;0
-#IG-11, I Cannot be Captured;SHD-170-U;Ground Unit;R;0
-#Covetous Rivals;SHD-171-C;Ground Unit;R;0
-#Krayt Dragon;SHD-172-L;Ground Unit;R;0
-#Guild Target;SHD-173-U;Upgrade;R;0
-#Hotshot DL-44 Blaster;SHD-174-R;Upgrade;R;0
-#Armed to the Teeth;SHD-175-U;Upgrade;R;0
-#Death Mark;SHD-176-C;Upgrade;R;0
-#Vambrace Flamethrower;SHD-177-R;Upgrade;R;0
-#Daring Raid;SHD-178-C;Event;R;0
-#Desperate Attack;SHD-179-C;Event;R;0
-#Detention Block Rescue;SHD-180-C;Event;R;0
-#Pillage;SHD-181-C;Event;R;0
-#Bravado;SHD-182-U;Event;R;0
-#Kintan Intimidator;SHD-183-C;Ground Unit;Y/B;0
-#Bazine Netal, Spy for the First Order;SHD-184-R;Ground Unit;Y/B;0
-#Doctor Evazan, Wanted on Twelve Systems;SHD-185-R;Ground Unit;Y/B;0
-#Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Y/B;0
-#Lurking TIE Phantom;SHD-187-U;Space Unit;Y/B;0
-#4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;0
-#Slaver's Freighter;SHD-189-C;Space Unit;Y/B;0
-#Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;0
-#Xanadu Blood, Cad Bane's Rewared;SHD-191-R;Space Unit;Y/B;0
-#Dryden Vos, Offering No Escape;SHD-192-L;Ground Unit;Y/B;0
-#Frozen in Carbonite;SHD-193-U;Upgrade;Y/B;0
-#Triple Dark Raid;SHD-194-R;Event;Y/B;0
-#Cartel Turncoat;SHD-195-C;Space Unit;Y/W;0
-#Grogu, Irresistible;SHD-196-S;Ground Unit;Y/W;0
+Gar Saxon, Viceroy of Mandalore;SHD-001-C;Leader;U/B;0
+Qi'ra, I Alone Survived;SHD-002-R;Leader;U/B;0
+Finn, This is a Rescue;SHD-003-R;Leader;U/W;0
+Rey, More than a Scavenger;SHD-004-C;Leader;U/W;0
+Hondo Ohnaka, That's Good Business;SHD-005-C;Leader;G/B;0
+Jabba the Hutt, His High Exaltedness;SHD-006-R;Leader;G/B;0
+Moff Gideon, Formidable Commander;SHD-007-S;Leader;G/B;0
+Boba Fett, Daimyo;SHD-008-C;Leader;G/W;0
+Hunter, Outcast Sergeant;SHD-009-R;Leader;G/W;0
+Bossk, Hunting His Prey;SHD-010-C;Leader;R/B;0
+Kylo Ren, Rash and Deadly;SHD-011-R;Leader;R/B;0
+Bo-Katan Kryze, Princess In Exile;SHD-012-R;Leader;R/W;0
+Han Solo, Worth the Risk;SHD-013-C;Leader;R/W;0
+Cad Bane, He Who Needs No Introduction;SHD-014-C;Leader;Y/B;0
+Doctor Aphra, Rapacious Archaeologist;SHD-015-R;Leader;Y/B;0
+Fennec Shand, Honoring the Deal;SHD-016-C;Leader;Y/W;0
+Lando Calrissian, With Impeccable Taste;SHD-017-R;Leader;Y/W;0
+The Mandalorian, Sworn to the Creed;SHD-018-S;Leader;Y/W;0
+Remnant Science Facility;SHD-019-C;Base;U;0
+Remote Village;SHD-020-C;Base;U;0
+Maz Kanata's Castle;SHD-021-C;Base;G;0
+Nevarro City;SHD-022-C;Base;G;0
+Death Watch Hideout;SHD-023-C;Base;R;0
+Spice Mines;SHD-024-C;Base;R;0
+Coronet City;SHD-025-C;Base;Y;0
+Jabba's Palace;SHD-026-C;Base;Y;0
+Hybolon Enforcer;SHD-027-C;Ground Unit;U/B;0
+Doctor Pershing, Experimenting With Life;SHD-028-R;Ground Unit;U/B;0
+Pyke Sentinel;SHD-029-C;Ground Unit;U/B;0
+The Client, Dictated By Discretion;SHD-031-U;Ground Unit;U/B;0
+Lom Pyke, Dealer in Truths;SHD-032-R;Ground Unit;U/B;0
+Synara San, Loyal to Kragan;SHD-033-U;Ground Unit;U/B;0
+Supercommando Squad;SHD-034-C;Ground Unit;U/B;0
+Clan Saxon Gauntlet;SHD-035-U;Space Unit;U/B;0
+First Light, Headquarters of the Crimson Dawn;SHD-036-R;Space Unit;U/B;0
+Supreme Leader Snoke, Shadow Ruler;SHD-037-L;Ground Unit;U/B;0
+Brutal Traditions;SHD-038-U;Upgrade;U/B;0
+Calculated Lethality;SHD-039-S;Event;U/B;0
+Clan Wren Rescuer;SHD-040-C;Ground Unit;U/W;0
+Kuiil, I Have Spoken;SHD-041-U;Ground Unit;U/W;0
+Concord Dawn Interceptors;SHD-042-U;Space Unit;U/W;0
+Village Protectors;SHD-043-C;Ground Unit;U/W;0
+Razor Crest, Reliable Gunship;SHD-044-S;Space Unit;U/W;0
+Rose Tico, Dedicated to the Cause;SHD-045-U;Ground Unit;U/W;0
+Rey, Keeping the Past;SHD-046-L;Ground Unit;U/W;0
+The Armorer, Survival is Strength;SHD-047-U;Ground Unit;U/W;0
+Gentle Giant;SHD-048-C;Ground Unit;U/W;0
+The Mandalorian, Where I Go, He Goes;SHD-049-L;Ground Unit;U/W;0
+Chewbacca, Pykesbane;SHD-050-R;Ground Unit;U/W;0
+Mystic Reflection;SHD-051-R;Event;U/W;0
+Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;0
+Second Chance;SHD-053-L;Upgrade;U;0
+Midnight Repairs;SHD-054-U;Event;U;0
+Moisture Farmer;SHD-055-C;Ground Unit;U;0
+Follower of the Way;SHD-056-C;Ground Unit;U;0
+Rickety Quadjumper;SHD-057-C;Space Unit;U;0
+Val, Loyal to the End;SHD-058-R;Ground Unit;U;0
+Embo, Stoic and Resolute;SHD-059-U;Ground Unit;U;0
+HWK-290 Freighter;SHD-060-C;Space Unit;U;0
+Wroshyr Tree Tender;SHD-061-C;Ground Unit;U;0
+Nima Outpost Constables;SHD-062-C;Ground Unit;U;0
+Survivors' Gauntlet;SHD-064-R;Space Unit;U;0
+Vigilant Pursuit Craft;SHD-065-C;Space Unit;U;0
+Fenn Rau, Protector of Concord Dawn;SHD-067-U;Ground Unit;U;0
+Public Enemy;SHD-068-C;Upgrade;U;0
+Foundling;SHD-069-C;Upgrade;U;0
+Top Target;SHD-071-U;Upgrade;U;0
+Imprisoned;SHD-072-R;Upgrade;U;0
+Mandalorian Armor;SHD-073-R;Upgrade;U;0
+Vambrace Grappleshot;SHD-074-C;Upgrade;U;0
+Covert Strength;SHD-075-C;Event;U;0
+Unexpected Escape;SHD-076-U;Event;U;0
+Evidence of the Crime;SHD-077-R;Event;U;0
+Fell the Dragon;SHD-078-U;Event;U;0
+Rival's Fall;SHD-079-C;Event;U;0
+Salacious Crumb, Obnoxious Pet;SHD-080-U;Ground Unit;G/B;0
+Outland TIE Vanguard;SHD-082-C;Space Unit;G/B;0
+Phase-III Dark Trooper;SHD-084-S;Ground Unit;G/B;0
+Warbird Stowaway;SHD-086-C;Ground Unit;G/B;0
+Crosshair, Following Orders;SHD-087-U;Ground Unit;G/B;0
+Ephant Mon, Head of Security;SHD-088-R;Ground Unit;G/B;0
+Pirate Battle Tank;SHD-089-C;Ground Unit;G/B;0
+Maul, Shadow Collective Visionary;SHD-090-R;Ground Unit;G/B;0
+Jabba's Rancor, Pateesa;SHD-091-U;Ground Unit;G/B;0
+Finalizer, Might of the First Order;SHD-091-L;Space Unit;G/B;0
+Remnant Reserves;SHD-093-U;Event;G/B;0
+Palpatine's Return;SHD-094-R;Event;G/B;0
+Clone Deserter;SHD-095-C;Ground Unit;G/W;0
+Maz Kanata, Pirate Queen;SHD-096-R;Ground Unit;G/W;0
+Freetown Backup;SHD-097-U;Ground Unit;G/W;0
+Sundari Peacekeeper;SHD-098-U;Ground Unit;G/W;0
+Echo, Restored;SHD-099-U;Ground Unit;G/W;0
+Modded Cohort;SHD-100-C;Ground Unit;G/W;0
+Adelphi Patrol Wing;SHD-101-C;Space Unit;G/W;0
+The Marauder, Shuttling the Bad Batch;SHD-102-R;Space Unit;G/W;0
+General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;G/W;0
+Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
+Spark of Hope;SHD-105-U;Event;G/W;0
+Rule with Respect;SHD-106-L;Event;G/W;0
+Enterprising Lackeys;SHD-107-R;Ground Unit;G;0
+Enforced Loyalty;SHD-108-U;Event;G;0
+Endless Legions;SHD-109-L;Event;G;0
+Warzone Lieutenant;SHD-110-C;Ground Unit;G;0
+Collections Starhopper;SHD-111-C;Space Unit;G;0
+Gamorrean Retainer;SHD-112-C;Ground Unit;G;0
+Privateer Crew;SHD-113-U;Ground Unit;G;0
+Scanning Officer;SHD-114-U;Ground Unit;G;0
+Cobb Vanth, The Marshal;SHD-115-R;Ground Unit;G;0
+Outlaw Corona;SHD-116-C;Space Unit;G;0
+Reputable Hunter;SHD-117-C;Ground Unit;G;0
+Kihraxz Heavy Fighter;SHD-118-U;Space Unit;G;0
+Weequay Pirate Gang;SHD-119-C;Ground Unit;G;0
+Discerning Veteran;SHD-120-C;Ground Unit;G;0
+Arquitens Assault Cruiser;SHD-122-R;Space Unit;G;0
+Bounty Hunter's Quarry;SHD-123-U;Upgrade;G;0
+Legal Authority;SHD-124-R;Upgrade;G;0
+Price on Your Head;SHD-125-C;Upgrade;G;0
+The Darksaber;SHD-126-L;Upgrade;G;0
+Commission;SHD-127-U;Event;G;0
+Outflank;SHD-128-C;Event;G;0
+Timely Intervention;SHD-129-C;Event;G;0
+Moment of Glory;SHD-130-C;Event;G;0
+Take Captive;SHD-131-C;Event;G;0
+Choose Sides;SHD-132-R;Event;G;0
+Dengar, The Demolisher;SHD-133-U;Ground Unit;R/B;0
+Guavian Antagonizer;SHD-134-C;Ground Unit;R/B;0
+Kylo's TIE Silencer, Ruthlessly Efficient;SHD-135-L;Space Unit;R/B;0
+Death Watch Loyalist;SHD-136-C;Ground Unit;R/B;0
+Punishing One, Dengar's Jumpmaster;SHD-137-U;Space Unit;R/B;0
+Jango Fett, Renowned Bounty Hunter;SHD-138-R;Ground Unit;R/B;0
+Krrsantan, Muscle for Hire;SHD-139-U;Ground Unit;R/B;0
+Trandoshan Hunters;SHD-140-C;Ground Unit;R/B;0
+Kylo Ren, Killing the Past;SHD-141-L;Ground Unit;R/B;0
+Pre Vizsla, Power Hungry;SHD-142-R;Ground Unit;R/B;0
+Ruthlessness;SHD-143-R;Upgrade;R/B;0
+Give In to Your Anger;SHD-144-R;Event;R/B;0
+Headhunting;SHD-145-U;Event;R/B;0
+Heroic Renegade;SHD-146-C;Ground Unit;R/W;0
+Ketsu Onyo, Old Friend;SHD-147-U;Ground Unit;R/W;0
+Cassian Andor, Rebellions are Built on Hope;SHD-148-U;Ground Unit;R/W;0
+Nite Owl Skirmisher;SHD-149-C;Ground Unit;R/W;0
+Koska Reeves, Loyal Nite Owl;SHD-150-R;Ground Unit;R/W;0
+Valiant Assault Ship;SHD-151-U;Space Unit;R/W;0
+Desperado Freighter;SHD-152-C;Space Unit;R/W;0
+Poe Dameron, Quick to Improvise;SHD-153-L;Ground Unit;R/W;0
+Wrecker, Boom!;SHD-154-R;Ground Unit;R/W;0
+Heroic Resolve;SHD-155-R;Upgrade;R/W;0
+Cripple Authority;SHD-156-U;Event;R/W;0
+Bo-Katan Kryze, Fighting for Mandalore;SHD-157-U;Ground Unit;R;0
+Wild Rancor;SHD-158-R;Ground Unit;R;0
+The Chaos of War;SHD-159-R;Event;R;0
+Reckless Gunslinger;SHD-160-C;Ground Unit;R;0
+Stolen Landspeeder;SHD-161-R;Ground Unit;R;0
+House Kast Soldier;SHD-162-C;Ground Unit;R;0
+Miggs Mayfeld, Triggerman;SHD-163-R;Ground Unit;R;0
+Rhokai Gunship;SHD-164-C;Space Unit;R;0
+Unlicensed Headhunter;SHD-165-U;Space Unit;R;0
+Wanted Insurgents;SHD-167-C;Ground Unit;R;0
+Hunting Nexu;SHD-168-C;Ground Unit;R;0
+Clan Challengers;SHD-169-C;Ground Unit;R;0
+IG-11, I Cannot be Captured;SHD-170-U;Ground Unit;R;0
+Covetous Rivals;SHD-171-C;Ground Unit;R;0
+Krayt Dragon;SHD-172-L;Ground Unit;R;0
+Guild Target;SHD-173-U;Upgrade;R;0
+Hotshot DL-44 Blaster;SHD-174-R;Upgrade;R;0
+Armed to the Teeth;SHD-175-U;Upgrade;R;0
+Death Mark;SHD-176-C;Upgrade;R;0
+Vambrace Flamethrower;SHD-177-R;Upgrade;R;0
+Daring Raid;SHD-178-C;Event;R;0
+Desperate Attack;SHD-179-C;Event;R;0
+Detention Block Rescue;SHD-180-C;Event;R;0
+Pillage;SHD-181-C;Event;R;0
+Bravado;SHD-182-U;Event;R;0
+Kintan Intimidator;SHD-183-C;Ground Unit;Y/B;0
+Bazine Netal, Spy for the First Order;SHD-184-R;Ground Unit;Y/B;0
+Doctor Evazan, Wanted on Twelve Systems;SHD-185-R;Ground Unit;Y/B;0
+Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Y/B;0
+Lurking TIE Phantom;SHD-187-U;Space Unit;Y/B;0
+4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;0
+Slaver's Freighter;SHD-189-C;Space Unit;Y/B;0
+Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;0
+Xanadu Blood, Cad Bane's Rewared;SHD-191-R;Space Unit;Y/B;0
+Dryden Vos, Offering No Escape;SHD-192-L;Ground Unit;Y/B;0
+Frozen in Carbonite;SHD-193-U;Upgrade;Y/B;0
+Triple Dark Raid;SHD-194-R;Event;Y/B;0
+Cartel Turncoat;SHD-195-C;Space Unit;Y/W;0
+Grogu, Irresistible;SHD-196-S;Ground Unit;Y/W;0
+L3-37, Droid Revolutionary;SHD-197-U;Ground Unit;Y/W;0
+Omega, Part of the Squad;SHD-198-R;Ground Unit;Y/W;0
+Coruscant Dissident;SHD-199-U;Ground Unit;Y/W;0
+Liberated Slaves;SHD-200-C;Ground Unit;Y/W;0
+Principled Outlaw;SHD-201-C;Ground Unit;Y/W;0
+Qi'ra, Playing Her Part;SHD-202-R;Ground Unit;Y/W;0
+Zorii Bliss, Valiant Smuggler;SHD-203-R;Ground Unit;Y/W;0
+Millennium Falcon, Lando's Pride;SHD-204-U;Space Unit;Y/W;0
+Let the Wookiee Win;SHD-205-R;Event;Y/W;0
+Spare the Target;SHD-206-U;Event;Y/W;0
+A New Adventure;SHD-207-U;Event;Y;0
+Final Showdown;SHD-208-L;Event;Y;0
+Criminal Muscle;SHD-209-C;Ground Unit;Y;0
+Cloud-Rider;SHD-210-C;Ground Unit;Y;0
+Fugitive Wookiee;SHD-211-C;Ground Unit;Y;0
+Privateer Scyk;SHD-212-C;Space Unit;Y;0
+DJ, Blatant Thief;SHD-213-L;Ground Unit;Y;0
+Frontier Trader;SHD-214-C;Ground Unit;Y;0
+Smuggler's Starfighter;SHD-215-C;Space Unit;Y;0
+Chain Code Collector;SHD-216-C;Ground Unit;Y;0
+Tobias Beckett, I Trust No One;SHD-217-R;Ground Unit;Y;0
+Resourceful Pursuers;SHD-218-C;Ground Unit;Y;0
+Enfys Nest, Marauder;SHD-219-U;Ground Unit;Y;0
+Fennic Shand, Loyal Sharpshooter;SHD-220-U;Ground Unit;Y;0
+Wanted;SHD-221-C;Upgrade;Y;0
+Enticing Reward;SHD-222-U;Upgrade;Y;0
+Boba Fett's Armor;SHD-224-R;Upgrade;Y;0
+Jetpack;SHD-225-U;Upgrade;Y;0
+Unrefusable Offer;SHD-226-R;Upgrade;Y;0
+Look the Other Way;SHD-227-C;Event;Y;0
+Bounty Posting;SHD-228-U;Event;Y;0
+Ma Klounkee;SHD-229-C;Event;Y;0
+Swoop Down;SHD-230-R;Event;Y;0
+Relentless Pursuit;SHD-232-C;Event;Y;0
+Evacuate;SHD-233-L;Event;Y;0
+Incinerator Trooper;SHD-234-S;Ground Unit;B;0
+Ruthless Assassin;SHD-235-C;Ground Unit;B;0
+Black Sun Starfighter;SHD-237-C;Space Unit;B;0
+Toro Calican, Ambitious Upstart;SHD-239-U;Ground Unit;B;0
+Hutt's Henchmen;SHD-240-C;Ground Unit;B;0
+Kragan Gorr, Warbird Captain;SHD-241-R;Ground Unit;B;0
+Gideon's Light Cruiser, Dark Troopers' Station;SHD-242-S;Space Unit;B;0
+Altering the Deal;SHD-243-R;Event;B;0
+No Bargain;SHD-244-C;Event;B;0
+Greef Karga, Affable Commissioner;SHD-245-S;Ground Unit;W;0
+Grey Squadron Y-Wing;SHD-246-C;Space Unit;W;0
+Protector of the Throne;SHD-247-C;Ground Unit;W;0
+Tech, Source of Insight;SHD-248-R;Ground Unit;W;0
+Wookiee Warrior;SHD-249-C;Ground Unit;W;0
+Tarfful, Kashyyyk Chieftain;SHD-250-R;Ground Unit;W;0
+The Mandalorian's Rifle;SHD-251-S;Upgrade;W;0
+Smuggler's Aid;SHD-252-C;Event;W;0
+This Is The Way;SHD-253-U;Event;W;0
+Bounty Guild Initiate;SHD-254-C;Ground Unit;N;0
+Lady Proxima, White Worm Matriarch;SHD-255-U;Ground Unit;N;0
+Mercenary Gunship;SHD-256-U;Space Unit;N;0
+Mandalorian Warrior;SHD-258-C;Ground Unit;N;0
+Twin Pod Cloud Car;SHD-259-C;Space Unit;N;0
+Street Gang Recruiter;SHD-260-C;Ground Unit;N;0
+Rich Reward;SHD-261-C;Upgrade;N;0

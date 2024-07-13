@@ -256,7 +256,7 @@ Edward Weevil;EB01-023;Character;U;The Seven Warlords of the Sea;-Memorial Colle
 Edward Weevil;OP07-039;Character;U;The Seven Warlords of the Sea;-500 YEARS IN THE FUTURE- [OP-07];4
 Edward Weevil;ST03-002;Character;U;The Seven Warlords of the Sea;-The Seven Warlords of the Sea-[ST-03];0
 Edward.Newgate;OP02-001;Leader;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02];1
-Edward.Newgate;OP02-004;Character;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02]/-KINGDOMS OF INTRIGUE- [OP04];1
+Edward.Newgate;OP02-004;Character;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02]/-KINGDOMS OF INTRIGUE- [OP04];2
 Edward.Newgate;ST13-004;Character;Y;The Four Emperors/Whitebeard Pirates;The Three Brothers-[ST13];0
 Egghead;OP07-117;Stage;Y;Egghead;-500 YEARS IN THE FUTURE- [OP-07];4
 El Thor;OP05-114;Event;Y;Sky Island;-AWAKENING OF THE NEW ERA-[OP05];0
