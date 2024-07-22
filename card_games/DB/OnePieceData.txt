@@ -256,7 +256,7 @@ Edward Weevil;EB01-023;Character;U;The Seven Warlords of the Sea;-Memorial Colle
 Edward Weevil;OP07-039;Character;U;The Seven Warlords of the Sea;-500 YEARS IN THE FUTURE- [OP-07];4
 Edward Weevil;ST03-002;Character;U;The Seven Warlords of the Sea;-The Seven Warlords of the Sea-[ST-03];0
 Edward.Newgate;OP02-001;Leader;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02];1
-Edward.Newgate;OP02-004;Character;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02]/-KINGDOMS OF INTRIGUE- [OP04];2
+Edward.Newgate;OP02-004;Character;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02]/-KINGDOMS OF INTRIGUE- [OP04];3
 Edward.Newgate;ST13-004;Character;Y;The Four Emperors/Whitebeard Pirates;The Three Brothers-[ST13];0
 Egghead;OP07-117;Stage;Y;Egghead;-500 YEARS IN THE FUTURE- [OP-07];4
 El Thor;OP05-114;Event;Y;Sky Island;-AWAKENING OF THE NEW ERA-[OP05];0
@@ -370,7 +370,7 @@ Hamlet;EB01-024;Character;U;Animal Kingdom Pirates/SMILE;-Memorial Collection- [
 Hammond;OP06-032;Character;G;Fish-Man/New Fish-Man Pirates;-WINGS OF THE CAPTAIN-[OP06];2
 Hanger;OP04-050;Character;U;East Blue;-KINGDOMS OF INTRIGUE- [OP04];0
 Hannyabal;EB01-021;Leader;U/P;Impel Down;-Memorial Collection- [EB-01];0
-Hannyabal;OP02-083;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];2
+Hannyabal;OP02-083;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];3
 Happiness Punch;OP04-017;Event;R;Alabasta/Straw Hat Crew;-KINGDOMS OF INTRIGUE- [OP04];0
 Haruta;OP03-009;Character;R;Whitebeard Pirates;-PILLARS OF STRENGTH- [OP03];0
 Hatchan;OP03-033;Character;G;Fish-Man/East Blue/Arlong Pirates;-PILLARS OF STRENGTH- [OP03];0
@@ -570,7 +570,7 @@ Lim;OP03-015;Character;R;ODYSSEY;-PILLARS OF STRENGTH- [OP03];0
 Lindbergh;OP05-017;Character;R;Minks/Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];0
 Lion Strike;ST12-016;Event;G;Straw Hat Crew;-Zoro & Sanji- [ST-12];0
 Lion's Threat Imperial Earth Bind;ST05-016;Event;P;FILM/Golden Lion Pirates;ONE PIECE FILM edition [ST-05];0
-Little Sadi;OP02-073;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];1
+Little Sadi;OP02-073;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];2
 LittleOars Jr.;EB01-008;Character;R;Giant/Whitebeard Pirates Allies;-Memorial Collection- [EB-01];0
 LittleOars Jr.;OP02-020;Character;R;Giant/Whitebeard Pirates Allies;-PARAMOUNT WAR- [OP02];3
 Loguetown;EB01-030;Stage;U;East Blue;-Memorial Collection- [EB-01];0
@@ -623,7 +623,7 @@ Monet;OP05-036;Character;G;Donquixote Pirates;-AWAKENING OF THE NEW ERA-[OP05];0
 Monkey.D.Dragon;OP07-001;Leader;R;Revolutionary Army;-500 YEARS IN THE FUTURE- [OP-07];1
 Monkey.D.Dragon;OP07-015;Character;R;Revolutionary Army;-500 YEARS IN THE FUTURE- [OP-07];1
 Monkey.D.Garp;OP02-002;Leader;R/B;Navy;-PARAMOUNT WAR- [OP02];1
-Monkey.D.Garp;OP02-115;Character;B;Navy;-PARAMOUNT WAR- [OP02];2
+Monkey.D.Garp;OP02-115;Character;B;Navy;-PARAMOUNT WAR- [OP02];3
 Monkey.D.Garp;OP03-014;Character;R;Navy;-PILLARS OF STRENGTH- [OP03];0
 Monkey.D.Garp;OP05-054;Character;U;Navy;-AWAKENING OF THE NEW ERA-[OP05];0
 Monkey.D.Garp;OP06-055;Character;U;Navy;-WINGS OF THE CAPTAIN-[OP06];2
@@ -632,7 +632,7 @@ Monkey.D.Garp;ST08-010;Character;B;Navy;Monkey D. Luffy-[ST-08];0
 Monkey.D.Garp;ST13-013;Character;Y;Navy;The Three Brothers-[ST13];0
 Monkey.D.Luffy;OP01-003;Leader;R/G;Supernovas/Straw Hat Crew;-ROMANCE DAWN- [OP01];0
 Monkey.D.Luffy;OP01-024;Character;R;Supernovas/Straw Hat Crew;-ROMANCE DAWN- [OP01];0
-Monkey.D.Luffy;OP02-041;Character;G;FILM/Supernovas/Straw Hat Crew;-Uta-[ST-11]/-PARAMOUNT WAR- [OP02];3
+Monkey.D.Luffy;OP02-041;Character;G;FILM/Supernovas/Straw Hat Crew;-Uta-[ST-11]/-PARAMOUNT WAR- [OP02];4
 Monkey.D.Luffy;OP02-062;Character;U;Impel Down/Straw Hat Crew;-PARAMOUNT WAR- [OP02];1
 Monkey.D.Luffy;OP03-070;Character;P;Water Seven/Straw Hat Crew;-PILLARS OF STRENGTH- [OP03];0
 Monkey.D.Luffy;OP04-014;Character;R;Alabasta/Straw Hat Crew;-KINGDOMS OF INTRIGUE- [OP04];0
@@ -670,11 +670,11 @@ Mr.1(Daz.Bonez);OP05-075;Character;P;Baroque Works;-AWAKENING OF THE NEW ERA-[OP
 Mr.13 & Ms.Friday;OP04-073;Character;P;Animal/Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Mr.2.Bon.Kurei(Bentham);EB01-061;Character;P;Former Baroque Works;-Memorial Collection- [EB-01];0
 Mr.2.Bon.Kurei(Bentham);OP01-084;Character;U;Baroque Works;-ROMANCE DAWN- [OP01];0
-Mr.2.Bon.Kurei(Bentham);OP02-064;Character;U;Impel Down/Former Baroque Works;-PARAMOUNT WAR- [OP02];2
+Mr.2.Bon.Kurei(Bentham);OP02-064;Character;U;Impel Down/Former Baroque Works;-PARAMOUNT WAR- [OP02];3
 Mr.2.Bon.Kurei(Bentham);OP04-069;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Mr.2.Bon.Kurei(Bentham);ST08-013;Character;B;Former Baroque Works;Monkey D. Luffy-[ST-08];0
 Mr.3(Galdino);OP01-085;Character;U;Baroque Works;-ROMANCE DAWN- [OP01];0
-Mr.3(Galdino);OP02-065;Character;U;Impel Down/Former Baroque Works;-PARAMOUNT WAR- [OP02];1
+Mr.3(Galdino);OP02-065;Character;U;Impel Down/Former Baroque Works;-PARAMOUNT WAR- [OP02];2
 Mr.3(Galdino);OP04-070;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Mr.4(Babe);OP04-071;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Mr.5(Gem);OP04-072;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
@@ -870,7 +870,7 @@ Scratchmen Apoo;OP01-103;Character;P;Animal Kingdom Pirates/On-Air Pirates;-ROMA
 Scratchmen Apoo;OP07-028;Character;G;Supernovas/On-Air Pirates;-500 YEARS IN THE FUTURE- [OP-07];4
 Scratchmen Apoo;ST02-008;Character;G;Supernovas/On-Air Pirates;-Worst Generation-[ST-02];1
 Seaquake;OP02-021;Event;R;The Four Emperors/Whitebeard Pirates;-PARAMOUNT WAR- [OP02];1
-Sengoku;OP02-103;Character;B;Navy;-PARAMOUNT WAR- [OP02];2
+Sengoku;OP02-103;Character;B;Navy;-PARAMOUNT WAR- [OP02];4
 Sengoku;OP06-049;Character;U;Navy;-WINGS OF THE CAPTAIN-[OP06];0
 Sengoku;OP07-046;Character;U;Navy;-500 YEARS IN THE FUTURE- [OP-07];1
 Sengoku;ST06-005;Character;B;Navy;Absolute Justice- [ST-06];0
@@ -902,7 +902,7 @@ Shirahoshi;OP03-116;Character;Y;Merfolk;-PILLARS OF STRENGTH- [OP03];0
 Shirahoshi;OP05-082;Character;B;Merfolk;-AWAKENING OF THE NEW ERA-[OP05];0
 Shirahoshi;ST08-006;Character;B;Merfolk;Monkey D. Luffy-[ST-08];0
 Shirley;OP03-104;Character;Y;Merfolk;-PILLARS OF STRENGTH- [OP03];0
-Shiryu;OP02-076;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];2
+Shiryu;OP02-076;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];3
 Shishilian;OP02-032;Character;G;Minks;-PARAMOUNT WAR- [OP02];1
 Shockwave;ST06-14;Event;B;Navy;Absolute Justice- [ST-06];0
 Shura;OP05-106;Character;Y;Sky Island/Vassals;-AWAKENING OF THE NEW ERA-[OP05];0
