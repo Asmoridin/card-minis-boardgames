@@ -32,36 +32,117 @@ Ezra Bridger, Resourceful Troublemaker: 4
 Force Throw: 4
 Heroic Sacrifice: 4
 Saw Gerrera, Extremist: 4
+Altering the Deal: 3
+Boba Fett's Armor: 3
 Boba Fett, Disintegrator: 3
+Chewbacca, Pykesbane: 3
+DJ, Blatant Thief: 3
+Doctor Evazan, Wanted on Twelve Systems: 3
+Dryden Vos, Offering No Escape: 3
 Emperor Palpatine, Master of the Dark Side: 3
+Endless Legions: 3
+Enterprising Lackeys: 3
+Ephant Mon, Head of Security: 3
+Final Showdown: 3
 Frontline Shuttle: 3
+Heroic Resolve: 3
 Home One, Alliance Flagship: 3
+Hotshot DL-44 Blaster: 3
+Inspiring Mentor: 3
 Jabba the Hutt, Cunning Daimyo: 3
+Krayt Dragon: 3
+Kylo Ren, Killing the Past: 3
+Let the Wookiee Win: 3
 Mace Windu, Party Crasher: 3
+Maul, Shadow Collective Visionary: 3
+Omega, Part of the Squad: 3
 Outmaneuver: 3
+Pre Vizsla, Power Hungry: 3
 Search Your Feelings: 3
+Second Chance: 3
+Swoop Down: 3
+The Chaos of War: 3
+The Darksaber: 3
+The Mandalorian, Where I Go, He Goes: 3
+The Marauder, Shuttling the Bad Batch: 3
+Tobias Beckett, I Trust No One: 3
+Triple Dark Raid: 3
 U-Wing Reinforcement: 3
+Wild Rancor: 3
 Admiral Ozzel, Overconfident: 2
+Arquitens Assault Cruiser: 2
 Bendu, The One In The Middle: 2
 Black One, Scourge of Starkiller Base: 2
 Chimaera, Flagship of the Seventh Fleet: 2
+Cobb Vanth, The Marshal: 2
 Don't Get Cocky: 2
+Evacuate: 2
+Evidence of the Crime: 2
+Finalizer, Might of the First Order: 2
 General Krell, Heartless Tactician: 2
 General Tagge, Concerned Commander: 2
 I Had No Choice: 2
+Imprisoned: 2
+Jango Fett, Renowned Bounty Hunter: 2
+Koska Reeves, Loyal Nite Owl: 2
+Lom Pyke, Dealer in Truths: 2
+Mystic Reflection: 2
+Poe Dameron, Quick to Improvise: 2
 Power Failure: 2
+Qi'ra, Playing Her Part: 2
 Rukh, Thrawn's Assassin: 2
+Rule with Respect: 2
+Ruthlessness: 2
+Stolen Landspeeder: 2
 Strafing Gunship: 2
+Supreme Leader Snoke, Shadow Ruler: 2
+Tarfful, Kashyyyk Chieftain: 2
+Tech, Source of Insight: 2
+Unrefusable Offer: 2
+Val, Loyal to the End: 2
+Xanadu Blood, Cad Bane's Rewared: 2
 You're My Only Hope: 2
 Zeb Orrelios, Headstrong Warrior: 2
+4-LOM, Bounty Hunter for Hire: 1
 97th Legion, Keeping the Peace on Sullust: 1
+A New Adventure: 1
 AT-AT Suppressor: 1
 Bail Organa, Rebel Councilor: 1
 Bamboozle: 1
+Bounty Hunter's Quarry: 1
+Bounty Posting: 1
+Bravado: 1
+Cassian Andor, Rebellions are Built on Hope: 1
+Clan Saxon Gauntlet: 1
+Commission: 1
+Cripple Authority: 1
+Doctor Pershing, Experimenting With Life: 1
+Echo, Restored: 1
+Embo, Stoic and Resolute: 1
+Enfys Nest, Marauder: 1
 General Dodonna, Massassi Group Commander: 1
+General Rieekan, Defensive Strategist: 1
+Headhunting: 1
+Jetpack: 1
+Ketsu Onyo, Old Friend: 1
+Kuiil, I Have Spoken: 1
+Kylo's TIE Silencer, Ruthlessly Efficient: 1
+Lady Proxima, White Worm Matriarch: 1
 Lando Calrissian, Responsible Businessman: 1
+Legal Authority: 1
+Mandalorian Armor: 1
+Maz Kanata, Pirate Queen: 1
+Millennium Falcon, Lando's Pride: 1
+Palpatine's Return: 1
 Prepare for Takeoff: 1
 Protector: 1
 Redemption, Medical Frigate: 1
+Rey, Keeping the Past: 1
+Rose Tico, Dedicated to the Cause: 1
+Sugi, Hired Guardian: 1
+Sundari Peacekeeper: 1
 The Emperor's Legion: 1
+Toro Calican, Ambitious Upstart: 1
 Wedge Antilles, Star of the Rebllion: 1
+Wrecker, Boom!: 1
+Zuckuss, Bounty Hunter for Hire: 1

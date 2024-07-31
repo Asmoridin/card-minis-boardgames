@@ -279,7 +279,7 @@ Jabba's Palace;SHD-026-C;Base;Y;1 # hyperspace
 Hybolon Enforcer;SHD-027-C;Ground Unit;U/B;3 # hyperspace
 Doctor Pershing, Experimenting With Life;SHD-028-R;Ground Unit;U/B;2
 Pyke Sentinel;SHD-029-C;Ground Unit;U/B;3
-The Client, Dictated By Discretion;SHD-031-U;Ground Unit;U/B;3 # 1 hyperspace
+The Client, Dictated By Discretion;SHD-031-U;Ground Unit;U/B;3 # 1 hyperspace, 1 foil
 Lom Pyke, Dealer in Truths;SHD-032-R;Ground Unit;U/B;1 # 1 hyperspace
 Synara San, Loyal to Kragan;SHD-033-U;Ground Unit;U/B;3
 Supercommando Squad;SHD-034-C;Ground Unit;U/B;3 # 1 foil
@@ -300,25 +300,25 @@ Gentle Giant;SHD-048-C;Ground Unit;U/W;3 # 1 hyperspace
 The Mandalorian, Where I Go, He Goes;SHD-049-L;Ground Unit;U/W;0
 Chewbacca, Pykesbane;SHD-050-R;Ground Unit;U/W;0
 Mystic Reflection;SHD-051-R;Event;U/W;1
-Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;1 #foil
+Sugi, Hired Guardian;SHD-052-R;Ground Unit;U;2 #foil
 Second Chance;SHD-053-L;Upgrade;U;0
 Midnight Repairs;SHD-054-U;Event;U;3
 Moisture Farmer;SHD-055-C;Ground Unit;U;3 # 2 foil
 Follower of the Way;SHD-056-C;Ground Unit;U;3
-Rickety Quadjumper;SHD-057-C;Space Unit;U;3
-Val, Loyal to the End;SHD-058-R;Ground Unit;U;0
+Rickety Quadjumper;SHD-057-C;Space Unit;U;3 # 1 hyperspace
+Val, Loyal to the End;SHD-058-R;Ground Unit;U;1
 Embo, Stoic and Resolute;SHD-059-U;Ground Unit;U;2
 HWK-290 Freighter;SHD-060-C;Space Unit;U;3 # 1 hyperspace
 Wroshyr Tree Tender;SHD-061-C;Ground Unit;U;3
 Nima Outpost Constables;SHD-062-C;Ground Unit;U;3 # 1 foil
 Survivors' Gauntlet;SHD-064-R;Space Unit;U;3 # 1 hyperfoil
 Vigilant Pursuit Craft;SHD-065-C;Space Unit;U;3
-Fenn Rau, Protector of Concord Dawn;SHD-067-U;Ground Unit;U;2
+Fenn Rau, Protector of Concord Dawn;SHD-067-U;Ground Unit;U;3 # 1 foil
 Public Enemy;SHD-068-C;Upgrade;U;3
 Foundling;SHD-069-C;Upgrade;U;3
 Top Target;SHD-071-U;Upgrade;U;3
 Imprisoned;SHD-072-R;Upgrade;U;1
-Mandalorian Armor;SHD-073-R;Upgrade;U;1
+Mandalorian Armor;SHD-073-R;Upgrade;U;2
 Vambrace Grappleshot;SHD-074-C;Upgrade;U;3
 Covert Strength;SHD-075-C;Event;U;3
 Unexpected Escape;SHD-076-U;Event;U;3 # 1 hyperspace
@@ -341,16 +341,16 @@ Clone Deserter;SHD-095-C;Ground Unit;G/W;3
 Maz Kanata, Pirate Queen;SHD-096-R;Ground Unit;G/W;2
 Freetown Backup;SHD-097-U;Ground Unit;G/W;3
 Sundari Peacekeeper;SHD-098-U;Ground Unit;G/W;2
-Echo, Restored;SHD-099-U;Ground Unit;G/W;1
+Echo, Restored;SHD-099-U;Ground Unit;G/W;2
 Modded Cohort;SHD-100-C;Ground Unit;G/W;3
 Adelphi Patrol Wing;SHD-101-C;Space Unit;G/W;3
 The Marauder, Shuttling the Bad Batch;SHD-102-R;Space Unit;G/W;0
 General Rieekan, Defensive Strategist;SHD-103-R;Ground Unit;G/W;2
 Inspiring Mentor;SHD-104-R;Upgrade;G/W;0
-Spark of Hope;SHD-105-U;Event;G/W;2
+Spark of Hope;SHD-105-U;Event;G/W;3
 Rule with Respect;SHD-106-L;Event;G/W;1
 Enterprising Lackeys;SHD-107-R;Ground Unit;G;0
-Enforced Loyalty;SHD-108-U;Event;G;2
+Enforced Loyalty;SHD-108-U;Event;G;3 # 1 foil
 Endless Legions;SHD-109-L;Event;G;0
 Warzone Lieutenant;SHD-110-C;Ground Unit;G;3 # 1 hyperspace
 Collections Starhopper;SHD-111-C;Space Unit;G;3
@@ -392,7 +392,7 @@ Ketsu Onyo, Old Friend;SHD-147-U;Ground Unit;R/W;2
 Cassian Andor, Rebellions are Built on Hope;SHD-148-U;Ground Unit;R/W;2
 Nite Owl Skirmisher;SHD-149-C;Ground Unit;R/W;3
 Koska Reeves, Loyal Nite Owl;SHD-150-R;Ground Unit;R/W;1
-Valiant Assault Ship;SHD-151-U;Space Unit;R/W;2
+Valiant Assault Ship;SHD-151-U;Space Unit;R/W;3
 Desperado Freighter;SHD-152-C;Space Unit;R/W;3 # 2 foil, 1 hyperspace
 Poe Dameron, Quick to Improvise;SHD-153-L;Ground Unit;R/W;1 # 1 foil
 Wrecker, Boom!;SHD-154-R;Ground Unit;R/W;2
@@ -404,13 +404,13 @@ The Chaos of War;SHD-159-R;Event;R;0
 Reckless Gunslinger;SHD-160-C;Ground Unit;R;3
 Stolen Landspeeder;SHD-161-R;Ground Unit;R;1
 House Kast Soldier;SHD-162-C;Ground Unit;R;3 # hyperspace, 1 foil
-Miggs Mayfeld, Triggerman;SHD-163-R;Ground Unit;R;2 # foil
+Miggs Mayfeld, Triggerman;SHD-163-R;Ground Unit;R;3 # foil
 Rhokai Gunship;SHD-164-C;Space Unit;R;3
 Unlicensed Headhunter;SHD-165-U;Space Unit;R;3
 Wanted Insurgents;SHD-167-C;Ground Unit;R;3 # 1 hyperspace
 Hunting Nexu;SHD-168-C;Ground Unit;R;3 # 1 foil
 Clan Challengers;SHD-169-C;Ground Unit;R;3
-IG-11, I Cannot be Captured;SHD-170-U;Ground Unit;R;2
+IG-11, I Cannot be Captured;SHD-170-U;Ground Unit;R;3
 Covetous Rivals;SHD-171-C;Ground Unit;R;3
 Krayt Dragon;SHD-172-L;Ground Unit;R;0
 Guild Target;SHD-173-U;Upgrade;R;3
@@ -427,7 +427,7 @@ Kintan Intimidator;SHD-183-C;Ground Unit;Y/B;3
 Bazine Netal, Spy for the First Order;SHD-184-R;Ground Unit;Y/B;3
 Doctor Evazan, Wanted on Twelve Systems;SHD-185-R;Ground Unit;Y/B;0
 Hunter of the Haxion Brood;SHD-186-C;Ground Unit;Y/B;3
-Lurking TIE Phantom;SHD-187-U;Space Unit;Y/B;2
+Lurking TIE Phantom;SHD-187-U;Space Unit;Y/B;3
 4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;2
 Slaver's Freighter;SHD-189-C;Space Unit;Y/B;3
 Zuckuss, Bounty Hunter for Hire;SHD-190-U;Ground Unit;Y/B;2
@@ -447,7 +447,7 @@ Zorii Bliss, Valiant Smuggler;SHD-203-R;Ground Unit;Y/W;3 # 1 foil
 Millennium Falcon, Lando's Pride;SHD-204-U;Space Unit;Y/W;2
 Let the Wookiee Win;SHD-205-R;Event;Y/W;0
 Spare the Target;SHD-206-U;Event;Y/W;3
-A New Adventure;SHD-207-U;Event;Y;1
+A New Adventure;SHD-207-U;Event;Y;2
 Final Showdown;SHD-208-L;Event;Y;0
 Criminal Muscle;SHD-209-C;Ground Unit;Y;3 # 2 foil
 Cloud-Rider;SHD-210-C;Ground Unit;Y;3
@@ -476,7 +476,7 @@ Incinerator Trooper;SHD-234-S;Ground Unit;B;3
 Ruthless Assassin;SHD-235-C;Ground Unit;B;3 #1 foil
 Black Sun Starfighter;SHD-237-C;Space Unit;B;3 # 1 hyperspace
 Toro Calican, Ambitious Upstart;SHD-239-U;Ground Unit;B;2
-Hutt's Henchmen;SHD-240-C;Ground Unit;B;3
+Hutt's Henchmen;SHD-240-C;Ground Unit;B;3 # 1 hyperspace
 Kragan Gorr, Warbird Captain;SHD-241-R;Ground Unit;B;3
 Gideon's Light Cruiser, Dark Troopers' Station;SHD-242-S;Space Unit;B;3
 Altering the Deal;SHD-243-R;Event;B;0
@@ -495,5 +495,5 @@ Lady Proxima, White Worm Matriarch;SHD-255-U;Ground Unit;N;2
 Mercenary Gunship;SHD-256-U;Space Unit;N;3 # 1 foil
 Mandalorian Warrior;SHD-258-C;Ground Unit;N;3
 Twin Pod Cloud Car;SHD-259-C;Space Unit;N;3 # 1 hyperspace
-Street Gang Recruiter;SHD-260-C;Ground Unit;N;3 # 2 foil
+Street Gang Recruiter;SHD-260-C;Ground Unit;N;3 # 3 foil
 Rich Reward;SHD-261-C;Upgrade;N;3
