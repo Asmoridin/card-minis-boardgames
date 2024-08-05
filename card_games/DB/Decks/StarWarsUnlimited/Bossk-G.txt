@@ -1,0 +1,48 @@
+// BOY BOSSK
+// .dec exported on 08/01/2024 13:45:37
+//
+// Leader and Base
+1	Bossk, Hunting His Prey
+1	Nevarro City
+
+// Ground Units
+2	Covetous Rivals
+3	Dengar, The Demolisher
+3	Guavian Antagonizer
+2	Incinerator Trooper
+2	Jango Fett, Renowned Bounty Hunter
+1	Kragan Gorr, Warbird Captain
+1	Krayt Dragon
+2	Lady Proxima, White Worm Matriarch
+2	Maul, Shadow Collective Visionary
+3	Underworld Thug
+1	Weequay Pirate Gang
+
+// Space Units
+2	Arquitens Assault Cruiser
+1	Devastator, Inescapable
+2	Mercenary Gunship
+2	Punishing One, Dengar's Jumpmaster
+3	Rhokai Gunship
+2	Ruthless Raider
+
+// Events
+2	Daring Raid
+1	Open Fire
+1	Overwhelming Barrage
+
+// Upgrades
+1	Academy Training
+3	Bounty Hunter's Quarry
+2	Fallen Lightsaber
+3	Guild Target
+3	Rich Reward
+
+// Sideboard
+1	Hutt's Henchmen
+2	Imperial Interceptor
+2	Kihraxz Heavy Fighter
+1	Moment of Glory
+2	SpecForce Soldier
+1	Steadfast Battalion
+1	The Darksaber

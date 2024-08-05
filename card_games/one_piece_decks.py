@@ -115,12 +115,12 @@ if __name__ == "__main__":
         double_print(f"{card_tuple[0]} ({card_tuple[1]}): {card_tuple[2]}", out_file_h)
 
     if len(leaders) > 0:
-        double_print("Missing leaders: ", out_file_h)
+        double_print(f"\nMissing leaders: ({len(leaders)})", out_file_h)
         for card_number, card_tuple in sorted(leaders.items(), key=lambda x:(x[1][0], x[0])):
             double_print(f"- {card_tuple[0]} ({card_tuple[1]}), ({card_number})", out_file_h)
 
     double_print("\nLowest deck: ", out_file_h)
     double_print(f"Deck File: {deck_sorter[0][0]}, needing {deck_sorter[0][1]} cards", out_file_h)
     missing_lowest_deck_cards = deck_sorter[0][2]
-    print(missing_lowest_deck_cards)
+    double_print(str(missing_lowest_deck_cards), out_file_h)
     out_file_h.close()

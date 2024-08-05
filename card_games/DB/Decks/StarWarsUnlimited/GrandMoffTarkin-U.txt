@@ -1,0 +1,40 @@
+// Tarkin out da Trash v2 (5-0 Fremont Case Tourney, 5-0 Gamescape Store Showdown)
+// .dec exported on 08/01/2024 14:16:02
+//
+// Leader and Base
+1	Grand Moff Tarkin, Oversector Governor
+1	Dagobah Swamp
+
+// Ground Units
+3	Cell Block Guard
+3	Darth Vader, Commanding the First Legion
+3	Death Trooper
+3	Gideon Hask, Ruthless Loyalist
+3	Regional Governor
+2	Reinforcement Walker
+3	Seasoned Shoretrooper
+3	Superlaser Technician
+3	Viper Probe Droid
+
+// Space Units
+2	Avenger, Hunting Star Destroyer
+3	Inferno Four, Unforgetting
+2	System Patrol Craft
+
+// Events
+2	Make an Opening
+3	Overwhelming Barrage
+3	Power of the Dark Side
+2	Resupply
+1	Superlaser Blast
+3	Takedown
+3	Vigilance
+
+// Sideboard
+2	Command
+1	Count Dooku, Darth Tyranus
+1	Reinforcement Walker
+2	Relentless, Konstantine's Folly
+1	Superlaser Blast
+1	System Patrol Craft
+2	Vanquish

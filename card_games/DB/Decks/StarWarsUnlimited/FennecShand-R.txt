@@ -1,0 +1,37 @@
+// Lie In Wait
+// .dec exported on 08/01/2024 13:57:44
+//
+// Leader and Base
+1	Fennec Shand, Honoring the Deal
+1	Tarkintown
+
+// Ground Units
+3	Cassian Andor, Rebellions Are Built On Hope
+3	Fighters For Freedom
+3	Jawa Scavenger
+2	K-2SO, Cassian's Counterpart
+3	Ketsu Onyo, Old Friend
+3	Rogue Operative
+3	SpecForce Soldier
+3	Wolffe, Suspicious Veteran
+
+// Space Units
+3	Green Squadron A-Wing
+3	Red Three, Unstoppable
+3	Unlicensed Headhunter
+3	Valiant Assault Ship
+
+// Events
+3	Asteroid Sanctuary
+3	Daring Raid
+3	Open Fire
+
+// Upgrades
+3	Armed to the Teeth
+3	Hotshot DL-44 Blaster
+
+// Sideboard
+1	Confiscate
+3	Detention Block Rescue
+3	Disabling Fang Fighter
+3	Power Failure

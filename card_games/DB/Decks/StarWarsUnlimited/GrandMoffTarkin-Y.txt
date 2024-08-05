@@ -1,0 +1,45 @@
+// Tarkin Yellow EJV.1
+// .dec exported on 08/01/2024 14:16:34
+//
+// Leader and Base
+1	Grand Moff Tarkin, Oversector Governor
+1	Coronet City
+
+// Ground Units
+1	97th Legion, Keeping the Peace on Sullust
+1	Admiral Motti, Brazen and Scornful
+1	Bazine Netal, Spy for the First Order
+2	Bossk, Deadly Stalker
+2	Bounty Hunter Crew
+2	Cell Block Guard
+2	Colonel Yularen, ISB Director
+2	Crosshair, Following Orders
+2	Frontier Trader
+2	General Tagge, Concerned Commander
+2	General Veers, Blizzard Force Commander
+1	Grand Moff Tarkin, Death Star Overseer
+1	Incinerator Trooper
+1	Kragan Gorr, Warbird Captain
+1	Rukh, Thrawn's Assassin
+2	Snowtrooper Lieutenant
+2	Superlaser Technician
+
+// Space Units
+2	Black Sun Starfighter
+2	Gideon's Light Cruiser, Dark Troopers' Station
+2	Lurking TIE Phantom
+2	Outland TIE Vanguard
+1	Strafing Gunship
+3	TIE Advanced
+
+// Events
+2	Asteroid Sanctuary
+1	No Bargain
+2	Outflank
+1	Overwhelming Barrage
+2	Shoot First
+
+// Upgrades
+2	Frozen in Carbonite
+2	Hardpoint Heavy Blaster
+1	Snapshot Reflexes

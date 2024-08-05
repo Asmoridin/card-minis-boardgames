@@ -1,0 +1,37 @@
+// all it does is get 1st place over & over
+// .dec exported on 08/01/2024 14:23:54
+//
+// Leader and Base
+1	Iden Versio, Inferno Squad Commander
+1	Capital City
+
+// Ground Units
+3	Cargo Juggernaut
+3	Death Trooper
+3	Lieutenant Childsen, Death Star Prison Warden
+3	Viper Probe Droid
+
+// Space Units
+3	Avenger, Hunting Star Destroyer
+3	Inferno Four, Unforgetting
+3	System Patrol Craft
+
+// Events
+3	I Am Your Father
+3	Power of the Dark Side
+2	Restock
+3	Search Your Feelings
+3	Spark of Rebellion
+3	Superlaser Blast
+3	Takedown
+3	Vanquish
+3	Vigilance
+
+// Upgrades
+3	Entrenched
+
+// Sideboard
+2	Bounty Hunter Crew
+2	Count Dooku, Darth Tyranus
+3	Devotion
+3	Make an Opening

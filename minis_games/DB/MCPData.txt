@@ -82,10 +82,12 @@ King T'Challa;Avengers, Wakanda/L;0
 Kingpin;Cabal, Criminal Syndicate/L, Spider-Foes;1
 Klaw;Cabal, Criminal Syndicate/L;0
 Kraven the Hunter;Criminal Syndicate, Spider-Foes;0
+Lady Sif;Asgard;0
 Lizard;Spider-Foes;1
 Lockjaw;Inhumans;1
 Logan, The Wolverine;Uncanny X-Men, Weapon X;1
 Loki, God of Mischief;Asgard, Cabal;1
+Loki, Prince of Lies;Asgard/L, Criminal Syndicate;0
 Luke Cage;Avengers, Defenders;0
 M'Baku;Criminal Syndicate, Wakanda/L;0
 M.O.D.O.K.;Cabal, Criminal Syndicate;1
@@ -152,7 +154,9 @@ Thanos, the Mad Titan;Black Order/L;1
 The Black Widow;A-Force, Avengers, S.H.I.E.L.D.;1
 The Blob;Brotherhood of Mutants;0
 The Immortal Hulk;Defenders, Midnight Sons;0
+The Mighty Thor;A-Force, Asgard/L;0
 The Original Human Torch;S.H.I.E.L.D.;0
+Thor, Hero of Midgard;Asgard;0
 Thor, Prince of Asgard;Asgard/L, Avengers;1
 Toad;Brotherhood of Mutants;1
 Ulik;Cabal, Criminal Syndicate;0

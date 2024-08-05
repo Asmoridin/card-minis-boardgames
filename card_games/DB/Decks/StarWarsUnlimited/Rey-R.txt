@@ -1,0 +1,47 @@
+// Rey/Red
+// .dec exported on 08/01/2024 14:33:49
+//
+// Leader and Base
+1	Rey, More Than A Scavenger
+1	Spice Mines
+
+// Ground Units
+2	K-2SO, Cassian's Counterpart
+3	Kanan Jarrus, Revealed Jedi
+1	Kylo Ren, Killing the Past
+2	Luke Skywalker, Jedi Knight
+2	Mace Windu, Party Crasher
+3	Moisture Farmer
+3	Obi-Wan Kenobi, Following Fate
+2	Rey, Keeping the Past
+3	Sabine Wren, Explosives Artist
+2	Yoda, Old Master
+
+// Space Units
+2	Green Squadron A-Wing
+2	Redemption, Medical Frigate
+3	Restored ARC-170
+2	Wing Leader
+
+// Events
+2	Covert Strength
+3	Force Throw
+2	It Binds All Things
+2	Make an Opening
+3	Rival's Fall
+2	Takedown
+3	The Force Is With Me
+1	Vigilance
+
+// Upgrades
+2	Electrostaff
+3	Jedi Lightsaber
+
+// Sideboard
+1	Covert Strength
+2	Daring Raid
+1	Green Squadron A-Wing
+1	Midnight Repairs
+1	Open Fire
+3	System Patrol Craft
+1	Takedown
