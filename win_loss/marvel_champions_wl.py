@@ -215,7 +215,7 @@ if __name__ == "__main__":
         "percent of Hero/Aspects"
     double_print(play_str, out_file_h)
     summ_str = f"There are {len(ChampHeroes.heroes)} heroes, {len(ChampEncounters.encounters)}" + \
-        f"different encounters, and {len(ChampEncounters.modular_encounters)} different " + \
+        f" different encounters, and {len(ChampEncounters.modular_encounters)} different " + \
         "modular encounter sets\n"
     double_print(summ_str, out_file_h)
 

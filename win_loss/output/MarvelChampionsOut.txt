@@ -1,12 +1,12 @@
 Generating a game
-There are 265 different Hero/Aspect combinations, and 28300 different game pairings
-Currently have played 44.9 percent of Hero/Aspects
-There are 52 heroes, 46different encounters, and 89 different modular encounter sets
+There are 270 different Hero/Aspect combinations, and 29375 different game pairings
+Currently have played 44.1 percent of Hero/Aspects
+There are 53 heroes, 46 different encounters, and 90 different modular encounter sets
 
 Most played hero: Rocket Racoon (18 times). Least: Bishop (0)
 Most played aspect: Protection (55 times). Least: 'Pool (1)
 Most played scenario: Rhino (8 times). Least: Apocalypse (0)
-Most played modular encounter: Ship Command (14 times). Least: Armadillo (0)
+Most played modular encounter: Ship Command (14 times). Least: Arcade (0)
 
 Heroes/Aspects chosen: 'Pool Bishop (0W-0L) and Aggression Angel (0W-0L)
 Chosen encounter is A Mess of Things/Acolytes Apocalypse (0W-0L)
@@ -36,6 +36,7 @@ Hulk                          2 - 2
 Iceman                        0 - 0
 Iron Man                      6 - 3
 Ironheart                     2 - 0
+Jubilee                       0 - 0
 Magik                         0 - 0
 Ms. Marvel                    4 - 0
 Nebula                        5 - 2

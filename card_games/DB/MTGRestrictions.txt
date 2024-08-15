@@ -1,0 +1,4 @@
+Black Lotus;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Chaos Orb;Legacy-Banned/Vintage-Banned/Commander-Banned
+Mana Vault;Legacy-Banned/Vintage-Restricted
+Mox Emerald;Legacy-Banned/Vintage-Restricted/Commander-Banned
