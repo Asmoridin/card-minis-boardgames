@@ -28,7 +28,7 @@ def parse_restrictions(restr_lines):
         return_dict[this_card_name] = {}
         for restriction in card_restrictions.split('/'):
             this_format, bnr = restriction.split('-')
-            if this_format not in ['Legacy', 'Vintage', 'Commander']:
+            if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper']:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -98,7 +98,8 @@ def validate_colors(in_colors):
     Takes in a string of colors, and returns a list with the full color names
     """
     ret_colors = []
-    color_map = {'C':'Colorless', 'B':'Black'}
+    color_map = {'C':'Colorless', 'B':'Black', 'U':'Blue', 'R':'Red', 'W':'White',
+        'G':'Green'}
     for color in in_colors.split('/'):
         if color not in color_map:
             print("Invalid color: " + color)
@@ -143,10 +144,19 @@ restr_file_h.close()
 TOTAL_OWN = 0
 TOTAL_MAX = 0
 raw_list = []
+card_names = set()
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
-    card_name, card_type, card_colors, card_sets, card_qty = line.split(';')
+    try:
+        card_name, card_type, card_colors, card_sets, card_qty = line.split(';')
+    except ValueError:
+        print("Error in line:")
+        print(line)
+        continue
+    if card_name in card_names:
+        print(f"Duplicate: {card_name}")
+    card_names.add(card_name)
     card_qty = int(card_qty)
     card_colors = validate_colors(card_colors)
     card_type, card_subtype = validate_types(card_type)
@@ -174,6 +184,8 @@ VINTAGE_CARDS = len(vintage_list)
 
 vintage_set, filtered_list = sort_and_filter(vintage_list, 4)
 vintage_type, filtered_list = sort_and_filter(filtered_list, 1)
+if vintage_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 vintage_color, filtered_list = sort_and_filter(filtered_list, 3)
 vintage_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 vintage_name, filtered_list = sort_and_filter(filtered_list, 0)
@@ -192,6 +204,8 @@ LEGACY_CARDS = len(legacy_list)
 
 legacy_set, filtered_list = sort_and_filter(legacy_list, 4)
 legacy_type, filtered_list = sort_and_filter(filtered_list, 1)
+if legacy_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 legacy_color, filtered_list = sort_and_filter(filtered_list, 3)
 legacy_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 legacy_name, filtered_list = sort_and_filter(filtered_list, 0)
@@ -210,6 +224,8 @@ COMMANDER_CARDS = len(commander_list)
 
 commander_set, filtered_list = sort_and_filter(commander_list, 4)
 commander_type, filtered_list = sort_and_filter(filtered_list, 1)
+if commander_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 commander_color, filtered_list = sort_and_filter(filtered_list, 3)
 commander_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 commander_name, filtered_list = sort_and_filter(filtered_list, 0)
@@ -228,6 +244,8 @@ PIONEER_CARDS = len(pioneer_list)
 
 pioneer_set, filtered_list = sort_and_filter(pioneer_list, 4)
 pioneer_type, filtered_list = sort_and_filter(filtered_list, 1)
+if pioneer_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 pioneer_color, filtered_list = sort_and_filter(filtered_list, 3)
 pioneer_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 pioneer_name, filtered_list = sort_and_filter(filtered_list, 0)
@@ -246,6 +264,8 @@ MODERN_CARDS = len(modern_list)
 
 modern_set, filtered_list = sort_and_filter(modern_list, 4)
 modern_type, filtered_list = sort_and_filter(filtered_list, 1)
+if modern_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 modern_color, filtered_list = sort_and_filter(filtered_list, 3)
 modern_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 modern_name, filtered_list = sort_and_filter(filtered_list, 0)
@@ -264,6 +284,8 @@ STANDARD_CARDS = len(standard_list)
 
 standard_set, filtered_list = sort_and_filter(standard_list, 4)
 standard_type, filtered_list = sort_and_filter(filtered_list, 1)
+if standard_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 standard_color, filtered_list = sort_and_filter(filtered_list, 3)
 standard_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 standard_name, filtered_list = sort_and_filter(filtered_list, 0)
@@ -282,6 +304,8 @@ PAUPER_CARDS = len(pauper_list)
 
 pauper_set, filtered_list = sort_and_filter(pauper_list, 4)
 pauper_type, filtered_list = sort_and_filter(filtered_list, 1)
+if pauper_type == 'Creature':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
 pauper_color, filtered_list = sort_and_filter(filtered_list, 3)
 pauper_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 pauper_name, filtered_list = sort_and_filter(filtered_list, 0)

@@ -1,37 +1,37 @@
-Tracking 72 cards.
-Have 0 out of 262 total cards for a playset - 0.00 percent
+Tracking 231 cards.
+Have 0 out of 883 total cards for a playset - 0.00 percent
 
 *** VINTAGE ***
-There are 68 Vintage legal cards
-Have 0 out of 258 - 0.00 percent of a playset
-Chosen card is a(n) Artifact from Limited Edition Alpha - Ankh of Mishra. I own 0 of 4
+There are 227 Vintage legal cards
+Have 0 out of 879 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 4
 
 *** LEGACY ***
-There are 57 Legacy legal cards
-Have 0 out of 244 - 0.00 percent of a playset
-Chosen card is a(n) Artifact from Limited Edition Alpha - Ankh of Mishra. I own 0 of 4
+There are 211 Legacy legal cards
+Have 0 out of 860 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 4
 
 *** COMMANDER ***
-There are 61 Commander legal cards
-Have 0 out of 80 - 0.00 percent of a playset
-Chosen card is a(n) Artifact from Limited Edition Alpha - Ankh of Mishra. I own 0 of 1
+There are 216 Commander legal cards
+Have 0 out of 235 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 1
 
 *** PIONEER ***
-There are 5 Pioneer legal cards
-Have 0 out of 36 - 0.00 percent of a playset
-Chosen card is a(n) Basic Land from Bloomburrow - Island. I own 0 of 20
+There are 23 Pioneer legal cards
+Have 0 out of 108 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Dragon Whelp. I own 0 of 4
 
 *** MODERN ***
-There are 24 Modern legal cards
-Have 0 out of 112 - 0.00 percent of a playset
-Chosen card is a(n) Artifact from Limited Edition Alpha - Crystal Rod. I own 0 of 4
+There are 93 Modern legal cards
+Have 0 out of 388 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Royal Assassin. I own 0 of 4
 
 *** STANDARD ***
-There are 1 Standard legal cards
-Have 0 out of 20 - 0.00 percent of a playset
+There are 3 Standard legal cards
+Have 0 out of 28 - 0.00 percent of a playset
 Chosen card is a(n) Basic Land from Bloomburrow - Island. I own 0 of 20
 
 *** PAUPER ***
-There are 11 Pauper legal cards
-Have 0 out of 60 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Drudge Skeletons. I own 0 of 4
+There are 76 Pauper legal cards
+Have 0 out of 320 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Ley Druid. I own 0 of 4

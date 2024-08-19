@@ -1,15 +1,21 @@
+Ancestral Recall;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Black Lotus;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Channel;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Chaos Orb;Legacy-Banned/Vintage-Banned/Commander-Banned
+Contract from Below;Legacy-Banned/Vintage-Banned/Commander-Banned
+Darkpact;Legacy-Banned/Vintage-Banned/Commander-Banned
+Demonic Attorney;Legacy-Banned/Vintage-Banned/Commander-Banned
+Demonic Tutor;Legacy-Banned/Vintage-Restricted
+Fastbond;Legacy-Banned/Commander-Banned
 Mana Vault;Legacy-Banned/Vintage-Restricted
+Mind Twist;Legacy-Banned
 Mox Emerald;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Jet;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Pearl;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Ruby;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Sapphire;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Sinkhole;Pauper-Banned
 Sol Ring;Legacy-Banned/Vintage-Restricted
 Time Vault;Legacy-Banned/Vintage-Restricted/Commander-Banned
-Contract from Below;Legacy-Banned/Vintage-Banned/Commander-Banned
-Darkpact;Legacy-Banned/Vintage-Banned/Commander-Banned
-Demonic Attorney;Legacy-Banned/Vintage-Banned/Commander-Banned
-Demonic Tutor;Legacy-Banned/Vintage-Restricted
-Mind Twist;Legacy-Banned
+Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Timetwister;Legacy-Banned/Vintage-Restricted

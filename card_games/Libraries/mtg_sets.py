@@ -18,7 +18,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Wilds of Eldraine Commander", "Commander Masters", "March of the Machine Commander", 
     "Phyrexia: All Will Be One Commander", "Dominaria United Commander", "Commander 2018",
     "Kamigawa: Neon Dynasty Commander", "The Brothers' War Commander", "Commander 2019",
-    "Warhammer 40,000 Commander", "Commander Legends: Battle for Baldur's Gate",
+    "Warhammer 40,000 Commander", "Commander Legends: Battle for Baldur's Gate", "Invasion", 
     "Streets of New Capenna Commander", "Commander Collection: Green", "Kaldheim Commander",
     "Adventures in the Forgotten Realms Commander", "Innistrad: Crimson Vow Commander", 
     "Innistrad: Midnight Hunt Commander", "Commander Legends", "Ikoria Commander", "Mirage",
@@ -28,14 +28,23 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Masterpiece Series: Amonkhet Invocations", "Duel Decks Anthology, Divine vs. Demonic",
     "Duel Decks: Divine vs. Demonic", "From the Vault: Twenty", "Planechase", "Mercadian Masques",
     "Duel Decks: Phyrexia vs. the Coalition", "Battle Royale Box Set", "Urza's Saga", "Tempest",
-    "Premium Deck Series: Graveborn", "Iconic Masters",
+    "Premium Deck Series: Graveborn", "Iconic Masters", "Portal Second Age", "Torment",
+    "Conspiracy: Take the Crown", "Duel Decks: Sorin vs. Tibalt", "Duel Decks: Jace vs. Chandra",
+    "Duel Decks Anthology, Jace vs. Chandra", "Duel Decks: Jace vs. Vraska", "Onslaught",
+    "Duel Decks: Venser vs. Koth", "Signature Spellbook: Jace", "Game Night", "Special Guests",
+    "Game Night: Free-For-All", "Explorers of Ixalan", "Duel Decks Anthology, Elves vs. Goblins",
+    "Duel Decks: Elves vs. Goblins", "Duel Decks: Heroes vs. Monsters", "Guild Kit: Gruul",
+    "Global Series: Jiang Yanggu and Mu Yanling", "From the Vault: Exiled", "Ravnica Remastered",
+    "Duel Decks: Knights vs. Dragons", "From the Vault: Dragons", "Ravnica Clue Edition",
+    "Premium Deck Series: Fire and Lightning", "Wilds of Eldraine Enchanting Tales",
+    "Archenemy: Nicol Bolas", "Portal Three Kingdoms",
     ]
 
-ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", ]
+ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set", ]
 
 # Sets that were only released on MTG Online.  We care about the rarity, but that's it.
 MTGO_SETS = ["Vintage Masters", "Masters Edition IV", "Masters Edition III", "Masters Edition",
-    "Double Masters", "Tempest Remastered", ]
+    "Double Masters", "Tempest Remastered", "Masters Edition II", ]
 
 # Standard legal sets are legal in all other formats, mostly.
 STANDARD_SETS = ["Dominaria United", "The Brothers' War", "Phyrexia: All Will Be One",
@@ -65,5 +74,5 @@ MODERN_SETS  = ["Eighth Edition", "Mirrodin", "Darksteel", "Fifth Dawn", "Champi
     "Magic 2011", "Scars of Mirrodin", "Mirrodin Besieged", "New Phyrexia", "Magic 2012",
     "Innistrad", "Dark Ascension", "Avacyn Restored", "Magic 2013", "Modern Horizons 2",
     "Modern Horizons", "The Lord of the Rings: Tales of Middle-Earth", "Modern Horizons 3",
-    "Assassin's Creed", 'Time Spiral "Timeshifted"',
+    "Assassin's Creed", 'Time Spiral "Timeshifted"', "Modern Masters 2015 Edition",
     ]
