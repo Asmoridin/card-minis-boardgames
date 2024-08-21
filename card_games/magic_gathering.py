@@ -17,6 +17,73 @@ GAME_NAME = "Magic: The Gathering"
 
 file_h = open('card_games/DB/MTGCardData.txt', 'r', encoding="UTF-8")
 restr_file_h = open('card_games/DB/MTGRestrictions.txt', 'r', encoding="UTF-8")
+DECK_DIR = "card_games/DB/Decks/MTG"
+
+def read_decks(deck_format):
+    """
+    Takes in a format, and returns a list of dicts of all my stored decks for that format
+    """
+    ret_list = []
+    if deck_format in os.listdir(DECK_DIR):
+        for deck_file in os.listdir(DECK_DIR + '/' + deck_format):
+            this_deck = {}
+            deck_fh = open(DECK_DIR + '/' + deck_format + '/' + deck_file, 'r', encoding='UTF-8')
+            deck_lines = deck_fh.readlines()
+            deck_fh.close()
+            deck_lines = [line.strip() for line in deck_lines]
+            for deck_line in deck_lines:
+                if deck_line.startswith('//') or deck_line == '':
+                    continue
+                deck_card_qty = int(deck_line.split(' ')[0])
+                deck_card_name = ' '.join(deck_line.split(' ')[1:])
+                if deck_card_name not in this_deck:
+                    this_deck[deck_card_name] = 0
+                this_deck[deck_card_name] += deck_card_qty
+            ret_list.append(this_deck)
+    return ret_list
+
+def check_decks(list_of_decks, list_of_cards):
+    """
+    Given:
+    - a list of deck dicts, and a list of relevant card tuples
+    Return:
+    - a list of tuples that are [MISSING_NO], [MISSING_CARDS]
+    """
+    ret_list = []
+    # First, construct a dict of the cards in the format
+    inventory_dict = {}
+    for in_card in list_of_cards:
+        inventory_dict[in_card[0]] = in_card[7]
+    for deck in list_of_decks:
+        this_deck_missing = 0
+        this_deck_missing_cards = {}
+        for this_card, card_count in deck.items():
+            if this_card in inventory_dict:
+                if card_count > inventory_dict[this_card]:
+                    this_deck_missing += card_count - inventory_dict[this_card]
+                    this_deck_missing_cards[this_card] = card_count - inventory_dict[this_card]
+            else:
+                print(f"Missing card {this_card}")
+                this_deck_missing += card_count
+                this_deck_missing_cards[this_card] = card_count
+        ret_list.append((this_deck_missing, this_deck_missing_cards))
+    return ret_list
+
+def aggregate_most_needed(deck_lists):
+    """
+    From a list of dicts, of cards missing for decks, generate a list of tuples of those cards
+    and a total weight of said cards
+    """
+    ret_list = []
+    temp_dict = {}
+    for deck_list in deck_lists:
+        for deck_card, deck_card_qty in deck_list[1].items():
+            if deck_card not in temp_dict:
+                temp_dict[deck_card] = 0
+            temp_dict[deck_card] += deck_card_qty
+    for temp_card, temp_card_qty in temp_dict.items():
+        ret_list.append((temp_card, temp_card_qty))
+    return ret_list
 
 def parse_restrictions(restr_lines):
     """
@@ -51,7 +118,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             if this_set in mtg_sets.LEGACY_SETS:
                 ret_sets.append(this_set)
                 ret_rarities.add(this_set_rarity)
-            elif this_set in mtg_sets.ARENA_SETS:
+            elif this_set in mtg_sets.ARENA_SETS or this_set in mtg_sets.NON_SETS:
                 pass # We don't care one bit about Arena sets
             elif this_set in mtg_sets.MTGO_SETS:
                 # We don't track the set, but the rarity matters
@@ -113,8 +180,8 @@ def validate_types(card_type_string):
     """
     ret_type = []
     ret_subtype = []
-    if '—' in card_type_string:
-        types, subtypes = card_type_string.split(' — ')
+    if '-' in card_type_string:
+        types, subtypes = card_type_string.split(' - ')
         types = types.strip()
         subtypes = subtypes.strip()
     else:
@@ -159,6 +226,7 @@ for line in lines:
     card_names.add(card_name)
     card_qty = int(card_qty)
     card_colors = validate_colors(card_colors)
+    card_type = card_type.replace('—', '-')
     card_type, card_subtype = validate_types(card_type)
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
@@ -191,6 +259,12 @@ vintage_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 vintage_name, filtered_list = sort_and_filter(filtered_list, 0)
 vintage_item = filtered_list[0]
 
+vintage_decks = read_decks('Vintage')
+vint_decks_minus_own = check_decks(vintage_decks, vintage_list)
+vint_most_needed = aggregate_most_needed(vint_decks_minus_own)
+vint_most_needed = sorted(vint_most_needed, key=lambda x:(-1 * x[1], x[0]))
+vint_decks_minus_own = sorted(vint_decks_minus_own, key=lambda x:x[0])
+
 # Get data for Legacy
 legacy_list = []
 LEGACY_OWN = 0
@@ -210,6 +284,12 @@ legacy_color, filtered_list = sort_and_filter(filtered_list, 3)
 legacy_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 legacy_name, filtered_list = sort_and_filter(filtered_list, 0)
 legacy_item = filtered_list[0]
+
+legacy_decks = read_decks('Legacy')
+legacy_decks_minus_own = check_decks(legacy_decks, legacy_list)
+legacy_most_needed = aggregate_most_needed(legacy_decks_minus_own)
+legacy_most_needed = sorted(legacy_most_needed, key=lambda x:(-1 * x[1], x[0]))
+legacy_decks_minus_own = sorted(legacy_decks_minus_own, key=lambda x:x[0])
 
 # Get data for Commander
 commander_list = []
@@ -231,6 +311,12 @@ commander_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 commander_name, filtered_list = sort_and_filter(filtered_list, 0)
 commander_item = filtered_list[0]
 
+commander_decks = read_decks('Commander')
+comm_decks_minus_own = check_decks(commander_decks, commander_list)
+comm_most_needed = aggregate_most_needed(comm_decks_minus_own)
+comm_most_needed = sorted(comm_most_needed, key=lambda x:(-1 * x[1], x[0]))
+comm_decks_minus_own = sorted(comm_decks_minus_own, key=lambda x:x[0])
+
 # Get data for Pioneer
 pioneer_list = []
 PIONEER_OWN = 0
@@ -250,6 +336,12 @@ pioneer_color, filtered_list = sort_and_filter(filtered_list, 3)
 pioneer_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 pioneer_name, filtered_list = sort_and_filter(filtered_list, 0)
 pioneer_item = filtered_list[0]
+
+pioneer_decks = read_decks('Pioneer')
+pioneer_decks_minus_own = check_decks(pioneer_decks, pioneer_list)
+pioneer_most_needed = aggregate_most_needed(pioneer_decks_minus_own)
+pioneer_most_needed = sorted(pioneer_most_needed, key=lambda x:(-1 * x[1], x[0]))
+pioneer_decks_minus_own = sorted(pioneer_decks_minus_own, key=lambda x:x[0])
 
 # Get data for Modern
 modern_list = []
@@ -271,6 +363,12 @@ modern_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 modern_name, filtered_list = sort_and_filter(filtered_list, 0)
 modern_item = filtered_list[0]
 
+modern_decks = read_decks('Modern')
+modern_decks_minus_own = check_decks(modern_decks, modern_list)
+modern_most_needed = aggregate_most_needed(modern_decks_minus_own)
+modern_most_needed = sorted(modern_most_needed, key=lambda x:(-1 * x[1], x[0]))
+modern_decks_minus_own = sorted(modern_decks_minus_own, key=lambda x:x[0])
+
 # Get data for Standard
 standard_list = []
 STANDARD_OWN = 0
@@ -290,6 +388,12 @@ standard_color, filtered_list = sort_and_filter(filtered_list, 3)
 standard_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 standard_name, filtered_list = sort_and_filter(filtered_list, 0)
 standard_item = filtered_list[0]
+
+standard_decks = read_decks('Standard')
+standard_decks_minus_own = check_decks(standard_decks, standard_list)
+standard_most_needed = aggregate_most_needed(standard_decks_minus_own)
+standard_most_needed = sorted(standard_most_needed, key=lambda x:(-1 * x[1], x[0]))
+standard_decks_minus_own = sorted(standard_decks_minus_own, key=lambda x:x[0])
 
 # Get data for Pauper
 pauper_list = []
@@ -311,6 +415,12 @@ pauper_rarity, filtered_list = sort_and_filter(filtered_list, 5)
 pauper_name, filtered_list = sort_and_filter(filtered_list, 0)
 pauper_item = filtered_list[0]
 
+pauper_decks = read_decks('Pauper')
+pauper_decks_minus_own = check_decks(pauper_decks, pauper_list)
+pauper_most_needed = aggregate_most_needed(pauper_decks_minus_own)
+pauper_most_needed = sorted(pauper_most_needed, key=lambda x:(-1 * x[1], x[0]))
+pauper_decks_minus_own = sorted(pauper_decks_minus_own, key=lambda x:x[0])
+
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
         out_file_h = open("card_games/output/MTGOut.txt", 'w', encoding="UTF-8")
@@ -322,6 +432,7 @@ if __name__ == "__main__":
         f"- {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(SUMMARY_STRING, out_file_h)
 
+    # Vintage
     double_print("\n*** VINTAGE ***", out_file_h)
     double_print(f"There are {VINTAGE_CARDS} Vintage legal cards", out_file_h)
     VINT_STR = f"Have {VINTAGE_OWN} out of {VINTAGE_TOTAL} - " \
@@ -332,6 +443,15 @@ if __name__ == "__main__":
         f"I own {vintage_item[7]} of {vintage_item[6]['Vintage']}"
     double_print(PURCH_STR, out_file_h)
 
+    double_print(f"\nClosest deck to completion is at {vint_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(vint_decks_minus_own[0][1]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in vint_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    # Legacy
     double_print("\n*** LEGACY ***", out_file_h)
     double_print(f"There are {LEGACY_CARDS} Legacy legal cards", out_file_h)
     LEGACY_STR = f"Have {LEGACY_OWN} out of {LEGACY_TOTAL} - " \
@@ -342,6 +462,15 @@ if __name__ == "__main__":
         f"I own {legacy_item[7]} of {legacy_item[6]['Legacy']}"
     double_print(PURCH_STR, out_file_h)
 
+    double_print(f"\nClosest deck to completion is at {legacy_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(legacy_decks_minus_own[0][1]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in legacy_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    # Commander
     double_print("\n*** COMMANDER ***", out_file_h)
     double_print(f"There are {COMMANDER_CARDS} Commander legal cards", out_file_h)
     COMMANDER_STR = f"Have {COMMANDER_OWN} out of {COMMANDER_TOTAL} - " \
@@ -352,16 +481,15 @@ if __name__ == "__main__":
         f". I own {commander_item[7]} of {commander_item[6]['Commander']}"
     double_print(PURCH_STR, out_file_h)
 
-    double_print("\n*** PIONEER ***", out_file_h)
-    double_print(f"There are {PIONEER_CARDS} Pioneer legal cards", out_file_h)
-    PIONEER_STR = f"Have {PIONEER_OWN} out of {PIONEER_TOTAL} - " \
-        f"{100* PIONEER_OWN/PIONEER_TOTAL:.2f} percent of a playset"
-    double_print(PIONEER_STR, out_file_h)
+    double_print(f"\nClosest deck to completion is at {comm_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(comm_decks_minus_own[0][1]), out_file_h)
 
-    PURCH_STR = f"Chosen card is a(n) {pioneer_type} from {pioneer_set} - {pioneer_name}" + \
-        f". I own {pioneer_item[7]} of {pioneer_item[6]['Pioneer']}"
-    double_print(PURCH_STR, out_file_h)
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in comm_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
 
+    # Modern
     double_print("\n*** MODERN ***", out_file_h)
     double_print(f"There are {MODERN_CARDS} Modern legal cards", out_file_h)
     MODERN_STR = f"Have {MODERN_OWN} out of {MODERN_TOTAL} - " \
@@ -372,6 +500,18 @@ if __name__ == "__main__":
         f". I own {modern_item[7]} of {modern_item[6]['Modern']}"
     double_print(PURCH_STR, out_file_h)
 
+    # Pioneer
+    double_print("\n*** PIONEER ***", out_file_h)
+    double_print(f"There are {PIONEER_CARDS} Pioneer legal cards", out_file_h)
+    PIONEER_STR = f"Have {PIONEER_OWN} out of {PIONEER_TOTAL} - " \
+        f"{100* PIONEER_OWN/PIONEER_TOTAL:.2f} percent of a playset"
+    double_print(PIONEER_STR, out_file_h)
+
+    PURCH_STR = f"Chosen card is a(n) {pioneer_type} from {pioneer_set} - {pioneer_name}" + \
+        f". I own {pioneer_item[7]} of {pioneer_item[6]['Pioneer']}"
+    double_print(PURCH_STR, out_file_h)
+
+    # Standard
     double_print("\n*** STANDARD ***", out_file_h)
     double_print(f"There are {STANDARD_CARDS} Standard legal cards", out_file_h)
     STANDARD_STR = f"Have {STANDARD_OWN} out of {STANDARD_TOTAL} - " \
@@ -382,6 +522,7 @@ if __name__ == "__main__":
         f". I own {standard_item[7]} of {standard_item[6]['Standard']}"
     double_print(PURCH_STR, out_file_h)
 
+    # Pauper
     double_print("\n*** PAUPER ***", out_file_h)
     double_print(f"There are {PAUPER_CARDS} Pauper legal cards", out_file_h)
     PAUPER_STR = f"Have {PAUPER_OWN} out of {PAUPER_TOTAL} - " \

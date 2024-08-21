@@ -37,10 +37,16 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Global Series: Jiang Yanggu and Mu Yanling", "From the Vault: Exiled", "Ravnica Remastered",
     "Duel Decks: Knights vs. Dragons", "From the Vault: Dragons", "Ravnica Clue Edition",
     "Premium Deck Series: Fire and Lightning", "Wilds of Eldraine Enchanting Tales",
-    "Archenemy: Nicol Bolas", "Portal Three Kingdoms",
+    "Archenemy: Nicol Bolas", "Portal Three Kingdoms", "From the Vault: Annihilation (2014)",
+    "Duel Decks: Izzet vs. Golgari", "Duel Decks: Merfolk vs. Goblins", "Odyssey",
+    "Duel Decks: Elspeth vs. Kiora", "Duel Decks: Mind vs. Might", "Guild Kit: Dimir",
+    "Guild Kit: Izzet", "Guild Kit: Azorius", "Guild Kit: Simic", "Game Night 2019",
+    "Duel Decks: Speed vs. Cunning", "Duel Decks: Elves vs. Inventors",
     ]
 
-ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set", ]
+NON_SETS = ['Unglued', "Unhinged", "Unstable", ]
+ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set",
+    "Amonkhet Remastered", "Shadows Over Innistrad Remastered", ]
 
 # Sets that were only released on MTG Online.  We care about the rarity, but that's it.
 MTGO_SETS = ["Vintage Masters", "Masters Edition IV", "Masters Edition III", "Masters Edition",

@@ -1,37 +1,82 @@
-Tracking 231 cards.
-Have 0 out of 883 total cards for a playset - 0.00 percent
+Tracking 251 cards.
+Have 0 out of 957 total cards for a playset - 0.00 percent
 
 *** VINTAGE ***
-There are 227 Vintage legal cards
-Have 0 out of 879 - 0.00 percent of a playset
+There are 246 Vintage legal cards
+Have 0 out of 952 - 0.00 percent of a playset
 Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 4
+
+Closest deck to completion is at 75 cards.
+{'Ancestral Recall': 1, 'Ancient Tomb': 4, 'Black Lotus': 1, 'Coveted Jewel': 4, 'Force of Will': 4, 'Grim Monolith': 3, 'Island': 1, 'Karn, the Great Creator': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, "Mishra's Workshop": 4, 'Mox Emerald': 1, 'Mox Jet': 1, 'Mox Opal': 1, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, 'Mystic Forge': 1, 'Paradoxical Outcome': 4, 'Phyrexian Metamorph': 4, 'Sink into Stupor': 2, 'Sol Ring': 1, 'The One Ring': 4, 'Time Vault': 1, 'Time Walk': 1, 'Tinker': 1, 'Tolarian Academy': 1, 'Trinisphere': 1, "Urza's Saga": 4, 'Vexing Bauble': 3, 'Argentum Masticore': 4, 'Dismember': 2, 'Force of Negation': 2, "Grafdigger's Cage": 1, 'Mindbreak Trap': 1, 'Mycosynth Lattice': 1, 'Pithing Needle': 1, 'Wurmcoil Engine': 3}
+
+Most needed cards are:
+ - Force of Will: 8
+ - Urza's Saga: 8
+ - Force of Negation: 5
+ - Ancient Tomb: 4
+ - Argentum Masticore: 4
+ - Coveted Jewel: 4
+ - Lorien Revealed: 4
+ - Mishra's Workshop: 4
+ - Paradoxical Outcome: 4
+ - Phyrexian Metamorph: 4
 
 *** LEGACY ***
-There are 211 Legacy legal cards
-Have 0 out of 860 - 0.00 percent of a playset
+There are 229 Legacy legal cards
+Have 0 out of 932 - 0.00 percent of a playset
 Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 4
 
+Closest deck to completion is at 75 cards.
+{'Ancient Tomb': 4, 'Cavern of Souls': 4, 'Chalice of the Void': 4, 'Devourer of Destiny': 3, 'Eldrazi Repurposer': 2, 'Eldrazi Temple': 4, 'Eye of Ugin': 4, 'Forest': 1, 'Glaring Fleshraker': 4, 'Karakas': 1, "Kozilek's Command": 4, 'Lotus Petal': 4, 'Sowing Mycospawn': 4, 'Territory Culler': 4, 'Thought-Knot Seer': 4, 'Wasteland': 3, 'Wastes': 1, 'Wastescape Battlemage': 2, 'Yavimaya, Cradle of Growth': 3, 'Dismember': 2, 'Disruptor Flute': 2, 'Faerie Macabre': 2, "Grafdigger's Cage": 2, 'Maze of Ith': 1, 'Mindbreak Trap': 3, "Titan's Presence": 3}
+
+Most needed cards are:
+ - Wasteland: 6
+ - Ancient Tomb: 4
+ - Animate Dead: 4
+ - Brainstorm: 4
+ - Cavern of Souls: 4
+ - Chalice of the Void: 4
+ - Eldrazi Temple: 4
+ - Entomb: 4
+ - Eye of Ugin: 4
+ - Force of Will: 4
+
 *** COMMANDER ***
-There are 216 Commander legal cards
-Have 0 out of 235 - 0.00 percent of a playset
+There are 234 Commander legal cards
+Have 0 out of 253 - 0.00 percent of a playset
 Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 1
 
-*** PIONEER ***
-There are 23 Pioneer legal cards
-Have 0 out of 108 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Dragon Whelp. I own 0 of 4
+Closest deck to completion is at 100 cards.
+{"K'rrik, Son of Yawgmoth": 1, 'Ancient Tomb': 1, 'Animate Dead': 1, 'Asmodeus the Archfiend': 1, 'Balthor the Defiled': 1, 'Beseech the Mirror': 1, 'Beseech the Queen': 1, 'Bitter Triumph': 1, 'Blood Celebrant': 1, 'Blood Pet': 1, "Bolas's Citadel": 1, 'Braids, Arisen Nightmare': 1, 'Buried Alive': 1, 'Cabal Ritual': 1, 'Chainer, Dementia Master': 1, 'Chrome Mox': 1, 'City of Traitors': 1, 'Corpse Dance': 1, 'Crystal Vein': 1, 'Culling the Weak': 1, 'Cut Down': 1, 'Dance of the Dead': 1, 'Dark Petition': 1, 'Dark Ritual': 1, 'Dauthi Voidwalker': 1, 'Defense Grid': 1, 'Demonic Tutor': 1, 'Diabolic Tutor': 1, 'Dismember': 1, 'Emergence Zone': 1, 'Entomb': 1, 'Feign Death': 1, 'Final Parting': 1, 'Fleshwrither': 1, 'Gemstone Caverns': 1, 'Grasp of Darkness': 1, 'Gray Merchant of Asphodel': 1, 'Grim Monolith': 1, 'Grim Tutor': 1, 'Heartless Summoning': 1, 'Hoarding Broodlord': 1, 'Homeward Path': 1, 'Imperial Seal': 1, 'Jet Medallion': 1, 'Jeweled Lotus': 1, 'Kaervek, the Punisher': 1, "Lion's Eye Diamond": 1, 'Lotus Petal': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, 'Mox Diamond': 1, "Nashi, Moon Sage's Scion": 1, 'Necromancy': 1, 'Necropotence': 1, 'Necrotic Ooze': 1, 'Not Dead After All': 1, 'Nykthos, Shrine to Nyx': 1, 'Peer into the Abyss': 1, 'Phyrexian Tower': 1, "Praetor's Grasp": 1, 'Rain of Filth': 1, 'Razaketh, the Foulblooded': 1, 'Reanimate': 1, 'Sacrifice': 1, 'Saw in Half': 1, 'Shallow Grave': 1, 'Sheoldred, the Apocalypse': 1, 'Sidisi, Undead Vizier': 1, 'Skirge Familiar': 1, 'Snuff Out': 1, 'Sol Ring': 1, 'Swamp': 15, 'Takenuma, Abandoned Mire': 1, 'Talon Gates of Madara': 1, 'Ulcerate': 1, 'Undying Malice': 1, 'Unmarked Grave': 1, "Urza's Saga": 1, 'Vampiric Tutor': 1, 'Victim of Night': 1, 'Vile Entomber': 1, 'Vilis, Broker of Blood': 1, 'Voltaic Key': 1, 'Wishclaw Talisman': 1, "Yawgmoth's Will": 1}
+
+Most needed cards are:
+ - Swamp: 16
+ - Ancient Tomb: 2
+ - Animate Dead: 2
+ - Chrome Mox: 2
+ - Dance of the Dead: 2
+ - Dark Ritual: 2
+ - Jeweled Lotus: 2
+ - Mana Crypt: 2
+ - Necromancy: 2
+ - Reanimate: 2
 
 *** MODERN ***
-There are 93 Modern legal cards
-Have 0 out of 388 - 0.00 percent of a playset
+There are 100 Modern legal cards
+Have 0 out of 416 - 0.00 percent of a playset
 Chosen card is a(n) Creature from Limited Edition Alpha - Royal Assassin. I own 0 of 4
 
+*** PIONEER ***
+There are 25 Pioneer legal cards
+Have 0 out of 116 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Dragon Whelp. I own 0 of 4
+
 *** STANDARD ***
-There are 3 Standard legal cards
-Have 0 out of 28 - 0.00 percent of a playset
-Chosen card is a(n) Basic Land from Bloomburrow - Island. I own 0 of 20
+There are 4 Standard legal cards
+Have 0 out of 32 - 0.00 percent of a playset
+Chosen card is a(n) Basic Land from Fourth Edition - Island. I own 0 of 20
 
 *** PAUPER ***
-There are 76 Pauper legal cards
-Have 0 out of 320 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Ley Druid. I own 0 of 4
+There are 83 Pauper legal cards
+Have 0 out of 348 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Alpha - Prodigal Sorcerer. I own 0 of 4

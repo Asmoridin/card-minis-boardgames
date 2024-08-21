@@ -19,3 +19,5 @@ Sol Ring;Legacy-Banned/Vintage-Restricted
 Time Vault;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Timetwister;Legacy-Banned/Vintage-Restricted
+Balance;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Crusade;Legacy-Banned/Vintage-Banned/Commander-Banned
