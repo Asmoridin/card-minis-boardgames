@@ -153,7 +153,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             else:
                 print(restriction_format)
                 print(restriction_bnr)
-    if len(ret_formats) == 1:
+    if len(ret_formats) == 0:
         ret_formats = {"Vintage": 1}
     for _, format_qty in ret_formats.items():
         this_card_max = max(this_card_max, format_qty)
@@ -193,7 +193,8 @@ def validate_types(card_type_string):
     for check_type in types.split(' '):
         if check_type == '':
             continue
-        if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant"]:
+        if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant",
+                "Legendary", 'Land']:
             ret_type.append(check_type)
         else:
             print("Unknown type: " + check_type)
@@ -500,6 +501,14 @@ if __name__ == "__main__":
         f". I own {modern_item[7]} of {modern_item[6]['Modern']}"
     double_print(PURCH_STR, out_file_h)
 
+    double_print(f"\nClosest deck to completion is at {modern_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(modern_decks_minus_own[0][1]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in modern_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
     # Pioneer
     double_print("\n*** PIONEER ***", out_file_h)
     double_print(f"There are {PIONEER_CARDS} Pioneer legal cards", out_file_h)
@@ -510,6 +519,14 @@ if __name__ == "__main__":
     PURCH_STR = f"Chosen card is a(n) {pioneer_type} from {pioneer_set} - {pioneer_name}" + \
         f". I own {pioneer_item[7]} of {pioneer_item[6]['Pioneer']}"
     double_print(PURCH_STR, out_file_h)
+
+    double_print(f"\nClosest deck to completion is at {pioneer_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(pioneer_decks_minus_own[0][1]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in pioneer_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
 
     # Standard
     double_print("\n*** STANDARD ***", out_file_h)
@@ -522,6 +539,14 @@ if __name__ == "__main__":
         f". I own {standard_item[7]} of {standard_item[6]['Standard']}"
     double_print(PURCH_STR, out_file_h)
 
+    double_print(f"\nClosest deck to completion is at {standard_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(standard_decks_minus_own[0][1]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in standard_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
     # Pauper
     double_print("\n*** PAUPER ***", out_file_h)
     double_print(f"There are {PAUPER_CARDS} Pauper legal cards", out_file_h)
@@ -532,3 +557,11 @@ if __name__ == "__main__":
     PURCH_STR = f"Chosen card is a(n) {pauper_type} from {pauper_set} - {pauper_name}" + \
         f". I own {pauper_item[7]} of {pauper_item[6]['Pauper']}"
     double_print(PURCH_STR, out_file_h)
+
+    double_print(f"\nClosest deck to completion is at {pauper_decks_minus_own[0][0]} " + \
+        "cards.", out_file_h)
+    double_print(str(pauper_decks_minus_own[0][1]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in pauper_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)

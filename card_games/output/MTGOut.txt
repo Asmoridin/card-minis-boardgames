@@ -1,82 +1,142 @@
-Tracking 251 cards.
-Have 0 out of 957 total cards for a playset - 0.00 percent
+Tracking 350 cards.
+Have 0 out of 1417 total cards for a playset - 0.00 percent
 
 *** VINTAGE ***
-There are 246 Vintage legal cards
-Have 0 out of 952 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 4
+There are 349 Vintage legal cards
+Have 0 out of 1410 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Beta - Benalish Hero. I own 0 of 4
 
 Closest deck to completion is at 75 cards.
-{'Ancestral Recall': 1, 'Ancient Tomb': 4, 'Black Lotus': 1, 'Coveted Jewel': 4, 'Force of Will': 4, 'Grim Monolith': 3, 'Island': 1, 'Karn, the Great Creator': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, "Mishra's Workshop": 4, 'Mox Emerald': 1, 'Mox Jet': 1, 'Mox Opal': 1, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, 'Mystic Forge': 1, 'Paradoxical Outcome': 4, 'Phyrexian Metamorph': 4, 'Sink into Stupor': 2, 'Sol Ring': 1, 'The One Ring': 4, 'Time Vault': 1, 'Time Walk': 1, 'Tinker': 1, 'Tolarian Academy': 1, 'Trinisphere': 1, "Urza's Saga": 4, 'Vexing Bauble': 3, 'Argentum Masticore': 4, 'Dismember': 2, 'Force of Negation': 2, "Grafdigger's Cage": 1, 'Mindbreak Trap': 1, 'Mycosynth Lattice': 1, 'Pithing Needle': 1, 'Wurmcoil Engine': 3}
+{'Black Lotus': 1, 'Boseiju, Who Endures': 1, 'Chalice of the Void': 1, 'Collector Ouphe': 4, 'Commercial District': 1, 'Elvish Spirit Guide': 4, 'Endurance': 3, 'Force of Vigor': 4, 'Forest': 2, 'Fury': 2, 'Lightning Bolt': 3, 'Magus of the Moon': 4, 'Mental Misstep': 1, 'Minsc & Boo, Timeless Heroes': 2, 'Mountain': 1, 'Mox Emerald': 1, 'Mox Ruby': 1, 'Ragavan, Nimble Pilferer': 3, 'Scavenging Ooze': 1, 'Strip Mine': 1, 'Taiga': 4, 'Vexing Bauble': 4, 'Wasteland': 4, 'Wooded Foothills': 4, 'Wrenn and Six': 4, 'Archive Trap': 3, "Grafdigger's Cage": 2, 'Karakas': 1, 'Pithing Needle': 1, 'Red Elemental Blast': 2, 'The Tabernacle at Pendrell Vale': 2, 'Veil of Summer': 3}
 
 Most needed cards are:
- - Force of Will: 8
- - Urza's Saga: 8
- - Force of Negation: 5
- - Ancient Tomb: 4
- - Argentum Masticore: 4
- - Coveted Jewel: 4
- - Lorien Revealed: 4
- - Mishra's Workshop: 4
- - Paradoxical Outcome: 4
- - Phyrexian Metamorph: 4
+ - Force of Will: 36
+ - Wasteland: 30
+ - Urza's Saga: 19
+ - Null Rod: 18
+ - Underground Sea: 18
+ - Ancient Tomb: 16
+ - Force of Negation: 16
+ - Vexing Bauble: 16
+ - Force of Vigor: 14
+ - Psychic Frog: 14
 
 *** LEGACY ***
-There are 229 Legacy legal cards
-Have 0 out of 932 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 4
+There are 326 Legacy legal cards
+Have 0 out of 1384 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Beta - Benalish Hero. I own 0 of 4
 
 Closest deck to completion is at 75 cards.
-{'Ancient Tomb': 4, 'Cavern of Souls': 4, 'Chalice of the Void': 4, 'Devourer of Destiny': 3, 'Eldrazi Repurposer': 2, 'Eldrazi Temple': 4, 'Eye of Ugin': 4, 'Forest': 1, 'Glaring Fleshraker': 4, 'Karakas': 1, "Kozilek's Command": 4, 'Lotus Petal': 4, 'Sowing Mycospawn': 4, 'Territory Culler': 4, 'Thought-Knot Seer': 4, 'Wasteland': 3, 'Wastes': 1, 'Wastescape Battlemage': 2, 'Yavimaya, Cradle of Growth': 3, 'Dismember': 2, 'Disruptor Flute': 2, 'Faerie Macabre': 2, "Grafdigger's Cage": 2, 'Maze of Ith': 1, 'Mindbreak Trap': 3, "Titan's Presence": 3}
+{'Bayou': 1, 'Brainstorm': 4, 'Flooded Strand': 4, 'Force of Will': 4, 'Karakas': 1, 'Leyline Binding': 4, 'Life from the Loam': 1, 'Lorien Revealed': 2, 'Misty Rainforest': 4, 'Mystic Sanctuary': 1, 'Orcish Bowmasters': 2, 'Ponder': 4, 'Prismatic Ending': 2, 'Psychic Frog': 2, 'Savannah': 1, 'Snow-Covered Island': 1, 'Snow-Covered Plains': 1, 'Swords to Plowshares': 4, 'Tamiyo, Inquisitive Student': 4, 'Tropical Island': 2, 'Tundra': 2, 'Underground Sea': 2, 'Up the Beanstalk': 4, "Uro, Titan of Nature's Wrath": 2, 'Wasteland': 1, 'Carpet of Flowers': 2, 'Consign to Memory': 2, 'Containment Priest': 1, 'Dress Down': 1, 'Flusterstorm': 1, 'Force of Negation': 1, 'Force of Vigor': 1, 'Hydroblast': 2, 'Surgical Extraction': 1, 'Terminus': 1, 'Veil of Summer': 2}
 
 Most needed cards are:
- - Wasteland: 6
- - Ancient Tomb: 4
- - Animate Dead: 4
- - Brainstorm: 4
- - Cavern of Souls: 4
- - Chalice of the Void: 4
- - Eldrazi Temple: 4
- - Entomb: 4
- - Eye of Ugin: 4
- - Force of Will: 4
+ - Brainstorm: 36
+ - Force of Will: 36
+ - Ponder: 36
+ - Wasteland: 29
+ - Consign to Memory: 20
+ - Daze: 20
+ - Swords to Plowshares: 20
+ - Misty Rainforest: 19
+ - Polluted Delta: 19
+ - Psychic Frog: 18
 
 *** COMMANDER ***
-There are 234 Commander legal cards
-Have 0 out of 253 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Wall of Brambles. I own 0 of 1
+There are 331 Commander legal cards
+Have 0 out of 426 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Beta - Benalish Hero. I own 0 of 1
 
 Closest deck to completion is at 100 cards.
-{"K'rrik, Son of Yawgmoth": 1, 'Ancient Tomb': 1, 'Animate Dead': 1, 'Asmodeus the Archfiend': 1, 'Balthor the Defiled': 1, 'Beseech the Mirror': 1, 'Beseech the Queen': 1, 'Bitter Triumph': 1, 'Blood Celebrant': 1, 'Blood Pet': 1, "Bolas's Citadel": 1, 'Braids, Arisen Nightmare': 1, 'Buried Alive': 1, 'Cabal Ritual': 1, 'Chainer, Dementia Master': 1, 'Chrome Mox': 1, 'City of Traitors': 1, 'Corpse Dance': 1, 'Crystal Vein': 1, 'Culling the Weak': 1, 'Cut Down': 1, 'Dance of the Dead': 1, 'Dark Petition': 1, 'Dark Ritual': 1, 'Dauthi Voidwalker': 1, 'Defense Grid': 1, 'Demonic Tutor': 1, 'Diabolic Tutor': 1, 'Dismember': 1, 'Emergence Zone': 1, 'Entomb': 1, 'Feign Death': 1, 'Final Parting': 1, 'Fleshwrither': 1, 'Gemstone Caverns': 1, 'Grasp of Darkness': 1, 'Gray Merchant of Asphodel': 1, 'Grim Monolith': 1, 'Grim Tutor': 1, 'Heartless Summoning': 1, 'Hoarding Broodlord': 1, 'Homeward Path': 1, 'Imperial Seal': 1, 'Jet Medallion': 1, 'Jeweled Lotus': 1, 'Kaervek, the Punisher': 1, "Lion's Eye Diamond": 1, 'Lotus Petal': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, 'Mox Diamond': 1, "Nashi, Moon Sage's Scion": 1, 'Necromancy': 1, 'Necropotence': 1, 'Necrotic Ooze': 1, 'Not Dead After All': 1, 'Nykthos, Shrine to Nyx': 1, 'Peer into the Abyss': 1, 'Phyrexian Tower': 1, "Praetor's Grasp": 1, 'Rain of Filth': 1, 'Razaketh, the Foulblooded': 1, 'Reanimate': 1, 'Sacrifice': 1, 'Saw in Half': 1, 'Shallow Grave': 1, 'Sheoldred, the Apocalypse': 1, 'Sidisi, Undead Vizier': 1, 'Skirge Familiar': 1, 'Snuff Out': 1, 'Sol Ring': 1, 'Swamp': 15, 'Takenuma, Abandoned Mire': 1, 'Talon Gates of Madara': 1, 'Ulcerate': 1, 'Undying Malice': 1, 'Unmarked Grave': 1, "Urza's Saga": 1, 'Vampiric Tutor': 1, 'Victim of Night': 1, 'Vile Entomber': 1, 'Vilis, Broker of Blood': 1, 'Voltaic Key': 1, 'Wishclaw Talisman': 1, "Yawgmoth's Will": 1}
+{'Flubs, the Fool': 1, 'Aeve, Progenitor Ooze': 1, "An Offer You Can't Refuse": 1, 'Anger': 1, 'Arcane Signet': 1, 'Archmage Emeritus': 1, 'Artistic Refusal': 1, 'Barkchannel Pathway': 1, 'Breeding Pool': 1, 'Careful Study': 1, 'Circular Logic': 1, 'Command Tower': 1, 'Coruscation Mage': 1, 'Creeping Renaissance': 1, 'Crucible of Worlds': 1, 'Deep Analysis': 1, "Dragon's Rage Channeler": 1, 'Drake Haven': 1, 'Echo of Eons': 1, 'Escape to the Wilds': 1, 'Exotic Orchard': 1, 'Experimental Frenzy': 1, 'Fabled Passage': 1, 'Faithless Looting': 1, 'Farseek': 1, 'Fervent Denial': 1, 'Fiery Islet': 1, 'Forest': 6, 'Fountainport Bell': 1, 'Fury Storm': 1, 'Gitaxian Probe': 1, 'Golgari Grave-Troll': 1, 'Greensleeves, Maro-Sorcerer': 1, 'Growth Spiral': 1, 'Hedron Crab': 1, 'Ignite the Future': 1, 'Increasing Vengeance': 1, 'Island': 10, 'Junk Winder': 1, 'Karplusan Forest': 1, "Lich's Tomb": 1, 'Lightning Greaves': 1, 'Magus of the Bazaar': 1, 'Mass Diminish': 1, 'Mossfire Valley': 1, 'Mountain': 5, 'Murmuring Mystic': 1, 'Mystic Confluence': 1, 'Mystic Retrieval': 1, 'Mystic Sanctuary': 1, 'Niv-Mizzet, the Firemind': 1, 'Octavia, Living Thesis': 1, 'Oneirophage': 1, 'Oracle of Mul Daya': 1, 'Quandrix Apprentice': 1, 'Ral, Crackling Wit': 1, 'Rampant Growth': 1, 'Ramunap Excavator': 1, 'Reality Scramble': 1, 'River Kelpie': 1, 'Scute Swarm': 1, 'Scuttletide': 1, 'Search for Tomorrow': 1, 'Season of Weaving': 1, 'Secrets of the Dead': 1, 'Shark Typhoon': 1, 'Shivan Reef': 1, 'Sol Ring': 1, 'Song of Creation': 1, 'Steam Vents': 1, 'Stomping Ground': 1, 'Storm-Kiln Artist': 1, 'Talrand, Sky Summoner': 1, 'Tatyova, Benthic Druid': 1, 'Temple of the False God': 1, 'The Locust God': 1, 'Think Twice': 1, 'Thrill of Possibility': 1, 'Waterlogged Grove': 1, "Wayfarer's Bauble": 1, 'Witty Roastmaster': 1, 'Yavimaya Coast': 1}
 
 Most needed cards are:
- - Swamp: 16
- - Ancient Tomb: 2
- - Animate Dead: 2
- - Chrome Mox: 2
- - Dance of the Dead: 2
- - Dark Ritual: 2
- - Jeweled Lotus: 2
- - Mana Crypt: 2
- - Necromancy: 2
- - Reanimate: 2
+ - Island: 28
+ - Swamp: 24
+ - Forest: 19
+ - Mountain: 13
+ - Plains: 8
+ - Command Tower: 6
+ - Sol Ring: 6
+ - Arcane Signet: 5
+ - Fellwar Stone: 3
+ - Lightning Greaves: 3
 
 *** MODERN ***
-There are 100 Modern legal cards
-Have 0 out of 416 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Royal Assassin. I own 0 of 4
+There are 134 Modern legal cards
+Have 0 out of 616 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Limited Edition Beta - Royal Assassin. I own 0 of 4
+
+Closest deck to completion is at 75 cards.
+{'Amulet of Vigor': 4, 'Arboreal Grazer': 4, 'Bojuka Bog': 1, 'Boseiju, Who Endures': 2, 'Cavern of Souls': 1, 'Crumbling Vestige': 1, 'Dryad of the Ilysian Grove': 3, 'Forest': 2, 'Gruul Turf': 4, 'Hanweir Battlements': 1, 'Hedge Maze': 1, 'Mirrorpool': 1, 'Misty Rainforest': 1, 'Nadu, Winged Wisdom': 3, 'Oran-Rief, the Vastwood': 1, 'Otawara, Soaring City': 1, 'Primeval Titan': 4, 'Shifting Woodland': 1, 'Shuko': 2, 'Simic Growth Chamber': 4, 'Springheart Nantuko': 3, "Summoner's Pact": 4, 'The Mycosynth Gardens': 2, 'The One Ring': 2, 'Tolaria West': 1, "Urza's Saga": 4, 'Valakut, the Molten Pinnacle': 1, 'Vesuva': 1, 'Cursed Totem': 1, 'Defense Grid': 1, 'Dismember': 3, 'Endurance': 2, 'Engineered Explosives': 2, 'Force of Vigor': 2, 'Six': 1, 'Trinisphere': 2, 'Vexing Bauble': 1}
+
+Most needed cards are:
+ - Grief: 16
+ - The One Ring: 16
+ - Urza's Saga: 15
+ - Arid Mesa: 14
+ - Flooded Strand: 14
+ - Swamp: 14
+ - Dismember: 11
+ - Orcish Bowmasters: 11
+ - Thoughtseize: 11
+ - Fatal Push: 10
 
 *** PIONEER ***
-There are 25 Pioneer legal cards
-Have 0 out of 116 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Dragon Whelp. I own 0 of 4
+There are 35 Pioneer legal cards
+Have 0 out of 220 - 0.00 percent of a playset
+Chosen card is a(n) Basic Land from Limited Edition Alpha - Forest. I own 0 of 20
+
+Closest deck to completion is at 74 cards.
+{'Castle Vantress': 1, 'Censor': 2, 'Change the Equation': 3, 'Clearwater Pathway': 3, 'Cut Down': 2, 'Deadly Cover-Up': 2, 'Deduce': 3, 'Dig Through Time': 2, 'Drown in the Loch': 1, 'Fabled Passage': 2, 'Fatal Push': 4, 'Field of Ruin': 3, 'Hall of Storm Giants': 1, 'Hive of the Eye Tyrant': 1, 'Island': 4, 'Make Disappear': 1, 'Memory Deluge': 2, 'Negate': 3, 'Otawara, Soaring City': 1, 'Shark Typhoon': 3, "Sheoldred's Edict": 2, 'Swamp': 2, 'The Meathook Massacre': 2, 'Thoughtseize': 4, 'Three Steps Ahead': 3, 'Undercity Sewers': 3, 'Watery Grave': 4, "Jace, Vryn's Prodigy": 1, 'Kalitas, Traitor of Ghet': 1, 'Mystical Dispute': 2, 'Narset, Parter of Veils': 2, 'Reckoner Bankbuster': 2, 'Unlicensed Hearse': 2}
+
+Most needed cards are:
+ - Fatal Push: 27
+ - Plains: 23
+ - Thoughtseize: 22
+ - Mountain: 20
+ - Swamp: 20
+ - Mutavault: 19
+ - Snow-Covered Island: 18
+ - Forest: 17
+ - Mystical Dispute: 17
+ - Island: 15
 
 *** STANDARD ***
-There are 4 Standard legal cards
-Have 0 out of 32 - 0.00 percent of a playset
-Chosen card is a(n) Basic Land from Fourth Edition - Island. I own 0 of 20
+There are 9 Standard legal cards
+Have 0 out of 116 - 0.00 percent of a playset
+Chosen card is a(n) Basic Land from Fourth Edition - Forest. I own 0 of 20
+
+Closest deck to completion is at 75 cards.
+{'Adarkar Wastes': 4, 'Braided Net': 4, 'Cityscape Leveler': 2, 'Demolition Field': 4, 'Fabrication Foundry': 4, 'Get Lost': 2, 'Glass Casket': 3, 'Island': 3, 'Meticulous Archive': 2, 'Mirrex': 1, 'Plains': 5, 'Restless Anchorage': 4, 'Seachrome Coast': 2, 'Simulacrum Synthesizer': 4, 'Spring-Loaded Sawblades': 4, 'Sunfall': 2, 'The Mightstone and Weakstone': 4, 'Thousand Moons Smithy': 1, 'Thran Spider': 4, 'Three Steps Ahead': 2, 'Unstable Glyphbridge': 2, 'Urza, Lord Protector': 1, 'Beza, the Bounding Spring': 1, 'Boon-Bringer Valkyrie': 1, 'Chrome Host Seedshark': 2, 'Disdainful Stroke': 1, 'Market Gnome': 2, 'Negate': 2, 'Rest in Peace': 2}
+
+Most needed cards are:
+ - Plains: 36
+ - Mountain: 33
+ - Swamp: 27
+ - Deep-Cavern Bat: 20
+ - Go for the Throat: 19
+ - Urabrask's Forge: 18
+ - Duress: 17
+ - Get Lost: 17
+ - Cut Down: 15
+ - Cavern of Souls: 14
 
 *** PAUPER ***
-There are 83 Pauper legal cards
-Have 0 out of 348 - 0.00 percent of a playset
-Chosen card is a(n) Creature from Limited Edition Alpha - Prodigal Sorcerer. I own 0 of 4
+There are 113 Pauper legal cards
+Have 0 out of 532 - 0.00 percent of a playset
+Chosen card is a(n) Creature from Fourth Edition - Benalish Hero. I own 0 of 4
+
+Closest deck to completion is at 75 cards.
+{'Abundant Growth': 4, 'Ancestral Mask': 4, 'Armadillo Cloak': 4, 'Ash Barrens': 3, 'Cartouche of Solidarity': 2, 'Ethereal Armor': 4, 'Forest': 11, 'Gladecover Scout': 4, 'Malevolent Rumble': 4, 'Plains': 3, 'Ram Through': 1, 'Rancor': 4, "Sentinel's Eyes": 1, 'Silhana Ledgewalker': 3, 'Slippery Bogle': 4, 'Utopia Sprawl': 4, 'Blighted Agent': 4, 'Crimson Acolyte': 3, 'Glistener Elf': 4, 'Island': 1, 'Lifelink': 1, "Tamiyo's Safekeeping": 2}
+
+Most needed cards are:
+ - Forest: 69
+ - Island: 60
+ - Mountain: 41
+ - Plains: 39
+ - Swamp: 37
+ - Lorien Revealed: 31
+ - Counterspell: 29
+ - Gorilla Shaman: 24
+ - Cast into the Fire: 22
+ - Deadly Dispute: 22

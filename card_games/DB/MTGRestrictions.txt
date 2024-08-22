@@ -21,3 +21,6 @@ Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Timetwister;Legacy-Banned/Vintage-Restricted
 Balance;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Crusade;Legacy-Banned/Vintage-Banned/Commander-Banned
+Jeweled Bird;Legacy-Banned/Vintage-Banned/Commander-Banned
+Chalice of the Void;Vintage-Restricted
+Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned

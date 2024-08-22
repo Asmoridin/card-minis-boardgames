@@ -1,0 +1,45 @@
+// Pulled 8/22/24
+1 Ancestral Recall
+1 Bayou
+1 Black Lotus
+1 Boseiju, Who Endures
+1 Brainstorm
+4 Collector Ouphe
+1 Daze
+4 Deathrite Shaman
+1 Demonic Tutor
+1 Dig Through Time
+2 Force of Negation
+2 Force of Vigor
+4 Force of Will
+1 Forest
+1 Gitaxian Probe
+1 Leovold, Emissary of Trest
+1 Lorien Revealed
+1 Mental Misstep
+3 Misty Rainforest
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+3 Oko, Thief of Crowns
+4 Psychic Frog
+1 Spell Pierce
+1 Strip Mine
+1 Sylvan Library
+1 Tarmogoyf
+1 Time Walk
+1 Treasure Cruise
+3 Tropical Island
+2 Underground Sea
+3 Verdant Catacombs
+4 Wasteland
+
+1 Abrupt Decay
+2 Assassin's Trophy
+1 Endurance
+2 Energy Flux
+1 Force of Vigor
+2 Knight of Infamy
+4 Leyline of the Void
+1 Mindbreak Trap
+1 The Tabernacle at Pendrell Vale

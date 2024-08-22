@@ -38,15 +38,24 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Duel Decks: Knights vs. Dragons", "From the Vault: Dragons", "Ravnica Clue Edition",
     "Premium Deck Series: Fire and Lightning", "Wilds of Eldraine Enchanting Tales",
     "Archenemy: Nicol Bolas", "Portal Three Kingdoms", "From the Vault: Annihilation (2014)",
-    "Duel Decks: Izzet vs. Golgari", "Duel Decks: Merfolk vs. Goblins", "Odyssey",
+    "Duel Decks: Izzet vs. Golgari", "Duel Decks: Merfolk vs. Goblins", "Odyssey", "Legions",
     "Duel Decks: Elspeth vs. Kiora", "Duel Decks: Mind vs. Might", "Guild Kit: Dimir",
     "Guild Kit: Izzet", "Guild Kit: Azorius", "Guild Kit: Simic", "Game Night 2019",
-    "Duel Decks: Speed vs. Cunning", "Duel Decks: Elves vs. Inventors",
+    "Duel Decks: Speed vs. Cunning", "Duel Decks: Elves vs. Inventors", "Legends",
+    "Premium Deck Series: Slivers", "Jurassic World Collection Cards", "Chronicles",
+    "Planechase Anthology", "Planechase 2012 Edition", "Duel Decks: Blessed vs. Cursed",
+    "Unfinity", "From the Vault: Angels", "Magic: The Gathering—Conspiracy", "Guild Kit: Golgari",
+    "Guild Kit: Orzhov", "Guild Kit: Rakdos", "Duel Decks: Nissa vs. Ob Nixilis", "Alliances",
+    "Duel Decks: Zendikar vs. Eldrazi", "Guild Kit: Selesnya", "Guild Kit: Boros",
+    "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms",
+    "Zendikar Expeditions", "Zendikar Rising Expeditions",
     ]
 
-NON_SETS = ['Unglued', "Unhinged", "Unstable", ]
+NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]
 ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set",
-    "Amonkhet Remastered", "Shadows Over Innistrad Remastered", ]
+    "Amonkhet Remastered", "Shadows Over Innistrad Remastered", "Kaladesh Remastered",
+    "Alchemy Horizons: Baldur's Gate",
+    ]
 
 # Sets that were only released on MTG Online.  We care about the rarity, but that's it.
 MTGO_SETS = ["Vintage Masters", "Masters Edition IV", "Masters Edition III", "Masters Edition",
@@ -79,6 +88,7 @@ MODERN_SETS  = ["Eighth Edition", "Mirrodin", "Darksteel", "Fifth Dawn", "Champi
     "Conflux", "Alara Reborn", "Magic 2010", "Zendikar", "Worldwake", "Rise of the Eldrazi",
     "Magic 2011", "Scars of Mirrodin", "Mirrodin Besieged", "New Phyrexia", "Magic 2012",
     "Innistrad", "Dark Ascension", "Avacyn Restored", "Magic 2013", "Modern Horizons 2",
-    "Modern Horizons", "The Lord of the Rings: Tales of Middle-Earth", "Modern Horizons 3",
+    "Modern Horizons", "The Lord of the Rings: Tales of Middle Earth", "Modern Horizons 3",
     "Assassin's Creed", 'Time Spiral "Timeshifted"', "Modern Masters 2015 Edition",
+    "Modern Event Deck 2014", "Modern Masters",
     ]
