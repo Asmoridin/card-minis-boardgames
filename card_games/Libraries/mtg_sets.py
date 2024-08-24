@@ -48,7 +48,8 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Guild Kit: Orzhov", "Guild Kit: Rakdos", "Duel Decks: Nissa vs. Ob Nixilis", "Alliances",
     "Duel Decks: Zendikar vs. Eldrazi", "Guild Kit: Selesnya", "Guild Kit: Boros",
     "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms",
-    "Zendikar Expeditions", "Zendikar Rising Expeditions",
+    "Zendikar Expeditions", "Zendikar Rising Expeditions", "Antiquities",
+    "Outlaws of Thunder Junction Breaking News", "March of the Machine Multiverse Legends",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]
@@ -90,5 +91,5 @@ MODERN_SETS  = ["Eighth Edition", "Mirrodin", "Darksteel", "Fifth Dawn", "Champi
     "Innistrad", "Dark Ascension", "Avacyn Restored", "Magic 2013", "Modern Horizons 2",
     "Modern Horizons", "The Lord of the Rings: Tales of Middle Earth", "Modern Horizons 3",
     "Assassin's Creed", 'Time Spiral "Timeshifted"', "Modern Masters 2015 Edition",
-    "Modern Event Deck 2014", "Modern Masters",
+    "Modern Event Deck 2014", "Modern Masters", "Modern Masters 2017 Edition",
     ]

@@ -23,4 +23,17 @@ Balance;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Crusade;Legacy-Banned/Vintage-Banned/Commander-Banned
 Jeweled Bird;Legacy-Banned/Vintage-Banned/Commander-Banned
 Chalice of the Void;Vintage-Restricted
-Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned
+Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned
+Jihad;Legacy-Banned/Vintage-Banned/Commander-Banned
+Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned
+Bazaar of Baghdad;Legacy-Banned
+Library of Alexandria;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Bronze Tablet;Legacy-Banned/Vintage-Banned/Commander-Banned
+Fury;Modern-Banned
+Mental Misstep;Modern-Banned/Legacy-Banned/Vintage-Restricted
+Ragavan, Nimble Pilferer;Legacy-Banned
+Atog;Pauper-Banned
+Strip Mine;Legacy-Banned/Vintage-Restricted
+Wooded Foothills;Pioneer-Banned
+Mystic Forge;Vintage-Restricted
+Imprison;Legacy-Banned/Vintage-Banned/Commander-Banned

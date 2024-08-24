@@ -95,7 +95,8 @@ def parse_restrictions(restr_lines):
         return_dict[this_card_name] = {}
         for restriction in card_restrictions.split('/'):
             this_format, bnr = restriction.split('-')
-            if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper']:
+            if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
+                    'Standard', 'Pioneer', ]:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -194,7 +195,7 @@ def validate_types(card_type_string):
         if check_type == '':
             continue
         if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant",
-                "Legendary", 'Land']:
+                "Legendary", 'Land', 'Planeswalker', ]:
             ret_type.append(check_type)
         else:
             print("Unknown type: " + check_type)
@@ -213,6 +214,7 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 raw_list = []
 card_names = set()
+creature_types = {}
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -229,16 +231,23 @@ for line in lines:
     card_colors = validate_colors(card_colors)
     card_type = card_type.replace('—', '-')
     card_type, card_subtype = validate_types(card_type)
+    if 'Creature' in card_type:
+        for subtype in card_subtype:
+            if subtype not in creature_types:
+                creature_types[subtype] = 0
+            creature_types[subtype] += 1
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if 'Basic Land' in card_type:
         for card_format in card_formats:
-            card_formats[card_format] = 20
-            CARD_MAX = 20
+            card_formats[card_format] = 30
+            CARD_MAX = 30
     TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_qty
     raw_list.append((card_name, card_type, card_subtype, card_colors, card_sets, card_rarities, \
         card_formats, card_qty, CARD_MAX))
+
+FORMAT_LIST = []
 
 # Get data for Vintage
 vintage_list = []
@@ -249,11 +258,14 @@ for card in raw_list:
         vintage_list.append(card)
         VINTAGE_TOTAL += card[6]['Vintage']
         VINTAGE_OWN += min(card[7], card[6]['Vintage'])
+    else:
+        print(card)
 VINTAGE_CARDS = len(vintage_list)
+FORMAT_LIST.append(("Vintage", VINTAGE_OWN, VINTAGE_TOTAL))
 
 vintage_set, filtered_list = sort_and_filter(vintage_list, 4)
 vintage_type, filtered_list = sort_and_filter(filtered_list, 1)
-if vintage_type == 'Creature':
+if vintage_type == 'Creature' or vintage_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 vintage_color, filtered_list = sort_and_filter(filtered_list, 3)
 vintage_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -276,10 +288,11 @@ for card in raw_list:
         LEGACY_TOTAL += card[6]['Legacy']
         LEGACY_OWN += min(card[7], card[6]['Legacy'])
 LEGACY_CARDS = len(legacy_list)
+FORMAT_LIST.append(("Legacy", LEGACY_OWN, LEGACY_TOTAL))
 
 legacy_set, filtered_list = sort_and_filter(legacy_list, 4)
 legacy_type, filtered_list = sort_and_filter(filtered_list, 1)
-if legacy_type == 'Creature':
+if legacy_type == 'Creature' or legacy_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 legacy_color, filtered_list = sort_and_filter(filtered_list, 3)
 legacy_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -302,10 +315,11 @@ for card in raw_list:
         COMMANDER_TOTAL += card[6]['Commander']
         COMMANDER_OWN += min(card[7], card[6]['Commander'])
 COMMANDER_CARDS = len(commander_list)
+FORMAT_LIST.append(("Commander", COMMANDER_OWN, COMMANDER_TOTAL))
 
 commander_set, filtered_list = sort_and_filter(commander_list, 4)
 commander_type, filtered_list = sort_and_filter(filtered_list, 1)
-if commander_type == 'Creature':
+if commander_type == 'Creature' or commander_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 commander_color, filtered_list = sort_and_filter(filtered_list, 3)
 commander_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -328,10 +342,11 @@ for card in raw_list:
         PIONEER_TOTAL += card[6]['Pioneer']
         PIONEER_OWN += min(card[7], card[6]['Pioneer'])
 PIONEER_CARDS = len(pioneer_list)
+FORMAT_LIST.append(("Pioneer", PIONEER_OWN, PIONEER_TOTAL))
 
 pioneer_set, filtered_list = sort_and_filter(pioneer_list, 4)
 pioneer_type, filtered_list = sort_and_filter(filtered_list, 1)
-if pioneer_type == 'Creature':
+if pioneer_type == 'Creature' or pioneer_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 pioneer_color, filtered_list = sort_and_filter(filtered_list, 3)
 pioneer_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -354,10 +369,11 @@ for card in raw_list:
         MODERN_TOTAL += card[6]['Modern']
         MODERN_OWN += min(card[7], card[6]['Modern'])
 MODERN_CARDS = len(modern_list)
+FORMAT_LIST.append(("Modern", MODERN_OWN, MODERN_TOTAL))
 
 modern_set, filtered_list = sort_and_filter(modern_list, 4)
 modern_type, filtered_list = sort_and_filter(filtered_list, 1)
-if modern_type == 'Creature':
+if modern_type == 'Creature' or modern_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 modern_color, filtered_list = sort_and_filter(filtered_list, 3)
 modern_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -380,10 +396,11 @@ for card in raw_list:
         STANDARD_TOTAL += card[6]['Standard']
         STANDARD_OWN += min(card[7], card[6]['Standard'])
 STANDARD_CARDS = len(standard_list)
+FORMAT_LIST.append(("Standard", STANDARD_OWN, STANDARD_TOTAL))
 
 standard_set, filtered_list = sort_and_filter(standard_list, 4)
 standard_type, filtered_list = sort_and_filter(filtered_list, 1)
-if standard_type == 'Creature':
+if standard_type == 'Creature' or standard_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 standard_color, filtered_list = sort_and_filter(filtered_list, 3)
 standard_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -406,10 +423,11 @@ for card in raw_list:
         PAUPER_TOTAL += card[6]['Pauper']
         PAUPER_OWN += min(card[7], card[6]['Pauper'])
 PAUPER_CARDS = len(pauper_list)
+FORMAT_LIST.append(("Pauper", PAUPER_OWN, PAUPER_TOTAL))
 
 pauper_set, filtered_list = sort_and_filter(pauper_list, 4)
 pauper_type, filtered_list = sort_and_filter(filtered_list, 1)
-if pauper_type == 'Creature':
+if pauper_type == 'Creature' or pauper_type == 'Planeswalker':
     _, filtered_list = sort_and_filter(filtered_list, 2)
 pauper_color, filtered_list = sort_and_filter(filtered_list, 3)
 pauper_rarity, filtered_list = sort_and_filter(filtered_list, 5)
@@ -565,3 +583,10 @@ if __name__ == "__main__":
     double_print("\nMost needed cards are:", out_file_h)
     for card_tuple in pauper_most_needed[:10]:
         double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    print(creature_types)
+
+    double_print("\nPercentages ordered by format:", out_file_h)
+    FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)
+    for print_format in FORMAT_LIST:
+        double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
