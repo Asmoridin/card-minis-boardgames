@@ -1,13 +1,13 @@
-Tracking 577 cards.
-Have 60 out of 2351 total cards for a playset - 2.55 percent
+Tracking 733 cards.
+Have 67 out of 2957 total cards for a playset - 2.27 percent
 
 *** VINTAGE ***
-There are 577 Vintage legal cards
-Have 60 out of 2345 - 2.56 percent of a playset
+There are 733 Vintage legal cards
+Have 67 out of 2951 - 2.27 percent of a playset
 Chosen card is a(n) Artifact from Antiquities - Armageddon Clock. I own 0 of 4
 
-Closest deck to completion is at 74 cards.
-{'Ancestral Recall': 1, 'Ancient Tomb': 4, 'Black Lotus': 1, 'Coveted Jewel': 4, 'Force of Will': 4, 'Grim Monolith': 3, 'Island': 1, 'Karn, the Great Creator': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, "Mishra's Workshop": 4, 'Mox Emerald': 1, 'Mox Jet': 1, 'Mox Opal': 1, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, 'Paradoxical Outcome': 4, 'Phyrexian Metamorph': 4, 'Sink into Stupor': 2, 'Sol Ring': 1, 'The One Ring': 4, 'Time Vault': 1, 'Time Walk': 1, 'Tinker': 1, 'Tolarian Academy': 1, 'Trinisphere': 1, "Urza's Saga": 4, 'Vexing Bauble': 3, 'Argentum Masticore': 4, 'Dismember': 2, 'Force of Negation': 2, "Grafdigger's Cage": 1, 'Mindbreak Trap': 1, 'Mycosynth Lattice': 1, 'Pithing Needle': 1, 'Wurmcoil Engine': 3}
+Closest deck to completion is at 73 cards.
+{'Ancestral Recall': 1, 'Ancient Tomb': 4, 'Black Lotus': 1, 'Coveted Jewel': 4, 'Force of Will': 4, 'Grim Monolith': 3, 'Island': 1, 'Karn, the Great Creator': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, "Mishra's Workshop": 4, 'Mox Emerald': 1, 'Mox Jet': 1, 'Mox Opal': 1, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, 'Paradoxical Outcome': 4, 'Phyrexian Metamorph': 4, 'Sink into Stupor': 2, 'The One Ring': 4, 'Time Vault': 1, 'Time Walk': 1, 'Tinker': 1, 'Tolarian Academy': 1, 'Trinisphere': 1, "Urza's Saga": 4, 'Vexing Bauble': 3, 'Argentum Masticore': 4, 'Dismember': 2, 'Force of Negation': 2, "Grafdigger's Cage": 1, 'Mindbreak Trap': 1, 'Mycosynth Lattice': 1, 'Pithing Needle': 1, 'Wurmcoil Engine': 3}
 
 Most needed cards are:
  - Force of Will: 36
@@ -22,8 +22,8 @@ Most needed cards are:
  - Psychic Frog: 14
 
 *** LEGACY ***
-There are 544 Legacy legal cards
-Have 60 out of 2306 - 2.60 percent of a playset
+There are 693 Legacy legal cards
+Have 66 out of 2902 - 2.27 percent of a playset
 Chosen card is a(n) Artifact from Antiquities - Armageddon Clock. I own 0 of 4
 
 Closest deck to completion is at 74 cards.
@@ -42,28 +42,28 @@ Most needed cards are:
  - Psychic Frog: 18
 
 *** COMMANDER ***
-There are 553 Commander legal cards
-Have 60 out of 698 - 8.60 percent of a playset
+There are 703 Commander legal cards
+Have 67 out of 848 - 7.90 percent of a playset
 Chosen card is a(n) Artifact from Antiquities - Armageddon Clock. I own 0 of 1
 
-Closest deck to completion is at 57 cards.
-{'Arcane Signet': 1, "Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darkness': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Defile': 1, 'Disciple of the Vault': 1, 'Dread Return': 1, 'Feed the Swarm': 1, 'Go for the Throat': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Mind Stone': 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Sol Ring': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Swamp': 3, 'Takenuma, Abandoned Mire': 1, 'Thought Vessel': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Triarch Praetorian': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
+Closest deck to completion is at 52 cards.
+{'Arcane Signet': 1, "Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Defile': 1, 'Disciple of the Vault': 1, 'Dread Return': 1, 'Feed the Swarm': 1, 'Go for the Throat': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Mind Stone': 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Thought Vessel': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Triarch Praetorian': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
  - Forest: 30
  - Island: 28
- - Swamp: 26
  - Mountain: 22
  - Snow-Covered Swamp: 18
- - Sol Ring: 13
+ - Swamp: 12
  - Arcane Signet: 11
  - Plains: 8
  - Command Tower: 7
  - Lightning Greaves: 6
+ - Phyrexian Tower: 6
 
 *** MODERN ***
-There are 178 Modern legal cards
-Have 20 out of 842 - 2.38 percent of a playset
+There are 192 Modern legal cards
+Have 26 out of 898 - 2.90 percent of a playset
 Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
 
 Closest deck to completion is at 66 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Harsh Mentor: 10
 
 *** PIONEER ***
-There are 41 Pioneer legal cards
-Have 16 out of 294 - 5.44 percent of a playset
+There are 44 Pioneer legal cards
+Have 21 out of 306 - 6.86 percent of a playset
 Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
 
 Closest deck to completion is at 67 cards.
@@ -103,7 +103,7 @@ Most needed cards are:
 
 *** STANDARD ***
 There are 9 Standard legal cards
-Have 14 out of 166 - 8.43 percent of a playset
+Have 19 out of 166 - 11.45 percent of a playset
 Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
 
 Closest deck to completion is at 69 cards.
@@ -122,12 +122,12 @@ Most needed cards are:
  - Island: 14
 
 *** PAUPER ***
-There are 174 Pauper legal cards
-Have 14 out of 826 - 1.69 percent of a playset
+There are 237 Pauper legal cards
+Have 20 out of 1078 - 1.86 percent of a playset
 Chosen card is a(n) Creature from Arabian Nights - Cuombajj Witches. I own 0 of 4
 
-Closest deck to completion is at 61 cards.
-{'Bojuka Bog': 2, 'Cast Down': 2, "Chainer's Edict": 3, 'Chittering Rats': 4, 'Crypt Rats': 2, 'Cuombajj Witches': 4, 'Deadly Dispute': 2, 'Defile': 4, "Geth's Verdict": 2, 'Gray Merchant of Asphodel': 4, 'Phyrexian Rager': 2, 'Sign in Blood': 3, 'Snuff Out': 2, 'Swamp': 1, 'Thorn of the Black Rose': 2, 'Tithing Blade': 2, 'Troll of Khazad-dum': 2, "Witch's Cottage": 3, 'Contaminated Ground': 2, 'Duress': 2, 'Nihil Spellbomb': 2, 'Relic of Progenitus': 2, 'Suffocating Fumes': 2, 'Unexpected Fangs': 3, 'Wrench Mind': 2}
+Closest deck to completion is at 60 cards.
+{'Bojuka Bog': 2, 'Cast Down': 2, "Chainer's Edict": 3, 'Chittering Rats': 4, 'Crypt Rats': 2, 'Cuombajj Witches': 4, 'Deadly Dispute': 2, 'Defile': 4, "Geth's Verdict": 2, 'Gray Merchant of Asphodel': 4, 'Phyrexian Rager': 2, 'Sign in Blood': 3, 'Snuff Out': 2, 'Thorn of the Black Rose': 2, 'Tithing Blade': 2, 'Troll of Khazad-dum': 2, "Witch's Cottage": 3, 'Contaminated Ground': 2, 'Duress': 2, 'Nihil Spellbomb': 2, 'Relic of Progenitus': 2, 'Suffocating Fumes': 2, 'Unexpected Fangs': 3, 'Wrench Mind': 2}
 
 Most needed cards are:
  - Forest: 69
@@ -141,11 +141,114 @@ Most needed cards are:
  - Deadly Dispute: 22
  - Brainstorm: 20
 
+*** OTHER DATA ***
+Most common creature types:
+- Human: 43
+- Necron: 20
+- Wall: 20
+- Elemental: 12
+- Wizard: 10
+- Construct: 9
+- Spirit: 8
+- Bird: 7
+- Zombie: 7
+- Artificer: 6
+- Djinn: 6
+- Druid: 6
+- Giant: 6
+- Kobold: 6
+- Shapeshifter: 6
+- Demon: 5
+- Efreet: 5
+- Faerie: 5
+- Insect: 5
+- Knight: 5
+- Soldier: 5
+- Warrior: 5
+- Beast: 4
+- Cleric: 4
+- Elf: 4
+- Goblin: 4
+- Horror: 4
+- Phyrexian: 4
+- Dragon: 3
+- Dwarf: 3
+- Fish: 3
+- Golem: 3
+- Illusion: 3
+- Incarnation: 3
+- Noble: 3
+- Ogre: 3
+- Orc: 3
+- Plant: 3
+- Treefolk: 3
+- Angel: 2
+- Ape: 2
+- Archer: 2
+- Avatar: 2
+- Cat: 2
+- C’tan: 2
+- Elephant: 2
+- Fungus: 2
+- Horse: 2
+- Juggernaut: 2
+- Merfolk: 2
+- Minion: 2
+- Nomad: 2
+- Ooze: 2
+- Ouphe: 2
+- Pirate: 2
+- Rogue: 2
+- Skeleton: 2
+- Snake: 2
+- Spider: 2
+- Troll: 2
+- Turtle: 2
+- Wolf: 2
+- Wraith: 2
+- Assassin: 1
+- Atog: 1
+- Barbarian: 1
+- Bard: 1
+- Basilisk: 1
+- Bat: 1
+- Bear: 1
+- Berserker: 1
+- Boar: 1
+- Camel: 1
+- Cockatrice: 1
+- Devil: 1
+- Dinosaur: 1
+- Drake: 1
+- Dryad: 1
+- Egg: 1
+- Elder: 1
+- Eye: 1
+- Frog: 1
+- Gargoyle: 1
+- Gnome: 1
+- God: 1
+- Gorgon: 1
+- Gremlin: 1
+- Hag: 1
+- Hydra: 1
+- Imp: 1
+- Jackal: 1
+- Kithkin: 1
+- Leviathan: 1
+- Manticore: 1
+- Minotaur: 1
+- Monk: 1
+- Monkey: 1
+- Nightmare: 1
+- Nightstalker: 1
+- Nymph: 1
+
 Percentages ordered by format:
-Commander: 8.60
-Standard: 8.43
-Pioneer: 5.44
-Legacy: 2.60
-Vintage: 2.56
-Modern: 2.38
-Pauper: 1.69
+Standard: 11.45
+Commander: 7.90
+Pioneer: 6.86
+Modern: 2.90
+Legacy: 2.27
+Vintage: 2.27
+Pauper: 1.86

@@ -37,3 +37,10 @@ Strip Mine;Legacy-Banned/Vintage-Restricted
 Wooded Foothills;Pioneer-Banned
 Mystic Forge;Vintage-Restricted
 Imprison;Legacy-Banned/Vintage-Banned/Commander-Banned
+Mana Drain;Legacy-Banned
+Pradesh Gypsies;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned
+Rebirth;Legacy-Banned/Vintage-Banned/Commander-Banned
+Invoke Prejudice;Legacy-Banned/Vintage-Banned/Commander-Banned
+Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned
+Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned
+Cleanse;Legacy-Banned/Vintage-Banned/Commander-Banned
