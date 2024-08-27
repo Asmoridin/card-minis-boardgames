@@ -1,9 +1,9 @@
-Tracking 807 cards.
-Have 93 out of 3250 total cards for a playset - 2.86 percent
+Tracking 818 cards.
+Have 93 out of 3291 total cards for a playset - 2.83 percent
 
 *** VINTAGE ***
-There are 807 Vintage legal cards
-Have 93 out of 3241 - 2.87 percent of a playset
+There are 818 Vintage legal cards
+Have 93 out of 3279 - 2.84 percent of a playset
 Chosen card is a(n) Creature from Chronicles - Ayesha Tanaka. I own 0 of 4
 
 Closest deck to completion is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 766 Legacy legal cards
-Have 92 out of 3194 - 2.88 percent of a playset
+There are 775 Legacy legal cards
+Have 92 out of 3230 - 2.85 percent of a playset
 Chosen card is a(n) Creature from Chronicles - Ayesha Tanaka. I own 0 of 4
 
 Closest deck to completion is at 74 cards.
@@ -42,28 +42,28 @@ Most needed cards are:
  - Mountain: 14
 
 *** COMMANDER ***
-There are 777 Commander legal cards
-Have 93 out of 922 - 10.09 percent of a playset
+There are 788 Commander legal cards
+Have 93 out of 933 - 9.97 percent of a playset
 Chosen card is a(n) Creature from Chronicles - Ayesha Tanaka. I own 0 of 1
 
 Closest deck to completion is at 47 cards.
 {"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Mind Stone': 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Thought Vessel': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
- - Plains: 112
- - Forest: 110
- - Island: 102
- - Mountain: 79
- - Command Tower: 24
+ - Plains: 134
+ - Forest: 129
+ - Island: 106
+ - Mountain: 87
+ - Command Tower: 28
  - Snow-Covered Swamp: 22
+ - Path to Exile: 11
+ - Snow-Covered Island: 11
+ - Snow-Covered Plains: 11
  - Lightning Greaves: 10
- - Blasphemous Act: 9
- - Rampant Growth: 9
- - Dark Ritual: 8
 
 *** MODERN ***
-There are 207 Modern legal cards
-Have 46 out of 958 - 4.80 percent of a playset
+There are 209 Modern legal cards
+Have 46 out of 966 - 4.76 percent of a playset
 Chosen card is a(n) Basic Land from Global Series: Jiang Yanggu and Mu Yanling - Forest. I own 0 of 30
 
 Closest deck to completion is at 74 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 49 Pioneer legal cards
-Have 36 out of 326 - 11.04 percent of a playset
+There are 50 Pioneer legal cards
+Have 36 out of 330 - 10.91 percent of a playset
 Chosen card is a(n) Basic Land from Global Series: Jiang Yanggu and Mu Yanling - Forest. I own 0 of 30
 
 Closest deck to completion is at 66 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Temporary Lockdown: 14
 
 *** PAUPER ***
-There are 264 Pauper legal cards
-Have 37 out of 1186 - 3.12 percent of a playset
+There are 265 Pauper legal cards
+Have 37 out of 1190 - 3.11 percent of a playset
 Chosen card is a(n) Creature from Arabian Nights - Cuombajj Witches. I own 0 of 4
 
 Closest deck to completion is at 59 cards.
@@ -143,36 +143,37 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Human: 59
+- Human: 62
 - Necron: 23
+- Warrior: 14
 - Elemental: 13
-- Warrior: 13
 - Wizard: 12
+- Cleric: 9
 - Construct: 9
 - Giant: 9
 - Spirit: 9
 - Bird: 8
 - Zombie: 8
 - Artificer: 7
-- Cleric: 7
 - Dragon: 7
 - Knight: 7
 - Shapeshifter: 7
+- Demon: 6
 - Djinn: 6
 - Druid: 6
 - Kobold: 6
 - Soldier: 6
-- Demon: 5
 - Efreet: 5
+- Elf: 5
 - Faerie: 5
 - Insect: 5
 - Beast: 4
 - Elder: 4
-- Elf: 4
 - Goblin: 4
 - Horror: 4
 - Phyrexian: 4
 - Angel: 3
+- Archer: 3
 - Cat: 3
 - Dwarf: 3
 - Fish: 3
@@ -187,7 +188,6 @@ Most common creature types:
 - Treefolk: 3
 - Wolf: 3
 - Ape: 2
-- Archer: 2
 - Avatar: 2
 - C’tan: 2
 - Elephant: 2
@@ -246,9 +246,9 @@ Most common creature types:
 
 Percentages ordered by format:
 Standard: 18.24
-Pioneer: 11.04
-Commander: 10.09
-Modern: 4.80
-Pauper: 3.12
-Legacy: 2.88
-Vintage: 2.87
+Pioneer: 10.91
+Commander: 9.97
+Modern: 4.76
+Pauper: 3.11
+Legacy: 2.85
+Vintage: 2.84

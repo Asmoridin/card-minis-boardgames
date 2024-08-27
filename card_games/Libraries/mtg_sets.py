@@ -50,6 +50,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms",
     "Zendikar Expeditions", "Zendikar Rising Expeditions", "Antiquities", "Commander's Arsenal",
     "Outlaws of Thunder Junction Breaking News", "March of the Machine Multiverse Legends",
+    "Weatherlight",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]

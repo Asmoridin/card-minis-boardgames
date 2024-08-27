@@ -47,3 +47,6 @@ Cleanse;Legacy-Banned/Vintage-Banned/Commander-Banned
 Cranial Plating;Pauper-Banned
 Brainstorm;Vintage-Restricted
 Demonic Consultation;Legacy-Banned/Vintage-Restricted
+Dig Through Time;Modern-Banned/Legacy-Banned/Vintage-Restricted
+Flooded Strand;Pioneer-Banned
+Necropotence;Legacy-Banned/Vintage-Restricted

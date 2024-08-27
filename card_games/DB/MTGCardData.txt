@@ -716,15 +716,26 @@ Jasmine Boreal;Legendary Creature — Human;G/W;Legends (Uncommon)/Time Spiral "
 Jedit Ojanen;Legendary Creature — Cat Warrior;W/U;Legends (Uncommon)/Masters Edition III (Common);0
 Jerrard of the Closed Fist;Legendary Creature — Human Knight;G/R;Legends (Uncommon)/Masters Edition III (Common);0
 Johan;Legendary Creature — Human Wizard;R/G/W;Legends (Rare)/Chronicles (Rare);0
-# Done with card 1662
+Kasimir the Lone Wolf;Legendary Creature — Human Warrior;U/W;Legends (Uncommon);0
+Kei Takahashi;Legendary Creature — Human Cleric;G/W;Legends (Rare)/Chronicles (Uncommon)/Masters Edition III (Uncommon);0
+Lady Caleria;Legendary Creature — Elf Archer;G/W;Legends (Rare)/Masters Edition III (Uncommon);0
+Lady Evangela;Legendary Creature — Human Cleric;W/U/B;Legends (Rare)/Masters Edition III (Uncommon);0
+Lady Orca;Legendary Creature — Demon;R/B;Legends (Uncommon)/Masters Edition III (Common);0
+# Done with card 1667
 #1672
 Nicol Bolas;Legendary Creature — Elder Dragon;U/B/R;Legends (Rare)/Time Spiral "Timeshifted" (Special)/Chronicles (Rare)/From the Vault: Dragons (Rare)/Masters Edition III (Rare)/Masters 25 (Rare);0
 #2445
 Demonic Consultation;Instant;B;Ice Age (Uncommon)/Masters Edition II (Uncommon);0
+#2478
+Necropotence;Enchantment;B;Fifth Edition (Rare)/Ice Age (Rare)/Masters Edition II (Rare)/From the Vault: Exiled (Mythic Rare)/Vintage Masters (Rare)/Eternal Masters (Mythic Rare)/Iconic Masters (Mythic Rare)/Wilds of Eldraine Enchanting Tales (Mythic Rare);0
 #2497
 Brainstorm;Instant;U;Fifth Edition (Common)/Ice Age (Common)/Mercadian Masques (Common)/Beatdown Box Set (Common)/Masters Edition II (Common)/Magic: The Gathering-Commander (Common)/Duel Decks: Izzet vs. Golgari (Common)/Magic: The Gathering—Conspiracy (Common)/Vintage Masters (Common)/Commander 2015 (Common)/Eternal Masters (Uncommon)/Masters 25 (Common)/Signature Spellbook: Jace (Rare)/Commander 2018 (Uncommon)/Double Masters (Common)/Strixhaven Mystical Archive (Rare)/Commander 2021 (Common)/Adventures in the Forgotten Realms Commander (Common)/Warhammer 40,000 Commander (Common)/Murders at Karlov Manor Commander (Common);0
+#3107
+Force of Will;Instant;U;Alliances (Uncommon)/Masters Edition (Rare)/Vintage Masters (Rare)/Eternal Masters (Mythic Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Double Masters (Mythic Rare)/Dominaria Remastered (Mythic Rare);0
 #3134
 Elvish Spirit Guide;Creature — Elf Spirit;G;Alliances (Uncommon)/Masters Edition II (Uncommon)/Dominaria Remastered (Uncommon);0
+#4454
+Doomsday;Sorcery;B;Classic Sixth Edition (Rare)/Weatherlight (Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Masters 25 (Mythic Rare);0
 #4636
 Ancient Tomb;Land;C;Tempest (Uncommon)/From the Vault: Realms (Mythic Rare)/Vintage Masters (Rare)/Zendikar Expeditions (Mythic Rare)/Ultimate Masters (Rare)/Ultimate Box Toppers (Special)/Zendikar Rising Expeditions (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare);0
 #4671
@@ -733,6 +744,8 @@ Living Death;Sorcery;B;Tempest (Rare)/Battle Royale Box Set (Rare)/Duel Decks: P
 Wasteland;Land;C;Tempest (Uncommon)/Tempest Remastered (Rare)/Zendikar Expeditions (Mythic Rare)/Eternal Masters (Rare)/Zendikar Rising Expeditions (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/Magic The Gathering—Fallout (Rare);0
 #35194
 Mutilate;Sorcery;B;Torment (Rare)/Duel Decks: Garruk vs. Liliana (Rare)/Magic 2013 (Rare)/Commander 2014 (Rare)/Duel Decks Anthology, Garruk vs. Liliana (Rare)/Warhammer 40,000 Commander (Rare);1
+#39503
+Flooded Strand;Land;C;Onslaught (Rare)/Khans of Tarkir (Rare)/Zendikar Expeditions (Mythic Rare)/Zendikar Rising Expeditions (Mythic Rare)/Modern Horizons 3 (Rare);0
 #39506
 Wooded Foothills;Land;C;Onslaught (Rare)/Khans of Tarkir (Rare)/Zendikar Expeditions (Mythic Rare)/Zendikar Rising Expeditions (Mythic Rare)/Modern Horizons 3 (Rare);0
 #41139
@@ -759,10 +772,14 @@ Reliquary Tower;Land;C;Conflux (Uncommon)/Magic 2013 (Uncommon)/Commander 2014 (
 Go for the Throat;Instant;B;Mirrodin Besieged (Uncommon)/Commander 2017 (Uncommon)/Innistrad: Midnight Hunt Commander (Uncommon)/Double Masters 2022 (Uncommon)/Warhammer 40,000 Commander (Common)/The Brothers' War (Uncommon)/March of the Machine Commander (Uncommon)/The Lord of the Rings: Tales of Middle Earth Commander (Uncommon)/Assassin's Creed (Uncommon);1
 #214345
 Caged Sun;Artifact;C;New Phyrexia (Rare)/Commander 2014 (Rare)/Commander Anthology 2018 (Rare)/Warhammer 40,000 Commander (Rare)/The Brothers' War Retro Artifacts (Mythic Rare);1
+#228255
+Flusterstorm;Instant;U;Magic: The Gathering-Commander (Rare)/Vintage Masters (Rare)/Iconic Masters (Rare)/Modern Horizons (Rare)/Modern Horizons 3 (Rare);0
 #230066
 Mental Misstep;Instant;U;New Phyrexia (Uncommon);0
 #233181
 Scavenging Ooze;Creature — Ooze;G;Magic: The Gathering-Commander (Rare)/Magic 2014 Core Set (Rare)/Commander 2016 (Rare)/Modern Masters 2017 Edition (Rare)/Commander Anthology 2018 (Rare)/Secret Lair Drop (Rare)/Core Set 2021 (Rare)/Streets of New Capenna Commander (Rare)/Phyrexia: All Will Be One Commander (Rare);0
+#386518
+Dig Through Time;Instant;U;Khans of Tarkir (Rare)/Ultimate Masters (Rare)/Secret Lair Drop (Rare)/Commander 2021 (Rare)/Streets of New Capenna Commander (Rare)/Wilds of Eldraine Commander (Rare)/Outlaws of Thunder Junction Commander (Rare);0
 #389466
 Commander's Sphere;Artifact;C;Commander 2014 (Common)/Commander 2016 (Common)/Commander Anthology (Common)/Commander 2017 (Common)/Commander Anthology 2018 (Common)/Commander 2018 (Common)/Commander 2019 (Common)/Ikoria Commander (Common)/Zendikar Rising Commander (Common)/Commander Legends (Common)/Kaldheim Commander (Common)/Commander 2021 (Common)/Adventures in the Forgotten Realms Commander (Common)/Innistrad: Midnight Hunt Commander (Common)/Innistrad: Crimson Vow Commander (Common)/Streets of New Capenna Commander (Common)/Dominaria United Commander (Common)/Warhammer 40,000 Commander (Common)/The Brothers' War Commander (Common)/Phyrexia: All Will Be One Commander (Common)/March of the Machine Commander (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Commander Masters (Common)/Doctor Who Commander (Common)/The Lost Caverns of Ixalan Commander (Common);1
 #389611
