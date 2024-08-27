@@ -239,7 +239,7 @@ for line in lines:
             creature_types[subtype] += 1
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
-    if 'Legends' in card_sets:
+    if 'The Dark' in card_sets:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -589,7 +589,7 @@ if __name__ == "__main__":
 
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print("Most common creature types:", out_file_h)
-    USED_TYPES = ['Wall']
+    USED_TYPES = ['Wall', 'Necron', ]
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
@@ -602,4 +602,4 @@ if __name__ == "__main__":
         double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
 
     print(SET_CHECK)
-    print("Above should be 310 for Legends")
+    print("Above should be 119 for The Dark")

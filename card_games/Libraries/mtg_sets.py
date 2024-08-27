@@ -41,7 +41,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Duel Decks: Izzet vs. Golgari", "Duel Decks: Merfolk vs. Goblins", "Odyssey", "Legions",
     "Duel Decks: Elspeth vs. Kiora", "Duel Decks: Mind vs. Might", "Guild Kit: Dimir",
     "Guild Kit: Izzet", "Guild Kit: Azorius", "Guild Kit: Simic", "Game Night 2019",
-    "Duel Decks: Speed vs. Cunning", "Duel Decks: Elves vs. Inventors", "Legends",
+    "Duel Decks: Speed vs. Cunning", "Duel Decks: Elves vs. Inventors", "Legends", "The Dark",
     "Premium Deck Series: Slivers", "Jurassic World Collection Cards", "Chronicles",
     "Planechase Anthology", "Planechase 2012 Edition", "Duel Decks: Blessed vs. Cursed",
     "Unfinity", "From the Vault: Angels", "Magic: The Gathering—Conspiracy", "Guild Kit: Golgari",
