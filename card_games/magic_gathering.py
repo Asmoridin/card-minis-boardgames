@@ -589,6 +589,9 @@ if __name__ == "__main__":
 
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print("Most common creature types:", out_file_h)
+    USED_TYPES = ['Wall']
+    for del_type in USED_TYPES:
+        del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)

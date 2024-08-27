@@ -1,133 +1,133 @@
-Tracking 733 cards.
-Have 67 out of 2957 total cards for a playset - 2.27 percent
+Tracking 807 cards.
+Have 93 out of 3250 total cards for a playset - 2.86 percent
 
 *** VINTAGE ***
-There are 733 Vintage legal cards
-Have 67 out of 2951 - 2.27 percent of a playset
-Chosen card is a(n) Artifact from Antiquities - Armageddon Clock. I own 0 of 4
+There are 807 Vintage legal cards
+Have 93 out of 3241 - 2.87 percent of a playset
+Chosen card is a(n) Creature from Chronicles - Ayesha Tanaka. I own 0 of 4
 
 Closest deck to completion is at 73 cards.
-{'Ancestral Recall': 1, 'Ancient Tomb': 4, 'Black Lotus': 1, 'Coveted Jewel': 4, 'Force of Will': 4, 'Grim Monolith': 3, 'Island': 1, 'Karn, the Great Creator': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 1, "Mishra's Workshop": 4, 'Mox Emerald': 1, 'Mox Jet': 1, 'Mox Opal': 1, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, 'Paradoxical Outcome': 4, 'Phyrexian Metamorph': 4, 'Sink into Stupor': 2, 'The One Ring': 4, 'Time Vault': 1, 'Time Walk': 1, 'Tinker': 1, 'Tolarian Academy': 1, 'Trinisphere': 1, "Urza's Saga": 4, 'Vexing Bauble': 3, 'Argentum Masticore': 4, 'Dismember': 2, 'Force of Negation': 2, "Grafdigger's Cage": 1, 'Mindbreak Trap': 1, 'Mycosynth Lattice': 1, 'Pithing Needle': 1, 'Wurmcoil Engine': 3}
+{'Balustrade Spy': 4, 'Black Lotus': 1, 'Boggart Trawler': 4, 'Cabal Therapy': 1, 'Chancellor of the Annex': 4, 'Chrome Mox': 4, 'Dark Ritual': 4, 'Demonic Tutor': 1, 'Fell the Profane': 3, 'Force of Will': 4, 'Goblin Charbelcher': 4, 'Hydroelectric Specimen': 1, 'Lotus Petal': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Mox Emerald': 1, 'Mox Jet': 1, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, 'Narcomoeba': 4, 'Pact of Negation': 4, 'Sink into Stupor': 4, "Thassa's Oracle": 1, 'Tinker': 1, 'Undercity Informer': 4, 'Elvish Spirit Guide': 3, "Lion's Eye Diamond": 1, 'Mental Misstep': 1, 'Sheoldred, the Apocalypse': 1, 'Simian Spirit Guide': 2, 'Slaughter Pact': 4}
 
 Most needed cards are:
- - Force of Will: 36
- - Wasteland: 30
- - Urza's Saga: 19
- - Null Rod: 18
- - Underground Sea: 18
- - Ancient Tomb: 16
- - Force of Negation: 16
- - Vexing Bauble: 16
- - Force of Vigor: 14
- - Psychic Frog: 14
+ - Force of Will: 16
+ - Wasteland: 14
+ - Leyline of the Void: 12
+ - Psychic Frog: 10
+ - Underground Sea: 10
+ - Chancellor of the Annex: 8
+ - Dark Ritual: 8
+ - Force of Negation: 8
+ - Grief: 8
+ - Narcomoeba: 8
 
 *** LEGACY ***
-There are 693 Legacy legal cards
-Have 66 out of 2902 - 2.27 percent of a playset
-Chosen card is a(n) Artifact from Antiquities - Armageddon Clock. I own 0 of 4
+There are 766 Legacy legal cards
+Have 92 out of 3194 - 2.88 percent of a playset
+Chosen card is a(n) Creature from Chronicles - Ayesha Tanaka. I own 0 of 4
 
 Closest deck to completion is at 74 cards.
-{'Brainstorm': 4, 'Daze': 3, 'Fatal Push': 4, 'Flooded Strand': 1, 'Force of Will': 4, 'Go for the Throat': 2, 'Grief': 4, 'Island': 1, 'Orcish Bowmasters': 3, 'Polluted Delta': 4, 'Ponder': 4, 'Psychic Frog': 4, 'Reanimate': 4, "Sheoldred's Edict": 1, 'Sink into Stupor': 1, 'Tamiyo, Inquisitive Student': 4, 'Troll of Khazad-dum': 3, 'Undercity Sewers': 1, 'Underground Sea': 4, 'Wasteland': 4, 'Brazen Borrower': 1, 'Consign to Memory': 2, 'Dark Betrayal': 1, 'Engineered Explosives': 1, 'Force of Negation': 2, 'Harbinger of the Seas': 2, 'Nihil Spellbomb': 1, 'Null Rod': 1, 'Surgical Extraction': 2, 'Unlicensed Hearse': 1}
+{'Brainstorm': 4, 'Cephalid Illusionist': 4, 'Flooded Strand': 4, 'Force of Negation': 3, 'Force of Will': 4, 'Hedge Maze': 1, 'Island': 1, 'Lotus Petal': 1, "Memory's Journey": 1, 'Meticulous Archive': 1, 'Misty Rainforest': 4, 'Mystic Sanctuary': 1, 'Nadu, Winged Wisdom': 4, 'Narcomoeba': 3, 'Nomads en-Kor': 4, 'Plains': 1, 'Ponder': 4, 'Savannah': 1, 'Shuko': 2, 'Swords to Plowshares': 4, 'Teferi, Time Raveler': 3, "Thassa's Oracle": 1, 'Tropical Island': 1, 'Tundra': 2, "Urza's Saga": 3, 'Consign to Memory': 3, 'Haywire Mite': 1, 'Prismatic Ending': 2, 'Serenity': 2, 'Soul-Guide Lantern': 1, 'Surgical Extraction': 3}
 
 Most needed cards are:
- - Brainstorm: 36
- - Force of Will: 36
- - Ponder: 36
- - Wasteland: 29
- - Consign to Memory: 20
- - Daze: 20
+ - Brainstorm: 28
+ - Force of Will: 28
+ - Ponder: 28
+ - Wasteland: 22
  - Swords to Plowshares: 20
  - Misty Rainforest: 19
- - Polluted Delta: 19
- - Psychic Frog: 18
+ - Consign to Memory: 16
+ - Daze: 14
+ - Flooded Strand: 14
+ - Mountain: 14
 
 *** COMMANDER ***
-There are 703 Commander legal cards
-Have 67 out of 848 - 7.90 percent of a playset
-Chosen card is a(n) Artifact from Antiquities - Armageddon Clock. I own 0 of 1
+There are 777 Commander legal cards
+Have 93 out of 922 - 10.09 percent of a playset
+Chosen card is a(n) Creature from Chronicles - Ayesha Tanaka. I own 0 of 1
 
-Closest deck to completion is at 52 cards.
-{'Arcane Signet': 1, "Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Defile': 1, 'Disciple of the Vault': 1, 'Dread Return': 1, 'Feed the Swarm': 1, 'Go for the Throat': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Mind Stone': 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Thought Vessel': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Triarch Praetorian': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
+Closest deck to completion is at 47 cards.
+{"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Mind Stone': 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Thought Vessel': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
- - Forest: 30
- - Island: 28
- - Mountain: 22
- - Snow-Covered Swamp: 18
- - Swamp: 12
- - Arcane Signet: 11
- - Plains: 8
- - Command Tower: 7
- - Lightning Greaves: 6
- - Phyrexian Tower: 6
+ - Plains: 112
+ - Forest: 110
+ - Island: 102
+ - Mountain: 79
+ - Command Tower: 24
+ - Snow-Covered Swamp: 22
+ - Lightning Greaves: 10
+ - Blasphemous Act: 9
+ - Rampant Growth: 9
+ - Dark Ritual: 8
 
 *** MODERN ***
-There are 192 Modern legal cards
-Have 26 out of 898 - 2.90 percent of a playset
-Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
+There are 207 Modern legal cards
+Have 46 out of 958 - 4.80 percent of a playset
+Chosen card is a(n) Basic Land from Global Series: Jiang Yanggu and Mu Yanling - Forest. I own 0 of 30
 
-Closest deck to completion is at 66 cards.
-{'Boggart Trawler': 4, 'Fatal Push': 3, 'Fell the Profane': 4, 'Grief': 4, 'Inquisition of Kozilek': 4, 'Malakir Rebirth': 4, 'March of Wretched Sorrow': 4, 'Necrodominance': 4, 'Orcish Bowmasters': 4, 'Phyrexian Tower': 2, 'Sheoldred, the Apocalypse': 4, 'Soul Spike': 4, 'Takenuma, Abandoned Mire': 1, 'The One Ring': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Break the Ice': 3, 'Cling to Dust': 1, 'Dauthi Voidwalker': 3, 'Force of Despair': 1, 'Plague Engineer': 1, 'Soulless Jailer': 2, 'Surgical Extraction': 1, 'Thoughtseize': 2, 'Toxic Deluge': 1}
+Closest deck to completion is at 74 cards.
+{'Birthing Ritual': 4, 'Blooming Marsh': 2, 'Boggart Trawler': 1, 'Boseiju, Who Endures': 2, 'Chord of Calling': 2, 'Chthonian Nightmare': 2, 'Delighted Halfling': 4, 'Dryad Arbor': 1, 'Endurance': 3, 'Eternal Witness': 1, 'Forest': 2, 'Fulminator Mage': 2, "Geralf's Messenger": 1, 'Gilded Goose': 1, 'Grist, the Hunger Tide': 1, 'Hapatra, Vizier of Poisons': 1, 'Haywire Mite': 1, 'Marionette Apprentice': 3, 'Orcish Bowmasters': 3, 'Overgrown Tomb': 2, 'Pendelhaven': 1, 'Phyrexian Tower': 1, 'Prosperous Innkeeper': 3, 'Twilight Mire': 1, 'Underground Mortuary': 2, 'Verdant Catacombs': 4, 'Wooded Foothills': 2, 'Yawgmoth, Thran Physician': 4, 'Young Wolf': 4, 'Accursed Marauder': 1, 'Collector Ouphe': 1, 'Damping Sphere': 2, 'Fatal Push': 3, 'Force of Vigor': 1, 'Plague Engineer': 1, 'Reclamation Sage': 1, 'Soulless Jailer': 1, 'Thoughtseize': 2}
 
 Most needed cards are:
- - Grief: 16
- - The One Ring: 16
- - Urza's Saga: 15
  - Arid Mesa: 14
- - Flooded Strand: 14
- - Dismember: 11
- - Orcish Bowmasters: 11
- - Thoughtseize: 11
- - Fatal Push: 10
- - Harsh Mentor: 10
+ - Flooded Strand: 8
+ - Galvanic Discharge: 8
+ - Lightning Bolt: 8
+ - Phlage, Titan of Fire's Fury: 8
+ - The One Ring: 8
+ - Harsh Mentor: 7
+ - Wooded Foothills: 7
+ - Mountain: 6
+ - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 44 Pioneer legal cards
-Have 21 out of 306 - 6.86 percent of a playset
-Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
+There are 49 Pioneer legal cards
+Have 36 out of 326 - 11.04 percent of a playset
+Chosen card is a(n) Basic Land from Global Series: Jiang Yanggu and Mu Yanling - Forest. I own 0 of 30
 
-Closest deck to completion is at 67 cards.
-{"Bandit's Talent": 2, 'Castle Locthwain': 3, 'Demolition Field': 1, 'Duress': 4, 'Extinction Event': 2, 'Fatal Push': 4, 'Field of Ruin': 4, 'Geier Reach Sanitarium': 3, 'Go Blank': 3, 'Go for the Throat': 1, 'Hive of the Eye Tyrant': 2, 'Hostile Investigator': 2, 'Liliana of the Veil': 3, "Sheoldred's Edict": 4, 'Sheoldred, the Apocalypse': 3, 'Sunken Citadel': 3, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Waste Not': 4, 'Blot Out': 1, 'Graveyard Trespasser': 2, 'Invoke Despair': 3, "Knight of Dusk's Shadow": 2, 'Mazemind Tome': 2, 'Path of Peril': 2, 'Pithing Needle': 1}
+Closest deck to completion is at 66 cards.
+{"Bandit's Talent": 2, 'Castle Locthwain': 3, 'Demolition Field': 1, 'Duress': 4, 'Extinction Event': 2, 'Fatal Push': 4, 'Field of Ruin': 4, 'Geier Reach Sanitarium': 3, 'Go Blank': 3, 'Hive of the Eye Tyrant': 2, 'Hostile Investigator': 2, 'Liliana of the Veil': 3, "Sheoldred's Edict": 4, 'Sheoldred, the Apocalypse': 3, 'Sunken Citadel': 3, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Waste Not': 4, 'Blot Out': 1, 'Graveyard Trespasser': 2, 'Invoke Despair': 3, "Knight of Dusk's Shadow": 2, 'Mazemind Tome': 2, 'Path of Peril': 2, 'Pithing Needle': 1}
 
 Most needed cards are:
- - Fatal Push: 27
- - Plains: 23
- - Thoughtseize: 22
- - Mountain: 20
- - Mutavault: 19
+ - Plains: 22
+ - Fatal Push: 20
+ - Mountain: 19
  - Snow-Covered Island: 18
  - Forest: 17
  - Mystical Dispute: 17
+ - Thoughtseize: 16
  - Island: 15
+ - Mutavault: 15
  - Containment Priest: 13
 
 *** STANDARD ***
-There are 9 Standard legal cards
-Have 19 out of 166 - 11.45 percent of a playset
+There are 10 Standard legal cards
+Have 31 out of 170 - 18.24 percent of a playset
 Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
 
-Closest deck to completion is at 69 cards.
-{'Blooming Marsh': 4, 'Caustic Bronco': 3, 'Cut Down': 2, 'Deep-Cavern Bat': 4, 'Duress': 4, 'Fabled Passage': 2, 'Forest': 4, 'Fountainport': 2, 'Glissa Sunslayer': 2, 'Go for the Throat': 4, "Innkeeper's Talent": 4, 'Liliana of the Veil': 4, 'Llanowar Wastes': 4, 'Mosswood Dreadknight': 4, 'Restless Cottage': 4, 'Sheoldred, the Apocalypse': 2, "Vraska, Betrayal's Sting": 4, 'Choking Miasma': 4, "Gix's Command": 2, 'Nissa, Ascended Animist': 2, 'Tear Asunder': 2, 'Tranquil Frillback': 2}
+Closest deck to completion is at 68 cards.
+{'Blooming Marsh': 4, 'Caustic Bronco': 3, 'Cut Down': 2, 'Deep-Cavern Bat': 4, 'Duress': 4, 'Fabled Passage': 2, 'Forest': 4, 'Fountainport': 2, 'Glissa Sunslayer': 2, 'Go for the Throat': 3, "Innkeeper's Talent": 4, 'Liliana of the Veil': 4, 'Llanowar Wastes': 4, 'Mosswood Dreadknight': 4, 'Restless Cottage': 4, 'Sheoldred, the Apocalypse': 2, "Vraska, Betrayal's Sting": 4, 'Choking Miasma': 4, "Gix's Command": 2, 'Nissa, Ascended Animist': 2, 'Tear Asunder': 2, 'Tranquil Frillback': 2}
 
 Most needed cards are:
  - Plains: 36
  - Mountain: 33
  - Deep-Cavern Bat: 20
- - Go for the Throat: 19
  - Urabrask's Forge: 18
  - Duress: 17
  - Get Lost: 17
  - Cut Down: 15
  - Cavern of Souls: 14
  - Island: 14
+ - Temporary Lockdown: 14
 
 *** PAUPER ***
-There are 237 Pauper legal cards
-Have 20 out of 1078 - 1.86 percent of a playset
+There are 264 Pauper legal cards
+Have 37 out of 1186 - 3.12 percent of a playset
 Chosen card is a(n) Creature from Arabian Nights - Cuombajj Witches. I own 0 of 4
 
-Closest deck to completion is at 60 cards.
-{'Bojuka Bog': 2, 'Cast Down': 2, "Chainer's Edict": 3, 'Chittering Rats': 4, 'Crypt Rats': 2, 'Cuombajj Witches': 4, 'Deadly Dispute': 2, 'Defile': 4, "Geth's Verdict": 2, 'Gray Merchant of Asphodel': 4, 'Phyrexian Rager': 2, 'Sign in Blood': 3, 'Snuff Out': 2, 'Thorn of the Black Rose': 2, 'Tithing Blade': 2, 'Troll of Khazad-dum': 2, "Witch's Cottage": 3, 'Contaminated Ground': 2, 'Duress': 2, 'Nihil Spellbomb': 2, 'Relic of Progenitus': 2, 'Suffocating Fumes': 2, 'Unexpected Fangs': 3, 'Wrench Mind': 2}
+Closest deck to completion is at 59 cards.
+{'Bojuka Bog': 2, 'Cast Down': 2, "Chainer's Edict": 3, 'Chittering Rats': 4, 'Crypt Rats': 2, 'Cuombajj Witches': 4, 'Deadly Dispute': 2, 'Defile': 3, "Geth's Verdict": 2, 'Gray Merchant of Asphodel': 4, 'Phyrexian Rager': 2, 'Sign in Blood': 3, 'Snuff Out': 2, 'Thorn of the Black Rose': 2, 'Tithing Blade': 2, 'Troll of Khazad-dum': 2, "Witch's Cottage": 3, 'Contaminated Ground': 2, 'Duress': 2, 'Nihil Spellbomb': 2, 'Relic of Progenitus': 2, 'Suffocating Fumes': 2, 'Unexpected Fangs': 3, 'Wrench Mind': 2}
 
 Most needed cards are:
  - Forest: 69
@@ -143,35 +143,37 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Human: 43
-- Necron: 20
-- Wall: 20
-- Elemental: 12
-- Wizard: 10
+- Human: 59
+- Necron: 23
+- Elemental: 13
+- Warrior: 13
+- Wizard: 12
 - Construct: 9
-- Spirit: 8
-- Bird: 7
-- Zombie: 7
-- Artificer: 6
+- Giant: 9
+- Spirit: 9
+- Bird: 8
+- Zombie: 8
+- Artificer: 7
+- Cleric: 7
+- Dragon: 7
+- Knight: 7
+- Shapeshifter: 7
 - Djinn: 6
 - Druid: 6
-- Giant: 6
 - Kobold: 6
-- Shapeshifter: 6
+- Soldier: 6
 - Demon: 5
 - Efreet: 5
 - Faerie: 5
 - Insect: 5
-- Knight: 5
-- Soldier: 5
-- Warrior: 5
 - Beast: 4
-- Cleric: 4
+- Elder: 4
 - Elf: 4
 - Goblin: 4
 - Horror: 4
 - Phyrexian: 4
-- Dragon: 3
+- Angel: 3
+- Cat: 3
 - Dwarf: 3
 - Fish: 3
 - Golem: 3
@@ -181,12 +183,12 @@ Most common creature types:
 - Ogre: 3
 - Orc: 3
 - Plant: 3
+- Rogue: 3
 - Treefolk: 3
-- Angel: 2
+- Wolf: 3
 - Ape: 2
 - Archer: 2
 - Avatar: 2
-- Cat: 2
 - C’tan: 2
 - Elephant: 2
 - Fungus: 2
@@ -198,14 +200,13 @@ Most common creature types:
 - Ooze: 2
 - Ouphe: 2
 - Pirate: 2
-- Rogue: 2
 - Skeleton: 2
 - Snake: 2
 - Spider: 2
 - Troll: 2
 - Turtle: 2
-- Wolf: 2
 - Wraith: 2
+- Wurm: 2
 - Assassin: 1
 - Atog: 1
 - Barbarian: 1
@@ -222,7 +223,6 @@ Most common creature types:
 - Drake: 1
 - Dryad: 1
 - Egg: 1
-- Elder: 1
 - Eye: 1
 - Frog: 1
 - Gargoyle: 1
@@ -245,10 +245,10 @@ Most common creature types:
 - Nymph: 1
 
 Percentages ordered by format:
-Standard: 11.45
-Commander: 7.90
-Pioneer: 6.86
-Modern: 2.90
-Legacy: 2.27
-Vintage: 2.27
-Pauper: 1.86
+Standard: 18.24
+Pioneer: 11.04
+Commander: 10.09
+Modern: 4.80
+Pauper: 3.12
+Legacy: 2.88
+Vintage: 2.87

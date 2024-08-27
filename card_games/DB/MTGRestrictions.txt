@@ -44,3 +44,6 @@ Invoke Prejudice;Legacy-Banned/Vintage-Banned/Commander-Banned
 Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned
 Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned
 Cleanse;Legacy-Banned/Vintage-Banned/Commander-Banned
+Cranial Plating;Pauper-Banned
+Brainstorm;Vintage-Restricted
+Demonic Consultation;Legacy-Banned/Vintage-Restricted

@@ -55,7 +55,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]
 ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set",
     "Amonkhet Remastered", "Shadows Over Innistrad Remastered", "Kaladesh Remastered",
-    "Alchemy Horizons: Baldur's Gate",
+    "Alchemy Horizons: Baldur's Gate", "Historic Anthology 2",
     ]
 
 # Sets that were only released on MTG Online.  We care about the rarity, but that's it.
