@@ -50,13 +50,13 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms",
     "Zendikar Expeditions", "Zendikar Rising Expeditions", "Antiquities", "Commander's Arsenal",
     "Outlaws of Thunder Junction Breaking News", "March of the Machine Multiverse Legends",
-    "Weatherlight",
+    "Weatherlight", "Fallen Empires",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]
 ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set",
     "Amonkhet Remastered", "Shadows Over Innistrad Remastered", "Kaladesh Remastered",
-    "Alchemy Horizons: Baldur's Gate", "Historic Anthology 2",
+    "Alchemy Horizons: Baldur's Gate", "Historic Anthology 2", "Historical Anthology 1",
     ]
 
 # Sets that were only released on MTG Online.  We care about the rarity, but that's it.
