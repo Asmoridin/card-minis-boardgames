@@ -223,12 +223,17 @@ lines = [line.strip() for line in lines]
 restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
+SET_CHECK = 0
+CHECK_SET = "Ice Age"
+CHECK_AMOUNT = 383
+SET_CHECK += 10 # Extra basic lands
+
 TOTAL_OWN = 0
 TOTAL_MAX = 0
 raw_list = []
 card_names = set()
 creature_types = {}
-SET_CHECK = 0
+
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -252,7 +257,7 @@ for line in lines:
             creature_types[subtype] += 1
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
-    if 'Fallen Empires' in card_sets:
+    if CHECK_SET in card_sets:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -615,4 +620,4 @@ if __name__ == "__main__":
         double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
 
     print(SET_CHECK)
-    print("Above should be 102 for Fallen Empires")
+    print(f"Above should be {CHECK_AMOUNT} for {CHECK_SET}")

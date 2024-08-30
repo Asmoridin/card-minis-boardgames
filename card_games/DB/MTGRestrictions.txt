@@ -52,3 +52,5 @@ Flooded Strand;Pioneer-Banned
 Necropotence;Legacy-Banned/Vintage-Restricted
 Karakas;Commander-Banned
 Vault of Whispers;Modern-Banned
+Hymn to Tourach;Pauper-Banned
+High Tide;Pauper-Banned

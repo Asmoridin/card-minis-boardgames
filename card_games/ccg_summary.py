@@ -19,6 +19,7 @@ import card_games.dragon_dice as dragon_dice
 import card_games.star_trek_second_edition as star_trek_second_edition
 import card_games.tribbles as tribbles
 import card_games.star_wars_unlimited as star_wars_unlimited
+import card_games.magic_gathering as magic_gathering
 
 if os.getcwd().endswith('card-minis-boardgames'):
     sys.path.append('.')
@@ -33,7 +34,7 @@ else:
 
 started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited, 
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
-    lorcana, one_piece]
+    lorcana, one_piece, magic_gathering]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0

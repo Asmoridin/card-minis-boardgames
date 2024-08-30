@@ -266,6 +266,7 @@ Brachio Bomber (ST04-015): 4
 Brook (EB01-045): 4
 Brook (OP01-022): 4
 Brook (OP02-04): 4
+Brook (ST14-010): 4
 Buchi (OP03-034): 4
 Buggy (OP02-058): 4
 Buggy (OP03-032): 4
@@ -345,6 +346,7 @@ Fourtricks (EB01-025): 4
 Franky (OP01-021): 4
 Franky (OP04-063): 4
 Franky (ST01-010): 4
+Franky (ST14-009): 4
 Fukurokuju (OP01-110): 4
 Fukurou (OP03-088): 4
 Fullbody (ST06-009): 4
@@ -368,6 +370,8 @@ Green Star Rafflesia (OP01-028): 4
 Guard Point (ST01-014): 4
 Gum-Gum Bell (ST08-014): 4
 Gum-Gum Champion Rifle (EB01-028): 4
+Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon (ST14-015): 4
+Gum-Gum Giant Rifle (ST14-014): 4
 Gum-Gum Jet Spear (ST13-018): 4
 Gum-Gum King Kong Gun (OP04-093): 4
 Gum-Gum Pistol (ST08-015): 4
@@ -377,6 +381,7 @@ Hajrudin (OP01-018): 4
 Hajrudin (OP04-088): 4
 Hamlet (EB01-024): 4
 Hanger (OP04-050): 4
+Haredas (ST14-008): 4
 Haruta (OP03-009): 4
 Hatchan (OP03-033): 4
 Heat (ST02-011): 4
@@ -384,6 +389,7 @@ Heavenly Fire (OP04-117): 4
 Helmeppo (OP03-091): 4
 Helmeppo (P-020): 4
 Hera (OP04-111): 4
+Heracles (ST14-011): 4
 Higuma (ST08-008): 4
 Hitokiri Kamazo (OP01-108): 4
 Hody & Hyouzou (P-062): 4
@@ -391,6 +397,7 @@ Holedem (OP01-113): 4
 Hull Dismantler Slash (OP03-073): 4
 Humandrill (ST12-004): 4
 Hyogoro (OP01-020): 4
+I Have My Crew!! (ST14-016): 4
 I Smell Adventure!!! (P-002): 4
 I'm Gonna Be King of the Pirates!! (P-024): 4
 Ice Oni (OP04-047): 4
@@ -417,6 +424,7 @@ Jinbe (OP01-071): 4
 Jinbe (P-030): 4
 Jinbe (ST01-005): 4
 Jinbe (ST03-006): 4
+Jinbe (ST14-004): 4
 Just Shut Up and Come with Us!!!! (EB01-009): 4
 Kaido (OP01-094): 4
 Kaido (P-005): 4
@@ -476,6 +484,7 @@ Makino (OP02-015): 4
 Makino (ST08-009): 4
 Makino (ST13-012): 4
 Marco (OP01-023): 4
+Marco (P-071): 4
 Marshall.D.Teach (OP03-012): 4
 Marshall.D.Teach (ST03-014): 4
 Merry (OP03-052): 4
@@ -511,6 +520,7 @@ Monkey.D.Luffy (P-041): 4
 Monkey.D.Luffy (P-043): 4
 Monkey.D.Luffy (P-055): 4
 Monkey.D.Luffy (ST08-011): 4
+Monkey.D.Luffy (ST14-012): 4
 Mont Blanc Cricket (EB01-058): 4
 Morgan (P-026): 4
 Mountain God (EB01-018): 4
@@ -527,6 +537,7 @@ Ms. Monday (EB01-035): 4
 Nami (OP03-030): 4
 Nami (OP04-011): 4
 Nami (P-053): 4
+Nami (ST14-006): 4
 Namule (OP03-007): 4
 Napoleon (OP03-117): 4
 Navy HQ (ST06-17): 4
@@ -540,6 +551,7 @@ Nero (OP03-087): 4
 Nez-Palm Cannon (OP04-075): 4
 Nico Robin (OP01-017): 4
 Nico Robin (ST01-008): 4
+Nico Robin (ST14-007): 4
 Nojiko (OP03-048): 4
 Oars (OP06-083): 4
 Off-White (EB01-019): 4
@@ -586,6 +598,7 @@ Roronoa Zoro (P-042): 4
 Roronoa Zoro (P-056): 4
 Roronoa Zoro (ST01-013): 4
 Roronoa Zoro (ST12-008): 4
+Roronoa Zoro (ST14-013): 4
 Round Table (OP01-027): 4
 Sables (ST03-015): 4
 Sabo (OP07-118): 4
@@ -599,6 +612,7 @@ Sanji (P-050): 4
 Sanji (P-068): 4
 Sanji (ST01-004): 4
 Sanji (ST12-011): 4
+Sanji (ST14-003): 4
 Sasaki (OP01-101): 4
 Sasaki (OP04-048): 4
 Sasaki (ST04-006): 4
@@ -649,6 +663,7 @@ The Billion-fold World Trichiliocosm (OP06-038): 4
 The Weak Do Not Have the Right to Choose How They Die!!! (OP04-038): 4
 There's No Way You Could Defeat Me!! (EB01-010): 4
 Thousand Sunny (ST01-017): 4
+Thousand Sunny (ST14-017): 4
 Three Thousand Worlds (OP03-057): 4
 Thunder Bagua (OP01-119): 4
 Thunder Bolt (OP03-121): 4
@@ -659,12 +674,12 @@ Tony Tony.Chopper (OP01-015): 4
 Tony Tony.Chopper (OP02-034): 4
 Tony Tony.Chopper (OP04-010): 4
 Tony Tony.Chopper (OP07-066): 4
+Tony Tony.Chopper (ST14-005): 4
 Tooth Attack (OP03-037): 4
 Top Knot (OP03-074): 4
 Trafalgar Law (OP04-087): 4
 Trafalgar Law (P-009): 4
 Trafalgar Law (P-017): 4
-Trafalgar Law (P-038): 4
 Trafalgar Law (ST03-008): 4
 Trebol (OP04-030): 4
 Tropical Torment (OP03-120): 4
@@ -682,6 +697,7 @@ Usopp (OP03-041): 4
 Usopp (OP04-003): 4
 Usopp (P-049): 4
 Usopp (ST01-002): 4
+Usopp (ST14-002): 4
 Usopp's Pirate Crew (OP03-042): 4
 Uta (OP01-005): 4
 Uta (OP02-120): 4
@@ -986,6 +1002,7 @@ Monkey.D.Luffy (OP01-003): 1
 Monkey.D.Luffy (P-047): 1
 Monkey.D.Luffy (ST01-001): 1
 Monkey.D.Luffy (ST08-001): 1
+Monkey.D.Luffy (ST14-001): 1
 Mozambia (OP05-053): 1
 Mr.2.Bon.Kurei(Bentham) (OP02-064): 1
 Nefeltari Cobra (OP05-085): 1
@@ -1029,7 +1046,7 @@ Yama (OP05-113): 1
 Yasakani Sacred Jewel (OP02-118): 1
 You May Be a Fool...but I Still Love You (OP02-023): 1
 
-Missing leaders: (38)
+Missing leaders: (39)
 - Arlong (G/Y), (OP03-022)
 - Charlotte Linlin (B/Y), (OP03-077)
 - Charlotte Linlin (Y), (ST07-001)
@@ -1055,6 +1072,7 @@ Missing leaders: (38)
 - Monkey.D.Luffy (U), (P-047)
 - Monkey.D.Luffy (R), (ST01-001)
 - Monkey.D.Luffy (B), (ST08-001)
+- Monkey.D.Luffy (B), (ST14-001)
 - Portgas.D.Ace (R), (OP03-001)
 - Rebecca (U/B), (OP04-039)
 - Rob Lucci (B), (OP03-076)

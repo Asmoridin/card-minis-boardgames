@@ -41,8 +41,10 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 item_list = []
 dupe_check = set()
-num_leaders = 0
+NUM_LEADERS = 0
 for line in lines:
+    if line.startswith('#') or line == '':
+        continue
     line = line.split('#')[0]
     try:
         card_name, card_number, card_type, card_color, card_subtypes, card_set, \
@@ -73,7 +75,7 @@ for line in lines:
     CARD_MAX = 4
     if card_type == 'Leader':
         CARD_MAX = 1
-        num_leaders += 1
+        NUM_LEADERS += 1
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
     item_list.append((card_name, card_number, card_type, card_color, card_subtypes, card_set, \
@@ -121,7 +123,7 @@ if __name__ == "__main__":
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(SUMMARY_STRING, out_file_h)
 
-    double_print(f"\nThere are {num_leaders} leaders in the game\n", out_file_h)
+    double_print(f"\nThere are {NUM_LEADERS} leaders in the game\n", out_file_h)
 
     double_print(f"Chosen subtype is {chosen_subtype}, chosen color is {chosen_color}", out_file_h)
     double_print(f"Chosen card type: {chosen_type}, and chosen set: {chosen_set}", out_file_h)

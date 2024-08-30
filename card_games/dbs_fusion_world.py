@@ -29,9 +29,19 @@ TOTAL_MAX = 0
 item_list = []
 for line in lines:
     line = line.split('#')[0]
-    card_name, card_subtypes, card_type, card_color, card_cost, card_number, card_set, \
-        card_own = line.split(';')
-    card_own = int(card_own)
+    try:
+        card_name, card_subtypes, card_type, card_color, card_cost, card_number, card_set, \
+            card_own = line.split(';')
+    except ValueError:
+        print("Failed on line:")
+        print(line)
+        continue
+    try:
+        card_own = int(card_own)
+    except ValueError:
+        print("Issue with number on line:")
+        print(line)
+        continue
     if card_subtypes == '':
         print("Missing subtypes:")
         print(line)
@@ -44,7 +54,7 @@ for line in lines:
     if card_type not in ['Leader', 'Battle', 'Extra']:
         print("Invalid card type: " + card_type)
         continue
-    if card_color not in ['Green', 'Red', 'Blue', 'Yellow']:
+    if card_color not in ['Green', 'Red', 'Blue', 'Yellow', 'Black',]:
         print("Invalid card color: " + card_color)
         continue
     CARD_MAX = 4

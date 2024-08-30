@@ -1,9 +1,9 @@
-Tracking 985 cards.
-Have 100 out of 3959 total cards for a playset - 2.53 percent
+Tracking 1100 cards.
+Have 114 out of 4419 total cards for a playset - 2.58 percent
 
 *** VINTAGE ***
-There are 985 Vintage legal cards
-Have 100 out of 3947 - 2.53 percent of a playset
+There are 1100 Vintage legal cards
+Have 114 out of 4407 - 2.59 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,12 +22,12 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 942 Legacy legal cards
-Have 99 out of 3898 - 2.54 percent of a playset
+There are 1057 Legacy legal cards
+Have 113 out of 4358 - 2.59 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
-Closest deck to completion (Cephalid Breakfast) is at 74 cards.
-{'Brainstorm': 4, 'Cephalid Illusionist': 4, 'Flooded Strand': 4, 'Force of Negation': 3, 'Force of Will': 4, 'Hedge Maze': 1, 'Island': 1, 'Lotus Petal': 1, "Memory's Journey": 1, 'Meticulous Archive': 1, 'Misty Rainforest': 4, 'Mystic Sanctuary': 1, 'Nadu, Winged Wisdom': 4, 'Narcomoeba': 3, 'Nomads en-Kor': 4, 'Plains': 1, 'Ponder': 4, 'Savannah': 1, 'Shuko': 2, 'Swords to Plowshares': 4, 'Teferi, Time Raveler': 3, "Thassa's Oracle": 1, 'Tropical Island': 1, 'Tundra': 2, "Urza's Saga": 3, 'Consign to Memory': 3, 'Haywire Mite': 1, 'Prismatic Ending': 2, 'Serenity': 2, 'Soul-Guide Lantern': 1, 'Surgical Extraction': 3}
+Closest deck to completion (Cephalid Breakfast) is at 73 cards.
+{'Brainstorm': 4, 'Cephalid Illusionist': 4, 'Flooded Strand': 4, 'Force of Negation': 3, 'Force of Will': 4, 'Hedge Maze': 1, 'Lotus Petal': 1, "Memory's Journey": 1, 'Meticulous Archive': 1, 'Misty Rainforest': 4, 'Mystic Sanctuary': 1, 'Nadu, Winged Wisdom': 4, 'Narcomoeba': 3, 'Nomads en-Kor': 4, 'Plains': 1, 'Ponder': 4, 'Savannah': 1, 'Shuko': 2, 'Swords to Plowshares': 4, 'Teferi, Time Raveler': 3, "Thassa's Oracle": 1, 'Tropical Island': 1, 'Tundra': 2, "Urza's Saga": 3, 'Consign to Memory': 3, 'Haywire Mite': 1, 'Prismatic Ending': 2, 'Serenity': 2, 'Soul-Guide Lantern': 1, 'Surgical Extraction': 3}
 
 Most needed cards are:
  - Brainstorm: 28
@@ -42,8 +42,8 @@ Most needed cards are:
  - Mountain: 14
 
 *** COMMANDER ***
-There are 954 Commander legal cards
-Have 100 out of 1099 - 9.10 percent of a playset
+There are 1069 Commander legal cards
+Have 114 out of 1214 - 9.39 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 1
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
@@ -51,8 +51,8 @@ Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 
 Most needed cards are:
  - Forest: 233
- - Island: 208
  - Mountain: 188
+ - Island: 181
  - Plains: 181
  - Command Tower: 48
  - Snow-Covered Swamp: 23
@@ -62,12 +62,12 @@ Most needed cards are:
  - Urborg, Tomb of Yawgmoth: 16
 
 *** MODERN ***
-There are 234 Modern legal cards
-Have 49 out of 1066 - 4.60 percent of a playset
-Chosen card is a(n) Basic Land from Global Series: Jiang Yanggu and Mu Yanling - Forest. I own 0 of 30
+There are 253 Modern legal cards
+Have 63 out of 1142 - 5.52 percent of a playset
+Chosen card is a(n) Basic Land from Duel Decks: Heroes vs. Monsters - Forest. I own 0 of 30
 
-Closest deck to completion (Tron) is at 74 cards.
-{'All Is Dust': 3, 'Argentum Masticore': 2, 'Devourer of Destiny': 4, 'Disruptor Flute': 2, 'Eldrazi Temple': 4, 'Emrakul, the World Anew': 3, 'Expedition Map': 4, 'Karn, the Great Creator': 4, "Kozilek's Command": 4, 'Mind Stone': 3, 'The One Ring': 4, 'The Underworld Cookbook': 1, 'Trinisphere': 2, "Ugin's Labyrinth": 4, 'Ulamog, the Ceaseless Hunger': 1, "Urza's Mine": 4, "Urza's Power Plant": 4, "Urza's Saga": 3, "Urza's Tower": 4, 'Chalice of the Void': 1, 'Cityscape Leveler': 1, 'Cursed Totem': 1, 'Dismember': 2, 'Ensnaring Bridge': 1, 'Forsaken Monument': 1, 'Liquimetal Coating': 1, 'Sundering Titan': 1, 'The Filigree Sylex': 1, 'The Stone Brain': 2, "Tormod's Crypt": 1, 'Walking Ballista': 1}
+Closest deck to completion (Jeskai Control) is at 74 cards.
+{'Arena of Glory': 1, 'Arid Mesa': 4, 'Counterspell': 4, 'Dress Down': 1, 'Elegant Parlor': 1, 'Flooded Strand': 4, 'Force of Negation': 4, 'Galvanic Discharge': 4, 'Hallowed Fountain': 2, 'Invert Polarity': 2, 'Lorien Revealed': 2, 'Meticulous Archive': 1, "Minamo, School at Water's Edge": 1, 'Mountain': 1, 'Mystic Gate': 2, "Phlage, Titan of Fire's Fury": 3, 'Plains': 1, 'Scalding Tarn': 1, 'Solitude': 1, 'Spell Snare': 1, 'Steam Vents': 2, 'Subtlety': 4, 'Teferi, Time Raveler': 2, 'The One Ring': 4, 'Thundering Falls': 1, 'Tune the Narrative': 3, 'Wrath of the Skies': 3, 'Celestial Purge': 2, 'Consign to Memory': 3, 'Drannith Magistrate': 2, 'Mystical Dispute': 1, 'Narset, Parter of Veils': 1, 'Obsidian Charmaw': 2, 'Supreme Verdict': 1, 'Surgical Extraction': 2}
 
 Most needed cards are:
  - Arid Mesa: 14
@@ -82,9 +82,9 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 52 Pioneer legal cards
-Have 37 out of 338 - 10.95 percent of a playset
-Chosen card is a(n) Basic Land from Global Series: Jiang Yanggu and Mu Yanling - Forest. I own 0 of 30
+There are 65 Pioneer legal cards
+Have 51 out of 390 - 13.08 percent of a playset
+Chosen card is a(n) Basic Land from Duel Decks: Heroes vs. Monsters - Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
 {"Bandit's Talent": 2, 'Castle Locthwain': 3, 'Demolition Field': 1, 'Duress': 4, 'Extinction Event': 2, 'Fatal Push': 4, 'Field of Ruin': 4, 'Geier Reach Sanitarium': 3, 'Go Blank': 3, 'Hive of the Eye Tyrant': 2, 'Hostile Investigator': 2, 'Liliana of the Veil': 3, "Sheoldred's Edict": 4, 'Sheoldred, the Apocalypse': 3, 'Sunken Citadel': 3, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Waste Not': 4, 'Blot Out': 1, 'Graveyard Trespasser': 2, 'Invoke Despair': 3, "Knight of Dusk's Shadow": 2, 'Mazemind Tome': 2, 'Path of Peril': 2, 'Pithing Needle': 1}
@@ -97,14 +97,14 @@ Most needed cards are:
  - Forest: 17
  - Mystical Dispute: 17
  - Thoughtseize: 16
- - Island: 15
  - Mutavault: 15
  - Containment Priest: 13
+ - Kumano Faces Kakkazan: 12
 
 *** STANDARD ***
-There are 10 Standard legal cards
-Have 31 out of 170 - 18.24 percent of a playset
-Chosen card is a(n) Basic Land from Commander Legends - Forest. I own 0 of 30
+There are 23 Standard legal cards
+Have 45 out of 222 - 20.27 percent of a playset
+Chosen card is a(n) Basic Land from Duel Decks: Knights vs. Dragons - Forest. I own 0 of 30
 
 Closest deck to completion (Golgari Midrange) is at 68 cards.
 {'Blooming Marsh': 4, 'Caustic Bronco': 3, 'Cut Down': 2, 'Deep-Cavern Bat': 4, 'Duress': 4, 'Fabled Passage': 2, 'Forest': 4, 'Fountainport': 2, 'Glissa Sunslayer': 2, 'Go for the Throat': 3, "Innkeeper's Talent": 4, 'Liliana of the Veil': 4, 'Llanowar Wastes': 4, 'Mosswood Dreadknight': 4, 'Restless Cottage': 4, 'Sheoldred, the Apocalypse': 2, "Vraska, Betrayal's Sting": 4, 'Choking Miasma': 4, "Gix's Command": 2, 'Nissa, Ascended Animist': 2, 'Tear Asunder': 2, 'Tranquil Frillback': 2}
@@ -118,12 +118,12 @@ Most needed cards are:
  - Get Lost: 17
  - Cut Down: 15
  - Cavern of Souls: 14
- - Island: 14
  - Temporary Lockdown: 14
+ - Go for the Throat: 13
 
 *** PAUPER ***
-There are 333 Pauper legal cards
-Have 44 out of 1462 - 3.01 percent of a playset
+There are 383 Pauper legal cards
+Have 53 out of 1662 - 3.19 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -131,7 +131,7 @@ Closest deck to completion (Devotion) is at 59 cards.
 
 Most needed cards are:
  - Forest: 69
- - Island: 60
+ - Island: 52
  - Mountain: 41
  - Plains: 39
  - Lorien Revealed: 31
@@ -143,74 +143,82 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Warrior: 19
-- Wizard: 19
-- Cleric: 15
+- Cleric: 24
+- Warrior: 22
+- Wizard: 22
+- Soldier: 21
 - Elemental: 15
+- Goblin: 13
+- Knight: 12
 - Zombie: 12
-- Goblin: 11
+- Elf: 11
 - Spirit: 11
+- Bird: 10
 - Construct: 10
 - Giant: 10
-- Bird: 9
 - Dragon: 9
-- Knight: 9
-- Soldier: 9
-- Druid: 8
-- Elf: 8
+- Druid: 9
+- Merfolk: 9
+- Orc: 8
+- Rogue: 8
 - Artificer: 7
 - Demon: 7
+- Fungus: 7
+- Insect: 7
 - Kobold: 7
 - Shapeshifter: 7
+- Thrull: 7
+- Archer: 6
 - Djinn: 6
+- Dwarf: 6
 - Elder: 6
 - Faerie: 6
-- Insect: 6
-- Archer: 5
 - Beast: 5
 - Efreet: 5
 - Horror: 5
-- Rogue: 5
+- Shaman: 5
+- Assassin: 4
+- Avatar: 4
 - Fish: 4
 - Golem: 4
-- Orc: 4
+- Homarid: 4
 - Phyrexian: 4
 - Plant: 4
+- Scout: 4
 - Treefolk: 4
 - Angel: 3
-- Assassin: 3
 - Cat: 3
-- Dwarf: 3
+- Frog: 3
 - Illusion: 3
 - Incarnation: 3
-- Merfolk: 3
+- Lizard: 3
 - Minion: 3
 - Noble: 3
 - Ogre: 3
 - Ouphe: 3
 - Pirate: 3
-- Shaman: 3
+- Rat: 3
 - Snake: 3
 - Wolf: 3
 - Wurm: 3
 - Advisor: 2
 - Ape: 2
-- Avatar: 2
 - C’tan: 2
 - Drake: 2
 - Elephant: 2
-- Fungus: 2
 - Hag: 2
 - Horse: 2
 - Imp: 2
 - Juggernaut: 2
 - Leviathan: 2
+- Monk: 2
 - Nomad: 2
 - Ooze: 2
-- Rat: 2
+- Raccoon: 2
 - Skeleton: 2
 - Slug: 2
 - Spider: 2
+- Squirrel: 2
 - Troll: 2
 - Turtle: 2
 - Wraith: 2
@@ -229,26 +237,18 @@ Most common creature types:
 - Dryad: 1
 - Egg: 1
 - Eye: 1
-- Frog: 1
 - Gargoyle: 1
 - Gnome: 1
 - God: 1
 - Gorgon: 1
 - Gremlin: 1
 - Hydra: 1
-- Jackal: 1
-- Kithkin: 1
-- Leech: 1
-- Manticore: 1
-- Minotaur: 1
-- Monk: 1
-- Monkey: 1
 
 Percentages ordered by format:
-Standard: 18.24
-Pioneer: 10.95
-Commander: 9.10
-Modern: 4.60
-Pauper: 3.01
-Legacy: 2.54
-Vintage: 2.53
+Standard: 20.27
+Pioneer: 13.08
+Commander: 9.39
+Modern: 5.52
+Pauper: 3.19
+Legacy: 2.59
+Vintage: 2.59
