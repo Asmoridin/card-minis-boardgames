@@ -54,3 +54,11 @@ Karakas;Commander-Banned
 Vault of Whispers;Modern-Banned
 Hymn to Tourach;Pauper-Banned
 High Tide;Pauper-Banned
+Amulet of Quoz;Legacy-Banned/Vintage-Banned/Commander-Banned
+Gitaxian Probe;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
+Gush;Legacy-Banned/Vintage-Restricted/Pauper-Banned
+Mystical Tutor;Legacy-Banned/Vintage-Restricted
+Ponder;Modern-Banned
+Treasure Cruise;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
+Vampiric Tutor;Legacy-Banned/Vintage-Restricted
+Bridge from Below;Modern-Banned

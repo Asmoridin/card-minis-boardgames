@@ -46,7 +46,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Planechase Anthology", "Planechase 2012 Edition", "Duel Decks: Blessed vs. Cursed",
     "Unfinity", "From the Vault: Angels", "Magic: The Gathering—Conspiracy", "Guild Kit: Golgari",
     "Guild Kit: Orzhov", "Guild Kit: Rakdos", "Duel Decks: Nissa vs. Ob Nixilis", "Alliances",
-    "Duel Decks: Zendikar vs. Eldrazi", "Guild Kit: Selesnya", "Guild Kit: Boros",
+    "Duel Decks: Zendikar vs. Eldrazi", "Guild Kit: Selesnya", "Guild Kit: Boros", "Visions",
     "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms",
     "Zendikar Expeditions", "Zendikar Rising Expeditions", "Antiquities", "Commander's Arsenal",
     "Outlaws of Thunder Junction Breaking News", "March of the Machine Multiverse Legends",

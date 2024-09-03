@@ -621,3 +621,5 @@ if __name__ == "__main__":
 
     print(SET_CHECK)
     print(f"Above should be {CHECK_AMOUNT} for {CHECK_SET}")
+
+    out_file_h.close()
