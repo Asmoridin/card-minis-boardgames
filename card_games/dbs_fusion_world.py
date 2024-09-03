@@ -177,7 +177,7 @@ if __name__ == "__main__":
 
     double_print("\nLowest deck currently:", out_file_h)
     lowest_deck = get_deck_missing[0]
-    double_print(f"{lowest_deck[1]} - Missing {lowest_deck[1]} cards", out_file_h)
+    double_print(f"{lowest_deck[0]} - Missing {lowest_deck[1]} cards", out_file_h)
     for print_name, print_qty in sorted(lowest_deck[2].items()):
         double_print(f"- {print_name}: {print_qty}", out_file_h)
 
