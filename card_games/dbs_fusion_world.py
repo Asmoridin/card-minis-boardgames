@@ -9,18 +9,21 @@ import sys
 
 GAME_NAME = "Dragon Ball Super Card Game: Fusion World"
 
+ALL_COLORS = ['Green', 'Red', 'Blue', 'Yellow', 'Black',]
+
 class Deck:
     """
     Helper class for a deck, keeping a track of the name and composition
     """
-    def __init__(self, deck_name, deck_cards):
+    def __init__(self, deck_name, deck_cards, deck_color):
         """
         Basic constructor
         """
         self.deck_name = deck_name
         self.deck_cards = deck_cards
+        self.deck_color = deck_color
 
-def read_decks(in_deck_lists):
+def read_decks(in_deck_lists, all_cards):
     """
     Take in a list of deck list tuples, and return a list of deck objects
     """
@@ -28,6 +31,7 @@ def read_decks(in_deck_lists):
     for in_deck in in_deck_lists:
         this_deck_name = in_deck[0]
         deck_dict = {}
+        deck_color = ''
         deck_contents_str = in_deck[1]
         deck_contents = deck_contents_str.split(',')
         for content_line in deck_contents:
@@ -37,7 +41,10 @@ def read_decks(in_deck_lists):
             if deck_card_no not in deck_dict:
                 deck_dict[deck_card_no] = 0
             deck_dict[deck_card_no] += deck_card_qty
-        ret_list.append(Deck(this_deck_name, deck_dict))
+        for card_tuple in all_cards:
+            if card_tuple[5] in deck_dict and card_tuple[2] == 'Leader':
+                deck_color = card_tuple[3]
+        ret_list.append(Deck(this_deck_name, deck_dict, deck_color))
     return ret_list
 
 def get_missing(in_decks, in_card_own_dict):
@@ -57,7 +64,7 @@ def get_missing(in_decks, in_card_own_dict):
                 missing_cards[in_card_own_dict[check_card][0]] = temp_deck.deck_cards[check_card] \
                     - in_card_own_dict[check_card][1]
                 missing_total += missing_cards[in_card_own_dict[check_card][0]]
-        return_list.append((temp_deck.deck_name, missing_total, missing_cards))
+        return_list.append((temp_deck.deck_name, missing_total, missing_cards, temp_deck.deck_color))
     return return_list
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -121,9 +128,11 @@ for line in lines:
     if card_type not in ['Leader', 'Battle', 'Extra']:
         print("Invalid card type: " + card_type)
         continue
-    if card_color not in ['Green', 'Red', 'Blue', 'Yellow', 'Black',]:
-        print("Invalid card color: " + card_color)
-        continue
+    card_color = card_color.split('/')
+    for this_color in card_color:
+        if this_color not in ALL_COLORS:
+            print("Invalid card color: " + this_color)
+            continue
     CARD_MAX = 4
     if card_type == 'Leader':
         CARD_MAX = 1
@@ -133,9 +142,15 @@ for line in lines:
         card_set, card_own, CARD_MAX))
     card_own_dict[card_number] = (f"{card_name} ({card_number})", card_own)
 
-decks = read_decks(deck_lists)
+decks = read_decks(deck_lists, item_list)
 get_deck_missing = get_missing(decks, card_own_dict)
 get_deck_missing = sorted(get_deck_missing, key=lambda x:(x[1], x[0]))
+most_missing_cards = {}
+for deck in get_deck_missing:
+    for check_card, check_card_qty in deck[2].items():
+        if check_card not in most_missing_cards:
+            most_missing_cards[check_card] = 0
+        most_missing_cards[check_card] += check_card_qty
 
 # Filter by subtype
 chosen_subtype, filtered_list = sort_and_filter(item_list, 1)
@@ -171,15 +186,30 @@ if __name__ == "__main__":
 
     double_print(f"Want a {chosen_subtype}...", out_file_h)
     sugg_string = f"Buy {picked_item[0] + ' - ' + picked_item[5]} (" + \
-        f"{picked_item[3] + ' ' + picked_item[2]}) from {picked_item[6]} (have " + \
+        f"{'/'.join(picked_item[3]) + ' ' + picked_item[2]}) from {picked_item[6]} (have " + \
         f"{picked_item[7]} out of {picked_item[8]})"
     double_print(sugg_string, out_file_h)
 
-    double_print("\nLowest deck currently:", out_file_h)
-    lowest_deck = get_deck_missing[0]
-    double_print(f"{lowest_deck[0]} - Missing {lowest_deck[1]} cards", out_file_h)
-    for print_name, print_qty in sorted(lowest_deck[2].items()):
-        double_print(f"- {print_name}: {print_qty}", out_file_h)
+    double_print("\nLowest decks currently:", out_file_h)
+    unused_colors = ALL_COLORS
+    for check_deck in get_deck_missing:
+        USE_DECK = True
+        for check_color in check_deck[3]:
+            if check_color not in ALL_COLORS:
+                USE_DECK = False
+        if USE_DECK:
+            double_print(f"\n{check_deck[0]} ({'/'.join(check_deck[3])}) - Missing " + \
+                f"{check_deck[1]} cards", out_file_h)
+            for print_name, print_qty in sorted(check_deck[2].items()):
+                double_print(f"- {print_name}: {print_qty}", out_file_h)
+            for check_color in check_deck[3]:
+                unused_colors.remove(check_color)
+
+    most_missing_cards = most_missing_cards.items()
+    most_missing_cards = sorted(most_missing_cards, key=lambda x:(-1 * x[1], x[0]))
+    double_print("\nMost needed cards, overall:", out_file_h)
+    for print_card in most_missing_cards[:10]:
+        double_print(f"- {print_card[0]}: {print_card[1]}", out_file_h)
 
     out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):

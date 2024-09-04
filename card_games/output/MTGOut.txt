@@ -1,9 +1,9 @@
-Tracking 1290 cards.
-Have 114 out of 5164 total cards for a playset - 2.21 percent
+Tracking 1337 cards.
+Have 114 out of 5352 total cards for a playset - 2.13 percent
 
 *** VINTAGE ***
-There are 1290 Vintage legal cards
-Have 114 out of 5149 - 2.21 percent of a playset
+There are 1337 Vintage legal cards
+Have 114 out of 5337 - 2.14 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 1241 Legacy legal cards
-Have 113 out of 5094 - 2.22 percent of a playset
+There are 1288 Legacy legal cards
+Have 113 out of 5282 - 2.14 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Cephalid Breakfast) is at 73 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Mountain: 14
 
 *** COMMANDER ***
-There are 1258 Commander legal cards
-Have 114 out of 1403 - 8.13 percent of a playset
+There are 1305 Commander legal cards
+Have 114 out of 1450 - 7.86 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 1
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
@@ -62,8 +62,8 @@ Most needed cards are:
  - Urborg, Tomb of Yawgmoth: 16
 
 *** MODERN ***
-There are 276 Modern legal cards
-Have 63 out of 1234 - 5.11 percent of a playset
+There are 279 Modern legal cards
+Have 63 out of 1246 - 5.06 percent of a playset
 Chosen card is a(n) Basic Land from Duel Decks: Heroes vs. Monsters - Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 454 Pauper legal cards
-Have 53 out of 1946 - 2.72 percent of a playset
+There are 474 Pauper legal cards
+Have 53 out of 2026 - 2.62 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -144,31 +144,31 @@ Most needed cards are:
 *** OTHER DATA ***
 Most common creature types:
 - Wizard: 31
-- Cleric: 28
+- Cleric: 29
 - Soldier: 22
 - Warrior: 22
-- Elemental: 17
+- Elemental: 18
+- Spirit: 17
 - Zombie: 17
-- Spirit: 16
 - Elf: 14
 - Knight: 14
+- Druid: 13
 - Goblin: 13
-- Druid: 12
 - Bird: 11
+- Giant: 11
 - Construct: 10
 - Demon: 10
-- Giant: 10
 - Merfolk: 10
 - Dragon: 9
+- Insect: 9
 - Artificer: 8
 - Illusion: 8
-- Insect: 8
 - Orc: 8
 - Rogue: 8
+- Shaman: 8
 - Shapeshifter: 8
 - Fungus: 7
 - Kobold: 7
-- Shaman: 7
 - Thrull: 7
 - Archer: 6
 - Djinn: 6
@@ -176,25 +176,31 @@ Most common creature types:
 - Elder: 6
 - Faerie: 6
 - Horror: 6
+- Ouphe: 6
+- Plant: 6
 - Beast: 5
 - Efreet: 5
 - Frog: 5
 - Golem: 5
 - Minion: 5
-- Ouphe: 5
+- Wurm: 5
 - Assassin: 4
 - Avatar: 4
 - Fish: 4
 - Homarid: 4
+- Horse: 4
 - Phyrexian: 4
-- Plant: 4
 - Rat: 4
 - Scout: 4
 - Treefolk: 4
 - Wolf: 4
 - Angel: 3
+- Ape: 3
+- Barbarian: 3
+- Bear: 3
 - Cat: 3
-- Horse: 3
+- Dryad: 3
+- Elephant: 3
 - Imp: 3
 - Incarnation: 3
 - Lizard: 3
@@ -203,16 +209,15 @@ Most common creature types:
 - Pirate: 3
 - Skeleton: 3
 - Snake: 3
+- Spider: 3
 - Wraith: 3
-- Wurm: 3
+- Yeti: 3
 - Advisor: 2
-- Ape: 2
-- Bear: 2
 - C’tan: 2
+- Dinosaur: 2
 - Drake: 2
-- Dryad: 2
-- Elephant: 2
 - Hag: 2
+- Hydra: 2
 - Juggernaut: 2
 - Leviathan: 2
 - Monk: 2
@@ -222,14 +227,12 @@ Most common creature types:
 - Shade: 2
 - Slug: 2
 - Specter: 2
-- Spider: 2
 - Squirrel: 2
 - Troll: 2
 - Turtle: 2
 - Vampire: 2
 - Atog: 1
 - Aurochs: 1
-- Barbarian: 1
 - Bard: 1
 - Basilisk: 1
 - Bat: 1
@@ -238,17 +241,14 @@ Most common creature types:
 - Camel: 1
 - Cockatrice: 1
 - Devil: 1
-- Dinosaur: 1
 - Egg: 1
 - Eye: 1
-- Gargoyle: 1
-- Gnome: 1
 
 Percentages ordered by format:
 Standard: 19.23
 Pioneer: 12.32
-Commander: 8.13
-Modern: 5.11
-Pauper: 2.72
-Legacy: 2.22
-Vintage: 2.21
+Commander: 7.86
+Modern: 5.06
+Pauper: 2.62
+Legacy: 2.14
+Vintage: 2.14

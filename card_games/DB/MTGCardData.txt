@@ -1153,7 +1153,54 @@ Fyndhorn Brownie;Creature — Ouphe;G;Classic Sixth Edition (Common)/Ice Age (Co
 Fyndhorn Elder;Creature — Elf Druid;G;Fifth Edition (Uncommon)/Classic Sixth Edition (Uncommon)/Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ice Age (Uncommon);0
 Fyndhorn Elves;Creature — Elf Druid;G;Ice Age (Common)/Masters Edition (Common)/From the Vault: Twenty (Mythic Rare)/Vintage Masters (Common)/Commander Legends (Common);0
 Fyndhorn Pollen;Enchantment;G;Ice Age (Rare)/Masters Edition II (Rare);0
-# Done with card 2570
+Gorilla Pack;Creature — Ape;G;Ice Age (Common);0
+Hot Springs;Enchantment — Aura;G;Ice Age (Rare);0
+Johtull Wurm;Creature — Wurm;G;Fifth Edition (Uncommon)/Ice Age (Uncommon)/Masters Edition II (Uncommon);0
+Juniper Order Druid;Creature — Human Cleric Druid;G;Ice Age (Common);0
+Lhurgoyf;Creature — Lhurgoyf;G;Fifth Edition (Rare)/Eighth Edition (Rare)/Ice Age (Rare)/Battle Royale Box Set (Rare)/Magic: The Gathering-Commander (Rare)/Commander Anthology 2018 (Rare)/Modern Horizons 3 Commander (Rare);0
+Maddening Wind;Enchantment — Aura;G;Ice Age (Uncommon);0
+Nature's Lore;Sorcery;G;Fifth Edition (Common)/Ice Age (Uncommon)/Starter 1999 (Common)/Portal (Common)/Portal Second Age (Common)/Masters Edition (Common)/Duel Decks: Garruk vs. Liliana (Common)/Vintage Masters (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Adventures in the Forgotten Realms Commander (Common)/Commander Legends: Battle for Baldur's Gate (Common)/Dominaria Remastered (Uncommon)/Commander Masters (Common)/Murders at Karlov Manor Commander (Uncommon);0
+Pale Bears;Creature — Bear;G;Ice Age (Rare);0
+Pygmy Allosaurus;Creature — Dinosaur;G;Ice Age (Rare);0
+Pyknite;Creature — Ouphe;G;Ice Age (Common);0
+Rime Dryad;Creature — Dryad;G;Ice Age (Common);0
+Ritual of Subdual;Enchantment;G;Ice Age (Rare)/Masters Edition II (Rare);0
+Scaled Wurm;Creature — Wurm;G;Fifth Edition (Common)/Classic Sixth Edition (Common)/Ninth Edition (Common)/Ice Age (Common)/Battle Royale Box Set (Common)/Beatdown Box Set (Common)/Magic: The Gathering—Conspiracy (Common);0
+Shambling Strider;Creature — Yeti;G;Ice Age (Common)/Beatdown Box Set (Common)/Masters Edition (Common);0
+Snowblind;Enchantment — Aura;G;Ice Age (Rare);0
+Stampede;Instant;G;Fifth Edition (Rare)/Ice Age (Rare)/Masters Edition II (Uncommon);0
+Stunted Growth;Sorcery;G;Ice Age (Rare);0
+Tarpan;Creature — Horse;G;Fifth Edition (Common)/Ice Age (Common);0
+Thermokarst;Sorcery;G;Ice Age (Uncommon)/Masters Edition II (Common);0
+Thoughtleech;Enchantment;G;Seventh Edition (Uncommon)/Ice Age (Uncommon);0
+Tinder Wall;Creature — Plant Wall;G;Ice Age (Common)/Masters Edition II (Common);0
+Touch of Vitae;Instant;G;Ice Age (Uncommon);0
+Trailblazer;Instant;G;Ice Age (Rare);0
+Venomous Breath;Instant;G;Ice Age (Uncommon)/Mercadian Masques (Uncommon);0
+Wall of Pine Needles;Creature — Plant Wall;G;Ice Age (Uncommon);0
+Whiteout;Instant;G;Ice Age (Uncommon)/Masters Edition II (Common);0
+Wiitigo;Creature — Yeti;G;Ice Age (Rare)/Masters Edition II (Rare);0
+Woolly Mammoth;Creature - Elephant;G;Ice Age (Common)/Masters Edition II (Common);0
+Woolly Spider;Creature — Spider;G;Ice Age (Common)/Beatdown Box Set (Common)/Masters Edition II (Uncommon);0
+Yavimaya Gnats;Creature - Insect;G;Ice Age (Uncommon);0
+Aggression;Enchantment — Aura;R;Ice Age (Uncommon);0
+Anarchy;Sorcery;R;Ice Age (Uncommon)/Masters Edition II (Rare);0
+Avalanche;Sorcery;R;Ice Age (Uncommon);0
+Balduvian Barbarians;Creature — Human Barbarian;R;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Ice Age (Common);0
+Balduvian Hydra;Creature — Hydra;R;Ice Age (Rare)/Masters Edition II (Rare);0
+Barbarian Guides;Creature — Human Barbarian;R;Ice Age (Common);0
+Battle Frenzy;Instant;R;Ice Age (Common);0
+Bone Shaman;Creature — Giant Shaman;R;Ice Age (Common);0
+Brand of Ill Omen;Enchantment — Aura;R;Ice Age (Rare);0
+Chaos Lord;Creature — Human;R;Ice Age (Rare);0
+Chaos Moon;Enchantment;R;Ice Age (Rare);0
+Conquer;Enchantment — Aura;R;Fifth Edition (Uncommon)/Classic Sixth Edition (Uncommon)/Ice Age (Uncommon)/Masters Edition II (Uncommon);0
+Curse of Marit Lage;Enchantment;R;Ice Age (Rare);0
+Dwarven Armory;Enchantment;R;Ice Age (Rare);0
+Errantry;Enchantment — Aura;R;Fifth Edition (Common)/Ice Age (Common)/Masters Edition II (Common);0
+Flame Spirit;Creature — Elemental Spirit;R;Fifth Edition (Uncommon)/Classic Sixth Edition (Common)/Ice Age (Uncommon)/Starter 2000 (Common)/Masters Edition II (Uncommon);0
+Flare;Instant;R;Fifth Edition (Common)/Ice Age (Common)/Mirage (Common);0
+# Done with card 2621
 #3107
 Force of Will;Instant;U;Alliances (Uncommon)/Masters Edition (Rare)/Vintage Masters (Rare)/Eternal Masters (Mythic Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Double Masters (Mythic Rare)/Dominaria Remastered (Mythic Rare);0
 #3134
