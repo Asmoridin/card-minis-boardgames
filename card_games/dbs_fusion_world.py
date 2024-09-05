@@ -56,15 +56,16 @@ def get_missing(in_decks, in_card_own_dict):
     for temp_deck in in_decks:
         missing_total = 0
         missing_cards = {}
-        for check_card in temp_deck.deck_cards:
-            if check_card not in in_card_own_dict:
-                print("Card not found: " + check_card)
+        for this_check_card in temp_deck.deck_cards:
+            if this_check_card not in in_card_own_dict:
+                print("Card not found: " + this_check_card)
                 continue
-            if in_card_own_dict[check_card][1] < temp_deck.deck_cards[check_card]:
-                missing_cards[in_card_own_dict[check_card][0]] = temp_deck.deck_cards[check_card] \
-                    - in_card_own_dict[check_card][1]
-                missing_total += missing_cards[in_card_own_dict[check_card][0]]
-        return_list.append((temp_deck.deck_name, missing_total, missing_cards, temp_deck.deck_color))
+            if in_card_own_dict[this_check_card][1] < temp_deck.deck_cards[this_check_card]:
+                missing_cards[in_card_own_dict[this_check_card][0]] = \
+                    temp_deck.deck_cards[this_check_card] - in_card_own_dict[this_check_card][1]
+                missing_total += missing_cards[in_card_own_dict[this_check_card][0]]
+        return_list.append((temp_deck.deck_name, missing_total, missing_cards,
+            temp_deck.deck_color))
     return return_list
 
 if os.getcwd().endswith('card-minis-boardgames'):

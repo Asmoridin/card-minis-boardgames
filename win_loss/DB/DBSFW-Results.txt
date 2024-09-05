@@ -1,0 +1,3 @@
+Frieza;FS04-01;Son Goku;FS01-01;Elias P
+Vegeta;FS02-01;Bardock;FS05-01;Elias P
+Vegeta;FS02-01;Bardock;FS05-01;Matt P

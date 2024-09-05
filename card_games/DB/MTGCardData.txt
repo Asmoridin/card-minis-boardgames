@@ -1200,7 +1200,64 @@ Dwarven Armory;Enchantment;R;Ice Age (Rare);0
 Errantry;Enchantment — Aura;R;Fifth Edition (Common)/Ice Age (Common)/Masters Edition II (Common);0
 Flame Spirit;Creature — Elemental Spirit;R;Fifth Edition (Uncommon)/Classic Sixth Edition (Common)/Ice Age (Uncommon)/Starter 2000 (Common)/Masters Edition II (Uncommon);0
 Flare;Instant;R;Fifth Edition (Common)/Ice Age (Common)/Mirage (Common);0
-# Done with card 2621
+Game of Chaos;Sorcery;R;Fifth Edition (Rare)/Ice Age (Rare);0
+Glacial Crevasses;Enchantment;R;Ice Age (Rare)/Masters Edition II (Rare);0
+Goblin Mutant;Creature — Goblin Mutant;R;Ice Age (Uncommon)/Masters Edition (Uncommon);0
+Goblin Sappers;Creature — Goblin;R;Ice Age (Common);0
+Goblin Ski Patrol;Creature — Goblin;R;Ice Age (Common)/Masters Edition II (Common);0
+Goblin Snowman;Creature — Goblin;R;Ice Age (Uncommon)/Time Spiral "Timeshifted" (Special);0
+Grizzled Wolverine;Creature — Wolverine;R;Ice Age (Common);0
+Imposing Visage;Enchantment — Aura;R;Fifth Edition (Common)/Ice Age (Common);0
+Incinerate;Instant;R;Fifth Edition (Common)/Ice Age (Common)/Mirage (Common)/Tenth Edition (Common)/Duel Decks: Jace vs. Chandra (Common)/Masters Edition II (Common)/Magic 2012 (Common)/Duel Decks Anthology, Jace vs. Chandra (Common);0
+Jokulhaups;Sorcery;R;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/Ice Age (Rare)/Masters Edition (Rare);0
+Karplusan Giant;Creature - Giant;R;Ice Age (Uncommon)/Masters Edition II (Uncommon);0
+Karplusan Yeti;Creature — Yeti;R;Ninth Edition (Rare)/Ice Age (Rare);0
+Lava Burst;Sorcery;R;Ice Age (Common)/Masters Edition II (Uncommon);0
+Márton Stromgald;Legendary Creature — Human Knight;R;Ice Age (Rare)/Masters Edition (Rare);0
+Melee;Instant;R;Ice Age (Uncommon);0
+Melting;Enchantment;R;Ice Age (Uncommon);0
+Meteor Shower;Sorcery;R;Ice Age (Common)/Masters Edition II (Common);0
+Mountain Goat;Creature — Goat;R;Fifth Edition (Common)/Classic Sixth Edition (Common)/Ice Age (Common)/Portal (Uncommon);0
+Mudslide;Enchantment;R;Ice Age (Rare)/Masters Edition II (Rare);0
+Orcish Cannoneers;Creature - Orc Warrior;R;Ice Age (Uncommon)/Masters Edition II (Uncommon);0
+Orcish Conscripts;Creature - Orc;R;Fifth Edition (Common)/Ice Age (Common)/Masters Edition II (Common);0
+Orcish Farmer;Creature - Orc;R;Fifth Edition (Common)/Ice Age (Common)/Masters Edition II (Common);0
+Orcish Healer;Creature - Orc;R;Ice Age (Uncommon);0
+Orcish Librarian;Creature - Orc;R;Ice Age (Rare)/Time Spiral "Timeshifted" (Special);0
+Orcish Lumberjack;Creature - Orc;R;Ice Age (Common)/Masters Edition II (Common)/Duel Decks: Heroes vs. Monsters (Common)/Vintage Masters (Common);0
+Orcish Squatters;Creature - Orc;R;Fifth Edition (Rare)/Ice Age (Rare)/Masters Edition II (Rare);0
+Panic;Instant;R;Fifth Edition (Common)/Ice Age (Common)/Masters Edition II (Common);0
+Pyroblast;Instant;R;Fifth Edition (Uncommon)/Ice Age (Common)/Masters Edition (Common)/Eternal Masters (Uncommon);0
+Pyroclasm;Sorcery;R;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Ice Age (Uncommon)/Tenth Edition (Uncommon)/Portal (Rare)/Magic 2010 (Uncommon)/Magic 2011 (Uncommon)/Duel Decks: Sorin vs. Tibalt (Uncommon)/Duel Decks: Heroes vs. Monsters (Uncommon)/Modern Masters 2017 Edition (Uncommon)/Masters 25 (Uncommon);0
+Sabretooth Tiger;Creature — Cat;R;Fifth Edition (Common)/Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Ice Age (Common);0
+Stone Spirit;Creature — Elemental Spirit;R;Fifth Edition (Uncommon)/Ice Age (Uncommon)/Masters Edition II (Uncommon);0
+Stonehands;Enchantment — Aura;R;Ice Age (Common)/Masters Edition II (Common);0
+Tor Giant;Creature - Giant;R;Ice Age (Common);0
+Total War;Enchantment;R;Ice Age (Rare);0
+Vertigo;Instant;R;Classic Sixth Edition (Uncommon)/Ice Age (Uncommon);0
+Wall of Lava;Creature — Wall;R;Ice Age (Uncommon);0
+Word of Blasting;Instant;R;Fifth Edition (Uncommon)/Ice Age (Uncommon)/Mercadian Masques (Uncommon);0
+Adarkar Unicorn;Creature - Unicorn;W;Ice Age (Common);0
+Arctic Foxes;Creature — Fox;W;Ice Age (Common);0
+Arenson's Aura;Enchantment;W;Fifth Edition (Uncommon)/Ice Age (Common);0
+Armor of Faith;Enchantment — Aura;W;Fifth Edition (Common)/Ice Age (Common)/Masters Edition II (Common);0
+Battle Cry;Instant;W;Ice Age (Uncommon);0
+Black Scarab;Enchantment — Aura;W;Ice Age (Uncommon);0
+Blessed Wine;Instant;W;Fifth Edition (Common)/Ice Age (Common);0
+Blinking Spirit;Creature — Spirit;W;Fifth Edition (Rare)/Ninth Edition (Rare)/Ice Age (Rare)/Battle Royale Box Set (Rare);0
+Blue Scarab;Enchantment — Aura;W;Ice Age (Uncommon);0
+Call to Arms;Enchantment;W;Ice Age (Rare)/Masters Edition III (Uncommon);0
+Caribou Range;Enchantment — Aura;W;Fifth Edition (Rare)/Ice Age (Rare)/Masters Edition II (Rare);0
+Cold Snap;Enchantment;W;Ice Age (Uncommon);0
+Cooperation;Enchantment — Aura;W;Ice Age (Common);0
+Drought;Enchantment;W;Ice Age (Uncommon);0
+Elvish Healer;Creature - Elf Cleric;W;Ice Age (Common);0
+Enduring Renewal;Enchantment;W;Ice Age (Rare)/Time Spiral "Timeshifted" (Special);0
+Energy Storm;Enchantment;W;Ice Age (Rare)/Masters Edition II (Rare);0
+Formation;Instant;W;Ice Age (Rare);0
+Fylgja;Enchantment — Aura;W;Ice Age (Common);0
+General Jarkeld;Legendary Creature — Human Soldier;W;Ice Age (Rare);0
+# Done with card 2687
 #3107
 Force of Will;Instant;U;Alliances (Uncommon)/Masters Edition (Rare)/Vintage Masters (Rare)/Eternal Masters (Mythic Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Double Masters (Mythic Rare)/Dominaria Remastered (Mythic Rare);0
 #3134
@@ -1233,6 +1290,8 @@ Gush;Instant;U;Mercadian Masques (Common)/Duel Decks: Jace vs. Chandra (Common)/
 Cabal Therapy;Sorcery;B;Judgment (Uncommon)/Premium Deck Series: Graveborn (Uncommon)/Eternal Masters (Uncommon);0
 #35194
 Mutilate;Sorcery;B;Torment (Rare)/Duel Decks: Garruk vs. Liliana (Rare)/Magic 2013 (Rare)/Commander 2014 (Rare)/Duel Decks Anthology, Garruk vs. Liliana (Rare)/Warhammer 40,000 Commander (Rare);1
+#35923
+Ichorid;Creature — Horror;B;Torment (Rare)/Vintage Masters (Rare)/Eternal Masters (Rare);0
 #39503
 Flooded Strand;Land;C;Onslaught (Rare)/Khans of Tarkir (Rare)/Zendikar Expeditions (Mythic Rare)/Zendikar Rising Expeditions (Mythic Rare)/Modern Horizons 3 (Rare);0
 #39504
