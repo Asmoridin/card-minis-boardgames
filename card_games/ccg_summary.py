@@ -32,7 +32,7 @@ else:
 
 #print("\033[96mTest.\033[0m")
 
-started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited, 
+started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
     lorcana, one_piece, magic_gathering]
 

@@ -1,6 +1,6 @@
-Have 480 out of 2026 - 23.69 percent
-Want a Bardock's Crew...
-Buy Bardock - FS05-10 (Black Battle) from [FS05] Starter Deck - Bardock (have 0 out of 4)
+Have 532 out of 2026 - 26.26 percent
+Want a Satan City...
+Buy Son Gohan : Adolescence - FB03-038 (Blue Battle) from [FB03] Booster Pack - Raging Roar (have 0 out of 4)
 
 Lowest decks currently:
 
@@ -60,19 +60,15 @@ SonGoku-FB01-001.txt (Red) - Missing 29 cards
 - Son Goku (FB01-139): 1
 - Whis (FB01-004): 3
 
-Bardock-FS05-01.txt (Black) - Missing 50 cards
+Bardock-FS05-01.txt (Black) - Missing 32 cards
 - 10x Kamehameha (FB03-137): 3
 - Bardock (FB03-121): 4
-- Bardock (FS05-01): 1
-- Bardock (FS05-11): 4
-- Borgos (FS05-07): 4
-- Fasha (FS05-04): 4
+- Bardock (FS05-11): 2
 - Giru (FB03-108): 2
 - Hercule : GT (FB03-132): 3
-- Kakarot (FS05-03): 4
+- Kakarot (FS05-03): 1
 - Pan : GT (FB03-125): 4
 - Para Para Brothers (FB03-123): 2
-- Son Gohan (FS05-05): 4
 - Son Goku : Childhood BR (FB03-112): 3
 - Son Goku : GT (FB03-111): 4
 - Son Goku : GT (FB03-140): 4

@@ -35,7 +35,26 @@ def read_decks(deck_format):
     Takes in a format, and returns a list of Deck objects
     """
     ret_list = []
-    if deck_format in os.listdir(DECK_DIR):
+    if deck_format == 'Commander':
+        for name_letter in os.listdir(DECK_DIR + '/' + deck_format):
+            for deck_file in os.listdir(DECK_DIR + '/' + deck_format + "/" + name_letter):
+                deck_name = deck_file.replace('.txt', '')
+                this_deck = {}
+                deck_fh = open(DECK_DIR + '/' + deck_format + '/' + name_letter + "/" + \
+                        deck_file, 'r', encoding='UTF-8')
+                deck_lines = deck_fh.readlines()
+                deck_fh.close()
+                deck_lines = [line.strip() for line in deck_lines]
+                for deck_line in deck_lines:
+                    if deck_line.startswith('//') or deck_line == '':
+                        continue
+                    deck_card_qty = int(deck_line.split(' ')[0])
+                    deck_card_name = ' '.join(deck_line.split(' ')[1:])
+                    if deck_card_name not in this_deck:
+                        this_deck[deck_card_name] = 0
+                    this_deck[deck_card_name] += deck_card_qty
+                ret_list.append(Deck(deck_name, this_deck))
+    elif deck_format in os.listdir(DECK_DIR):
         for deck_file in os.listdir(DECK_DIR + '/' + deck_format):
             deck_name = deck_file.replace('.txt', '')
             this_deck = {}
@@ -203,6 +222,10 @@ def validate_types(card_type_string):
     if types == 'Basic Land' or types in 'World Enchantment':
         ret_type.append(types)
         types = ''
+    if types == 'Basic Snow Land':
+        ret_type.append('Basic Land')
+        ret_type.append('Snow')
+        types = ''
     for check_type in types.split(' '):
         if check_type == '':
             continue
@@ -224,9 +247,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Ice Age"
-CHECK_AMOUNT = 383
-SET_CHECK += 10 # Extra basic lands
+CHECK_SET = "Homelands"
+CHECK_AMOUNT = 115
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0

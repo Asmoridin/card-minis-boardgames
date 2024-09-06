@@ -1,5 +1,5 @@
 10x Kamehameha;Saiyan;Extra;Black;1;FB03-137;[FB03] Booster Pack - Raging Roar;0
-A Lonesome, Final Battle;Saiyan/Bardock's Crew;Extra;Black;1;FS05-16;[FS05] Starter Deck - Bardock;0
+A Lonesome, Final Battle;Saiyan/Bardock's Crew;Extra;Black;1;FS05-16;[FS05] Starter Deck - Bardock;2
 Absolute Lightning;Supreme Kai/Potara;Extra;Blue;3;FB02-068;[FB02] Booster Pack - Blazing Aura;1
 Android 16;Android;Battle;Green;3;FB01-073;[FB01] Booster Pack - Awakened Pulse;0
 Android 16;Android;Battle;Green;6;FB01-074;[FB01] Booster Pack - Awakened Pulse;1
@@ -46,9 +46,9 @@ Banan;Frieza's Army;Battle;Yellow;2;FB01-127;[FB01] Booster Pack - Awakened Puls
 Bardock : BR;Saiyan;Battle;Black;2;FB03-122;[FB03] Booster Pack - Raging Roar;0
 Bardock;Saiyan/Bardock's Crew;Battle;Black;2;FP-021;Promo;0
 Bardock;Saiyan/Bardock's Crew;Battle;Black;3;FB03-121;[FB03] Booster Pack - Raging Roar;0
-Bardock;Saiyan/Bardock's Crew;Battle;Black;3;FS05-10;[FS05] Starter Deck - Bardock;0
-Bardock;Saiyan/Bardock's Crew;Battle;Black;5;FS05-11;[FS05] Starter Deck - Bardock;0
-Bardock;Saiyan/Bardock's Crew;Leader;Black;;FS05-01;[FS05] Starter Deck - Bardock;0
+Bardock;Saiyan/Bardock's Crew;Battle;Black;3;FS05-10;[FS05] Starter Deck - Bardock;4
+Bardock;Saiyan/Bardock's Crew;Battle;Black;5;FS05-11;[FS05] Starter Deck - Bardock;2
+Bardock;Saiyan/Bardock's Crew;Leader;Black;;FS05-01;[FS05] Starter Deck - Bardock;1
 Basil;Trio De Dangers/Universe 9/Tournament of Power;Battle;Red;1;FB02-020;[FB02] Booster Pack - Blazing Aura;0
 Beerus;God of Destruction/Universe 7;Battle;Red;3;FB03-018;[FB03] Booster Pack - Raging Roar;1
 Beerus;God of Destruction/Universe 7;Battle;Red;3;FS01-12;[FS01] Starter Deck - Son Goku;2
@@ -66,7 +66,7 @@ Blades of Judgement;Supreme Kai/Potara;Extra;Blue;1;FB02-065;[FB02] Booster Pack
 Blue Power Awakening;Saiyan;Extra;Yellow;2;FB02-136;[FB02] Booster Pack - Blazing Aura;0
 Body Change;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-137;[FB01] Booster Pack - Awakened Pulse;1
 Bonds of Ginyu Force;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-133;[FB01] Booster Pack - Awakened Pulse;1
-Borgos;Saiyan/Bardock's Crew;Battle;Black;1;FS05-07;[FS05] Starter Deck - Bardock;0
+Borgos;Saiyan/Bardock's Crew;Battle;Black;1;FS05-07;[FS05] Starter Deck - Bardock;4
 Botamo;Universe 6;Battle;Red;2;FB01-028;[FB01] Booster Pack - Awakened Pulse;1
 Broly : BR;Saiyan;Battle;Green;7;FB02-096;[FB02] Booster Pack - Blazing Aura;0
 Broly : BR;Saiyan;Battle;Green;7;FP-014;Promo;0
@@ -127,7 +127,7 @@ Days of Training;Namekian/Training;Extra;Green;3;FB03-075;[FB03] Booster Pack - 
 Death Ball;Frieza Clan/Frieza's Army;Extra;Yellow;1;FS04-16;[FS04] Starter Deck - Frieza;2
 Destructive Strength;Saiyan;Extra;Green;3;FS03-16;[FS03] Starter Deck - Broly;4
 Divine Hammer;Supreme Kai/Potara;Extra;Blue;2;FB02-064;[FB02] Booster Pack - Blazing Aura;2
-Dodoria;Frieza's Army;Battle;Black;2;FS05-08;[FS05] Starter Deck - Bardock;0
+Dodoria;Frieza's Army;Battle;Black;2;FS05-08;[FS05] Starter Deck - Bardock;4
 Dodoria;Frieza's Army;Battle;Yellow;1;FB01-123;[FB01] Booster Pack - Awakened Pulse;2
 Dodoria;Frieza's Army;Battle;Yellow;1;FS04-10;[FS04] Starter Deck - Frieza;4
 Dolltucky;Alien;Battle;Black;3;FB03-120;[FB03] Booster Pack - Raging Roar;1
@@ -143,11 +143,11 @@ Energy Absorption;Earthling/Wicked Soul;Extra;Yellow;1;FB03-099;[FB03] Booster P
 Energy Blast Volley;Saiyan;Extra;Yellow;1;FB02-138;[FB02] Booster Pack - Blazing Aura;0
 Erasa;Earthling/Satan City;Battle;Blue;1;FB03-028;[FB03] Booster Pack - Raging Roar;0
 Eye Beam;Android;Extra;Green;1;FB01-099;[FB01] Booster Pack - Awakened Pulse;0
-Fasha;Saiyan/Bardock's Crew;Battle;Black;1;FS05-04;[FS05] Starter Deck - Bardock;0
+Fasha;Saiyan/Bardock's Crew;Battle;Black;1;FS05-04;[FS05] Starter Deck - Bardock;4
 Final Explosion;Saiyan/Wicked Soul;Extra;Yellow;3;FB03-102;[FB03] Booster Pack - Raging Roar;0
 Final Flash;Saiyan;Extra;Blue;2;FS02-16;[FS02] Starter Deck - Vegeta;4
 Final Hope Slash;Saiyan/Earthling;Extra;Blue;1;FB01-066;[FB01] Booster Pack - Awakened Pulse;0
-Frieza;Frieza Clan/Frieza's Army;Battle;Black;4;FS05-13;[FS05] Starter Deck - Bardock;0
+Frieza;Frieza Clan/Frieza's Army;Battle;Black;4;FS05-13;[FS05] Starter Deck - Bardock;4
 Frieza;Frieza Clan/Frieza's Army;Battle;Yellow;1;FS04-11;[FS04] Starter Deck - Frieza;4
 Frieza;Frieza Clan/Frieza's Army;Battle;Yellow;2;FB01-128;[FB01] Booster Pack - Awakened Pulse;2
 Frieza;Frieza Clan/Frieza's Army;Battle;Yellow;2;FP-004;Promo;0
@@ -192,7 +192,7 @@ Gotenks;Saiyan/Earthling;Battle;Blue;4;FS02-03;[FS02] Starter Deck - Vegeta;2
 Gotenks;Saiyan/Earthling;Battle;Yellow;4;FB02-113;[FB02] Booster Pack - Blazing Aura;0
 Gowasu;Supreme Kai;Battle;Blue;1;FB01-040;[FB01] Booster Pack - Awakened Pulse;1
 Gowasu;Supreme Kai;Battle;Blue;2;FB01-041;[FB01] Booster Pack - Awakened Pulse;3
-Great Ape Bardock;Saiyan/Great Ape/Bardock's Crew;Battle;Black;4;FS05-02;[FS05] Starter Deck - Bardock;0
+Great Ape Bardock;Saiyan/Great Ape/Bardock's Crew;Battle;Black;4;FS05-02;[FS05] Starter Deck - Bardock;2
 Great Ape Who Gained Intelligence;Saiyan;Extra;Black;1;FB03-138;[FB03] Booster Pack - Raging Roar;1
 Great Priest;Angel/Universe;Battle;Red;3;FB01-017;[FB01] Booster Pack - Awakened Pulse;1
 Great Saiyaman!;Saiyan/Earthling/Satan City;Extra;Blue;1;FB03-051;[FB03] Booster Pack - Raging Roar;0
@@ -216,7 +216,7 @@ Jiren;Pride Troopers/Universe 11;Battle;Red;3;FP-016;Promo;0
 Jiren;Pride Troopers/Universe 11;Battle;Red;4;FB03-009;[FB03] Booster Pack - Raging Roar;0
 Jiren;Pride Troopers/Universe 11;Leader;Red;;FB03-001;[FB03] Booster Pack - Raging Roar;0
 Kahseral;Pride Troopers/Universe 11;Battle;Red;3;FB03-002;[FB03] Booster Pack - Raging Roar;0
-Kakarot;Saiyan;Battle;Black;1;FS05-03;[FS05] Starter Deck - Bardock;0
+Kakarot;Saiyan;Battle;Black;1;FS05-03;[FS05] Starter Deck - Bardock;3
 Kakunsa;Maiden Squadron/Universe 2/Tournament of Power;Battle;Red;4;FB02-003;[FB02] Booster Pack - Blazing Aura;2
 Kale;Saiyan/Universe 6/Tournament of Power;Battle;Red;3;FB02-011;[FB02] Booster Pack - Blazing Aura;1
 Kale;Saiyan/Universe 6;Battle;Red;3;FB01-009;[FB01] Booster Pack - Awakened Pulse;0
@@ -274,7 +274,7 @@ Mighty Mask;Saiyan/Earthling;Battle;Blue;2;FB03-048;[FB03] Booster Pack - Raging
 Moah;Alien;Battle;Green;1;FS03-13;[FS03] Starter Deck - Broly;4
 Murichim;Universe 10/Tournament of Power;Battle;Red;1;FB02-027;[FB02] Booster Pack - Blazing Aura;1
 Nail;Namekian;Battle;Yellow;7;FB01-125;[FB01] Booster Pack - Awakened Pulse;0
-Nappa : Adolescence;Saiyan;Battle;Black;1;FS05-09;[FS05] Starter Deck - Bardock;0
+Nappa : Adolescence;Saiyan;Battle;Black;1;FS05-09;[FS05] Starter Deck - Bardock;4
 Nappa;Saiyan;Battle;Green;2;FS03-05;[FS03] Starter Deck - Broly;4
 Nappa;Saiyan;Battle;Green;6;FB03-067;[FB03] Booster Pack - Raging Roar;0
 Neiz;Cooler's Armored Squadron;Battle;Yellow;2;FB01-124;[FB01] Booster Pack - Awakened Pulse;0
@@ -315,7 +315,7 @@ Raditz;Saiyan;Battle;Green;3;FB03-073;[FB03] Booster Pack - Raging Roar;0
 Raditz;Saiyan;Battle;Green;6;FB03-074;[FB03] Booster Pack - Raging Roar;0
 Recoome;Ginyu Force/Frieza's Army;Battle;Yellow;2;FB03-097;[FB03] Booster Pack - Raging Roar;0
 Recoome;Ginyu Force/Frieza's Army;Battle;Yellow;3;FB01-132;[FB01] Booster Pack - Awakened Pulse;2
-Resisting Destiny;Saiyan/Bardock's Crew;Extra;Black;1;FS05-15;[FS05] Starter Deck - Bardock;0
+Resisting Destiny;Saiyan/Bardock's Crew;Extra;Black;1;FS05-15;[FS05] Starter Deck - Bardock;2
 Ribrianne;Maiden Squadron/Universe 2/Tournament of Power;Battle;Red;4;FB02-031;[FB02] Booster Pack - Blazing Aura;2
 Ribrianne;Maiden Squadron/Universe 2/Tournament of Power;Battle;Red;7;FB02-030;[FB02] Booster Pack - Blazing Aura;2
 Rozie;Maiden Squadron/Universe 2/Tournament of Power;Battle;Red;2;FB02-032;[FB02] Booster Pack - Blazing Aura;3
@@ -335,7 +335,7 @@ Shin;Supreme Kai;Battle;Blue;1;FB02-047;[FB02] Booster Pack - Blazing Aura;0
 Shin;Supreme Kai;Battle;Blue;2;FB03-034;[FB03] Booster Pack - Raging Roar;0
 Shisami;Frieza's Army;Battle;Yellow;4;FS04-06;[FS04] Starter Deck - Frieza;4
 Shu;Earthling;Battle;Blue;1;FB01-045;[FB01] Booster Pack - Awakened Pulse;1
-Shugesh;Saiyan/Bardock's Crew;Battle;Black;2;FS05-12;[FS05] Starter Deck - Bardock;0
+Shugesh;Saiyan/Bardock's Crew;Battle;Black;2;FS05-12;[FS05] Starter Deck - Bardock;4
 Sidra;God of Destruction/Universe 9;Battle;Red;1;FB02-014;[FB02] Booster Pack - Blazing Aura;0
 Sinister Shadows;Saiyan;Extra;Blue;3;FB01-069;[FB01] Booster Pack - Awakened Pulse;1
 Sinister Sickle;Saiyan;Extra;Blue;3;FB01-068;[FB01] Booster Pack - Awakened Pulse;0
@@ -361,7 +361,7 @@ Son Gohan : GT;Saiyan/Earthling;Battle;Black;3;FB03-114;[FB03] Booster Pack - Ra
 Son Gohan : Youth;Saiyan/Earthling;Battle;Green;1;FB03-065;[FB03] Booster Pack - Raging Roar;0
 Son Gohan : Youth;Saiyan/Earthling;Battle;Green;2;FB03-139;[FB03] Booster Pack - Raging Roar;0
 Son Gohan : Youth;Saiyan/Earthling;Battle;Green;7;FB03-066;[FB03] Booster Pack - Raging Roar;0
-Son Gohan;Earthling;Battle;Black;7;FS05-05;[FS05] Starter Deck - Bardock;0
+Son Gohan;Earthling;Battle;Black;7;FS05-05;[FS05] Starter Deck - Bardock;4
 Son Goku : Childhood BR;Saiyan;Battle;Black;1;FB03-112;[FB03] Booster Pack - Raging Roar;1
 Son Goku : GT;Saiyan;Battle;Black;1;FB03-110;[FB03] Booster Pack - Raging Roar;0
 Son Goku : GT;Saiyan;Battle;Black;3;FB03-111;[FB03] Booster Pack - Raging Roar;0
@@ -427,7 +427,7 @@ Time-Skip;Universe 6;Extra;Red;3;FB01-033;[FB01] Booster Pack - Awakened Pulse;3
 Toolo;Alien;Battle;Black;2;FB03-116;[FB03] Booster Pack - Raging Roar;0
 Toppo;Pride Troopers/God of Destruction/Universe 11;Battle;Red;4;FB03-016;[FB03] Booster Pack - Raging Roar;0
 Toppo;Pride Troopers/Universe 11;Battle;Red;3;FB03-015;[FB03] Booster Pack - Raging Roar;0
-Tora;Saiyan/Bardock's Crew;Battle;Black;2;FS05-06;[FS05] Starter Deck - Bardock;0
+Tora;Saiyan/Bardock's Crew;Battle;Black;2;FS05-06;[FS05] Starter Deck - Bardock;4
 Tournament of Power Arena;World of Void;Extra;Red;2;FB01-032;[FB01] Booster Pack - Awakened Pulse;1
 Tragedy in Ginger Town;Android;Extra;Green;3;FB02-101;[FB02] Booster Pack - Blazing Aura;0
 Trunks : Future;Saiyan/Earthling;Battle;Blue;2;FB01-049;[FB01] Booster Pack - Awakened Pulse/[FB03] Booster Pack - Raging Roar;0
@@ -455,7 +455,7 @@ Uub : GT;Earthling;Battle;Black;2;FB03-105;[FB03] Booster Pack - Raging Roar;0
 Vados;Angel/Universe 6;Battle;Red;1;FB01-003;[FB01] Booster Pack - Awakened Pulse;2
 Vegeta : Childhood BR;Saiyan;Battle;Black;1;FB03-130;[FB03] Booster Pack - Raging Roar;0
 Vegeta : GT;Saiyan;Battle;Black;3;FB03-129;[FB03] Booster Pack - Raging Roar;0
-Vegeta : Youth;Saiyan;Battle;Black;2;FS05-14;[FS05] Starter Deck - Bardock;0
+Vegeta : Youth;Saiyan;Battle;Black;2;FS05-14;[FS05] Starter Deck - Bardock;4
 Vegeta;Saiyan/Universe 7/Tournament of Power;Battle;Red;3;FB02-024;[FB02] Booster Pack - Blazing Aura;0
 Vegeta;Saiyan/Universe 7/Tournament of Power;Battle;Red;3;FB03-020;[FB03] Booster Pack - Raging Roar;0
 Vegeta;Saiyan/Universe 7;Battle;Red;2;FB01-027;[FB01] Booster Pack - Awakened Pulse;0

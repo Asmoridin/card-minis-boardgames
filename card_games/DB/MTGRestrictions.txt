@@ -1,64 +1,68 @@
+Amulet of Quoz;Legacy-Banned/Vintage-Banned/Commander-Banned
 Ancestral Recall;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Atog;Pauper-Banned
+Balance;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Bazaar of Baghdad;Legacy-Banned
 Black Lotus;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Brainstorm;Vintage-Restricted
+Bridge from Below;Modern-Banned
+Bronze Tablet;Legacy-Banned/Vintage-Banned/Commander-Banned
+Chalice of the Void;Vintage-Restricted
 Channel;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Chaos Orb;Legacy-Banned/Vintage-Banned/Commander-Banned
+Cleanse;Legacy-Banned/Vintage-Banned/Commander-Banned
 Contract from Below;Legacy-Banned/Vintage-Banned/Commander-Banned
+Cranial Plating;Pauper-Banned
+Crusade;Legacy-Banned/Vintage-Banned/Commander-Banned
 Darkpact;Legacy-Banned/Vintage-Banned/Commander-Banned
 Demonic Attorney;Legacy-Banned/Vintage-Banned/Commander-Banned
+Demonic Consultation;Legacy-Banned/Vintage-Restricted
 Demonic Tutor;Legacy-Banned/Vintage-Restricted
+Dig Through Time;Modern-Banned/Legacy-Banned/Vintage-Restricted
+Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned
 Fastbond;Legacy-Banned/Commander-Banned
+Flooded Strand;Pioneer-Banned
+Fury;Modern-Banned
+Gitaxian Probe;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
+Gush;Legacy-Banned/Vintage-Restricted/Pauper-Banned
+High Tide;Pauper-Banned
+Hymn to Tourach;Pauper-Banned
+Imprison;Legacy-Banned/Vintage-Banned/Commander-Banned
+Invoke Prejudice;Legacy-Banned/Vintage-Banned/Commander-Banned
+Jeweled Bird;Legacy-Banned/Vintage-Banned/Commander-Banned
+Jihad;Legacy-Banned/Vintage-Banned/Commander-Banned
+Karakas;Commander-Banned
+Library of Alexandria;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Mana Drain;Legacy-Banned
 Mana Vault;Legacy-Banned/Vintage-Restricted
+Mental Misstep;Modern-Banned/Legacy-Banned/Vintage-Restricted
+Merchant Scroll;Vintage-Restricted
 Mind Twist;Legacy-Banned
 Mox Emerald;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Jet;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Pearl;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Ruby;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Mox Sapphire;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Mystic Forge;Vintage-Restricted
+Mystical Tutor;Legacy-Banned/Vintage-Restricted
+Necropotence;Legacy-Banned/Vintage-Restricted
+Ponder;Modern-Banned
+Pradesh Gypsies;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned
+Ragavan, Nimble Pilferer;Legacy-Banned
+Rebirth;Legacy-Banned/Vintage-Banned/Commander-Banned
+Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned
 Sinkhole;Pauper-Banned
 Sol Ring;Legacy-Banned/Vintage-Restricted
+Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned
+Strip Mine;Legacy-Banned/Vintage-Restricted
+Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned
 Time Vault;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Timetwister;Legacy-Banned/Vintage-Restricted
-Balance;Legacy-Banned/Vintage-Restricted/Commander-Banned
-Crusade;Legacy-Banned/Vintage-Banned/Commander-Banned
-Jeweled Bird;Legacy-Banned/Vintage-Banned/Commander-Banned
-Chalice of the Void;Vintage-Restricted
-Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned
-Jihad;Legacy-Banned/Vintage-Banned/Commander-Banned
-Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned
-Bazaar of Baghdad;Legacy-Banned
-Library of Alexandria;Legacy-Banned/Vintage-Restricted/Commander-Banned
-Bronze Tablet;Legacy-Banned/Vintage-Banned/Commander-Banned
-Fury;Modern-Banned
-Mental Misstep;Modern-Banned/Legacy-Banned/Vintage-Restricted
-Ragavan, Nimble Pilferer;Legacy-Banned
-Atog;Pauper-Banned
-Strip Mine;Legacy-Banned/Vintage-Restricted
-Wooded Foothills;Pioneer-Banned
-Mystic Forge;Vintage-Restricted
-Imprison;Legacy-Banned/Vintage-Banned/Commander-Banned
-Mana Drain;Legacy-Banned
-Pradesh Gypsies;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned
-Rebirth;Legacy-Banned/Vintage-Banned/Commander-Banned
-Invoke Prejudice;Legacy-Banned/Vintage-Banned/Commander-Banned
-Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned
-Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned
-Cleanse;Legacy-Banned/Vintage-Banned/Commander-Banned
-Cranial Plating;Pauper-Banned
-Brainstorm;Vintage-Restricted
-Demonic Consultation;Legacy-Banned/Vintage-Restricted
-Dig Through Time;Modern-Banned/Legacy-Banned/Vintage-Restricted
-Flooded Strand;Pioneer-Banned
-Necropotence;Legacy-Banned/Vintage-Restricted
-Karakas;Commander-Banned
-Vault of Whispers;Modern-Banned
-Hymn to Tourach;Pauper-Banned
-High Tide;Pauper-Banned
-Amulet of Quoz;Legacy-Banned/Vintage-Banned/Commander-Banned
-Gitaxian Probe;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
-Gush;Legacy-Banned/Vintage-Restricted/Pauper-Banned
-Mystical Tutor;Legacy-Banned/Vintage-Restricted
-Ponder;Modern-Banned
+Timmerian Fiends;Legacy-Banned/Vintage-Banned/Commander-Banned
 Treasure Cruise;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
 Vampiric Tutor;Legacy-Banned/Vintage-Restricted
-Bridge from Below;Modern-Banned
+Vault of Whispers;Modern-Banned
+Wooded Foothills;Pioneer-Banned
+Golgari Grave-Troll;Modern-Banned/Vintage-Restricted
+Chrome Mox;Modern-Banned

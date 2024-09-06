@@ -1,9 +1,9 @@
-Tracking 1395 cards.
-Have 114 out of 5584 total cards for a playset - 2.04 percent
+Tracking 1547 cards.
+Have 114 out of 6319 total cards for a playset - 1.80 percent
 
 *** VINTAGE ***
-There are 1395 Vintage legal cards
-Have 114 out of 5569 - 2.05 percent of a playset
+There are 1547 Vintage legal cards
+Have 114 out of 6298 - 1.81 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 1346 Legacy legal cards
-Have 113 out of 5514 - 2.05 percent of a playset
+There are 1497 Legacy legal cards
+Have 113 out of 6248 - 1.81 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Cephalid Breakfast) is at 73 cards.
@@ -42,29 +42,29 @@ Most needed cards are:
  - Mountain: 14
 
 *** COMMANDER ***
-There are 1363 Commander legal cards
-Have 114 out of 1508 - 7.56 percent of a playset
+There are 1514 Commander legal cards
+Have 114 out of 1804 - 6.32 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 1
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 {"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
- - Forest: 233
+ - Forest: 271
+ - Island: 219
+ - Plains: 213
  - Mountain: 209
- - Plains: 202
- - Island: 181
- - Command Tower: 48
+ - Command Tower: 51
  - Snow-Covered Swamp: 23
- - Lightning Greaves: 18
- - Path to Exile: 18
- - Rampant Growth: 16
- - Urborg, Tomb of Yawgmoth: 16
+ - Lightning Greaves: 22
+ - Swiftfoot Boots: 20
+ - Dark Ritual: 19
+ - Path to Exile: 19
 
 *** MODERN ***
-There are 287 Modern legal cards
-Have 63 out of 1278 - 4.93 percent of a playset
-Chosen card is a(n) Basic Land from Duel Decks: Heroes vs. Monsters - Forest. I own 0 of 30
+There are 317 Modern legal cards
+Have 63 out of 1528 - 4.12 percent of a playset
+Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
 {'Arena of Glory': 1, 'Arid Mesa': 4, 'Counterspell': 4, 'Dress Down': 1, 'Elegant Parlor': 1, 'Flooded Strand': 4, 'Force of Negation': 4, 'Galvanic Discharge': 4, 'Hallowed Fountain': 2, 'Invert Polarity': 2, 'Lorien Revealed': 2, 'Meticulous Archive': 1, "Minamo, School at Water's Edge": 1, 'Mountain': 1, 'Mystic Gate': 2, "Phlage, Titan of Fire's Fury": 3, 'Plains': 1, 'Scalding Tarn': 1, 'Solitude': 1, 'Spell Snare': 1, 'Steam Vents': 2, 'Subtlety': 4, 'Teferi, Time Raveler': 2, 'The One Ring': 4, 'Thundering Falls': 1, 'Tune the Narrative': 3, 'Wrath of the Skies': 3, 'Celestial Purge': 2, 'Consign to Memory': 3, 'Drannith Magistrate': 2, 'Mystical Dispute': 1, 'Narset, Parter of Veils': 1, 'Obsidian Charmaw': 2, 'Supreme Verdict': 1, 'Surgical Extraction': 2}
@@ -82,9 +82,9 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 71 Pioneer legal cards
-Have 51 out of 414 - 12.32 percent of a playset
-Chosen card is a(n) Basic Land from Duel Decks: Heroes vs. Monsters - Forest. I own 0 of 30
+There are 86 Pioneer legal cards
+Have 51 out of 604 - 8.44 percent of a playset
+Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
 {"Bandit's Talent": 2, 'Castle Locthwain': 3, 'Demolition Field': 1, 'Duress': 4, 'Extinction Event': 2, 'Fatal Push': 4, 'Field of Ruin': 4, 'Geier Reach Sanitarium': 3, 'Go Blank': 3, 'Hive of the Eye Tyrant': 2, 'Hostile Investigator': 2, 'Liliana of the Veil': 3, "Sheoldred's Edict": 4, 'Sheoldred, the Apocalypse': 3, 'Sunken Citadel': 3, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Waste Not': 4, 'Blot Out': 1, 'Graveyard Trespasser': 2, 'Invoke Despair': 3, "Knight of Dusk's Shadow": 2, 'Mazemind Tome': 2, 'Path of Peril': 2, 'Pithing Needle': 1}
@@ -102,8 +102,8 @@ Most needed cards are:
  - Kumano Faces Kakkazan: 12
 
 *** STANDARD ***
-There are 26 Standard legal cards
-Have 45 out of 234 - 19.23 percent of a playset
+There are 34 Standard legal cards
+Have 45 out of 266 - 16.92 percent of a playset
 Chosen card is a(n) Basic Land from Duel Decks: Knights vs. Dragons - Forest. I own 0 of 30
 
 Closest deck to completion (Golgari Midrange) is at 68 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 498 Pauper legal cards
-Have 53 out of 2122 - 2.50 percent of a playset
+There are 550 Pauper legal cards
+Have 53 out of 2460 - 2.15 percent of a playset
 Chosen card is a(n) Creature from The Dark - Knights of Thorn. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -143,60 +143,68 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Wizard: 31
+- Wizard: 33
 - Cleric: 30
-- Soldier: 23
-- Warrior: 23
-- Elemental: 19
-- Spirit: 19
+- Soldier: 29
+- Warrior: 25
+- Elemental: 22
+- Knight: 21
+- Spirit: 21
+- Zombie: 20
 - Goblin: 17
-- Zombie: 17
 - Elf: 15
-- Knight: 15
 - Orc: 15
+- Giant: 14
 - Druid: 13
-- Giant: 13
-- Bird: 11
+- Bird: 12
 - Construct: 10
 - Demon: 10
+- Insect: 10
 - Merfolk: 10
 - Dragon: 9
-- Insect: 9
+- Horror: 9
+- Illusion: 9
+- Rogue: 9
 - Artificer: 8
-- Illusion: 8
-- Rogue: 8
+- Dwarf: 8
+- Faerie: 8
+- Horse: 8
+- Plant: 8
 - Shaman: 8
 - Shapeshifter: 8
+- Archer: 7
 - Fungus: 7
-- Horror: 7
 - Kobold: 7
 - Thrull: 7
-- Archer: 6
+- Avatar: 6
+- Beast: 6
 - Djinn: 6
-- Dwarf: 6
 - Elder: 6
-- Faerie: 6
+- Golem: 6
 - Ouphe: 6
-- Plant: 6
-- Beast: 5
+- Phyrexian: 6
 - Efreet: 5
 - Frog: 5
-- Golem: 5
 - Minion: 5
+- Noble: 5
+- Skeleton: 5
+- Spider: 5
 - Wurm: 5
+- Angel: 4
 - Assassin: 4
-- Avatar: 4
 - Cat: 4
 - Fish: 4
 - Homarid: 4
-- Horse: 4
-- Phyrexian: 4
+- Lizard: 4
+- Pirate: 4
 - Rat: 4
 - Scout: 4
+- Snake: 4
 - Treefolk: 4
+- Troll: 4
+- Vampire: 4
 - Wolf: 4
 - Yeti: 4
-- Angel: 3
 - Ape: 3
 - Barbarian: 3
 - Bear: 3
@@ -204,51 +212,43 @@ Most common creature types:
 - Elephant: 3
 - Imp: 3
 - Incarnation: 3
-- Lizard: 3
-- Noble: 3
 - Ogre: 3
-- Pirate: 3
-- Skeleton: 3
-- Snake: 3
-- Spider: 3
+- Shade: 3
 - Wraith: 3
 - Advisor: 2
+- Bat: 2
 - C’tan: 2
 - Dinosaur: 2
+- Dog: 2
 - Drake: 2
+- Gnome: 2
 - Hag: 2
 - Hydra: 2
 - Juggernaut: 2
 - Leviathan: 2
+- Minotaur: 2
 - Monk: 2
 - Nomad: 2
 - Ooze: 2
+- Praetor: 2
 - Raccoon: 2
-- Shade: 2
+- Serpent: 2
 - Slug: 2
 - Specter: 2
 - Squirrel: 2
-- Troll: 2
+- Thopter: 2
 - Turtle: 2
 - Unicorn: 2
-- Vampire: 2
+- Werewolf: 2
 - Wolverine: 2
 - Atog: 1
 - Aurochs: 1
-- Bard: 1
-- Basilisk: 1
-- Bat: 1
-- Berserker: 1
-- Boar: 1
-- Camel: 1
-- Cockatrice: 1
-- Devil: 1
 
 Percentages ordered by format:
-Standard: 19.23
-Pioneer: 12.32
-Commander: 7.56
-Modern: 4.93
-Pauper: 2.50
-Legacy: 2.05
-Vintage: 2.05
+Standard: 16.92
+Pioneer: 8.44
+Commander: 6.32
+Modern: 4.12
+Pauper: 2.15
+Vintage: 1.81
+Legacy: 1.81
