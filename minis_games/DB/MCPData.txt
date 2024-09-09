@@ -22,7 +22,7 @@ Black Widow, Agent of S.H.I.E.L.D.;A-Force, Avengers, S.H.I.E.L.D.;1
 Blade;Avengers, Defenders, Midnight Sons/L;1
 Bob, Agent of Hydra;Cabal, Hydra;0
 Bullseye;Cabal, Criminal Syndicate;1
-Cable;Avengers, Uncanny X-Men, X-Force/L;1
+Cable;Avengers, Uncanny X-Men, X-Force/L, New Mutants;1
 Captain America;Avengers/L;1
 Captain America (Sam Wilson);Avengers/L;1
 Captain America, First Avenger;Avengers/L, S.H.I.E.L.D.;1
@@ -53,7 +53,7 @@ Drax the Destroyer;Guardians of the Galaxy;1
 Ebony Maw;Black Order;1
 Electro;Criminal Syndicate, Spider-Foes;0
 Elektra;Criminal Syndicate, Defenders;1
-Emma Frost;Brotherhood of Mutants, Hellfire Club/L, Uncanny X-Men;1
+Emma Frost;Brotherhood of Mutants, Hellfire Club/L, Uncanny X-Men, New Mutants;1
 Enchantress;Asgard, Cabal;1
 Gambit;Brotherhood of Mutants, Uncanny X-Men;0
 Gamora;A-Force, Guardians of the Galaxy;0
@@ -92,9 +92,10 @@ Luke Cage;Avengers, Defenders;0
 M'Baku;Criminal Syndicate, Wakanda/L;0
 M.O.D.O.K.;Cabal, Criminal Syndicate;1
 M.O.D.O.K. Scientist Supreme;Criminal Syndicate/L, Hydra;0
-Magik;Convocation, Defenders, Uncanny X-Men;1
+Magik;Convocation, Defenders, Uncanny X-Men, New Mutants/L;1
 Magneto;Brotherhood of Mutants/L, Cabal;1
 Malekith the Accursed;Cabal/L;0
+Maverick;Weapon X;0
 Medusa;A-Force, Inhumans;1
 Mister Sinister;Cabal;0
 Moon Knight;Defenders, Midnight Sons, Web Warriors;1
@@ -131,7 +132,7 @@ Sentinel MK4 (1);Sentinels;1
 Sentinel MK4 (2);Sentinels;1
 Sentinel Prime MK4;Sentinels/L;1
 Shadow King;Brotherhood of Mutants;0
-Shadowcat;Uncanny X-Men;0
+Shadowcat;Uncanny X-Men, New Mutants;0
 Shadowland Daredevil;Criminal Syndicate/L;1
 Shang-Chi;Avengers, Defenders;0
 She-Hulk;A-Force/L, Avengers, S.H.I.E.L.D.;1
@@ -148,6 +149,7 @@ Squirrel Girl;A-Force, Avengers;0
 Star-Lord;Guardians of the Galaxy/L;1
 Steve Rogers, Captain America;S.H.I.E.L.D.;0
 Storm;A-Force, Uncanny X-Men/L, Wakanda;1
+Sunspot;New Mutants, X-Force;0
 Supergiant;Black Order;0
 Taskmaster;Criminal Syndicate, Hydra, S.H.I.E.L.D.;0
 Thanos, the Mad Titan;Black Order/L;1
@@ -169,9 +171,11 @@ Viper;Cabal, Hydra;1
 Vision;Avengers;0
 Vulture;Criminal Syndicate, Spider-Foes;0
 War Machine;Avengers, S.H.I.E.L.D.;1
+Warlock;New Mutants, X-Force;0
 Wasp;A-Force, Avengers;0
+Weapon X;Weapon X;0
 Winter Soldier;S.H.I.E.L.D.;0
 Winter Soldier, Operative;Avengers, Cabal, Hydra, S.H.I.E.L.D., Winter Guard;1
 Wolverine;Avengers, Defenders, Uncanny X-Men, X-Force;1
 Wong;Convocation, Defenders, Midnight Sons;1
-X-23;Uncanny X-Men, Weapon X, X-Force;0
+X-23;Uncanny X-Men, Weapon X, X-Force, New Mutants;0

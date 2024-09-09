@@ -66,3 +66,10 @@ Vault of Whispers;Modern-Banned
 Wooded Foothills;Pioneer-Banned
 Golgari Grave-Troll;Modern-Banned/Vintage-Restricted
 Chrome Mox;Modern-Banned
+Grief;Modern-Banned/Legacy-Banned
+Griselbrand;Commander-Banned
+Hogaak, Arisen Necropolis;Modern-Banned
+Lotus Petal;Vintage-Restricted
+Mana Crypt;Legacy-Banned/Vintage-Restricted
+Trinisphere;Vintage-Restricted
+White Plume Adventurer;Legacy-Banned

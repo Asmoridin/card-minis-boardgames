@@ -247,9 +247,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Homelands"
-CHECK_AMOUNT = 115
-SET_CHECK += 0 # Extra basic lands
+CHECK_SET = "Mirage"
+CHECK_AMOUNT = 350
+SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -630,19 +630,19 @@ if __name__ == "__main__":
 
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print("Most common creature types:", out_file_h)
-    USED_TYPES = ['Wall', 'Necron', 'Human', ]
+    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric']
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
+    double_print("If above is 3, we should do a tribal Commander deck", out_file_h)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)
     for print_format in FORMAT_LIST:
         double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
 
-    print(SET_CHECK)
-    print(f"Above should be {CHECK_AMOUNT} for {CHECK_SET}")
+    print(f"Should be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}")
 
     out_file_h.close()

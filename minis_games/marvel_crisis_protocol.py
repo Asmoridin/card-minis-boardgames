@@ -29,7 +29,7 @@ valid_affiliations = ['Avengers', 'Hydra', 'Cabal', 'A-Force', 'Inhumans', 'X-Fo
     'Black Order', 'Defenders', 'Web Warriors', 'Convocation', 'Uncanny X-Men', 'Winter Guard',
     'Criminal Syndicate', 'Weapon X', 'Guardians of the Galaxy', 'Sentinels', 'Spider-Foes', 
     'S.H.I.E.L.D.', 'Asgard', 'Midnight Sons', 'Brotherhood of Mutants', 'Wakanda',
-    'Dark Dimension', 'Hellfire Club']
+    'Dark Dimension', 'Hellfire Club', 'New Mutants']
 
 data = []
 leaders = {}
