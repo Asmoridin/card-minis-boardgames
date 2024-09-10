@@ -1,4 +1,4 @@
-// Pulled 8/22/24
+// Pulled 9/10/24
 3 Agatha's Soul Cauldron
 4 Ancient Tomb
 1 Arena of Glory
@@ -31,3 +31,4 @@
 1 Pithing Needle
 1 Pyroblast
 1 Red Elemental Blast
+

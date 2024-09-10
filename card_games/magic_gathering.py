@@ -85,6 +85,12 @@ def check_decks(list_of_decks, list_of_cards):
     inventory_dict = {}
     for in_card in list_of_cards:
         inventory_dict[in_card[0]] = in_card[7]
+        #Potential card name cleanup
+        cleanup_rules = {'û':'u', 'ó':'o'}
+        clean_name = in_card[0]
+        for start_letter, change_letter in cleanup_rules.items():
+            clean_name = clean_name.replace(start_letter, change_letter)
+        inventory_dict[clean_name] = in_card[7]
     for deck in list_of_decks:
         this_deck_missing = 0
         this_deck_missing_cards = {}
@@ -630,7 +636,7 @@ if __name__ == "__main__":
 
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print("Most common creature types:", out_file_h)
-    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric']
+    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel',]
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))

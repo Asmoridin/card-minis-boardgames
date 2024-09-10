@@ -47,10 +47,10 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Unfinity", "From the Vault: Angels", "Magic: The Gathering—Conspiracy", "Guild Kit: Golgari",
     "Guild Kit: Orzhov", "Guild Kit: Rakdos", "Duel Decks: Nissa vs. Ob Nixilis", "Alliances",
     "Duel Decks: Zendikar vs. Eldrazi", "Guild Kit: Selesnya", "Guild Kit: Boros", "Visions",
-    "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms",
+    "Arabian Nights", "Time Spiral Remastered", "Judgment", "From the Vault: Realms", "Nemesis",
     "Zendikar Expeditions", "Zendikar Rising Expeditions", "Antiquities", "Commander's Arsenal",
     "Outlaws of Thunder Junction Breaking News", "March of the Machine Multiverse Legends",
-    "Weatherlight", "Fallen Empires", "Promo set for Gatherer",
+    "Weatherlight", "Fallen Empires", "Promo set for Gatherer", "Urza's Legacy",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]

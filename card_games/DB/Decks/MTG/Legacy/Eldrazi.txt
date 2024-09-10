@@ -1,28 +1,30 @@
-// Pulled 8/21/24
+// Pulled 9/10/24
 4 Ancient Tomb
 4 Cavern of Souls
 4 Chalice of the Void
-3 Devourer of Destiny
-2 Eldrazi Repurposer
+2 City of Traitors
+4 Devourer of Destiny
 4 Eldrazi Temple
-4 Eye of Ugin
+3 Eye of Ugin
 1 Forest
 4 Glaring Fleshraker
-1 Karakas
+2 Grim Monolith
+3 It That Heralds the End
 4 Kozilek's Command
-4 Lotus Petal
+3 Lotus Petal
+2 Nulldrifter
 4 Sowing Mycospawn
-4 Territory Culler
 4 Thought-Knot Seer
-3 Wasteland
+1 Ulamog, the Ceaseless Hunger
+4 Wasteland
 1 Wastes
-2 Wastescape Battlemage
-3 Yavimaya, Cradle of Growth
+2 Yavimaya, Cradle of Growth
 
-2 Dismember
+3 Dismember
 2 Disruptor Flute
-2 Faerie Macabre
-2 Grafdigger's Cage
-1 Maze of Ith
-3 Mindbreak Trap
-3 Titan's Presence
+4 Faerie Macabre
+1 Karakas
+2 Mindbreak Trap
+1 Null Elemental Blast
+2 Wastescape Battlemage
+

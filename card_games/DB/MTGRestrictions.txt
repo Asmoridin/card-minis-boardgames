@@ -73,3 +73,11 @@ Lotus Petal;Vintage-Restricted
 Mana Crypt;Legacy-Banned/Vintage-Restricted
 Trinisphere;Vintage-Restricted
 White Plume Adventurer;Legacy-Banned
+Lion's Eye Diamond;Vintage-Restricted
+Flash;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Tinker;Legacy-Banned/Vintage-Restricted/Commander-Banned
+Undercity Informer;Pioneer-Banned
+Simian Spirit Guide;Modern-Banned
+Bloodstained Mire;Pioneer-Banned
+Polluted Delta;Pioneer-Banned
+Daze;Pauper-Banned

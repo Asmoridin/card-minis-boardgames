@@ -1,4 +1,4 @@
-// Pulled 8/22/24
+// Pulled 9/10/24
 1 Bojuka Bog
 1 Boseiju, Who Endures
 3 Crop Rotation
@@ -46,3 +46,4 @@
 2 Purify the Grave
 2 Pyroblast
 1 Red Elemental Blast
+

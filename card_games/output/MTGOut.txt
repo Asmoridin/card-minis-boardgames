@@ -1,9 +1,9 @@
-Tracking 1765 cards.
-Have 114 out of 7188 total cards for a playset - 1.59 percent
+Tracking 1977 cards.
+Have 114 out of 8030 total cards for a playset - 1.42 percent
 
 *** VINTAGE ***
-There are 1765 Vintage legal cards
-Have 114 out of 7161 - 1.59 percent of a playset
+There are 1977 Vintage legal cards
+Have 114 out of 8000 - 1.43 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,48 +22,48 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 1712 Legacy legal cards
-Have 113 out of 7108 - 1.59 percent of a playset
+There are 1922 Legacy legal cards
+Have 113 out of 7948 - 1.42 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 4
 
-Closest deck to completion (Cephalid Breakfast) is at 73 cards.
-{'Brainstorm': 4, 'Cephalid Illusionist': 4, 'Flooded Strand': 4, 'Force of Negation': 3, 'Force of Will': 4, 'Hedge Maze': 1, 'Lotus Petal': 1, "Memory's Journey": 1, 'Meticulous Archive': 1, 'Misty Rainforest': 4, 'Mystic Sanctuary': 1, 'Nadu, Winged Wisdom': 4, 'Narcomoeba': 3, 'Nomads en-Kor': 4, 'Plains': 1, 'Ponder': 4, 'Savannah': 1, 'Shuko': 2, 'Swords to Plowshares': 4, 'Teferi, Time Raveler': 3, "Thassa's Oracle": 1, 'Tropical Island': 1, 'Tundra': 2, "Urza's Saga": 3, 'Consign to Memory': 3, 'Haywire Mite': 1, 'Prismatic Ending': 2, 'Serenity': 2, 'Soul-Guide Lantern': 1, 'Surgical Extraction': 3}
+Closest deck to completion (Mono-Black Pox) is at 68 cards.
+{"Bloodchief's Thirst": 2, 'Castle Locthwain': 2, 'Crucible of Worlds': 1, 'Dark Ritual': 4, 'Ensnaring Bridge': 3, 'Expedition Map': 1, 'Fell the Profane': 1, 'Innocent Blood': 2, "Karn's Sylex": 1, 'Karn, the Great Creator': 3, 'Liliana of the Veil': 4, 'Maze of Ith': 1, "Mishra's Factory": 4, 'Nihil Spellbomb': 1, 'Opposition Agent': 2, 'Orcish Bowmasters': 4, 'Retrofitter Foundry': 1, 'Smallpox': 4, 'Takenuma, Abandoned Mire': 1, 'The Tabernacle at Pendrell Vale': 1, 'Thoughtseize': 4, 'Urborg, Tomb of Yawgmoth': 4, "Urza's Saga": 2, 'Wasteland': 4, 'Faerie Macabre': 3, "Grafdigger's Cage": 1, 'Liquimetal Coating': 1, 'Long Goodbye': 2, 'Mycosynth Lattice': 1, 'Pithing Needle': 1, 'Torpor Orb': 2}
 
 Most needed cards are:
- - Brainstorm: 28
- - Force of Will: 28
- - Ponder: 28
- - Wasteland: 22
- - Swords to Plowshares: 20
- - Misty Rainforest: 19
- - Consign to Memory: 16
- - Daze: 14
- - Flooded Strand: 14
- - Mountain: 14
+ - Wasteland: 47
+ - Force of Will: 44
+ - Brainstorm: 40
+ - Ponder: 40
+ - Swords to Plowshares: 38
+ - Vexing Bauble: 25
+ - Ancient Tomb: 23
+ - Consign to Memory: 23
+ - Flooded Strand: 23
+ - Plains: 23
 
 *** COMMANDER ***
-There are 1731 Commander legal cards
-Have 114 out of 2021 - 5.64 percent of a playset
+There are 1941 Commander legal cards
+Have 114 out of 2231 - 5.11 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 1
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 {"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
- - Forest: 323
- - Plains: 294
- - Mountain: 247
- - Island: 228
- - Command Tower: 54
+ - Plains: 351
+ - Forest: 347
+ - Island: 285
+ - Mountain: 279
+ - Command Tower: 61
  - Snow-Covered Plains: 51
- - Path to Exile: 25
- - Snow-Covered Swamp: 24
- - Swiftfoot Boots: 23
- - Lightning Greaves: 22
+ - Swiftfoot Boots: 29
+ - Lightning Greaves: 27
+ - Path to Exile: 26
+ - Swords to Plowshares: 25
 
 *** MODERN ***
-There are 348 Modern legal cards
-Have 63 out of 1652 - 3.81 percent of a playset
+There are 387 Modern legal cards
+Have 63 out of 1808 - 3.48 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 98 Pioneer legal cards
-Have 51 out of 652 - 7.82 percent of a playset
+There are 104 Pioneer legal cards
+Have 51 out of 676 - 7.54 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Kumano Faces Kakkazan: 12
 
 *** STANDARD ***
-There are 39 Standard legal cards
-Have 45 out of 286 - 15.73 percent of a playset
+There are 40 Standard legal cards
+Have 45 out of 290 - 15.52 percent of a playset
 Chosen card is a(n) Basic Land from Duel Decks: Knights vs. Dragons - Forest. I own 0 of 30
 
 Closest deck to completion (Golgari Midrange) is at 68 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 635 Pauper legal cards
-Have 53 out of 2800 - 1.89 percent of a playset
+There are 706 Pauper legal cards
+Have 53 out of 3084 - 1.72 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -143,94 +143,98 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Soldier: 35
-- Wizard: 35
-- Knight: 28
-- Warrior: 27
-- Elemental: 25
-- Spirit: 25
-- Zombie: 22
-- Elf: 19
-- Goblin: 18
-- Bird: 17
-- Druid: 16
+- Wizard: 44
+- Soldier: 40
+- Spirit: 31
+- Warrior: 30
+- Knight: 29
+- Elemental: 28
+- Zombie: 25
+- Elf: 20
+- Druid: 19
+- Bird: 18
+- Rogue: 17
+- Insect: 16
 - Orc: 16
-- Rogue: 15
+- Merfolk: 15
+- Dragon: 14
 - Giant: 14
-- Insect: 14
-- Shaman: 13
+- Shaman: 14
 - Construct: 12
-- Demon: 11
+- Demon: 12
+- Golem: 12
+- Horror: 12
+- Faerie: 11
 - Illusion: 11
-- Merfolk: 11
+- Phyrexian: 11
+- Archer: 10
+- Cat: 10
 - Dwarf: 10
-- Faerie: 10
-- Horror: 10
+- Plant: 10
 - Artificer: 9
+- Avatar: 9
 - Beast: 9
-- Dragon: 9
 - Horse: 9
-- Phyrexian: 9
-- Plant: 9
-- Archer: 8
-- Avatar: 8
+- Ape: 8
+- Djinn: 8
+- Fungus: 8
 - Shapeshifter: 8
-- Ape: 7
-- Fungus: 7
+- Angel: 7
 - Kobold: 7
+- Skeleton: 7
 - Thrull: 7
-- Angel: 6
-- Djinn: 6
+- Vampire: 7
+- Wurm: 7
+- Efreet: 6
 - Elder: 6
-- Golem: 6
 - Minotaur: 6
 - Ouphe: 6
+- Rat: 6
 - Scout: 6
-- Skeleton: 6
+- Snake: 6
+- Assassin: 5
 - Barbarian: 5
-- Efreet: 5
+- Drake: 5
 - Frog: 5
 - Homarid: 5
+- Imp: 5
 - Incarnation: 5
 - Minion: 5
 - Noble: 5
-- Rat: 5
+- Pirate: 5
+- Serpent: 5
+- Shade: 5
 - Spider: 5
 - Treefolk: 5
+- Troll: 5
 - Wolf: 5
-- Wurm: 5
 - Advisor: 4
-- Assassin: 4
 - Bear: 4
-- Cat: 4
+- Dryad: 4
+- Elephant: 4
 - Fish: 4
-- Imp: 4
 - Lizard: 4
-- Pirate: 4
-- Snake: 4
-- Troll: 4
-- Vampire: 4
+- Nightstalker: 4
+- Specter: 4
+- Wraith: 4
 - Yeti: 4
-- Dryad: 3
-- Elephant: 3
 - Gargoyle: 3
+- Gnome: 3
 - Juggernaut: 3
 - Mercenary: 3
 - Nomad: 3
 - Ogre: 3
-- Shade: 3
 - Thopter: 3
 - Turtle: 3
 - Unicorn: 3
-- Wraith: 3
+- Atog: 2
 - Bard: 2
 - Bat: 2
 - Berserker: 2
+- Centaur: 2
 - C’tan: 2
 - Dinosaur: 2
 - Dog: 2
-- Drake: 2
-- Gnome: 2
 - Hag: 2
 - Hydra: 2
 - Leviathan: 2
@@ -239,17 +243,13 @@ Most common creature types:
 - Praetor: 2
 - Raccoon: 2
 - Ranger: 2
-- Serpent: 2
-- Slug: 2
-- Specter: 2
-- Squirrel: 2
 If above is 3, we should do a tribal Commander deck
 
 Percentages ordered by format:
-Standard: 15.73
-Pioneer: 7.82
-Commander: 5.64
-Modern: 3.81
-Pauper: 1.89
-Vintage: 1.59
-Legacy: 1.59
+Standard: 15.52
+Pioneer: 7.54
+Commander: 5.11
+Modern: 3.48
+Pauper: 1.72
+Vintage: 1.43
+Legacy: 1.42
