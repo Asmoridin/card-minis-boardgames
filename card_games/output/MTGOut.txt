@@ -1,9 +1,9 @@
-Tracking 1977 cards.
-Have 114 out of 8030 total cards for a playset - 1.42 percent
+Tracking 2023 cards.
+Have 114 out of 8214 total cards for a playset - 1.39 percent
 
 *** VINTAGE ***
-There are 1977 Vintage legal cards
-Have 114 out of 8000 - 1.43 percent of a playset
+There are 2023 Vintage legal cards
+Have 114 out of 8184 - 1.39 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 1922 Legacy legal cards
-Have 113 out of 7948 - 1.42 percent of a playset
+There are 1968 Legacy legal cards
+Have 113 out of 8132 - 1.39 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** COMMANDER ***
-There are 1941 Commander legal cards
-Have 114 out of 2231 - 5.11 percent of a playset
+There are 1987 Commander legal cards
+Have 114 out of 2277 - 5.01 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 1
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
@@ -52,18 +52,18 @@ Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 Most needed cards are:
  - Plains: 351
  - Forest: 347
+ - Mountain: 327
  - Island: 285
- - Mountain: 279
  - Command Tower: 61
  - Snow-Covered Plains: 51
+ - Snow-Covered Mountain: 50
  - Swiftfoot Boots: 29
- - Lightning Greaves: 27
+ - Lightning Greaves: 28
  - Path to Exile: 26
- - Swords to Plowshares: 25
 
 *** MODERN ***
-There are 387 Modern legal cards
-Have 63 out of 1808 - 3.48 percent of a playset
+There are 393 Modern legal cards
+Have 63 out of 1832 - 3.44 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 104 Pioneer legal cards
-Have 51 out of 676 - 7.54 percent of a playset
+There are 106 Pioneer legal cards
+Have 51 out of 684 - 7.46 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 706 Pauper legal cards
-Have 53 out of 3084 - 1.72 percent of a playset
+There are 725 Pauper legal cards
+Have 53 out of 3160 - 1.68 percent of a playset
 Chosen card is a(n) Creature from Alliances - Agent of Stromgald. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -143,51 +143,52 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Wizard: 44
+- Wizard: 45
 - Soldier: 40
-- Spirit: 31
-- Warrior: 30
-- Knight: 29
-- Elemental: 28
+- Spirit: 33
+- Knight: 32
+- Warrior: 32
+- Elemental: 30
 - Zombie: 25
 - Elf: 20
+- Bird: 19
 - Druid: 19
-- Bird: 18
 - Rogue: 17
+- Shaman: 17
+- Dragon: 16
 - Insect: 16
 - Orc: 16
 - Merfolk: 15
-- Dragon: 14
 - Giant: 14
-- Shaman: 14
 - Construct: 12
 - Demon: 12
+- Dwarf: 12
 - Golem: 12
 - Horror: 12
 - Faerie: 11
 - Illusion: 11
 - Phyrexian: 11
 - Archer: 10
+- Artificer: 10
 - Cat: 10
-- Dwarf: 10
 - Plant: 10
-- Artificer: 9
 - Avatar: 9
 - Beast: 9
+- Djinn: 9
 - Horse: 9
 - Ape: 8
-- Djinn: 8
+- Efreet: 8
 - Fungus: 8
 - Shapeshifter: 8
 - Angel: 7
 - Kobold: 7
+- Lizard: 7
+- Minotaur: 7
 - Skeleton: 7
 - Thrull: 7
 - Vampire: 7
 - Wurm: 7
-- Efreet: 6
 - Elder: 6
-- Minotaur: 6
 - Ouphe: 6
 - Rat: 6
 - Scout: 6
@@ -213,24 +214,23 @@ Most common creature types:
 - Dryad: 4
 - Elephant: 4
 - Fish: 4
-- Lizard: 4
 - Nightstalker: 4
+- Nomad: 4
 - Specter: 4
+- Unicorn: 4
 - Wraith: 4
 - Yeti: 4
+- Berserker: 3
 - Gargoyle: 3
 - Gnome: 3
 - Juggernaut: 3
 - Mercenary: 3
-- Nomad: 3
 - Ogre: 3
 - Thopter: 3
 - Turtle: 3
-- Unicorn: 3
 - Atog: 2
 - Bard: 2
 - Bat: 2
-- Berserker: 2
 - Centaur: 2
 - C’tan: 2
 - Dinosaur: 2
@@ -247,9 +247,9 @@ If above is 3, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 15.52
-Pioneer: 7.54
-Commander: 5.11
-Modern: 3.48
-Pauper: 1.72
-Vintage: 1.43
-Legacy: 1.42
+Pioneer: 7.46
+Commander: 5.01
+Modern: 3.44
+Pauper: 1.68
+Vintage: 1.39
+Legacy: 1.39

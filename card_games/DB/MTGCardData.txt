@@ -1769,7 +1769,53 @@ Armorer Guildmage;Creature — Human Wizard;R;Mirage (Common);0
 Barreling Attack;Instant;R;Mirage (Rare);0
 Blind Fury;Instant;R;Mirage (Uncommon);0
 Blistering Barrier;Creature — Wall;R;Mirage (Common);0
-# Done through card 3430
+Builder's Bane;Sorcery;R;Mirage (Common);0
+Burning Palm Efreet;Creature — Efreet;R;Mirage (Uncommon);0
+Burning Shield Askari;Creature — Human Knight;R;Mirage (Common);0
+Chaos Charm;Instant;R;Mirage (Common);0
+Chaosphere;World Enchantment;R;Mirage (Rare);0
+Cinder Cloud;Instant;R;Mirage (Uncommon);0
+Consuming Ferocity;Enchantment — Aura;R;Mirage (Uncommon);0
+Crimson Hellkite;Creature — Dragon;R;Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Mirage (Rare);0
+Crimson Roc;Creature — Bird;R;Mirage (Uncommon);0
+Dwarven Miner;Creature — Dwarf;R;Mirage (Uncommon);0
+Dwarven Nomad;Creature — Dwarf Nomad;R;Mirage (Common);0
+Ekundu Cyclops;Creature — Cyclops;R;Mirage (Common);0
+Emberwilde Djinn;Creature — Djinn;R;Mirage (Rare);0
+Final Fortune;Instant;R;Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Mirage (Rare);0
+Flame Elemental;Creature — Elemental;R;Mirage (Uncommon);0
+Goblin Elite Infantry;Creature — Goblin Warrior;R;Classic Sixth Edition (Common)/Seventh Edition (Common)/Mirage (Common)/Tenth Edition (Common);0
+Goblin Scouts;Sorcery;R;Mirage (Uncommon);0
+Goblin Soothsayer;Creature — Goblin Shaman;R;Mirage (Uncommon);0
+Goblin Tinkerer;Creature — Goblin Artificer;R;Mirage (Common);0
+Hammer of Bogardan;Sorcery;R;Classic Sixth Edition (Rare)/Eighth Edition (Rare)/Mirage (Rare)/Premium Deck Series: Fire and Lightning (Rare);0
+Hivis of the Scale;Legendary Creature — Lizard Shaman;R;Mirage (Rare);0
+Illicit Auction;Sorcery;R;Classic Sixth Edition (Rare)/Mirage (Rare);0
+Kaervek's Torch;Sorcery;R;Mirage (Common)/Vintage Masters (Uncommon);0
+Lightning Reflexes;Enchantment — Aura;R;Mirage (Common)/Dominaria Remastered (Common);0
+Pyric Salamander;Creature — Salamander;R;Mirage (Common);0
+Raging Spirit;Creature — Spirit;R;Mirage (Common);0
+Reckless Embermage;Creature — Human Wizard;R;Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Mirage (Rare);0
+Reign of Chaos;Sorcery;R;Mirage (Uncommon);0
+Searing Spear Askari;Creature — Human Knight;R;Mirage (Common);0
+Sirocco;Instant;R;Mirage (Uncommon);0
+Spitting Earth;Sorcery;R;Classic Sixth Edition (Common)/Seventh Edition (Common)/Mirage (Common)/Tenth Edition (Common)/Starter 1999 (Uncommon)/Portal (Common)/Portal Second Age (Common)/Duel Decks: Elves vs. Goblins (Common)/Duel Decks: Knights vs. Dragons (Common)/Duel Decks Anthology, Elves vs. Goblins (Common)/Jumpstart (Common);0
+Subterranean Spirit;Creature — Elemental Spirit;R;Mirage (Rare);0
+Talruum Minotaur;Creature — Minotaur Berserker;R;Classic Sixth Edition (Common)/Mirage (Common)/Beatdown Box Set (Common);0
+Telim'Tor;Legendary Creature — Human Knight;R;Mirage (Rare);0
+Telim'Tor's Edict;Instant;R;Mirage (Rare);0
+Torrent of Lava;Sorcery;R;Mirage (Rare);0
+Viashino Warrior;Creature — Lizard Warrior;R;Classic Sixth Edition (Common)/Mirage (Common)/Beatdown Box Set (Common);0
+Volcanic Dragon;Creature — Dragon;R;Classic Sixth Edition (Rare)/Mirage (Rare)/Starter 1999 (Rare)/Portal (Rare)/Magic 2012 (Uncommon)/Core Set 2019 (Uncommon)/Core Set 2020 (Uncommon)/Commander Legends (Uncommon)/Arena Base Set (Uncommon);0
+Volcanic Geyser;Instant;R;Classic Sixth Edition (Uncommon)/Mirage (Uncommon)/Magic 2013 (Uncommon)/Magic 2014 Core Set (Uncommon)/Archenemy: Nicol Bolas (Uncommon)/Core Set 2021 (Uncommon);0
+Wildfire Emissary;Creature — Efreet;R;Mirage (Uncommon)/Time Spiral "Timeshifted" (Special)/Battle Royale Box Set (Uncommon)/Eternal Masters (Common);0
+Zirilan of the Claw;Legendary Creature — Lizard Shaman;R;Mirage (Rare);0
+Afterlife;Instant;W;Mirage (Uncommon)/Mercadian Masques (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Vintage Masters (Common)/Commander 2014 (Uncommon);0
+Alarum;Instant;W;Mirage (Common);0
+Auspicious Ancestor;Creature — Human Cleric;W;Mirage (Rare);0
+Benevolent Unicorn;Creature — Unicorn;W;Mirage (Common);0
+Blinding Light;Sorcery;W;Mirage (Uncommon)/Invasion (Uncommon)/Starter 1999 (Rare)/Portal (Rare);0
+# Done through card 3480
 #3629
 Vampiric Tutor;Instant;B;Classic Sixth Edition (Rare)/Visions (Rare)/Vintage Masters (Rare)/Eternal Masters (Mythic Rare)/Commander Legends (Mythic Rare)/Dominaria Remastered (Mythic Rare);0
 #4245
