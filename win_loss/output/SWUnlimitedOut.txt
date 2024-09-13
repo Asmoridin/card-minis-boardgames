@@ -1,5 +1,5 @@
 Star Wars: Unlimited W/L Loss Tracker, and deck selector
-My current record is 20-9
+My current record is 21-9
 
 My record by leader:
 Boba Fett, Collecting the Bounty: 1-1
@@ -13,6 +13,7 @@ Grand Inquisitor, Hunting the Jedi: 2-0
 Grand Moff Tarkin, Oversector Governor: 1-1
 Han Solo, Audacious Smuggler: 2-0
 Hera Syndulla, Spectre Two: 1-0
+Jyn Erso, Resisting Oppression: 1-0
 Leia Organa, Alliance General: 2-0
 Luke Skywalker, Faithful Friend: 1-0
 Moff Gideon, Formidable Commander: 1-0
@@ -23,8 +24,8 @@ My H-Index is 3
 My record by aspect:
 Aggression: 9-3
 Command: 11-6
-Cunning: 10-3
-Heroism: 11-4
+Cunning: 11-3
+Heroism: 12-4
 Vigilance: 10-6
 Villainy: 9-5
 
@@ -34,7 +35,7 @@ CJ: 1-2
 Dan: 2-2
 Elias: 6-0
 Mark (Let's Play): 0-1
-Matt: 8-1
+Matt: 9-1
 Peggy: 1-0
 
 My record against opposing leaders:
@@ -44,11 +45,11 @@ Darth Vader, Dark Lord of the Sith: 2-0
 Grand Admiral Thrawn, Patient and Insightful: 1-0
 Iden Versio, Inferno Squad Commander: 5-0
 Leia Organa, Alliance General: 2-2
-Luke Skywalker, Faithful Friend: 2-0
+Luke Skywalker, Faithful Friend: 3-0
 Moff Gideon, Formidable Commander: 1-0
 Sabine Wren, Galvanized Revolutionary: 2-4
 The Mandalorian, Sworn to the Creed: 1-0
 
-I've seen these leaders on the table the least (0 times): Bo-Katan Kryze, Princess In Exile; Boba Fett, Daimyo; Bossk, Hunting His Prey; Cad Bane, He Who Needs No Introduction; Doctor Aphra, Rapacious Archaeologist; Fennec Shand, Honoring the Deal; Finn, This Is A Rescue; Gar Saxon, Viceroy of Mandalore; Han Solo, Worth the Risk; Hondo Ohnaka, That's Good Business; Hunter, Outcast Sergeant; IG-88, Ruthless Bounty Hunter; Jabba the Hutt, His High Exaltedness; Jyn Erso, Resisting Oppression; Kylo Ren, Rash and Deadly; Lando Calrissian, With Impeccable Taste; Qi'ra, I Alone Survived; Rey, More Than A Scavenger
+I've seen these leaders on the table the least (0 times): Bo-Katan Kryze, Princess In Exile; Boba Fett, Daimyo; Bossk, Hunting His Prey; Cad Bane, He Who Needs No Introduction; Doctor Aphra, Rapacious Archaeologist; Fennec Shand, Honoring the Deal; Finn, This Is A Rescue; Gar Saxon, Viceroy of Mandalore; Han Solo, Worth the Risk; Hondo Ohnaka, That's Good Business; Hunter, Outcast Sergeant; IG-88, Ruthless Bounty Hunter; Jabba the Hutt, His High Exaltedness; Kylo Ren, Rash and Deadly; Lando Calrissian, With Impeccable Taste; Qi'ra, I Alone Survived; Rey, More Than A Scavenger
 
 I should play more games with Bo-Katan Kryze, Princess In Exile, as I only have 0 games

@@ -133,12 +133,36 @@ def parse_restrictions(restr_lines):
         for restriction in card_restrictions.split('/'):
             this_format, bnr = restriction.split('-')
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
-                    'Standard', 'Pioneer', ]:
+                    'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block']:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
             return_dict[this_card_name][this_format] = bnr
     return return_dict
+
+    #Ixalan block (Ixalan, Rivals of Ixalan)
+    #Amonkhet block (Amonkhet, Hour of Devastation)
+    #Kaladesh block (Kaladesh, Aether Revolt)
+    #Shadows over Innistrad block (Shadows over Innistrad, Eldritch Moon)
+    #Battle for Zendikar block (Battle for Zendikar, Oath of the Gatewatch)
+    #Khans of Tarkir block (Khans of Tarkir, Fate Reforged, Dragons of Tarkir)
+    #Theros block (Theros, Born of the Gods, Journey into Nyx)
+    #Return to Ravnica block (Return to Ravnica, Gatecrash, Dragon's Maze)
+    #Innistrad block (Innistrad, Dark Ascension, Avacyn Restored)
+    #Scars of Mirrodin block (Scars of Mirrodin, Mirrodin Besieged, New Phyrexia)
+    #Zendikar block (Zendikar, Worldwake, Rise of the Eldrazi)
+    #Alara block (Shards of Alara, Conflux, Alara Reborn)
+    #Lorwyn–Shadowmoor block (Lorwyn, Morningtide, Shadowmoor, Eventide)
+    #Time Spiral block (Time Spiral, Planar Chaos, Future Sight)
+    #Ravnica block (Ravnica: City of Guilds, Guildpact, Dissension)
+    #Kamigawa block (Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa)
+    #Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
+    #Onslaught block (Onslaught, Legions, Scourge)
+    #Odyssey block (Odyssey, Torment, Judgment)
+    #Invasion block (Invasion, Planeshift, Apocalypse)
+    #Masques block (Mercadian Masques, Nemesis, Prophecy)
+    #Urza's block (Urza's Saga, Urza's Legacy, Urza's Destiny)
+    #Tempest block (Tempest, Stronghold, Exodus)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -147,7 +171,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
     ret_sets = []
     ret_rarities = set()
-    ret_formats = {"Commander": 1, "Vintage": 4, "Legacy": 4}
+    ret_formats = {"Commander": 1, "Vintage": 4, "Legacy": 4, "Oathbreaker":1}
     this_card_max = 1
     for card_set in card_set_string.split('/'):
         match_obj = re.search(r"(.*) \((.*)\)", card_set)
@@ -178,6 +202,12 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
                 ret_formats['Modern'] = 4
             else:
                 print("[" + this_card_name + "] Handle: " + this_set)
+            # Handle Ice Age Block
+            if this_set in ['Ice Age', 'Coldsnap', 'Alliances']:
+                ret_formats['Ice Age Block'] = 4
+            # Handle Mirage Block
+            if this_set in ['Mirage', 'Visions', 'Weatherlight']:
+                ret_formats['Mirage Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -253,8 +283,8 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Mirage"
-CHECK_AMOUNT = 350
+CHECK_SET = "Portal"
+CHECK_AMOUNT = 215
 SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
@@ -490,6 +520,87 @@ pauper_most_needed = aggregate_most_needed(pauper_decks_minus_own)
 pauper_most_needed = sorted(pauper_most_needed, key=lambda x:(-1 * x[1], x[0]))
 pauper_decks_minus_own = sorted(pauper_decks_minus_own, key=lambda x:x[1])
 
+# Get data for Oathbreaker
+oath_list = []
+OATH_OWN = 0
+OATH_TOTAL = 0
+for card in raw_list:
+    if 'Oathbreaker' in card[6]:
+        oath_list.append(card)
+        OATH_TOTAL += card[6]['Oathbreaker']
+        OATH_OWN += min(card[7], card[6]['Oathbreaker'])
+OATH_CARDS = len(oath_list)
+FORMAT_LIST.append(("Oathbreaker", OATH_OWN, OATH_TOTAL))
+
+oath_set, filtered_list = sort_and_filter(oath_list, 4)
+oath_type, filtered_list = sort_and_filter(filtered_list, 1)
+if oath_type == 'Creature' or oath_type == 'Planeswalker':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
+oath_color, filtered_list = sort_and_filter(filtered_list, 3)
+oath_rarity, filtered_list = sort_and_filter(filtered_list, 5)
+oath_name, filtered_list = sort_and_filter(filtered_list, 0)
+oath_item = filtered_list[0]
+
+oath_decks = read_decks('Oathbreaker')
+oath_decks_minus_own = check_decks(oath_decks, oath_list)
+oath_most_needed = aggregate_most_needed(oath_decks_minus_own)
+oath_most_needed = sorted(oath_most_needed, key=lambda x:(-1 * x[1], x[0]))
+oath_decks_minus_own = sorted(oath_decks_minus_own, key=lambda x:x[1])
+
+# Get data for Ice Age Block
+ia_list = []
+IA_OWN = 0
+IA_TOTAL = 0
+for card in raw_list:
+    if 'Ice Age Block' in card[6]:
+        ia_list.append(card)
+        IA_TOTAL += card[6]['Ice Age Block']
+        IA_OWN += min(card[7], card[6]['Ice Age Block'])
+IA_CARDS = len(ia_list)
+FORMAT_LIST.append(("Ice Age Block", IA_OWN, IA_TOTAL))
+
+ia_set, filtered_list = sort_and_filter(ia_list, 4)
+ia_type, filtered_list = sort_and_filter(filtered_list, 1)
+if ia_type == 'Creature' or ia_type == 'Planeswalker':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
+ia_color, filtered_list = sort_and_filter(filtered_list, 3)
+ia_rarity, filtered_list = sort_and_filter(filtered_list, 5)
+ia_name, filtered_list = sort_and_filter(filtered_list, 0)
+ia_item = filtered_list[0]
+
+ia_decks = read_decks('IceAgeBlock')
+ia_decks_minus_own = check_decks(ia_decks, ia_list)
+ia_most_needed = aggregate_most_needed(ia_decks_minus_own)
+ia_most_needed = sorted(ia_most_needed, key=lambda x:(-1 * x[1], x[0]))
+ia_decks_minus_own = sorted(ia_decks_minus_own, key=lambda x:x[1])
+
+# Get data for Mirage Block
+mir_list = []
+MIR_OWN = 0
+MIR_TOTAL = 0
+for card in raw_list:
+    if 'Mirage Block' in card[6]:
+        mir_list.append(card)
+        MIR_TOTAL += card[6]['Mirage Block']
+        MIR_OWN += min(card[7], card[6]['Mirage Block'])
+MIR_CARDS = len(mir_list)
+FORMAT_LIST.append(("Mirage Block", MIR_OWN, MIR_TOTAL))
+
+mir_set, filtered_list = sort_and_filter(mir_list, 4)
+mir_type, filtered_list = sort_and_filter(filtered_list, 1)
+if mir_type == 'Creature' or mir_type == 'Planeswalker':
+    _, filtered_list = sort_and_filter(filtered_list, 2)
+mir_color, filtered_list = sort_and_filter(filtered_list, 3)
+mir_rarity, filtered_list = sort_and_filter(filtered_list, 5)
+mir_name, filtered_list = sort_and_filter(filtered_list, 0)
+mir_item = filtered_list[0]
+
+mir_decks = read_decks('MirageBlock')
+mir_decks_minus_own = check_decks(mir_decks, mir_list)
+mir_most_needed = aggregate_most_needed(mir_decks_minus_own)
+mir_most_needed = sorted(mir_most_needed, key=lambda x:(-1 * x[1], x[0]))
+mir_decks_minus_own = sorted(mir_decks_minus_own, key=lambda x:x[1])
+
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
         out_file_h = open("card_games/output/MTGOut.txt", 'w', encoding="UTF-8")
@@ -634,6 +745,64 @@ if __name__ == "__main__":
     for card_tuple in pauper_most_needed[:10]:
         double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
 
+    # Oathbreaker
+    double_print("\n*** OATHBREAKER ***", out_file_h)
+    double_print(f"There are {OATH_CARDS} Oathbreaker legal cards", out_file_h)
+    OATH_STR = f"Have {OATH_OWN} out of {OATH_TOTAL} - " \
+        f"{100* OATH_OWN/OATH_TOTAL:.2f} percent of a playset"
+    double_print(OATH_STR, out_file_h)
+
+    PURCH_STR = f"Chosen card is a(n) {oath_type} from {oath_set} - {oath_name}" + \
+        f". I own {oath_item[7]} of {oath_item[6]['Oathbreaker']}"
+    double_print(PURCH_STR, out_file_h)
+
+    double_print(f"\nClosest deck to completion ({oath_decks_minus_own[0][0]}) is at " + \
+        f"{oath_decks_minus_own[0][1]} cards.", out_file_h)
+    double_print(str(oath_decks_minus_own[0][2]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in oath_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    # Ice Age Block
+    double_print("\n*** ICE AGE BLOCK ***", out_file_h)
+    double_print(f"There are {IA_CARDS} Ice Age Block legal cards", out_file_h)
+    IA_STR = f"Have {IA_OWN} out of {IA_TOTAL} - " \
+        f"{100* IA_OWN/IA_TOTAL:.2f} percent of a playset"
+    double_print(IA_STR, out_file_h)
+
+    PURCH_STR = f"Chosen card is a(n) {ia_type} from {ia_set} - {ia_name}" + \
+        f". I own {ia_item[7]} of {ia_item[6]['Ice Age Block']}"
+    double_print(PURCH_STR, out_file_h)
+
+    double_print(f"\nClosest deck to completion ({ia_decks_minus_own[0][0]}) is at " + \
+        f"{ia_decks_minus_own[0][1]} cards.", out_file_h)
+    double_print(str(ia_decks_minus_own[0][2]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in ia_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    # Mirage Block
+    double_print("\n*** MIRAGE BLOCK ***", out_file_h)
+    double_print(f"There are {MIR_CARDS} Mirage Block legal cards", out_file_h)
+    MIR_STR = f"Have {MIR_OWN} out of {MIR_TOTAL} - " \
+        f"{100* MIR_OWN/MIR_TOTAL:.2f} percent of a playset"
+    double_print(MIR_STR, out_file_h)
+
+    PURCH_STR = f"Chosen card is a(n) {mir_type} from {mir_set} - {mir_name}" + \
+        f". I own {mir_item[7]} of {mir_item[6]['Mirage Block']}"
+    double_print(PURCH_STR, out_file_h)
+
+    double_print(f"\nClosest deck to completion ({mir_decks_minus_own[0][0]}) is at " + \
+        f"{mir_decks_minus_own[0][1]} cards.", out_file_h)
+    double_print(str(mir_decks_minus_own[0][2]), out_file_h)
+
+    double_print("\nMost needed cards are:", out_file_h)
+    for card_tuple in mir_most_needed[:10]:
+        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    # Other
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print("Most common creature types:", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel',]

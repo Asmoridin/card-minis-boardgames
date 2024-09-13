@@ -27,3 +27,4 @@ Grand Moff Tarkin, Oversector Governor;U;Matt;Iden Versio, Inferno Squad Command
 Grand Moff Tarkin, Oversector Governor;U;Matt;Boba Fett, Collecting the Bounty;R;L
 Moff Gideon, Formidable Commander;U;Matt;The Mandalorian, Sworn to the Creed;U;W
 The Mandalorian, Sworn to the Creed;U;Matt;Moff Gideon, Formidable Commander;U;W
+Jyn Erso, Resisting Oppression;Y;Matt;Luke Skywalker, Faithful Friend;Y;W

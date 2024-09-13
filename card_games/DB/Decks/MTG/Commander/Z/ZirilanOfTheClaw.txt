@@ -1,4 +1,4 @@
-//Pulled 9/11/24 from https://archidekt.com/decks/9038126?utm_source=edhrec&utm_medium=deck_summary
+// Pulled 9/11/24 from https://archidekt.com/decks/9038126?utm_source=edhrec&utm_medium=deck_summary
 1 Zirilan of the Claw
 1 Abrade
 1 Aggravated Assault

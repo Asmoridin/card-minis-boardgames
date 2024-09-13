@@ -5,3 +5,5 @@ Broly;FS03-01;Son Goku;FS01-01;Elias P;W
 Frieza;FS04-01;Son Goku;FS01-01;Elias P;W
 Vegeta;FS02-01;Son Goku;FS01-01;Elias P;W
 Son Goku;FS01-01;Broly;FS03-01;Matt P;W
+Bardock;FS05-01;Son Goku;FS01-01;Elias P;W
+Bardock;FS05-01;Son Goku;FS01-01;Elias P;W
