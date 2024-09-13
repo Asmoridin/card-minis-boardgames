@@ -174,14 +174,14 @@ for subtype, subtype_count in sub_type_map.items():
     if subtype_count == 1:
         singleton_traits.append(subtype)
 
-print("Following traits show up only once: " + ', '.join(sorted(singleton_traits)))
-
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
         out_file_h = open("card_games/output/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
     else:
         out_file_h = open("output/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
 
+    double_print("Following traits show up only once: " + ', '.join(sorted(singleton_traits)), \
+        out_file_h)
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(SUMMARY_STRING, out_file_h)
 

@@ -1,6 +1,6 @@
-3 Savage Twisters
+3 Savage Twister
 3 Afterlife             
-4 Incinerates           
+4 Incinerate         
 2 Honorable Passage     
 3 Hammer of Bogardan    
 3 Sacred Mesa           
@@ -14,7 +14,7 @@
 1 Kaervek's Torch
 2 Amber Prison
 2 Disenchant
-1 Grassland
+1 Grasslands
 3 Undiscovered Paradise
 4 Forest
 7 Mountain

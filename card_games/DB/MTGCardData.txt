@@ -2116,20 +2116,33 @@ Djinn of the Lamp;Creature — Djinn;U;Portal (Rare);0
 Exhaustion;Sorcery;U;Ninth Edition (Uncommon)/Urza's Saga (Uncommon)/Starter 1999 (Uncommon)/Portal (Rare)/Portal Second Age (Rare)/Portal Three Kingdoms (Rare);0
 Flux;Sorcery;U;Weatherlight (Common)/Portal (Uncommon);0
 Giant Octopus;Creature — Octopus;U;Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Starter 1999 (Common)/Starter 2000 (Common)/Portal (Common);0
-Horned Turtle;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Tempest (Common)/Portal (Common)/Magic 2010 (Common)/Tempest Remastered (Common);0
+Horned Turtle;Creature - Turtle;U;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Tempest (Common)/Portal (Common)/Magic 2010 (Common)/Tempest Remastered (Common);0
 Ingenious Thief;Creature — Human Rogue;U;Starter 1999 (Common)/Portal (Uncommon);0
 Mystic Denial;Instant;U;Portal (Uncommon)/Portal Second Age (Uncommon)/Portal Three Kingdoms (Uncommon);0
 Omen;Sorcery;U;Portal (Common);0
 Owl Familiar;Creature — Bird;U;Starter 1999 (Uncommon)/Portal (Common)/Masters Edition IV (Common)/Vintage Masters (Common)/Ravnica Clue Edition (Common);0
-# Done through card 4270
+Personal Tutor;Sorcery;U;Portal (Uncommon)/Masters Edition II (Uncommon)/Commander Masters (Rare);0
+# Done through card 4271
+#4435
+Mana Web;Artifact;C;Weatherlight (Rare);0
 #4436
 Mind Stone;Artifact;C;Weatherlight (Common)/Tenth Edition (Uncommon)/Duel Decks: Jace vs. Chandra (Uncommon)/Commander 2014 (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Uncommon)/Duel Decks: Zendikar vs. Eldrazi (Uncommon)/Commander 2015 (Uncommon)/Iconic Masters (Common)/Commander Anthology 2018 (Uncommon)/Commander 2018 (Common)/Zendikar Rising Commander (Uncommon)/Kaldheim Commander (Common)/Commander 2021 (Uncommon)/Adventures in the Forgotten Realms Commander (Uncommon)/Historical Anthology 1 (Common)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Warhammer 40,000 Commander (Uncommon)/The Brothers' War Commander (Uncommon)/Dominaria Remastered (Common)/Phyrexia: All Will Be One Commander (Uncommon)/March of the Machine Commander (Uncommon)/The Lord of the Rings: Tales of Middle Earth Commander (Uncommon)/Commander Masters (Common)/Wilds of Eldraine Commander (Uncommon)/Doctor Who Commander (Uncommon)/The Lost Caverns of Ixalan Commander (Common)/Murders at Karlov Manor Commander (Uncommon)/Magic The Gathering—Fallout (Uncommon)/Bloomburrow Commander (Uncommon);1
 #4437
 Null Rod;Artifact;C;Weatherlight (Rare)/Vintage Masters (Rare);0
+#4443
+Thran Tome;Artifact;C;Weatherlight (Rare);0
 #4454
 Doomsday;Sorcery;B;Classic Sixth Edition (Rare)/Weatherlight (Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Masters 25 (Mythic Rare);0
 #4469
 Spinning Darkness;Instant;B;Weatherlight (Common);0
+#4537
+Bogardan Firefiend;Creature — Elemental Spirit;R;Weatherlight (Common)/Tenth Edition (Common)/Planechase (Common);0
+#4568
+Argivian Find;Instant;W;Weatherlight (Uncommon);0
+#4587
+Serra's Blessing;Enchantment;W;Classic Sixth Edition (Uncommon)/Ninth Edition (Uncommon)/Weatherlight (Uncommon);0
+#4592
+Gemstone Mine;Land;C;Weatherlight (Uncommon)/Time Spiral "Timeshifted" (Special)/Dominaria Remastered (Rare);0
 #4614
 Lotus Petal;Artifact;C;Tempest (Common)/From the Vault: Exiled (Mythic Rare)/Tempest Remastered (Uncommon)/Masterpiece Series: Kaladesh Inventions (Special);0
 #4636

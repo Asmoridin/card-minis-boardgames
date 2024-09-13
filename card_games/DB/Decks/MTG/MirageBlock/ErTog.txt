@@ -1,4 +1,4 @@
-3 Shadow Gulidmage
+3 Shadow Guildmage
 3 Circling Vultures
 4 Skulking Ghost
 4 Ertai's Familiar
@@ -7,7 +7,7 @@
 3 Barrow Ghoul
 3 Hidden Horror
 3 Necratog
-4 Man O' War
+4 Man-o'-War
 3 Song of Blood
 3 Bad River
 3 Rocky Tar Pit

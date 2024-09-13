@@ -1,7 +1,7 @@
-4 Goblin Elite Infantary
-4 Suq-Ata Lancer
+4 Goblin Elite Infantry
+4 Suq'Ata Lancer
 4 Bloodrock Cyclops
-4 Man-o-War
+4 Man-o'-War
 4 Talruum Minotaur
 4 Incinerate
 3 Hammer of Bogardan
@@ -13,7 +13,7 @@
 7 Island
 4 Gemstone Mine
 
-3 Knights of the Mist
+3 Knight of the Mists
 2 Mind Harness
 2 Abduction
 3 Reign of Chaos
