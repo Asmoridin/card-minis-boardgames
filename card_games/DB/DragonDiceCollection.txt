@@ -469,7 +469,7 @@ Water Morehl Escort;Eldarim;Uncommon;0
 Water Vagha Racer;Eldarim;Uncommon;0
 Water Morehl Racer;Eldarim;Uncommon;1
 Water Trog Racer;Eldarim;Uncommon;0
-Water Vahga Enthraller;Eldarim;Uncommon;1
+Water Vagha Enthraller;Eldarim;Uncommon;1
 Water Morehl Enthraller;Eldarim;Uncommon;1
 Water Trog Enthraller;Eldarim;Uncommon;1
 Water Trog Follower;Eldarim;Common;2
@@ -490,7 +490,7 @@ Water Vagha Sprinter;Eldarim;Common;0
 Water Morehl Sprinter;Eldarim;Common;0
 Water Trog Spellbinder;Eldarim;Common;0
 Water Vagha Spellbinder;Eldarim;Common;0
-Water Morehl Spellbinder;Eldarim;Common;1
+Water Morehl Spellbinder;Eldarim;Common;2
 Water Selumari Spellbinder;Eldarim;Common;0
 Air Dragon Hunter;Eldarim;Champion;0
 Air Dragon Zealot;Eldarim;Champion;0
@@ -505,12 +505,12 @@ Air Trog Devotee;Eldarim;Uncommon;0
 Air Morehl Devotee;Eldarim;Uncommon;0
 Air Selumari Devotee;Eldarim;Uncommon;1
 Air Selumari Escort;Eldarim;Uncommon;0
-Air Vagha Escort;Eldarim;Uncommon;0
+Air Vagha Escort;Eldarim;Uncommon;1
 Air Morehl Escort;Eldarim;Uncommon;0
 Air Vagha Racer;Eldarim;Uncommon;0
 Air Morehl Racer;Eldarim;Uncommon;1
 Air Trog Racer;Eldarim;Uncommon;1
-Air Vahga Enthraller;Eldarim;Uncommon;0
+Air Vagha Enthraller;Eldarim;Uncommon;0
 Air Morehl Enthraller;Eldarim;Uncommon;0
 Air Trog Enthraller;Eldarim;Uncommon;1
 Air Trog Follower;Eldarim;Common;0
@@ -523,7 +523,7 @@ Air Morehl Warder;Eldarim;Common;0
 Air Selumari Warder;Eldarim;Common;1
 Air Trog Toxophilite;Eldarim;Common;1
 Air Vagha Toxophilite;Eldarim;Common;0
-Air Morehl Toxophilite;Eldarim;Common;1
+Air Morehl Toxophilite;Eldarim;Common;2
 Air Selumari Toxophilite;Eldarim;Common;0
 Air Selumari Sprinter;Eldarim;Common;2
 Air Trog Sprinter;Eldarim;Common;0
@@ -536,7 +536,7 @@ Air Selumari Spellbinder;Eldarim;Common;0
 Fire Dragon Hunter;Eldarim;Champion;0
 Fire Dragon Zealot;Eldarim;Champion;0
 Fire Dragon Master;Eldarim;Champion;0
-Fire Trog Disciple;Eldarim;Rare;0
+Fire Trog Disciple;Eldarim;Rare;1
 Fire Selumari Disciple;Eldarim;Rare;0
 Fire Morehl Bodyguard;Eldarim;Rare;0
 Fire Vagha Bodyguard;Eldarim;Rare;2
@@ -551,7 +551,7 @@ Fire Morehl Escort;Eldarim;Uncommon;1
 Fire Vagha Racer;Eldarim;Uncommon;0
 Fire Morehl Racer;Eldarim;Uncommon;0
 Fire Trog Racer;Eldarim;Uncommon;0
-Fire Vahga Enthraller;Eldarim;Uncommon;1
+Fire Vagha Enthraller;Eldarim;Uncommon;2
 Fire Morehl Enthraller;Eldarim;Uncommon;0
 Fire Trog Enthraller;Eldarim;Uncommon;0
 Fire Trog Follower;Eldarim;Common;0
@@ -573,7 +573,7 @@ Fire Morehl Sprinter;Eldarim;Common;1
 Fire Trog Spellbinder;Eldarim;Common;1
 Fire Vagha Spellbinder;Eldarim;Common;0
 Fire Morehl Spellbinder;Eldarim;Common;0
-Fire Selumari Spellbinder;Eldarim;Common;0
+Fire Selumari Spellbinder;Eldarim;Common;1
 Earth Dragon Hunter;Eldarim;Champion;0
 Earth Dragon Zealot;Eldarim;Champion;0
 Earth Dragon Master;Eldarim;Champion;0
@@ -592,7 +592,7 @@ Earth Morehl Escort;Eldarim;Uncommon;0
 Earth Vagha Racer;Eldarim;Uncommon;1
 Earth Morehl Racer;Eldarim;Uncommon;0
 Earth Trog Racer;Eldarim;Uncommon;0
-Earth Vahga Enthraller;Eldarim;Uncommon;0
+Earth Vagha Enthraller;Eldarim;Uncommon;0
 Earth Morehl Enthraller;Eldarim;Uncommon;2
 Earth Trog Enthraller;Eldarim;Uncommon;0
 Earth Trog Follower;Eldarim;Common;0
@@ -602,11 +602,11 @@ Earth Selumari Follower;Eldarim;Common;0
 Earth Trog Warder;Eldarim;Common;0
 Earth Vagha Warder;Eldarim;Common;1
 Earth Morehl Warder;Eldarim;Common;0
-Earth Selumari Warder;Eldarim;Common;0
+Earth Selumari Warder;Eldarim;Common;1
 Earth Trog Toxophilite;Eldarim;Common;0
 Earth Vagha Toxophilite;Eldarim;Common;0
 Earth Morehl Toxophilite;Eldarim;Common;0
-Earth Selumari Toxophilite;Eldarim;Common;1
+Earth Selumari Toxophilite;Eldarim;Common;2
 Earth Selumari Sprinter;Eldarim;Common;0
 Earth Trog Sprinter;Eldarim;Common;0
 Earth Vagha Sprinter;Eldarim;Common;1
@@ -623,7 +623,7 @@ Death Selumari Disciple;Eldarim;Rare;1
 Death Morehl Bodyguard;Eldarim;Rare;0
 Death Vagha Bodyguard;Eldarim;Rare;0
 Death Trog Sorcerer;Eldarim;Rare;1
-Death Morehl Sorcerer;Eldarim;Rare;2
+Death Morehl Sorcerer;Eldarim;Rare;3
 Death Trog Devotee;Eldarim;Uncommon;0
 Death Morehl Devotee;Eldarim;Uncommon;0
 Death Selumari Devotee;Eldarim;Uncommon;1
@@ -632,11 +632,11 @@ Death Vagha Escort;Eldarim;Uncommon;0
 Death Morehl Escort;Eldarim;Uncommon;0
 Death Vagha Racer;Eldarim;Uncommon;0
 Death Morehl Racer;Eldarim;Uncommon;0
-Death Trog Racer;Eldarim;Uncommon;0
-Death Vahga Enthraller;Eldarim;Uncommon;0
+Death Trog Racer;Eldarim;Uncommon;1
+Death Vagha Enthraller;Eldarim;Uncommon;0
 Death Morehl Enthraller;Eldarim;Uncommon;0
 Death Trog Enthraller;Eldarim;Uncommon;0
-Death Trog Follower;Eldarim;Common;1
+Death Trog Follower;Eldarim;Common;2
 Death Vagha Follower;Eldarim;Common;1
 Death Morehl Follower;Eldarim;Common;0
 Death Selumari Follower;Eldarim;Common;1

@@ -19,6 +19,8 @@ file_h = open('card_games/DB/MTGCardData.txt', 'r', encoding="UTF-8")
 restr_file_h = open('card_games/DB/MTGRestrictions.txt', 'r', encoding="UTF-8")
 DECK_DIR = "card_games/DB/Decks/MTG"
 
+raw_list = [] # Will hold the full list of cards
+
 class Deck:
     """
     Helper class for a deck, keeping a track of the name and composition
@@ -36,11 +38,11 @@ def read_decks(deck_format):
     """
     ret_list = []
     if deck_format == 'Commander':
-        for name_letter in os.listdir(DECK_DIR + '/' + deck_format):
-            for deck_file in os.listdir(DECK_DIR + '/' + deck_format + "/" + name_letter):
+        for comm_color in os.listdir(DECK_DIR + '/' + deck_format):
+            for deck_file in os.listdir(DECK_DIR + '/' + deck_format + "/" + comm_color):
                 deck_name = deck_file.replace('.txt', '')
                 this_deck = {}
-                deck_fh = open(DECK_DIR + '/' + deck_format + '/' + name_letter + "/" + \
+                deck_fh = open(DECK_DIR + '/' + deck_format + '/' + comm_color + "/" + \
                         deck_file, 'r', encoding='UTF-8')
                 deck_lines = deck_fh.readlines()
                 deck_fh.close()
@@ -275,6 +277,71 @@ def validate_types(card_type_string):
             ret_subtype.append(check_type)
     return(ret_type, ret_subtype)
 
+def process_formats(format_name):
+    """
+    Given a format_name, process everything we need- find the suggested card, give stats on 
+    the format, and parse, and sort the various decks.
+    """
+    return_dict = {}
+    return_dict['FILTERED'] = {}
+    format_card_list = []
+    format_own = 0
+    format_total = 0
+    for in_card in raw_list:
+        if format_name in in_card[6]:
+            format_card_list.append(in_card)
+            format_total += in_card[6][format_name]
+            format_own += min(in_card[7], in_card[6][format_name])
+    format_cards = len(format_card_list)
+    FORMAT_LIST.append((format_name, format_own, format_total))
+
+    return_dict['FILTERED']['set'], ft_filtered_list = sort_and_filter(format_card_list, 4)
+    return_dict['FILTERED']['type'], ft_filtered_list = sort_and_filter(ft_filtered_list, 1)
+    if return_dict['FILTERED']['type'] in ['Creature', 'Planeswalker']:
+        _, ft_filtered_list = sort_and_filter(ft_filtered_list, 2)
+    _, ft_filtered_list = sort_and_filter(ft_filtered_list, 3)
+    _, ft_filtered_list = sort_and_filter(ft_filtered_list, 5)
+    return_dict['FILTERED']['name'], ft_filtered_list = sort_and_filter(ft_filtered_list, 0)
+    return_dict['ITEM'] = ft_filtered_list[0]
+
+    format_decks = read_decks(format_name)
+    format_decks_minus_own = check_decks(format_decks, format_card_list)
+    format_most_needed = aggregate_most_needed(format_decks_minus_own)
+    format_most_needed = sorted(format_most_needed, key=lambda x:(-1 * x[1], x[0]))
+    format_decks_minus_own = sorted(format_decks_minus_own, key=lambda x:x[1])
+    return_dict['FORMAT_OWN'] = format_own
+    return_dict['FORMAT_TOTAL'] = format_total
+    return_dict['FORMAT_CARDS'] = format_cards
+    return_dict['DECKS'] = format_decks_minus_own
+    return_dict['NEEDED'] = format_most_needed
+    return return_dict
+
+def handle_output(format_name, format_dict, dest_fh):
+    """
+    Handle the output, so I don't have to do this multiple times
+    """
+    double_print(f"\n*** {format_name.upper()} ***", dest_fh)
+
+    tot_str = f"There are {format_dict['FORMAT_CARDS']} {format_name} legal cards"
+    double_print(tot_str, dest_fh)
+
+    summ_str = f"Have {format_dict['FORMAT_OWN']} out of {format_dict['FORMAT_TOTAL']} - " + \
+        f"{100* format_dict['FORMAT_OWN']/format_dict['FORMAT_TOTAL']:.2f} percent of a playset"
+    double_print(summ_str, dest_fh)
+
+    purch_str = f"Chosen card is a(n) {format_dict['FILTERED']['type']} from " + \
+        f"{format_dict['FILTERED']['set']} - {format_dict['FILTERED']['name']}. I own " + \
+        f"{format_dict['ITEM'][7]} of {format_dict['ITEM'][6]['Legacy']}"
+    double_print(purch_str, dest_fh)
+
+    double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
+        f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
+    double_print(str(format_dict['DECKS'][0][2]), dest_fh)
+
+    double_print("\nMost needed cards are:", dest_fh)
+    for pr_card_tuple in format_dict['NEEDED'][:10]:
+        double_print(f" - {pr_card_tuple[0]}: {pr_card_tuple[1]}", dest_fh)
+
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -283,13 +350,12 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Portal"
-CHECK_AMOUNT = 215
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = "Weatherlight"
+CHECK_AMOUNT = 167
+SET_CHECK += 10 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
-raw_list = []
 card_names = set()
 creature_types = {}
 
@@ -329,277 +395,10 @@ for line in lines:
 
 FORMAT_LIST = []
 
-# Get data for Vintage
-vintage_list = []
-VINTAGE_OWN = 0
-VINTAGE_TOTAL = 0
 for card in raw_list:
-    if 'Vintage' in card[6]:
-        vintage_list.append(card)
-        VINTAGE_TOTAL += card[6]['Vintage']
-        VINTAGE_OWN += min(card[7], card[6]['Vintage'])
-    else:
+    if 'Vintage' not in card[6]:
+        print("No Vintage?")
         print(card)
-VINTAGE_CARDS = len(vintage_list)
-FORMAT_LIST.append(("Vintage", VINTAGE_OWN, VINTAGE_TOTAL))
-
-vintage_set, filtered_list = sort_and_filter(vintage_list, 4)
-vintage_type, filtered_list = sort_and_filter(filtered_list, 1)
-if vintage_type == 'Creature' or vintage_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-vintage_color, filtered_list = sort_and_filter(filtered_list, 3)
-vintage_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-vintage_name, filtered_list = sort_and_filter(filtered_list, 0)
-vintage_item = filtered_list[0]
-
-vintage_decks = read_decks('Vintage')
-vint_decks_minus_own = check_decks(vintage_decks, vintage_list)
-vint_most_needed = aggregate_most_needed(vint_decks_minus_own)
-vint_most_needed = sorted(vint_most_needed, key=lambda x:(-1 * x[1], x[0]))
-vint_decks_minus_own = sorted(vint_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Legacy
-legacy_list = []
-LEGACY_OWN = 0
-LEGACY_TOTAL = 0
-for card in raw_list:
-    if 'Legacy' in card[6]:
-        legacy_list.append(card)
-        LEGACY_TOTAL += card[6]['Legacy']
-        LEGACY_OWN += min(card[7], card[6]['Legacy'])
-LEGACY_CARDS = len(legacy_list)
-FORMAT_LIST.append(("Legacy", LEGACY_OWN, LEGACY_TOTAL))
-
-legacy_set, filtered_list = sort_and_filter(legacy_list, 4)
-legacy_type, filtered_list = sort_and_filter(filtered_list, 1)
-if legacy_type == 'Creature' or legacy_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-legacy_color, filtered_list = sort_and_filter(filtered_list, 3)
-legacy_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-legacy_name, filtered_list = sort_and_filter(filtered_list, 0)
-legacy_item = filtered_list[0]
-
-legacy_decks = read_decks('Legacy')
-legacy_decks_minus_own = check_decks(legacy_decks, legacy_list)
-legacy_most_needed = aggregate_most_needed(legacy_decks_minus_own)
-legacy_most_needed = sorted(legacy_most_needed, key=lambda x:(-1 * x[1], x[0]))
-legacy_decks_minus_own = sorted(legacy_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Commander
-commander_list = []
-COMMANDER_OWN = 0
-COMMANDER_TOTAL = 0
-for card in raw_list:
-    if 'Commander' in card[6]:
-        commander_list.append(card)
-        COMMANDER_TOTAL += card[6]['Commander']
-        COMMANDER_OWN += min(card[7], card[6]['Commander'])
-COMMANDER_CARDS = len(commander_list)
-FORMAT_LIST.append(("Commander", COMMANDER_OWN, COMMANDER_TOTAL))
-
-commander_set, filtered_list = sort_and_filter(commander_list, 4)
-commander_type, filtered_list = sort_and_filter(filtered_list, 1)
-if commander_type == 'Creature' or commander_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-commander_color, filtered_list = sort_and_filter(filtered_list, 3)
-commander_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-commander_name, filtered_list = sort_and_filter(filtered_list, 0)
-commander_item = filtered_list[0]
-
-commander_decks = read_decks('Commander')
-comm_decks_minus_own = check_decks(commander_decks, commander_list)
-comm_most_needed = aggregate_most_needed(comm_decks_minus_own)
-comm_most_needed = sorted(comm_most_needed, key=lambda x:(-1 * x[1], x[0]))
-comm_decks_minus_own = sorted(comm_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Pioneer
-pioneer_list = []
-PIONEER_OWN = 0
-PIONEER_TOTAL = 0
-for card in raw_list:
-    if 'Pioneer' in card[6]:
-        pioneer_list.append(card)
-        PIONEER_TOTAL += card[6]['Pioneer']
-        PIONEER_OWN += min(card[7], card[6]['Pioneer'])
-PIONEER_CARDS = len(pioneer_list)
-FORMAT_LIST.append(("Pioneer", PIONEER_OWN, PIONEER_TOTAL))
-
-pioneer_set, filtered_list = sort_and_filter(pioneer_list, 4)
-pioneer_type, filtered_list = sort_and_filter(filtered_list, 1)
-if pioneer_type == 'Creature' or pioneer_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-pioneer_color, filtered_list = sort_and_filter(filtered_list, 3)
-pioneer_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-pioneer_name, filtered_list = sort_and_filter(filtered_list, 0)
-pioneer_item = filtered_list[0]
-
-pioneer_decks = read_decks('Pioneer')
-pioneer_decks_minus_own = check_decks(pioneer_decks, pioneer_list)
-pioneer_most_needed = aggregate_most_needed(pioneer_decks_minus_own)
-pioneer_most_needed = sorted(pioneer_most_needed, key=lambda x:(-1 * x[1], x[0]))
-pioneer_decks_minus_own = sorted(pioneer_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Modern
-modern_list = []
-MODERN_OWN = 0
-MODERN_TOTAL = 0
-for card in raw_list:
-    if 'Modern' in card[6]:
-        modern_list.append(card)
-        MODERN_TOTAL += card[6]['Modern']
-        MODERN_OWN += min(card[7], card[6]['Modern'])
-MODERN_CARDS = len(modern_list)
-FORMAT_LIST.append(("Modern", MODERN_OWN, MODERN_TOTAL))
-
-modern_set, filtered_list = sort_and_filter(modern_list, 4)
-modern_type, filtered_list = sort_and_filter(filtered_list, 1)
-if modern_type == 'Creature' or modern_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-modern_color, filtered_list = sort_and_filter(filtered_list, 3)
-modern_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-modern_name, filtered_list = sort_and_filter(filtered_list, 0)
-modern_item = filtered_list[0]
-
-modern_decks = read_decks('Modern')
-modern_decks_minus_own = check_decks(modern_decks, modern_list)
-modern_most_needed = aggregate_most_needed(modern_decks_minus_own)
-modern_most_needed = sorted(modern_most_needed, key=lambda x:(-1 * x[1], x[0]))
-modern_decks_minus_own = sorted(modern_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Standard
-standard_list = []
-STANDARD_OWN = 0
-STANDARD_TOTAL = 0
-for card in raw_list:
-    if 'Standard' in card[6]:
-        standard_list.append(card)
-        STANDARD_TOTAL += card[6]['Standard']
-        STANDARD_OWN += min(card[7], card[6]['Standard'])
-STANDARD_CARDS = len(standard_list)
-FORMAT_LIST.append(("Standard", STANDARD_OWN, STANDARD_TOTAL))
-
-standard_set, filtered_list = sort_and_filter(standard_list, 4)
-standard_type, filtered_list = sort_and_filter(filtered_list, 1)
-if standard_type == 'Creature' or standard_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-standard_color, filtered_list = sort_and_filter(filtered_list, 3)
-standard_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-standard_name, filtered_list = sort_and_filter(filtered_list, 0)
-standard_item = filtered_list[0]
-
-standard_decks = read_decks('Standard')
-standard_decks_minus_own = check_decks(standard_decks, standard_list)
-standard_most_needed = aggregate_most_needed(standard_decks_minus_own)
-standard_most_needed = sorted(standard_most_needed, key=lambda x:(-1 * x[1], x[0]))
-standard_decks_minus_own = sorted(standard_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Pauper
-pauper_list = []
-PAUPER_OWN = 0
-PAUPER_TOTAL = 0
-for card in raw_list:
-    if 'Pauper' in card[6]:
-        pauper_list.append(card)
-        PAUPER_TOTAL += card[6]['Pauper']
-        PAUPER_OWN += min(card[7], card[6]['Pauper'])
-PAUPER_CARDS = len(pauper_list)
-FORMAT_LIST.append(("Pauper", PAUPER_OWN, PAUPER_TOTAL))
-
-pauper_set, filtered_list = sort_and_filter(pauper_list, 4)
-pauper_type, filtered_list = sort_and_filter(filtered_list, 1)
-if pauper_type == 'Creature' or pauper_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-pauper_color, filtered_list = sort_and_filter(filtered_list, 3)
-pauper_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-pauper_name, filtered_list = sort_and_filter(filtered_list, 0)
-pauper_item = filtered_list[0]
-
-pauper_decks = read_decks('Pauper')
-pauper_decks_minus_own = check_decks(pauper_decks, pauper_list)
-pauper_most_needed = aggregate_most_needed(pauper_decks_minus_own)
-pauper_most_needed = sorted(pauper_most_needed, key=lambda x:(-1 * x[1], x[0]))
-pauper_decks_minus_own = sorted(pauper_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Oathbreaker
-oath_list = []
-OATH_OWN = 0
-OATH_TOTAL = 0
-for card in raw_list:
-    if 'Oathbreaker' in card[6]:
-        oath_list.append(card)
-        OATH_TOTAL += card[6]['Oathbreaker']
-        OATH_OWN += min(card[7], card[6]['Oathbreaker'])
-OATH_CARDS = len(oath_list)
-FORMAT_LIST.append(("Oathbreaker", OATH_OWN, OATH_TOTAL))
-
-oath_set, filtered_list = sort_and_filter(oath_list, 4)
-oath_type, filtered_list = sort_and_filter(filtered_list, 1)
-if oath_type == 'Creature' or oath_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-oath_color, filtered_list = sort_and_filter(filtered_list, 3)
-oath_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-oath_name, filtered_list = sort_and_filter(filtered_list, 0)
-oath_item = filtered_list[0]
-
-oath_decks = read_decks('Oathbreaker')
-oath_decks_minus_own = check_decks(oath_decks, oath_list)
-oath_most_needed = aggregate_most_needed(oath_decks_minus_own)
-oath_most_needed = sorted(oath_most_needed, key=lambda x:(-1 * x[1], x[0]))
-oath_decks_minus_own = sorted(oath_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Ice Age Block
-ia_list = []
-IA_OWN = 0
-IA_TOTAL = 0
-for card in raw_list:
-    if 'Ice Age Block' in card[6]:
-        ia_list.append(card)
-        IA_TOTAL += card[6]['Ice Age Block']
-        IA_OWN += min(card[7], card[6]['Ice Age Block'])
-IA_CARDS = len(ia_list)
-FORMAT_LIST.append(("Ice Age Block", IA_OWN, IA_TOTAL))
-
-ia_set, filtered_list = sort_and_filter(ia_list, 4)
-ia_type, filtered_list = sort_and_filter(filtered_list, 1)
-if ia_type == 'Creature' or ia_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-ia_color, filtered_list = sort_and_filter(filtered_list, 3)
-ia_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-ia_name, filtered_list = sort_and_filter(filtered_list, 0)
-ia_item = filtered_list[0]
-
-ia_decks = read_decks('IceAgeBlock')
-ia_decks_minus_own = check_decks(ia_decks, ia_list)
-ia_most_needed = aggregate_most_needed(ia_decks_minus_own)
-ia_most_needed = sorted(ia_most_needed, key=lambda x:(-1 * x[1], x[0]))
-ia_decks_minus_own = sorted(ia_decks_minus_own, key=lambda x:x[1])
-
-# Get data for Mirage Block
-mir_list = []
-MIR_OWN = 0
-MIR_TOTAL = 0
-for card in raw_list:
-    if 'Mirage Block' in card[6]:
-        mir_list.append(card)
-        MIR_TOTAL += card[6]['Mirage Block']
-        MIR_OWN += min(card[7], card[6]['Mirage Block'])
-MIR_CARDS = len(mir_list)
-FORMAT_LIST.append(("Mirage Block", MIR_OWN, MIR_TOTAL))
-
-mir_set, filtered_list = sort_and_filter(mir_list, 4)
-mir_type, filtered_list = sort_and_filter(filtered_list, 1)
-if mir_type == 'Creature' or mir_type == 'Planeswalker':
-    _, filtered_list = sort_and_filter(filtered_list, 2)
-mir_color, filtered_list = sort_and_filter(filtered_list, 3)
-mir_rarity, filtered_list = sort_and_filter(filtered_list, 5)
-mir_name, filtered_list = sort_and_filter(filtered_list, 0)
-mir_item = filtered_list[0]
-
-mir_decks = read_decks('MirageBlock')
-mir_decks_minus_own = check_decks(mir_decks, mir_list)
-mir_most_needed = aggregate_most_needed(mir_decks_minus_own)
-mir_most_needed = sorted(mir_most_needed, key=lambda x:(-1 * x[1], x[0]))
-mir_decks_minus_own = sorted(mir_decks_minus_own, key=lambda x:x[1])
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
@@ -613,194 +412,44 @@ if __name__ == "__main__":
     double_print(SUMMARY_STRING, out_file_h)
 
     # Vintage
-    double_print("\n*** VINTAGE ***", out_file_h)
-    double_print(f"There are {VINTAGE_CARDS} Vintage legal cards", out_file_h)
-    VINT_STR = f"Have {VINTAGE_OWN} out of {VINTAGE_TOTAL} - " \
-        f"{100* VINTAGE_OWN/VINTAGE_TOTAL:.2f} percent of a playset"
-    double_print(VINT_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {vintage_type} from {vintage_set} - {vintage_name}. " + \
-        f"I own {vintage_item[7]} of {vintage_item[6]['Vintage']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({vint_decks_minus_own[0][0]}) is at " + \
-        f"{vint_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(vint_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in vint_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    vintage_dict = process_formats("Vintage")
+    handle_output("Vintage", vintage_dict, out_file_h)
 
     # Legacy
-    double_print("\n*** LEGACY ***", out_file_h)
-    double_print(f"There are {LEGACY_CARDS} Legacy legal cards", out_file_h)
-    LEGACY_STR = f"Have {LEGACY_OWN} out of {LEGACY_TOTAL} - " \
-        f"{100* LEGACY_OWN/LEGACY_TOTAL:.2f} percent of a playset"
-    double_print(LEGACY_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {legacy_type} from {legacy_set} - {legacy_name}. " + \
-        f"I own {legacy_item[7]} of {legacy_item[6]['Legacy']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({legacy_decks_minus_own[0][0]}) is at " + \
-        f"{legacy_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(legacy_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in legacy_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    legacy_dict = process_formats("Legacy")
+    handle_output("Legacy", legacy_dict, out_file_h)
 
     # Commander
-    double_print("\n*** COMMANDER ***", out_file_h)
-    double_print(f"There are {COMMANDER_CARDS} Commander legal cards", out_file_h)
-    COMMANDER_STR = f"Have {COMMANDER_OWN} out of {COMMANDER_TOTAL} - " \
-        f"{100* COMMANDER_OWN/COMMANDER_TOTAL:.2f} percent of a playset"
-    double_print(COMMANDER_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {commander_type} from {commander_set} - {commander_name}" + \
-        f". I own {commander_item[7]} of {commander_item[6]['Commander']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({comm_decks_minus_own[0][0]}) is at " + \
-        f"{comm_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(comm_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in comm_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    comm_dict = process_formats("Commander")
+    handle_output("Commander", comm_dict, out_file_h)
 
     # Modern
-    double_print("\n*** MODERN ***", out_file_h)
-    double_print(f"There are {MODERN_CARDS} Modern legal cards", out_file_h)
-    MODERN_STR = f"Have {MODERN_OWN} out of {MODERN_TOTAL} - " \
-        f"{100* MODERN_OWN/MODERN_TOTAL:.2f} percent of a playset"
-    double_print(MODERN_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {modern_type} from {modern_set} - {modern_name}" + \
-        f". I own {modern_item[7]} of {modern_item[6]['Modern']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({modern_decks_minus_own[0][0]}) is at " + \
-        f"{modern_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(modern_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in modern_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    modern_dict = process_formats("Modern")
+    handle_output("Modern", modern_dict, out_file_h)
 
     # Pioneer
-    double_print("\n*** PIONEER ***", out_file_h)
-    double_print(f"There are {PIONEER_CARDS} Pioneer legal cards", out_file_h)
-    PIONEER_STR = f"Have {PIONEER_OWN} out of {PIONEER_TOTAL} - " \
-        f"{100* PIONEER_OWN/PIONEER_TOTAL:.2f} percent of a playset"
-    double_print(PIONEER_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {pioneer_type} from {pioneer_set} - {pioneer_name}" + \
-        f". I own {pioneer_item[7]} of {pioneer_item[6]['Pioneer']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({pioneer_decks_minus_own[0][0]}) is at " + \
-        f"{pioneer_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(pioneer_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in pioneer_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    pioneer_dict = process_formats("Pioneer")
+    handle_output("Pioneer", pioneer_dict, out_file_h)
 
     # Standard
-    double_print("\n*** STANDARD ***", out_file_h)
-    double_print(f"There are {STANDARD_CARDS} Standard legal cards", out_file_h)
-    STANDARD_STR = f"Have {STANDARD_OWN} out of {STANDARD_TOTAL} - " \
-        f"{100* STANDARD_OWN/STANDARD_TOTAL:.2f} percent of a playset"
-    double_print(STANDARD_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {standard_type} from {standard_set} - {standard_name}" + \
-        f". I own {standard_item[7]} of {standard_item[6]['Standard']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({standard_decks_minus_own[0][0]}) is at " + \
-        f"{standard_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(standard_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in standard_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    standard_dict = process_formats("Standard")
+    handle_output("Standard", standard_dict, out_file_h)
 
     # Pauper
-    double_print("\n*** PAUPER ***", out_file_h)
-    double_print(f"There are {PAUPER_CARDS} Pauper legal cards", out_file_h)
-    PAUPER_STR = f"Have {PAUPER_OWN} out of {PAUPER_TOTAL} - " \
-        f"{100* PAUPER_OWN/PAUPER_TOTAL:.2f} percent of a playset"
-    double_print(PAUPER_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {pauper_type} from {pauper_set} - {pauper_name}" + \
-        f". I own {pauper_item[7]} of {pauper_item[6]['Pauper']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({pauper_decks_minus_own[0][0]}) is at " + \
-        f"{pauper_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(pauper_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in pauper_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    pauper_dict = process_formats("Pauper")
+    handle_output("Pauper", pauper_dict, out_file_h)
 
     # Oathbreaker
-    double_print("\n*** OATHBREAKER ***", out_file_h)
-    double_print(f"There are {OATH_CARDS} Oathbreaker legal cards", out_file_h)
-    OATH_STR = f"Have {OATH_OWN} out of {OATH_TOTAL} - " \
-        f"{100* OATH_OWN/OATH_TOTAL:.2f} percent of a playset"
-    double_print(OATH_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {oath_type} from {oath_set} - {oath_name}" + \
-        f". I own {oath_item[7]} of {oath_item[6]['Oathbreaker']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({oath_decks_minus_own[0][0]}) is at " + \
-        f"{oath_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(oath_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in oath_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    oath_dict = process_formats("Oathbreaker")
+    handle_output("Oathbreaker", oath_dict, out_file_h)
 
     # Ice Age Block
-    double_print("\n*** ICE AGE BLOCK ***", out_file_h)
-    double_print(f"There are {IA_CARDS} Ice Age Block legal cards", out_file_h)
-    IA_STR = f"Have {IA_OWN} out of {IA_TOTAL} - " \
-        f"{100* IA_OWN/IA_TOTAL:.2f} percent of a playset"
-    double_print(IA_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {ia_type} from {ia_set} - {ia_name}" + \
-        f". I own {ia_item[7]} of {ia_item[6]['Ice Age Block']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({ia_decks_minus_own[0][0]}) is at " + \
-        f"{ia_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(ia_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in ia_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    ia_dict = process_formats("Ice Age Block")
+    handle_output("Ice Age Block", ia_dict, out_file_h)
 
     # Mirage Block
-    double_print("\n*** MIRAGE BLOCK ***", out_file_h)
-    double_print(f"There are {MIR_CARDS} Mirage Block legal cards", out_file_h)
-    MIR_STR = f"Have {MIR_OWN} out of {MIR_TOTAL} - " \
-        f"{100* MIR_OWN/MIR_TOTAL:.2f} percent of a playset"
-    double_print(MIR_STR, out_file_h)
-
-    PURCH_STR = f"Chosen card is a(n) {mir_type} from {mir_set} - {mir_name}" + \
-        f". I own {mir_item[7]} of {mir_item[6]['Mirage Block']}"
-    double_print(PURCH_STR, out_file_h)
-
-    double_print(f"\nClosest deck to completion ({mir_decks_minus_own[0][0]}) is at " + \
-        f"{mir_decks_minus_own[0][1]} cards.", out_file_h)
-    double_print(str(mir_decks_minus_own[0][2]), out_file_h)
-
-    double_print("\nMost needed cards are:", out_file_h)
-    for card_tuple in mir_most_needed[:10]:
-        double_print(f" - {card_tuple[0]}: {card_tuple[1]}", out_file_h)
+    mir_dict = process_formats("Mirage Block")
+    handle_output("Mirage Block", mir_dict, out_file_h)
 
     # Other
     double_print("\n*** OTHER DATA ***", out_file_h)

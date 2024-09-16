@@ -1,0 +1,21 @@
+Coal;Maeoni;Ben J;L
+Namine;Odette;Ben J;L
+Astrea;Koji;Hung;L
+Astrea;Namine;Mark C;L
+Koji;Orrick;Mark C;L
+Dimona;Jerico;Mark C;W
+Jerico;Jerico;Mark C;W
+Jerico;Victoria;Mark C;W
+Echo;Victoria;Mark C;L
+Namine;Orrick;Mark C;L
+Victoria;Leo;Ben J;W
+Orrik;Maeoni;Mark C;L
+Leo;Jessa;Mark C;W
+Victoria;Lulu;BK;L
+Leo;Victoria;BK;L
+Saria;Aradel;Ben J;L
+Coal;Noah;BK;L
+Rowan;Tristan;BK;L
+Rowan;Tristan;Matt S;W
+Brennan;Orrick;Ben J;L
+Brennon;Fiona;Matt S;L

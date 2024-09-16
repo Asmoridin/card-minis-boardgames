@@ -1,9 +1,9 @@
-Tracking 2372 cards.
-Have 125 out of 9622 total cards for a playset - 1.30 percent
+Tracking 2517 cards.
+Have 125 out of 10202 total cards for a playset - 1.23 percent
 
 *** VINTAGE ***
-There are 2372 Vintage legal cards
-Have 125 out of 9577 - 1.31 percent of a playset
+There are 2517 Vintage legal cards
+Have 125 out of 10157 - 1.23 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 2313 Legacy legal cards
-Have 124 out of 9512 - 1.30 percent of a playset
+There are 2458 Legacy legal cards
+Have 124 out of 10092 - 1.23 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,9 +42,9 @@ Most needed cards are:
  - Plains: 23
 
 *** COMMANDER ***
-There are 2327 Commander legal cards
-Have 125 out of 2617 - 4.78 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
+There are 2472 Commander legal cards
+Have 125 out of 2762 - 4.53 percent of a playset
+Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 {"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
@@ -62,8 +62,8 @@ Most needed cards are:
  - Swiftfoot Boots: 30
 
 *** MODERN ***
-There are 467 Modern legal cards
-Have 74 out of 2128 - 3.48 percent of a playset
+There are 500 Modern legal cards
+Have 74 out of 2260 - 3.27 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 130 Pioneer legal cards
-Have 62 out of 780 - 7.95 percent of a playset
+There are 136 Pioneer legal cards
+Have 62 out of 804 - 7.71 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 840 Pauper legal cards
-Have 60 out of 3620 - 1.66 percent of a playset
+There are 910 Pauper legal cards
+Have 60 out of 3900 - 1.54 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -142,9 +142,9 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 2313 Oathbreaker legal cards
-Have 124 out of 2603 - 4.76 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
+There are 2458 Oathbreaker legal cards
+Have 124 out of 2748 - 4.51 percent of a playset
+Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
 {'Grist, the Hunger Tide': 1, 'Victimize': 1, 'Battlefly Swarm': 1, 'Caustic Caterpillar': 1, 'Grist, Voracious Larva': 1, 'Blightbeetle': 1, 'Brain Maggot': 1, 'Dross Hopper': 1, 'Circle of Dreams Druid': 1, 'Honest Rutstein': 1, 'Hornet Nest': 1, 'Nantuko Elder': 1, 'Scute Swarm': 1, 'Stinging Cave Crawler': 1, 'Bane of the Living': 1, 'Roaming Throne': 1, "Amzu, Swarm's Hunger": 1, 'Ant Queen': 1, 'Crash of Rhino Beetles': 1, 'Moldgraf Millipede': 1, 'Zask, Skittering Swarmlord': 1, 'Giant Adephage': 1, 'Hornet Queen': 1, 'Moldgraf Monstrosity': 1, 'Nyxbloom Ancient': 1, 'Living Hive': 1, 'Culling the Weak': 1, 'Songs of the Damned': 1, 'Veil of Summer': 1, 'Grisly Salvage': 1, 'Gravepurge': 1, 'Putrefy': 1, 'Unearth': 1, 'Demonic Tutor': 1, 'Skyshroud Claim': 1, 'Sol Talisman': 1, 'Talisman of Resilience': 1, 'Cloud Key': 1, 'Crucible of Worlds': 1, 'Coat of Arms': 1, 'Insidious Roots': 1, 'Growing Rites of Itlimoc': 1, 'The Hunger Tide Rises': 1, 'Doubling Season': 1, 'Cavern of Souls': 1, 'Command Tower': 1, 'Forest': 5, 'Overgrown Tomb': 1, 'Three Tree City': 1, 'Unclaimed Territory': 1}
@@ -182,117 +182,120 @@ Most needed cards are:
  - Adarkar Wastes: 16
 
 *** MIRAGE BLOCK ***
-There are 512 Mirage Block legal cards
-Have 32 out of 2178 - 1.47 percent of a playset
+There are 559 Mirage Block legal cards
+Have 32 out of 2366 - 1.35 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
-Closest deck to completion (Voodoo) is at 57 cards.
-{'Mountain': 10, 'Shadow Guildmage': 4, 'Incinerate': 4, 'Gemstone Mine': 4, 'Fireblast': 4, 'Fallen Askari': 4, 'Talruum Minotaur': 3, "Kaervek's Torch": 3, 'Coercion': 3, 'Bogardan Firefiend': 3, 'Viashino Sandstalker': 2, 'Stupor': 2, 'Quicksand': 2, 'Snake Basket': 1, 'Necromancy': 1, "Kaervek's Spite": 1, 'Hammer of Bogardan': 1, 'Rocky Tar Pit': 4, 'Undiscovered Paradise': 1}
+Closest deck to completion (Theme-DeadAndAlive) is at 36 cards.
+{'Barrow Ghoul': 1, 'Circling Vultures': 1, 'Crypt Rats': 3, 'Fallen Askari': 2, 'Fledgling Djinn': 2, 'Hidden Horror': 1, 'Mischievous Poltergeist': 1, 'Morinfen': 1, 'Necratog': 3, 'Nekrataal': 2, 'Sewer Rats': 2, 'Shadow Rider': 2, 'Skulking Ghost': 1, 'Zombie Scavengers': 1, 'Infernal Tribute': 1, 'Necromancy': 2, 'Strands of Night': 1, 'Shattered Crypt': 1, 'Spinning Darkness': 2, 'Buried Alive': 2, 'Dark Banishing': 2, 'Drain Life': 2}
 
 Most needed cards are:
- - Mountain: 79
- - Island: 60
- - Forest: 58
- - Plains: 46
- - Incinerate: 28
- - Man-o'-War: 27
- - Disenchant: 24
+ - Mountain: 169
+ - Plains: 101
+ - Forest: 95
+ - Island: 95
+ - Incinerate: 34
+ - Man-o'-War: 30
+ - Disenchant: 25
+ - Kaervek's Torch: 24
  - Quicksand: 23
  - Gemstone Mine: 21
- - Kaervek's Torch: 20
 
 *** OTHER DATA ***
 Most common creature types:
+- Soldier: 51
 - Wizard: 49
-- Soldier: 45
-- Knight: 44
-- Spirit: 41
-- Warrior: 36
-- Elemental: 32
-- Zombie: 28
-- Bird: 24
-- Elf: 23
-- Dragon: 21
+- Knight: 48
+- Spirit: 43
+- Warrior: 41
+- Elemental: 35
+- Zombie: 31
+- Elf: 26
+- Bird: 25
+- Dragon: 23
+- Phyrexian: 22
 - Druid: 21
+- Horror: 20
 - Insect: 20
-- Phyrexian: 20
 - Rogue: 19
 - Shaman: 18
-- Djinn: 16
+- Djinn: 17
+- Giant: 17
+- Cat: 16
+- Construct: 16
+- Golem: 16
 - Orc: 16
-- Giant: 15
-- Horror: 15
 - Merfolk: 15
-- Construct: 14
-- Golem: 14
-- Cat: 13
+- Angel: 13
+- Drake: 13
 - Dwarf: 13
-- Angel: 12
+- Illusion: 13
+- Snake: 13
+- Archer: 12
 - Beast: 12
 - Demon: 12
-- Illusion: 12
-- Archer: 11
+- Faerie: 12
+- Plant: 12
+- Ape: 11
 - Avatar: 11
 - Efreet: 11
-- Faerie: 11
-- Plant: 11
-- Snake: 11
-- Ape: 10
+- Minotaur: 11
+- Wurm: 11
 - Artificer: 10
-- Drake: 10
+- Horse: 10
 - Assassin: 9
 - Fungus: 9
-- Horse: 9
-- Minotaur: 9
+- Lizard: 9
+- Rat: 9
+- Scout: 9
 - Skeleton: 9
-- Lizard: 8
-- Rat: 8
-- Scout: 8
 - Shapeshifter: 8
 - Vampire: 8
-- Wurm: 8
 - Elephant: 7
+- Griffin: 7
 - Kobold: 7
 - Thrull: 7
+- Treefolk: 7
+- Barbarian: 6
 - Elder: 6
 - Frog: 6
-- Griffin: 6
+- Imp: 6
 - Minion: 6
 - Ouphe: 6
 - Pirate: 6
 - Serpent: 6
 - Troll: 6
-- Barbarian: 5
+- Unicorn: 6
+- Berserker: 5
+- Dryad: 5
 - Fish: 5
 - Gargoyle: 5
 - Homarid: 5
-- Imp: 5
 - Incarnation: 5
 - Noble: 5
 - Shade: 5
 - Spider: 5
-- Treefolk: 5
-- Unicorn: 5
 - Wolf: 5
+- Wraith: 5
 - Advisor: 4
+- Atog: 4
 - Bear: 4
 - Chimera: 4
-- Dryad: 4
 - Mercenary: 4
+- Monk: 4
 - Nightstalker: 4
 - Nomad: 4
 - Ogre: 4
 - Specter: 4
 - Turtle: 4
-- Wraith: 4
 - Yeti: 4
-- Atog: 3
-- Berserker: 3
 - Cyclops: 3
 - Dinosaur: 3
 - Gnome: 3
 - Juggernaut: 3
+- Leviathan: 3
 - Ranger: 3
+- Rhino: 3
 - Thopter: 3
 - Bard: 2
 - Basilisk: 2
@@ -300,19 +303,16 @@ Most common creature types:
 - Boar: 2
 - Centaur: 2
 - Crocodile: 2
-- C’tan: 2
-- Dog: 2
-- Drone: 2
 If above is 3, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 16.18
-Pioneer: 7.95
-Commander: 4.78
-Oathbreaker: 4.76
-Modern: 3.48
-Pauper: 1.66
-Mirage Block: 1.47
+Pioneer: 7.71
+Commander: 4.53
+Oathbreaker: 4.51
+Modern: 3.27
+Pauper: 1.54
+Mirage Block: 1.35
 Ice Age Block: 1.34
-Vintage: 1.31
-Legacy: 1.30
+Vintage: 1.23
+Legacy: 1.23

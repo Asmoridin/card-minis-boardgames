@@ -14,4 +14,3 @@
 12 Forest
 7 Island
 3 Plains
-2 Thawing Glaciers
