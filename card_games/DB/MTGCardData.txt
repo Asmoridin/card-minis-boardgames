@@ -2421,9 +2421,24 @@ Scalding Tongs;Artifact;C;Tempest (Rare);0
 Scroll Rack;Artifact;C;Tempest (Rare)/Commander's Arsenal (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Commander Legends (Mythic Rare);0
 Squee's Toy;Artifact;C;Tempest (Common);0
 Static Orb;Artifact;C;Seventh Edition (Rare)/Tempest (Rare)/Masterpiece Series: Kaladesh Inventions (Special);0
-#Done with card 4630
-#4636
+Telethopter;Artifact Creature — Thopter;C;Tempest (Uncommon)/Tempest Remastered (Common);0
+Thumbscrews;Artifact;C;Tempest (Rare);0
+Torture Chamber;Artifact;C;Tempest (Rare);0
+Watchdog;Artifact Creature — Dog;C;Tempest (Uncommon);0
+Abandon Hope;Sorcery;B;Tempest (Uncommon);0
 Ancient Tomb;Land;C;Tempest (Uncommon)/From the Vault: Realms (Mythic Rare)/Vintage Masters (Rare)/Zendikar Expeditions (Mythic Rare)/Ultimate Masters (Rare)/Ultimate Box Toppers (Special)/Zendikar Rising Expeditions (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare);0
+Bellowing Fiend;Creature — Spirit;B;Seventh Edition (Rare)/Tempest (Rare);0
+Bounty Hunter;Creature — Human Archer Minion;B;Tempest (Rare);0
+Carrionette;Creature — Skeleton;B;Tempest (Rare);0
+Clot Sliver;Creature — Sliver;B;Tempest (Common)/Premium Deck Series: Slivers (Common)/Tempest Remastered (Common)/Commander Masters (Common);0
+Coffin Queen;Creature — Zombie Wizard;B;Tempest (Rare)/Tempest Remastered (Rare);0
+Commander Greven il-Vec;Legendary Creature — Phyrexian Human Warrior;B;Tempest (Rare)/Tempest Remastered (Rare);0
+Corpse Dance;Instant;B;Tempest (Rare)/Tempest Remastered (Rare);0
+Darkling Stalker;Creature — Shade Spirit;B;Tempest (Common);0
+Dauthi Embrace;Enchantment;B;Tempest (Uncommon);0
+Dauthi Ghoul;Creature — Dauthi Zombie;B;Tempest (Uncommon);0
+Dauthi Horror;Creature — Dauthi Horror;B;Tempest (Common)/Tempest Remastered (Common)/Commander Legends: Battle for Baldur's Gate (Common);0
+#Done with card 4650
 #4671
 Living Death;Sorcery;B;Tempest (Rare)/Battle Royale Box Set (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare)/Magic: The Gathering-Commander (Rare)/Vintage Masters (Rare)/From the Vault: Annihilation (2014) (Mythic Rare)/Tempest Remastered (Mythic Rare)/Masters 25 (Rare)/Commander Anthology 2018 (Rare)/Warhammer 40,000 Commander (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Rare);1
 #4680
