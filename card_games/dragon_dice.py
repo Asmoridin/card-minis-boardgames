@@ -39,10 +39,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/DragonDiceCollection.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.sort_and_filter import sort_and_filter
 lines = file_h.readlines()
 file_h.close()
 lines = [line.strip() for line in lines]
@@ -77,7 +79,7 @@ for line in lines:
         else:
             DICE_MAX = max(own, 8)
         faction_total[dice_faction] += (own)
-    elif dice_size == "Monster" or dice_size == "Champion" or dice_size == "Artifact" or dice_size == "Dragon":
+    elif dice_size in ["Monster", "Champion", "Artifact", "Dragon"]:
         DICE_MAX = max(own, 1)
         faction_total[dice_faction] += (own * 4)
     elif dice_faction == "Major Terrain":
@@ -86,62 +88,41 @@ for line in lines:
         DICE_MAX = max(own, 1)
     else:
         print("Unhandled dice size: " + dice_size)
+    META_TYPE = get_meta_type(dice_faction)
     TOTAL_MAX += DICE_MAX
     TOTAL_OWN += own
-    item_list.append((dice_name, dice_faction, dice_size, own, DICE_MAX))
+    item_list.append((dice_name, dice_faction, META_TYPE, dice_size, own, DICE_MAX))
 
-meta_map = {}
-for item in item_list:
-    if get_meta_type(item[1]) not in meta_map:
-        meta_map[get_meta_type(item[1])] = [0, 0]
-    meta_map[get_meta_type(item[1])][1] += item[4]
-    meta_map[get_meta_type(item[1])][0] += item[3]
-meta_sorter = []
-for key in meta_map:
-    meta_sorter.append((key, meta_map[key][0]/meta_map[key][1], meta_map[key][1] - meta_map[key][0]))
-meta_sorter = sorted(meta_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_meta = meta_sorter[0][0]
-#print(meta_sorter)
+chosen_meta, filtered_list = sort_and_filter(item_list, 2)
 
+# If we are going to choose units, I want to ensure I'm choosing the right faction
 faction_map = {}
-for item in item_list:
-    if get_meta_type(item[1]) != chosen_meta:
-        continue
-    if chosen_meta == 'Unit' and item[1] not in my_current_factions:
-        continue
-    if item[1] not in faction_map:
-        faction_map[item[1]] = [0, 0]
-    faction_map[item[1]][1] += item[4]
-    faction_map[item[1]][0] += item[3]
-faction_sorter = []
-for key in faction_map:
-    faction_sorter.append((key, faction_map[key][0]/faction_map[key][1], faction_map[key][1] - faction_map[key][0]))
-faction_sorter = sorted(faction_sorter, key=lambda x:(x[1], -x[2], x[0]))
-chosen_faction = faction_sorter[0][0]
-#chosen_faction="Frostwings"
+if chosen_meta == 'Unit':
+    for die_tuple in filtered_list:
+        if die_tuple[1] not in my_current_factions:
+            continue
+        if die_tuple[1] not in faction_map:
+            faction_map[die_tuple[1]] = [0, 0]
+        faction_map[die_tuple[1]][0] += die_tuple[4]
+        faction_map[die_tuple[1]][1] += die_tuple[5]
+    fac_list = []
+    for map_fac, map_inv in faction_map.items():
+        fac_list.append((map_fac, map_inv[0], map_inv[1]))
+    fac_list = sorted(fac_list, key=lambda x:(x[1]/x[2], x[0]))
+    FILTERED_FACTION = fac_list[0][0]
+    if (len(my_current_factions) / len(army_factions)) < (fac_list[0][1] / fac_list[0][2]):
+        FILTERED_FACTION = my_future_factions[0]
+    new_list = []
+    for check_line in filtered_list:
+        if check_line[1] == FILTERED_FACTION:
+            new_list.append(check_line)
+    filtered_list = new_list
 
-filtered_list = []
-size_map = {}
-for item in item_list:
-    if item[1] == chosen_faction:
-        filtered_list.append(item)
-        if item[2] not in size_map:
-            size_map[item[2]] = [0, 0]
-        size_map[item[2]][0] += item[3]
-        size_map[item[2]][1] += item[4]
-size_sorter = []
-for key in size_map:
-    size_sorter.append((key, size_map[key][0]/size_map[key][1], size_map[key][1] - size_map[key][0]))
-size_sorter = sorted(size_sorter, key=lambda x:(x[1], -x[2], x[0]))
-#print(size_sorter)
-chosen_size = size_sorter[0][0]
+chosen_faction, filtered_list = sort_and_filter(filtered_list, 1)
+chosen_size, filtered_list = sort_and_filter(filtered_list, 3)
+_, filtered_list = sort_and_filter(filtered_list, 0)
 
-pick_list = []
-for item in filtered_list:
-    if item[2] == chosen_size:
-        pick_list.append(item)
-pick_list = sorted(pick_list, key=lambda x:(x[3]/x[4], -1*(x[4]-x[3]), x[0]))
-picked_item = pick_list[0]
+picked_item = filtered_list[0]
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
@@ -152,12 +133,12 @@ if __name__=="__main__":
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
 
-    next_buy_string = "Buy a %s from %s - perhaps a %s (have %d out of %d %s)" % (picked_item[2], picked_item[1], picked_item[0], faction_map[picked_item[1]][0], faction_map[picked_item[1]][1], picked_item[1])
+    next_buy_string = f"Buy a {picked_item[2]} from {picked_item[1]} - perhaps a {picked_item[0]}"
     double_print(next_buy_string, out_file_h)
 
     double_print("Summary:", out_file_h)
     for faction in sorted(army_factions):
-        double_print("%s: %d" % (faction, faction_total[faction]), out_file_h)
+        double_print(f"{faction}: {faction_total[faction]}", out_file_h)
 
     out_file_h.close()
 
