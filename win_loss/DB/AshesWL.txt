@@ -1,21 +1,21 @@
-Coal;Maeoni;Ben J;L
-Namine;Odette;Ben J;L
-Astrea;Koji;Hung;L
-Astrea;Namine;Mark C;L
-Koji;Orrick;Mark C;L
-Dimona;Jerico;Mark C;W
-Jerico;Jerico;Mark C;W
-Jerico;Victoria;Mark C;W
-Echo;Victoria;Mark C;L
-Namine;Orrick;Mark C;L
-Victoria;Leo;Ben J;W
-Orrik;Maeoni;Mark C;L
-Leo;Jessa;Mark C;W
-Victoria;Lulu;BK;L
-Leo;Victoria;BK;L
-Saria;Aradel;Ben J;L
-Coal;Noah;BK;L
-Rowan;Tristan;BK;L
-Rowan;Tristan;Matt S;W
-Brennan;Orrick;Ben J;L
-Brennon;Fiona;Matt S;L
+Coal Roarkwin;Maeoni Viper;Ben J;L
+Namine Hymntide;Odette Diamondcrest;Ben J;L
+Astrea;Koji Wolfcub;Hung;L
+Astrea;Namine Hymntide;Mark C;L
+Koji Wolfcub;Orrick Gilstream;Mark C;L
+Dimona Odinstar;Jerico Kill;Mark C;W
+Jerico Kill;Jerico Kill;Mark C;W
+Jerico Kill;Victoria Glassfire;Mark C;W
+Echo Greystorm;Victoria Glassfire;Mark C;L
+Namine Hymntide;Orrick Gilstream;Mark C;L
+Victoria Glassfire;Leo Sunshadow;Ben J;W
+Orrick Gilstream;Maeoni Viper;Mark C;L
+Leo Sunshadow;Jessa Na Ni;Mark C;W
+Victoria Glassfire;Lulu Firststone;BK;L
+Leo Sunshadow;Victoria Glassfire;BK;L
+Saria Guideman;Aradel Summergaard;Ben J;L
+Coal Roarkwin;Noah Redmoon;BK;L
+Rowan Umberend;Tristan Darkwater;BK;L
+Rowan Umberend;Tristan Darkwater;Matt S;W
+Brennen Blackcloud;Orrick Gilstream;Ben J;L
+Brennen Blackcloud;Fiona Mercywind;Matt S;L
