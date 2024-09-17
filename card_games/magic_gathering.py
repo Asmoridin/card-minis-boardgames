@@ -350,9 +350,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Weatherlight"
-CHECK_AMOUNT = 167
-SET_CHECK += 10 # Extra basic lands
+CHECK_SET = "Tempest"
+CHECK_AMOUNT = 350
+SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0

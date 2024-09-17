@@ -1,14 +1,13 @@
 4 Maro
-4 Stampeeding Wildebeest
+4 Stampeding Wildebeests 
 2 Nettletooth Djinn
-2 Air Elemental
+2 Fog Elemental
 4 River Boa
 2 Cloud Elemental
 3 Man-o'-War
 3 Ophidian
 3 Sage Owl
 3 Call of the Wild
-2 Sylvan Libraries
 1 Rowan
 3 Disenchant
 12 Forest

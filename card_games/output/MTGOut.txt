@@ -1,9 +1,9 @@
-Tracking 2517 cards.
-Have 125 out of 10202 total cards for a playset - 1.23 percent
+Tracking 2660 cards.
+Have 125 out of 10774 total cards for a playset - 1.16 percent
 
 *** VINTAGE ***
-There are 2517 Vintage legal cards
-Have 125 out of 10157 - 1.23 percent of a playset
+There are 2660 Vintage legal cards
+Have 125 out of 10729 - 1.17 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 2458 Legacy legal cards
-Have 124 out of 10092 - 1.23 percent of a playset
+There are 2601 Legacy legal cards
+Have 124 out of 10664 - 1.16 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** COMMANDER ***
-There are 2472 Commander legal cards
-Have 125 out of 2762 - 4.53 percent of a playset
+There are 2615 Commander legal cards
+Have 125 out of 2905 - 4.30 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
@@ -52,18 +52,18 @@ Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 Most needed cards are:
  - Plains: 381
  - Forest: 355
- - Mountain: 332
+ - Mountain: 353
  - Island: 288
  - Snow-Covered Plains: 91
  - Command Tower: 65
  - Snow-Covered Mountain: 50
  - Path to Exile: 31
+ - Swiftfoot Boots: 31
  - Swords to Plowshares: 31
- - Swiftfoot Boots: 30
 
 *** MODERN ***
-There are 500 Modern legal cards
-Have 74 out of 2260 - 3.27 percent of a playset
+There are 527 Modern legal cards
+Have 74 out of 2368 - 3.12 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 136 Pioneer legal cards
-Have 62 out of 804 - 7.71 percent of a playset
+There are 138 Pioneer legal cards
+Have 62 out of 812 - 7.64 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 910 Pauper legal cards
-Have 60 out of 3900 - 1.54 percent of a playset
+There are 963 Pauper legal cards
+Have 60 out of 4112 - 1.46 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -142,8 +142,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 2458 Oathbreaker legal cards
-Have 124 out of 2748 - 4.51 percent of a playset
+There are 2601 Oathbreaker legal cards
+Have 124 out of 2891 - 4.29 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -182,8 +182,8 @@ Most needed cards are:
  - Adarkar Wastes: 16
 
 *** MIRAGE BLOCK ***
-There are 559 Mirage Block legal cards
-Have 32 out of 2366 - 1.35 percent of a playset
+There are 668 Mirage Block legal cards
+Have 32 out of 2802 - 1.14 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Theme-DeadAndAlive) is at 36 cards.
@@ -196,104 +196,106 @@ Most needed cards are:
  - Island: 95
  - Incinerate: 34
  - Man-o'-War: 30
+ - Kaervek's Torch: 28
  - Disenchant: 25
- - Kaervek's Torch: 24
  - Quicksand: 23
  - Gemstone Mine: 21
 
 *** OTHER DATA ***
 Most common creature types:
-- Soldier: 51
-- Wizard: 49
-- Knight: 48
-- Spirit: 43
-- Warrior: 41
-- Elemental: 35
+- Soldier: 57
+- Wizard: 51
+- Knight: 50
+- Spirit: 44
+- Warrior: 42
+- Elemental: 40
 - Zombie: 31
-- Elf: 26
-- Bird: 25
+- Bird: 28
+- Elf: 28
 - Dragon: 23
-- Phyrexian: 22
-- Druid: 21
+- Phyrexian: 23
+- Druid: 22
 - Horror: 20
 - Insect: 20
-- Rogue: 19
-- Shaman: 18
-- Djinn: 17
-- Giant: 17
+- Rogue: 20
+- Shaman: 20
+- Djinn: 18
+- Giant: 18
+- Construct: 17
+- Golem: 17
+- Merfolk: 17
+- Orc: 17
 - Cat: 16
-- Construct: 16
-- Golem: 16
-- Orc: 16
-- Merfolk: 15
+- Drake: 15
+- Dwarf: 15
+- Snake: 15
+- Illusion: 14
 - Angel: 13
-- Drake: 13
-- Dwarf: 13
-- Illusion: 13
-- Snake: 13
+- Wurm: 13
 - Archer: 12
 - Beast: 12
 - Demon: 12
+- Efreet: 12
 - Faerie: 12
+- Minotaur: 12
 - Plant: 12
 - Ape: 11
 - Avatar: 11
-- Efreet: 11
-- Minotaur: 11
-- Wurm: 11
 - Artificer: 10
+- Fungus: 10
 - Horse: 10
+- Scout: 10
 - Assassin: 9
-- Fungus: 9
 - Lizard: 9
 - Rat: 9
-- Scout: 9
+- Shapeshifter: 9
 - Skeleton: 9
-- Shapeshifter: 8
+- Elephant: 8
+- Griffin: 8
 - Vampire: 8
-- Elephant: 7
-- Griffin: 7
 - Kobold: 7
+- Serpent: 7
 - Thrull: 7
 - Treefolk: 7
+- Unicorn: 7
 - Barbarian: 6
+- Berserker: 6
 - Elder: 6
+- Fish: 6
 - Frog: 6
 - Imp: 6
 - Minion: 6
 - Ouphe: 6
 - Pirate: 6
-- Serpent: 6
 - Troll: 6
-- Unicorn: 6
-- Berserker: 5
+- Wolf: 6
+- Bear: 5
 - Dryad: 5
-- Fish: 5
 - Gargoyle: 5
+- Gnome: 5
 - Homarid: 5
 - Incarnation: 5
 - Noble: 5
+- Ogre: 5
 - Shade: 5
 - Spider: 5
-- Wolf: 5
 - Wraith: 5
 - Advisor: 4
 - Atog: 4
-- Bear: 4
 - Chimera: 4
+- Cyclops: 4
+- Juggernaut: 4
 - Mercenary: 4
 - Monk: 4
 - Nightstalker: 4
 - Nomad: 4
-- Ogre: 4
 - Specter: 4
 - Turtle: 4
 - Yeti: 4
-- Cyclops: 3
 - Dinosaur: 3
-- Gnome: 3
-- Juggernaut: 3
+- Dog: 3
 - Leviathan: 3
+- Ooze: 3
 - Ranger: 3
 - Rhino: 3
 - Thopter: 3
@@ -301,18 +303,16 @@ Most common creature types:
 - Basilisk: 2
 - Bat: 2
 - Boar: 2
-- Centaur: 2
-- Crocodile: 2
 If above is 3, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 16.18
-Pioneer: 7.71
-Commander: 4.53
-Oathbreaker: 4.51
-Modern: 3.27
-Pauper: 1.54
-Mirage Block: 1.35
+Pioneer: 7.64
+Commander: 4.30
+Oathbreaker: 4.29
+Modern: 3.12
+Pauper: 1.46
 Ice Age Block: 1.34
-Vintage: 1.23
-Legacy: 1.23
+Vintage: 1.17
+Legacy: 1.16
+Mirage Block: 1.14

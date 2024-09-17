@@ -6,7 +6,7 @@
 4 Incinerate
 3 Hammer of Bogardan
 2 Fireblast
-3 Torch
+3 Kaervek's Torch
 4 Memory Lapse
 1 Abduction
 12 Mountain
