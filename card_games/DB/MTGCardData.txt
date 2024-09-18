@@ -2438,11 +2438,54 @@ Darkling Stalker;Creature — Shade Spirit;B;Tempest (Common);0
 Dauthi Embrace;Enchantment;B;Tempest (Uncommon);0
 Dauthi Ghoul;Creature — Dauthi Zombie;B;Tempest (Uncommon);0
 Dauthi Horror;Creature — Dauthi Horror;B;Tempest (Common)/Tempest Remastered (Common)/Commander Legends: Battle for Baldur's Gate (Common);0
-#Done with card 4650
-#4671
+Dauthi Marauder;Creature — Dauthi Minion;B;Tempest (Common)/Tempest Remastered (Uncommon);0
+Dauthi Mercenary;Creature - Dauthi Knight Mercenary;B;Tempest (Uncommon)/Vintage Masters (Common);0
+Dauthi Mindripper;Creature — Dauthi Minion;B;Tempest (Uncommon);0
+Dauthi Slayer;Creature — Dauthi Soldier;B;Tempest (Common)/Time Spiral "Timeshifted" (Special)/Tempest Remastered (Uncommon);0
+Death Pits of Rath;Enchantment;B;Eighth Edition (Rare)/Ninth Edition (Rare)/Tempest (Rare)/Tempest Remastered (Rare);0
+Diabolic Edict;Instant;B;Tempest (Common)/Beatdown Box Set (Common)/Tempest Remastered (Common)/Masterpiece Series: Amonkhet Invocations (Special)/Masters 25 (Common)/Modern Horizons (Common)/Jumpstart 2022 (Common);0
+Disturbed Burial;Sorcery;B;Tempest (Common);0
+Dread of Night;Enchantment;B;Classic Sixth Edition (Uncommon)/Tempest (Uncommon);0
+Dregs of Sorrow;Sorcery;B;Seventh Edition (Rare)/Tempest (Rare)/Commander 2014 (Rare);0
+Endless Scream;Enchantment — Aura;B;Tempest (Common);0
+Evincar's Justice;Sorcery;B;Tempest (Common)/Magic: The Gathering-Commander (Common)/Tempest Remastered (Uncommon)/Commander Anthology (Common);0
+Extinction;Sorcery;B;Tempest (Rare);0
+Fevered Convulsions;Enchantment;B;Tempest (Rare);0
+Imps' Taunt;Instant;B;Tempest (Uncommon);0
+Kezzerdrix;Creature — Rabbit Beast;B;Tempest (Rare)/Vintage Masters (Uncommon)/Tempest Remastered (Rare);0
+Knight of Dusk;Creature — Human Knight;B;Tempest (Uncommon)/Tenth Edition (Uncommon);0
+Leeching Licid;Creature - Licid;B;Tempest (Uncommon);0
 Living Death;Sorcery;B;Tempest (Rare)/Battle Royale Box Set (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare)/Magic: The Gathering-Commander (Rare)/Vintage Masters (Rare)/From the Vault: Annihilation (2014) (Mythic Rare)/Tempest Remastered (Mythic Rare)/Masters 25 (Rare)/Commander Anthology 2018 (Rare)/Warhammer 40,000 Commander (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Rare);1
-#4680
+Maddening Imp;Creature - Imp;B;Tempest (Rare);0
+Marsh Lurker;Creature — Beast;B;Tempest (Common);0
+Mindwhip Sliver;Creature — Sliver;B;Tempest (Uncommon);0
+Minion of the Wastes;Creature - Minion;B;Tempest (Rare);0
+Perish;Sorcery;B;Classic Sixth Edition (Uncommon)/Tempest (Uncommon);0
+Pit Imp;Creature - Imp;B;Tempest (Common);0
+Rats of Rath;Creature — Rat;B;Tempest (Common)/Tempest Remastered (Common);0
 Reanimate;Sorcery;B;Tempest (Uncommon)/Battle Royale Box Set (Uncommon)/Archenemy (Uncommon)/Premium Deck Series: Graveborn (Uncommon)/Vintage Masters (Uncommon)/Tempest Remastered (Uncommon)/Ultimate Masters (Rare)/Ultimate Box Toppers (Special)/Jumpstart (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Outlaws of Thunder Junction Breaking News (Rare);0
+Reckless Spite;Instant;B;Tempest (Uncommon)/Invasion (Uncommon)/Commander 2013 Edition (Uncommon)/Magic: The Gathering—Conspiracy (Uncommon)/Archenemy: Nicol Bolas (Uncommon)/Commander 2021 (Uncommon)/Wilds of Eldraine Commander (Uncommon);0
+Sadistic Glee;Enchantment — Aura;B;Tempest (Common)/Battle Royale Box Set (Common);0
+Sarcomancy;Enchantment;B;Tempest (Rare)/Vintage Masters (Uncommon)/Tempest Remastered (Uncommon);0
+Screeching Harpy;Creature — Harpy Beast;B;Tempest (Uncommon)/Tempest Remastered (Uncommon);0
+Servant of Volrath;Creature - Minion;B;Tempest (Common);0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Done with card 4650
 #4944
 Wasteland;Land;C;Tempest (Uncommon)/Tempest Remastered (Rare)/Zendikar Expeditions (Mythic Rare)/Eternal Masters (Rare)/Zendikar Rising Expeditions (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/Magic The Gathering—Fallout (Rare);0
 #5557

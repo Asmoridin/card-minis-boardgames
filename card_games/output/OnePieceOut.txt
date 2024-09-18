@@ -6,3 +6,134 @@ There are 78 leaders in the game
 Chosen subtype is Drum Kingdom, chosen color is Green
 Chosen card type: Leader, and chosen set: -TWO LEGENDS- [OP-08]
 Buy Tony Tony.Chopper (have 0 out of 1)
+
+Most needed cards:
+Gecko Moria (OP06-086): 26
+Kouzuki Hiyori (OP06-106): 26
+Kikunojo (OP06-104): 24
+Queen (ST04-005): 24
+Charlotte Flampe (EB01-056): 23
+Gravity Blade Raging Tiger (OP06-058): 21
+Capone"Gang"Bege (OP04-100): 20
+Donquixote Doflamingo (OP01-073): 20
+Eustass"Captain"Kid (OP05-074): 20
+Mr.2.Bon.Kurei(Bentham) (EB01-061): 20
+
+Missing decks for leaders: (45)
+- Arlong (['Green', 'Yellow']), (OP03-022)
+- Carrot (['Green']), (OP08-021)
+- Charlotte Linlin (['Black', 'Yellow']), (OP03-077)
+- Charlotte Linlin (['Yellow']), (ST07-001)
+- Charlotte Pudding (['Purple', 'Yellow']), (OP08-058)
+- Crocodile (['Blue', 'Purple']), (OP01-062)
+- Crocodile (['Blue']), (ST03-001)
+- Donquixote Rosinante (['Green', 'Blue']), (OP05-022)
+- Eustass"Captain"Kid (['Green']), (ST02-001)
+- Eustass"Captain"Kid (['Red', 'Purple']), (ST10-003)
+- Hannyabal (['Blue', 'Purple']), (EB01-021)
+- Hody Jones (['Green']), (OP06-020)
+- Issho (['Green', 'Black']), (OP04-020)
+- Kaido (['Blue', 'Purple']), (OP01-061)
+- Kaido (['Purple']), (ST04-001)
+- Kalgara (['Yellow']), (OP08-098)
+- Kin'emon (['Green']), (OP02-025)
+- King (['Purple']), (OP01-091)
+- King (['Purple', 'Black']), (OP08-057)
+- Kouzuki Oden (['Green']), (OP01-031)
+- Kruo (['Green']), (OP03-021)
+- Kyros (['Black', 'Yellow']), (EB01-040)
+- Magellan (['Purple']), (OP02-071)
+- Marco (['Red', 'Blue']), (OP08-002)
+- Monkey.D.Dragon (['Red']), (OP07-001)
+- Monkey.D.Garp (['Red', 'Black']), (OP02-002)
+- Monkey.D.Luffy (['Red', 'Green']), (OP01-003)
+- Monkey.D.Luffy (['Blue']), (P-047)
+- Monkey.D.Luffy (['Red']), (ST01-001)
+- Monkey.D.Luffy (['Black']), (ST08-001)
+- Monkey.D.Luffy (['Black']), (ST14-001)
+- Portgas.D.Ace (['Red']), (OP03-001)
+- Rebecca (['Blue', 'Black']), (OP04-039)
+- Rob Lucci (['Black']), (OP03-076)
+- Roronoa Zoro & Sanji (['Blue', 'Green']), (ST12-001)
+- Sakazuki (['Blue', 'Black']), (OP05-041)
+- Sakazuki (['Blue', 'Black']), (P-076)
+- Sakazuki (['Black']), (ST06-001)
+- Sanji (['Green', 'Blue']), (OP02-026)
+- Shanks (['Purple']), (ST05-001)
+- Tony Tony.Chopper (['Red', 'Green']), (OP08-001)
+- Uta (['Red']), (P-011)
+- Vinsmoke Reiju (['Blue', 'Purple']), (OP06-042)
+- Yamato (['Yellow']), (ST09-001)
+- Zephyr (['Purple', 'Black']), (OP02-072)
+
+Lowest deck: 
+
+PRMonkeyDLuffyST10-002.txt (Red/Purple) - Missing 25 cards
+- Mr.2.Bon.Kurei(Bentham) (EB01-061): 4
+- Radical Beam!! (OP01-029): 4
+- Basil Hawkins (OP01-106): 3
+- Edward.Newgate (OP02-004): 1
+- Ms. All Sunday (OP04-064): 2
+- Fra-Nosuke (OP05-070): 1
+- Miss Doublefinger(Zala) (OP05-073): 2
+- Diable Jambe (ST01-016): 3
+- Queen (ST04-005): 4
+- Eustass"Captain"Kid (ST10-013): 1
+
+YVegapunkOP07-097.txt (Yellow) - Missing 26 cards
+- Charlotte Katakuri (OP03-123): 4
+- Yamato (OP04-112): 4
+- Atlas (OP07-098): 1
+- Shaka (OP07-101): 2
+- Pythagoras (OP07-105): 1
+- Franky (OP07-107): 3
+- Monkey.D.Luffy (OP07-109): 4
+- Lilith (OP07-111): 3
+- Portgas.D.Ace (OP07-119): 4
+
+UNamiOP03-040.txt (Blue) - Missing 35 cards
+- Desert Spada (OP01-088): 4
+- Impel Down All Stars (OP02-066): 1
+- Nami (OP03-040): 1
+- Kaya (OP03-044): 4
+- Zeff (OP03-047): 1
+- Usopp's Rubber Band of Doom!!! (OP03-054): 4
+- Gum-Gum Giant Gavel (OP03-055): 4
+- Sanji's Pilaf (OP03-056): 4
+- Apis (OP04-041): 4
+- White Snake (OP06-059): 3
+- Marguerite (OP07-054): 1
+- Love-Love Mellow (ST03-017): 4
+
+GJewelryBonneyOP07-019.txt (Green) - Missing 37 cards
+- Cavendish (EB01-012): 4
+- Scratchmen Apoo (EB01-015): 2
+- Eustass"Captain"Kid (OP01-051): 3
+- Viola (OP04-021): 4
+- Donquixote Doflamingo (OP04-031): 3
+- Baby 5 (OP04-032): 3
+- Donquixote Rosinante (OP05-030): 1
+- Baby 5 (OP05-034): 3
+- Hody Jones (OP06-035): 3
+- Roronoa Zoro (OP06-118): 2
+- Urouge (OP07-021): 1
+- Jewelry Bonney (OP07-026): 1
+- Basil Hawkins (OP07-029): 3
+- Jewelry Bonney (ST02-007): 4
+
+BGekkoMoriaOP06-080.txt (Black) - Missing 40 cards
+- Brook (EB01-046): 4
+- Kuzan (OP02-096): 1
+- Tsuru (OP02-106): 2
+- Borsalino (OP02-114): 2
+- Ice Age (OP02-117): 1
+- Brannew (OP03-089): 3
+- Rebecca (OP05-091): 3
+- Rob Lucci (OP05-093): 1
+- Absalom (OP06-081): 3
+- Gecko Moria (OP06-086): 4
+- Dr. Hogback (OP06-090): 3
+- Victoria Cindry (OP06-091): 4
+- Brook (OP06-092): 3
+- Hina (ST06-008): 3
+- Helmeppo (ST06-010): 3

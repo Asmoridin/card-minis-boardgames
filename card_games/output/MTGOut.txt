@@ -1,9 +1,9 @@
-Tracking 2676 cards.
-Have 125 out of 10838 total cards for a playset - 1.15 percent
+Tracking 2705 cards.
+Have 125 out of 10954 total cards for a playset - 1.14 percent
 
 *** VINTAGE ***
-There are 2676 Vintage legal cards
-Have 125 out of 10793 - 1.16 percent of a playset
+There are 2705 Vintage legal cards
+Have 125 out of 10909 - 1.15 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 2617 Legacy legal cards
-Have 124 out of 10728 - 1.16 percent of a playset
+There are 2646 Legacy legal cards
+Have 124 out of 10844 - 1.14 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** COMMANDER ***
-There are 2631 Commander legal cards
-Have 125 out of 2921 - 4.28 percent of a playset
+There are 2660 Commander legal cards
+Have 125 out of 2950 - 4.24 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
@@ -62,8 +62,8 @@ Most needed cards are:
  - Path to Exile: 31
 
 *** MODERN ***
-There are 527 Modern legal cards
-Have 74 out of 2368 - 3.12 percent of a playset
+There are 531 Modern legal cards
+Have 74 out of 2384 - 3.10 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 967 Pauper legal cards
-Have 60 out of 4128 - 1.45 percent of a playset
+There are 979 Pauper legal cards
+Have 60 out of 4176 - 1.44 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -142,8 +142,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 2617 Oathbreaker legal cards
-Have 124 out of 2907 - 4.27 percent of a playset
+There are 2646 Oathbreaker legal cards
+Have 124 out of 2936 - 4.22 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -203,9 +203,9 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Soldier: 57
+- Soldier: 58
+- Knight: 52
 - Wizard: 52
-- Knight: 50
 - Spirit: 46
 - Warrior: 43
 - Elemental: 40
@@ -226,6 +226,7 @@ Most common creature types:
 - Merfolk: 17
 - Orc: 17
 - Cat: 16
+- Beast: 15
 - Drake: 15
 - Dwarf: 15
 - Snake: 15
@@ -233,7 +234,6 @@ Most common creature types:
 - Angel: 13
 - Archer: 13
 - Wurm: 13
-- Beast: 12
 - Demon: 12
 - Efreet: 12
 - Faerie: 12
@@ -241,30 +241,31 @@ Most common creature types:
 - Plant: 12
 - Ape: 11
 - Avatar: 11
+- Minion: 11
 - Artificer: 10
 - Fungus: 10
 - Horse: 10
+- Rat: 10
 - Scout: 10
 - Skeleton: 10
 - Assassin: 9
 - Lizard: 9
-- Rat: 9
 - Shapeshifter: 9
 - Elephant: 8
 - Griffin: 8
+- Imp: 8
 - Vampire: 8
 - Kobold: 7
-- Minion: 7
 - Serpent: 7
 - Thrull: 7
 - Treefolk: 7
 - Unicorn: 7
 - Barbarian: 6
 - Berserker: 6
+- Dauthi: 6
 - Elder: 6
 - Fish: 6
 - Frog: 6
-- Imp: 6
 - Ouphe: 6
 - Pirate: 6
 - Shade: 6
@@ -276,6 +277,7 @@ Most common creature types:
 - Gnome: 5
 - Homarid: 5
 - Incarnation: 5
+- Mercenary: 5
 - Noble: 5
 - Ogre: 5
 - Spider: 5
@@ -286,7 +288,6 @@ Most common creature types:
 - Cyclops: 4
 - Dog: 4
 - Juggernaut: 4
-- Mercenary: 4
 - Monk: 4
 - Nightstalker: 4
 - Nomad: 4
@@ -299,20 +300,19 @@ Most common creature types:
 - Ooze: 3
 - Ranger: 3
 - Rhino: 3
+- Sliver: 3
 - Bard: 2
 - Basilisk: 2
-- Bat: 2
-- Boar: 2
 If above is 3, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 16.18
 Pioneer: 7.64
-Commander: 4.28
-Oathbreaker: 4.27
-Modern: 3.12
-Pauper: 1.45
+Commander: 4.24
+Oathbreaker: 4.22
+Modern: 3.10
+Pauper: 1.44
 Ice Age Block: 1.34
-Vintage: 1.16
-Legacy: 1.16
+Vintage: 1.15
+Legacy: 1.14
 Mirage Block: 1.14
