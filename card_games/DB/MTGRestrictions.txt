@@ -27,6 +27,7 @@ Demonic Consultation;Legacy-Banned/Vintage-Restricted
 Demonic Tutor;Legacy-Banned/Vintage-Restricted
 Dig Through Time;Modern-Banned/Legacy-Banned/Vintage-Restricted
 Doomsday;Oathbreaker-Banned
+Earthcraft;Legacy-Banned
 Emrakul, the Aeons Torn;Oathbreaker-Banned/Commander-Banned
 Expropriate;Oathbreaker-Banned
 Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned

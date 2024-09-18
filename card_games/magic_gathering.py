@@ -454,13 +454,13 @@ if __name__ == "__main__":
     # Other
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print("Most common creature types:", out_file_h)
-    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel',]
+    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier']
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
-    double_print("If above is 3, we should do a tribal Commander deck", out_file_h)
+    double_print("If above is 4, we should do a tribal Commander deck", out_file_h)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)

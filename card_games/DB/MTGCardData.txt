@@ -2469,23 +2469,69 @@ Sadistic Glee;Enchantment — Aura;B;Tempest (Common)/Battle Royale Box Set (Com
 Sarcomancy;Enchantment;B;Tempest (Rare)/Vintage Masters (Uncommon)/Tempest Remastered (Uncommon);0
 Screeching Harpy;Creature — Harpy Beast;B;Tempest (Uncommon)/Tempest Remastered (Uncommon);0
 Servant of Volrath;Creature - Minion;B;Tempest (Common);0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Done with card 4650
+Skyshroud Vampire;Creature — Vampire;B;Tempest (Uncommon)/Tempest Remastered (Uncommon);0
+Souldrinker;Creature — Spirit;B;Tempest (Uncommon)/Duel Decks: Divine vs. Demonic (Uncommon)/Duel Decks Anthology, Divine vs. Demonic (Uncommon);0
+Spinal Graft;Enchantment — Aura;B;Tempest (Common)/Vintage Masters (Common)/Tempest Remastered (Common);0
+Armor Sliver;Creature — Sliver;W;Tempest (Uncommon)/Premium Deck Series: Slivers (Uncommon)/Tempest Remastered (Common);0
+Benthic Behemoth;Creature — Serpent;U;Seventh Edition (Rare)/Tempest (Rare);0
+Capsize;Instant;U;Tempest (Common)/Tempest Remastered (Uncommon)/Masterpiece Series: Amonkhet Invocations (Special);0
+Chill;Enchantment;U;Classic Sixth Edition (Uncommon)/Tempest (Uncommon);0
+Dismiss;Instant;U;Tempest (Uncommon)/Commander 2013 Edition (Uncommon)/Commander 2014 (Uncommon)/Tempest Remastered (Uncommon)/Conspiracy: Take the Crown (Uncommon)/Jumpstart: Historic Horizons (Uncommon)/Jumpstart 2022 (Uncommon);0
+Duplicity;Enchantment;U;Tempest (Rare);0
+Ertai's Meddling;Instant;U;Tempest (Rare);0
+Escaped Shapeshifter;Creature - Shapeshifter;U;Tempest (Rare);0
+Fighting Drake;Creature — Drake;U;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Tempest (Uncommon)/Tempest Remastered (Uncommon);0
+Fylamarid;Creature — Squid Beast;U;Tempest (Uncommon);0
+Giant Crab;Creature - Crab;U;Tempest (Common)/Beatdown Box Set (Common);0
+Insight;Enchantment;U;Classic Sixth Edition (Uncommon)/Tempest (Uncommon);0
+Interdict;Instant;U;Tempest (Uncommon);0
+Intuition;Instant;U;Tempest (Rare)/Tempest Remastered (Rare);0
+Legacy's Allure;Enchantment;U;Tempest (Uncommon)/Tempest Remastered (Rare);0
+Legerdemain;Sorcery;U;Tempest (Uncommon)/Tempest Remastered (Uncommon);0
+Mana Severance;Sorcery;U;Tempest (Rare);0
+Manta Riders;Creature — Merfolk;U;Tempest (Common)/Battle Royale Box Set (Common);0
+Mawcor;Creature — Beast;U;Seventh Edition (Rare)/Tempest (Rare)/Tempest Remastered (Rare);0
+Meditate;Instant;U;Tempest (Rare)/Tempest Remastered (Rare);0
+Mnemonic Sliver;Creature — Sliver;U;Tempest (Uncommon)/Tempest Remastered (Common);0
+Precognition;Enchantment;U;Tempest (Rare);0
+Propaganda;Enchantment;U;Tempest (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Commander 2013 Edition (Uncommon)/Commander 2016 (Uncommon)/Ikoria Commander (Uncommon)/Adventures in the Forgotten Realms Commander (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Doctor Who Commander (Uncommon)/Outlaws of Thunder Junction Commander (Uncommon)/Modern Horizons 3 Commander (Uncommon)/Assassin's Creed (Uncommon);0
+Rootwater Diver;Creature — Merfolk;U;Tempest (Uncommon);0
+Rootwater Hunter;Creature — Merfolk;U;Tempest (Common)/Tempest Remastered (Uncommon)/Duel Decks: Merfolk vs. Goblins (Uncommon);0
+Rootwater Matriarch;Creature — Merfolk;U;Tempest (Rare)/Tenth Edition (Rare);0
+Rootwater Shaman;Creature — Merfolk Shaman;U;Tempest (Rare);0
+Sea Monster;Creature — Serpent;U;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Tempest (Common)/Tenth Edition (Common)/Tempest Remastered (Common);0
+Shadow Rift;Instant;U;Tempest (Common)/Tempest Remastered (Common);0
+Shimmering Wings;Enchantment — Aura;U;Tempest (Common)/Invasion (Common)/Tenth Edition (Common);0
+Skyshroud Condor;Creature — Bird;U;Tempest (Uncommon);0
+Steal Enchantment;Enchantment — Aura;U;Tempest (Uncommon);0
+Stinging Licid;Creature — Licid;U;Tempest (Uncommon);0
+Thalakos Dreamsower;Creature — Thalakos Wizard;U;Tempest (Uncommon);0
+Thalakos Mistfolk;Creature — Thalakos Illusion;U;Tempest (Common);0
+Thalakos Seer;Creature — Thalakos Wizard;U;Tempest (Common)/Tempest Remastered (Common);0
+Thalakos Sentry;Creature — Thalakos Soldier;U;Tempest (Common);0
+Time Warp;Sorcery;U;Tempest (Rare)/Starter 1999 (Rare)/Magic 2010 (Mythic Rare)/Tempest Remastered (Mythic Rare)/Explorers of Ixalan (Mythic Rare)/Strixhaven Mystical Archive (Mythic Rare);0
+Tradewind Rider;Creature — Spirit;U;Tempest (Rare)/Vintage Masters (Rare)/Tempest Remastered (Rare);0
+Twitch;Instant;U;Tempest (Common)/Tenth Edition (Common)/Worldwake (Common)/Tempest Remastered (Common);0
+Unstable Shapeshifter;Creature — Shapeshifter;U;Tempest (Rare);0
+Volrath's Curse;Enchantment — Aura;U;Tempest (Common)/Tempest Remastered (Uncommon);0
+Whim of Volrath;Instant;U;Tempest (Rare);0
+Whispers of the Muse;Instant;U;Tempest (Uncommon)/Time Spiral "Timeshifted" (Special)/Tempest Remastered (Common);0
+Wind Dancer;Creature — Faerie;U;Seventh Edition (Uncommon)/Tempest (Uncommon)/Magic: The Gathering—Conspiracy (Uncommon)/Tempest Remastered (Uncommon);0
+Winged Sliver;Creature — Sliver;U;Tempest (Common)/Premium Deck Series: Slivers (Common)/Tempest Remastered (Common)/Commander Masters (Common);0
+Aluren;Enchantment;G;Tempest (Rare)/Tempest Remastered (Rare);0
+Apes of Rath;Creature — Ape;G;Tempest (Uncommon);0
+Bayou Dragonfly;Creature — Insect;G;Tempest (Common);0
+Broken Fall;Enchantment;G;Tempest (Common)/Battle Royale Box Set (Common);0
+Canopy Spider;Creature — Spider;G;Seventh Edition (Common)/Eighth Edition (Common)/Tempest (Common)/Tenth Edition (Common)/Tempest Remastered (Common)/Battlebond (Common)/Core Set 2020 (Common);0
+Choke;Enchantment;G;Eighth Edition (Uncommon)/Tempest (Uncommon)/Masterpiece Series: Amonkhet Invocations (Special);0
+Crazed Armodon;Creature — Elephant;G;Tempest (Rare);0
+Dirtcowl Wurm;Creature — Wurm;G;Tempest (Rare)/Battle Royale Box Set (Rare)/Promo set for Gatherer (Rare);0
+Earthcraft;Enchantment;G;Tempest (Rare);0
+Eladamri, Lord of Leaves;Legendary Creature — Elf Warrior;G;Tempest (Rare);0
+Eladamri's Vineyard;Enchantment;G;Tempest (Rare);0
+Elven Warhounds;Creature — Dog;G;Tempest (Rare);0
+Elvish Fury;Instant;G;Tempest (Common)/Tempest Remastered (Common)/Modern Horizons (Common);0
+#Done with card 4760
 #4944
 Wasteland;Land;C;Tempest (Uncommon)/Tempest Remastered (Rare)/Zendikar Expeditions (Mythic Rare)/Eternal Masters (Rare)/Zendikar Rising Expeditions (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/Magic The Gathering—Fallout (Rare);0
 #5557
@@ -2854,6 +2900,8 @@ Sceptre of Eternal Glory;Legendary Artifact;C;Warhammer 40,000 Commander (Rare);
 Tomb Fortress;Land;C;Warhammer 40,000 Commander (Rare);1
 #582567
 Imotekh the Stormlord;Legendary Artifact Creature - Necron;B;Warhammer 40,000 Commander (Mythic Rare);1
+#583603
+Myrel, Shield of Argive;Legendary Creature — Human Soldier;W;The Brothers' War (Mythic Rare);0
 #602534
 Basilica Shepherd;Creature — Phyrexian Angel;W;Phyrexia: All Will Be One (Common);1
 #602555

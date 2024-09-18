@@ -1,9 +1,9 @@
-Tracking 2705 cards.
-Have 125 out of 10954 total cards for a playset - 1.14 percent
+Tracking 2768 cards.
+Have 125 out of 11206 total cards for a playset - 1.12 percent
 
 *** VINTAGE ***
-There are 2705 Vintage legal cards
-Have 125 out of 10909 - 1.15 percent of a playset
+There are 2768 Vintage legal cards
+Have 125 out of 11161 - 1.12 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 2646 Legacy legal cards
-Have 124 out of 10844 - 1.14 percent of a playset
+There are 2708 Legacy legal cards
+Have 124 out of 11092 - 1.12 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,28 +42,28 @@ Most needed cards are:
  - Plains: 23
 
 *** COMMANDER ***
-There are 2660 Commander legal cards
-Have 125 out of 2950 - 4.24 percent of a playset
+There are 2723 Commander legal cards
+Have 125 out of 3013 - 4.15 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (SzarekhTheSilentKing) is at 45 cards.
 {"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
- - Plains: 381
- - Forest: 355
+ - Plains: 403
+ - Forest: 375
  - Mountain: 353
  - Island: 288
  - Snow-Covered Plains: 91
  - Command Tower: 65
  - Snow-Covered Mountain: 50
  - Snow-Covered Swamp: 46
- - Swiftfoot Boots: 32
- - Path to Exile: 31
+ - Swiftfoot Boots: 33
+ - Path to Exile: 32
 
 *** MODERN ***
-There are 531 Modern legal cards
-Have 74 out of 2384 - 3.10 percent of a playset
+There are 543 Modern legal cards
+Have 74 out of 2432 - 3.04 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 74 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Ragavan, Nimble Pilferer: 6
 
 *** PIONEER ***
-There are 138 Pioneer legal cards
-Have 62 out of 812 - 7.64 percent of a playset
+There are 140 Pioneer legal cards
+Have 62 out of 820 - 7.56 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Kumano Faces Kakkazan: 12
 
 *** STANDARD ***
-There are 54 Standard legal cards
-Have 56 out of 346 - 16.18 percent of a playset
+There are 55 Standard legal cards
+Have 56 out of 350 - 16.00 percent of a playset
 Chosen card is a(n) Basic Land from Duel Decks: Knights vs. Dragons - Forest. I own 0 of 30
 
 Closest deck to completion (Golgari Midrange) is at 68 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 979 Pauper legal cards
-Have 60 out of 4176 - 1.44 percent of a playset
+There are 1000 Pauper legal cards
+Have 60 out of 4260 - 1.41 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -142,8 +142,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 2646 Oathbreaker legal cards
-Have 124 out of 2936 - 4.22 percent of a playset
+There are 2709 Oathbreaker legal cards
+Have 124 out of 2999 - 4.13 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -203,45 +203,45 @@ Most needed cards are:
 
 *** OTHER DATA ***
 Most common creature types:
-- Soldier: 58
+- Wizard: 54
 - Knight: 52
-- Wizard: 52
-- Spirit: 46
-- Warrior: 43
+- Spirit: 48
+- Warrior: 44
 - Elemental: 40
 - Zombie: 33
-- Bird: 28
-- Elf: 28
+- Bird: 29
+- Elf: 29
 - Phyrexian: 24
 - Dragon: 23
 - Druid: 22
+- Merfolk: 22
 - Horror: 21
-- Insect: 20
+- Insect: 21
+- Shaman: 21
 - Rogue: 20
-- Shaman: 20
 - Djinn: 18
 - Giant: 18
+- Beast: 17
 - Construct: 17
 - Golem: 17
-- Merfolk: 17
 - Orc: 17
 - Cat: 16
-- Beast: 15
-- Drake: 15
+- Drake: 16
 - Dwarf: 15
+- Illusion: 15
 - Snake: 15
-- Illusion: 14
+- Wurm: 14
 - Angel: 13
 - Archer: 13
-- Wurm: 13
+- Faerie: 13
+- Ape: 12
 - Demon: 12
 - Efreet: 12
-- Faerie: 12
 - Minotaur: 12
 - Plant: 12
-- Ape: 11
 - Avatar: 11
 - Minion: 11
+- Shapeshifter: 11
 - Artificer: 10
 - Fungus: 10
 - Horse: 10
@@ -249,14 +249,13 @@ Most common creature types:
 - Scout: 10
 - Skeleton: 10
 - Assassin: 9
+- Elephant: 9
 - Lizard: 9
-- Shapeshifter: 9
-- Elephant: 8
+- Serpent: 9
+- Vampire: 9
 - Griffin: 8
 - Imp: 8
-- Vampire: 8
 - Kobold: 7
-- Serpent: 7
 - Thrull: 7
 - Treefolk: 7
 - Unicorn: 7
@@ -269,9 +268,12 @@ Most common creature types:
 - Ouphe: 6
 - Pirate: 6
 - Shade: 6
+- Sliver: 6
+- Spider: 6
 - Troll: 6
 - Wolf: 6
 - Bear: 5
+- Dog: 5
 - Dryad: 5
 - Gargoyle: 5
 - Gnome: 5
@@ -280,18 +282,17 @@ Most common creature types:
 - Mercenary: 5
 - Noble: 5
 - Ogre: 5
-- Spider: 5
 - Wraith: 5
 - Advisor: 4
 - Atog: 4
 - Chimera: 4
 - Cyclops: 4
-- Dog: 4
 - Juggernaut: 4
 - Monk: 4
 - Nightstalker: 4
 - Nomad: 4
 - Specter: 4
+- Thalakos: 4
 - Thopter: 4
 - Turtle: 4
 - Yeti: 4
@@ -300,19 +301,18 @@ Most common creature types:
 - Ooze: 3
 - Ranger: 3
 - Rhino: 3
-- Sliver: 3
 - Bard: 2
 - Basilisk: 2
-If above is 3, we should do a tribal Commander deck
+If above is 4, we should do a tribal Commander deck
 
 Percentages ordered by format:
-Standard: 16.18
-Pioneer: 7.64
-Commander: 4.24
-Oathbreaker: 4.22
-Modern: 3.10
-Pauper: 1.44
+Standard: 16.00
+Pioneer: 7.56
+Commander: 4.15
+Oathbreaker: 4.13
+Modern: 3.04
+Pauper: 1.41
 Ice Age Block: 1.34
-Vintage: 1.15
-Legacy: 1.14
 Mirage Block: 1.14
+Vintage: 1.12
+Legacy: 1.12
