@@ -268,7 +268,7 @@ def validate_types(card_type_string):
         if check_type == '':
             continue
         if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant",
-                "Legendary", 'Land', 'Planeswalker', ]:
+                "Legendary", 'Land', 'Planeswalker', 'Vanguard']:
             ret_type.append(check_type)
         else:
             print("Unknown type: " + check_type)
@@ -350,9 +350,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Tempest"
-CHECK_AMOUNT = 350
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = "Stronghold"
+CHECK_AMOUNT = 143
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -388,6 +388,11 @@ for line in lines:
         for card_format in card_formats:
             card_formats[card_format] = 30
         CARD_MAX = 30
+    if 'Vanguard' in card_type:
+        card_formats = {'Vintage':1}
+        card_sets = ['Vanguard']
+        card_rarites = ['Special']
+        CARD_MAX = 1
     TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_qty
     raw_list.append((card_name, card_type, card_subtype, card_colors, card_sets, card_rarities, \

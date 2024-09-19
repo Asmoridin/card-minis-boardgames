@@ -55,7 +55,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Duskmourn: House of Horror Commander",
     ]
 
-NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]
+NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
 ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set",
     "Amonkhet Remastered", "Shadows Over Innistrad Remastered", "Kaladesh Remastered",
     "Alchemy Horizons: Baldur's Gate", "Historic Anthology 2", "Historical Anthology 1",
