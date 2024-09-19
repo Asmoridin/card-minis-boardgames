@@ -55,7 +55,7 @@ def read_decks(deck_format):
                     if deck_card_name not in this_deck:
                         this_deck[deck_card_name] = 0
                     this_deck[deck_card_name] += deck_card_qty
-                ret_list.append(Deck(deck_name, this_deck))
+                ret_list.append(Deck(comm_color + "/" + deck_name, this_deck))
     elif deck_format in os.listdir(DECK_DIR):
         for deck_file in os.listdir(DECK_DIR + '/' + deck_format):
             deck_name = deck_file.replace('.txt', '')
@@ -419,10 +419,6 @@ if __name__ == "__main__":
     legacy_dict = process_formats("Legacy")
     handle_output("Legacy", legacy_dict, out_file_h)
 
-    # Commander
-    comm_dict = process_formats("Commander")
-    handle_output("Commander", comm_dict, out_file_h)
-
     # Modern
     modern_dict = process_formats("Modern")
     handle_output("Modern", modern_dict, out_file_h)
@@ -451,8 +447,26 @@ if __name__ == "__main__":
     mir_dict = process_formats("Mirage Block")
     handle_output("Mirage Block", mir_dict, out_file_h)
 
+    # Commander
+    comm_dict = process_formats("Commander")
+    handle_output("Commander", comm_dict, out_file_h)
+
+    double_print("\nDecks for various Commander Color IDs:", out_file_h)
+    deck_ids_used = set()
+    for deck in comm_dict['DECKS']:
+        color_id = deck[0].split('/')[0]
+        if color_id in deck_ids_used:
+            continue
+        deck_ids_used.add(color_id)
+        deck_commander = deck[0].split('/')[1]
+        deck_need_num = deck[1]
+        deck_need_cards = deck[2]
+        double_print(f"Color Combo: {color_id}, Commander: {deck_commander}", out_file_h)
+        double_print(f"Needed cards: {deck_need_num} - {str(deck_need_cards)}\n", out_file_h)
+
     # Other
     double_print("\n*** OTHER DATA ***", out_file_h)
+    double_print(f"{len(creature_types)} total creature types", out_file_h)
     double_print("Most common creature types:", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier']
     for del_type in USED_TYPES:

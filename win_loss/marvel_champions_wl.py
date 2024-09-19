@@ -109,7 +109,7 @@ def get_least_played_hero(play_map):
         if combination not in play_map:
             aspect_combos.append((combination, 0))
         else:
-            aspect_combos.append((combination, play_map[combination]))
+            aspect_combos.append((combination, play_map[combination][0]))
     aspect_combos = sorted(aspect_combos, key=lambda x:(x[1], x[0][1]))
     return(aspect_combos[0][0][0], aspect_combos[0][0][1])
 

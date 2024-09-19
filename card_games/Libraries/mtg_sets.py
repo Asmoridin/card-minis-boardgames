@@ -52,6 +52,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Outlaws of Thunder Junction Breaking News", "March of the Machine Multiverse Legends",
     "Weatherlight", "Fallen Empires", "Promo set for Gatherer", "Urza's Legacy", "Urza's Destiny",
     "From the Vault: Transform", "Ravnica Allegiance Mythic Edition", "Stronghold",
+    "Duskmourn: House of Horror Commander",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", ]

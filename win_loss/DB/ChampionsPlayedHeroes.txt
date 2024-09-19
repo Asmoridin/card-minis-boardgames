@@ -4,6 +4,7 @@ Ant-Man;Aggression;2;2
 Ant-Man;Justice;2;2
 Ant-Man;Leadership;1;1
 Ant-Man;Protection;1;1
+Bishop;Leadership;1;0
 Black Panther;Aggression;2;1
 Black Panther;Justice;1;1
 Black Panther;Protection;3;2
@@ -47,6 +48,7 @@ Iron Man;Protection;2;2
 Ironheart;Aggression;1;1
 Ironheart;Leadership;1;1
 Jubilee;Justice;1;0
+Magik;Aggression;1;0
 Ms. Marvel;Aggression;1;1
 Ms. Marvel;Justice;1;1
 Ms. Marvel;Protection;2;2

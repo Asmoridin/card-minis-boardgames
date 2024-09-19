@@ -1,5 +1,5 @@
 2-1B Surgical Droid;SOR-059-C;Ground Unit;U;3 # 1x foil
-4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;2
+4-LOM, Bounty Hunter for Hire;SHD-188-U;Ground Unit;Y/B;3
 97th Legion, Keeping the Peace on Sullust;SOR-118-U;Ground Unit;G;2
 A New Adventure;SHD-207-U;Event;Y;2
 AT-AT Suppressor;SOR-039-U;Ground Unit;U/B;2 # 1 hyperspace
@@ -141,7 +141,7 @@ Endless Legions;SHD-109-L;Event;G;1
 Energy Conversion Lab;SOR-022-R;Base;G;1
 Enforced Loyalty;SHD-108-U;Event;G;3 # 1 foil
 Enfys Nest, Marauder;SHD-219-U;Ground Unit;Y;2
-Enterprising Lackeys;SHD-107-R;Ground Unit;G;0
+Enterprising Lackeys;SHD-107-R;Ground Unit;G;1
 Enticing Reward;SHD-222-U;Upgrade;Y;3 # hyperfoil
 Entrenched;SOR-072-U;Upgrade;U;3
 Ephant Mon, Head of Security;SHD-088-R;Ground Unit;G/B;0
@@ -298,7 +298,7 @@ Millennium Falcon, Lando's Pride;SHD-204-U;Space Unit;Y/W;2
 Millennium Falcon, Piece of Junk;SOR-193-L;Space Unit;W/Y;1
 Mining Guild TIE Fighter;SOR-206-C;Space Unit;Y;3 # 1 foil
 Mission Briefing;SOR-171-C;Event;R;3 # 1 hyperspace
-Modded Cohort;SHD-100-C;Ground Unit;G/W;3
+Modded Cohort;SHD-100-C;Ground Unit;G/W;3 # 1 foil
 Moff Gideon, Formidable Commander;SHD-007-S;Leader;G/B;1
 Moisture Farmer;SHD-055-C;Ground Unit;U;3 # 2 foil
 Moment of Glory;SHD-130-C;Event;G;3 # 1 foil
