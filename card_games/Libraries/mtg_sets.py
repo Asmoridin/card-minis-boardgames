@@ -70,7 +70,7 @@ MTGO_SETS = ["Vintage Masters", "Masters Edition IV", "Masters Edition III", "Ma
 STANDARD_SETS = ["Dominaria United", "The Brothers' War", "Phyrexia: All Will Be One",
     "March of the Machine", "March of the Machine: The Aftermath", "Wilds of Eldraine",
     "The Lost Caverns of Ixalan", "Murders at Karlov Manor", "Outlaws of Thunder Junction",
-    "The Big Score", "Bloomburrow"]
+    "The Big Score", "Bloomburrow", "Duskmourn: House of Horror"]
 
 # These sets are legal in Pioneer, Modern, and older formats
 PIONEER_SETS = ["Return to Ravnica", "Gatecrash", "Dragon's Maze", "Magic 2014 Core Set", "Theros",
