@@ -93,10 +93,10 @@ def check_decks(list_of_decks, list_of_cards):
         for start_letter, change_letter in cleanup_rules.items():
             clean_name = clean_name.replace(start_letter, change_letter)
         inventory_dict[clean_name] = in_card[7]
-    for deck in list_of_decks:
+    for c_deck in list_of_decks:
         this_deck_missing = 0
         this_deck_missing_cards = {}
-        for this_card, card_count in deck.deck_cards.items():
+        for this_card, card_count in c_deck.deck_cards.items():
             if this_card in inventory_dict:
                 if card_count > inventory_dict[this_card]:
                     this_deck_missing += card_count - inventory_dict[this_card]
@@ -105,7 +105,7 @@ def check_decks(list_of_decks, list_of_cards):
                 print(f"Missing card {this_card}")
                 this_deck_missing += card_count
                 this_deck_missing_cards[this_card] = card_count
-        ret_list.append((deck.deck_name, this_deck_missing, this_deck_missing_cards))
+        ret_list.append((c_deck.deck_name, this_deck_missing, this_deck_missing_cards))
     return ret_list
 
 def aggregate_most_needed(deck_lists):

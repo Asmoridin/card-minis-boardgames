@@ -1,9 +1,9 @@
-Tracking 2881 cards.
-Have 132 out of 11658 total cards for a playset - 1.13 percent
+Tracking 2927 cards.
+Have 132 out of 11842 total cards for a playset - 1.11 percent
 
 *** VINTAGE ***
-There are 2881 Vintage legal cards
-Have 132 out of 11613 - 1.14 percent of a playset
+There are 2927 Vintage legal cards
+Have 132 out of 11797 - 1.12 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 2821 Legacy legal cards
-Have 131 out of 11544 - 1.13 percent of a playset
+There are 2867 Legacy legal cards
+Have 131 out of 11728 - 1.12 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** MODERN ***
-There are 575 Modern legal cards
-Have 81 out of 2560 - 3.16 percent of a playset
+There are 580 Modern legal cards
+Have 81 out of 2580 - 3.14 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 73 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 1046 Pauper legal cards
-Have 61 out of 4444 - 1.37 percent of a playset
+There are 1053 Pauper legal cards
+Have 61 out of 4472 - 1.36 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 2822 Oathbreaker legal cards
-Have 131 out of 3112 - 4.21 percent of a playset
+There are 2868 Oathbreaker legal cards
+Have 131 out of 3158 - 4.15 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -182,8 +182,8 @@ Most needed cards are:
  - Gemstone Mine: 21
 
 *** COMMANDER ***
-There are 2836 Commander legal cards
-Have 132 out of 3126 - 4.22 percent of a playset
+There are 2882 Commander legal cards
+Have 132 out of 3172 - 4.16 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 45 cards.
@@ -273,20 +273,20 @@ Needed cards: 98 - {'Autumn Willow': 1, 'Anara, Wolvid Familiar': 1, 'Ancestral 
 
 
 *** OTHER DATA ***
-185 total creature types
+186 total creature types
 Most common creature types:
+- Knight: 56
 - Wizard: 56
-- Knight: 54
-- Spirit: 48
-- Warrior: 45
+- Spirit: 49
+- Warrior: 46
 - Elemental: 43
 - Zombie: 33
 - Elf: 32
 - Bird: 30
+- Druid: 25
+- Phyrexian: 25
 - Dragon: 24
-- Druid: 24
 - Insect: 24
-- Phyrexian: 24
 - Giant: 23
 - Merfolk: 22
 - Rogue: 22
@@ -299,38 +299,39 @@ Most common creature types:
 - Construct: 17
 - Golem: 17
 - Orc: 17
-- Wurm: 16
-- Angel: 15
+- Wurm: 17
+- Angel: 16
+- Archer: 15
 - Dwarf: 15
 - Illusion: 15
 - Snake: 15
-- Archer: 14
 - Faerie: 13
 - Ape: 12
 - Demon: 12
 - Efreet: 12
 - Minotaur: 12
 - Plant: 12
+- Shapeshifter: 12
 - Avatar: 11
 - Elephant: 11
 - Minion: 11
 - Scout: 11
-- Shapeshifter: 11
+- Sliver: 11
 - Artificer: 10
 - Fungus: 10
 - Horse: 10
 - Lizard: 10
 - Rat: 10
 - Skeleton: 10
-- Sliver: 10
 - Assassin: 9
 - Serpent: 9
 - Vampire: 9
 - Griffin: 8
 - Imp: 8
+- Soltari: 8
+- Thrull: 8
 - Treefolk: 8
 - Kobold: 7
-- Thrull: 7
 - Troll: 7
 - Unicorn: 7
 - Barbarian: 6
@@ -352,21 +353,21 @@ Most common creature types:
 - Gnome: 5
 - Homarid: 5
 - Incarnation: 5
+- Licid: 5
 - Mercenary: 5
+- Monk: 5
 - Noble: 5
 - Ogre: 5
+- Ranger: 5
 - Wraith: 5
 - Advisor: 4
 - Chimera: 4
 - Cyclops: 4
 - Dinosaur: 4
 - Juggernaut: 4
-- Licid: 4
-- Monk: 4
 - Nightstalker: 4
 - Nomad: 4
 - Ooze: 4
-- Ranger: 4
 - Specter: 4
 - Thalakos: 4
 - Thopter: 4
@@ -374,17 +375,16 @@ Most common creature types:
 - Yeti: 4
 - Drone: 3
 - Leviathan: 3
-- Rhino: 3
 If above is 4, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 16.29
 Pioneer: 7.57
-Commander: 4.22
-Oathbreaker: 4.21
-Modern: 3.16
+Commander: 4.16
+Oathbreaker: 4.15
+Modern: 3.14
 Ice Age Block: 1.38
-Pauper: 1.37
+Pauper: 1.36
 Mirage Block: 1.18
-Vintage: 1.14
-Legacy: 1.13
+Vintage: 1.12
+Legacy: 1.12
