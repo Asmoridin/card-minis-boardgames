@@ -1,9 +1,9 @@
-Tracking 2945 cards.
-Have 132 out of 11866 total cards for a playset - 1.11 percent
+Tracking 2956 cards.
+Have 132 out of 11910 total cards for a playset - 1.11 percent
 
 *** VINTAGE ***
-There are 2945 Vintage legal cards
-Have 132 out of 11821 - 1.12 percent of a playset
+There are 2956 Vintage legal cards
+Have 132 out of 11865 - 1.11 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 2869 Legacy legal cards
-Have 131 out of 11736 - 1.12 percent of a playset
+There are 2880 Legacy legal cards
+Have 131 out of 11780 - 1.11 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** MODERN ***
-There are 581 Modern legal cards
-Have 81 out of 2584 - 3.13 percent of a playset
+There are 582 Modern legal cards
+Have 81 out of 2588 - 3.13 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 73 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 1055 Pauper legal cards
-Have 61 out of 4480 - 1.36 percent of a playset
+There are 1058 Pauper legal cards
+Have 61 out of 4492 - 1.36 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 2870 Oathbreaker legal cards
-Have 131 out of 3160 - 4.15 percent of a playset
+There are 2881 Oathbreaker legal cards
+Have 131 out of 3171 - 4.13 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -182,8 +182,8 @@ Most needed cards are:
  - Gemstone Mine: 21
 
 *** COMMANDER ***
-There are 2884 Commander legal cards
-Have 132 out of 3174 - 4.16 percent of a playset
+There are 2895 Commander legal cards
+Have 132 out of 3185 - 4.14 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 45 cards.
@@ -293,7 +293,7 @@ Most common creature types:
 - Horror: 21
 - Shaman: 21
 - Beast: 20
-- Drake: 19
+- Drake: 20
 - Djinn: 18
 - Cat: 17
 - Construct: 17
@@ -312,20 +312,20 @@ Most common creature types:
 - Minotaur: 12
 - Plant: 12
 - Shapeshifter: 12
+- Sliver: 12
 - Avatar: 11
 - Elephant: 11
 - Minion: 11
 - Scout: 11
-- Sliver: 11
 - Artificer: 10
 - Fungus: 10
 - Horse: 10
 - Lizard: 10
 - Rat: 10
 - Skeleton: 10
+- Vampire: 10
 - Assassin: 9
 - Serpent: 9
-- Vampire: 9
 - Griffin: 8
 - Imp: 8
 - Soltari: 8
@@ -342,6 +342,7 @@ Most common creature types:
 - Elder: 6
 - Fish: 6
 - Frog: 6
+- Noble: 6
 - Ouphe: 6
 - Pirate: 6
 - Shade: 6
@@ -356,7 +357,6 @@ Most common creature types:
 - Licid: 5
 - Mercenary: 5
 - Monk: 5
-- Noble: 5
 - Ogre: 5
 - Ranger: 5
 - Wraith: 5
@@ -380,11 +380,11 @@ If above is 4, we should do a tribal Commander deck
 Percentages ordered by format:
 Standard: 15.92
 Pioneer: 7.54
-Commander: 4.16
-Oathbreaker: 4.15
+Commander: 4.14
+Oathbreaker: 4.13
 Modern: 3.13
 Ice Age Block: 1.38
 Pauper: 1.36
 Mirage Block: 1.18
-Vintage: 1.12
-Legacy: 1.12
+Vintage: 1.11
+Legacy: 1.11

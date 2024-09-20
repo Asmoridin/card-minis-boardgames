@@ -33,30 +33,6 @@ Android17-FB01-070.txt (Green) - Missing 27 cards
 - Son Goku (FB01-085): 1
 - Trunks : Future (FB02-091): 2
 
-TrunksFuture-FB01-036.txt (Blue) - Missing 27 cards
-- Galick Gun (FS02-15): 1
-- Goku Black (FB01-039): 1
-- Mai: Future (FB02-062): 2
-- Sinister Sickle (FB01-068): 2
-- Trunks : Future (FB01-049): 4
-- Vegeta (FB02-059): 2
-- Vegito (FB02-061): 4
-- Vegito (FB02-139): 2
-- Zamasu (FB01-042): 3
-- Zamasu (FB02-043): 4
-- Zen-Oh (FB02-049): 2
-
-Bardock-FS05-01.txt (Black) - Missing 29 cards
-- 10x Kamehameha (FB03-137): 3
-- Bardock (FB03-121): 4
-- Giru (FB03-108): 2
-- Hercule : GT (FB03-132): 3
-- Pan : GT (FB03-125): 4
-- Para Para Brothers (FB03-123): 2
-- Son Goku : Childhood BR (FB03-112): 3
-- Son Goku : GT (FB03-111): 4
-- Son Goku : GT (FB03-140): 4
-
 SonGoku-FB01-001.txt (Red) - Missing 29 cards
 - Android 17 (FB02-015): 3
 - Beerus (FB01-023): 1
@@ -71,14 +47,41 @@ SonGoku-FB01-001.txt (Red) - Missing 29 cards
 - Son Goku (FB01-139): 1
 - Whis (FB01-004): 3
 
+Vegeta-FS02-01.txt (Blue) - Missing 30 cards
+- Bulma (FB02-056): 1
+- Galick Gun (FS02-15): 1
+- Mai: Future (FB02-062): 4
+- Pilaf (FB01-056): 1
+- Sinister Sickle (FB01-068): 3
+- Son Gohan : Adolescence (FB03-039): 3
+- Vegeta (FB03-047): 4
+- Vegeta (FS02-13): 1
+- Vegito (FB02-061): 4
+- Vegito (FB02-139): 3
+- Videl (FB03-042): 3
+- Zen-Oh (FB02-049): 2
+
+Bardock-FS05-01.txt (Black) - Missing 38 cards
+- 10x Kamehameha (FB03-137): 3
+- Bardock (FB03-121): 4
+- Bardock (FP-021): 4
+- Bulla : GT (FB03-127): 4
+- Giru (FB03-108): 3
+- Hercule : GT (FB03-132): 4
+- Pan : GT (FB03-125): 4
+- Para Para Brothers (FB03-123): 3
+- Son Goku : Childhood BR (FB03-112): 2
+- Son Goku : GT (FB03-111): 3
+- Son Goku : GT (FB03-140): 4
+
 Most needed cards, overall:
 - Caulifla (FB02-007): 20
 - Son Gohan : Adolescence (FB02-018): 20
 - Vegeta (FB01-096): 15
 - Vegito (FB02-061): 15
 - Hit (FB01-021): 13
+- Son Gohan : Adolescence (FB03-039): 13
 - Ginyu (FB01-109): 12
+- Mai: Future (FB02-062): 12
 - Sinister Sickle (FB01-068): 11
 - Vegeta (FB03-047): 11
-- Beerus (FB01-023): 10
-- Mai: Future (FB02-062): 10
