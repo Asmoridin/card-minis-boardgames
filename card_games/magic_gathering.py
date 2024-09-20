@@ -135,13 +135,17 @@ def parse_restrictions(restr_lines):
         for restriction in card_restrictions.split('/'):
             this_format, bnr = restriction.split('-')
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
-                    'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block']:
+                    'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
+                    'Tempest Block']:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
             return_dict[this_card_name][this_format] = bnr
     return return_dict
 
+    # Dominaria block     Dominaria United/    The Brothers' War 
+    #Innistrad block     Innistrad: Midnight Hunt/    Innistrad: Crimson Vow 
+    #Guilds of Ravnica block. ( Guilds of Ravnica,     Ravnica Allegiance,     War of the Spark )
     #Ixalan block (Ixalan, Rivals of Ixalan)
     #Amonkhet block (Amonkhet, Hour of Devastation)
     #Kaladesh block (Kaladesh, Aether Revolt)
@@ -164,7 +168,6 @@ def parse_restrictions(restr_lines):
     #Invasion block (Invasion, Planeshift, Apocalypse)
     #Masques block (Mercadian Masques, Nemesis, Prophecy)
     #Urza's block (Urza's Saga, Urza's Legacy, Urza's Destiny)
-    #Tempest block (Tempest, Stronghold, Exodus)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -210,6 +213,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handle Mirage Block
             if this_set in ['Mirage', 'Visions', 'Weatherlight']:
                 ret_formats['Mirage Block'] = 4
+            # Handle Tempest Block
+            if this_set in ['Tempest', 'Stronghold', 'Exodus']:
+                ret_formats['Tempest Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -350,7 +356,7 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Stronghold"
+CHECK_SET = "Exodus"
 CHECK_AMOUNT = 143
 SET_CHECK += 0 # Extra basic lands
 
@@ -452,6 +458,10 @@ if __name__ == "__main__":
     mir_dict = process_formats("Mirage Block")
     handle_output("Mirage Block", mir_dict, out_file_h)
 
+    # Tempest Block
+    mir_dict = process_formats("Tempest Block")
+    handle_output("Tempest Block", mir_dict, out_file_h)
+
     # Commander
     comm_dict = process_formats("Commander")
     handle_output("Commander", comm_dict, out_file_h)
@@ -473,13 +483,13 @@ if __name__ == "__main__":
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     double_print("Most common creature types:", out_file_h)
-    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier']
+    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver']
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
-    double_print("If above is 4, we should do a tribal Commander deck", out_file_h)
+    double_print("If above is 5, we should do a tribal Commander deck", out_file_h)
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)

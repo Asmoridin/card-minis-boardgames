@@ -108,3 +108,5 @@ White Plume Adventurer;Legacy-Banned
 Wooded Foothills;Pioneer-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Zuran Orb;Ice Age Block-Banned
+Cursed Scroll;Tempest Block-Banned
+Hermit Druid;Legacy-Banned
