@@ -2855,7 +2855,15 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-#Done with card 5300
+Goblin Cadets;Creature — Goblin;R;Urza's Saga (Uncommon)/Magic: The Gathering-Commander (Uncommon);0
+Falter;Instant;R;Urza's Saga (Common)/Vintage Masters (Common);0
+Goblin Spelunkers;Creature — Goblin Warrior;R;Seventh Edition (Common)/Urza's Saga (Common)/Ravnica: City of Guilds (Common);0
+Raze;Sorcery;R;Urza's Saga (Common);0
+Shower of Sparks;Instant;R;Urza's Saga (Common)/Battle Royale Box Set (Common)/Duel Decks: Heroes vs. Monsters (Common);0
+Crater Hellion;Creature — Hellion Beast;R;Urza's Saga (Rare)/Duel Decks: Heroes vs. Monsters (Rare)/Commander 2013 Edition (Rare)/Vintage Masters (Rare)/Eternal Masters (Rare);0
+Voltaic Key;Artifact;C;Urza's Saga (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon)/Magic 2011 (Uncommon);0
+Temporal Aperture;Artifact;C;Urza's Saga (Rare);0
+#Done with card 5548
 #5557
 Duress;Sorcery;B;Seventh Edition (Common)/Urza's Saga (Common)/Duel Decks: Divine vs. Demonic (Common)/Magic 2010 (Common)/Magic 2011 (Common)/Premium Deck Series: Graveborn (Common)/Magic 2013 (Common)/Magic 2014 Core Set (Common)/Modern Event Deck 2014 (Common)/Duel Decks Anthology, Divine vs. Demonic (Common)/Dragons of Tarkir (Common)/Eternal Masters (Common)/Ixalan (Common)/Iconic Masters (Common)/Core Set 2019 (Common)/Core Set 2020 (Common)/Core Set 2021 (Common)/Strixhaven Mystical Archive (Uncommon)/Jumpstart: Historic Horizons (Common)/Innistrad: Midnight Hunt (Common)/Dominaria Remastered (Common)/Phyrexia: All Will Be One (Common);0
 #5808
