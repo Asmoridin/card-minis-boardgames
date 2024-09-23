@@ -110,3 +110,5 @@ Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Zuran Orb;Ice Age Block-Banned
 Cursed Scroll;Tempest Block-Banned
 Hermit Druid;Legacy-Banned
+Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
+Peregrine Drake;Pauper-Banned
