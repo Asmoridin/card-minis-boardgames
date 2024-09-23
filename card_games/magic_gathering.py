@@ -143,8 +143,8 @@ def parse_restrictions(restr_lines):
             return_dict[this_card_name][this_format] = bnr
     return return_dict
 
-    # Dominaria block     Dominaria United/    The Brothers' War 
-    #Innistrad block     Innistrad: Midnight Hunt/    Innistrad: Crimson Vow 
+    # Dominaria block     Dominaria United/    The Brothers' War
+    #Innistrad block     Innistrad: Midnight Hunt/    Innistrad: Crimson Vow
     #Guilds of Ravnica block. ( Guilds of Ravnica,     Ravnica Allegiance,     War of the Spark )
     #Ixalan block (Ixalan, Rivals of Ixalan)
     #Amonkhet block (Amonkhet, Hour of Devastation)
