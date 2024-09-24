@@ -53,7 +53,7 @@
 1 Jet Medallion
 1 Krark-Clan Ironworks
 1 Lashwrithe
-1 Mana Crypt
+1 Mana Vault
 1 Mana Web
 1 Mo Opal
 1 Mycosynth Lattice

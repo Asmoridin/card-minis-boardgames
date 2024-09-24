@@ -40,18 +40,18 @@
 1 Food Chain
 1 Force of Negation
 1 Force of Will
+1 Forest
 1 Gemstone Caverns
 1 Grand Abolisher
 1 Hullbreaker Horror
 1 Imperial Seal
 1 Island
-1 Jeweled Lotus
 1 Kinnan, Bonder Prodigy
 1 Lavinia, Azorius Renegade
 1 Lotho, Corrupt Shirriff
 1 Lotus Petal
 1 Mana Confluence
-1 Mana Crypt
+1 Grim Monolith
 1 Mana Drain
 1 Mana Vault
 1 Marsh Flats

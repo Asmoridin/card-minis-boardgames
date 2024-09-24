@@ -14,7 +14,7 @@
 1 Darksteel Citadel
 1 Darksteel Forge
 1 Deflecting Swat
-1 Dockside Extortionist
+1 Cavern-Hoard Dragon
 1 Emry, Lurker of the Loch
 1 Everflowing Chalice
 1 Exotic Orchard
@@ -33,7 +33,7 @@
 4 Island
 1 Jhoira, Weatherlight Captain
 1 Karn, the Great Creator
-1 Mana Crypt
+1 Mana Vault
 1 Mana Drain
 1 Master Transmuter
 1 Merchant Scroll

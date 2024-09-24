@@ -17,7 +17,7 @@
 1 Dark Ritual
 1 Decaying Soil
 1 Disturbed Burial
-1 Dockside Extortionist
+1 Cavern-Hoard Dragon
 1 Dragonskull Summit
 1 Elemental Mastery
 1 Erratic Portal
@@ -34,7 +34,6 @@
 1 Hematite Talisman
 1 Isochron Scepter
 1 Jeska's Will
-1 Jeweled Lotus
 1 Kiki-Jiki, Mirror Breaker
 1 Krark-Clan Stoker
 1 Krenko, Mob Boss
@@ -44,10 +43,10 @@
 1 Luxury Suite
 1 Magewright's Stone
 1 Magus of the Coffers
-1 Mana Crypt
+1 Mana Vault
 1 Mana Geyser
 1 Mind Stone
-9 Mountain
+10 Mountain
 1 Mycosynth Lattice
 1 Nim Deathmantle
 1 Onyx Talisman

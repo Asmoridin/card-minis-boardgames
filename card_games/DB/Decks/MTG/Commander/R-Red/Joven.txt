@@ -21,7 +21,7 @@
 1 Deflecting Swat
 1 Demand Answers
 1 Disrupt Decorum
-1 Dockside Extortionist
+1 Cavern-Hoard Dragon
 1 Dualcaster Mage
 1 Etali, Primal Storm
 1 Faithless Looting
@@ -37,7 +37,6 @@
 1 Homeward Path
 1 Iron Myr
 1 Jeska's Will
-1 Jeweled Lotus
 1 Karn, the Great Creator
 1 Kiki-Jiki, Mirror Breaker
 1 Krenko, Baron of Tin Street
@@ -46,9 +45,9 @@
 1 Liquimetal Torque
 1 Lotus Petal
 1 Magda, Brazen Outlaw
-1 Mana Crypt
+1 Mana Vault
 1 Mana Geyser
-26 Mountain
+27 Mountain
 1 Mycosynth Lattice
 1 Myr Retriever
 1 Price of Glory

@@ -30,7 +30,7 @@
 1 Dark Ritual
 1 Dark Withering
 1 Depart the Realm
-1 Dockside Extortionist
+1 Cavern-Hoard Dragon
 1 Dragon Breath
 1 Exhume
 1 Faerie Mastermind
@@ -48,14 +48,14 @@
 1 Into the Flood Maw
 1 Island
 1 It That Betrays
-1 Jeweled Lotus
+1 Lotus Petal
 1 Jin-Gitaxias, Core Augur
 1 Ledger Shredder
 1 Lier, Disciple of the Drowned
 1 Lightning Greaves
 1 Malakir Rebirth // Malakir Mire
 1 Mana Confluence
-1 Mana Crypt
+1 Mana Vault
 1 Marsh Flats
 1 Misty Rainforest
 1 Mountain

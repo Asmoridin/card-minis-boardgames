@@ -1,9 +1,9 @@
-Tracking 3207 cards.
-Have 132 out of 12911 total cards for a playset - 1.02 percent
+Tracking 3316 cards.
+Have 132 out of 13347 total cards for a playset - 0.99 percent
 
 *** VINTAGE ***
-There are 3207 Vintage legal cards
-Have 132 out of 12866 - 1.03 percent of a playset
+There are 3316 Vintage legal cards
+Have 132 out of 13302 - 0.99 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 3129 Legacy legal cards
-Have 131 out of 12776 - 1.03 percent of a playset
+There are 3238 Legacy legal cards
+Have 131 out of 13212 - 0.99 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** MODERN ***
-There are 638 Modern legal cards
-Have 81 out of 2812 - 2.88 percent of a playset
+There are 658 Modern legal cards
+Have 81 out of 2892 - 2.80 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Jeskai Control) is at 73 cards.
@@ -62,8 +62,8 @@ Most needed cards are:
  - Celestial Purge: 5
 
 *** PIONEER ***
-There are 157 Pioneer legal cards
-Have 63 out of 888 - 7.09 percent of a playset
+There are 162 Pioneer legal cards
+Have 63 out of 908 - 6.94 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 30
 
 Closest deck to completion (Mono-Black Discard) is at 66 cards.
@@ -82,8 +82,8 @@ Most needed cards are:
  - Kumano Faces Kakkazan: 12
 
 *** STANDARD ***
-There are 59 Standard legal cards
-Have 57 out of 366 - 15.57 percent of a playset
+There are 60 Standard legal cards
+Have 57 out of 370 - 15.41 percent of a playset
 Chosen card is a(n) Basic Land from Guild Kit: Selesnya - Forest. I own 0 of 30
 
 Closest deck to completion (Golgari Midrange) is at 68 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 1143 Pauper legal cards
-Have 61 out of 4832 - 1.26 percent of a playset
+There are 1192 Pauper legal cards
+Have 61 out of 5028 - 1.21 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 3132 Oathbreaker legal cards
-Have 131 out of 3422 - 3.83 percent of a playset
+There are 3241 Oathbreaker legal cards
+Have 131 out of 3531 - 3.71 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -202,21 +202,21 @@ Most needed cards are:
  - Disenchant: 25
 
 *** COMMANDER ***
-There are 3146 Commander legal cards
-Have 132 out of 3436 - 3.84 percent of a playset
+There are 3253 Commander legal cards
+Have 132 out of 3543 - 3.73 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 45 cards.
 {"Ashnod's Altar": 1, 'Back for Seconds': 1, "Black Sun's Twilight": 1, 'Bojuka Bog': 1, "Bolas's Citadel": 1, 'Breach the Multiverse': 1, 'Brotherhood Vertibird': 1, 'Buried Ruin': 1, 'Cabal Coffers': 1, 'Cabal Stronghold': 1, 'Castle Locthwain': 1, 'Cyberman Patrol': 1, 'Dark Ritual': 1, 'Darksteel Citadel': 1, 'Darksteel Forge': 1, 'Deadly Dispute': 1, 'Disciple of the Vault': 1, 'Feed the Swarm': 1, "Inventors' Fair": 1, 'Karn, Legacy Reforged': 1, "Lich-Knights' Conquest": 1, 'Monumental Corruption': 1, 'Mortuary Mire': 1, 'Myr Retriever': 1, 'Nightmare Lash': 1, 'Nykthos, Shrine to Nyx': 1, 'Phyrexian Reclamation': 1, 'Phyrexian Scriptures': 1, 'Phyrexian Tower': 1, 'Reanimate': 1, 'Scene of the Crime': 1, 'Shimmer Myr': 1, 'Solemn Simulacrum': 1, 'Steel Overseer': 1, 'Takenuma, Abandoned Mire': 1, 'Throne of Eldraine': 1, 'Tortured Existence': 1, 'Unseal the Necropolis': 1, 'Unwinding Clock': 1, 'Urborg, Tomb of Yawgmoth': 1, 'Victimize': 1, 'Virtue of Persistence // Locthwain Scorn': 1, 'Whip of Erebos': 1, "Witch's Cottage": 1, 'Wurmcoil Engine': 1}
 
 Most needed cards are:
- - Plains: 442
- - Forest: 380
- - Mountain: 350
- - Island: 312
+ - Plains: 443
+ - Forest: 381
+ - Mountain: 353
+ - Island: 313
  - Snow-Covered Plains: 91
  - Command Tower: 69
- - Snow-Covered Mountain: 50
+ - Snow-Covered Mountain: 51
  - Snow-Covered Swamp: 46
  - Swords to Plowshares: 36
  - Path to Exile: 34
@@ -232,7 +232,7 @@ Color Combo: BU-Dimir, Commander: Nebuchadnezzar
 Needed cards: 79 - {'Nebuchadnezzar': 1, 'Abyssal Nocturnus': 1, 'AEtherize': 1, 'Animate Dead': 1, 'Arcane Denial': 1, 'Blizzard Specter': 1, 'Bottomless Pit': 1, 'Brainstorm': 1, "Breathstealer's Crypt": 1, 'Castle Vantress': 1, 'Choked Estuary': 1, 'Coldsteel Heart': 1, 'Command Tower': 1, 'Consuming Aberration': 1, 'Counterspell': 1, 'Cyclonic Rift': 1, 'Damnation': 1, 'Darkwater Catacombs': 1, 'Demonic Tutor': 1, 'Dimir Signet': 1, 'Dissipation Field': 1, 'Dream Salvage': 1, 'Drowned Catacomb': 1, 'Evolving Wilds': 1, 'Fellwar Stone': 1, 'Geier Reach Sanitarium': 1, "Geth's Grimoire": 1, 'Guiltfeeder': 1, "Hero's Downfall": 1, "Illusionist's Bracers": 1, 'Island': 7, "Jace's Archivist": 1, 'Lantern of Insight': 1, 'Lazav, Dimir Mastermind': 1, 'Library of Leng': 1, 'Lightning Greaves': 1, "Liliana's Caress": 1, "Lim-Dul's Vault": 1, 'Megrim': 1, 'Morphic Pool': 1, 'Nihil Spellbomb': 1, 'Notion Thief': 1, 'Oppression': 1, 'Polluted Delta': 1, 'Ponder': 1, 'Preordain': 1, 'Puppeteer Clique': 1, 'Reanimate': 1, 'Recoil': 1, 'Remand': 1, "Seer's Vision": 1, 'Sunken Hollow': 1, 'Sunken Ruins': 1, 'Swan Song': 1, 'Swiftfoot Boots': 1, 'Tainted Isle': 1, 'Temple of Deceit': 1, 'Temple of the False God': 1, 'Tergrid, God of Fright': 1, 'The Haunt of Hightower': 1, 'Tinybones, Trinket Thief': 1, 'Tourach, Dread Cantor': 1, 'Toxic Deluge': 1, 'Underground River': 1, 'Urborg, Tomb of Yawgmoth': 1, "Vraska's Contempt": 1, 'Waste Not': 1, 'Watery Grave': 1, 'Whispering Madness': 1, 'Windfall': 1, 'Words of Waste': 1, 'Wrexial, the Risen Deep': 1, "Zur's Weirding": 1}
 
 Color Combo: BR-Rakdos, Commander: RohgahhOfKherKeep
-Needed cards: 82 - {'Rohgahh of Kher Keep': 1, "Akroma's Memorial": 1, 'Ali from Cairo': 1, 'Animate Dead': 1, 'Assault Suit': 1, 'Bazaar Trader': 1, 'Birthing Boughs': 1, 'Black Market Connections': 1, 'Bloodline Pretender': 1, 'Bloodthirsty Blade': 1, 'Cairn Wanderer': 1, 'Changeling Berserker': 1, 'Changeling Outcast': 1, 'Crimson Kobolds': 1, 'Crookshank Kobolds': 1, 'Demonic Tutor': 1, 'Diabolic Tutor': 1, 'Dockside Extortionist': 1, 'Door of Destinies': 1, 'Electrodominance': 1, 'Feed the Swarm': 1, 'Final Fortune': 1, 'Fire-Belly Changeling': 1, 'Ghostly Changeling': 1, 'Goblin Engineer': 1, 'Graveshifter': 1, 'Hellkite Tyrant': 1, 'Impact Tremors': 1, 'Imperial Recruiter': 1, 'Imperial Seal': 1, 'Infinite Hourglass': 1, 'Insolence': 1, 'Judith, the Scourge Diva': 1, 'Kher Keep': 1, 'Kobold Drill Sergeant': 1, 'Kobold Overlord': 1, 'Kobold Taskmaster': 1, 'Kobolds of Kher Keep': 1, 'Lightning Bolt': 1, 'Maskwood Nexus': 1, 'Memnite': 1, 'Metallic Mimic': 1, 'Minion of the Mighty': 1, 'Mountain': 19, 'Nogi, Draco-Zealot': 1, 'Ornithopter': 1, 'Overwhelming Forces': 1, 'Parasitic Impetus': 1, 'Purphoros, God of the Forge': 1, 'Raging River': 1, 'Raid Bombardment': 1, 'Rakdos Charm': 1, 'Rograkh, Son of Rohgahh': 1, 'Rohgahh, Kher Keep Overlord': 1, 'Rosnakht, Heir of Rohgahh': 1, 'Shared Animosity': 1, 'Solemn Simulacrum': 1, 'Spy Kit': 1, 'Taunting Kobold': 1, 'Taurean Mauler': 1, 'Vampiric Tutor': 1, "Vanquisher's Banner": 1, 'War-Spike Changeling': 1, 'Wheel of Fortune': 1}
+Needed cards: 82 - {'Rohgahh of Kher Keep': 1, "Akroma's Memorial": 1, 'Ali from Cairo': 1, 'Animate Dead': 1, 'Assault Suit': 1, 'Bazaar Trader': 1, 'Birthing Boughs': 1, 'Black Market Connections': 1, 'Bloodline Pretender': 1, 'Bloodthirsty Blade': 1, 'Cairn Wanderer': 1, 'Changeling Berserker': 1, 'Changeling Outcast': 1, 'Crimson Kobolds': 1, 'Crookshank Kobolds': 1, 'Demonic Tutor': 1, 'Diabolic Tutor': 1, 'Cavern-Hoard Dragon': 1, 'Door of Destinies': 1, 'Electrodominance': 1, 'Feed the Swarm': 1, 'Final Fortune': 1, 'Fire-Belly Changeling': 1, 'Ghostly Changeling': 1, 'Goblin Engineer': 1, 'Graveshifter': 1, 'Hellkite Tyrant': 1, 'Impact Tremors': 1, 'Imperial Recruiter': 1, 'Imperial Seal': 1, 'Infinite Hourglass': 1, 'Insolence': 1, 'Judith, the Scourge Diva': 1, 'Kher Keep': 1, 'Kobold Drill Sergeant': 1, 'Kobold Overlord': 1, 'Kobold Taskmaster': 1, 'Kobolds of Kher Keep': 1, 'Lightning Bolt': 1, 'Maskwood Nexus': 1, 'Memnite': 1, 'Metallic Mimic': 1, 'Minion of the Mighty': 1, 'Mountain': 19, 'Nogi, Draco-Zealot': 1, 'Ornithopter': 1, 'Overwhelming Forces': 1, 'Parasitic Impetus': 1, 'Purphoros, God of the Forge': 1, 'Raging River': 1, 'Raid Bombardment': 1, 'Rakdos Charm': 1, 'Rograkh, Son of Rohgahh': 1, 'Rohgahh, Kher Keep Overlord': 1, 'Rosnakht, Heir of Rohgahh': 1, 'Shared Animosity': 1, 'Solemn Simulacrum': 1, 'Spy Kit': 1, 'Taunting Kobold': 1, 'Taurean Mauler': 1, 'Vampiric Tutor': 1, "Vanquisher's Banner": 1, 'War-Spike Changeling': 1, 'Wheel of Fortune': 1}
 
 Color Combo: BG-Golgari, Commander: Chatterfang Squirrel General
 Needed cards: 89 - {'Chatterfang, Squirrel General': 1, 'Academy Manufactor': 1, 'Arasta of the Endless Web': 1, 'Bastion of Remembrance': 1, 'Beastmaster Ascension': 1, 'Beledros Witherbloom': 1, 'Binding the Old Gods': 1, 'Bojuka Bog': 1, 'Cache Grab': 1, 'Casualties of War': 1, 'Chatterstorm': 1, 'Chittering Witch': 1, 'Chitterspitter': 1, 'Command Tower': 1, 'Deadly Dispute': 1, 'Decree of Pain': 1, 'Deep Forest Hermit': 1, 'End-Raze Forerunners': 1, 'Evolving Wilds': 1, 'Exotic Orchard': 1, 'Forest': 9, 'Garruk, Cursed Huntsman': 1, 'Gilded Goose': 1, 'Golgari Rot Farm': 1, 'Golgari Signet': 1, "Gourmand's Talent": 1, 'Grim Backwoods': 1, 'Haunted Mire': 1, 'Haywire Mite': 1, 'Hazel of the Rootbloom': 1, "Hazel's Brewmaster": 1, 'Honored Dreyleader': 1, 'Idol of Oblivion': 1, 'Insatiable Frugivore': 1, 'Jungle Hollow': 1, 'Llanowar Wastes': 1, 'Maelstrom Pulse': 1, 'Maskwood Nexus': 1, 'Moldervine Reclamation': 1, 'Moonstone Eulogist': 1, 'Morbid Opportunist': 1, "Nadier's Nightblade": 1, 'Necroblossom Snarl': 1, 'Nested Shambler': 1, 'Ogre Slumlord': 1, 'Oran-Rief, the Vastwood': 1, 'Path of Ancestry': 1, 'Plaguecrafter': 1, 'Plumb the Forbidden': 1, 'Poison-Tip Archer': 1, 'Prosperous Innkeeper': 1, 'Putrefy': 1, 'Ravenous Squirrel': 1, 'Rootcast Apprenticeship': 1, 'Saw in Half': 1, 'Scurry of Squirrels': 1, 'Second Harvest': 1, 'Shamanic Revelation': 1, 'Skullclamp': 1, 'Skyfisher Spider': 1, 'Squirrel Nest': 1, 'Squirrel Sovereign': 1, 'Swarmyard': 1, 'Swarmyard Massacre': 1, 'Sword of the Squeak': 1, 'Tainted Wood': 1, 'Talisman of Resilience': 1, 'Tear Asunder': 1, 'Temple of Malady': 1, 'Terramorphic Expanse': 1, 'The Odd Acorn Gang': 1, 'Tireless Provisioner': 1, 'Toski, Bearer of Secrets': 1, 'Tranquil Thicket': 1, 'Twilight Mire': 1, 'Viridescent Bog': 1, "Windgrace's Judgment": 1, 'Woe Strider': 1, 'Wolfwillow Haven': 1, 'Woodland Cemetery': 1, 'Zulaport Cutthroat': 1}
@@ -247,13 +247,13 @@ Color Combo: RU-Izzet, Commander: TheLocustGod
 Needed cards: 92 - {'The Locust God': 1, 'Akki War Paint': 1, 'Annex': 1, "Ashnod's Altar": 1, 'Atsushi, the Blazing Sky': 1, 'Big Score': 1, 'Blasphemous Act': 1, 'Brainstorm': 1, 'Cancel': 1, 'Cascade Bluffs': 1, 'Chromatic Lantern': 1, 'Command Tower': 1, 'Commit/Memory': 1, 'Consecrated Sphinx': 1, 'Counterspell': 1, 'Curiosity': 1, 'Deface': 1, 'Fable of the Mirror-Breaker': 1, 'Faerie Mastermind': 1, 'Fateful Showdown': 1, 'Fellwar Stone': 1, 'Forgotten Creation': 1, 'Frantic Search': 1, 'Galazeth Prismari': 1, 'Geier Reach Sanitarium': 1, 'Gitaxian Probe': 1, 'Impact Tremors': 1, 'Island': 12, 'It That Betrays': 1, 'Izzet Boilerworks': 1, 'Izzet Charm': 1, 'Izzet Signet': 1, "Jace's Sanctum": 1, 'Jace, Wielder of Mysteries': 1, 'Kindred Discovery': 1, 'Kozilek, the Great Distortion': 1, 'Laboratory Maniac': 1, 'Lightning Greaves': 1, 'Molten Gatekeeper': 1, 'Mountain': 2, 'Niv-Mizzet, Parun': 1, 'Niv-Mizzet, the Firemind': 1, 'Ophidian Eye': 1, 'Pit of Offerings': 1, 'Prismari Command': 1, 'Psychosis Crawler': 1, 'Purphoros, God of the Forge': 1, 'Pyroblast': 1, 'Reality Shift': 1, 'Rhystic Study': 1, 'Rite of Replication': 1, 'Sage of the Falls': 1, "Sensei's Divining Top": 1, 'Shared Animosity': 1, 'Shattering Spree': 1, 'Shivan Reef': 1, 'Sigil of Sleep': 1, 'Silent Departure': 1, 'Skullclamp': 1, 'Slip Out the Back': 1, 'Snowfall': 1, 'Solve the Equation': 1, 'Sorcerer Class': 1, 'Storm the Vault': 1, 'Sulfur Falls': 1, 'Swiftwater Cliffs': 1, 'Talisman of Creativity': 1, "Teferi's Ageless Insight": 1, "Teferi's Veil": 1, 'The Reaver Cleaver': 1, 'Time Warp': 1, 'Tolarian Winds': 1, 'Triskaidekaphile': 1, 'Ugin, the Ineffable': 1, 'Unexpected Windfall': 1, 'Vivid Creek': 1, 'Wheel of Misfortune': 1, 'Whispersilk Cloak': 1, 'Windfall': 1, 'Witty Roastmaster': 1}
 
 Color Combo: R-Red, Commander: Eron The Relentless
-Needed cards: 93 - {'Eron the Relentless': 1, 'Aggravated Assault': 1, 'Arena of Glory': 1, 'Basilisk Collar': 1, 'Blood Moon': 1, 'Buried Ruin': 1, 'Burnished Hart': 1, 'Castle Embereth': 1, 'Chaos Warp': 1, 'Cloud Key': 1, 'Combustible Gearhulk': 1, 'Command Beacon': 1, "Commander's Plate": 1, "Conqueror's Flail": 1, 'Daretti, Scrap Savant': 1, 'Darksteel Citadel': 1, 'Deflecting Swat': 1, 'Dockside Extortionist': 1, 'Embercleave': 1, 'Expedition Map': 1, 'Extraplanar Lens': 1, 'Fireshrieker': 1, 'Fury': 1, 'Gamble': 1, 'Gauntlet of Power': 1, 'Glacial Crevasses': 1, 'Goblin Engineer': 1, 'Goblin Welder': 1, 'Godo, Bandit Warlord': 1, 'Great Furnace': 1, 'Hammer of Nazahn': 1, 'Imperial Recruiter': 1, 'Inferno Titan': 1, "Inventors' Fair": 1, "Jeska's Will": 1, 'Jeweled Lotus': 1, 'Lotus Petal': 1, 'Loxodon Warhammer': 1, 'Magnetic Theft': 1, 'Magus of the Moon': 1, 'Mana Crypt': 1, 'Mana Geyser': 1, 'Metalworker': 1, 'Mox Opal': 1, 'Nykthos, Shrine to Nyx': 1, 'Nyx Lotus': 1, 'Pinnacle Monk': 1, 'Price of Glory': 1, 'Ragavan, Nimble Pilferer': 1, 'Relentless Assault': 1, 'Ruby Medallion': 1, "Saheeli's Directive": 1, 'Scrying Sheets': 1, 'Seize the Day': 1, 'Shadowspear': 1, 'Shatterskull Smashing': 1, 'Shinka, the Bloodsoaked Keep': 1, 'Snow-Covered Mountain': 9, 'Sokenzan, Crucible of Defiance': 1, 'Solemn Simulacrum': 1, 'Sparring Collar': 1, 'Sword of Body and Mind': 1, 'Sword of Feast and Famine': 1, 'Sword of Fire and Ice': 1, 'Sword of Forge and Frontier': 1, 'Sword of Hearth and Home': 1, 'Sword of Light and Shadow': 1, 'Sword of Once and Future': 1, 'Sword of Sinew and Steel': 1, 'Sword of the Animist': 1, 'Sword of Truth and Justice': 1, 'Sword of Vengeance': 1, 'Sword of War and Peace': 1, 'Sword of Wealth and Power': 1, "Tarrian's Soulcleaver": 1, "Tenza, Godo's Maul": 1, 'The Reaver Cleaver': 1, 'Treasonous Ogre': 1, 'Treasure Vault': 1, "Urza's Saga": 1, 'Valakut Awakening': 1, 'Valakut, the Molten Pinnacle': 1, 'War Room': 1, 'Welding Jar': 1, 'Wheel of Fortune': 1}
+Needed cards: 93 - {'Eron the Relentless': 1, 'Aggravated Assault': 1, 'Arena of Glory': 1, 'Basilisk Collar': 1, 'Blood Moon': 1, 'Buried Ruin': 1, 'Burnished Hart': 1, 'Castle Embereth': 1, 'Chaos Warp': 1, 'Cloud Key': 1, 'Combustible Gearhulk': 1, 'Command Beacon': 1, "Commander's Plate": 1, "Conqueror's Flail": 1, 'Daretti, Scrap Savant': 1, 'Darksteel Citadel': 1, 'Deflecting Swat': 1, 'Cavern-Hoard Dragon': 1, 'Embercleave': 1, 'Expedition Map': 1, 'Extraplanar Lens': 1, 'Fireshrieker': 1, 'Fury': 1, 'Gamble': 1, 'Gauntlet of Power': 1, 'Glacial Crevasses': 1, 'Goblin Engineer': 1, 'Goblin Welder': 1, 'Godo, Bandit Warlord': 1, 'Great Furnace': 1, 'Hammer of Nazahn': 1, 'Imperial Recruiter': 1, 'Inferno Titan': 1, "Inventors' Fair": 1, "Jeska's Will": 1, 'Lotus Petal': 1, 'Loxodon Warhammer': 1, 'Magnetic Theft': 1, 'Magus of the Moon': 1, 'Mana Vault': 1, 'Mana Geyser': 1, 'Metalworker': 1, 'Mox Opal': 1, 'Nykthos, Shrine to Nyx': 1, 'Nyx Lotus': 1, 'Pinnacle Monk': 1, 'Price of Glory': 1, 'Ragavan, Nimble Pilferer': 1, 'Relentless Assault': 1, 'Ruby Medallion': 1, "Saheeli's Directive": 1, 'Scrying Sheets': 1, 'Seize the Day': 1, 'Shadowspear': 1, 'Shatterskull Smashing': 1, 'Shinka, the Bloodsoaked Keep': 1, 'Snow-Covered Mountain': 10, 'Sokenzan, Crucible of Defiance': 1, 'Solemn Simulacrum': 1, 'Sparring Collar': 1, 'Sword of Body and Mind': 1, 'Sword of Feast and Famine': 1, 'Sword of Fire and Ice': 1, 'Sword of Forge and Frontier': 1, 'Sword of Hearth and Home': 1, 'Sword of Light and Shadow': 1, 'Sword of Once and Future': 1, 'Sword of Sinew and Steel': 1, 'Sword of the Animist': 1, 'Sword of Truth and Justice': 1, 'Sword of Vengeance': 1, 'Sword of War and Peace': 1, 'Sword of Wealth and Power': 1, "Tarrian's Soulcleaver": 1, "Tenza, Godo's Maul": 1, 'The Reaver Cleaver': 1, 'Treasonous Ogre': 1, 'Treasure Vault': 1, "Urza's Saga": 1, 'Valakut Awakening': 1, 'Valakut, the Molten Pinnacle': 1, 'War Room': 1, 'Welding Jar': 1, 'Wheel of Fortune': 1}
 
 Color Combo: U-Blue, Commander: Taniwha
-Needed cards: 93 - {'Taniwha': 1, 'Acid Rain': 1, "Archmage's Charm": 1, 'Basalt Monolith': 1, "Blue Sun's Zenith": 1, 'Capsize': 1, 'Chrome Mox': 1, 'Command Beacon': 1, 'Consecrated Sphinx': 1, 'Crawlspace': 1, 'Cyclonic Rift': 1, 'Damping Matrix': 1, 'Damping Sphere': 1, 'Deadeye Navigator': 1, 'Dream Tides': 1, 'Empress Galina': 1, 'Evacuation': 1, 'Fabricate': 1, 'Fellwar Stone': 1, 'Fierce Guardianship': 1, 'Fireshrieker': 1, 'Force of Will': 1, 'Great Whale': 1, 'Harbinger of the Seas': 1, 'Hullbreaker Horror': 1, 'Island': 20, 'Jeweled Lotus': 1, 'Jin-Gitaxias, Core Augur': 1, 'Land Equilibrium': 1, 'Leyline of Anticipation': 1, 'Mana Breach': 1, 'Mana Crypt': 1, 'Mana Drain': 1, 'Mana Vortex': 1, 'Maze of Ith': 1, 'Mirrormade': 1, 'Mox Diamond': 1, 'Mox Opal': 1, 'Mystic Sanctuary': 1, 'Mystical Tutor': 1, 'Nyx Lotus': 1, 'Otawara, Soaring City': 1, 'Overburden': 1, 'Pact of Negation': 1, 'Palinchron': 1, 'Pendrell Mists': 1, 'Peregrine Drake': 1, 'Phyrexian Metamorph': 1, 'Plaza of Heroes': 1, 'Portcullis': 1, 'Quicksilver Fountain': 1, 'Rhystic Study': 1, 'Rings of Brighthearth': 1, "Rogue's Passage": 1, 'Shimmer': 1, 'Silent Arbiter': 1, 'Soulless Jailer': 1, 'Spellseeker': 1, 'Staff of Domination': 1, 'Strix Serenade': 1, 'Sunder': 1, 'Swan Song': 1, 'Thassa, God of the Sea': 1, "Thassa's Oracle": 1, 'Thawing Glaciers': 1, 'The Tabernacle at Pendrell Vale': 1, 'Thran Dynamo': 1, "Tishana's Tidebinder": 1, 'Tolaria West': 1, 'Vedalken Orrery': 1, 'Walking Ballista': 1, 'Ward of Bones': 1, 'Whelming Wave': 1, 'Yavimaya, Cradle of Growth': 1}
+Needed cards: 93 - {'Taniwha': 1, 'Acid Rain': 1, "Archmage's Charm": 1, 'Basalt Monolith': 1, "Blue Sun's Zenith": 1, 'Capsize': 1, 'Chrome Mox': 1, 'Command Beacon': 1, 'Consecrated Sphinx': 1, 'Crawlspace': 1, 'Cyclonic Rift': 1, 'Damping Matrix': 1, 'Damping Sphere': 1, 'Deadeye Navigator': 1, 'Dream Tides': 1, 'Empress Galina': 1, 'Evacuation': 1, 'Fabricate': 1, 'Fellwar Stone': 1, 'Fierce Guardianship': 1, 'Fireshrieker': 1, 'Force of Will': 1, 'Great Whale': 1, 'Harbinger of the Seas': 1, 'Hullbreaker Horror': 1, 'Island': 20, 'Lotus Petal': 1, 'Jin-Gitaxias, Core Augur': 1, 'Land Equilibrium': 1, 'Leyline of Anticipation': 1, 'Mana Breach': 1, 'Mana Vault': 1, 'Mana Drain': 1, 'Mana Vortex': 1, 'Maze of Ith': 1, 'Mirrormade': 1, 'Mox Diamond': 1, 'Mox Opal': 1, 'Mystic Sanctuary': 1, 'Mystical Tutor': 1, 'Nyx Lotus': 1, 'Otawara, Soaring City': 1, 'Overburden': 1, 'Pact of Negation': 1, 'Palinchron': 1, 'Pendrell Mists': 1, 'Peregrine Drake': 1, 'Phyrexian Metamorph': 1, 'Plaza of Heroes': 1, 'Portcullis': 1, 'Quicksilver Fountain': 1, 'Rhystic Study': 1, 'Rings of Brighthearth': 1, "Rogue's Passage": 1, 'Shimmer': 1, 'Silent Arbiter': 1, 'Soulless Jailer': 1, 'Spellseeker': 1, 'Staff of Domination': 1, 'Strix Serenade': 1, 'Sunder': 1, 'Swan Song': 1, 'Thassa, God of the Sea': 1, "Thassa's Oracle": 1, 'Thawing Glaciers': 1, 'The Tabernacle at Pendrell Vale': 1, 'Thran Dynamo': 1, "Tishana's Tidebinder": 1, 'Tolaria West': 1, 'Vedalken Orrery': 1, 'Walking Ballista': 1, 'Ward of Bones': 1, 'Whelming Wave': 1, 'Yavimaya, Cradle of Growth': 1}
 
 Color Combo: W-White, Commander: Zuberi Golden Feather
-Needed cards: 93 - {'Zuberi, Golden Feather': 1, 'Abbey Griffin': 1, 'Adaptive Automaton': 1, "Akroma's Will": 1, 'Always Watching': 1, 'Armored Griffin': 1, 'Bladegriff Prototype': 1, 'Cavern of Souls': 1, 'Charging Griffin': 1, 'Coat of Arms': 1, 'Condemn': 1, 'Courier Griffin': 1, 'Crovax, Ascendant Hero': 1, 'Daraja Griffin': 1, 'Decorated Griffin': 1, 'Dictate of Heliod': 1, 'Disenchant': 1, 'Divebomber Griffin': 1, 'Diving Griffin': 1, 'Ekundu Griffin': 1, 'Emeria, the Sky Ruin': 1, 'Enlightened Tutor': 1, 'Extraplanar Lens': 1, 'Flawless Maneuver': 1, 'Gale Swooper': 1, 'Garrison Griffin': 1, 'Gauntlet of Power': 1, 'Generous Gift': 1, 'Glorious Anthem': 1, 'Griffin Canyon': 1, 'Griffin Dreamfinder': 1, 'Griffin Protector': 1, 'Griffin Rider': 1, 'Griffin Sentinel': 1, 'Harrier Griffin': 1, 'Harsh Mercy': 1, 'Honor of the Pure': 1, 'Jeweled Lotus': 1, 'Kongming, "Sleeping Dragon"': 1, 'Magus of the Moat': 1, 'Make a Stand': 1, 'Mana Crypt': 1, 'Marble Diamond': 1, 'Mass Calcify': 1, 'Metallic Mimic': 1, "Mind's Eye": 1, 'Mistmoon Griffin': 1, 'Mistveil Plains': 1, 'Moat': 1, 'Mtenda Griffin': 1, 'Nykthos, Shrine to Nyx': 1, 'Path of Ancestry': 1, 'Path to Exile': 1, 'Pearl Medallion': 1, 'Plains': 24, 'Radiant Destiny': 1, 'Razorfoot Griffin': 1, 'Return to Dust': 1, 'Serra Aviary': 1, 'Shared Triumph': 1, 'Silverbeak Griffin': 1, 'Silverclaw Griffin': 1, 'Spear of Heliod': 1, 'Sunspire Griffin': 1, 'Swords to Plowshares': 1, 'Teremko Griffin': 1, 'The Immortal Sun': 1, 'War Room': 1, 'Winds of Abandon': 1, 'Zeriam, Golden Wind': 1}
+Needed cards: 93 - {'Zuberi, Golden Feather': 1, 'Abbey Griffin': 1, 'Adaptive Automaton': 1, "Akroma's Will": 1, 'Always Watching': 1, 'Armored Griffin': 1, 'Bladegriff Prototype': 1, 'Cavern of Souls': 1, 'Charging Griffin': 1, 'Coat of Arms': 1, 'Condemn': 1, 'Courier Griffin': 1, 'Crovax, Ascendant Hero': 1, 'Daraja Griffin': 1, 'Decorated Griffin': 1, 'Dictate of Heliod': 1, 'Disenchant': 1, 'Divebomber Griffin': 1, 'Diving Griffin': 1, 'Ekundu Griffin': 1, 'Emeria, the Sky Ruin': 1, 'Enlightened Tutor': 1, 'Extraplanar Lens': 1, 'Flawless Maneuver': 1, 'Gale Swooper': 1, 'Garrison Griffin': 1, 'Gauntlet of Power': 1, 'Generous Gift': 1, 'Glorious Anthem': 1, 'Griffin Canyon': 1, 'Griffin Dreamfinder': 1, 'Griffin Protector': 1, 'Griffin Rider': 1, 'Griffin Sentinel': 1, 'Harrier Griffin': 1, 'Harsh Mercy': 1, 'Honor of the Pure': 1, 'Lotus Petal': 1, 'Kongming, "Sleeping Dragon"': 1, 'Magus of the Moat': 1, 'Make a Stand': 1, 'Mana Vault': 1, 'Marble Diamond': 1, 'Mass Calcify': 1, 'Metallic Mimic': 1, "Mind's Eye": 1, 'Mistmoon Griffin': 1, 'Mistveil Plains': 1, 'Moat': 1, 'Mtenda Griffin': 1, 'Nykthos, Shrine to Nyx': 1, 'Path of Ancestry': 1, 'Path to Exile': 1, 'Pearl Medallion': 1, 'Plains': 24, 'Radiant Destiny': 1, 'Razorfoot Griffin': 1, 'Return to Dust': 1, 'Serra Aviary': 1, 'Shared Triumph': 1, 'Silverbeak Griffin': 1, 'Silverclaw Griffin': 1, 'Spear of Heliod': 1, 'Sunspire Griffin': 1, 'Swords to Plowshares': 1, 'Teremko Griffin': 1, 'The Immortal Sun': 1, 'War Room': 1, 'Winds of Abandon': 1, 'Zeriam, Golden Wind': 1}
 
 Color Combo: BGRUW-FiveColor, Commander: TheUrDragon
 Needed cards: 94 - {'The Ur-Dragon': 1, 'Ancient Copper Dragon': 1, 'Ancient Silver Dragon': 1, 'Ancient Ziggurat': 1, 'Astral Dragon': 1, 'Atarka, World Render': 1, 'Balefire Dragon': 1, 'Blast-Furnace Hellkite': 1, 'Bojuka Bog': 1, 'Cavern of Souls': 1, 'Chromatic Lantern': 1, 'Clash of Wills': 1, 'Command Tower': 1, 'Counterflux': 1, 'Crucible of Fire': 1, 'Crumbling Necropolis': 1, 'Crux of Fate': 1, 'Cryptic Spires': 1, 'Cultivate': 1, 'Dragon Arch': 1, 'Dragon Tempest': 1, 'Dragon Turtle': 1, 'Dragonlord Dromoka': 1, "Dragonlord's Servant": 1, 'Dragonspeaker Shaman': 1, 'Drakuseth, Maw of Flames': 1, 'Dromoka, the Eternal': 1, 'Earthquake': 1, 'Ebondeath, Dracolich': 1, 'Eerie Ultimatum': 1, 'Enlightened Tutor': 1, "Faith's Reward": 1, 'Farewell': 1, 'Farseek': 1, 'Fearsome Awakening': 1, 'Fist of Suns': 1, 'Forest': 3, 'Frontier Bivouac': 1, 'Goldmire Bridge': 1, 'Grand Coliseum': 1, 'Haven of the Spirit Dragon': 1, 'Hellkite Courser': 1, 'Hellkite Tyrant': 1, 'Heroic Intervention': 1, 'Icefall Regent': 1, 'Invert Polarity': 1, 'Island': 3, 'Jodah, Archmage Eternal': 1, 'Kura, the Boundless Sky': 1, 'Lathliss, Dragon Queen': 1, 'Lightning Greaves': 1, 'Miirym, Sentinel Wyrm': 1, 'Mindswipe': 1, 'Morophon, the Boundless': 1, 'Mountain': 5, 'Mystic Monastery': 1, 'Nicol Bolas, Dragon-God': 1, 'Nicol Bolas, the Ravager': 1, 'Old Gnawbone': 1, 'Orzhov Basilica': 1, 'Path of Ancestry': 1, 'Plains': 4, 'Rampant Growth': 1, 'Rith, Liberated Primeval': 1, 'Rivaz of the Claw': 1, 'Ruinous Ultimatum': 1, 'Sarkhan the Mad': 1, 'Sarkhan, Dragonsoul': 1, 'Sarkhan, Soul Aflame': 1, 'Scion of the Ur-Dragon': 1, 'Shivan Devastator': 1, "Teferi's Protection": 1, 'Temple of the Dragon Queen': 1, 'Temur Ascendancy': 1, 'Teneb, the Harvester': 1, 'The World Tree': 1, 'There and Back Again': 1, 'Tiamat': 1, 'Time Stretch': 1, 'Ugin, the Spirit Dragon': 1, 'Unclaimed Territory': 1, "Urza's Incubator": 1, 'Wrath of God': 1}
@@ -277,7 +277,7 @@ Color Combo: BGR-Jund, Commander: AdunOakenshield
 Needed cards: 96 - {'Adun Oakenshield': 1, "Agadeem's Awakening": 1, 'Altar of Dementia': 1, "Assassin's Trophy": 1, 'Badlands': 1, 'Bastion of Remembrance': 1, 'Bayou': 1, 'Birds of Paradise': 1, 'Bitterblossom': 1, 'Blasphemous Act': 1, 'Blood Artist': 1, 'Blood Crypt': 1, 'Bloodghast': 1, 'Bloodsoaked Champion': 1, 'Bloodstained Mire': 1, 'Bloodthrone Vampire': 1, 'Blooming Marsh': 1, 'Braids, Arisen Nightmare': 1, 'Carrion Feeder': 1, 'Catacomb Sifter': 1, 'Chthonian Nightmare': 1, 'City of Brass': 1, 'Command Tower': 1, 'Dark Prophecy': 1, 'Darkbore Pathway': 1, 'Diabolic Intent': 1, 'Dictate of Erebos': 1, 'Dragonskull Summit': 1, 'Elves of Deep Shadow': 1, 'Erebos, Bleak-Hearted': 1, 'Eternal Witness': 1, 'Farseek': 1, 'Fauna Shaman': 1, 'Forest': 2, 'Goblin Bombardment': 1, 'Goblin Rabblemaster': 1, 'Grave Pact': 1, 'Graven Cairns': 1, 'Grim Haruspex': 1, 'Grisly Salvage': 1, 'Harried Spearguard': 1, 'Haywire Mite': 1, 'Ignoble Hierarch': 1, 'Imperial Recruiter': 1, 'Jadar, Ghoulcaller of Nephalia': 1, 'Karplusan Forest': 1, 'Kher Keep': 1, 'Korvold, Fae-Cursed King': 1, "Kroxa, Titan of Death's Hunger": 1, 'Liliana, Dreadhorde General': 1, 'Liliana, Heretical Healer': 1, 'Llanowar Wastes': 1, 'Lord Skitter, Sewer King': 1, 'Marionette Apprentice': 1, 'Midnight Reaper': 1, 'Moldervine Reclamation': 1, "Nature's Lore": 1, 'Nether Traitor': 1, 'Nurturing Peatland': 1, 'Once Upon a Time': 1, 'Ophiomancer': 1, 'Overgrown Tomb': 1, 'Painful Truths': 1, 'Pawn of Ulamog': 1, 'Phyrexian Tower': 1, 'Priest of Forgotten Gods': 1, 'Prismatic Vista': 1, 'Rampant Growth': 1, 'Rankle, Master of Pranks': 1, 'Reassembling Skeleton': 1, 'Sakura-Tribe Elder': 1, 'Satyr Wayfinder': 1, 'Skull Prophet': 1, 'Skullclamp': 1, 'Smoldering Marsh': 1, 'Stomping Ground': 1, 'Strangleroot Geist': 1, 'Sulfurous Springs': 1, 'Sylvan Ranger': 1, 'Three Visits': 1, 'Twilight Mire': 1, 'Verdant Catacombs': 1, 'Victimize': 1, 'Viscera Seer': 1, "Volrath's Stronghold": 1, 'Warren Soultrader': 1, 'Wheel of Fortune': 1, 'Woe Strider': 1, 'Wooded Foothills': 1, 'Woodland Cemetery': 1, 'Yahenni, Undying Partisan': 1, 'Yawgmoth, Thran Physician': 1, 'Young Wolf': 1, "Ziatora's Proving Ground": 1, 'Zulaport Cutthroat': 1}
 
 Color Combo: BGUW-Witch, Commander: AtraxaGrandUnifier
-Needed cards: 96 - {'Atraxa, Grand Unifier': 1, 'Abrupt Decay': 1, 'Amphibian Downpour': 1, "An Offer You Can't Refuse": 1, 'Ancient Tomb': 1, 'Aven Mindcensor': 1, 'Bayou': 1, 'Birds of Paradise': 1, 'Blind Obedience': 1, 'Bloom Tender': 1, 'Boseiju, Who Endures': 1, 'Carpet of Flowers': 1, 'Cavern of Souls': 1, 'Chrome Mox': 1, 'City of Brass': 1, 'Command Tower': 1, 'Culling Ritual': 1, 'Cyclonic Rift': 1, 'Dark Ritual': 1, 'Dauthi Voidwalker': 1, 'Deathrite Shaman': 1, 'Delighted Halfling': 1, 'Demonic Consultation': 1, 'Demonic Tutor': 1, 'Displacer Kitten': 1, 'Drannith Magistrate': 1, 'Elvish Spirit Guide': 1, 'Emergence Zone': 1, 'Emiel the Blessed': 1, 'Enlightened Tutor': 1, 'Esper Sentinel': 1, 'Eternal Witness': 1, 'Exotic Orchard': 1, 'Fellwar Stone': 1, 'Flesh Duplicate': 1, 'Flooded Strand': 1, 'Flusterstorm': 1, 'Food Chain': 1, 'Force of Negation': 1, 'Force of Will': 1, 'Gemstone Caverns': 1, 'Grand Abolisher': 1, 'Hullbreaker Horror': 1, 'Imperial Seal': 1, 'Jeweled Lotus': 1, 'Kinnan, Bonder Prodigy': 1, 'Lavinia, Azorius Renegade': 1, 'Lotho, Corrupt Shirriff': 1, 'Lotus Petal': 1, 'Mana Confluence': 1, 'Mana Crypt': 1, 'Mana Drain': 1, 'Mana Vault': 1, 'Marsh Flats': 1, 'Mental Misstep': 1, "Minamo, School at Water's Edge": 1, 'Mindbreak Trap': 1, 'Misthollow Griffin': 1, 'Misty Rainforest': 1, 'Mox Diamond': 1, 'Mox Opal': 1, 'Mystic Remora': 1, 'Mystical Tutor': 1, 'Noble Hierarch': 1, 'Opposition Agent': 1, 'Orcish Bowmasters': 1, 'Otawara, Soaring City': 1, 'Pact of Negation': 1, 'Phyrexian Metamorph': 1, 'Polluted Delta': 1, 'Pollywog Prodigy': 1, 'Ranger-Captain of Eos': 1, 'Reflecting Pool': 1, 'Rhystic Study': 1, 'Savannah': 1, 'Scrubland': 1, "Sevinne's Reclamation": 1, 'Silence': 1, 'Smothering Tithe': 1, 'Strix Serenade': 1, 'Swords to Plowshares': 1, 'Tainted Pact': 1, 'Talion, the Kindly Lord': 1, 'Teferi, Time Raveler': 1, "Thassa's Oracle": 1, 'The One Ring': 1, 'Trickbind': 1, 'Tropical Island': 1, 'Tundra': 1, 'Underground Sea': 1, 'Urborg, Tomb of Yawgmoth': 1, "Urza's Saga": 1, 'Vampiric Tutor': 1, 'Verdant Catacombs': 1, 'Windswept Heath': 1, 'Wishclaw Talisman': 1}
+Needed cards: 96 - {'Atraxa, Grand Unifier': 1, 'Abrupt Decay': 1, 'Amphibian Downpour': 1, "An Offer You Can't Refuse": 1, 'Ancient Tomb': 1, 'Aven Mindcensor': 1, 'Bayou': 1, 'Birds of Paradise': 1, 'Blind Obedience': 1, 'Bloom Tender': 1, 'Boseiju, Who Endures': 1, 'Carpet of Flowers': 1, 'Cavern of Souls': 1, 'Chrome Mox': 1, 'City of Brass': 1, 'Command Tower': 1, 'Culling Ritual': 1, 'Cyclonic Rift': 1, 'Dark Ritual': 1, 'Dauthi Voidwalker': 1, 'Deathrite Shaman': 1, 'Delighted Halfling': 1, 'Demonic Consultation': 1, 'Demonic Tutor': 1, 'Displacer Kitten': 1, 'Drannith Magistrate': 1, 'Elvish Spirit Guide': 1, 'Emergence Zone': 1, 'Emiel the Blessed': 1, 'Enlightened Tutor': 1, 'Esper Sentinel': 1, 'Eternal Witness': 1, 'Exotic Orchard': 1, 'Fellwar Stone': 1, 'Flesh Duplicate': 1, 'Flooded Strand': 1, 'Flusterstorm': 1, 'Food Chain': 1, 'Force of Negation': 1, 'Force of Will': 1, 'Forest': 1, 'Gemstone Caverns': 1, 'Grand Abolisher': 1, 'Hullbreaker Horror': 1, 'Imperial Seal': 1, 'Kinnan, Bonder Prodigy': 1, 'Lavinia, Azorius Renegade': 1, 'Lotho, Corrupt Shirriff': 1, 'Lotus Petal': 1, 'Mana Confluence': 1, 'Grim Monolith': 1, 'Mana Drain': 1, 'Mana Vault': 1, 'Marsh Flats': 1, 'Mental Misstep': 1, "Minamo, School at Water's Edge": 1, 'Mindbreak Trap': 1, 'Misthollow Griffin': 1, 'Misty Rainforest': 1, 'Mox Diamond': 1, 'Mox Opal': 1, 'Mystic Remora': 1, 'Mystical Tutor': 1, 'Noble Hierarch': 1, 'Opposition Agent': 1, 'Orcish Bowmasters': 1, 'Otawara, Soaring City': 1, 'Pact of Negation': 1, 'Phyrexian Metamorph': 1, 'Polluted Delta': 1, 'Pollywog Prodigy': 1, 'Ranger-Captain of Eos': 1, 'Reflecting Pool': 1, 'Rhystic Study': 1, 'Savannah': 1, 'Scrubland': 1, "Sevinne's Reclamation": 1, 'Silence': 1, 'Smothering Tithe': 1, 'Strix Serenade': 1, 'Swords to Plowshares': 1, 'Tainted Pact': 1, 'Talion, the Kindly Lord': 1, 'Teferi, Time Raveler': 1, "Thassa's Oracle": 1, 'The One Ring': 1, 'Trickbind': 1, 'Tropical Island': 1, 'Tundra': 1, 'Underground Sea': 1, 'Urborg, Tomb of Yawgmoth': 1, "Urza's Saga": 1, 'Vampiric Tutor': 1, 'Verdant Catacombs': 1, 'Windswept Heath': 1, 'Wishclaw Talisman': 1}
 
 Color Combo: UW-Azorius, Commander: AyeshaTanaka
 Needed cards: 96 - {'Ayesha Tanaka': 1, 'Academy Ruins': 1, 'Adarkar Wastes': 1, 'Avarice Totem': 1, 'Azorius Chancery': 1, 'Azorius Guildgate': 1, 'Azorius Guildmage': 1, 'Azorius Keyrune': 1, 'Azorius Signet': 1, "Blue Sun's Zenith": 1, 'Boreal Shelf': 1, 'Boseiju, Who Shelters All': 1, 'Bronze Bombshell': 1, 'Buried Ruin': 1, 'Calciform Pools': 1, 'Capsize': 1, 'Clever Impersonator': 1, 'Clone': 1, 'Command Tower': 1, 'Commandeer': 1, 'Condemn': 1, 'Conjured Currency': 1, 'Counterspell': 1, 'Curse of Echoes': 1, 'Curse of Inertia': 1, 'Curse of the Forsaken': 1, 'Dawn Charm': 1, 'Detention Sphere': 1, 'Diluvian Primordial': 1, 'Dissipate': 1, 'Donate': 1, 'Elixir of Immortality': 1, 'Fabricate': 1, 'Flooded Strand': 1, 'Forbidden Orchard': 1, 'Glacial Fortress': 1, 'Halimar Depths': 1, 'Hallowed Fountain': 1, 'Hinder': 1, 'Homeward Path': 1, "Illusionist's Gambit": 1, 'Island': 2, 'Isperia, Supreme Judge': 1, 'Jace Beleren': 1, 'Jinxed Idol': 1, 'Jinxed Ring': 1, 'Keiga, the Tide Star': 1, 'Kor Haven': 1, 'Liquimetal Coating': 1, 'Lonely Sandbar': 1, 'Martial Coup': 1, 'Mikokoro, Center of the Sea': 1, 'Mistveil Plains': 1, 'Mystic Gate': 1, 'New Benalia': 1, 'Nimbus Maze': 1, "Norn's Annex": 1, 'Oblivion Ring': 1, 'Perplexing Chimera': 1, 'Phantasmal Image': 1, 'Phyrexian Metamorph': 1, 'Plains': 2, 'Prahv, Spires of Order': 1, 'Propaganda': 1, "Puca's Mischief": 1, 'Reflecting Pool': 1, 'Render Silent': 1, 'Riddlekeeper': 1, 'Secluded Steppe': 1, 'Sejiri Refuge': 1, 'Shell of the Last Kappa': 1, 'Silent Arbiter': 1, 'Soul Conduit': 1, 'Spell Crumple': 1, 'Split Decision': 1, 'Stifle': 1, 'Sun Titan': 1, 'Supreme Verdict': 1, 'Swan Song': 1, 'Swans of Bryn Argoll': 1, 'Tamiyo, the Moon Sage': 1, 'Telemin Performance': 1, 'Temple of Enlightenment': 1, 'Temple of the False God': 1, 'Terramorphic Expanse': 1, 'Tezzeret the Seeker': 1, 'The Chain Veil': 1, 'Thousand-Year Elixir': 1, 'Tolaria': 1, 'Tranquil Cove': 1, 'Vesuva': 1, 'Vesuvan Doppelganger': 1, 'Vivid Creek': 1, 'Volition Reins': 1}
@@ -295,70 +295,72 @@ Needed cards: 98 - {'Autumn Willow': 1, 'Anara, Wolvid Familiar': 1, 'Ancestral 
 *** OTHER DATA ***
 187 total creature types
 Most common creature types:
-- Knight: 61
+- Knight: 62
 - Wizard: 59
-- Spirit: 55
-- Warrior: 52
+- Spirit: 56
+- Warrior: 53
 - Elemental: 43
-- Zombie: 40
-- Elf: 37
-- Phyrexian: 36
+- Elf: 42
+- Zombie: 42
+- Phyrexian: 40
 - Bird: 32
-- Druid: 28
+- Druid: 31
+- Horror: 28
 - Insect: 27
 - Beast: 26
 - Dragon: 26
-- Horror: 25
-- Giant: 24
-- Merfolk: 24
-- Drake: 23
+- Giant: 25
+- Merfolk: 25
+- Drake: 24
 - Rogue: 23
-- Shaman: 22
-- Angel: 20
+- Shaman: 23
+- Angel: 21
+- Illusion: 21
+- Wurm: 21
+- Cat: 19
 - Construct: 19
-- Wurm: 19
-- Cat: 18
-- Djinn: 18
-- Illusion: 18
+- Djinn: 19
+- Archer: 18
 - Golem: 17
+- Lizard: 17
 - Orc: 17
-- Archer: 16
 - Dwarf: 15
-- Lizard: 15
 - Snake: 15
+- Minion: 14
 - Demon: 13
 - Faerie: 13
-- Minion: 13
 - Plant: 13
 - Shapeshifter: 13
 - Ape: 12
+- Avatar: 12
 - Efreet: 12
 - Elephant: 12
+- Imp: 12
 - Minotaur: 12
-- Avatar: 11
-- Imp: 11
+- Skeleton: 12
 - Licid: 11
 - Rat: 11
 - Scout: 11
-- Skeleton: 11
 - Artificer: 10
 - Assassin: 10
 - Fungus: 10
 - Horse: 10
+- Thrull: 10
+- Treefolk: 10
 - Vampire: 10
 - Serpent: 9
 - Soltari: 9
-- Thrull: 9
-- Treefolk: 9
 - Griffin: 8
 - Shade: 8
 - Berserker: 7
 - Dauthi: 7
 - Dog: 7
 - Kobold: 7
+- Monk: 7
 - Troll: 7
 - Unicorn: 7
 - Barbarian: 6
+- Dinosaur: 6
 - Dryad: 6
 - Elder: 6
 - Fish: 6
@@ -373,13 +375,11 @@ Most common creature types:
 - Wolf: 6
 - Atog: 5
 - Bear: 5
-- Dinosaur: 5
 - Gargoyle: 5
 - Gnome: 5
 - Homarid: 5
 - Incarnation: 5
 - Mercenary: 5
-- Monk: 5
 - Nomad: 5
 - Ogre: 5
 - Thalakos: 5
@@ -398,14 +398,14 @@ Most common creature types:
 If above is 5, we should do a tribal Commander deck
 
 Percentages ordered by format:
-Standard: 15.57
-Pioneer: 7.09
-Commander: 3.84
-Oathbreaker: 3.83
-Modern: 2.88
+Standard: 15.41
+Pioneer: 6.94
+Commander: 3.73
+Oathbreaker: 3.71
+Modern: 2.80
 Tempest Block: 1.55
 Ice Age Block: 1.38
-Pauper: 1.26
+Pauper: 1.21
 Mirage Block: 1.18
-Vintage: 1.03
-Legacy: 1.03
+Vintage: 0.99
+Legacy: 0.99

@@ -37,7 +37,7 @@
 1 Jace, Unraveler of Secrets
 1 Jin-Gitaxias, Progress Tyrant
 1 Lullmage Mentor
-1 Mana Crypt
+1 Mana Vault
 1 Mana Drain
 1 Mental Misstep
 1 Merchant Scroll

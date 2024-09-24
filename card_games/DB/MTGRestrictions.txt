@@ -47,14 +47,14 @@ Hymn to Tourach;Pauper-Banned
 Imprison;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Invoke Prejudice;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Jeweled Bird;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
-Jeweled Lotus;Oathbreaker-Banned
+Jeweled Lotus;Oathbreaker-Banned/Commander-Banned
 Jihad;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Karakas;Commander-Banned
 Library of Alexandria;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Limited Resources;Oathbreaker-Banned/Commander-Banned
 Lion's Eye Diamond;Vintage-Restricted/Oathbreaker-Banned
 Lotus Petal;Vintage-Restricted
-Mana Crypt;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned
+Mana Crypt;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned/Commander-Banned
 Mana Drain;Legacy-Banned
 Mana Geyser;Oathbreaker-Banned
 Mana Vault;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned

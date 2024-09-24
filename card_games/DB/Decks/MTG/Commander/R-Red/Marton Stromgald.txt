@@ -16,7 +16,7 @@
 1 Deflecting Swat
 1 Den of the Bugbear
 1 Desert
-1 Dockside Extortionist
+1 Cavern-Hoard Dragon
 1 Dolmen Gate
 1 Emergence Zone
 1 Emrakul's Hatcher
@@ -45,7 +45,7 @@
 1 Krenko, Mob Boss
 1 Legion Loyalist
 1 Legion Warboss
-1 Mana Crypt
+1 Grim Monolith
 1 Mana Vault
 1 Mogg War Marshal
 21 Mountain

@@ -22,7 +22,7 @@
 1 Delina, Wild Mage
 1 Desperate Ritual
 1 Disharmony
-1 Dockside Extortionist
+1 Cavern-Hoard Dragon
 1 Draconic Destiny
 1 Fork
 1 Gamble
@@ -45,7 +45,7 @@
 1 Jeska's Will
 1 Jinxed Idol
 1 Joven
-1 Mana Crypt
+1 Mana Vault
 1 Maskwood Nexus
 1 Phyrexian Altar
 1 Portal to Phyrexia

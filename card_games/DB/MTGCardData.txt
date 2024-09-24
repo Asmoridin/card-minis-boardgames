@@ -2965,9 +2965,117 @@ Sanctum Custodian;Creature — Human Cleric;W;Urza's Saga (Common)/Battle Royale
 Yawgmoth's Edict;Enchantment;B;Seventh Edition (Uncommon)/Urza's Saga (Uncommon);0
 Show and Tell;Sorcery;U;Urza's Saga (Rare)/Conspiracy: Take the Crown (Mythic Rare)/Special Guests (Mythic Rare);0
 Hopping Automaton;Artifact Creature — Construct;C;Urza's Saga (Uncommon);0
-#Done with card 5700
-#5808
+Goblin Raider;Creature — Goblin Warrior;R;Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Urza's Saga (Common)/Portal Second Age (Common);0
+Humble;Instant;W;Urza's Saga (Uncommon)/Eternal Masters (Common);0
+Rank and File;Creature — Zombie;B;Urza's Legacy (Uncommon);0
+Mother of Runes;Creature — Human Cleric;W;Urza's Legacy (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Duel Decks: Elspeth vs. Kiora (Uncommon)/Eternal Masters (Rare)/Commander Anthology (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon);0
+Monk Idealist;Creature — Human Monk Cleric;W;Urza's Saga (Uncommon)/Commander 2015 (Uncommon)/Eternal Masters (Common);0
+Serra Zealot;Creature — Human Soldier;W;Urza's Saga (Common);0
+Monk Realist;Creature — Human Monk Cleric;W;Urza's Saga (Common)/Magic: The Gathering-Commander (Common);0
+Knighthood;Enchantment;W;Seventh Edition (Uncommon)/Urza's Legacy (Uncommon);0
+Gaea's Bounty;Sorcery;G;Urza's Saga (Common);0
+Back to Basics;Enchantment;U;Urza's Saga (Rare)/Ultimate Masters (Rare);0
+Serra Avatar;Creature — Avatar;W;Urza's Saga (Rare)/Magic 2013 (Mythic Rare)/Commander 2013 Edition (Mythic Rare)/Commander 2014 (Mythic Rare)/Commander 2018 (Mythic Rare)/Dominaria Remastered (Mythic Rare);0
+Angelic Chorus;Enchantment;W;Urza's Saga (Rare)/Tenth Edition (Rare)/Battlebond (Rare);0
+Absolute Grace;Enchantment;W;Urza's Saga (Uncommon);0
+Lotus Blossom;Artifact;C;Urza's Saga (Rare)/Dominaria Remastered (Rare);0
+Cloak of Mists;Enchantment — Aura;U;Urza's Saga (Common)/Global Series: Jiang Yanggu and Mu Yanling (Common);0
+Drifting Djinn;Creature — Djinn;U;Urza's Saga (Rare);0
+Gaea's Embrace;Enchantment — Aura;G;Urza's Saga (Uncommon)/Vintage Masters (Uncommon);0
+Shiv's Embrace;Enchantment — Aura;R;Urza's Saga (Uncommon)/Magic 2011 (Uncommon)/Duel Decks: Knights vs. Dragons (Uncommon)/Magic 2014 Core Set (Uncommon)/Jumpstart: Historic Horizons (Uncommon);0
+Acidic Soil;Sorcery;R;Urza's Saga (Uncommon);0
+Douse;Enchantment;U;Urza's Saga (Uncommon);0
+Citanul Hierophants;Creature — Human Druid;G;Urza's Saga (Rare)/Duskmourn: House of Horror Commander (Rare);0
+Bedlam;Enchantment;R;Seventh Edition (Rare)/Urza's Saga (Rare);0
+Turnabout;Instant;U;Urza's Saga (Uncommon)/Vintage Masters (Uncommon)/Dominaria Remastered (Uncommon)/Ravnica Remastered (Uncommon);0
+Pegasus Charger;Creature — Pegasus;W;Ninth Edition (Common)/Urza's Saga (Common);0
+Smokestack;Artifact;C;Urza's Saga (Rare)/Vintage Masters (Rare)/From the Vault: Annihilation (2014) (Mythic Rare);0
+Arc Lightning;Sorcery;R;Urza's Saga (Common)/Battle Royale Box Set (Common)/Planechase (Common)/Khans of Tarkir (Uncommon)/Ugin's Fate promos (Uncommon);0
+Dromosaur;Creature — Dinosaur;R;Urza's Saga (Common);0
+Barrin's Codex;Artifact;C;Urza's Saga (Rare);0
+Argothian Elder;Creature — Elf Druid;G;Urza's Saga (Uncommon)/Battle Royale Box Set (Uncommon);0
+Blood Vassal;Creature — Thrull;B;Urza's Saga (Common);0
+Elvish Herder;Creature — Elf;G;Urza's Saga (Common);0
+Viashino Outrider;Creature — Lizard;R;Urza's Saga (Common);0
+Crystal Chimes;Artifact;C;Urza's Saga (Uncommon)/Commander 2015 (Uncommon);0
+Shimmering Barrier;Creature — Wall;W;Urza's Saga (Uncommon);0
+Somnophore;Creature — Illusion;U;Urza's Saga (Rare);0
+Oppression;Enchantment;B;Seventh Edition (Rare)/Urza's Saga (Rare)/Wilds of Eldraine Enchanting Tales (Rare);0
+Blanchwood Treefolk;Creature — Treefolk;G;Urza's Saga (Common);0
+Sporogenesis;Enchantment;G;Urza's Saga (Rare);0
+Sleeper Agent;Creature — Phyrexian Minion;B;Urza's Saga (Rare)/Tenth Edition (Rare);0
+Tainted Aether;Enchantment;B;Seventh Edition (Rare)/Urza's Saga (Rare);0
+Fog Bank;Creature — Wall;U;Urza's Saga (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Magic 2013 (Uncommon)/Commander 2013 Edition (Uncommon)/Commander 2014 (Uncommon)/Iconic Masters (Uncommon)/Battlebond (Uncommon)/Game Night: Free-For-All (Uncommon)/Commander Masters (Uncommon)/Modern Horizons 3 Commander (Uncommon);0
+Lull;Instant;G;Urza's Saga (Common)/Masters 25 (Common)/Dominaria Remastered (Common);0
+Thundering Giant;Creature — Giant;R;Urza's Saga (Uncommon)/Tenth Edition (Uncommon)/Beatdown Box Set (Uncommon)/Modern Masters (Common)/Magic 2015 Core Set (Common)/Welcome Deck 2017 (Common);0
+Goblin War Buggy;Creature — Goblin;R;Urza's Saga (Common);0
+Cave Tiger;Creature — Cat;G;Urza's Saga (Common);0
+Arcane Laboratory;Enchantment;U;Seventh Edition (Uncommon)/Urza's Saga (Uncommon);0
+Planar Birth;Sorcery;W;Urza's Saga (Rare);0
+Contamination;Enchantment;B;Urza's Saga (Rare);0
+Argothian Wurm;Creature — Wurm;G;Urza's Saga (Rare);0
+Elite Archers;Creature — Human Soldier Archer;W;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Saga (Rare);0
+Imaginary Pet;Creature — Illusion;U;Ninth Edition (Rare)/Urza's Saga (Rare);0
+Pariah;Enchantment — Aura;W;Seventh Edition (Rare)/Urza's Saga (Rare)/Tenth Edition (Rare)/Conspiracy: Take the Crown (Rare)/Outlaws of Thunder Junction Breaking News (Rare);0
+Elvish Lyrist;Creature — Elf;G;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Urza's Saga (Common)/Battle Royale Box Set (Uncommon);0
+Unworthy Dead;Creature — Phyrexian Skeleton;B;Urza's Saga (Common);0
+Angelic Page;Creature — Angel Spirit;W;Seventh Edition (Common)/Eighth Edition (Common)/Urza's Saga (Common)/Battle Royale Box Set (Common)/Duel Decks: Divine vs. Demonic (Common)/Duel Decks Anthology, Divine vs. Demonic (Common)/Masters 25 (Uncommon)/Jumpstart (Common)/Jumpstart 2022 (Common);0
+Opal Titan;Enchantment;W;Urza's Saga (Rare);0
+Hidden Herd;Enchantment;G;Urza's Saga (Rare);0
+Opal Acrolith;Enchantment;W;Urza's Saga (Uncommon);0
+Hidden Ancients;Enchantment;G;Urza's Saga (Uncommon);0
+Hidden Predators;Enchantment;G;Urza's Saga (Rare);0
+Opal Archangel;Enchantment;W;Urza's Saga (Rare);0
+Veil of Birds;Enchantment;U;Urza's Saga (Common);0
+Veiled Crocodile;Enchantment;U;Urza's Saga (Rare);0
+Hidden Stag;Enchantment;G;Urza's Saga (Rare);0
+Opal Gargoyle;Enchantment;W;Urza's Saga (Common);0
+Veiled Sentry;Enchantment;U;Urza's Saga (Uncommon);0
+Opal Caryatid;Enchantment;W;Urza's Saga (Common);0
+Hidden Guerrillas;Enchantment;G;Urza's Saga (Uncommon);0
+Veiled Apparition;Enchantment;U;Urza's Saga (Uncommon);0
+Hidden Spider;Enchantment;G;Urza's Saga (Common);0
+Slippery Karst;Land;C;Urza's Saga (Common)/Battle Royale Box Set (Common)/Beatdown Box Set (Common)/Duel Decks: Garruk vs. Liliana (Common)/Commander 2013 Edition (Common)/Commander 2014 (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Commander 2015 (Common)/Commander Anthology (Common)/Dominaria Remastered (Common);0
+Smoldering Crater;Land;C;Urza's Saga (Common)/Beatdown Box Set (Common)/Commander 2013 Edition (Common)/Commander 2014 (Common)/Commander 2015 (Common)/Commander Anthology 2018 (Common)/Ikoria Commander (Common)/Dominaria Remastered (Common);0
+Drifting Meadow;Land;C;Urza's Saga (Common)/Battle Royale Box Set (Common)/Commander 2013 Edition (Common)/Commander 2014 (Common)/Commander 2015 (Common)/Commander Anthology 2018 (Common)/Ikoria Commander (Common)/Dominaria Remastered (Common);0
+Fluctuator;Artifact;C;Urza's Saga (Rare)/Ikoria Commander (Rare);0
+Remote Isle;Land;C;Urza's Saga (Common)/Battle Royale Box Set (Common)/Beatdown Box Set (Common)/Commander 2014 (Common)/Ikoria Commander (Common)/Dominaria Remastered (Common);0
 Polluted Mire;Land;C;Urza's Saga (Common)/Battle Royale Box Set (Common)/Beatdown Box Set (Common)/Duel Decks: Garruk vs. Liliana (Common)/Premium Deck Series: Graveborn (Common)/Commander 2014 (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Commander 2015 (Common)/Commander Anthology (Common)/Warhammer 40,000 Commander (Common)/Dominaria Remastered (Common);1
+Rescind;Instant;U;Urza's Saga (Common)/Vintage Masters (Common);0
+Rune of Protection: Black;Enchantment;W;Urza's Saga (Common);0
+Rune of Protection: Blue;Enchantment;W;Urza's Saga (Common);0
+Rune of Protection: Green;Enchantment;W;Urza's Saga (Common);0
+Rune of Protection: Red;Enchantment;W;Urza's Saga (Common);0
+Rune of Protection: White;Enchantment;W;Urza's Saga (Common);0
+Sandbar Merfolk;Creature — Merfolk;U;Urza's Saga (Common);0
+Scrap;Instant;R;Urza's Saga (Common);0
+Lay Waste;Sorcery;R;Urza's Saga (Common)/Onslaught (Common);0
+Rejuvenate;Sorcery;G;Urza's Saga (Common);0
+Expunge;Instant;B;Urza's Saga (Common)/Vintage Masters (Common);0
+Hush;Sorcery;G;Urza's Saga (Common);0
+Priest of Titania;Creature — Elf Druid;G;Urza's Saga (Common)/Commander 2014 (Common)/Commander Anthology (Common)/Modern Horizons 3 (Uncommon);0
+Zephid;Creature — Illusion;U;Urza's Saga (Rare);0
+Retromancer;Creature — Lizard Shaman;R;Urza's Saga (Common);0
+Faith Healer;Creature — Human Cleric;W;Urza's Saga (Rare);0
+Rain of Filth;Instant;B;Urza's Saga (Uncommon);0
+Launch;Enchantment — Aura;U;Urza's Saga (Common);0
+Waylay;Instant;W;Urza's Saga (Uncommon);0
+Tolarian Winds;Instant;U;Seventh Edition (Common)/Urza's Saga (Common)/Beatdown Box Set (Common);0
+Glorious Anthem;Enchantment;W;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Saga (Rare)/Tenth Edition (Rare)/Core Set 2021 (Rare);0
+Witch Engine;Creature — Horror;B;Urza's Saga (Rare);0
+Gilded Drake;Creature — Drake;U;Urza's Saga (Rare);0
+Titania's Chosen;Creature — Elf Archer;G;Urza's Saga (Uncommon)/Commander 2014 (Uncommon)/Commander Anthology (Uncommon);0
+Telepathy;Enchantment;U;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Urza's Saga (Uncommon)/Tenth Edition (Uncommon)/Magic 2010 (Uncommon);0
+Bravado;Enchantment — Aura;R;Urza's Saga (Common);0
+Spined Fluke;Creature — Worm Horror;B;Urza's Saga (Uncommon);0
+Winding Wurm;Creature — Wurm;G;Urza's Saga (Common);0
+Skirge Familiar;Creature — Phyrexian Imp;B;Urza's Saga (Uncommon)/Vintage Masters (Common)/Modern Horizons 2 (Uncommon);0
+Dark Hatchling;Creature — Horror;B;Urza's Saga (Rare)/Magic: The Gathering-Commander (Rare)/Planechase 2012 Edition (Rare)/Vintage Masters (Uncommon)/Planechase Anthology (Rare)/Commander Anthology 2018 (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0
+Corrupt;Sorcery;B;Seventh Edition (Common)/Urza's Saga (Common)/Shadowmoor (Uncommon)/Duel Decks: Divine vs. Demonic (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Magic 2011 (Uncommon)/Magic 2014 Core Set (Uncommon)/Duel Decks Anthology, Divine vs. Demonic (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon)/The Brothers' War (Uncommon);0
+Disorder;Sorcery;R;Seventh Edition (Uncommon)/Urza's Saga (Uncommon);0
+Carpet of Flowers;Enchantment;G;Urza's Saga (Uncommon)/Doctor Who Commander (Rare);0
+Eastern Paladin;Creature — Phyrexian Zombie Knight;B;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Saga (Rare);0
+#Done with card 5860
 #6049
 Limited Resources;Enchantment;W;Exodus (Rare);0
 #8883

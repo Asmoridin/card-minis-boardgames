@@ -18,7 +18,7 @@
 1 Cursed Mirror
 1 Deflecting Swat
 1 Descendants' Fury
-1 Dockside Extortionist
+1 Mana Geyser
 1 Dragon Mage
 1 Dragon's Hoard
 1 Drakuseth, Maw of Flames
@@ -35,15 +35,14 @@
 1 High Market
 1 Imperial Recruiter
 1 Jeska's Will
-1 Jeweled Lotus
 1 Kiki-Jiki, Mirror Breaker
 1 Knollspine Dragon
 1 Lightning Greaves
 1 Lotus Petal
-1 Mana Crypt
+1 Mana Vault
 1 Molten Duplication
 1 Molten Echoes
-22 Mountain
+23 Mountain
 1 Mox Diamond
 1 Mox Opal
 1 Nykthos, Shrine to Nyx

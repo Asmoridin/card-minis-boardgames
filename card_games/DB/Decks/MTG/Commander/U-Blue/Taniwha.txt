@@ -27,12 +27,12 @@
 1 Harbinger of the Seas
 1 Hullbreaker Horror
 21 Island
-1 Jeweled Lotus
+1 Lotus Petal
 1 Jin-Gitaxias, Core Augur
 1 Land Equilibrium
 1 Leyline of Anticipation
 1 Mana Breach
-1 Mana Crypt
+1 Mana Vault
 1 Mana Drain
 1 Mana Vortex
 1 Maze of Ith

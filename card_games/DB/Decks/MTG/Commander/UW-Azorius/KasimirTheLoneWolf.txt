@@ -39,7 +39,7 @@
 1 Hengegate Pathway
 1 Idyllic Tutor
 1 Imprisoned in the Moon
-1 Mana Crypt
+1 Mana Vault
 1 Mana Drain
 1 Mind Spring
 1 Mind Stone
