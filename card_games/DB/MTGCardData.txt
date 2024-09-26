@@ -3075,7 +3075,22 @@ Corrupt;Sorcery;B;Seventh Edition (Common)/Urza's Saga (Common)/Shadowmoor (Unco
 Disorder;Sorcery;R;Seventh Edition (Uncommon)/Urza's Saga (Uncommon);0
 Carpet of Flowers;Enchantment;G;Urza's Saga (Uncommon)/Doctor Who Commander (Rare);0
 Eastern Paladin;Creature — Phyrexian Zombie Knight;B;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Saga (Rare);0
-#Done with card 5860
+Western Paladin;Creature — Phyrexian Zombie Knight;B;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Saga (Rare);0
+Argothian Swine;Creature — Boar;G;Urza's Saga (Common);0
+Morphling;Creature — Shapeshifter;U;Urza's Saga (Rare)/Vintage Masters (Mythic Rare);0
+Acridian;Creature — Insect;G;Urza's Saga (Common);0
+Treefolk Seedlings;Creature — Treefolk;G;Seventh Edition (Uncommon)/Urza's Saga (Uncommon);0
+Albino Trolll;Creature — Troll;G;Urza's Saga (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon);0
+Shield Mate;Creature — Human Soldier;W;Exodus (Common);0
+Soltari Visionary;Creature — Soltari Cleric;W;Exodus (Common);0
+Standing Troops;Creature — Human Soldier;W;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Exodus (Common)/Duel Decks: Elspeth vs. Kiora (Common)/Tempest Remastered (Common)/Welcome Deck 2017 (Common);0
+Soul Warden;Creature — Human Cleric;W;Ninth Edition (Uncommon)/Exodus (Common)/Tenth Edition (Uncommon)/Battle Royale Box Set (Common)/Magic 2010 (Common)/Planechase (Common)/Modern Event Deck 2014 (Common)/Modern Masters 2017 Edition (Common)/Historic Anthology 1 (Common)/Special Guests (Mythic Rare);0
+Welkin Hawk;Creature — Bird;W;Exodus (Common);0
+Allay;Instant;W;Exodus (Common);0
+Reaping the Rewards;Instant;W;Exodus (Common);0
+Shackles;Enchantment — Aura;W;Exodus (Common)/Invasion (Common)/Tempest Remastered (Common);0
+Peace of Mind;Enchantment;W;Ninth Edition (Uncommon)/Exodus (Uncommon)/Eldritch Moon (Uncommon);0
+#Done with card 6040
 #6049
 Limited Resources;Enchantment;W;Exodus (Rare);0
 #8883
