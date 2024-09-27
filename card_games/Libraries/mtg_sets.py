@@ -60,7 +60,7 @@ NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']
 ARENA_SETS = ["Jumpstart: Historic Horizons", "Historic Anthology 1", "Arena Base Set",
     "Amonkhet Remastered", "Shadows Over Innistrad Remastered", "Kaladesh Remastered",
     "Alchemy Horizons: Baldur's Gate", "Historic Anthology 2", "Historical Anthology 1",
-    "Shadows of the Past",
+    "Shadows of the Past", "Historic Anthology 5",
     ]
 
 # Sets that were only released on MTG Online.  We care about the rarity, but that's it.

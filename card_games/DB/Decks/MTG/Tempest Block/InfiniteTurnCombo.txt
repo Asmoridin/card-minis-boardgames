@@ -1,3 +1,4 @@
+// Tried to use 3 Timewarp, not legal in format- is there another turn card?
 6 Island
 7 Forest
 2 Skyshroud Forest
@@ -13,7 +14,6 @@
 4 Intuition
 2 Survival of the Fittest
 4 Recurring Nightmare
-3 Timewarp
 3 Eladamri's Vineyard
 2 Harrow
 2 Power Sink

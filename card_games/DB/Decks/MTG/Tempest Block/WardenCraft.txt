@@ -1,5 +1,5 @@
 4 Soltari Foot Soldier
-4 Nomads En-Kor
+4 Nomads en-Kor
 2 Metallic Sliver
 4 Shield Mate
 4 Soul Warden
@@ -9,7 +9,7 @@
 4 Earthcraft
 4 Mox Diamond
 4 Scapegoat
-1 Gerrard’s Battle Cry
+1 Gerrard's Battle Cry
 7 Forest
 11 Plains
 

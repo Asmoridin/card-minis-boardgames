@@ -1,9 +1,9 @@
-Tracking 3342 cards.
-Have 144 out of 13551 total cards for a playset - 1.06 percent
+Tracking 3461 cards.
+Have 144 out of 14027 total cards for a playset - 1.03 percent
 
 *** VINTAGE ***
-There are 3342 Vintage legal cards
-Have 144 out of 13506 - 1.07 percent of a playset
+There are 3461 Vintage legal cards
+Have 144 out of 13982 - 1.03 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 3264 Legacy legal cards
-Have 143 out of 13416 - 1.07 percent of a playset
+There are 3381 Legacy legal cards
+Have 143 out of 13884 - 1.03 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Mono-Black Pox) is at 68 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Plains: 23
 
 *** MODERN ***
-There are 673 Modern legal cards
-Have 93 out of 3052 - 3.05 percent of a playset
+There are 693 Modern legal cards
+Have 93 out of 3132 - 2.97 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Jeskai Control) is at 73 cards.
@@ -62,8 +62,8 @@ Most needed cards are:
  - Celestial Purge: 5
 
 *** PIONEER ***
-There are 175 Pioneer legal cards
-Have 75 out of 1060 - 7.08 percent of a playset
+There are 178 Pioneer legal cards
+Have 75 out of 1072 - 7.00 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Discard) is at 65 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Go for the Throat: 13
 
 *** PAUPER ***
-There are 1207 Pauper legal cards
-Have 67 out of 5188 - 1.29 percent of a playset
+There are 1257 Pauper legal cards
+Have 67 out of 5388 - 1.24 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 59 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Brainstorm: 20
 
 *** OATHBREAKER ***
-There are 3267 Oathbreaker legal cards
-Have 143 out of 3657 - 3.91 percent of a playset
+There are 3386 Oathbreaker legal cards
+Have 143 out of 3776 - 3.79 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (GristTheHungerTide) is at 54 cards.
@@ -182,28 +182,28 @@ Most needed cards are:
  - Gemstone Mine: 21
 
 *** TEMPEST BLOCK ***
-There are 510 Tempest Block legal cards
-Have 34 out of 2220 - 1.53 percent of a playset
-Chosen card is a(n) Creature from Stronghold - Acidic Sliver. I own 0 of 4
+There are 620 Tempest Block legal cards
+Have 34 out of 2660 - 1.28 percent of a playset
+Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 4
 
 Closest deck to completion (ThemeDeck-Migraine) is at 36 cards.
 {'Pit Imp': 2, 'Dauthi Horror': 4, 'Rabid Rats': 1, 'Dauthi Slayer': 2, 'Foul Imp': 4, 'Mindwarper': 1, 'Dauthi Mindripper': 1, 'Ensnaring Bridge': 1, 'Hornet Cannon': 1, 'Portcullis': 1, 'Megrim': 3, 'Bottomless Pit': 2, 'Dark Banishing': 1, 'Dark Ritual': 1, 'Diabolic Edict': 2, 'Death Stroke': 4, 'Mind Peel': 2, 'Coercion': 3}
 
 Most needed cards are:
- - Island: 160
- - Mountain: 137
+ - Island: 179
+ - Mountain: 126
  - Plains: 126
  - Forest: 123
- - Counterspell: 43
+ - Counterspell: 47
  - Reflecting Pool: 34
+ - Wall of Blossoms: 31
+ - Mana Leak: 30
  - Shock: 29
  - Wasteland: 29
- - Mana Leak: 26
- - Disenchant: 25
 
 *** COMMANDER ***
-There are 3279 Commander legal cards
-Have 144 out of 3669 - 3.92 percent of a playset
+There are 3397 Commander legal cards
+Have 144 out of 3787 - 3.80 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 45 cards.
@@ -211,7 +211,7 @@ Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 45 cards.
 
 Most needed cards are:
  - Plains: 445
- - Forest: 401
+ - Forest: 434
  - Island: 330
  - Mountain: 325
  - Snow-Covered Plains: 91
@@ -219,7 +219,7 @@ Most needed cards are:
  - Snow-Covered Mountain: 51
  - Snow-Covered Swamp: 46
  - Swords to Plowshares: 37
- - Swiftfoot Boots: 35
+ - Swiftfoot Boots: 36
 
 Decks for various Commander Color IDs:
 Color Combo: B-Black, Commander: SzarekhTheSilentKing
@@ -298,83 +298,85 @@ Needed cards: 98 - {'Aetherize': 1, 'Arcane Denial': 1, 'Beast Within': 1, 'Bria
 *** OTHER DATA ***
 187 total creature types
 Most common creature types:
-- Knight: 64
-- Wizard: 61
-- Spirit: 56
-- Warrior: 55
-- Elf: 44
-- Elemental: 43
-- Zombie: 43
+- Wizard: 70
+- Knight: 65
+- Spirit: 57
+- Warrior: 56
+- Elf: 45
+- Elemental: 44
+- Zombie: 44
 - Phyrexian: 42
 - Bird: 34
-- Druid: 31
+- Druid: 32
+- Insect: 29
+- Beast: 28
 - Horror: 28
-- Insect: 28
-- Beast: 26
-- Dragon: 26
+- Dragon: 27
+- Merfolk: 27
+- Drake: 25
 - Giant: 25
-- Merfolk: 25
-- Drake: 24
-- Rogue: 23
-- Shaman: 23
+- Rogue: 25
+- Shaman: 24
+- Illusion: 22
 - Angel: 21
-- Illusion: 21
 - Wurm: 21
-- Cat: 19
+- Cat: 20
 - Construct: 19
 - Djinn: 19
 - Archer: 18
 - Golem: 17
 - Lizard: 17
 - Orc: 17
+- Minion: 16
 - Dwarf: 15
 - Snake: 15
-- Minion: 14
 - Shapeshifter: 14
 - Ape: 13
 - Demon: 13
 - Faerie: 13
 - Plant: 13
+- Scout: 13
 - Avatar: 12
 - Efreet: 12
 - Elephant: 12
 - Imp: 12
 - Minotaur: 12
-- Scout: 12
 - Skeleton: 12
+- Assassin: 11
+- Horse: 11
 - Licid: 11
 - Rat: 11
+- Thrull: 11
 - Treefolk: 11
+- Vampire: 11
 - Artificer: 10
-- Assassin: 10
+- Dauthi: 10
 - Fungus: 10
-- Horse: 10
 - Soltari: 10
-- Thrull: 10
-- Vampire: 10
+- Spike: 10
+- Dog: 9
+- Griffin: 9
 - Serpent: 9
-- Griffin: 8
+- Troll: 9
+- Berserker: 8
 - Shade: 8
-- Troll: 8
-- Berserker: 7
-- Dauthi: 7
-- Dog: 7
+- Fish: 7
+- Frog: 7
 - Kobold: 7
+- Kor: 7
 - Monk: 7
+- Ogre: 7
+- Thalakos: 7
 - Unicorn: 7
 - Barbarian: 6
 - Dinosaur: 6
 - Dryad: 6
 - Elder: 6
-- Fish: 6
-- Frog: 6
-- Kor: 6
 - Noble: 6
 - Ouphe: 6
 - Pirate: 6
 - Ranger: 6
 - Spider: 6
-- Spike: 6
 - Wolf: 6
 - Atog: 5
 - Bear: 5
@@ -384,31 +386,29 @@ Most common creature types:
 - Incarnation: 5
 - Mercenary: 5
 - Nomad: 5
-- Ogre: 5
-- Thalakos: 5
+- Specter: 5
+- Thopter: 5
 - Wraith: 5
 - Advisor: 4
+- Boar: 4
 - Chimera: 4
 - Cyclops: 4
 - Juggernaut: 4
 - Nightstalker: 4
 - Ooze: 4
-- Specter: 4
-- Thopter: 4
+- Salamander: 4
 - Turtle: 4
-- Yeti: 4
-- Basilisk: 3
 If above is 5, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 14.87
-Pioneer: 7.08
-Commander: 3.92
-Oathbreaker: 3.91
-Modern: 3.05
-Tempest Block: 1.53
+Pioneer: 7.00
+Commander: 3.80
+Oathbreaker: 3.79
+Modern: 2.97
 Ice Age Block: 1.37
-Pauper: 1.29
+Tempest Block: 1.28
+Pauper: 1.24
 Mirage Block: 1.19
-Vintage: 1.07
-Legacy: 1.07
+Legacy: 1.03
+Vintage: 1.03

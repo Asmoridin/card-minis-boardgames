@@ -356,9 +356,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Exodus"
-CHECK_AMOUNT = 143
-SET_CHECK += 0 # Extra basic lands
+CHECK_SET = "Portal Second Age"
+CHECK_AMOUNT = 165
+SET_CHECK += 10 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0

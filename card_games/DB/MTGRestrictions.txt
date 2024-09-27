@@ -112,3 +112,6 @@ Cursed Scroll;Tempest Block-Banned
 Hermit Druid;Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Peregrine Drake;Pauper-Banned
+Recurring Nightmare;Commander-Banned
+Survival of the Fittest;Legacy-Banned
+Oath of Druids;Legacy-Banned
