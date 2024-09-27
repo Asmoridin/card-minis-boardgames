@@ -7,3 +7,6 @@ Vegeta;FS02-01;Son Goku;FS01-01;Elias P;W
 Son Goku;FS01-01;Broly;FS03-01;Matt P;W
 Bardock;FS05-01;Son Goku;FS01-01;Elias P;W
 Bardock;FS05-01;Son Goku;FS01-01;Elias P;W
+Android 17;FB01-070;Ginyu;FB01-104;Matt P;W
+Cooler;FB01-105;Son Goku;FS01-01;Elias P;W
+Cooler;FB01-105;Cooler;FB01-105;Elias P;W

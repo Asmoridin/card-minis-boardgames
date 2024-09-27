@@ -392,8 +392,8 @@ for line in lines:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
-            card_formats[card_format] = 30
-        CARD_MAX = 30
+            card_formats[card_format] = 40
+        CARD_MAX = 40
     if 'Vanguard' in card_type:
         card_formats = {'Vintage':1}
         card_sets = ['Vanguard']
