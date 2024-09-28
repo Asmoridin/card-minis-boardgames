@@ -1,14 +1,17 @@
 Agent Venom;Guardians of the Galaxy, S.H.I.E.L.D., Web Warriors;0
 Amazing Spider-Man;Defenders, Web Warriors/L;1
 Ancient One;Convocation, Defenders;1
+Angel;Uncanny X-Men;0
 Angela;A-Force, Asgard, Guardians of the Galaxy;1
 Ant-Man;Avengers;0
+Apocalypse;Servants of the Apocalypse/L;0
+Archangel;X-Force, Servants of the Apocalypse;0
 Arnim Zola;Cabal, Hydra;0
 Baron Helmut Zemo;Cabal, Hydra/L;1
 Baron Mordo;Cabal, Convocation;1
 Baron Strucker;Cabal, Hydra/L;0
 Baron Zemo;Cabal, Hydra;1
-Beast;Avengers, Inhumans, Uncanny X-Men;1
+Beast;Avengers, Inhumans, Uncanny X-Men, Servants of the Apocalypse;1
 Beta Ray Bill;Asgard, Guardians of the Galaxy;0
 Bishop;X-Force, Uncanny X-Men;0
 Black Bolt;Inhumans/L;1
@@ -22,16 +25,16 @@ Black Widow, Agent of S.H.I.E.L.D.;A-Force, Avengers, S.H.I.E.L.D.;1
 Blade;Avengers, Defenders, Midnight Sons/L;1
 Bob, Agent of Hydra;Cabal, Hydra;0
 Bullseye;Cabal, Criminal Syndicate;1
-Cable;Avengers, Uncanny X-Men, X-Force/L, New Mutants;1
+Cable;Avengers, Uncanny X-Men, X-Force/L, New Mutants, Servants of the Apocalypse;1
 Captain America;Avengers/L;1
 Captain America (Sam Wilson);Avengers/L;1
 Captain America, First Avenger;Avengers/L, S.H.I.E.L.D.;1
 Captain Marvel;A-Force, Avengers;1
 Captain Marvel, Cosmic Avenger;A-Force, Avengers;1
 Carnage;Spider-Foes;0
-Cassandra Nova;Cabal, Sentinels;1
+Cassandra Nova;Cabal, Sentinels, Servants of the Apocalypse;1
 Clea;Convocation, Defenders;1
-Colossus;Brotherhood of Mutants, Uncanny X-Men, X-Force;1
+Colossus;Brotherhood of Mutants, Uncanny X-Men, X-Force, Servants of the Apocalypse;1
 Corvus Glaive;Black Order;1
 Cosmic Ghost Rider;Black Order, Guardians of the Galaxy;0
 Crimson Dynamo;Winter Guard/L;1
@@ -41,7 +44,7 @@ Crystal;A-Force, Inhumans;1
 Cyclops;Uncanny X-Men/L;1
 Daredevil;Defenders/L, Web Warriors;1
 Darkstar;Winter Guard;1
-Deadpool;Avengers, Weapon X, X-Force;0
+Deadpool;Avengers, Weapon X, X-Force, Servants of the Apocalypse;0
 Doc Ock, Sinister Scientist;Spider-Foes/L;1
 Doctor Octopus;Spider-Foes;1
 Doctor Strange;Convocation, Defenders/L, Midnight Sons;1
@@ -55,7 +58,7 @@ Electro;Criminal Syndicate, Spider-Foes;0
 Elektra;Criminal Syndicate, Defenders;1
 Emma Frost;Brotherhood of Mutants, Hellfire Club/L, Uncanny X-Men, New Mutants;1
 Enchantress;Asgard, Cabal;1
-Gambit;Brotherhood of Mutants, Uncanny X-Men;0
+Gambit;Brotherhood of Mutants, Uncanny X-Men, Servants of the Apocalypse;0
 Gamora;A-Force, Guardians of the Galaxy;0
 Ghost Rider;Defenders, Midnight Sons;0
 Ghost-Spider;Web Warriors;1
@@ -66,11 +69,11 @@ Gwenpool;A-Force, Avengers, Criminal Syndicate;0
 Hawkeye;Avengers, Defenders, S.H.I.E.L.D.;1
 Heimdall, The All-Seeing;Asgard;0
 Hela, Queen of Hel;Asgard;1
-Hony Badger;Uncanny X-Men, Weapon X, X-Force;0
+Hony Badger;Uncanny X-Men, Weapon X, X-Force, Servants of the Apocalypse;0
 Hood;Cabal, Criminal Syndicate;0
 Hulk;Avengers, Defenders;1
 Hulkbuster;Avengers/L;0
-Iceman;Uncanny X-Men;0
+Iceman;Uncanny X-Men, Servants of the Apocalypse;0
 Invincible Iron Man;Avengers, S.H.I.E.L.D./L;1
 Iron Fist;Avengers, Defenders, Midnight Sons;0
 Iron Man;Avengers, S.H.I.E.L.D.;1
@@ -92,12 +95,12 @@ Luke Cage;Avengers, Defenders;0
 M'Baku;Criminal Syndicate, Wakanda/L;0
 M.O.D.O.K.;Cabal, Criminal Syndicate;1
 M.O.D.O.K. Scientist Supreme;Criminal Syndicate/L, Hydra;0
-Magik;Convocation, Defenders, Uncanny X-Men, New Mutants/L;1
+Magik;Convocation, Defenders, Uncanny X-Men, New Mutants/L, Servants of the Apocalypse;1
 Magneto;Brotherhood of Mutants/L, Cabal;1
 Malekith the Accursed;Cabal/L;0
 Maverick;Weapon X;0
 Medusa;A-Force, Inhumans;1
-Mister Sinister;Cabal;0
+Mister Sinister;Cabal, Servants of the Apocalypse;0
 Moon Knight;Defenders, Midnight Sons, Web Warriors;1
 Ms. Marvel;Avengers, Inhumans;0
 Mysterio;Cabal, Criminal Syndicate, Spider-Foes;0
@@ -111,7 +114,7 @@ Okoye;A-Force, Wakanda;1
 Omega Red;Cabal, Criminal Syndicate, Winter Guard;0
 Professor X;Uncanny X-Men/L;0
 Proxima Midnight;Black Order;1
-Psylocke;Uncanny X-Men, X-Force;1
+Psylocke;Uncanny X-Men, X-Force, Servants of the Apocalypse;1
 Punisher;Defenders;0
 Pyro;Brotherhood of Mutants;0
 Quicksilver;Avengers, Brotherhood of Mutants, Inhumans;0
@@ -123,7 +126,7 @@ Rhino;Criminal Syndicate, Spider-Foes;0
 Rocket Raccoon;Guardians of the Galaxy;0
 Rogue;Brotherhood of Mutants, Uncanny X-Men;0
 Ronan the Accuser;Inhumans, Guardians of the Galaxy;1
-Sabretooth;Brotherhood of Mutants, Cabal, X-Force;1
+Sabretooth;Brotherhood of Mutants, Cabal, X-Force, Servants of the Apocalypse;1
 Sabretooth, Apex Predator;Brotherhood of Mutants, Weapon X;1
 Sandman;Criminal Syndicate, Spider-Foes;0
 Scarlet Spider;Web Warriors;0
@@ -154,13 +157,13 @@ Supergiant;Black Order;0
 Taskmaster;Criminal Syndicate, Hydra, S.H.I.E.L.D.;0
 Thanos, the Mad Titan;Black Order/L;1
 The Black Widow;A-Force, Avengers, S.H.I.E.L.D.;1
-The Blob;Brotherhood of Mutants;0
+The Blob;Brotherhood of Mutants, Servants of the Apocalypse;0
 The Immortal Hulk;Defenders, Midnight Sons;0
 The Mighty Thor;A-Force, Asgard/L;0
 The Original Human Torch;S.H.I.E.L.D.;0
 Thor, Hero of Midgard;Asgard;0
 Thor, Prince of Asgard;Asgard/L, Avengers;1
-Toad;Brotherhood of Mutants;1
+Toad;Brotherhood of Mutants, Servants of the Apocalypse;1
 Ulik;Cabal, Criminal Syndicate;0
 Ultron;Cabal;1
 Ultron, Metal Tyrant;Cabal;1
@@ -176,6 +179,6 @@ Wasp;A-Force, Avengers;0
 Weapon X;Weapon X;0
 Winter Soldier;S.H.I.E.L.D.;0
 Winter Soldier, Operative;Avengers, Cabal, Hydra, S.H.I.E.L.D., Winter Guard;1
-Wolverine;Avengers, Defenders, Uncanny X-Men, X-Force;1
+Wolverine;Avengers, Defenders, Uncanny X-Men, X-Force, Servants of the Apocalypse;1
 Wong;Convocation, Defenders, Midnight Sons;1
 X-23;Uncanny X-Men, Weapon X, X-Force, New Mutants;0
