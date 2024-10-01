@@ -74,3 +74,4 @@ Spiral;Fantasy/Sci-Fi/Sitcom;Standard;1;1
 Mansion Attack;Zzzax;Standard;1;1
 Master Mold;Deathstrike;Standard;1;1
 Stryfe;Extreme Measures/Mutant Insurrection;Standard;1;0
+Unus;Dystopian Nightmare;Standard;1;1

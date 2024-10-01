@@ -1,21 +1,21 @@
 Generating a game
 There are 270 different Hero/Aspect combinations, and 29375 different game pairings
-Currently have played 45.6 percent of Hero/Aspects
+Currently have played 46.3 percent of Hero/Aspects
 There are 53 heroes, 46 different encounters, and 90 different modular encounter sets
 
-Most played hero: Rocket Racoon (18 times). Least: Angel (1)
-Most played aspect: Justice (56 times). Least: 'Pool (1)
+Most played hero: Rocket Racoon (18 times). Least: Cable (1)
+Most played aspect: Justice (56 times). Least: 'Pool (2)
 Most played scenario: Rhino (8 times). Least: Apocalypse (0)
 Most played modular encounter: Ship Command (14 times). Least: Arcade (0)
 
-Heroes/Aspects chosen: 'Pool Angel (0W-0L) and Aggression Bishop (0W-0L)
+Heroes/Aspects chosen: 'Pool Cable (0W-0L) and Aggression Angel (0W-0L)
 Chosen encounter is A Mess of Things/Acolytes Apocalypse (0W-0L)
 
 Total W-L by hero:
 Adam Warlock                  2 - 1
-Angel                         1 - 0
+Angel                         2 - 0
 Ant-Man                       6 - 0
-Bishop                        0 - 1
+Bishop                        1 - 1
 Black Panther                 4 - 2
 Black Widow                   4 - 1
 Cable                         1 - 0
@@ -104,11 +104,12 @@ The Sinister Six              0 - 1
 The Wrecking Crew             3 - 1
 Tower Defense                 3 - 0
 Ultron                        1 - 2
+Unus                          1 - 0
 Venom                         1 - 0
 Venom Goblin                  0 - 1
 Zola                          2 - 2
 
 Total W-L by aspect:
-{'Leadership': [26, 20], 'Justice': [35, 21], 'Protection': [35, 20], 'Aggression': [34, 19], "'Pool": [0, 1]}
+{'Leadership': [26, 20], 'Justice': [35, 21], 'Protection': [35, 20], 'Aggression': [35, 19], "'Pool": [1, 1]}
 
-Win Loss Records, Overall: 69 - 47, 0.595
+Win Loss Records, Overall: 70 - 47, 0.598
