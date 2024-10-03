@@ -3308,6 +3308,12 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
+Spire Owl;Creature — Bird;U;Urza's Saga (Common);0
+Windfall;Sorcery;U;Urza's Saga (Uncommon)/Battle Royale Box Set (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Commander 2015 (Uncommon)/Commander 2016 (Uncommon)/Iconic Masters (Uncommon)/Commander Anthology 2018 (Uncommon)/Ikoria Commander (Uncommon)/Kaldheim Commander (Uncommon)/Commander Masters (Uncommon)/The Lost Caverns of Ixalan Commander (Uncommon)/Outlaws of Thunder Junction Commander (Uncommon);0
+Grafted Skullcap;Artifact;C;Seventh Edition (Rare)/Urza's Saga (Rare);0
+Whetstone;Artifact;C;Urza's Saga (Rare);0
+
+
 #Done with card 6640
 #8883
 Tolarian Academy;Legendary Land;C;Urza's Saga (Rare)/Vintage Masters (Mythic Rare);0

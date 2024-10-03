@@ -1,9 +1,9 @@
-Tracking 3578 cards.
-Have 184 out of 14495 total cards for a playset - 1.27 percent
+Tracking 3582 cards.
+Have 184 out of 14508 total cards for a playset - 1.27 percent
 
 *** VINTAGE ***
-There are 3578 Vintage legal cards
-Have 183 out of 14450 - 1.27 percent of a playset
+There are 3582 Vintage legal cards
+Have 183 out of 14463 - 1.27 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 3498 Legacy legal cards
-Have 182 out of 14352 - 1.27 percent of a playset
+There are 3501 Legacy legal cards
+Have 182 out of 14364 - 1.27 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 66 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Sunfall: 13
 
 *** PAUPER ***
-There are 1317 Pauper legal cards
-Have 95 out of 5628 - 1.69 percent of a playset
+There are 1318 Pauper legal cards
+Have 95 out of 5632 - 1.69 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 58 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Lightning Bolt: 19
 
 *** OATHBREAKER ***
-There are 3503 Oathbreaker legal cards
-Have 178 out of 3893 - 4.57 percent of a playset
+There are 3507 Oathbreaker legal cards
+Have 178 out of 3897 - 4.57 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (RalCracklingWit) is at 51 cards.
@@ -202,8 +202,8 @@ Most needed cards are:
  - Wasteland: 29
 
 *** COMMANDER ***
-There are 3514 Commander legal cards
-Have 179 out of 3904 - 4.59 percent of a playset
+There are 3518 Commander legal cards
+Have 179 out of 3908 - 4.58 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 44 cards.
@@ -306,7 +306,7 @@ Most common creature types:
 - Zombie: 45
 - Elemental: 44
 - Phyrexian: 42
-- Bird: 34
+- Bird: 35
 - Druid: 33
 - Insect: 29
 - Beast: 28
@@ -403,7 +403,7 @@ If above is 5, we should do a tribal Commander deck
 Percentages ordered by format:
 Standard: 18.60
 Pioneer: 9.25
-Commander: 4.59
+Commander: 4.58
 Oathbreaker: 4.57
 Modern: 3.91
 Ice Age Block: 2.07
