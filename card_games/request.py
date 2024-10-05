@@ -9,7 +9,7 @@ import os
 import requests
 import requests.exceptions
 
-for x in range(7511, 8883):
+for x in range(7370, 8883):
     time.sleep(.75)
     URL = 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=' + str(x)
     try:
@@ -20,5 +20,5 @@ for x in range(7511, 8883):
     if 'Filter by:' in response.text:
         print("Nope: " + str(x))
         continue
-    print(x)
+    print("Found one: " + str(x))
     os._exit(0)
