@@ -116,3 +116,4 @@ Recurring Nightmare;Commander-Banned
 Survival of the Fittest;Legacy-Banned
 Oath of Druids;Legacy-Banned
 Windfall;Legacy-Banned/Vintage-Restricted
+Memory Jar;Legacy-Banned/Vintage-Restricted

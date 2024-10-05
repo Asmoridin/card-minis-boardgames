@@ -53,7 +53,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "Weatherlight", "Fallen Empires", "Promo set for Gatherer", "Urza's Legacy", "Urza's Destiny",
     "From the Vault: Transform", "Ravnica Allegiance Mythic Edition", "Stronghold", "Scourge",
     "Duskmourn: House of Horror Commander", "Signature Spellbook: Gideon", "From the Vault: Lore",
-    "Ugin's Fate promos",
+    "Ugin's Fate promos", "Planeshift",
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']

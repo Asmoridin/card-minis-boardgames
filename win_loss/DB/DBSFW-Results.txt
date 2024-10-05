@@ -10,3 +10,6 @@ Bardock;FS05-01;Son Goku;FS01-01;Elias P;W
 Android 17;FB01-070;Ginyu;FB01-104;Matt P;W
 Cooler;FB01-105;Son Goku;FS01-01;Elias P;W
 Cooler;FB01-105;Cooler;FB01-105;Elias P;W
+Babidi;FB03-078;Son Gohan : Childhood;FB01-071;Matt P;L
+Beerus;FB01-002;Beerus;FB01-002;Elias P;W
+Son Goku : GT;FB03-104;Android 17;FB01-070;Elias P;W
