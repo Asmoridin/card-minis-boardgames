@@ -3442,7 +3442,16 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-#Done with card 10500
+Red Cliffs Armada;Creature — Human Soldier;U;Portal Three Kingdoms (Uncommon)/Masters Edition II (Common);0
+Shu General;Creature — Human Soldier;W;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common);0
+Meng Huo's Horde;Creature — Human Soldier;G;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Empty City Ruse;Sorcery;W;Portal Three Kingdoms (Uncommon);0
+Forest Bear;Creature — Bear;G;Portal Three Kingdoms (Common);0
+Zodiac Rooster;Creature — Bird;G;Portal Three Kingdoms (Common);0
+Stone Catapult;Creature — Human Soldier;B;Portal Three Kingdoms (Rare);0
+False Defeat;Sorcery;W;Portal Three Kingdoms (Common)/Masters Edition III (Uncommon);0
+Zodiac Dragon;Creature — Dragon;R;Portal Three Kingdoms (Rare)/Masters Edition III (Rare);0
+#Done with card 10510
 #10649
 Purging Scythe;Artifact;C;Urza's Saga (Rare);0
 #10650
