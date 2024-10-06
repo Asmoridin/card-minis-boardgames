@@ -3451,7 +3451,24 @@ Zodiac Rooster;Creature — Bird;G;Portal Three Kingdoms (Common);0
 Stone Catapult;Creature — Human Soldier;B;Portal Three Kingdoms (Rare);0
 False Defeat;Sorcery;W;Portal Three Kingdoms (Common)/Masters Edition III (Uncommon);0
 Zodiac Dragon;Creature — Dragon;R;Portal Three Kingdoms (Rare)/Masters Edition III (Rare);0
-#Done with card 10510
+Wei Elite Companion;Creature — Human Soldier;B;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common);0
+Desperate Charge;Sorcery;B;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common);0
+Sun Quan, Lord of Wu;Legendary Creature — Human Soldier;U;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/From the Vault: Legends (Mythic Rare)/Commander Masters (Mythic Rare);0
+Imperial Edict;Sorcery;B;Portal Three Kingdoms (Common);0
+Yuan Shao, the Indecisive;Legendary Creature — Human Soldier;R;Portal Three Kingdoms (Rare);0
+Wei Scout;Creature — Human Soldier Scout;B;Portal Three Kingdoms (Common);0
+Famine;Sorcery;B;Portal Three Kingdoms (Uncommon)/Masters Edition III (Uncommon)/Commander 2013 Edition (Uncommon)/Vintage Masters (Uncommon);0
+Wei Infantry;Creature — Human Soldier;B;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Zhang He, Wei General;Legendary Creature — Human Soldier;B;Portal Three Kingdoms (Rare);0
+Overwhelming Forces;Sorcery;B;Portal Three Kingdoms (Rare)/Masters Edition IV (Rare)/Outlaws of Thunder Junction Breaking News (Mythic Rare);0
+Wolf Pack;Creature — Wolf;G;Portal Three Kingdoms (Rare)/Masters Edition II (Rare);0
+Heavy Fog;Instant;G;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common);0
+Sage's Knowledge;Sorcery;U;Portal Three Kingdoms (Common);0
+Zhou Yu, Chief Commander;Legendary Creature — Human Soldier;U;Portal Three Kingdoms (Rare);0
+Rolling Earthquake;Sorcery;R;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/From the Vault: Annihilation (2014) (Mythic Rare)/Double Masters (Rare);0
+Wu Spy;Creature — Human Soldier Rogue;U;Portal Three Kingdoms (Uncommon);0
+Preemptive Strike;Instant;U;Portal Three Kingdoms (Common);0
+#Done with card 10530
 #10649
 Purging Scythe;Artifact;C;Urza's Saga (Rare);0
 #10650

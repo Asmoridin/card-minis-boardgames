@@ -362,6 +362,7 @@ Son Gohan : Youth;Saiyan/Earthling;Battle;Green;1;FB03-065;[FB03] Booster Pack -
 Son Gohan : Youth;Saiyan/Earthling;Battle;Green;2;FB03-139;[FB03] Booster Pack - Raging Roar;0
 Son Gohan : Youth;Saiyan/Earthling;Battle;Green;7;FB03-066;[FB03] Booster Pack - Raging Roar;2
 Son Gohan;Earthling;Battle;Black;7;FS05-05;[FS05] Starter Deck - Bardock;4
+Son Goku (Mini) : DA;Saiyan;Battle;Blue;2;FP-024;Promo;0
 Son Goku : Childhood BR;Saiyan;Battle;Black;1;FB03-112;[FB03] Booster Pack - Raging Roar;4
 Son Goku : GT;Saiyan;Battle;Black;1;FB03-110;[FB03] Booster Pack - Raging Roar;1
 Son Goku : GT;Saiyan;Battle;Black;3;FB03-111;[FB03] Booster Pack - Raging Roar;0

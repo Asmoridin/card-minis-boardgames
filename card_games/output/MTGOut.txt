@@ -1,9 +1,9 @@
-Tracking 3783 cards.
-Have 246 out of 15309 total cards for a playset - 1.61 percent
+Tracking 3809 cards.
+Have 246 out of 15413 total cards for a playset - 1.60 percent
 
 *** VINTAGE ***
-There are 3783 Vintage legal cards
-Have 245 out of 15264 - 1.61 percent of a playset
+There are 3809 Vintage legal cards
+Have 245 out of 15368 - 1.59 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Oops! All Spells) is at 73 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Narcomoeba: 8
 
 *** LEGACY ***
-There are 3701 Legacy legal cards
-Have 244 out of 15164 - 1.61 percent of a playset
+There are 3727 Legacy legal cards
+Have 244 out of 15268 - 1.60 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 66 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Sunfall: 13
 
 *** PAUPER ***
-There are 1357 Pauper legal cards
-Have 101 out of 5788 - 1.74 percent of a playset
+There are 1371 Pauper legal cards
+Have 101 out of 5844 - 1.73 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 57 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Lightning Bolt: 19
 
 *** OATHBREAKER ***
-There are 3708 Oathbreaker legal cards
-Have 240 out of 4098 - 5.86 percent of a playset
+There are 3734 Oathbreaker legal cards
+Have 240 out of 4124 - 5.82 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (RalCracklingWit) is at 50 cards.
@@ -202,8 +202,8 @@ Most needed cards are:
  - Wasteland: 29
 
 *** COMMANDER ***
-There are 3719 Commander legal cards
-Have 241 out of 4109 - 5.87 percent of a playset
+There are 3745 Commander legal cards
+Have 241 out of 4135 - 5.83 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 43 cards.
@@ -212,12 +212,12 @@ Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 43 cards.
 Most needed cards are:
  - Plains: 529
  - Forest: 434
- - Island: 351
- - Mountain: 135
+ - Island: 404
+ - Mountain: 153
  - Snow-Covered Plains: 91
  - Snow-Covered Mountain: 51
  - Snow-Covered Swamp: 47
- - Swiftfoot Boots: 42
+ - Swiftfoot Boots: 44
  - Mana Vault: 41
  - Ancient Tomb: 40
 
@@ -312,17 +312,17 @@ Most common creature types:
 - Phyrexian: 47
 - Zombie: 47
 - Elemental: 46
-- Bird: 35
+- Bird: 36
 - Druid: 33
 - Insect: 31
 - Beast: 30
+- Dragon: 29
 - Giant: 29
 - Horror: 29
-- Dragon: 28
 - Merfolk: 28
 - Drake: 27
+- Rogue: 27
 - Shaman: 27
-- Rogue: 26
 - Wurm: 26
 - Angel: 23
 - Cat: 23
@@ -332,9 +332,9 @@ Most common creature types:
 - Golem: 20
 - Djinn: 19
 - Minion: 18
+- Scout: 18
 - Lizard: 17
 - Orc: 17
-- Scout: 17
 - Demon: 16
 - Snake: 16
 - Dwarf: 15
@@ -362,15 +362,16 @@ Most common creature types:
 - Serpent: 11
 - Thrull: 11
 - Artificer: 10
+- Bear: 10
 - Dauthi: 10
 - Dog: 10
 - Griffin: 10
 - Soltari: 10
 - Spike: 10
-- Bear: 9
 - Troll: 9
 - Noble: 8
 - Shade: 8
+- Wolf: 8
 - Dinosaur: 7
 - Elder: 7
 - Fish: 7
@@ -381,7 +382,6 @@ Most common creature types:
 - Ranger: 7
 - Thalakos: 7
 - Unicorn: 7
-- Wolf: 7
 - Advisor: 6
 - Barbarian: 6
 - Dryad: 6
@@ -409,12 +409,12 @@ If above is 5, we should do a tribal Commander deck
 Percentages ordered by format:
 Standard: 18.85
 Pioneer: 10.73
-Commander: 5.87
-Oathbreaker: 5.86
+Commander: 5.83
+Oathbreaker: 5.82
 Modern: 4.81
 Ice Age Block: 2.07
 Tempest Block: 1.88
 Mirage Block: 1.79
-Pauper: 1.74
-Legacy: 1.61
-Vintage: 1.61
+Pauper: 1.73
+Legacy: 1.60
+Vintage: 1.59
