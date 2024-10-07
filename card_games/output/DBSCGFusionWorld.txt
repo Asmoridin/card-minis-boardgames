@@ -1,5 +1,5 @@
 Following traits show up only once: Kai, Policeman, Robot, Training, Turles Crusher Corps
-Have 1095 out of 2030 - 53.94 percent
+Have 1107 out of 2030 - 54.53 percent
 Want a World of Void...
 Buy Tournament of Power Arena - FB01-032 (Red Extra) from [FB01] Booster Pack - Awakened Pulse (have 1 out of 4)
 
@@ -42,6 +42,17 @@ SonGoku-FS01-01.txt (Red) - Missing 21 cards
 - Son Goku (FB01-015): 1
 - Son Goku (FB03-011): 2
 
+Vegeta-FS02-01.txt (Blue) - Missing 21 cards
+- Galick Gun (FS02-15): 1
+- Sinister Sickle (FB01-068): 3
+- Son Gohan : Adolescence (FB03-039): 2
+- Vegeta (FB03-047): 3
+- Vegeta (FS02-13): 1
+- Vegito (FB02-061): 4
+- Vegito (FB02-139): 3
+- Videl (FB03-042): 3
+- Zen-Oh (FB02-049): 1
+
 SonGokuGT-FB03-104.txt (Black) - Missing 22 cards
 - 10x Kamehameha (FB03-137): 2
 - Bardock (FB03-121): 4
@@ -51,18 +62,6 @@ SonGokuGT-FB03-104.txt (Black) - Missing 22 cards
 - Para Para Brothers (FB03-123): 2
 - Son Goku : GT (FB03-111): 3
 - Son Goku : GT (FB03-140): 3
-
-Vegeta-FS02-01.txt (Blue) - Missing 22 cards
-- Galick Gun (FS02-15): 1
-- Pilaf (FB01-056): 1
-- Sinister Sickle (FB01-068): 3
-- Son Gohan : Adolescence (FB03-039): 2
-- Vegeta (FB03-047): 3
-- Vegeta (FS02-13): 1
-- Vegito (FB02-061): 4
-- Vegito (FB02-139): 3
-- Videl (FB03-042): 3
-- Zen-Oh (FB02-049): 1
 
 Most needed cards, overall:
 - Son Gohan : Adolescence (FB02-018): 20

@@ -95,7 +95,12 @@ for line in lines:
         print("Possible duplicate: ")
         print(line)
     dupe_check.add((card_name, card_number))
-    card_own = int(card_own)
+    try:
+        card_own = int(card_own)
+    except ValueError:
+        print("Invalid line:")
+        print(line)
+        continue
     if card_subtypes == '':
         print("Missing subtypes:")
         print(line)

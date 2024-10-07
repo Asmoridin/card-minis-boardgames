@@ -76,7 +76,7 @@ Bartolomeo;P-029;Character;G;FILM/Supernovas/Barto Club;Promo;0
 Basil Hawkins;OP01-106;Character;P;Animal Kingdom Pirates/Hawkins Pirates;-ROMANCE DAWN- [OP01];0
 Basil Hawkins;OP05-047;Character;U;Animal Kingdom Pirates/Hawkins Pirates;-AWAKENING OF THE NEW ERA-[OP05];3
 Basil Hawkins;OP07-029;Character;G;Supernovas/Hawkins Pirates;-500 YEARS IN THE FUTURE- [OP-07];1
-Basil Hawkins;OP08-089;Character;B;Animal Kingdom Pirates/Hawkins Pirates;-TWO LEGENDS- [OP-08];1
+Basil Hawkins;OP08-089;Character;B;Animal Kingdom Pirates/Hawkins Pirates;-TWO LEGENDS- [OP-08];2
 Basil Hawkins;ST02-010;Character;G;Supernovas/Hawkins Pirates;-Worst Generation-[ST-02];0
 Baskerville;OP07-087;Character;B;World Government;-500 YEARS IN THE FUTURE- [OP-07];3
 Bastille;OP05-048;Character;U;Navy;-AWAKENING OF THE NEW ERA-[OP05];2
@@ -148,7 +148,7 @@ Buggy;OP03-008;Character;R;Buggy Pirates;-PILLARS OF STRENGTH- [OP03]/-WINGS OF 
 Buggy;OP03-032;Character;G;East Blue/Buggy Pirates;-PILLARS OF STRENGTH- [OP03];0
 Buggy;ST03-011;Character;U;The Seven Warlords of the Sea/Buggy's Delivery;-The Seven Warlords of the Sea-[ST-03];0
 Bunny Joe;OP05-013;Character;R;Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];4
-Burn Bazooka;OP08-116;Event;Y;Sky Island/Shandian Warrior;-TWO LEGENDS- [OP-08];0
+Burn Bazooka;OP08-116;Event;Y;Sky Island/Shandian Warrior;-TWO LEGENDS- [OP-08];1
 Burn Blade;OP08-117;Event;Y;Sky Island/Shandian Warrior;-TWO LEGENDS- [OP-08];0
 But I Will Never Doubt a Woman's Tears!!!!;OP06-057;Event;U;Dressrosa/Straw Hat Crew;-WINGS OF THE CAPTAIN-[OP06];2
 Buzz Cut Mochi;OP03-119;Event;Y;Big Mom Pirates;-PILLARS OF STRENGTH- [OP03];0
@@ -157,7 +157,7 @@ Cabaji;OP02-052;Character;U;Buggy Pirates;-PARAMOUNT WAR- [OP02];3
 Caesar Clown;OP01-069;Character;U;Scientist/Punk Hazard;-ROMANCE DAWN- [OP01];0
 Camie;OP03-101;Character;Y;Merfolk;-PILLARS OF STRENGTH- [OP03];0
 Camie;OP06-025;Character;G;Merfolk;-WINGS OF THE CAPTAIN-[OP06];1
-Candy Maiden;OP08-075;Event;P;Big Mom Pirates;-TWO LEGENDS- [OP-08];1
+Candy Maiden;OP08-075;Event;P;Big Mom Pirates;-TWO LEGENDS- [OP-08];2
 Capone"Gang"Bege;OP04-100;Character;Y;Firetank Pirates;-KINGDOMS OF INTRIGUE- [OP04];0
 Capone"Gang"Bege;ST02-004;Character;G;Supernovas/Firetank Pirates;-Worst Generation-[ST-02];0
 Capote;OP07-063;Character;P;Fish-Man/Foxy Pirates;-500 YEARS IN THE FUTURE- [OP-07];4
@@ -226,7 +226,7 @@ Charlotte Pudding;ST12-012;Character;U;Big Mom Pirates;-Zoro & Sanji- [ST-12];0
 Charlotte Smoothie;OP03-110;Character;Y;Big Mom Pirates;-PILLARS OF STRENGTH- [OP03];0
 Charlotte Smoothie;OP08-065;Character;P;Big Mom Pirates;-TWO LEGENDS- [OP-08];1
 Charlotte Snack;ST07-004;Character;Y;Big Mom Pirates;Big Mom Pirates [ST-07];4
-Chess;OP08-005;Character;R;Drum Kingdom;-TWO LEGENDS- [OP-08];1
+Chess;OP08-005;Character;R;Drum Kingdom;-TWO LEGENDS- [OP-08];2
 Chessmarimo;OP08-006;Character;R;Drum Kingdom;-TWO LEGENDS- [OP-08];0
 Chew;OP03-029;Character;G;Fish-Man/East Blue/Arlong Pirates;-PILLARS OF STRENGTH- [OP03];0
 Chimney & Gonbe;OP03-065;Character;P;Animal/Water Seven;-PILLARS OF STRENGTH- [OP03];0
@@ -421,7 +421,7 @@ Gravity Blade Raging Tiger;OP06-058;Event;U;Navy;-WINGS OF THE CAPTAIN-[OP06];0
 Great Eruption;ST06-15;Event;B;Navy;Absolute Justice- [ST-06];0
 Green Star Rafflesia;OP01-028;Event;R;Straw Hat Crew;-ROMANCE DAWN- [OP01];0
 Guard Point;ST01-014;Event;R;Animal/Straw Hat Crew;-Straw Hat Crew-[ST-01];1
-Guernica;OP08-081;Character;B;CP0;-TWO LEGENDS- [OP-08];1
+Guernica;OP08-081;Character;B;CP0;-TWO LEGENDS- [OP-08];2
 Gum-Gum Bell;ST08-014;Event;B;Straw Hat Crew;Monkey D. Luffy-[ST-08];0
 Gum-Gum Champion Rifle;EB01-028;Event;U;Impel Down/Straw Hat Crew;-Memorial Collection- [EB-01];0
 Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon;ST14-015;Event;B;Straw Hat Crew;-3D2Y- [ST-14];0
@@ -560,7 +560,7 @@ Jinbe;OP05-066;Character;P;Fish-Man/Straw Hat Crew;-AWAKENING OF THE NEW ERA-[OP
 Jinbe;OP07-027;Character;G;Fish-Man/The Sun Pirates;-500 YEARS IN THE FUTURE- [OP-07];4
 Jinbe;OP07-045;Character;U;Fish-Man/The Seven Warlords of the Sea/The Sun Pirates;-500 YEARS IN THE FUTURE- [OP-07];1
 Jinbe;OP07-102;Character;Y;Fish-Man/Egghead/Straw Hat Crew;-500 YEARS IN THE FUTURE- [OP-07];3
-Jinbe;OP08-085;Character;B;Fish-Man/Straw Hat Crew;-TWO LEGENDS- [OP-08];1
+Jinbe;OP08-085;Character;B;Fish-Man/Straw Hat Crew;-TWO LEGENDS- [OP-08];2
 Jinbe;P-030;Character;U;Fish-Man/The Seven Warlords of the Sea/The Sun Pirates;Promo;0
 Jinbe;ST01-005;Character;R;Fish-Man/Straw Hat Crew;-Straw Hat Crew-[ST-01];0
 Jinbe;ST03-006;Character;U;Fish-Man/The Seven Warlords of the Sea/The Sun Pirates;-The Seven Warlords of the Sea-[ST-03];0
@@ -730,7 +730,7 @@ Miss Doublefinger(Zala);OP05-073;Character;P;Baroque Works;-AWAKENING OF THE NEW
 Miss.Goldenweek(Marianne);OP04-065;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Miss.MerryChristmas(Drophy);OP04-067;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Miss.Valentine(Mikita);OP04-066;Character;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
-Miyagi;OP08-031;Character;G;Minks;-TWO LEGENDS- [OP-08];0
+Miyagi;OP08-031;Character;G;Minks;-TWO LEGENDS- [OP-08];1
 Moby Dick;OP02-024;Stage;R;Whitebeard Pirates;-PARAMOUNT WAR- [OP02];2
 Moby Dick;OP08-056;Stage;U;Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
 Mocha;OP01-081;Character;U;Punk Hazard;-ROMANCE DAWN- [OP01];0
@@ -828,7 +828,7 @@ Nami;OP02-036;Character;G;FILM/Straw Hat Crew;-PARAMOUNT WAR- [OP02];1
 Nami;OP03-030;Character;G;East Blue/Arlong Pirates;-PILLARS OF STRENGTH- [OP03];0
 Nami;OP03-040;Leader;U;East Blue;-PILLARS OF STRENGTH- [OP03];0
 Nami;OP04-011;Character;R;Alabasta/Straw Hat Crew;-KINGDOMS OF INTRIGUE- [OP04];0
-Nami;OP08-106;Character;Y;Egghead/Straw Hat Crew;-TWO LEGENDS- [OP-08];0
+Nami;OP08-106;Character;Y;Egghead/Straw Hat Crew;-TWO LEGENDS- [OP-08];1
 Nami;P-053;Character;U;Straw Hat Crew;Promo;0
 Nami;ST01-007;Character;R;Straw Hat Crew;-Straw Hat Crew-[ST-01]/-WINGS OF THE CAPTAIN-[OP06];0
 Nami;ST14-006;Character;B;Straw Hat Crew;-3D2Y- [ST-14];0
@@ -901,7 +901,7 @@ Paulie;OP03-066;Character;P;Water Seven/Galley-La Company;-PILLARS OF STRENGTH- 
 Pearl;OP03-031;Character;G;East Blue/Krieg Pirates;-PILLARS OF STRENGTH- [OP03];0
 Pedro;OP08-030;Character;G;Minks;-TWO LEGENDS- [OP-08];1
 Peepley Lulu;OP03-067;Character;P;Water Seven/Galley-La Company;-PILLARS OF STRENGTH- [OP03];0
-Pekoms;OP08-029;Character;G;Minks/Big Mom Pirates;-TWO LEGENDS- [OP-08];0
+Pekoms;OP08-029;Character;G;Minks/Big Mom Pirates;-TWO LEGENDS- [OP-08];1
 Pekoms;ST07-014;Character;Y;Minks/Big Mom Pirates;Big Mom Pirates [ST-07];4
 Pell;OP04-013;Character;R;Alabasta;-KINGDOMS OF INTRIGUE- [OP04];0
 Pell;OP05-014;Character;R;Alabasta;-AWAKENING OF THE NEW ERA-[OP05];3
@@ -912,7 +912,7 @@ Perona;OP01-077;Character;U;Thriller Bark Pirates;-ROMANCE DAWN- [OP01];0
 Perona;OP06-021;Leader;G/B;Thriller Bark Pirates;-WINGS OF THE CAPTAIN-[OP06];1
 Perona;OP06-093;Character;B;Thriller Bark Pirates;-WINGS OF THE CAPTAIN-[OP06];0
 Perona;ST12-005;Character;G;Muggy Kingdom/Thriller Bark Pirates;-Zoro & Sanji- [ST-12];0
-Phoenix Brand;OP08-055;Event;U;Former Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
+Phoenix Brand;OP08-055;Event;U;Former Whitebeard Pirates;-TWO LEGENDS- [OP-08];1
 Pica;OP05-032;Character;G;Donquixote Pirates;-AWAKENING OF THE NEW ERA-[OP05];1
 Pickles;OP07-069;Character;P;Foxy Pirates;-500 YEARS IN THE FUTURE- [OP-07];4
 Plague Rounds;OP04-055;Event;U;Animal Kingdom Pirates;-KINGDOMS OF INTRIGUE- [OP04];0
@@ -987,7 +987,7 @@ Round Table;OP01-027;Event;R;Supernovas/Beautiful Pirates;-ROMANCE DAWN- [OP01];
 Ryuma;OP06-036;Character;G;Land of Wano/Thriller Bark Pirates;-WINGS OF THE CAPTAIN-[OP06];0
 S-Bear;OP08-113;Character;Y;Egghead/Seraphim;-TWO LEGENDS- [OP-08];1
 S-Hawk;OP08-114;Character;Y;Egghead/Seraphim;-TWO LEGENDS- [OP-08];0
-S-Shark;OP08-111;Character;Y;Egghead/Seraphim;-TWO LEGENDS- [OP-08];0
+S-Shark;OP08-111;Character;Y;Egghead/Seraphim;-TWO LEGENDS- [OP-08];1
 S-Snake;OP08-112;Character;Y;Egghead/Seraphim;-TWO LEGENDS- [OP-08];0
 Sables;ST03-015;Event;U;The Seven Warlords of the Sea/Baroque Works;-The Seven Warlords of the Sea-[ST-03];0
 Sabo;OP04-083;Character;B;Dressrosa/Revolutionary Army;-KINGDOMS OF INTRIGUE- [OP04];0
@@ -1136,7 +1136,7 @@ Tashigi;ST06-006;Character;B;Navy;Absolute Justice- [ST-06]/-TWO LEGENDS- [OP-08
 Tempest Kick Sky Slicer;OP03-096;Event;B;CP9;-PILLARS OF STRENGTH- [OP03];0
 Tempest Kick;OP07-096;Event;B;CP9;-500 YEARS IN THE FUTURE- [OP-07];2
 Tenguyama Hitetsu;OP06-108;Character;Y;Land of Wano/Kouzuki Clan;-WINGS OF THE CAPTAIN-[OP06];0
-Thank You...for Loving Me!!;OP08-053;Event;U;Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
+Thank You...for Loving Me!!;OP08-053;Event;U;Whitebeard Pirates;-TWO LEGENDS- [OP-08];1
 Thatch;OP02-007;Character;R;Whitebeard Pirates;-PARAMOUNT WAR- [OP02];3
 Thatch;OP03-005;Character;R;Whitebeard Pirates;-PILLARS OF STRENGTH- [OP03];0
 Thatch;OP08-045;Character;U;Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
