@@ -16,12 +16,12 @@ physical_sets = ['Necessary Evil', 'Energize', 'What You Leave Behind', 'Second 
     'What You Leave Behind']
 
 if os.getcwd().endswith('card-minis-boardgames'):
-    file_h = open('card_games/DB/StarTrek2EData.txt', 'r')
+    file_h = open('card_games/DB/StarTrek2EData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 else:
-    file_h = open('DB/StarTrek2EData.txt', 'r')
+    file_h = open('DB/StarTrek2EData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
@@ -39,7 +39,13 @@ for line in lines:
         continue
 
     line = line.split('//')[0].strip()
-    card_name, rarity, card_type, card_affil, card_set, print_type, max_card, card_own = line.split(';')
+    try:
+        card_name, rarity, card_type, card_affil, card_set, print_type, max_card, \
+            card_own = line.split(';')
+    except ValueError:
+        print("Problem with line:")
+        print(line)
+        continue
     if card_name in card_names:
         print("Duplicate card name: " + card_name)
     card_names.add(card_name)
@@ -47,16 +53,18 @@ for line in lines:
     for in_rarity in rarity:
         if in_rarity not in ['C', 'U', 'R', 'S', 'P', 'VP', 'V', 'B', 'AP', ]:
             print(f"Invalid rarity of {in_rarity} for {card_name}")
-    if card_type not in ['Personnel', 'Ship', 'Dilemma', 'Equipment', 'Event', 'Interrupt', 'Mission', ]:
-        print("Invalid card type of %s for %s" % (card_type, card_name))
+    if card_type not in ['Personnel', 'Ship', 'Dilemma', 'Equipment', 'Event', 'Interrupt', \
+            'Mission', ]:
+        print(f"Invalid card type of {card_type} for {card_name}")
     if print_type not in ['Print', 'Virtual', 'Both']:
-        print("Invalid print type of %s for %s" % (print_type, card_name))
+        print(f"Invalid print type of {print_type} for {card_name}")
     card_set = card_set.split('/')
     max_card = int(max_card)
     card_own = int(card_own)
     TOTAL_MAX += max_card
     TOTAL_OWN += card_own
-    filter_lines.append((print_type, card_set, card_type, card_affil, rarity, card_name, card_own, max_card))
+    filter_lines.append((print_type, card_set, card_type, card_affil, rarity, card_name, \
+        card_own, max_card))
 
 print_type_map = {'Print':[0,0], 'Virtual':[0,0]}
 # Sort by print type
@@ -98,10 +106,11 @@ final_card = filtered_lines[0]
 
 if __name__ == "__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
-        out_file_h = open("card_games/output/ST2EOut.txt", 'w')
+        out_file_h = open("card_games/output/ST2EOut.txt", 'w', encoding="UTF-8")
     else:
-        out_file_h = open("output/ST2EOut.txt", 'w')
-    
+        out_file_h = open("output/ST2EOut.txt", 'w', encoding="UTF-8")
+
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
-    double_print("Buy a %s from %s, maybe %s (have %d out of %d)" % (final_card[2], chosen_set, final_card[5], final_card[7], final_card[6]), out_file_h)
+    double_print(f"Buy a {final_card[2]} from {chosen_set}, maybe {final_card[5]} (have " + \
+        f"{final_card[6]} out of {final_card[7]})", out_file_h)

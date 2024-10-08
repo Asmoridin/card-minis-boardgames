@@ -3486,6 +3486,38 @@ Ghostly Visit;Sorcery;B;Portal Three Kingdoms (Common)/Masters Edition III (Comm
 Marshaling the Troops;Sorcery;G;Portal Three Kingdoms (Rare);0
 Cao Cao, Lord of Wei;Legendary Creature — Human Soldier;B;Portal Three Kingdoms (Rare)/From the Vault: Legends (Mythic Rare);0
 Borrowing the East Wind;Sorcery;G;Portal Three Kingdoms (Rare);0
+Warrior's Oath;Sorcery;R;Portal Three Kingdoms (Rare)/Double Masters 2022 (Mythic Rare);0
+Eightfold Maze;Instant;W;Portal Three Kingdoms (Rare)/Masters Edition III (Uncommon);0
+Stolen Grain;Sorcery;B;Portal Three Kingdoms (Uncommon)/Masters Edition III (Uncommon);0
+Burning Fields;Sorcery;R;Portal Three Kingdoms (Common);0
+Wei Ambush Force;Creature — Human Soldier;B;Portal Three Kingdoms (Common);0
+Zodiac Monkey;Creature — Monkey;G;Ninth Edition (Common)/Portal Three Kingdoms (Common);0
+Yuan Shao's Infantry;Creature — Human Soldier;R;Portal Three Kingdoms (Uncommon);0
+Deception;Sorcery;B;Portal Three Kingdoms (Common);0
+Wei Strike Force;Creature — Human Soldier;B;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Wielding the Green Dragon;Sorcery;G;Portal Three Kingdoms (Common);0
+Zodiac Rat;Creature — Rat;B;Portal Three Kingdoms (Common);0
+Spring of Eternal Peace;Sorcery;G;Portal Three Kingdoms (Common);0
+Three Visits;Sorcery;G;Portal Three Kingdoms (Common)/Masters Edition III (Common)/Commander Legends (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Commander Masters (Uncommon)/Doctor Who Commander (Uncommon)/Murders at Karlov Manor Commander (Uncommon)/Outlaws of Thunder Junction Commander (Uncommon);0
+Taoist Hermit;Creature — Human Mystic;G;Portal Three Kingdoms (Uncommon);0
+Hua Tuo, Honored Physician;Legendary Creature — Human;G;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/Commander 2013 Edition (Rare);0
+Trained Jackal;Creature — Jackal;G;Portal Three Kingdoms (Common);0
+Hunting Cheetah;Creature — Cat;G;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common);0
+Trained Cheetah;Creature — Cat;G;Portal Three Kingdoms (Uncommon);0
+Barbarian General;Creature — Human Barbarian Soldier;R;Portal Three Kingdoms (Uncommon);0
+Renegade Troops;Creature — Human Soldier;R;Portal Three Kingdoms (Uncommon);0
+Yellow Scarves General;Creature — Human Soldier;R;Portal Three Kingdoms (Rare);0
+Barbarian Horde;Creature — Human Barbarian Soldier;R;Portal Three Kingdoms (Common);0
+Misfortune's Gain;Sorcery;W;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+
+
+
+
+
+
+
+
+
 #Done with card 10550
 #10649
 Purging Scythe;Artifact;C;Urza's Saga (Rare);0
