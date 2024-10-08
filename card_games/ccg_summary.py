@@ -7,11 +7,11 @@ Summarizes the current collection status of all tracked card/dice games
 import os
 import sys
 
-import anachronism
-import wyvern
-import dbs_fusion_world
-import grand_archive
-import one_piece
+import card_games.anachronism as anachronism
+import card_games.wyvern as wyvern
+import card_games.dbs_fusion_world as dbs_fusion_world
+import card_games.grand_archive as grand_archive
+import card_games.one_piece as one_piece
 import card_games.lorcana as lorcana
 import card_games.city_of_heroes as city_of_heroes
 import card_games.daemon_dice as daemon_dice

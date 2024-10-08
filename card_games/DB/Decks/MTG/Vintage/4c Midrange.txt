@@ -6,38 +6,38 @@
 1 Boseiju, Who Endures
 1 Brainstorm
 4 Collector Ouphe
+2 Dack Fayden
+1 Daze
 4 Deathrite Shaman
 1 Demonic Tutor
-2 Fatal Push
-2 Flusterstorm
+1 Fatal Push
 1 Force of Negation
+1 Force of Vigor
 4 Force of Will
 1 Gitaxian Probe
 1 Mental Misstep
-2 Misty Rainforest
+4 Misty Rainforest
 1 Mox Emerald
-1 Mox Jet
+1 Mox Ruby
 1 Mox Sapphire
-2 Nethergoyf
 2 Oko, Thief of Crowns
 2 Orcish Bowmasters
-2 Polluted Delta
-4 Psychic Frog
-1 Spell Pierce
+3 Polluted Delta
+2 Pyroblast
 1 Strip Mine
-1 Sylvan Library
 1 Time Walk
-3 Tropical Island
-3 Underground Sea
-2 Verdant Catacombs
+2 Tropical Island
+2 Underground Sea
+1 Uro, Titan of Nature's Wrath
+2 Volcanic Island
 4 Wasteland
+3 Wrenn and Six
 
-2 Energy Flux
+1 Boseiju, Who Endures
 2 Fatal Push
 1 Flusterstorm
-2 Force of Vigor
-2 Knight of Infamy
+1 Force of Negation
+3 Force of Vigor
 4 Leyline of the Void
-1 The Tabernacle at Pendrell Vale
+2 The Tabernacle at Pendrell Vale
 1 Virtue's Ruin
-
