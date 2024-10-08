@@ -15,9 +15,11 @@ Channel;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Chaos Orb;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Chrome Mox;Modern-Banned
 Cleanse;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
+Cloud of Faeries;Pauper-Banned
 Contract from Below;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Cranial Plating;Pauper-Banned
 Crusade;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
+Cursed Scroll;Tempest Block-Banned
 Dark Ritual;Oathbreaker-Banned
 Darkpact;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Daze;Pauper-Banned
@@ -41,9 +43,11 @@ Golgari Grave-Troll;Modern-Banned/Vintage-Restricted
 Grief;Modern-Banned/Legacy-Banned
 Griselbrand;Commander-Banned/Oathbreaker-Banned
 Gush;Legacy-Banned/Vintage-Restricted/Pauper-Banned
+Hermit Druid;Legacy-Banned
 High Tide;Pauper-Banned/Oathbreaker-Banned
 Hogaak, Arisen Necropolis;Modern-Banned
 Hymn to Tourach;Pauper-Banned
+Imperial Seal;Legacy-Banned/Vintage-Restricted
 Imprison;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Invoke Prejudice;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Jeweled Bird;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
@@ -53,11 +57,13 @@ Karakas;Commander-Banned
 Library of Alexandria;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Limited Resources;Oathbreaker-Banned/Commander-Banned
 Lion's Eye Diamond;Vintage-Restricted/Oathbreaker-Banned
+Lodestone Golem;Vintage-Restricted
 Lotus Petal;Vintage-Restricted
 Mana Crypt;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned/Commander-Banned
 Mana Drain;Legacy-Banned
 Mana Geyser;Oathbreaker-Banned
 Mana Vault;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned
+Memory Jar;Legacy-Banned/Vintage-Restricted/Urza's Block-Banned
 Mental Misstep;Modern-Banned/Legacy-Banned/Vintage-Restricted
 Merchant Scroll;Vintage-Restricted
 Mind Twist;Legacy-Banned
@@ -70,13 +76,16 @@ Mystic Forge;Vintage-Restricted
 Mystical Tutor;Legacy-Banned/Vintage-Restricted
 Natural Order;Oathbreaker-Banned
 Necropotence;Legacy-Banned/Vintage-Restricted
+Oath of Druids;Legacy-Banned
 Painter's Servant;Oathbreaker-Banned
+Peregrine Drake;Pauper-Banned
 Polluted Delta;Pioneer-Banned
 Ponder;Modern-Banned
 Pradesh Gypsies;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned/Oathbreaker-Banned
 Primal Surge;Oathbreaker-Banned
 Ragavan, Nimble Pilferer;Legacy-Banned
 Rebirth;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
+Recurring Nightmare;Commander-Banned
 Saheeli, the Gifted;Oathbreaker-Banned
 Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Simian Spirit Guide;Modern-Banned
@@ -87,6 +96,7 @@ Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banne
 Strip Mine;Legacy-Banned/Vintage-Restricted
 Summer Bloom;Modern-Banned
 Sundering Titan;Oathbreaker-Banned/Commander-Banned
+Survival of the Fittest;Legacy-Banned
 Sylvan Primordial;Oathbreaker-Banned/Commander-Banned
 Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Thawing Glaciers;Ice Age Block-Banned
@@ -95,25 +105,23 @@ Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Timetwister;Legacy-Banned/Vintage-Restricted
 Timmerian Fiends;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Tinker;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
-Tolarian Academy;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
+Tolarian Academy;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned/Urza's Block-Banned
 Tooth and Nail;Oathbreaker-Banned
 Trade Secrets;Oathbreaker-Banned/Commander-Banned
 Treasure Cruise;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
 Trinisphere;Vintage-Restricted
 Undercity Informer;Pioneer-Banned
 Upheaval;Oathbreaker-Banned/Commander-Banned
+Urza's Saga;Vintage-Restricted
 Vampiric Tutor;Legacy-Banned/Vintage-Restricted
 Vault of Whispers;Modern-Banned
 White Plume Adventurer;Legacy-Banned
+Windfall;Legacy-Banned/Vintage-Restricted/Urza's Block-Banned
 Wooded Foothills;Pioneer-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
-Zuran Orb;Ice Age Block-Banned
-Cursed Scroll;Tempest Block-Banned
-Hermit Druid;Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
-Peregrine Drake;Pauper-Banned
-Recurring Nightmare;Commander-Banned
-Survival of the Fittest;Legacy-Banned
-Oath of Druids;Legacy-Banned
-Windfall;Legacy-Banned/Vintage-Restricted
-Memory Jar;Legacy-Banned/Vintage-Restricted
+Zuran Orb;Ice Age Block-Banned
+Gaea's Cradle;Urza's Block-Banned
+Serra's Sanctum;Urza's Block-Banned
+Time Spiral;Urza's Block-Banned
+Voltaic Key;Urza's Block-Banned

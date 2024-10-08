@@ -37,6 +37,7 @@ def read_decks(deck_format):
     Takes in a format, and returns a list of Deck objects
     """
     ret_list = []
+    deck_format = deck_format.replace("'s", "")
     if deck_format == 'Commander':
         for comm_color in os.listdir(DECK_DIR + '/' + deck_format):
             for deck_file in os.listdir(DECK_DIR + '/' + deck_format + "/" + comm_color):
@@ -136,7 +137,7 @@ def parse_restrictions(restr_lines):
             this_format, bnr = restriction.split('-')
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
-                    'Tempest Block']:
+                    'Tempest Block', "Urza's Block"]:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -167,7 +168,6 @@ def parse_restrictions(restr_lines):
     # Odyssey block (Odyssey, Torment, Judgment)
     # Invasion block (Invasion, Planeshift, Apocalypse)
     # Masques block (Mercadian Masques, Nemesis, Prophecy)
-    # Urza's block (Urza's Saga, Urza's Legacy, Urza's Destiny)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -216,6 +216,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handle Tempest Block
             if this_set in ['Tempest', 'Stronghold', 'Exodus']:
                 ret_formats['Tempest Block'] = 4
+            # Handle Urza's Block
+            if this_set in ["Urza's Saga", "Urza's Legacy", "Urza's Destiny"]:
+                ret_formats["Urza's Block"] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -460,8 +463,12 @@ if __name__ == "__main__":
     handle_output("Mirage Block", mir_dict, out_file_h)
 
     # Tempest Block
-    mir_dict = process_formats("Tempest Block")
-    handle_output("Tempest Block", mir_dict, out_file_h)
+    tem_dict = process_formats("Tempest Block")
+    handle_output("Tempest Block", tem_dict, out_file_h)
+
+    # Urza's Block
+    urz_dict = process_formats("Urza's Block")
+    handle_output("Urza's Block", urz_dict, out_file_h)
 
     # Commander
     comm_dict = process_formats("Commander")

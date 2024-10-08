@@ -3526,48 +3526,94 @@ Guan Yu's 1,000-Li March;Sorcery;W;Portal Three Kingdoms (Rare)/Masters Edition 
 Zodiac Horse;Creature — Horse;G;Portal Three Kingdoms (Uncommon);0
 False Mourning;Sorcery;G;Portal Three Kingdoms (Uncommon);0
 Wu Infantry;Creature — Human Soldier;U;Portal Three Kingdoms (Common);0
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Done with card 10550
-#10649
+Council of Advisors;Creature — Human Advisor;U;Portal Three Kingdoms (Uncommon);0
+Strategic Planning;Sorcery;U;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common)/Commander 2013 Edition (Uncommon)/Hour of Devastation (Common)/Commander Legends (Common)/Kaldheim (Common)/Strixhaven Mystical Archive (Uncommon)/Amonkhet Remastered (Common);0
+Rockslide Ambush;Sorcery;R;Portal Three Kingdoms (Uncommon)/Masters Edition IV (Common);0
+Zhang Fei, Fierce Warrior;Legendary Creature — Human Soldier Warrior;W;Portal Three Kingdoms (Rare)/Masters Edition III (Uncommon);0
+Wu Warship;Creature — Human Soldier;U;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Zodiac Snake;Creature — Snake;B;Portal Three Kingdoms (Common);0
+Lady Zhurong, Warrior Queen;Legendary Creature — Human Soldier Warrior;G;Portal Three Kingdoms (Rare);0
+Zuo Ci, the Mocking Sage;Legendary Creature — Human Advisor;G;Portal Three Kingdoms (Rare);0
+Wu Elite Cavalry;Creature — Human Soldier;U;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Wu Scout;Creature — Human Soldier Scout;U;Portal Three Kingdoms (Common);0
+Straw Soldiers;Creature — Scarecrow Soldier;U;Portal Three Kingdoms (Common);0
+Lu Su, Wu Advisor;Legendary Creature — Human Advisor;U;Portal Three Kingdoms (Rare);0
+Wu Light Cavalry;Creature — Human Soldier;U;Portal Three Kingdoms (Common);0
+Lu Xun, Scholar General;Legendary Creature — Human Soldier;U;Portal Three Kingdoms (Rare)/Masters Edition III (Uncommon)/Commander 2013 Edition (Rare)/Commander Anthology (Rare);0
+Shu Grain Caravan;Creature — Human Soldier;W;Portal Three Kingdoms (Common);0
+Shu Farmer;Creature — Human;W;Portal Three Kingdoms (Common);0
+Capture of Jingzhou;Sorcery;U;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/Commander Masters (Mythic Rare);0
+Borrowing 100,000 Arrows;Sorcery;U;Portal Three Kingdoms (Uncommon)/Masters Edition III (Uncommon)/Commander 2013 Edition (Uncommon)/Commander Anthology (Uncommon)/Masters 25 (Common);0
+Broken Dam;Sorcery;U;Portal Three Kingdoms (Common);0
+Forced Retreat;Sorcery;U;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Brilliant Plan;Sorcery;U;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common)/Commander 2013 Edition (Uncommon)/Global Series: Jiang Yanggu and Mu Yanling (Uncommon);0
+Shu Defender;Creature — Human Soldier;W;Portal Three Kingdoms (Common);0
+Trip Wire;Sorcery;G;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common);0
+Desert Sandstorm;Sorcery;R;Portal Three Kingdoms (Common);0
+Shu Elite Infantry;Creature — Human Soldier;W;Portal Three Kingdoms (Common);0
+Counterintelligence;Sorcery;U;Portal Three Kingdoms (Uncommon);0
+Spoils of Victory;Sorcery;G;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common)/Commander 2013 Edition (Uncommon);0
+Sima Yi, Wei Field Marshal;Legendary Creature — Human Soldier;B;Portal Three Kingdoms (Rare);0
+Fire Ambush;Sorcery;R;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Shu Cavalry;Creature — Human Soldier;W;Portal Three Kingdoms (Common)/Masters Edition III (Common);0
+Zodiac Ox;Creature — Ox;G;Portal Three Kingdoms (Uncommon);0
+Burning of Xinye;Sorcery;R;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/Vintage Masters (Rare)/From the Vault: Annihilation (2014) (Mythic Rare);0
 Purging Scythe;Artifact;C;Urza's Saga (Rare);0
-#10650
 Mishra's Helix;Artifact;C;Urza's Saga (Rare);0
-#10654
 Gamble;Sorcery;R;Urza's Saga (Rare)/Vintage Masters (Rare)/Eternal Masters (Rare)/Ultimate Masters (Rare)/Dominaria Remastered (Rare)/Special Guests (Mythic Rare);0
-#10655
 Victimize;Sorcery;B;Urza's Saga (Uncommon)/Magic: The Gathering—Conspiracy (Uncommon)/Commander 2014 (Uncommon)/Commander 2015 (Uncommon)/Eternal Masters (Uncommon)/Commander Anthology (Uncommon)/Commander Legends (Uncommon)/Adventures in the Forgotten Realms Commander (Uncommon)/Streets of New Capenna Commander (Uncommon)/March of the Machine Commander (Uncommon)/Commander Masters (Uncommon)/Special Guests (Mythic Rare)/Modern Horizons 3 (Uncommon);0
-#10656
 Despondency;Enchantment — Aura;B;Urza's Saga (Common);0
-#10657
 Scald;Enchantment;R;Urza's Saga (Uncommon);0
-#10658
 Destructive Urge;Enchantment — Aura;R;Urza's Saga (Uncommon);0
-#10659
 Cathodion;Artifact Creature — Construct;C;Urza's Saga (Uncommon)/Mirrodin (Uncommon)/Commander 2014 (Uncommon)/Modern Masters 2015 Edition (Common)/Commander Anthology 2018 (Uncommon)/Ultimate Masters (Common)/Double Masters (Common);0
-#10677
+Arcane Spyglass;Artifact;C;Darksteel (Common);0
 Phyrexian Tower;Legendary Land;C;Urza's Saga (Rare)/Ultimate Masters (Rare)/Jumpstart (Rare)/Modern Horizons 3 (Mythic Rare);0
-#10682
 Great Whale;Creature — Whale;U;Urza's Saga (Rare);0
-#10694
-Rune of Protection: Artifacts;Enchantment;W;Urza's Saga (Uncommon);0
-#10695
+Zhao Rune of Protection: Artifacts;Enchantment;W;Urza's Saga (Uncommon);0
+Zilong, Tiger General;Legendary Creature — Human Soldier Warrior;W;Portal Three Kingdoms (Rare);0
 Disruptive Student;Creature — Human Wizard;U;Urza's Saga (Common)/Battle Royale Box Set (Common);0
-#11698
+Entrails Feaster;Creature — Zombie Cat;B;Onslaught (Rare);0
+Riptide Laboratory;Land;C;Onslaught (Rare)/Jumpstart (Rare)/Modern Horizons 2 (Rare);0
+Sun Ce, Young Conquerer;Legendary Creature — Human Soldier;U;Portal Three Kingdoms (Rare)/Masters Edition III (Uncommon);0
+Lu Meng, Wu General;Legendary Creature — Human Soldier;U;Portal Three Kingdoms (Rare)/Masters Edition III (Uncommon);0
+Zhuge Jin, Wu Strategist;Legendary Creature — Human Advisor;U;Portal Three Kingdoms (Rare);0
+Cao Ren, Wei Commander;Legendary Creature — Human Soldier Warrior;B;Portal Three Kingdoms (Rare);0
+Pang Tong, "Young Phoenix";Legendary Creature — Human Advisor;W;Portal Three Kingdoms (Rare);0
+Huang Zhong, Shu General;Legendary Creature — Human Soldier;W;Portal Three Kingdoms (Rare);0
+Cruel Revival;Instant;B;Onslaught (Common)/Planechase (Common)/Magic Origins (Uncommon)/Game Night (Uncommon);0
+Lady Sun;Legendary Creature — Human Advisor;U;Portal Three Kingdoms (Rare);0
+Gravespawn Sovereign;Creature — Zombie;B;Onslaught (Rare)/Innistrad: Midnight Hunt Commander (Rare);0
+Zhang Liao, Hero of Hefei;Legendary Creature — Human Soldier;B;Portal Three Kingdoms (Rare);0
+Imperial Seal;Sorcery;B;Portal Three Kingdoms (Rare)/Masters Edition II (Rare)/Double Masters 2022 (Mythic Rare);0
+Ma Chao, Western Warrior;Legendary Creature — Human Soldier Warrior;R;Portal Three Kingdoms (Rare);0
+Dong Zhou, the Tyrant;Legendary Creature — Human Soldier;R;Portal Three Kingdoms (Rare)/Masters Edition III (Rare);0
+Riding the Dilu Horse;Sorcery;G;Portal Three Kingdoms (Rare)/Masters Edition III (Uncommon);0
+Meng Huo, Barbarian King;Legendary Creature — Human Barbarian Soldier;G;Portal Three Kingdoms (Rare)/Masters Edition III (Rare);0
+Taoist Mystic;Creature — Human Mystic;G;Portal Three Kingdoms (Rare);0
+Corrupt Eunuchs;Creature — Human Advisor;R;Portal Three Kingdoms (Uncommon)/Masters Edition III (Uncommon);0
+Lord of the Undead;Creature — Zombie;B;Eighth Edition (Rare)/Ninth Edition (Rare)/Planeshift (Rare)/Tenth Edition (Rare)/Magic The Gathering—Fallout (Rare);0
+Elvish Champion;Creature — Elf;G;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Invasion (Rare)/Tenth Edition (Rare);0
+Cloud of Faeries;Creature — Faerie;U;Urza's Legacy (Common)/Vintage Masters (Uncommon)/Dominaria Remastered (Common)/March of the Machine Commander (Common)/Wilds of Eldraine Commander (Common);0
 Rune of Protection: Lands;Enchantment;W;Urza's Saga (Rare);0
-#12342
+Eladamri (Vanguard);Vanguard;C;Vanguard (Special);0
+Oracle (Vanguard);Vanguard;C;Vanguard (Special);0
+Lyna (Vanguard);Vanguard;C;Vanguard (Special);0
+Sliver Queen, Brood Mother (Vanguard);Vanguard;C;Vanguard (Special);0
+Takara (Vanguard);Vanguard;C;Vanguard (Special);0
+Rofellos (Vanguard);Vanguard;C;Vanguard (Special);0
+Multani (Vanguard);Vanguard;C;Vanguard (Special);0
+Sidar Kondo (Vanguard);Vanguard;C;Vanguard (Special);0
+Treachery;Enchantment — Aura;U;Urza's Destiny (Rare);0
+Urza (Vanguard);Vanguard;C;Vanguard (Special);0
+Mishra (Vanguard);Vanguard;C;Vanguard (Special);0
+Tawnos (Vanguard);Vanguard;C;Vanguard (Special);0
+Ashnod (Vanguard);Vanguard;C;Vanguard (Special);0
+Gix (Vanguard);Vanguard;C;Vanguard (Special);0
+Xantcha (Vanguard);Vanguard;C;Vanguard (Special);0
+Serra (Vanguard);Vanguard;C;Vanguard (Special);0
+Titania (Vanguard);Vanguard;C;Vanguard (Special);0
 Blood Pet;Creature - Thrull;B;Classic Sixth Edition (Common)/Seventh Edition (Common)/Tempest (Common);0
+# Done through card 12342
 #12383
 Tinker;Sorcery;U;Urza's Legacy (Uncommon)/From the Vault: Exiled (Mythic Rare);0
 #15193
@@ -3640,6 +3686,8 @@ Serum Powder;Artifact;C;Darksteel (Rare)/Iconic Masters (Rare);0
 Solemn Simulacrum;Artifact Creature — Golem;C;Mirrodin (Rare)/Magic: The Gathering-Commander (Rare)/Magic 2012 (Rare)/Commander 2014 (Rare)/Commander 2015 (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Commander 2016 (Rare)/Duel Decks: Elves vs. Inventors (Rare)/Commander Anthology 2018 (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Core Set 2021 (Rare)/Time Spiral Remastered (Bonus)/Commander 2021 (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Kamigawa: Neon Dynasty Commander (Rare)/Streets of New Capenna Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Dominaria United Commander (Rare)/The Brothers' War Commander (Rare)/Jumpstart 2022 (Rare)/Phyrexia: All Will Be One Commander (Rare)/Commander Masters (Rare)/Doctor Who Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Magic The Gathering—Fallout (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #49771
 Goblin Charbelcher;Artifact;C;Mirrodin (Rare)/Eternal Masters (Rare)/Duel Decks: Merfolk vs. Goblins (Rare)/The Brothers' War Retro Artifacts (Rare);0
+#50943
+Arcbound Ravager;Artifact Creature — Beast;C;Darksteel (Rare)/Modern Masters (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Secret Lair Drop (Rare);0
 #51110
 Wayfarer's Bauble;Artifact;C;Fifth Dawn (Common)/Duel Decks: Venser vs. Koth (Common)/Commander 2013 Edition (Common)/Commander 2014 (Common)/Modern Masters 2015 Edition (Common)/Commander 2015 (Common)/Commander 2017 (Common)/Commander Anthology 2018 (Common)/Adventures in the Forgotten Realms Commander (Common)/Streets of New Capenna Commander (Common)/Commander Legends: Battle for Baldur's Gate (Common)/Warhammer 40,000 Commander (Common)/The Brothers' War Commander (Common)/March of the Machine Commander (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Commander Masters (Common)/Wilds of Eldraine Commander (Common)/Doctor Who Commander (Common)/The Lost Caverns of Ixalan Commander (Common)/Magic The Gathering—Fallout (Common)/Modern Horizons 3 Commander (Common);1
 #51184
@@ -3718,6 +3766,8 @@ Misty Rainforest;Land;C;Zendikar (Rare)/Zendikar Expeditions (Mythic Rare)/Moder
 Sign in Blood;Sorcery;B;Magic 2010 (Common)/Duel Decks: Garruk vs. Liliana (Common)/Archenemy (Common)/Magic 2011 (Common)/Magic: The Gathering-Commander (Common)/Magic 2013 (Common)/Magic 2015 Core Set (Common)/Commander 2014 (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Modern Masters 2015 Edition (Common)/Commander Anthology 2018 (Common)/Strixhaven Mystical Archive (Rare)/Game Night: Free-For-All (Common)/Duskmourn: House of Horror Commander (Common);1
 #191091
 Dragonskull Summit;Land;C;Magic 2010 (Rare)/Magic 2011 (Rare)/Magic 2012 (Rare)/Magic 2013 (Rare)/Commander 2016 (Rare)/Archenemy: Nicol Bolas (Rare)/Ixalan (Rare)/Dominaria United Commander (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Rare)/Doctor Who Commander (Rare)/Magic The Gathering—Fallout (Rare)/Outlaws of Thunder Junction Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#191557
+Lodestone Golem;Artifact Creature — Golem;C;Worldwake (Rare)/Archenemy (Rare)/Modern Masters 2015 Edition (Rare)/The Brothers' War Retro Artifacts (Rare);0
 #193452
 Emrakul, the Aeons Torn;Legendary Creature — Eldrazi;C;Rise of the Eldrazi (Mythic Rare)/Modern Masters 2015 Edition (Mythic Rare)/Ultimate Masters (Mythic Rare)/Ultimate Box Toppers (Special)/Double Masters 2022 (Mythic Rare);0
 #193483
@@ -3732,6 +3782,8 @@ Mindbreak Trap;Instant — Trap;U;Zendikar (Mythic Rare)/Outlaws of Thunder Junc
 Basilisk Collar;Artifact — Equipment;C;Worldwake (Rare)/Modern Masters 2017 Edition (Rare)/Double Masters (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Alchemy Horizons: Baldur's Gate (Rare)/Magic The Gathering—Fallout (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #205019
 Preordain;Sorcery;U;Magic 2011 (Common)/Duel Decks: Venser vs. Koth (Common)/Commander 2015 (Common)/Commander Legends (Common)/Streets of New Capenna Commander (Common)/The Brothers' War Commander (Common)/Jumpstart 2022 (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Doctor Who Commander (Common)/Outlaws of Thunder Junction Commander (Common);0
+#205036
+Steel Overseer;Artifact Creature — Construct;C;Magic 2011 (Rare)/Duel Decks: Elspeth vs. Tezzeret (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Core Set 2020 (Rare)/Commander 2021 (Rare)/The Brothers' War Commander (Rare)/Jumpstart 2022 (Rare)/Magic The Gathering—Fallout (Rare);0
 #209401
 Blackcleave Cliffs;Land;C;Scars of Mirrodin (Rare)/Zendikar Rising Expeditions (Mythic Rare)/Phyrexia: All Will Be One (Rare)/Outlaws of Thunder Junction Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #213726
@@ -3772,6 +3824,8 @@ Primal Surge;Sorcery;G;Avacyn Restored (Mythic Rare);0
 Blood Artist;Creature — Vampire;B;Avacyn Restored (Uncommon)/Eternal Masters (Uncommon)/Commander 2017 (Uncommon)/Secret Lair Drop (Rare)/Jumpstart (Uncommon)/Innistrad: Crimson Vow Commander (Uncommon)/Double Masters 2022 (Uncommon)/Jumpstart 2022 (Uncommon)/The Lost Caverns of Ixalan Commander (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #253532
 Rakdos, Lord of Riots;Legendary Creature — Demon;B/R;Return to Ravnica (Mythic Rare)/Guild Kit: Rakdos (Mythic Rare)/Commander Legends (Mythic Rare)/Ravnica Remastered (Rare)/Duskmourn: House of Horror Commander (Mythic Rare);1
+#253561
+Abrupt Decay;Instant;B/G;Return to Ravnica (Rare)/Modern Masters 2017 Edition (Rare)/Guild Kit: Golgari (Rare)/Time Spiral Remastered (Bonus)/Outlaws of Thunder Junction Breaking News (Rare);0
 #253590
 Rakdos Charm;Instant;B/R;Return to Ravnica (Uncommon)/Commander 2016 (Uncommon)/Commander 2017 (Uncommon)/Guild Kit: Rakdos (Uncommon)/Time Spiral Remastered (Bonus)/Adventures in the Forgotten Realms Commander (Uncommon)/Innistrad: Crimson Vow Commander (Uncommon)/The Lost Caverns of Ixalan Commander (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #253712
@@ -3782,6 +3836,8 @@ Odric, Master Tactician;Legendary Creature — Human Soldier;W;Magic 2013 (Rare)
 Thalia, Guardian of Thraben;Legendary Creature — Human Soldier;W;Dark Ascension (Rare)/Masters 25 (Rare)/Secret Lair Drop (Rare)/Innistrad: Crimson Vow (Rare)/Historic Anthology 2 (Rare)/March of the Machine Multiverse Legends (Rare);0
 #278058
 Cavern of Souls;Land;C;Avacyn Restored (Rare)/Modern Masters 2017 Edition (Mythic Rare)/Ultimate Masters (Mythic Rare)/Ultimate Box Toppers (Special)/Zendikar Rising Expeditions (Mythic Rare)/Double Masters 2022 (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/The Lost Caverns of Ixalan (Mythic Rare);0
+#278452
+Grafdigger's Cage;Artifact;C;Dark Ascension (Rare)/Modern Masters 2017 Edition (Rare)/Core Set 2020 (Rare);0
 #290529
 Deathrite Shaman;Creature — Elf Shaman;B/G;Return to Ravnica (Rare)/Eternal Masters (Rare)/Guild Kit: Golgari (Rare)/Ravnica Remastered (Rare);0
 #366271
@@ -3830,6 +3886,8 @@ Expropriate;Sorcery;U;Conspiracy: Take the Crown (Mythic Rare);0
 Chandra, Torch of Defiance;Legendary Planeswalker — Chandra;R;Kaladesh (Mythic Rare)/Kaladesh Remastered (Mythic Rare)/Commander Masters (Mythic Rare);0
 #417685
 Combustible Gearhulk;Artifact Creature — Construct;R;Kaladesh (Mythic Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Commander 2021 (Mythic Rare)/Kaladesh Remastered (Mythic Rare)/Modern Horizons 3 Commander (Mythic Rare)/Duskmourn: House of Horror Commander (Mythic Rare);1
+#417788
+Foundry Inspector;Artifact Creature — Construct;C;Kaladesh (Uncommon)/Commander Legends (Common)/Kaladesh Remastered (Uncommon)/Kamigawa: Neon Dynasty Commander (Common)/The Brothers' War Retro Artifacts (Uncommon)/Commander Masters (Common);0
 #420645
 Atraxa, Praetors' Voice;Legendary Creature — Phyrexian Angel Horror;G/W/U/B;Commander 2016 (Mythic Rare)/Commander Anthology 2018 (Mythic Rare)/Double Masters (Mythic Rare)/March of the Machine Multiverse Legends (Mythic Rare);0
 #420663
@@ -3940,6 +3998,8 @@ Chatterfang, Squirrel General;Legendary Creature — Squirrel Warrior;G;Modern H
 Endurance;Creature — Elemental Incarnation;G;Modern Horizons 2 (Mythic Rare)/Special Guests (Mythic Rare);0
 #522278
 Grist, the Hunger Tide;Legendary Planeswalker — Grist;G/U;Modern Horizons 2 (Mythic Rare)/Modern Horizons 3 Commander (Mythic Rare);0
+#522335
+Urza's Saga;Enchantment Land — Urza’s Saga;C;Modern Horizons 2 (Rare);0
 #534856
 Blood Pact;Instant;B;Innistrad: Midnight Hunt (Common)/Duskmourn: House of Horror Commander (Common);1
 #534880
@@ -4110,6 +4170,8 @@ The Fair Basilica;Land - Sphere;C;Phyrexia: All Will Be One (Common);1
 Boromir, Warden of the Tower;Legendary Creature — Human Soldier;W;The Lord of the Rings: Tales of Middle Earth (Rare);0
 #616890
 Lórien Revealed;Sorcery;U;The Lord of the Rings: Tales of Middle Earth (Common);0
+#616933
+Orcish Bowmasters;Creature — Orc Archer;B;The Lord of the Rings: Tales of Middle Earth (Rare);0
 #616941
 Troll of Khazad-dûm;Creature — Troll;B;The Lord of the Rings: Tales of Middle Earth (Common);0
 #629664

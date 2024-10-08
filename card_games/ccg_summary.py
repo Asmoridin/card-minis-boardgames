@@ -6,6 +6,7 @@ Summarizes the current collection status of all tracked card/dice games
 
 import os
 import sys
+sys.path.append('.')
 
 import card_games.anachronism as anachronism
 import card_games.wyvern as wyvern
