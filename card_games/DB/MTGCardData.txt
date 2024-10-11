@@ -3613,9 +3613,64 @@ Xantcha (Vanguard);Vanguard;C;Vanguard (Special);0
 Serra (Vanguard);Vanguard;C;Vanguard (Special);0
 Titania (Vanguard);Vanguard;C;Vanguard (Special);0
 Blood Pet;Creature - Thrull;B;Classic Sixth Edition (Common)/Seventh Edition (Common)/Tempest (Common);0
-# Done through card 12342
-#12383
+Teroh's Faithful;Creature — Human Cleric;W;Torment (Common)/Vintage Masters (Common);0
+Delusions of Mediocrity;Enchantment;U;Seventh Edition (Rare)/Urza's Legacy (Rare);0
+Opal Champion;Enchantment;W;Urza's Legacy (Common);0
+Defender of Law;Creature — Human Knight;W;Urza's Legacy (Common);0
+Angelic Curator;Creature — Angel Spirit;W;Urza's Legacy (Common)/Modern Horizons 2 (Uncommon);0
+Tragic Poet;Creature — Human;W;Urza's Legacy (Common)/Dominaria (Common);0
+Expendable Troops;Creature — Human Soldier;W;Urza's Legacy (Common);0
+Iron Will;Instant;W;Urza's Legacy (Common);0
+Cessation;Enchantment — Aura;W;Urza's Legacy (Common);0
+Radiant's Judgment;Instant;W;Urza's Legacy (Common)/Vintage Masters (Common)/Jumpstart: Historic Horizons (Common)/Jumpstart 2022 (Common)/Dominaria Remastered (Common);0
+Militant Monk;Creature — Human Monk Cleric;W;Torment (Common);0
+Radiant's Dragoons;Creature — Human Soldier;W;Urza's Legacy (Uncommon);0
+Planar Collapse;Enchantment;W;Urza's Legacy (Rare);0
+Purify;Sorcery;W;Seventh Edition (Rare)/Urza's Legacy (Rare);0
+Radiant, Archangel;Legendary Creature — Angel;W;Urza's Legacy (Rare)/Vintage Masters (Uncommon);0
+Thornwind Faeries;Creature — Faerie;U;Urza's Legacy (Common)/Commander 2013 Edition (Common)/Commander Anthology (Common);0
+Weatherseed Faeries;Creature — Faerie;U;Urza's Legacy (Common);0
+Vigilant Drake;Creature — Drake;U;Seventh Edition (Common)/Urza's Legacy (Common)/Beatdown Box Set (Common);0
+Bouncing Beebles;Creature — Beeble;U;Urza's Legacy (Common);0
+Snap;Instant;U;Urza's Legacy (Common)/Duel Decks: Mind vs. Might (Common)/Dominaria Remastered (Common)/Wilds of Eldraine Commander (Common);0
+Frantic Search;Instant;U;Urza's Legacy (Common)/Vintage Masters (Common)/Ultimate Masters (Common)/Ikoria Commander (Common)/Streets of New Capenna Commander (Common)/Dominaria Remastered (Common)/Commander Masters (Common)/Wilds of Eldraine Commander (Common);0
+Miscalculation;Instant;U;Urza's Legacy (Common);0
+Intervene;Instant;U;Urza's Legacy (Common);0
+Walking Sponge;Creature — Sponge;U;Urza's Legacy (Uncommon);0
+Raven Familiar;Creature — Bird;U;Urza's Legacy (Uncommon)/Commander 2013 Edition (Uncommon);0
+King Crab;Creature — Crab;U;Urza's Legacy (Uncommon);0
+Slow Motion;Enchantment — Aura;U;Urza's Legacy (Common);0
 Tinker;Sorcery;U;Urza's Legacy (Uncommon)/From the Vault: Exiled (Mythic Rare);0
+Rebuild;Instant;U;Urza's Legacy (Uncommon)/Modern Horizons (Uncommon);0
+Lurking Skirge;Enchantment;B;Urza's Legacy (Rare);0
+Anthroplasm;Creature — Shapeshifter;U;Urza's Legacy (Rare);0
+Levitation;Enchantment;U;Seventh Edition (Uncommon)/Ninth Edition (Uncommon)/Urza's Legacy (Uncommon)/Magic 2010 (Uncommon)/Magic 2012 (Uncommon);0
+Fleeting Image;Creature — Illusion;U;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Legacy (Rare);0
+Archivist;Creature — Human Wizard;U;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Legacy (Rare);0
+Second Chance;Enchantment;U;Urza's Legacy (Rare);0
+Phyrexian Broodlings;Creature — Phyrexian Minion;B;Urza's Legacy (Common)/Duel Decks: Phyrexia vs. the Coalition (Common)/Jumpstart (Common);0
+Plague Beetle;Creature — Insect;B;Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Urza's Legacy (Common)/Tenth Edition (Common);0
+Nim Lasher;Creature — Zombie;B;Mirrodin (Common);0
+Sleeper's Guile;Enchantment — Aura;B;Urza's Legacy (Common);0
+Unearth;Sorcery;B;Urza's Legacy (Common)/Masters 25 (Common)/Modern Horizons (Common)/Double Masters 2022 (Common);0
+Bone Shredder;Creature — Phyrexian Minion;B;Urza's Legacy (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon)/Modern Horizons 2 (Uncommon)/March of the Machine Commander (Uncommon);0
+Treacherous Link;Enchantment — Aura;B;Urza's Legacy (Uncommon);0
+Eviscerator;Creature — Phyrexian Horror;B;Urza's Legacy (Rare);0
+Gloomdrifter;Creature — Zombie Minion;B;Torment (Uncommon);0
+Brink of Madness;Enchantment;B;Urza's Legacy (Rare);0
+Subversion;Enchantment;B;Urza's Legacy (Rare)/Battle Royale Box Set (Rare);0
+No Mercy;Enchantment;B;Urza's Legacy (Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Dominaria Remastered (Mythic Rare);0
+Viashino Sandscout;Creature — Lizard Scout;R;Urza's Legacy (Common)/Tenth Edition (Common);0
+Defender of Chaos;Creature — Human Knight;R;Urza's Legacy (Common);0
+Pygmy Pyrosaur;Creature — Lizard;R;Seventh Edition (Common)/Urza's Legacy (Common)/Duel Decks: Venser vs. Koth (Common);0
+About Face;Instant;R;Urza's Legacy (Common);0
+Parch;Instant;R;Urza's Legacy (Common);0
+Sluggishness;Enchantment — Aura;R;Urza's Legacy (Common);0
+Skirk Commando;Creature — Goblin;R;Onslaught (Common)/Archenemy (Common)/Masters 25 (Common);0
+Avalanche Riders;Creature — Human Nomad;R;Urza's Legacy (Uncommon)/Time Spiral "Timeshifted" (Special);0
+Viashino Cutthroat;Creature — Lizard;R;Urza's Legacy (Uncommon);0
+Rack and Ruin;Instant;R;Urza's Legacy (Uncommon);0
+# Done through card 12422
 #15193
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
 #19595

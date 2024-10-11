@@ -125,3 +125,4 @@ Gaea's Cradle;Urza's Block-Banned
 Serra's Sanctum;Urza's Block-Banned
 Time Spiral;Urza's Block-Banned
 Voltaic Key;Urza's Block-Banned
+Frantic Search;Legacy-Banned/Pauper-Banned
