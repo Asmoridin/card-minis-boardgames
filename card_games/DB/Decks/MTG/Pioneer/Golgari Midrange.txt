@@ -1,32 +1,35 @@
-// Pulled 8/22/24
-2 Blooming Marsh
+4 Archfiend of the Dross
+1 Bitter Triumph
+4 Blooming Marsh
 1 Castle Locthwain
-1 Chevill, Bane of Monsters
+3 Darkbore Pathway
+2 Deathcap Glade
 2 Duress
-2 Extinction Event
-4 Fabled Passage
 4 Fatal Push
-1 Field of Ruin
-1 Forest
-4 Freestrider Lookout
-2 Go for the Throat
-2 Graveyard Trespasser
-4 Iridescent Vinelasher
+3 Glissa Sunslayer
+1 Go for the Throat
+1 Heartless Act
+1 Hive of the Eye Tyrant
+2 Llanowar Wastes
 4 Mosswood Dreadknight
-4 Mutavault
+3 Mutavault
 4 Overgrown Tomb
-1 Power Word Kill
-3 Reckoner Bankbuster
-3 Restless Cottage
-5 Swamp
+2 Reckoner Bankbuster
+1 Sheoldred's Edict
+1 Sheoldred, the Apocalypse
+3 Swamp
+1 Takenuma, Abandoned Mire
 4 Thoughtseize
-2 Vraska, Golgari Queen
+4 Unholy Annex/Ritual Chamber
+3 Unstoppable Slasher
+1 Urborg, Tomb of Yawgmoth
 
-2 Chevill, Bane of Monsters
+2 Back to Nature
 2 Cut Down
-1 Extinction Event
-4 Go Blank
-1 Grafdigger's Cage
-1 Jegantha, the Wellspring
-3 Pick Your Poison
-1 Reckoner Bankbuster
+1 Duress
+2 Extinction Event
+3 Go Blank
+1 Heartless Act
+1 Invoke Despair
+1 Nowhere to Run
+2 Unlicensed Hearse

@@ -1,35 +1,34 @@
-// Pulled 8/22/24
-4 Archdruid's Charm
-3 Bala Ged Recovery
-3 Boseiju, Who Endures
-1 Brazen Borrower
-1 Dark Petition
-2 Emergent Ultimatum
+1 Aetherflux Reservoir
+4 Artist's Talent
+2 Bala Ged Recovery
+1 Boseiju, Who Endures
+3 Botanical Sanctum
+2 Cathartic Pyre
+4 Consider
+1 Dig Through Time
 1 Fae of Wishes
-1 Forest
 4 Hidden Strings
-2 Impulse
+1 Impulse
+1 Into the Flood Maw
+1 Island
+1 Ketria Triome
 1 Lier, Disciple of the Drowned
 4 Lotus Field
 4 Mana Confluence
-1 Omniscience
 1 Otawara, Soaring City
-1 Peer into the Abyss
 4 Pore Over the Pages
-3 Razorverge Thicket
-4 Spara's Headquarters
-4 Strict Proctor
+4 Sleight of Hand
+4 Spirebluff Canal
 4 Sylvan Scrying
 3 Thespian's Stage
 4 Vizier of Tumbling Sands
 
-1 Approach of the Second Sun
-1 Dragonlord Dromoka
-1 Emergent Ultimatum
-2 Into the Flood Maw
-2 Leyline of Sanctity
+1 Aetherflux Reservoir
+1 Boseiju, Who Endures
+2 Filter Out
+1 Grand Abolisher
+3 Into the Flood Maw
 2 Mystical Dispute
-1 Otawara, Soaring City
-2 Path of Peril
-1 Silence
-2 Temporary Lockdown
+2 Pyroclasm
+2 Silence
+1 Thought Distortion

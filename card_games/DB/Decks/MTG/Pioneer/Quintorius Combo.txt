@@ -1,36 +1,27 @@
-// Pulled 8/22/24
-4 Beanstalk Giant
-2 Bedeck/Bedazzle
-1 Blood Crypt
-1 Boseiju, Who Endures
+4 Cavern of Souls
 2 Clever Impersonator
-1 Forest
-3 Greater Tanuki
-1 Gyruda, Doom of Depths
-4 Indatha Triome
+2 Eiganjo, Seat of the Empire
+1 Hallowed Fountain
+4 Horned Loch-Whale
 1 Island
-3 Ketria Triome
-4 Leyline Binding
-1 Lush Portico
-2 Mountain
-1 Overgrown Tomb
+1 Mountain
+2 Mystic Monastery
+2 Otawara, Soaring City
+3 Overlord of the Boilerbilges
+3 Overlord of the Mistmoors
 1 Plains
 4 Quintorius Kand
-1 Raffine's Tower
-2 Sacred Foundry
+4 Raugrin Triome
+4 Roaring Furnace/Steaming Sauna
+3 Sacred Foundry
 4 Spark Double
-4 Spinewoods Armadillo
-1 Steam Vents
-3 Stomping Ground
-2 Swamp
+4 Steam Vents
+4 Sundown Pass
 4 Trumpeting Carnosaur
-2 Virtue of Persistence
-1 Ziatora's Proving Ground
+3 Warrant/Warden
 
-1 Bedeck/Bedazzle
-2 Consecrate/Consume
-2 Dragonlord Dromoka
+4 Chandra, Awakened Inferno
+2 Elspeth's Smite
 1 Keruga, the Macrosage
-3 Quakebringer
-3 Shark Typhoon
-3 Thought Distortion
+4 Redcap Melee
+4 Reduce/Rubble

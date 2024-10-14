@@ -1,9 +1,9 @@
-Tracking 4052 cards.
-Have 260 out of 16340 total cards for a playset - 1.59 percent
+Tracking 4061 cards.
+Have 260 out of 16376 total cards for a playset - 1.59 percent
 
 *** VINTAGE ***
-There are 4052 Vintage legal cards
-Have 259 out of 16283 - 1.59 percent of a playset
+There are 4061 Vintage legal cards
+Have 259 out of 16319 - 1.59 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Paradoxical Outcome) is at 72 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 3952 Legacy legal cards
-Have 258 out of 16168 - 1.60 percent of a playset
+There are 3961 Legacy legal cards
+Have 258 out of 16204 - 1.59 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 849 Modern legal cards
-Have 185 out of 3756 - 4.93 percent of a playset
+There are 853 Modern legal cards
+Have 185 out of 3772 - 4.90 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Ruby Storm) is at 71 cards.
@@ -62,28 +62,28 @@ Most needed cards are:
  - Harsh Mentor: 5
 
 *** PIONEER ***
-There are 248 Pioneer legal cards
-Have 150 out of 1352 - 11.09 percent of a playset
+There are 250 Pioneer legal cards
+Have 150 out of 1360 - 11.03 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
-Closest deck to completion (Mono-Red Aggro) is at 63 cards.
-{'Bomat Courier': 4, 'Den of the Bugbear': 2, 'Ghitu Lavarunner': 2, 'Kumano Faces Kakkazan': 4, 'Light Up the Stage': 3, 'Monastery Swiftspear': 4, 'Monstrous Rage': 4, 'Mountain': 2, 'Play with Fire': 4, 'Ramunap Ruins': 4, 'Slickshot Show-Off': 4, 'Sokenzan, Crucible of Defiance': 1, 'Soul-Scar Mage': 4, 'Spikefield Hazard': 1, 'Viashino Pyromancer': 2, "Wizard's Lightning": 4, 'Jegantha, the Wellspring': 1, 'Magebane Lizard': 2, 'Rampaging Ferocidon': 3, 'Rending Volley': 2, 'Skullcrack': 4, 'Tears of Valakut': 2}
+Closest deck to completion (Mono-Black Midrange) is at 61 cards.
+{'Bloodletter of Aclazotz': 4, 'Castle Locthwain': 2, 'Duress': 4, 'Fatal Push': 4, 'Field of Ruin': 2, 'Graveyard Trespasser': 2, 'Hive of the Eye Tyrant': 2, 'Invoke Despair': 4, 'Mutavault': 4, 'Reckoner Bankbuster': 2, "Sheoldred's Edict": 4, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Unholy Annex/Ritual Chamber': 4, 'Unstoppable Slasher': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Caustic Bronco': 4, 'Cut Down': 3, 'Go Blank': 2, 'March of Wretched Sorrow': 1, 'The Meathook Massacre': 1, 'Unlicensed Hearse': 2}
 
 Most needed cards are:
- - Fatal Push: 20
- - Snow-Covered Island: 18
- - Forest: 17
- - Mystical Dispute: 17
- - Thoughtseize: 16
- - Mutavault: 15
- - Plains: 15
- - Containment Priest: 13
- - Kumano Faces Kakkazan: 12
- - Monastery Swiftspear: 12
+ - Fatal Push: 71
+ - Thoughtseize: 62
+ - Fable of the Mirror-Breaker: 56
+ - Sacred Foundry: 42
+ - Mutavault: 40
+ - Portable Hole: 40
+ - Duress: 35
+ - Torch the Tower: 31
+ - Unlicensed Hearse: 29
+ - Mystical Dispute: 27
 
 *** STANDARD ***
-There are 93 Standard legal cards
-Have 109 out of 552 - 19.75 percent of a playset
+There are 95 Standard legal cards
+Have 109 out of 560 - 19.46 percent of a playset
 Chosen card is a(n) Instant from Masters 25 - Giant Growth. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Lightning Bolt: 19
 
 *** OATHBREAKER ***
-There are 3961 Oathbreaker legal cards
-Have 253 out of 4351 - 5.81 percent of a playset
+There are 3970 Oathbreaker legal cards
+Have 253 out of 4360 - 5.80 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (RalCracklingWit) is at 50 cards.
@@ -202,8 +202,8 @@ Most needed cards are:
  - Wasteland: 29
 
 *** URZA'S BLOCK ***
-There are 440 Urza's Block legal cards
-Have 52 out of 1940 - 2.68 percent of a playset
+There are 445 Urza's Block legal cards
+Have 52 out of 1960 - 2.65 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Defender of Law. I own 0 of 4
 
 Closest deck to completion (ThemeDeck-PhyrexianAssault) is at 37 cards.
@@ -222,8 +222,8 @@ Most needed cards are:
  - Brilliant Halo: 6
 
 *** COMMANDER ***
-There are 3972 Commander legal cards
-Have 254 out of 4362 - 5.82 percent of a playset
+There are 3981 Commander legal cards
+Have 254 out of 4371 - 5.81 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (B-Black/SzarekhTheSilentKing) is at 43 cards.
@@ -322,7 +322,7 @@ Needed cards: 97 - {'Aetherize': 1, 'Arcane Denial': 1, 'Beast Within': 1, 'Bria
 
 
 *** OTHER DATA ***
-193 total creature types
+194 total creature types
 Most common creature types:
 - Wizard: 81
 - Knight: 71
@@ -346,10 +346,10 @@ Most common creature types:
 - Shaman: 27
 - Wurm: 26
 - Angel: 25
+- Illusion: 24
 - Construct: 23
-- Illusion: 23
 - Archer: 22
-- Golem: 21
+- Golem: 22
 - Lizard: 21
 - Minion: 21
 - Scout: 21
@@ -366,10 +366,10 @@ Most common creature types:
 - Ape: 14
 - Imp: 14
 - Pirate: 14
+- Plant: 14
 - Rat: 14
 - Treefolk: 14
 - Elephant: 13
-- Plant: 13
 - Avatar: 12
 - Efreet: 12
 - Horse: 12
@@ -426,18 +426,18 @@ Most common creature types:
 - Jackal: 4
 If above is 5, we should do a tribal Commander deck
 Following creature types have only one entry:
-['Antelope', 'Archon', 'Aurochs', 'Badger', 'Beeble', 'Brushwagg', 'Camel', 'Citizen', 'Cockatrice', 'Dreadnought', 'Egg', 'Eye', 'Ferret', 'Flagbearer', 'Fox', 'Gorgon', 'Harpy', 'Hyena', 'Kithkin', 'Kraken', 'Lhurgoyf', 'Mongoose', 'Mount', 'Mouse', 'Mutant', 'Ninja', 'Nymph', 'Octopus', 'Orgg', 'Otter', 'Oyster', 'Phelddagrif', 'Satyr', 'Spawn', 'Sphinx', 'Sponge', 'Squid', 'Starfish', 'Survivor', 'Toy', 'Trilobite']
+['Antelope', 'Archon', 'Aurochs', 'Badger', 'Beeble', 'Brushwagg', 'Camel', 'Citizen', 'Cockatrice', 'Detective', 'Dreadnought', 'Egg', 'Eye', 'Ferret', 'Flagbearer', 'Fox', 'Gorgon', 'Harpy', 'Hyena', 'Kithkin', 'Kraken', 'Lhurgoyf', 'Mongoose', 'Mount', 'Mouse', 'Mutant', 'Ninja', 'Nymph', 'Octopus', 'Orgg', 'Otter', 'Oyster', 'Phelddagrif', 'Satyr', 'Spawn', 'Sponge', 'Squid', 'Starfish', 'Survivor']
 
 Percentages ordered by format:
-Standard: 19.75
-Pioneer: 11.09
-Commander: 5.82
-Oathbreaker: 5.81
-Modern: 4.93
-Urza's Block: 2.68
+Standard: 19.46
+Pioneer: 11.03
+Commander: 5.81
+Oathbreaker: 5.80
+Modern: 4.90
+Urza's Block: 2.65
 Ice Age Block: 2.11
 Tempest Block: 1.92
 Mirage Block: 1.82
 Pauper: 1.76
-Legacy: 1.60
+Legacy: 1.59
 Vintage: 1.59

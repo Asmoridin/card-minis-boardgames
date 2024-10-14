@@ -1,27 +1,28 @@
-// Pulled 8/22/24
-4 Anointed Peacekeeper
-3 Archon of Emeria
+3 Anointed Peacekeeper
+4 Archon of Emeria
 4 Aven Interrupter
 4 Branchloft Pathway
 4 Brushland
 4 Collected Company
 1 Eiganjo, Seat of the Empire
-4 Elite Spellbinder
 4 Elvish Mystic
-2 Emeria's Call
-2 Kayla's Reconstruction
+4 Enduring Innocence
+2 Kellan, Daring Traveler
 4 Llanowar Elves
-3 Luminarch Aspirant
-2 Plains
+3 Plains
 4 Razorverge Thicket
-1 Restless Prairie
+1 Shefet Dunes
 4 Skyclave Apparition
 4 Temple Garden
-2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
+1 Voice of Resurgence
+2 Werefox Bodyguard
 
-3 Containment Priest
-2 Invasion of Gobakhan
-3 Kutzil's Flanker
+1 Anointed Peacekeeper
+3 Brutal Cathar
+2 Elite Spellbinder
+2 Gideon, Ally of Zendikar
 2 Portable Hole
-1 Reidane, God of the Worthy
-4 Werefox Bodyguard
+1 The Wandering Emperor
+2 Unlicensed Hearse
+2 Werefox Bodyguard

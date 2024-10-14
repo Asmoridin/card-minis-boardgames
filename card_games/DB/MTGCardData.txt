@@ -3704,6 +3704,15 @@ Spawning Pool;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon);0
 Ghitu Encampment;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon)/Premium Deck Series: Fire and Lightning (Uncommon)/Duel Decks: Speed vs. Cunning (Uncommon);0
 Treetop Village;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Duel Decks: Knights vs. Dragons (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon)/Duel Decks: Nissa vs. Ob Nixilis (Uncommon)/Duel Decks: Elves vs. Inventors (Uncommon)/Jumpstart 2022 (Uncommon);0
 Ring of Gix;Artifact;C;Urza's Legacy (Rare)/Vintage Masters (Rare);0
+Damping Engine;Artifact;C;Urza's Legacy (Rare);0
+Beast of Burden;Artifact Creature — Golem;C;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Legacy (Rare)/Promo set for Gatherer (Rare);0
+Crawlspace;Artifact;C;Urza's Legacy (Rare)/Commander 2013 Edition (Rare)/Dominaria Remastered (Rare);0
+Palinchron;Creature — Illusion;U;Urza's Legacy (Rare)/Vintage Masters (Rare);0
+Utopia Tree;Creature — Plant;G;Ninth Edition (Rare)/Invasion (Rare);0
+Aether Sting;Enchantment;R;Urza's Destiny (Uncommon);0
+
+
+
 # Done through card 12501
 #15193
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
@@ -4053,6 +4062,8 @@ Thassa's Oracle;Creature — Merfolk Wizard;U;Theros Beyond Death (Rare);0
 Tectonic Giant;Creature — Elemental Giant;R;Theros Beyond Death (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #479593
 Bastion of Remembrance;Enchantment;B;Ikoria: Lair of Behemoths (Uncommon)/Commander Masters (Uncommon)/Magic The Gathering—Fallout (Uncommon)/Bloomburrow Commander (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
+#484868
+Cryptic Trilobite;Creature — Trilobite;C;Ikoria Commander (Rare);0
 #485302
 Invoke Prejudice;Enchantment;U;Legends (Rare);0
 #485456
@@ -4269,6 +4280,8 @@ Troll of Khazad-dûm;Creature — Troll;B;The Lord of the Rings: Tales of Middle
 Blossoming Tortoise;Creature — Turtle;G;Wilds of Eldraine (Mythic Rare);0
 #636699
 Dauntless Dismantler;Creature — Human Artificer;W;The Lost Caverns of Ixalan (Uncommon);0
+#646600
+Agency Outfitter;Creature — Sphinx Detective;U;Murders at Karlov Manor (Uncommon);0
 #646694
 Krenko's Buzzcrusher;Artifact Creature — Insect Thopter;R;Murders at Karlov Manor (Rare);0
 #646813
@@ -4377,6 +4390,8 @@ Manifest Dread;Sorcery;G;Duskmourn: House of Horror (Common);1
 Say Its Name;Sorcery;G;Duskmourn: House of Horror (Common);1
 #673614
 Baseball Bat;Artifact — Equipment;G/W;Duskmourn: House of Horror (Uncommon);1
+#673647
+Attack-in-the-Box;Artifact Creature — Toy;C;Duskmourn: House of Horror (Uncommon);0
 #675460
 The Lord of Pain;Legendary Creature — Human Assassin;B/R;Duskmourn: House of Horror Commander (Mythic Rare);1
 #675463
