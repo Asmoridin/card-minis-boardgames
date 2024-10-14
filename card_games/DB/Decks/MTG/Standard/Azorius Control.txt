@@ -1,30 +1,20 @@
-// Pulled 8/22/24
-3 Adarkar Wastes
-2 Archangel Elspeth
-2 Beza, the Bounding Spring
+// Pulled 10/14/24
+3 Archangel Elspeth
+4 Beza, the Bounding Spring
 4 Caretaker's Talent
-4 Deduce
-2 Demolition Field
-4 Elspeth's Smite
-2 Fountainport
-3 Get Lost
-4 Island
-2 Meticulous Archive
-4 No More Lies
-5 Plains
-4 Restless Anchorage
-3 Seachrome Coast
-2 Season of the Burrow
+4 Carrot Cake
+4 Enduring Innocence
+1 Exorcise
+4 Fountainport
+4 Get Lost
+4 Lay Down Arms
+4 Meticulous Archive
+4 Parting Gust
+16 Plains
 4 Sunfall
-2 Sunken Citadel
-3 Three Steps Ahead
-1 Tishana's Tidebinder
 
-2 Annex Sentry
-1 Chrome Host Seedshark
-1 Kutzil's Flanker
-2 Loran of the Third Path
-2 Negate
-3 Temporary Lockdown
-1 The Eternal Wanderer
-3 Tishana's Tidebinder
+3 Exorcise
+2 Jace, the Perfected Mind
+4 Rest in Peace
+2 Serra Paragon
+4 Temporary Lockdown

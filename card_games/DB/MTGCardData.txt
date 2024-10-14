@@ -3670,7 +3670,37 @@ Skirk Commando;Creature — Goblin;R;Onslaught (Common)/Archenemy (Common)/Maste
 Avalanche Riders;Creature — Human Nomad;R;Urza's Legacy (Uncommon)/Time Spiral "Timeshifted" (Special);0
 Viashino Cutthroat;Creature — Lizard;R;Urza's Legacy (Uncommon);0
 Rack and Ruin;Instant;R;Urza's Legacy (Uncommon);0
-# Done through card 12422
+Shivan Phoenix;Creature — Phoenix;R;Urza's Legacy (Rare);0
+Viashino Heretic;Creature — Lizard;R;Urza's Legacy (Uncommon);0
+Aether Charge;Enchantment;R;Onslaught (Uncommon);0
+Impending Disaster;Enchantment;R;Urza's Legacy (Rare);0
+Multani's Acolyte;Creature — Elf;G;Urza's Legacy (Common);0
+Simian Grunts;Creature — Ape;G;Urza's Legacy (Common)/Vintage Masters (Common);0
+Yavimaya Scion;Creature — Treefolk;G;Urza's Legacy (Common);0
+Weatherseed Elf;Creature — Elf;G;Urza's Legacy (Common);0
+Crop Rotation;Instant;R;Urza's Legacy (Common)/Duel Decks: Nissa vs. Ob Nixilis (Common)/Ikoria Commander (Common)/Double Masters (Uncommon)/Dominaria Remastered (Uncommon);0
+Rancor;Enchantment — Aura;G;Urza's Legacy (Common)/Duel Decks: Garruk vs. Liliana (Common)/Archenemy (Common)/Planechase 2012 Edition (Common)/Magic 2013 (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Eternal Masters (Uncommon)/Planechase Anthology (Common)/Explorers of Ixalan (Uncommon)/Masters 25 (Uncommon)/Adventures in the Forgotten Realms Commander (Uncommon)/Double Masters 2022 (Uncommon)/Magic The Gathering—Fallout (Uncommon);0
+Darkwatch Elves;Creature — Elf;G;Urza's Legacy (Uncommon);0
+Harmonic Convergence;Instant;G;Urza's Legacy (Uncommon);0
+Weatherseed Treefolk;Creature — Treefolk;G;Urza's Legacy (Rare);0
+Multani, Maro-Sorcerer;Legendary Creature — Elemental;G;Urza's Legacy (Rare);0
+Hidden Gibbons;Enchantment;G;Urza's Legacy (Rare);0
+Defense of the Heart;Enchantment;G;Urza's Legacy (Rare)/Wilds of Eldraine Enchanting Tales (Mythic Rare);0
+Ravenous Baloth;Creature — Beast;G;Onslaught (Rare)/Duel Decks: Garruk vs. Liliana (Rare)/Commander 2013 Edition (Rare)/Duel Decks Anthology, Garruk vs. Liliana (Rare)/Jumpstart (Rare);0
+Chain of Acid;Sorcery;G;Onslaught (Uncommon);0
+Chain of Silence;Instant;W;Onslaught (Uncommon);0
+Chain of Vapor;Instant;U;Onslaught (Uncommon)/Commander 2016 (Uncommon);0
+Chain of Smog;Sorcery;B;Onslaught (Uncommon);0
+Chain of Plasma;Instant;R;Onslaught (Uncommon);0
+Deranged Hermit;Creature — Elf;G;Urza's Legacy (Rare)/Vintage Masters (Rare);0
+Bloated Toad;Creature — Frog;G;Urza's Legacy (Uncommon);0
+
+
+
+
+
+
+# Done through card 12462
 #15193
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
 #19595

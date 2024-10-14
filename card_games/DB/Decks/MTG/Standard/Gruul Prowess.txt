@@ -1,25 +1,26 @@
-// Pulled 8/22/24
-2 Audacity
-4 Blackcleave Cliffs
-2 Callous Sell-Sword
+// Pulled 10/14/24
 4 Copperline Gorge
 4 Emberheart Challenger
-1 Forest
 4 Heartfire Hero
+3 Innkeeper's Talent
 4 Karplusan Forest
+4 Manifold Mouse
 4 Might of the Meek
 4 Monastery Swiftspear
 4 Monstrous Rage
-2 Mountain
-4 Questing Druid
-1 Rockface Village
-4 Royal Treatment
+7 Mountain
+2 Questing Druid
+2 Restless Ridgeline
+2 Rockface Village
 4 Shock
 4 Slickshot Show-Off
-4 Thran Portal
+2 Snakeskin Veil
+2 Thornspire Verge
 
-2 Obliterating Bolt
-3 Pick Your Poison
-3 Tectonic Hazard
-4 Urabrask's Forge
-3 Witchstalker Frenzy
+1 Ghost Vacuum
+1 Obliterating Bolt
+2 Pawpatch Formation
+2 Pick Your Poison
+2 Scorching Shot
+4 Torch the Tower
+3 Urabrask's Forge
