@@ -1,4 +1,3 @@
-// Pulled 8/22/24
 1 Bojuka Bog
 2 Chromatic Star
 1 Dark-Dweller Oracle
@@ -8,27 +7,26 @@
 1 Eviscerator's Insight
 2 Fanatical Offering
 4 First Day of Class
+1 Flamewave Invoker
 4 Goblin Matron
-3 Great Furnace
+2 Great Furnace
+1 Highway Robbery
 4 Ichor Wellspring
-1 Impulsive Pilferer
-1 Krark-Clan Shaman
 1 Makeshift Munitions
 2 Mesmeric Fiend
 4 Mountain
 4 Putrid Goblin
-2 Rakdos Carnarium
+1 Rakdos Carnarium
 4 Skirk Prospector
 4 Swamp
-2 Tramway Station
+3 Tramway Station
 4 Unearth
-1 Vault of Whispers
+2 Vault of Whispers
 
-2 Abrade
-2 Cast into the Fire
-1 Duress
+2 Breath Weapon
+1 Cast Down
+3 Cast into the Fire
 2 Gorilla Shaman
 2 Introduction to Prophecy
-1 Masked Vandal
-1 Nihil Spellbomb
-4 Red Elemental Blast
+1 Krark-Clan Shaman
+4 Pyroblast

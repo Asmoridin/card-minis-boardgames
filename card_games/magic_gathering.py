@@ -502,6 +502,12 @@ if __name__ == "__main__":
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
     double_print("If above is 5, we should do a tribal Commander deck", out_file_h)
+    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret']
+    for remove_type in remove_one_ofs:
+        try:
+            one_ofs.remove(remove_type)
+        except ValueError:
+            print(f"{remove_type} is no longer a true one-of")
     if len(one_ofs) > 0:
         double_print("Following creature types have only one entry:", out_file_h)
         double_print(str(sorted(one_ofs)), out_file_h)
