@@ -46,20 +46,20 @@ There are 889 Modern legal cards
 Have 185 out of 3916 - 4.72 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
-Closest deck to completion (Ruby Storm) is at 71 cards.
-{'Arid Mesa': 2, 'Bloodstained Mire': 1, 'Commercial District': 2, 'Desperate Ritual': 4, 'Fiery Islet': 1, 'Glimpse the Impossible': 2, 'Grapeshot': 2, 'Manamorphose': 4, 'Past in Flames': 4, 'Pyretic Ritual': 4, 'Questing Druid': 3, 'Ral, Monsoon Mage': 4, 'Reckless Impulse': 4, 'Ruby Medallion': 4, 'Scalding Tarn': 4, 'Shatterskull Smashing': 2, 'Stomping Ground': 1, 'Strike It Rich': 2, 'Valakut Awakening': 1, 'Wish': 2, 'Wooded Foothills': 1, "Wrenn's Resolve": 4, 'Abrade': 2, "Brotherhood's End": 1, 'Dismember': 2, 'Empty the Warrens': 1, 'Galvanic Relay': 1, "Nature's Claim": 2, "Thassa's Oracle": 1, 'Veil of Summer': 3}
+Closest deck to completion (Mono-Black Midrange) is at 63 cards.
+{"Agadeem's Awakening": 2, 'Boggart Trawler': 4, 'Castle Locthwain': 2, 'Fatal Push': 4, 'Fell the Profane': 4, 'Inquisition of Kozilek': 3, 'March of Wretched Sorrow': 3, 'Necrodominance': 4, 'Orcish Bowmasters': 4, 'Sheoldred, the Apocalypse': 4, 'Soul Spike': 4, 'Takenuma, Abandoned Mire': 1, 'The Meathook Massacre': 2, 'The One Ring': 4, 'Thoughtseize': 4, 'Break the Ice': 4, 'Damping Sphere': 2, 'Dauthi Voidwalker': 4, 'Force of Despair': 2, 'Surgical Extraction': 2}
 
 Most needed cards are:
- - Arid Mesa: 14
- - Flooded Strand: 8
- - Galvanic Discharge: 8
- - Lightning Bolt: 8
- - Phlage, Titan of Fire's Fury: 8
- - The One Ring: 8
- - Wooded Foothills: 7
- - Ragavan, Nimble Pilferer: 6
- - Celestial Purge: 5
- - Harsh Mentor: 5
+ - The One Ring: 92
+ - Consign to Memory: 80
+ - Fatal Push: 54
+ - Thoughtseize: 52
+ - Flooded Strand: 51
+ - Orcish Bowmasters: 50
+ - Damping Sphere: 45
+ - Polluted Delta: 45
+ - Arid Mesa: 42
+ - Wooded Foothills: 42
 
 *** PIONEER ***
 There are 277 Pioneer legal cards
