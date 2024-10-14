@@ -488,6 +488,10 @@ if __name__ == "__main__":
         double_print(f"Needed cards: {deck_need_num} - {str(deck_need_cards)}\n", out_file_h)
 
     # Other
+    one_ofs = []
+    for creature, creature_freq in creature_types.items():
+        if creature_freq == 1:
+            one_ofs.append(creature)
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     double_print("Most common creature types:", out_file_h)
@@ -498,6 +502,10 @@ if __name__ == "__main__":
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
     double_print("If above is 5, we should do a tribal Commander deck", out_file_h)
+    if len(one_ofs) > 0:
+        double_print("Following creature types have only one entry:", out_file_h)
+        double_print(str(sorted(one_ofs)), out_file_h)
+
 
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)

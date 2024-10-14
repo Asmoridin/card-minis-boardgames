@@ -3694,13 +3694,17 @@ Chain of Smog;Sorcery;B;Onslaught (Uncommon);0
 Chain of Plasma;Instant;R;Onslaught (Uncommon);0
 Deranged Hermit;Creature — Elf;G;Urza's Legacy (Rare)/Vintage Masters (Rare);0
 Bloated Toad;Creature — Frog;G;Urza's Legacy (Uncommon);0
-
-
-
-
-
-
-# Done through card 12462
+Elvish Pioneer;Creature — Elf Druid;G;Eighth Edition (Common)/Onslaught (Common);0
+Ghitu Slinger;Creature — Human Nomad;R;Urza's Legacy (Common)/Eternal Masters (Uncommon);0
+Erratic Explosion;Sorcery;R;Onslaught (Common)/Planechase 2012 Edition (Common)/Planechase Anthology (Common);0
+Multani's Presence;Enchantment;G;Urza's Legacy (Uncommon);0
+Forbidding Watchtower;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon);0
+Faerie Conclave;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon)/Commander 2013 Edition (Uncommon)/Commander Anthology (Uncommon)/Wilds of Eldraine Commander (Uncommon);0
+Spawning Pool;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon);0
+Ghitu Encampment;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon)/Premium Deck Series: Fire and Lightning (Uncommon)/Duel Decks: Speed vs. Cunning (Uncommon);0
+Treetop Village;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Duel Decks: Knights vs. Dragons (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon)/Duel Decks: Nissa vs. Ob Nixilis (Uncommon)/Duel Decks: Elves vs. Inventors (Uncommon)/Jumpstart 2022 (Uncommon);0
+Ring of Gix;Artifact;C;Urza's Legacy (Rare)/Vintage Masters (Rare);0
+# Done through card 12501
 #15193
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
 #19595
@@ -3923,6 +3927,8 @@ Thalia, Guardian of Thraben;Legendary Creature — Human Soldier;W;Dark Ascensio
 Cavern of Souls;Land;C;Avacyn Restored (Rare)/Modern Masters 2017 Edition (Mythic Rare)/Ultimate Masters (Mythic Rare)/Ultimate Box Toppers (Special)/Zendikar Rising Expeditions (Mythic Rare)/Double Masters 2022 (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/The Lost Caverns of Ixalan (Mythic Rare);0
 #278452
 Grafdigger's Cage;Artifact;C;Dark Ascension (Rare)/Modern Masters 2017 Edition (Rare)/Core Set 2020 (Rare);0
+#289222
+Blistercoil Weird;Creature — Weird;U/R;Return to Ravnica (Uncommon);0
 #290529
 Deathrite Shaman;Creature — Elf Shaman;B/G;Return to Ravnica (Rare)/Eternal Masters (Rare)/Guild Kit: Golgari (Rare)/Ravnica Remastered (Rare);0
 #366271
@@ -4285,6 +4291,8 @@ Sink into Stupor;Instant;U;Modern Horizons 3 (Uncommon);0
 Boggart Trawler;Creature - Goblin;B;Modern Horizons 3 (Uncommon);0
 #661767
 Fell the Profane;Instant;B;Modern Horizons 3 (Uncommon);0
+#662333
+Cursed Wombat;Creature — Nightmare Wombat;G/B;Modern Horizons 3 (Uncommon);0
 #662364
 Vexing Bauble;Artifact;C;Modern Horizons 3 (Uncommon);0
 #665056
