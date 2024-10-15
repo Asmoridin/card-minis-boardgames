@@ -3741,9 +3741,13 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 12960
-#13001
+Trained Orgg;Creature — Orgg;R;Seventh Edition (Rare)/Starter 1999 (Rare)/Starter 2000 (Rare);0
+Razorfoot Griffin;Creature — Griffin;W;Seventh Edition (Common)/Eighth Edition (Common)/Invasion (Common)/Magic 2010 (Common)/Magic 2015 Core Set (Common);0
 Goblin Welder;Creature — Goblin Artificer;R;Urza's Legacy (Rare)/Commander 2014 (Rare)/Duel Decks: Elves vs. Inventors (Mythic Rare)/Commander Anthology 2018 (Rare);0
+Goblin Burrows;Land;C;Onslaught (Uncommon)/Duel Decks: Elves vs. Goblins (Uncommon)/Duel Decks Anthology, Elves vs. Goblins (Uncommon);0
+Masticore;Artifact Creature — Masticore;C;Urza's Destiny (Rare)/From the Vault: Relics (Mythic Rare)/Vintage Masters (Rare);0
+Serra Advocate;Creature — Angel;W;Seventh Edition (Uncommon)/Urza's Destiny (Uncommon)/Duel Decks: Divine vs. Demonic (Uncommon)/Duel Decks Anthology, Divine vs. Demonic (Uncommon);0
+# Done through card 13195
 #13805
 Ravaging Horde;Creature — Human Soldier;R;Portal Three Kingdoms (Uncommon);0
 #13806
@@ -4370,6 +4374,8 @@ Tyrranax Atrocity;Creature — Phyrexian Dinosaur;G;Phyrexia: All Will Be One (C
 Atraxa, Grand Unifier;Legendary Creature — Phyrexian Angel;G/W/U/B;Phyrexia: All Will Be One (Mythic Rare);0
 #602728
 Cephalopod Sentry;Artifact Creature — Phyrexian Squid;U/W;Phyrexia: All Will Be One (Uncommon);0
+#602752
+Argentum Masticore;Artifact Creature — Phyrexian Masticore;C;Phyrexia: All Will Be One (Rare);0
 #602782
 The Fair Basilica;Land - Sphere;C;Phyrexia: All Will Be One (Common);1
 #616834
