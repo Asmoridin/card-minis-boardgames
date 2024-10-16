@@ -3747,17 +3747,40 @@ Goblin Welder;Creature — Goblin Artificer;R;Urza's Legacy (Rare)/Commander 201
 Goblin Burrows;Land;C;Onslaught (Uncommon)/Duel Decks: Elves vs. Goblins (Uncommon)/Duel Decks Anthology, Elves vs. Goblins (Uncommon);0
 Masticore;Artifact Creature — Masticore;C;Urza's Destiny (Rare)/From the Vault: Relics (Mythic Rare)/Vintage Masters (Rare);0
 Serra Advocate;Creature — Angel;W;Seventh Edition (Uncommon)/Urza's Destiny (Uncommon)/Duel Decks: Divine vs. Demonic (Uncommon)/Duel Decks Anthology, Divine vs. Demonic (Uncommon);0
-# Done through card 13195
-#13805
+Elvish Piper;Creature — Elf Shaman;G;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Destiny (Rare)/Tenth Edition (Rare)/Magic 2010 (Rare)/Masters 25 (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Rare);0
+Severed Legion;Creature — Zombie;B;Eighth Edition (Common)/Onslaught (Common)/Tenth Edition (Common);0
+Daru Encampment;Land;C;Onslaught (Uncommon)/Duel Decks: Elspeth vs. Tezzeret (Uncommon);0
+Elvish Scrapper;Creature — Elf;G;Eighth Edition (Uncommon)/Onslaught (Uncommon);0
 Ravaging Horde;Creature — Human Soldier;R;Portal Three Kingdoms (Uncommon);0
-#13806
 Burst of Energy;Instant;W;Urza's Legacy (Common);0
-#13810
 Ghitu War Cry;Enchantment;R;Urza's Legacy (Uncommon);0
-#13812
 Last-Ditch Effort;Instant;R;Urza's Legacy (Uncommon);0
-#13831
+Landslide;Sorcery;R;Urza's Destiny (Uncommon);0
 Xun Yu, Wei Advisor;Legendary Creature — Human Advisor;B;Portal Three Kingdoms (Rare);0
+Apprentice Necromancer;Creature — Zombie Wizard;B;Urza's Destiny (Rare)/Commander 2017 (Rare)/Ultimate Masters (Uncommon);0
+Wall of Glare;Creature — Wall;W;Urza's Destiny (Common);0
+Field Surgeon;Creature — Human Cleric;W;Urza's Destiny (Common);0
+Reliquary Monk;Creature — Human Monk Cleric;W;Urza's Destiny (Common);0
+Jasmine Seer;Creature — Human Wizard;W;Urza's Destiny (Uncommon);0
+Capashen Knight;Creature — Human Knight;W;Urza's Destiny (Common)/Magic 2014 Core Set (Common);0
+Flicker;Sorcery;W;Urza's Destiny (Rare);0
+Mask of Law and Grace;Enchantment — Aura;W;Urza's Destiny (Common);0
+Voice of Reason;Creature — Angel;W;Urza's Destiny (Uncommon);0
+Voice of Duty;Creature — Angel;W;Urza's Destiny (Uncommon);0
+Scour;Instant;W;Urza's Destiny (Uncommon)/Betrayers of Kamigawa (Uncommon);0
+Archery Training;Enchantment — Aura;W;Urza's Destiny (Uncommon);0
+Slay;Instant;B;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Planeshift (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Academy Rector;Creature — Human Cleric;W;Urza's Destiny (Rare);0
+Opalescence;Enchantment;W;Urza's Destiny (Rare);0
+Replenish;Sorcery;W;Urza's Destiny (Rare);0
+Dralnu's Pet;Creature — Shapeshifter;U;Planeshift (Rare);0
+Fledgling Osprey;Creature — Bird;U;Urza's Destiny (Common);0
+Blizzard Elemental;Creature — Elemental;U;Urza's Destiny (Rare)/Beatdown Box Set (Rare);0
+Kingfisher;Creature — Bird;U;Urza's Destiny (Common);0
+Brine Seer;Creature — Human Wizard;U;Urza's Destiny (Uncommon);0
+Telepathic Spies;Creature — Human Wizard;U;Seventh Edition (Common)/Urza's Destiny (Common);0
+Disappear;Enchantment — Aura;U;Urza's Destiny (Uncommon);0
+# Done through card 15151
 #15193
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
 #19595
