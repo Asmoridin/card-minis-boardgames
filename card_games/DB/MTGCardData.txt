@@ -3780,7 +3780,12 @@ Kingfisher;Creature — Bird;U;Urza's Destiny (Common);0
 Brine Seer;Creature — Human Wizard;U;Urza's Destiny (Uncommon);0
 Telepathic Spies;Creature — Human Wizard;U;Seventh Edition (Common)/Urza's Destiny (Common);0
 Disappear;Enchantment — Aura;U;Urza's Destiny (Uncommon);0
-# Done through card 15151
+Rescue;Instant;U;Urza's Destiny (Common)/Dominaria (Common);0
+Thieving Magpie;Creature — Bird;U;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Urza's Destiny (Uncommon)/Tenth Edition (Uncommon)/Dominaria Remastered (Uncommon);0
+Metathran Elite;Creature — Metathran Soldier;U;Urza's Destiny (Uncommon);0
+Mental Discipline;Enchantment;U;Urza's Destiny (Common);0
+Quash;Instant;U;Urza's Destiny (Uncommon)/Betrayers of Kamigawa (Uncommon);0
+# Done through card 15154
 #15193
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
 #19595
@@ -3795,6 +3800,8 @@ Blurred Mongoose;Creature — Mongoose;G;Invasion (Rare);0
 Coalition Honor Guard;Creature — Human Flagbearer;W;Apocalypse (Common)/Eternal Masters (Common);0
 #26783
 Standard Bearer;Creature — Human Flagbearer;W;Apocalypse (Common);0
+#26795
+Living Airship;Creature — Metathran;U;Apocalypse (Common);0
 #27613
 Alpha Kavu;Creature — Kavu;G;Planeshift (Uncommon);0
 #27634

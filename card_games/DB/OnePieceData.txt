@@ -426,7 +426,7 @@ Gordon;P-013;Character;R;FILM;Promo;0
 Gordon;ST05-007;Character;P;FILM;ONE PIECE FILM edition [ST-05];0
 Gordon;ST16-002;Character;G;FILM;-Green Uta- [ST-16];0
 Gravity Blade Raging Tiger;OP06-058;Event;U;Navy;-WINGS OF THE CAPTAIN-[OP06];0
-Great Eruption;ST06-15;Event;B;Navy;Absolute Justice- [ST-06];0
+Great Eruption;ST06-015;Event;B;Navy;Absolute Justice- [ST-06];0
 Green Star Rafflesia;OP01-028;Event;R;Straw Hat Crew;-ROMANCE DAWN- [OP01];0
 Guard Point;ST01-014;Event;R;Animal/Straw Hat Crew;-Straw Hat Crew-[ST-01];1
 Guernica;OP08-081;Character;B;CP0;-TWO LEGENDS- [OP-08];2
@@ -761,7 +761,7 @@ Monkey.D.Garp;OP03-014;Character;R;Navy;-PILLARS OF STRENGTH- [OP03];0
 Monkey.D.Garp;OP05-054;Character;U;Navy;-AWAKENING OF THE NEW ERA-[OP05];2
 Monkey.D.Garp;OP06-055;Character;U;Navy;-WINGS OF THE CAPTAIN-[OP06];2
 Monkey.D.Garp;P-054;Character;U;Navy;Promo;0
-Monkey.D.Garp;ST06-12;Character;B;Navy;Absolute Justice- [ST-06];0
+Monkey.D.Garp;ST06-012;Character;B;Navy;Absolute Justice- [ST-06];0
 Monkey.D.Garp;ST08-010;Character;B;Navy;Monkey D. Luffy-[ST-08];0
 Monkey.D.Garp;ST13-013;Character;Y;Navy;The Three Brothers-[ST13];0
 Monkey.D.Garp;ST19-005;Character;B;Navy;-Black Smoker- [ST-19];0
@@ -851,7 +851,7 @@ Namule;OP03-007;Character;R;Fish-Man/Whitebeard Pirates;-PILLARS OF STRENGTH- [O
 Namule;OP08-050;Character;U;Fish-Man/Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
 Napoleon;OP03-117;Character;Y;Big Mom Pirates/Homies;-PILLARS OF STRENGTH- [OP03];0
 Narikabura Arrow;ST09-014;Event;Y;Land of Wano;-Yamato-[ST-09];2
-Navy HQ;ST06-17;Stage;B;Navy;Absolute Justice- [ST-06];0
+Navy HQ;ST06-017;Stage;B;Navy;Absolute Justice- [ST-06];0
 Nefeltari Cobra;OP04-012;Character;R;Alabasta;-KINGDOMS OF INTRIGUE- [OP04];0
 Nefeltari Cobra;OP05-085;Character;B;Alabasta;-AWAKENING OF THE NEW ERA-[OP05];3
 Nefeltari Vivi;OP04-001;Leader;R/U;Alabasta;-KINGDOMS OF INTRIGUE- [OP04];0
@@ -1103,7 +1103,7 @@ Shirley;OP03-104;Character;Y;Merfolk;-PILLARS OF STRENGTH- [OP03];0
 Shiryu;OP02-076;Character;P;Impel Down;-PARAMOUNT WAR- [OP02];3
 Shishilian;OP02-032;Character;G;Minks;-PARAMOUNT WAR- [OP02];1
 Shishilian;OP08-025;Character;G;Minks;-TWO LEGENDS- [OP-08];0
-Shockwave;ST06-14;Event;B;Navy;Absolute Justice- [ST-06];0
+Shockwave;ST06-014;Event;B;Navy;Absolute Justice- [ST-06];0
 Shura;OP05-106;Character;Y;Sky Island/Vassals;-AWAKENING OF THE NEW ERA-[OP05];1
 Shuraiya;OP06-009;Character;R;FILM/Shipbuilding Town;-WINGS OF THE CAPTAIN-[OP06];0
 Silvers Rayleigh;OP08-118;Character;R;Former Roger Pirates;-TWO LEGENDS- [OP-08];0
@@ -1149,7 +1149,7 @@ Sunny-Kun;P-015;Character;R;FILM/Straw Hat Crew;Promo;0
 Super Spot-Billed Duck Troops;OP04-009;Character;R;Animal/Alabasta;-KINGDOMS OF INTRIGUE- [OP04];0
 Sweetpea;OP08-048;Character;U;Amazon Lily;-TWO LEGENDS- [OP-08];0
 T-Bone;EB01-049;Character;B;Water Seven/Navy;-Memorial Collection- [EB-01];0
-T-Bone;ST06-13;Character;B;Navy;Absolute Justice- [ST-06];0
+T-Bone;ST06-013;Character;B;Navy;Absolute Justice- [ST-06];0
 Taralan;OP06-089;Character;B;Thriller Bark Pirates;-WINGS OF THE CAPTAIN-[OP06];3
 Tashigi;OP02-105;Character;B;Navy;-PARAMOUNT WAR- [OP02];3
 Tashigi;OP06-050;Character;U;Navy;-WINGS OF THE CAPTAIN-[OP06];1
@@ -1296,7 +1296,7 @@ We're Going to Claim the One Piece!!!;OP07-077;Event;P;The Four Emperors/Land of
 Weakness...Is an Unforgivable Sin.;OP04-076;Event;P;The Seven Warlords of the Sea/Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 When You're at Sea You Fight against Pirates!!;OP05-076;Event;P;Land of Wano;-AWAKENING OF THE NEW ERA-[OP05]/-Purple Monkey.D.Luffy- [ST-18];4
 Where the Wind Blows;P-058;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];0
-White Out;ST06-16;Event;B;Navy;Absolute Justice- [ST-06];0
+White Out;ST06-016;Event;B;Navy;Absolute Justice- [ST-06];0
 White Snake;OP06-059;Event;U;Navy;-WINGS OF THE CAPTAIN-[OP06];1
 Whitebeard Pirates;OP02-022;Event;R;Whitebeard Pirates;-PARAMOUNT WAR- [OP02];2
 Whitey Bay;OP02-014;Character;R;Whitebeard Pirates Allies;-PARAMOUNT WAR- [OP02];1

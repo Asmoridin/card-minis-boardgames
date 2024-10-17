@@ -49,7 +49,11 @@ def parse_deck(deck_lines, collection_dict_in):
         deck_line = deck_line.strip()
         if deck_line.startswith('#') or deck_line == '':
             continue
-        cards_needed, this_card_number = deck_line.split("x")
+        try:
+            cards_needed, this_card_number = deck_line.split(" ")
+        except ValueError:
+            print("Issue with " + deck_line)
+            raise
         cards_needed = int(cards_needed)
         if this_card_number not in collection_dict_in:
             print("Unknown card: " + this_card_number)
@@ -130,26 +134,27 @@ for line in lines:
         card_own, CARD_MAX))
 
 deck_tuples = [] # (DeckFile, cards_needed, cards)
-for file_name in os.listdir(DECK_DIR):
-    CARDS_NEEDED = 0
-    THIS_LEADER = ()
-    this_deck_file = DECK_DIR + "/" + file_name
-    deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
-    this_deck_lines = deck_file_h.readlines()
-    deck_file_h.close()
-    this_deck_dict = parse_deck(this_deck_lines, collection_dict)
-    for card_num, _ in this_deck_dict.items():
-        if card_num in leaders:
-            THIS_LEADER = leaders[card_num]
-            del leaders[card_num]
-    missing_cards = determine_missing(this_deck_dict, collection_dict)
-    for card, card_qty in missing_cards.items():
-        CARDS_NEEDED += card_qty
-    deck_tuples.append((file_name, CARDS_NEEDED, missing_cards, THIS_LEADER))
-    for missing_card, missing_card_qty in missing_cards.items():
-        if missing_card not in card_need_dict:
-            card_need_dict[missing_card] = 0
-        card_need_dict[missing_card] += missing_card_qty
+for deck_colors in os.listdir(DECK_DIR):
+    for file_name in os.listdir(DECK_DIR + "/" + deck_colors):
+        CARDS_NEEDED = 0
+        THIS_LEADER = ()
+        this_deck_file = DECK_DIR + "/" + deck_colors + "/" + file_name
+        deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
+        this_deck_lines = deck_file_h.readlines()
+        deck_file_h.close()
+        this_deck_dict = parse_deck(this_deck_lines, collection_dict)
+        for card_num, _ in this_deck_dict.items():
+            if card_num in leaders:
+                THIS_LEADER = leaders[card_num]
+                del leaders[card_num]
+        missing_cards = determine_missing(this_deck_dict, collection_dict)
+        for card, card_qty in missing_cards.items():
+            CARDS_NEEDED += card_qty
+        deck_tuples.append((file_name, CARDS_NEEDED, missing_cards, THIS_LEADER))
+        for missing_card, missing_card_qty in missing_cards.items():
+            if missing_card not in card_need_dict:
+                card_need_dict[missing_card] = 0
+            card_need_dict[missing_card] += missing_card_qty
 
 missing_full_cards = determine_missing(full_collection, collection_dict)
 for missing_card, missing_card_qty in missing_full_cards.items():
