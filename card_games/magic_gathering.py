@@ -512,7 +512,6 @@ if __name__ == "__main__":
         double_print("Following creature types have only one entry:", out_file_h)
         double_print(str(sorted(one_ofs)), out_file_h)
 
-
     double_print("\nPercentages ordered by format:", out_file_h)
     FORMAT_LIST = sorted(FORMAT_LIST, key=lambda x:(x[1]/x[2], x[0]), reverse=True)
     for print_format in FORMAT_LIST:

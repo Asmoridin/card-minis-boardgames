@@ -3785,9 +3785,87 @@ Thieving Magpie;Creature — Bird;U;Seventh Edition (Uncommon)/Eighth Edition (U
 Metathran Elite;Creature — Metathran Soldier;U;Urza's Destiny (Uncommon);0
 Mental Discipline;Enchantment;U;Urza's Destiny (Common);0
 Quash;Instant;U;Urza's Destiny (Uncommon)/Betrayers of Kamigawa (Uncommon);0
-# Done through card 15154
-#15193
+Private Research;Enchantment — Aura;U;Urza's Destiny (Uncommon);0
+Opposition;Enchantment;U;Seventh Edition (Rare)/Urza's Destiny (Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Dominaria Remastered (Rare);0
+Iridescent Drake;Creature — Drake;U;Urza's Destiny (Uncommon)/Ultimate Masters (Uncommon);0
+Rayne, Academy Chancellor;Legendary Creature — Human Wizard;U;Urza's Destiny (Rare);0
+Donate;Sorcery;U;Urza's Destiny (Rare);0
+Disease Carriers;Creature — Rat;B;Urza's Destiny (Common);0
+Squirming Mass;Creature — Horror;B;Urza's Destiny (Common);0
+Nightshade Seer;Creature — Human Wizard;B;Urza's Destiny (Uncommon);0
+Encroach;Sorcery;B;Urza's Destiny (Uncommon);0
+Rapid Decay;Instant;B;Urza's Destiny (Rare);0
+Bubbling Muck;Sorcery;B;Urza's Destiny (Common);0
+Plague Dogs;Creature — Phyrexian Zombie Dog;B;Urza's Destiny (Uncommon);0
+Dying Wail;Enchantment — Aura;B;Urza's Destiny (Common);0
+Festering Wound;Enchantment — Aura;B;Urza's Destiny (Uncommon);0
+Eradicate;Sorcery;B;Urza's Destiny (Uncommon)/Betrayers of Kamigawa (Uncommon);0
+Body Snatcher;Creature — Phyrexian Minion;B;Urza's Destiny (Rare)/Dominaria Remastered (Rare);0
+Viridian Acolyte;Creature — Elf Shaman;G;Darksteel (Common);0
+Attrition;Enchantment;B;Urza's Destiny (Rare)/Magic: The Gathering-Commander (Rare)/Masterpiece Series: Amonkhet Invocations (Special);0
 Yawgmoth's Bargain;Enchantment;B;Urza's Destiny (Rare)/Vintage Masters (Mythic Rare);0
+Keldon Vandals;Creature — Human Rogue;R;Urza's Destiny (Common);0
+Colos Yearling;Creature — Goat Beast;R;Urza's Destiny (Common);0
+Hulking Ogre;Creature — Ogre;R;Urza's Destiny (Common)/Starter 1999 (Uncommon);0
+Goblin Gardener;Creature — Goblin;R;Seventh Edition (Common)/Urza's Destiny (Common);0
+Wild Colos;Creature — Goat Beast;R;Urza's Destiny (Common);0
+Cinder Seer;Creature — Human Wizard;R;Urza's Destiny (Uncommon);0
+Trumpet Blast;Instant;R;Urza's Destiny (Common)/Magic 2010 (Common)/Magic 2013 (Common)/Magic: The Gathering—Conspiracy (Common)/Khans of Tarkir (Common)/Conspiracy: Take the Crown (Common)/Iconic Masters (Common)/Masters 25 (Common)/Battlebond (Uncommon)/Core Set 2019 (Common);0
+Flame Jet;Sorcery;R;Urza's Destiny (Common);0
+Goblin Masons;Creature — Goblin;R;Urza's Destiny (Common);0
+Mark of Fury;Enchantment — Aura;R;Urza's Destiny (Common);0
+Reckless Abandon;Sorcery;R;Urza's Destiny (Common)/Duel Decks: Speed vs. Cunning (Common);0
+Keldon Champion;Creature — Human Barbarian;R;Urza's Destiny (Uncommon)/Planechase (Uncommon)/Premium Deck Series: Fire and Lightning (Uncommon)/Eternal Masters (Uncommon);0
+Splinter;Sorcery;G;Urza's Destiny (Uncommon)/Betrayers of Kamigawa (Uncommon);0
+Incendiary;Enchantment — Aura;R;Urza's Destiny (Uncommon);0
+Goblin Marshal;Creature — Goblin Warrior;R;Urza's Destiny (Rare);0
+Bloodshot Cyclops;Creature — Cyclops Giant;R;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Destiny (Rare);0
+Repercussion;Enchantment;R;Urza's Destiny (Rare)/Wilds of Eldraine Enchanting Tales (Mythic Rare);0
+Impatience;Enchantment;R;Seventh Edition (Rare)/Urza's Destiny (Rare);0
+Wake of Destruction;Sorcery;R;Urza's Destiny (Rare);0
+Hunting Moa;Creature — Bird Beast;G;Urza's Destiny (Uncommon)/Time Spiral "Timeshifted" (Special)/Archenemy (Uncommon);0
+Heart Warden;Creature — Elf Druid;G;Urza's Destiny (Common);0
+Taunting Elf;Creature — Elf;G;Urza's Destiny (Common)/Onslaught (Common)/Game Night: Free-For-All (Common);0
+Marker Beetles;Creature — Insect;G;Urza's Destiny (Common);0
+Goliath Beetle;Creature — Insect;G;Urza's Destiny (Common);0
+Ivy Seer;Creature — Elf Wizard;G;Urza's Destiny (Uncommon);0
+Yavimaya Elder;Creature — Human Druid;G;Urza's Destiny (Common)/Duel Decks: Phyrexia vs. the Coalition (Common)/Magic: The Gathering-Commander (Common)/Vintage Masters (Uncommon)/Commander Anthology 2018 (Common)/Commander 2018 (Common)/Zendikar Rising Commander (Common)/Commander Legends (Common)/Modern Horizons 2 (Uncommon)/Innistrad: Midnight Hunt Commander (Common)/Modern Horizons 3 Commander (Common)/Duskmourn: House of Horror Commander (Common);0
+Multani's Decree;Sorcery;G;Urza's Destiny (Common);0
+Far Wanderings;Sorcery;G;Torment (Common)/Commander 2016 (Common)/Commander 2018 (Common)/Zendikar Rising Commander (Common);0
+Gamekeeper;Creature — Elf;G;Urza's Destiny (Uncommon)/Magic: The Gathering—Conspiracy (Uncommon)/Commander 2016 (Uncommon)/Dominaria Remastered (Uncommon);0
+Pattern of Rebirth;Enchantment — Aura;G;Urza's Destiny (Rare)/Ultimate Masters (Rare);0
+Momentum;Enchantment — Aura;G;Urza's Destiny (Uncommon);0
+Yavimaya Enchantress;Creature — Human Druid;G;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Urza's Destiny (Uncommon)/Tenth Edition (Uncommon)/Eternal Masters (Common)/Commander 2018 (Common);0
+Rofellos, Llanowar Emissary;Legendary Creature — Elf Druid;G;Urza's Destiny (Rare)/Vintage Masters (Rare);0
+Thorn Elemental;Creature — Elemental;G;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Destiny (Rare)/Starter 1999 (Rare)/Dominaria (Uncommon);0
+Brass Secretary;Artifact Creature — Construct;C;Urza's Destiny (Uncommon);0
+Metalworker;Artifact Creature — Construct;C;Urza's Destiny (Rare);0
+Mantis Engine;Artifact Creature — Insect;C;Urza's Destiny (Uncommon)/Tenth Edition (Uncommon);0
+Thran Dynamo;Artifact;C;Urza's Destiny (Uncommon)/Archenemy (Uncommon)/From the Vault: Twenty (Mythic Rare)/Commander 2014 (Uncommon)/Iconic Masters (Uncommon)/Commander 2019 (Uncommon)/The Brothers' War Commander (Uncommon)/Commander Masters (Uncommon)/Bloomburrow Commander (Uncommon);0
+Braidwood Cup;Artifact;C;Urza's Destiny (Uncommon);0
+Fodder Cannon;Artifact;C;Eighth Edition (Uncommon)/Urza's Destiny (Uncommon);0
+Braidwood Sextant;Artifact;C;Urza's Destiny (Uncommon);0
+Caltrops;Artifact;C;Seventh Edition (Uncommon)/Urza's Destiny (Uncommon);0
+Thran Golem;Artifact Creature — Golem;C;Ninth Edition (Rare)/Urza's Destiny (Rare)/Magic 2012 (Uncommon)/Planechase 2012 Edition (Uncommon)/Planechase Anthology (Uncommon)/Dominaria Remastered (Uncommon);0
+Extruder;Artifact Creature — Juggernaut;C;Urza's Destiny (Uncommon)/Modern Horizons 2 (Uncommon);0
+Junk Diver;Artifact Creature — Bird;C;Urza's Destiny (Rare)/Commander 2014 (Rare)/Commander Anthology 2018 (Rare)/Modern Horizons 3 (Uncommon);0
+Urza's Incubator;Artifact;C;Urza's Destiny (Rare)/Commander 2015 (Rare)/Commander Anthology 2018 (Rare)/Dominaria Remastered (Mythic Rare)/Modern Horizons 3 (Rare);0
+Powder Keg;Artifact;C;Urza's Destiny (Rare);0
+Storage Matrix;Artifact;C;Ninth Edition (Rare)/Urza's Destiny (Rare);0
+Aura Thief;Creature — Illusion;U;Urza's Destiny (Rare);0
+Scrying Glass;Artifact;C;Urza's Destiny (Rare);0
+Scent of Jasmine;Instant;W;Urza's Destiny (Common);0
+Scent of Cinder;Sorcery;R;Urza's Destiny (Common);0
+Scent of Nightshade;Instant;B;Urza's Destiny (Common);0
+Scent of Brine;Instant;U;Urza's Destiny (Common);0
+Scent of Ivy;Instant;G;Urza's Destiny (Common);0
+# Done through card 15360
+#15875
+Temporal Adept;Creature — Human Wizard;U;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Destiny (Rare);0
+#19111
+Thran Foundry;Artifact;C;Urza's Destiny (Uncommon);0
+#19114
+Twisted Experiment;Enchantment — Aura;B;Urza's Destiny (Common)/Dominaria Remastered (Common);0
 #19595
 Snuff Out;Instant;B;Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Doctor Who Commander (Uncommon);0
 #20404
