@@ -12,7 +12,7 @@
 3 Disenchant
 2 Replenish
 2 Serra Avatar
-13 Mountains
+13 Mountain
 3 Phyrexian Tower
 6 Plains
 
@@ -20,5 +20,5 @@
 3 Defense Grid
 3 Aura Thief
 3 Arc Lightning 
-2 Keldon Vandal
+2 Keldon Vandals
 4 Scald

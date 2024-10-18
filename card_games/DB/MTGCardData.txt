@@ -62,7 +62,7 @@ Aladdin's Lamp;Artifact;C;Revised Edition (Rare)/Fourth Edition (Rare)/Arabian N
 Aladdin's Ring;Artifact;C;Revised Edition (Rare)/Fourth Edition (Rare)/Fifth Edition (Rare)/Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Arabian Nights (Rare);0
 Aladdin;Creature - Human Rogue;R;Arabian Nights (Rare)/Chronicles (Uncommon)/Masters Edition IV (Rare);0
 Alarum;Instant;W;Mirage (Common);0
-Albino Trolll;Creature — Troll;G;Urza's Saga (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon);0
+Albino Troll;Creature — Troll;G;Urza's Saga (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon);0
 Alchor's Tomb;Artifact;C;Legends (Rare)/Masters Edition IV (Rare);0
 Aleatory;Instant;R;Mirage (Uncommon);0
 Alert Shu Infantry;Creature — Human Soldier;W;Portal Three Kingdoms (Uncommon);0
@@ -3859,13 +3859,37 @@ Scent of Cinder;Sorcery;R;Urza's Destiny (Common);0
 Scent of Nightshade;Instant;B;Urza's Destiny (Common);0
 Scent of Brine;Instant;U;Urza's Destiny (Common);0
 Scent of Ivy;Instant;G;Urza's Destiny (Common);0
-# Done through card 15360
+# Done through card 15380
+#15767
+Soul Feast;Sorcery;B;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Urza's Destiny (Uncommon)/Tenth Edition (Uncommon)/Starter 1999 (Uncommon);0
+#15768
+Chime of Night;Enchantment — Aura;B;Urza's Destiny (Common);0
+#15772
+Yavimaya Hollow;Legendary Land;C;Urza's Destiny (Rare)/Vintage Masters (Rare);0
+#15784
+Sigil of Sleep;Enchantment — Aura;U;Urza's Destiny (Common)/Duel Decks: Venser vs. Koth (Common);0
+#15786
+Slinking Skirge;Creature — Phyrexian Imp;B;Urza's Destiny (Common);0
 #15875
 Temporal Adept;Creature — Human Wizard;U;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Urza's Destiny (Rare);0
+#15876
+Goblin Berserker;Creature — Goblin Berserker;R;Urza's Destiny (Uncommon);0
+#16424
+Ancient Silverback;Creature — Ape;G;Seventh Edition (Rare)/Ninth Edition (Rare)/Urza's Destiny (Rare)/Magic 2015 Core Set (Uncommon);0
+#18287
+Tormented Angel;Creature — Angel;W;Urza's Destiny (Common);0
+#19095
+Capashen Standard;Enchantment — Aura;W;Urza's Destiny (Common);0
+#19098
+Fatigue;Sorcery;U;Urza's Destiny (Common);0
 #19111
 Thran Foundry;Artifact;C;Urza's Destiny (Uncommon);0
+#19113
+Phyrexian Monitor;Creature — Phyrexian Skeleton;B;Urza's Destiny (Common);0
 #19114
 Twisted Experiment;Enchantment — Aura;B;Urza's Destiny (Common)/Dominaria Remastered (Common);0
+#19239
+Plated Spider;Creature — Spider;G;Urza's Destiny (Common)/Beatdown Box Set (Common);0
 #19595
 Snuff Out;Instant;B;Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Doctor Who Commander (Uncommon);0
 #20404

@@ -52,7 +52,7 @@ def read_decks(deck_format):
                     if deck_line.startswith('//') or deck_line == '':
                         continue
                     deck_card_qty = int(deck_line.split(' ')[0])
-                    deck_card_name = ' '.join(deck_line.split(' ')[1:])
+                    deck_card_name = ' '.join(deck_line.split(' ')[1:]).strip()
                     if deck_card_name not in this_deck:
                         this_deck[deck_card_name] = 0
                     this_deck[deck_card_name] += deck_card_qty
