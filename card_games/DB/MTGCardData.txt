@@ -3884,7 +3884,7 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 16424
+# Done through card 16833 (request)
 #18287
 Tormented Angel;Creature — Angel;W;Urza's Destiny (Common);0
 #19095
@@ -3913,8 +3913,56 @@ Plated Spider;Creature — Spider;G;Urza's Destiny (Common)/Beatdown Box Set (Co
 Sowing Salt;Sorcery;R;Urza's Destiny (Uncommon)/Betrayers of Kamigawa (Uncommon);0
 #19595
 Snuff Out;Instant;B;Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Doctor Who Commander (Uncommon);0
+#19636
+Squall;Sorcery;G;Seventh Edition (Common)/Mercadian Masques (Common)/Starter 1999 (Common)/Masters Edition IV (Uncommon);0
+#20180
+Thunder Dragon;Creature — Dragon;R;Starter 1999 (Rare)/From the Vault: Dragons (Rare)/Masters Edition IV (Rare)/Duel Decks: Knights vs. Dragons (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0
+#20184
+Champion Lancer;Creature — Human Knight;W;Starter 1999 (Rare)/Masters Edition IV (Rare);0
+#20187
+Dakmor Lancer;Creature — Human Knight;B;Seventh Edition (Uncommon)/Starter 1999 (Rare);0
+#20188
+Vizzerdrix;Creature — Rabbit Beast;U;Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Starter 1999 (Rare)/Starter 2000 (Rare);0
+#20196
+Goblin Commando;Creature — Goblin;R;Starter 1999 (Uncommon)/Vintage Masters (Common)/Jumpstart (Uncommon);0
+#20201
+Cinder Storm;Sorcery;R;Starter 1999 (Uncommon)/Masters Edition III (Uncommon)/Masters 25 (Common);0
+#20213
+Goblin Chariot;Creature — Goblin Warrior;R;Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Starter 1999 (Common);0
+#20216
+Goblin Settler;Creature — Goblin;R;Starter 1999 (Uncommon)/Vintage Masters (Uncommon);0
+#20223
+Pride of Lions;Creature — Cat;G;Seventh Edition (Uncommon)/Starter 1999 (Uncommon)/Duel Decks: Ajani vs. Nicol Bolas (Uncommon);0
+#20359
+Grim Tutor;Sorcery;B;Starter 1999 (Rare)/Masters Edition III (Rare)/Core Set 2021 (Mythic Rare);0
+#20363
+Shrieking Specter;Creature — Specter;B;Starter 1999 (Uncommon);0
+#20364
+Stream of Acid;Sorcery;B;Starter 1999 (Uncommon);0
+#20380
+Dakmor Ghoul;Creature — Zombie;B;Starter 1999 (Uncommon);0
+#20390
+Loyal Sentry;Creature — Human Soldier;W;Tenth Edition (Rare)/Starter 1999 (Rare)/Duel Decks: Elspeth vs. Tezzeret (Rare)/Masters 25 (Common);0
+#20391
+Angel of Light;Creature — Angel;W;Starter 1999 (Uncommon)/Masters Edition II (Uncommon);0
+#20394
+Royal Trooper;Creature — Human Soldier;W;Starter 1999 (Uncommon)/Masters Edition II (Common)/Battlebond (Common);0
+#20395
+Devout Monk;Creature — Human Monk Cleric;W;Starter 1999 (Common);0
+#20403
+Veteran Cavalier;Creature — Human Knight;W;Ninth Edition (Common)/Starter 1999 (Uncommon);0
 #20404
 Gush;Instant;U;Mercadian Masques (Common)/Duel Decks: Jace vs. Chandra (Common)/Vintage Masters (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Common);0
+#21031
+Sea Eagle;Creature — Bird;U;Eighth Edition (Common)/Starter 1999 (Common)/Starter 2000 (Common);0
+#21047
+Tidings;Sorcery;U;Ninth Edition (Uncommon)/Tenth Edition (Uncommon)/Starter 1999 (Uncommon)/Commander 2018 (Uncommon);0
+#21051
+Willow Elf;Creature — Elf;G;Starter 1999 (Common)/Starter 2000 (Common);0
+#21056
+Royal Falcon;Creature — Bird;W;Starter 1999 (Common)/Starter 2000 (Common);0
+#21072
+Silverback Ape;Creature — Ape;G;Eighth Edition (Uncommon)/Starter 1999 (Uncommon);0
 #21284
 Daze;Instant;U;Nemesis (Common)/Duel Decks: Jace vs. Chandra (Common)/Duel Decks Anthology, Jace vs. Chandra (Common)/Eternal Masters (Uncommon)/Masterpiece Series: Amonkhet Invocations (Special);0
 #23139

@@ -36,7 +36,9 @@ Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Fastbond;Legacy-Banned/Commander-Banned/Oathbreaker-Banned
 Flash;Legacy-Banned/Vintage-Restricted/Commander-Banned
 Flooded Strand;Pioneer-Banned
+Frantic Search;Legacy-Banned/Pauper-Banned
 Fury;Modern-Banned
+Gaea's Cradle;Urza's Block-Banned
 Gitaxian Probe;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
 Goblin Recruiter;Legacy-Banned
 Golgari Grave-Troll;Modern-Banned/Vintage-Restricted
@@ -86,7 +88,9 @@ Primal Surge;Oathbreaker-Banned
 Ragavan, Nimble Pilferer;Legacy-Banned
 Rebirth;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Recurring Nightmare;Commander-Banned
+Rofellos, Llanowar Emissary;Commander-Banned
 Saheeli, the Gifted;Oathbreaker-Banned
+Serra's Sanctum;Urza's Block-Banned
 Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Simian Spirit Guide;Modern-Banned
 Sinkhole;Pauper-Banned
@@ -100,6 +104,7 @@ Survival of the Fittest;Legacy-Banned
 Sylvan Primordial;Oathbreaker-Banned/Commander-Banned
 Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Thawing Glaciers;Ice Age Block-Banned
+Time Spiral;Urza's Block-Banned
 Time Vault;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Timetwister;Legacy-Banned/Vintage-Restricted
@@ -115,16 +120,11 @@ Upheaval;Oathbreaker-Banned/Commander-Banned
 Urza's Saga;Vintage-Restricted
 Vampiric Tutor;Legacy-Banned/Vintage-Restricted
 Vault of Whispers;Modern-Banned
+Voltaic Key;Urza's Block-Banned
 White Plume Adventurer;Legacy-Banned
+Wilderness Reclamation;Pioneer-Banned
 Windfall;Legacy-Banned/Vintage-Restricted/Urza's Block-Banned
 Wooded Foothills;Pioneer-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
-Gaea's Cradle;Urza's Block-Banned
-Serra's Sanctum;Urza's Block-Banned
-Time Spiral;Urza's Block-Banned
-Voltaic Key;Urza's Block-Banned
-Frantic Search;Legacy-Banned/Pauper-Banned
-Rofellos, Llanowar Emissary;Commander-Banned
-Wilderness Reclamation;Pioneer-Banned

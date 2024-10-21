@@ -360,9 +360,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Urza's Destiny"
-CHECK_AMOUNT = 143
-SET_CHECK += 0 # Extra basic lands
+CHECK_SET = "Starter 1999"
+CHECK_AMOUNT = 173
+SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
