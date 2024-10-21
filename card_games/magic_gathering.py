@@ -343,9 +343,10 @@ def handle_output(format_name, format_dict, dest_fh):
         f"{format_dict['ITEM'][7]} of {format_dict['ITEM'][6]['Legacy']}"
     double_print(purch_str, dest_fh)
 
-    double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
-        f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
-    double_print(str(format_dict['DECKS'][0][2]), dest_fh)
+    if format_name != 'Commander':
+        double_print(f"\nClosest deck to completion ({format_dict['DECKS'][0][0]}) is at " + \
+            f"{format_dict['DECKS'][0][1]} cards.", dest_fh)
+        double_print(str(format_dict['DECKS'][0][2]), dest_fh)
 
     double_print("\nMost needed cards are:", dest_fh)
     for pr_card_tuple in format_dict['NEEDED'][:10]:

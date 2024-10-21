@@ -1,14 +1,14 @@
 Generating a game
-There are 270 different Hero/Aspect combinations, and 29375 different game pairings
-Currently have played 46.3 percent of Hero/Aspects
-There are 53 heroes, 46 different encounters, and 90 different modular encounter sets
+There are 275 different Hero/Aspect combinations, and 30470 different game pairings
+Currently have played 45.5 percent of Hero/Aspects
+There are 54 heroes, 46 different encounters, and 91 different modular encounter sets
 
-Most played hero: Rocket Racoon (18 times). Least: Cable (1)
+Most played hero: Rocket Racoon (18 times). Least: Nightcrawler (0)
 Most played aspect: Justice (56 times). Least: 'Pool (2)
 Most played scenario: Rhino (8 times). Least: Apocalypse (0)
 Most played modular encounter: Ship Command (14 times). Least: Arcade (0)
 
-Heroes/Aspects chosen: 'Pool Cable (0W-0L) and Aggression Angel (0W-0L)
+Heroes/Aspects chosen: 'Pool Nightcrawler (0W-0L) and Aggression Angel (0W-0L)
 Chosen encounter is A Mess of Things/Acolytes Apocalypse (0W-0L)
 
 Total W-L by hero:
@@ -40,6 +40,7 @@ Jubilee                       0 - 1
 Magik                         0 - 1
 Ms. Marvel                    4 - 0
 Nebula                        5 - 2
+Nightcrawler                  0 - 0
 Nova                          2 - 0
 Phoenix                       1 - 1
 Psylocke                      1 - 0

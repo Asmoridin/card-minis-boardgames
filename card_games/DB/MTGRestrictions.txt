@@ -127,3 +127,4 @@ Time Spiral;Urza's Block-Banned
 Voltaic Key;Urza's Block-Banned
 Frantic Search;Legacy-Banned/Pauper-Banned
 Rofellos, Llanowar Emissary;Commander-Banned
+Wilderness Reclamation;Pioneer-Banned
