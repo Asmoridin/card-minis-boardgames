@@ -277,7 +277,7 @@ def validate_types(card_type_string):
         if check_type == '':
             continue
         if check_type in ['Artifact', 'Creature', 'Enchantment', 'Sorcery', "Instant",
-                "Legendary", 'Land', 'Planeswalker', 'Vanguard']:
+                "Legendary", 'Land', 'Planeswalker', 'Vanguard', 'Kindred', 'Scheme']:
             ret_type.append(check_type)
         else:
             print("Unknown type: " + check_type)
@@ -360,8 +360,8 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Starter 1999"
-CHECK_AMOUNT = 173
+CHECK_SET = "Mercadian Masques"
+CHECK_AMOUNT = 350
 SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
@@ -381,7 +381,12 @@ for line in lines:
     if card_name in card_names:
         print(f"Duplicate: {card_name}")
     card_names.add(card_name)
-    card_qty = int(card_qty)
+    try:
+        card_qty = int(card_qty)
+    except ValueError:
+        print("Something wrong with line:")
+        print(line)
+        continue
     card_colors = validate_colors(card_colors)
     card_type = card_type.replace('—', '-')
     card_type, card_subtype = validate_types(card_type)
@@ -399,6 +404,9 @@ for line in lines:
         for card_format in card_formats:
             card_formats[card_format] = 40
         CARD_MAX = 40
+    if 'Scheme' in card_type:
+        card_formats = {'Vintage':1}
+        CARD_MAX = 1
     if 'Vanguard' in card_type:
         card_formats = {'Vintage':1}
         card_sets = ['Vanguard']
@@ -496,14 +504,15 @@ if __name__ == "__main__":
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     double_print("Most common creature types:", out_file_h)
-    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver']
+    USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
+        'Wizard', 'Spider', 'Barbarian']
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
     for creature_tuple in creature_types[:100]:
         double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
-    double_print("If above is 5, we should do a tribal Commander deck", out_file_h)
-    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret']
+    double_print("If above is 7, we should do a tribal Commander deck", out_file_h)
+    remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Forest']
     for remove_type in remove_one_ofs:
         try:
             one_ofs.remove(remove_type)
