@@ -1,9 +1,9 @@
-Tracking 4499 cards.
-Have 479 out of 18068 total cards for a playset - 2.65 percent
+Tracking 4519 cards.
+Have 479 out of 18148 total cards for a playset - 2.64 percent
 
 *** VINTAGE ***
-There are 4499 Vintage legal cards
-Have 476 out of 18011 - 2.64 percent of a playset
+There are 4519 Vintage legal cards
+Have 476 out of 18091 - 2.63 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 4379 Legacy legal cards
-Have 454 out of 17876 - 2.54 percent of a playset
+There are 4399 Legacy legal cards
+Have 454 out of 17956 - 2.53 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1033 Modern legal cards
-Have 332 out of 4492 - 7.39 percent of a playset
+There are 1035 Modern legal cards
+Have 332 out of 4500 - 7.38 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1625 Pauper legal cards
-Have 183 out of 6860 - 2.67 percent of a playset
+There are 1643 Pauper legal cards
+Have 183 out of 6932 - 2.64 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 4388 Oathbreaker legal cards
-Have 426 out of 4778 - 8.92 percent of a playset
+There are 4408 Oathbreaker legal cards
+Have 426 out of 4798 - 8.88 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -206,24 +206,24 @@ There are 614 Urza's Block legal cards
 Have 81 out of 2636 - 3.07 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Defender of Law. I own 0 of 4
 
-Closest deck to completion (ThemeDeck-PhyrexianAssault) is at 37 cards.
-{'Ghitu Encampment': 1, 'Smoldering Crater': 1, 'Spawning Pool': 1, 'Avalanche Riders': 1, 'Bone Shredder': 2, 'Defender of Chaos': 2, 'Fog of Gnats': 1, 'Ghitu Slinger': 2, 'Giant Cockroach': 1, 'Goblin Medics': 2, 'Looming Shade': 1, 'Molten Hydra': 1, 'Phyrexian Broodlings': 1, 'Phyrexian Debaser': 2, 'Phyrexian Defiler': 2, 'Phyrexian Denouncer': 1, 'Phyrexian Plaguelord': 1, 'Tethered Skirge': 1, 'Viashino Cutthroat': 1, 'Viashino Heretic': 1, 'Viashino Runner': 1, 'Expunge': 2, 'Headlong Rush': 1, 'Heat Ray': 1, 'Arc Lightning': 2, 'Corrupt': 1, 'Engineered Plague': 1, 'Phyrexian Reclamation': 1, 'Treacherous Link': 1}
+Closest deck to completion (Bargain Feast) is at 36 cards.
+{'Rain of Filth': 4, 'Unearth': 4, 'Expunge': 4, "Yawgmoth's Will": 4, 'Duress': 4, 'Dark Ritual': 4, 'Soul Feast': 4, "Yawgmoth's Bargain": 4, 'Skirge Familiar': 4}
 
 Most needed cards are:
- - Plains: 66
- - Disenchant: 23
- - Annul: 21
- - Faerie Conclave: 21
- - Treetop Village: 21
- - Miscalculation: 19
- - Remote Isle: 19
- - Powder Keg: 18
- - Treachery: 18
- - Island: 16
+ - Plains: 117
+ - Annul: 40
+ - Mountain: 39
+ - Disenchant: 36
+ - Masticore: 32
+ - Miscalculation: 31
+ - Powder Keg: 31
+ - Faerie Conclave: 30
+ - Island: 30
+ - Treetop Village: 29
 
 *** COMMANDER ***
-There are 4398 Commander legal cards
-Have 427 out of 4788 - 8.92 percent of a playset
+There are 4418 Commander legal cards
+Have 427 out of 4808 - 8.88 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Most needed cards are:
@@ -322,8 +322,8 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 203 total creature types
 Most common creature types:
 - Knight: 76
+- Elf: 73
 - Warrior: 73
-- Elf: 72
 - Phyrexian: 62
 - Spirit: 62
 - Zombie: 59
@@ -332,15 +332,15 @@ Most common creature types:
 - Druid: 46
 - Bird: 44
 - Insect: 44
-- Horror: 37
+- Horror: 39
+- Merfolk: 33
 - Angel: 32
 - Shaman: 32
 - Dragon: 31
 - Giant: 31
-- Merfolk: 31
+- Drake: 30
 - Rogue: 30
 - Cat: 29
-- Drake: 29
 - Wurm: 28
 - Construct: 27
 - Illusion: 26
@@ -354,18 +354,18 @@ Most common creature types:
 - Advisor: 18
 - Orc: 18
 - Demon: 17
+- Faerie: 17
 - Ape: 16
 - Assassin: 16
 - Dwarf: 16
-- Faerie: 16
 - Shapeshifter: 16
 - Treefolk: 16
 - Imp: 15
+- Pirate: 15
 - Rat: 15
 - Vampire: 15
 - Avatar: 14
 - Dog: 14
-- Pirate: 14
 - Plant: 14
 - Berserker: 13
 - Elephant: 13
@@ -386,6 +386,7 @@ Most common creature types:
 - Monk: 10
 - Soltari: 10
 - Spike: 10
+- Mercenary: 9
 - Rebel: 9
 - Troll: 9
 - Dinosaur: 8
@@ -404,8 +405,8 @@ Most common creature types:
 - Specter: 7
 - Thalakos: 7
 - Unicorn: 7
-- Mercenary: 6
 - Ouphe: 6
+- Spellshaper: 6
 - Atog: 5
 - Boar: 5
 - Cyclops: 5
@@ -420,19 +421,38 @@ Most common creature types:
 - Wraith: 5
 - Yeti: 5
 - Basilisk: 4
-- Carrier: 4
 If above is 7, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 23.46
 Pioneer: 14.68
-Commander: 8.92
-Oathbreaker: 8.92
-Modern: 7.39
+Commander: 8.88
+Oathbreaker: 8.88
+Modern: 7.38
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Mirage Block: 2.88
-Pauper: 2.67
-Vintage: 2.64
-Legacy: 2.54
+Pauper: 2.64
+Vintage: 2.63
+Legacy: 2.53
+
+*** URZA'S BLOCK ***
+There are 614 Urza's Block legal cards
+Have 81 out of 2636 - 3.07 percent of a playset
+Chosen card is a(n) Creature from Urza's Legacy - Defender of Law. I own 0 of 4
+
+Closest deck to completion (Bargain Feast) is at 36 cards.
+{'Rain of Filth': 4, 'Unearth': 4, 'Expunge': 4, "Yawgmoth's Will": 4, 'Duress': 4, 'Dark Ritual': 4, 'Soul Feast': 4, "Yawgmoth's Bargain": 4, 'Skirge Familiar': 4}
+
+Most needed cards are:
+ - Plains: 117
+ - Annul: 40
+ - Mountain: 39
+ - Disenchant: 36
+ - Masticore: 32
+ - Miscalculation: 31
+ - Powder Keg: 31
+ - Faerie Conclave: 30
+ - Island: 30
+ - Treetop Village: 29

@@ -17,3 +17,4 @@ Beerus;FB01-002;Cooler;FB01-105;Elias P;W
 Babidi;FB03-078;Zamasu : Fused;FB02-036;Matt P;W
 Son Goku : GT;FB03-104;Son Gohan : Childhood;FB01-071;Matt P;W
 Babidi;FB03-078;Android 17;FB01-070;Elias P;W
+Son Goku : GT;FB03-104;Beerus;FB01-002;Rob M;L

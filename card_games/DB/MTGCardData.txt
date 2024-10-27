@@ -3926,6 +3926,28 @@ Moment of Silence;Instant;W;Mercadian Masques (Common);0
 Waterfront Bouncer;Creature — Merfolk Spellshaper;U;Mercadian Masques (Common)/Vintage Masters (Uncommon);0
 Balloon Peddler;Creature — Human Spellshaper;U;Mercadian Masques (Common);0
 Darting Merfolk;Creature — Merfolk;U;Mercadian Masques (Common);0
+Stinging Barrier;Creature — Wall;U;Mercadian Masques (Common);0
+Port Inspector;Creature — Human;U;Mercadian Masques (Common);0
+Cloud Sprite;Creature — Faerie;U;Mercadian Masques (Common)/Tenth Edition (Common);0
+Saprazzan Raider;Creature — Merfolk;U;Mercadian Masques (Common);0
+Drake Hatchling;Creature — Drake;U;Mercadian Masques (Common);0
+Rishadan Cutpurse;Creature — Human Pirate;U;Mercadian Masques (Common);0
+Blockade Runner;Creature — Merfolk;U;Mercadian Masques (Common);0
+Misstep;Sorcery;U;Mercadian Masques (Common);0
+Tidal Bore;Instant;U;Mercadian Masques (Common);0
+Karn's Touch;Instant;U;Mercadian Masques (Rare);0
+Buoyancy;Enchantment — Aura;U;Mercadian Masques (Common);0
+Customs Depot;Enchantment;U;Mercadian Masques (Uncommon);0
+Diplomatic Immunity;Enchantment — Aura;U;Mercadian Masques (Common);0
+Dehydration;Enchantment — Aura;U;Eighth Edition (Common)/Ninth Edition (Common)/Mercadian Masques (Common)/Tenth Edition (Common);0
+Bog Witch;Creature — Human Spellshaper;B;Mercadian Masques (Common)/Archenemy (Common);0
+Plague Witch;Creature — Elf Spellshaper;B;Nemesis (Common)/Eternal Masters (Common);0
+Cateran Persuader;Creature — Human Mercenary;B;Mercadian Masques (Common);0
+Misshapen Fiend;Creature — Horror Mercenary;B;Mercadian Masques (Common);0
+Cateran Brute;Creature — Horror Mercenary;B;Mercadian Masques (Common);0
+Wall of Distortion;Creature — Wall;B;Mercadian Masques (Common);0
+
+
 # Done through card 19560
 #19595
 Snuff Out;Instant;B;Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Doctor Who Commander (Uncommon);0
