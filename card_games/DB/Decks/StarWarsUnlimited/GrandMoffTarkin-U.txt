@@ -1,40 +1,42 @@
-// Tarkin out da Trash v2 (5-0 Fremont Case Tourney, 5-0 Gamescape Store Showdown)
-// .dec exported on 08/01/2024 14:16:02
+// Top 8 - Jason - NY Flipside Gaming PQ - Copy
+// .dec exported on 10/27/2024 15:58:22
 //
 // Leader and Base
 1	Grand Moff Tarkin, Oversector Governor
-1	Dagobah Swamp
+1	Remote Village
 
 // Ground Units
-3	Cell Block Guard
 3	Darth Vader, Commanding the First Legion
-3	Death Trooper
-3	Gideon Hask, Ruthless Loyalist
-3	Regional Governor
-2	Reinforcement Walker
-3	Seasoned Shoretrooper
+2	Doctor Pershing, Experimenting With Life
+2	Maul, Shadow Collective Visionary
+3	Scanning Officer
+3	Supercommando Squad
 3	Superlaser Technician
-3	Viper Probe Droid
+3	The Client, Dictated By Discretion
 
 // Space Units
-2	Avenger, Hunting Star Destroyer
+3	Avenger, Hunting Star Destroyer
+2	Devastator, Inescapable
 3	Inferno Four, Unforgetting
-2	System Patrol Craft
+2	Lurking TIE Phantom
+2	TIE Advanced
+3	TIE/ln Fighter
 
 // Events
-2	Make an Opening
+2	Confiscate
 3	Overwhelming Barrage
 3	Power of the Dark Side
 2	Resupply
-1	Superlaser Blast
-3	Takedown
-3	Vigilance
+2	Rival's Fall
+2	Takedown
+
+// Upgrades
+2	Traitorous
 
 // Sideboard
-2	Command
-1	Count Dooku, Darth Tyranus
-1	Reinforcement Walker
-2	Relentless, Konstantine's Folly
-1	Superlaser Blast
-1	System Patrol Craft
-2	Vanquish
+2	Choose Sides
+3	Emperor's Royal Guard
+2	Entrenched
+1	Lurking TIE Phantom
+1	Palpatine's Return
+1	Traitorous

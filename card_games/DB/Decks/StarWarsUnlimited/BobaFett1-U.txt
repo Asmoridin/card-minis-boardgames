@@ -1,39 +1,46 @@
-// The Nascent Denouement
-// .dec exported on 06/28/2024 15:54:02
+// Boba Blue by JSanchez BCN PQ Winner
+// .dec exported on 10/27/2024 15:59:32
 //
 // Leader and Base
 1	Boba Fett, Collecting the Bounty
-1	Dagobah Swamp
+1	Remnant Science Facility
 
 // Ground Units
-2	Bib Fortuna, Jabba's Majordomo
-3	Bossk, Deadly Stalker
-3	Greedo, Slow on the Draw
+3	Bazine Netal, Spy for the First Order
+3	Bounty Hunter Crew
+2	Cloud-Rider
+3	Doctor Pershing, Experimenting With Life
+2	Lom Pyke, Dealer in Truths
+2	Supreme Leader Snoke, Shadow Ruler
+1	Tech, Source of Insight
+2	The Client, Dictated By Discretion
 
 // Space Units
-3	Avenger, Hunting Star Destroyer
-2	Cartel Spacer
-3	Inferno Four, Unforgetting
-2	Seventh Fleet Defender
-3	System Patrol Craft
+2	Inferno Four, Unforgetting
+1	Pirated Starfighter
 
 // Events
-3	I Am Your Father
-2	Make an Opening
-3	No Good to Me Dead
+2	Calculated Lethality
+3	Fell the Dragon
+2	Ma Klounkee
+3	Make an Opening
+2	No Good to Me Dead
 3	Power of the Dark Side
 1	Restock
-3	Superlaser Blast
+2	Superlaser Blast
 3	Takedown
 2	Vanquish
-3	Vigilance
-3	Waylay
+1	Vigilance
 
 // Upgrades
-3	Entrenched
+2	Boba Fett's Armor
+3	Enticing Reward
+2	Top Target
 
 // Sideboard
-2	Bounty Hunter Crew
-3	Devotion
-2	Search Your Feelings
-2	Spark of Rebellion
+2	Avenger, Hunting Star Destroyer
+3	Seventh Fleet Defender
+1	Superlaser Blast
+1	The Client, Dictated By Discretion
+1	Vanquish
+2	Vigilance

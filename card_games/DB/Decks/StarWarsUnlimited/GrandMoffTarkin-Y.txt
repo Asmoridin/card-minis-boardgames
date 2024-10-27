@@ -1,45 +1,40 @@
-// Tarkin Yellow EJV.1
-// .dec exported on 08/01/2024 14:16:34
+// Challenger Tarkin
+// .dec exported on 10/27/2024 15:59:51
 //
 // Leader and Base
 1	Grand Moff Tarkin, Oversector Governor
-1	Coronet City
+1	Chopper Base
 
 // Ground Units
-1	97th Legion, Keeping the Peace on Sullust
-1	Admiral Motti, Brazen and Scornful
-1	Bazine Netal, Spy for the First Order
-2	Bossk, Deadly Stalker
-2	Bounty Hunter Crew
-2	Cell Block Guard
-2	Colonel Yularen, ISB Director
-2	Crosshair, Following Orders
-2	Frontier Trader
-2	General Tagge, Concerned Commander
-2	General Veers, Blizzard Force Commander
-1	Grand Moff Tarkin, Death Star Overseer
-1	Incinerator Trooper
-1	Kragan Gorr, Warbird Captain
-1	Rukh, Thrawn's Assassin
-2	Snowtrooper Lieutenant
-2	Superlaser Technician
+1	AT-ST
+3	Bazine Netal, Spy for the First Order
+3	Incinerator Trooper
+3	ISB Agent
+3	Phase-III Dark Trooper
+1	Reinforcement Walker
+3	Snowtrooper Lieutenant
+2	Viper Probe Droid
 
 // Space Units
-2	Black Sun Starfighter
-2	Gideon's Light Cruiser, Dark Troopers' Station
-2	Lurking TIE Phantom
-2	Outland TIE Vanguard
-1	Strafing Gunship
+1	Chimaera, Flagship of the Seventh Fleet
+3	Lurking TIE Phantom
+3	Outland TIE Vanguard
+1	Relentless, Konstantine's Folly
+2	Seventh Fleet Defender
 3	TIE Advanced
+2	TIE/ln Fighter
 
 // Events
-2	Asteroid Sanctuary
-1	No Bargain
-2	Outflank
-1	Overwhelming Barrage
-2	Shoot First
+1	I Am Your Father
+3	No Good to Me Dead
+3	Overwhelming Barrage
+3	Surprise Strike
+3	Swoop Down
+3	Triple Dark Raid
 
-// Upgrades
-2	Frozen in Carbonite
-2	Hardpoint Heavy Blaster
-1	Snapshot Reflexes
+// Sideboard
+2	Chimaera, Flagship of the Seventh Fleet
+1	Cloud-Rider
+3	Confiscate
+2	I Am Your Father
+2	Relentless, Konstantine's Folly
