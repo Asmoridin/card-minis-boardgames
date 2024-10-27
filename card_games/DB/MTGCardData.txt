@@ -3946,13 +3946,101 @@ Cateran Persuader;Creature — Human Mercenary;B;Mercadian Masques (Common);0
 Misshapen Fiend;Creature — Horror Mercenary;B;Mercadian Masques (Common);0
 Cateran Brute;Creature — Horror Mercenary;B;Mercadian Masques (Common);0
 Wall of Distortion;Creature — Wall;B;Mercadian Masques (Common);0
-
-
-# Done through card 19560
-#19595
+Alley Grifters;Creature — Human Mercenary;B;Mercadian Masques (Common);0
+Highway Robber;Creature — Human Mercenary;B;Ninth Edition (Common)/Mercadian Masques (Common)/Tenth Edition (Common)/Duel Decks: Jace vs. Vraska (Common);0
+Rampart Crawler;Creature — Lizard Mercenary;B;Mercadian Masques (Common);0
+Deepwood Ghoul;Creature — Zombie;B;Eighth Edition (Common)/Mercadian Masques (Common);0
+Skulking Fugitive;Creature — Horror Mercenary;B;Mercadian Masques (Common);0
+Vendetta;Instant;B;Mercadian Masques (Common)/Rise of the Eldrazi (Common);0
+Insubordination;Enchantment — Aura;B;Mercadian Masques (Common);0
+Sever Soul;Sorcery;B;Eighth Edition (Uncommon)/Mercadian Masques (Common);0
+Soul Channeling;Enchantment — Aura;B;Mercadian Masques (Common);0
+Maggot Therapy;Enchantment — Aura;B;Mercadian Masques (Common);0
 Snuff Out;Instant;B;Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Doctor Who Commander (Uncommon);0
-#19636
+Ghoul's Feast;Instant;B;Mercadian Masques (Uncommon)/Duel Decks: Izzet vs. Golgari (Uncommon)/Jumpstart 2022 (Common);0
+Specter's Wail;Sorcery;B;Mercadian Masques (Common);0
+Bog Smugglers;Creature — Human Mercenary;B;Mercadian Masques (Common);0
+Flailing Soldier;Creature — Human Soldier;R;Mercadian Masques (Common);0
+Ceremonial Guard;Creature — Human Soldier;R;Mercadian Masques (Common);0
+Kyren Glider;Creature — Goblin;R;Mercadian Masques (Common);0
+Wild Jhovall;Creature — Cat;R;Mercadian Masques (Common);0
+Kyren Sniper;Creature — Goblin;R;Mercadian Masques (Common);0
+Battle Rampart;Creature — Wall;R;Mercadian Masques (Common)/Rise of the Eldrazi (Common)/Battlebond (Common);0
+Cinder Elemental;Creature — Elemental;R;Mercadian Masques (Uncommon)/Planechase (Uncommon)/Gatecrash (Uncommon)/Jumpstart (Uncommon);0
+Shock Troops;Creature — Human Soldier;R;Eighth Edition (Common)/Mercadian Masques (Common);0
+Cavern Crawler;Creature — Insect;R;Mercadian Masques (Common);0
+Sizzle;Sorcery;R;Eighth Edition (Common)/Mercadian Masques (Common);0
+Flaming Sword;Enchantment — Aura;R;Mercadian Masques (Common);0
+Thunderclap;Instant;R;Mercadian Masques (Common);0
+Crash;Instant;R;Mercadian Masques (Common);0
+Lunge;Instant;R;Mercadian Masques (Common);0
+Lightning Hounds;Creature — Dog;R;Mercadian Masques (Common);0
+War Cadence;Enchantment;R;Mercadian Masques (Uncommon)/Commander 2013 Edition (Uncommon);0
+Cave Sense;Enchantment — Aura;R;Mercadian Masques (Common);0
+Deepwood Drummer;Creature — Human Spellshaper;G;Mercadian Masques (Common);0
+Rushwood Herbalist;Creature — Human Spellshaper;G;Mercadian Masques (Common);0
+Deepwood Wolverine;Creature — Wolverine;G;Mercadian Masques (Common);0
+Vine Trellis;Creature — Plant Wall;G;Eighth Edition (Common)/Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common);0
+Venomous Dragonfly;Creature — Insect;G;Mercadian Masques (Common);0
+Snorting Gahr;Creature — Rhino Beast;G;Mercadian Masques (Common);0
+Rushwood Dryad;Creature — Dryad;G;Eighth Edition (Common)/Mercadian Masques (Common)/Tenth Edition (Common);0
+Horned Troll;Creature — Troll;G;Eighth Edition (Common)/Mercadian Masques (Common);0
+Silverglade Elemental;Creature — Elemental;G;Mercadian Masques (Common)/Planechase (Common);0
+Howling Wolf;Creature — Wolf;G;Mercadian Masques (Common)/Magic: The Gathering—Conspiracy (Common);0
+Land Grant;Sorcery;G;Mercadian Masques (Common);0
+Ancestral Mask;Enchantment — Aura;G;Mercadian Masques (Common)/Eternal Masters (Uncommon)/Historic Anthology 2 (Uncommon)/Wilds of Eldraine Commander (Common);0
+Tiger Claws;Enchantment — Aura;G;Mercadian Masques (Common);0
 Squall;Sorcery;G;Seventh Edition (Common)/Mercadian Masques (Common)/Starter 1999 (Common)/Masters Edition IV (Uncommon);0
+Ferocity;Enchantment — Aura;G;Mercadian Masques (Common);0
+Invigorate;Instant;G;Mercadian Masques (Common)/Duel Decks: Garruk vs. Liliana (Common)/Magic: The Gathering-Commander (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Eternal Masters (Uncommon)/Masters 25 (Uncommon)/Double Masters (Uncommon)/Game Night: Free-For-All (Uncommon);0
+Revive;Sorcery;G;Eighth Edition (Uncommon)/Mercadian Masques (Uncommon)/Magic 2013 (Uncommon)/Modern Masters 2017 Edition (Common);0
+Remote Farm;Land;C;Mercadian Masques (Common);0
+Saprazzan Skerry;Land;C;Mercadian Masques (Common);0
+Peat Bog;Land;C;Mercadian Masques (Common);0
+Sandstone Needle;Land;C;Mercadian Masques (Common);0
+Hickory Woodlot;Land;C;Mercadian Masques (Common);0
+Cho-Arrim Alchemist;Creature — Human Spellshaper;W;Mercadian Masques (Rare);0
+Ramosian Sky Marshal;Creature — Human Rebel;W;Mercadian Masques (Rare);0
+Cho-Arrim Bruiser;Creature — Ogre Rebel;W;Mercadian Masques (Rare);0
+Reverent Mantra;Instant;W;Mercadian Masques (Rare);0
+Jhovall Queen;Creature — Cat Rebel;W;Mercadian Masques (Rare);0
+Security Detail;Enchantment;W;Mercadian Masques (Rare);0
+Ivory Mask;Enchantment;W;Eighth Edition (Rare)/Ninth Edition (Rare)/Mercadian Masques (Rare);0
+Spiritual Focus;Enchantment;W;Mercadian Masques (Rare);0
+Wave of Reckoning;Sorcery;W;Mercadian Masques (Rare)/Commander 2016 (Rare);0
+Armistice;Enchantment;W;Mercadian Masques (Rare)/Commander 2014 (Rare);0
+Cornered Market;Enchantment;W;Mercadian Masques (Rare);0
+Crackdown;Enchantment;W;Mercadian Masques (Rare)/Mystery Booster 2: Convention Edition (Rare);0
+Common Cause;Enchantment;W;Mercadian Masques (Rare);0
+Overtaker;Creature — Merfolk Spellshaper;U;Mercadian Masques (Rare)/Promo set for Gatherer (Rare);0
+Aerial Caravan;Creature — Human Soldier;U;Mercadian Masques (Rare);0
+Sand Squid;Creature — Squid Beast;U;Mercadian Masques (Rare);0
+Saprazzan Bailiff;Creature — Merfolk;U;Mercadian Masques (Rare);0
+Rishadan Brigand;Creature — Human Pirate;U;Mercadian Masques (Rare);0
+Saprazzan Breaker;Creature — Beast;U;Mercadian Masques (Uncommon);0
+Saprazzan Heir;Creature — Merfolk;U;Mercadian Masques (Rare);0
+Extravagant Spirit;Creature — Spirit;U;Mercadian Masques (Rare);0
+Tidal Kraken;Creature — Kraken;U;Eighth Edition (Rare)/Ninth Edition (Rare)/Mercadian Masques (Rare);0
+Trade Routes;Enchantment;U;Eighth Edition (Rare)/Ninth Edition (Rare)/Mercadian Masques (Rare);0
+Statecraft;Enchantment;U;Mercadian Masques (Rare);0
+Shoving Match;Instant;U;Mercadian Masques (Uncommon);0
+Embargo;Enchantment;U;Mercadian Masques (Rare);0
+Catapult Master;Creature — Human Soldier;W;Onslaught (Rare)/Duel Decks: Elspeth vs. Tezzeret (Rare);0
+Misdirection;Instant;U;Mercadian Masques (Rare)/Magic: The Gathering—Conspiracy (Rare)/Duel Decks: Merfolk vs. Goblins (Rare);0
+Cowardice;Enchantment;U;Eighth Edition (Rare)/Ninth Edition (Rare)/Mercadian Masques (Rare);0
+Squeeze;Enchantment;U;Mercadian Masques (Rare);0
+Strongarm Thug;Creature — Human Mercenary;B;Mercadian Masques (Uncommon);0
+Cateran Enforcer;Creature — Horror Mercenary;B;Mercadian Masques (Uncommon);0
+Cateran Slaver;Creature — Horror Mercenary;B;Mercadian Masques (Rare);0
+Silent Assassin;Creature — Human Mercenary Assassin;B;Mercadian Masques (Rare);0
+Nether Spirit;Creature — Spirit;B;Mercadian Masques (Rare)/Modern Horizons (Rare);0
+Notorious Assassin;Creature — Human Spellshaper Assassin;B;Mercadian Masques (Rare);0
+Coral Net;Enchantment — Aura;U;Torment (Common);0
+Delraich;Creature — Horror;B;Mercadian Masques (Rare);0
+Cateran Overlord;Creature — Horror Mercenary;B;Mercadian Masques (Rare);0
+Instigator;Creature — Human Spellshaper;B;Mercadian Masques (Rare);0
+Rouse;Instant;B;Mercadian Masques (Common);0
+# Done through card 19700
 #20180
 Thunder Dragon;Creature — Dragon;R;Starter 1999 (Rare)/From the Vault: Dragons (Rare)/Masters Edition IV (Rare)/Duel Decks: Knights vs. Dragons (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0
 #20184

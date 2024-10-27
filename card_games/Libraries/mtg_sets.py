@@ -54,6 +54,7 @@ LEGACY_SETS = ["Limited Edition Alpha", "Limited Edition Beta", "Unlimited Editi
     "From the Vault: Transform", "Ravnica Allegiance Mythic Edition", "Stronghold", "Scourge",
     "Duskmourn: House of Horror Commander", "Signature Spellbook: Gideon", "From the Vault: Lore",
     "Ugin's Fate promos", "Planeshift", "From the Vault: Legends",
+    "Mystery Booster 2: Convention Edition"
     ]
 
 NON_SETS = ['Unglued', "Unhinged", "Unstable", "Unsanctioned", 'Vanguard']

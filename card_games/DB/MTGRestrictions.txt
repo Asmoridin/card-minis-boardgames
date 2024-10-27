@@ -129,3 +129,4 @@ Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
 Tree of Tales;Modern-Banned
+Invigorate;Pauper-Banned
