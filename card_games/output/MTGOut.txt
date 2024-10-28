@@ -1,9 +1,9 @@
-Tracking 4611 cards.
-Have 479 out of 18516 total cards for a playset - 2.59 percent
+Tracking 4628 cards.
+Have 479 out of 18584 total cards for a playset - 2.58 percent
 
 *** VINTAGE ***
-There are 4611 Vintage legal cards
-Have 476 out of 18459 - 2.58 percent of a playset
+There are 4628 Vintage legal cards
+Have 476 out of 18527 - 2.57 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 4491 Legacy legal cards
-Have 454 out of 18324 - 2.48 percent of a playset
+There are 4508 Legacy legal cards
+Have 454 out of 18392 - 2.47 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1052 Modern legal cards
-Have 332 out of 4568 - 7.27 percent of a playset
+There are 1056 Modern legal cards
+Have 332 out of 4584 - 7.24 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -122,9 +122,9 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 4500 Oathbreaker legal cards
-Have 426 out of 4890 - 8.71 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
+There are 4517 Oathbreaker legal cards
+Have 426 out of 4907 - 8.68 percent of a playset
+Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
 {'Victimize': 1, 'Battlefly Swarm': 1, 'Caustic Caterpillar': 1, 'Grist, Voracious Larva': 1, 'Blightbeetle': 1, 'Brain Maggot': 1, 'Dross Hopper': 1, 'Circle of Dreams Druid': 1, 'Honest Rutstein': 1, 'Hornet Nest': 1, 'Nantuko Elder': 1, 'Stinging Cave Crawler': 1, 'Bane of the Living': 1, 'Roaming Throne': 1, "Amzu, Swarm's Hunger": 1, 'Ant Queen': 1, 'Crash of Rhino Beetles': 1, 'Zask, Skittering Swarmlord': 1, 'Nyxbloom Ancient': 1, 'Living Hive': 1, 'Culling the Weak': 1, 'Songs of the Damned': 1, 'Veil of Summer': 1, 'Gravepurge': 1, 'Unearth': 1, 'Demonic Tutor': 1, 'Skyshroud Claim': 1, 'Sol Talisman': 1, 'Cloud Key': 1, 'Crucible of Worlds': 1, 'Coat of Arms': 1, 'Insidious Roots': 1, 'Growing Rites of Itlimoc': 1, 'The Hunger Tide Rises': 1, 'Doubling Season': 1, 'Cavern of Souls': 1, 'Overgrown Tomb': 1, 'Three Tree City': 1, 'Unclaimed Territory': 1}
@@ -221,20 +221,40 @@ Most needed cards are:
  - Island: 30
  - Treetop Village: 29
 
+*** PAUPER COMMANDER ***
+There are 2334 Pauper Commander legal cards
+Have 203 out of 2724 - 7.45 percent of a playset
+Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
+
+Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
+{'Cloakwood Hermit': 1, 'Sivriss, Nightmare Speaker': 1, 'Accursed Marauder': 1, 'Basilica Screecher': 1, 'Cadaver Imp': 1, 'Chain Devil': 1, 'Corrupted Conviction': 1, 'Creeping Bloodsucker': 1, 'Crypt Rats': 1, 'Deadly Dispute': 1, "Demon's Disciple": 1, 'Dimir House Guard': 1, 'Drey Keeper': 1, 'Drown in Sorrow': 1, 'Dusk Legion Zealot': 1, 'Elves of Deep Shadow': 1, 'Elvish Mystic': 1, 'Elvish Visionary': 1, 'Emergency Weld': 1, "Eviscerator's Insight": 1, 'Evolution Witness': 1, 'Extract a Confession': 1, 'Faerie Macabre': 1, 'Fanatical Offering': 1, 'Feign Death': 1, 'Final Flourish': 1, 'Fleshbag Marauder': 1, 'Fungal Fortitude': 1, 'Fyndhorn Elves': 1, 'Generous Ent': 1, 'Golgari Brownscale': 1, 'Greedy Freebooter': 1, 'Haunted Mire': 1, 'Land Grant': 1, 'Llanowar Elves': 1, 'Loathsome Curator': 1, 'Many Partings': 1, 'Mephitic Draught': 1, 'Mirkwood Bats': 1, "Nadier's Nightblade": 1, 'Oubliette': 1, 'Phyrexian Rager': 1, 'Quirion Ranger': 1, "Reckoner's Bargain": 1, 'Revive the Shire': 1, 'Rubblebelt Maverick': 1, 'Season of Renewal': 1, 'Shambling Ghast': 1, 'Slice from the Shadows': 1, 'Snuff Out': 1, 'Spore Frog': 1, 'Supernatural Stamina': 1, 'Tithing Blade': 1, 'Tortured Existence': 1, 'Undertaker': 1, 'Undying Evil': 1, 'Undying Malice': 1, 'Unearth': 1, 'Urborg Repossession': 1, 'Vault Plunderer': 1, 'Village Rites': 1, 'Voracious Varmint': 1, 'Vulturous Aven': 1, 'Wirewood Herald': 1, "Witch's Cauldron": 1, 'Wither and Bloom': 1, 'Woodland Chasm': 1}
+
+Most needed cards are:
+ - Snow-Covered Island: 62
+ - Snow-Covered Swamp: 39
+ - Snow-Covered Forest: 31
+ - Plains: 18
+ - Snow-Covered Mountain: 17
+ - Island: 8
+ - Arcane Denial: 6
+ - Dispel: 6
+ - Echoing Truth: 6
+ - Aether Spellbomb: 5
+
 *** COMMANDER ***
-There are 4510 Commander legal cards
-Have 427 out of 4900 - 8.71 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
+There are 4527 Commander legal cards
+Have 427 out of 4917 - 8.68 percent of a playset
+Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
  - Plains: 617
  - Island: 209
- - Mountain: 194
+ - Mountain: 206
  - Forest: 109
  - Snow-Covered Plains: 91
  - Snow-Covered Mountain: 74
  - Snow-Covered Island: 67
- - Ancient Tomb: 54
+ - Ancient Tomb: 55
  - Swiftfoot Boots: 53
  - Snow-Covered Swamp: 48
 
@@ -329,25 +349,25 @@ Most common creature types:
 - Zombie: 60
 - Elemental: 55
 - Beast: 49
+- Insect: 47
 - Druid: 46
-- Insect: 46
 - Bird: 44
 - Horror: 44
 - Merfolk: 36
 - Angel: 32
+- Dragon: 32
 - Shaman: 32
 - Cat: 31
-- Dragon: 31
 - Giant: 31
 - Drake: 30
 - Rogue: 30
 - Wurm: 28
 - Construct: 27
 - Illusion: 26
-- Lizard: 24
+- Lizard: 25
 - Archer: 23
 - Golem: 23
-- Minion: 22
+- Minion: 23
 - Scout: 22
 - Snake: 20
 - Djinn: 19
@@ -358,11 +378,11 @@ Most common creature types:
 - Demon: 17
 - Faerie: 17
 - Ape: 16
+- Dog: 16
 - Dwarf: 16
 - Pirate: 16
 - Shapeshifter: 16
 - Treefolk: 16
-- Dog: 15
 - Imp: 15
 - Plant: 15
 - Rat: 15
@@ -373,12 +393,12 @@ Most common creature types:
 - Ogre: 13
 - Serpent: 13
 - Skeleton: 13
+- Spellshaper: 13
 - Efreet: 12
 - Griffin: 12
 - Horse: 12
 - Minotaur: 12
 - Rebel: 12
-- Spellshaper: 12
 - Artificer: 11
 - Bear: 11
 - Fungus: 11
@@ -426,13 +446,14 @@ If above is 7, we should do a tribal Commander deck
 Percentages ordered by format:
 Standard: 23.46
 Pioneer: 14.64
-Commander: 8.71
-Oathbreaker: 8.71
-Modern: 7.27
+Commander: 8.68
+Oathbreaker: 8.68
+Pauper Commander: 7.45
+Modern: 7.24
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Mirage Block: 2.88
-Vintage: 2.58
+Vintage: 2.57
 Pauper: 2.57
-Legacy: 2.48
+Legacy: 2.47

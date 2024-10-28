@@ -4040,6 +4040,28 @@ Delraich;Creature — Horror;B;Mercadian Masques (Rare);0
 Cateran Overlord;Creature — Horror Mercenary;B;Mercadian Masques (Rare);0
 Instigator;Creature — Human Spellshaper;B;Mercadian Masques (Rare);0
 Rouse;Instant;B;Mercadian Masques (Common);0
+Conspiracy;Enchantment;B;Mercadian Masques (Rare)/Time Spiral "Timeshifted" (Special)/Assassin's Creed (Rare);0
+Extortion;Sorcery;B;Mercadian Masques (Rare);0
+Haunted Crossroads;Enchantment;B;Mercadian Masques (Uncommon);0
+Unnatural Hunger;Enchantment — Aura;B;Mercadian Masques (Rare);0
+Liability;Enchantment;B;Mercadian Masques (Rare);0
+Midnight Ritual;Sorcery;B;Mercadian Masques (Rare)/Tenth Edition (Rare);0
+Hammer Mage;Creature — Human Spellshaper;R;Mercadian Masques (Uncommon);0
+Flailing Manticore;Creature — Manticore;R;Mercadian Masques (Rare);0
+Two-Headed Dragon;Creature — Dragon;R;Eighth Edition (Rare)/Mercadian Masques (Rare)/From the Vault: Dragons (Rare)/Archenemy (Rare);0
+Battle Squadron;Creature — Goblin;R;Mercadian Masques (Rare)/Eternal Masters (Uncommon)/Duel Decks: Merfolk vs. Goblins (Uncommon)/Jumpstart: Historic Horizons (Uncommon)/Jumpstart 2022 (Uncommon);0
+Crag Saurian;Creature — Lizard;R;Mercadian Masques (Rare);0
+Blood Hound;Creature — Dog;R;Mercadian Masques (Rare);0
+Corrupt Official;Creature — Human Minion;B;Mercadian Masques (Rare);0
+Squee, Goblin Nabob;Legendary Creature — Goblin;R;Mercadian Masques (Rare)/Tenth Edition (Rare)/Modern Masters (Rare)/Ultimate Masters (Rare)/Commander 2019 (Rare)/Commander Masters (Uncommon)/Mystery Booster 2: Convention Edition (Rare);0
+Territorial Dispute;Enchantment;R;Mercadian Masques (Rare);0
+Robber Fly;Creature — Insect;R;Mercadian Masques (Uncommon);0
+Tectonic Break;Sorcery;R;Mercadian Masques (Rare);0
+
+
+
+
+
 # Done through card 19700
 #20180
 Thunder Dragon;Creature — Dragon;R;Starter 1999 (Rare)/From the Vault: Dragons (Rare)/Masters Edition IV (Rare)/Duel Decks: Knights vs. Dragons (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0

@@ -137,7 +137,7 @@ def parse_restrictions(restr_lines):
             this_format, bnr = restriction.split('-')
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
-                    'Tempest Block', "Urza's Block"]:
+                    'Tempest Block', "Urza's Block", "Pauper Commander"]:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -223,6 +223,7 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
         ret_formats['Pauper'] = 4
+        ret_formats['Pauper Commander'] = 1
     if card_restrictions:
         for restriction_format, restriction_bnr in card_restrictions.items():
             if restriction_bnr == 'Banned':
@@ -340,7 +341,7 @@ def handle_output(format_name, format_dict, dest_fh):
 
     purch_str = f"Chosen card is a(n) {format_dict['FILTERED']['type']} from " + \
         f"{format_dict['FILTERED']['set']} - {format_dict['FILTERED']['name']}. I own " + \
-        f"{format_dict['ITEM'][7]} of {format_dict['ITEM'][6]['Legacy']}"
+        f"{format_dict['ITEM'][7]} of {format_dict['ITEM'][6][format_name]}"
     double_print(purch_str, dest_fh)
 
     if format_name != 'Commander':
@@ -412,6 +413,8 @@ for line in lines:
         card_sets = ['Vanguard']
         card_rarites = ['Special']
         CARD_MAX = 1
+    if 'Creature' in card_type and 'Uncommon' in card_rarities:
+        card_formats['Pauper Commander'] = 1
     TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_qty
     raw_list.append((card_name, card_type, card_subtype, card_colors, card_sets, card_rarities, \
@@ -478,6 +481,10 @@ if __name__ == "__main__":
     # Urza's Block
     urz_dict = process_formats("Urza's Block")
     handle_output("Urza's Block", urz_dict, out_file_h)
+
+    # Pauper Commander
+    paup_comm = process_formats("Pauper Commander")
+    handle_output("Pauper Commander", paup_comm, out_file_h)
 
     # Commander
     comm_dict = process_formats("Commander")

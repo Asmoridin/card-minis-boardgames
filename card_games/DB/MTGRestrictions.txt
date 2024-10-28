@@ -83,7 +83,7 @@ Painter's Servant;Oathbreaker-Banned
 Peregrine Drake;Pauper-Banned
 Polluted Delta;Pioneer-Banned
 Ponder;Modern-Banned
-Pradesh Gypsies;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned/Oathbreaker-Banned
+Pradesh Gypsies;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned/Oathbreaker-Banned/Pauper Commander-Banned
 Primal Surge;Oathbreaker-Banned
 Ragavan, Nimble Pilferer;Legacy-Banned
 Rebirth;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
@@ -96,7 +96,7 @@ Simian Spirit Guide;Modern-Banned
 Sinkhole;Pauper-Banned
 Sol Ring;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned
 Squandered Resources;Mirage Block-Banned
-Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned/Oathbreaker-Banned
+Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned/Oathbreaker-Banned/Pauper Commander-Banned
 Strip Mine;Legacy-Banned/Vintage-Restricted
 Summer Bloom;Modern-Banned
 Sundering Titan;Oathbreaker-Banned/Commander-Banned
