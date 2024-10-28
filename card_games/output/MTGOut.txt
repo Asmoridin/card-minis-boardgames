@@ -1,9 +1,9 @@
-Tracking 4628 cards.
-Have 479 out of 18584 total cards for a playset - 2.58 percent
+Tracking 4730 cards.
+Have 479 out of 18992 total cards for a playset - 2.52 percent
 
 *** VINTAGE ***
-There are 4628 Vintage legal cards
-Have 476 out of 18527 - 2.57 percent of a playset
+There are 4730 Vintage legal cards
+Have 476 out of 18935 - 2.51 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 4508 Legacy legal cards
-Have 454 out of 18392 - 2.47 percent of a playset
+There are 4610 Legacy legal cards
+Have 454 out of 18800 - 2.41 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1056 Modern legal cards
-Have 332 out of 4584 - 7.24 percent of a playset
+There are 1070 Modern legal cards
+Have 332 out of 4640 - 7.16 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -62,8 +62,8 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 359 Pioneer legal cards
-Have 263 out of 1796 - 14.64 percent of a playset
+There are 362 Pioneer legal cards
+Have 263 out of 1808 - 14.55 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1693 Pauper legal cards
-Have 183 out of 7132 - 2.57 percent of a playset
+There are 1701 Pauper legal cards
+Have 183 out of 7164 - 2.55 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 4517 Oathbreaker legal cards
-Have 426 out of 4907 - 8.68 percent of a playset
+There are 4619 Oathbreaker legal cards
+Have 426 out of 5009 - 8.50 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -222,8 +222,8 @@ Most needed cards are:
  - Treetop Village: 29
 
 *** PAUPER COMMANDER ***
-There are 2334 Pauper Commander legal cards
-Have 203 out of 2724 - 7.45 percent of a playset
+There are 2372 Pauper Commander legal cards
+Have 203 out of 2762 - 7.35 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -242,8 +242,8 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 4527 Commander legal cards
-Have 427 out of 4917 - 8.68 percent of a playset
+There are 4629 Commander legal cards
+Have 427 out of 5019 - 8.51 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
@@ -339,68 +339,69 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 
 
 *** OTHER DATA ***
-203 total creature types
+205 total creature types
 Most common creature types:
 - Knight: 76
 - Elf: 73
 - Warrior: 73
-- Spirit: 64
+- Spirit: 65
 - Phyrexian: 62
 - Zombie: 60
+- Beast: 55
 - Elemental: 55
-- Beast: 49
-- Insect: 47
+- Insect: 48
 - Druid: 46
+- Horror: 46
 - Bird: 44
-- Horror: 44
-- Merfolk: 36
+- Merfolk: 37
+- Dragon: 33
 - Angel: 32
-- Dragon: 32
+- Giant: 32
 - Shaman: 32
 - Cat: 31
-- Giant: 31
 - Drake: 30
 - Rogue: 30
-- Wurm: 28
+- Wurm: 29
 - Construct: 27
-- Illusion: 26
-- Lizard: 25
+- Illusion: 27
+- Lizard: 27
 - Archer: 23
 - Golem: 23
 - Minion: 23
+- Mercenary: 22
 - Scout: 22
+- Djinn: 20
 - Snake: 20
-- Djinn: 19
-- Mercenary: 19
 - Advisor: 18
 - Assassin: 18
 - Orc: 18
+- Pirate: 18
+- Spellshaper: 18
 - Demon: 17
 - Faerie: 17
 - Ape: 16
 - Dog: 16
 - Dwarf: 16
-- Pirate: 16
 - Shapeshifter: 16
 - Treefolk: 16
 - Imp: 15
 - Plant: 15
 - Rat: 15
+- Rebel: 15
 - Vampire: 15
 - Avatar: 14
+- Ogre: 14
 - Berserker: 13
 - Elephant: 13
-- Ogre: 13
+- Griffin: 13
+- Horse: 13
+- Minotaur: 13
 - Serpent: 13
 - Skeleton: 13
-- Spellshaper: 13
 - Efreet: 12
-- Griffin: 12
-- Horse: 12
-- Minotaur: 12
-- Rebel: 12
 - Artificer: 11
 - Bear: 11
+- Dryad: 11
 - Fungus: 11
 - Licid: 11
 - Nightstalker: 11
@@ -410,14 +411,14 @@ Most common creature types:
 - Soltari: 10
 - Spike: 10
 - Troll: 10
-- Dryad: 9
+- Fish: 9
+- Shade: 9
 - Wolf: 9
 - Dinosaur: 8
-- Fish: 8
 - Frog: 8
 - Noble: 8
 - Nomad: 8
-- Shade: 8
+- Unicorn: 8
 - Elder: 7
 - Gnome: 7
 - Kobold: 7
@@ -425,10 +426,9 @@ Most common creature types:
 - Ranger: 7
 - Specter: 7
 - Thalakos: 7
-- Unicorn: 7
+- Boar: 6
 - Ouphe: 6
 - Atog: 5
-- Boar: 5
 - Cyclops: 5
 - Gargoyle: 5
 - Homarid: 5
@@ -445,15 +445,15 @@ If above is 7, we should do a tribal Commander deck
 
 Percentages ordered by format:
 Standard: 23.46
-Pioneer: 14.64
-Commander: 8.68
-Oathbreaker: 8.68
-Pauper Commander: 7.45
-Modern: 7.24
+Pioneer: 14.55
+Commander: 8.51
+Oathbreaker: 8.50
+Pauper Commander: 7.35
+Modern: 7.16
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Mirage Block: 2.88
-Vintage: 2.57
-Pauper: 2.57
-Legacy: 2.47
+Pauper: 2.55
+Vintage: 2.51
+Legacy: 2.41

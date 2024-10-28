@@ -4057,12 +4057,108 @@ Squee, Goblin Nabob;Legendary Creature — Goblin;R;Mercadian Masques (Rare)/Ten
 Territorial Dispute;Enchantment;R;Mercadian Masques (Rare);0
 Robber Fly;Creature — Insect;R;Mercadian Masques (Uncommon);0
 Tectonic Break;Sorcery;R;Mercadian Masques (Rare);0
-
-
-
-
-
-# Done through card 19700
+Puppet's Verdict;Instant;R;Mercadian Masques (Rare);0
+Thieves' Auction;Sorcery;R;Eighth Edition (Rare)/Mercadian Masques (Rare);0
+Brawl;Instant;R;Mercadian Masques (Rare);0
+Pulverize;Sorcery;R;Mercadian Masques (Rare);0
+Cave-In;Sorcery;R;Mercadian Masques (Rare);0
+Blood Oath;Instant;R;Mercadian Masques (Rare);0
+Silverglade Pathfinder;Creature — Dryad Spellshaper;G;Mercadian Masques (Uncommon);0
+Caller of the Hunt;Creature — Human;G;Mercadian Masques (Rare);0
+Lithophage;Creature — Insect;R;Mercadian Masques (Rare)/Duel Decks: Venser vs. Koth (Rare);0
+Megatherium;Creature — Beast;G;Mercadian Masques (Rare);0
+Erithizon;Creature — Beast;G;Mercadian Masques (Rare);0
+Vine Dryad;Creature — Dryad;G;Mercadian Masques (Rare);0
+Vernal Equinox;Enchantment;G;Mercadian Masques (Rare);0
+Food Chain;Enchantment;G;Mercadian Masques (Rare)/Double Masters 2022 (Mythic Rare);0
+Sacred Prey;Creature — Horse;G;Mercadian Masques (Common);0
+Collective Unconscious;Sorcery;G;Eighth Edition (Rare)/Mercadian Masques (Rare)/Commander 2014 (Rare)/Commander Anthology (Rare);0
+Foster;Enchantment;G;Mercadian Masques (Rare)/Commander 2013 Edition (Rare);0
+Bifurcate;Sorcery;G;Mercadian Masques (Rare);0
+Game Preserve;Enchantment;G;Mercadian Masques (Rare);0
+Briar Patch;Enchantment;G;Mercadian Masques (Uncommon);0
+Crumbling Sanctuary;Artifact;C;Mercadian Masques (Rare);0
+Worry Beads;Artifact;C;Mercadian Masques (Rare);0
+Magistrate's Scepter;Artifact;C;Mercadian Masques (Rare)/Core Set 2019 (Rare);0
+Bargaining Table;Artifact;C;Mercadian Masques (Rare);0
+Crooked Scales;Artifact;C;Mercadian Masques (Rare);0
+General's Regalia;Artifact;C;Mercadian Masques (Rare);0
+Mercadian Lift;Artifact;C;Mercadian Masques (Rare);0
+Horn of Plenty;Artifact;C;Mercadian Masques (Rare);0
+Kyren Archive;Artifact;C;Mercadian Masques (Rare);0
+Rishadan Pawnshop;Artifact;C;Mercadian Masques (Rare);0
+Distorting Lens;Artifact;C;Eighth Edition (Rare)/Mercadian Masques (Rare);0
+Kyren Toy;Artifact;C;Mercadian Masques (Rare);0
+Assembly Hall;Artifact;C;Mercadian Masques (Rare);0
+Tooth of Ramos;Artifact;C;Mercadian Masques (Rare);0
+Horn of Ramos;Artifact;C;Mercadian Masques (Rare);0
+Skull of Ramos;Artifact;C;Mercadian Masques (Rare);0
+Eye of Ramos;Artifact;C;Mercadian Masques (Rare);0
+Heart of Ramos;Artifact;C;Mercadian Masques (Rare);0
+Rishadan Port;Land;C;Mercadian Masques (Rare)/Masters 25 (Rare)/Mystery Booster 2: Convention Edition (Rare);0
+Henge of Ramos;Land;C;Mercadian Masques (Uncommon);0
+Tower of the Magistrate;Land;C;Mercadian Masques (Rare)/Mystery Booster 2: Convention Edition (Rare);0
+Henge Guardian;Artifact Creature — Dragon Wurm;C;Mercadian Masques (Uncommon)/Duel Decks: Knights vs. Dragons (Uncommon);0
+Dust Bowl;Land;C;Mercadian Masques (Rare)/Zendikar Expeditions (Mythic Rare)/Outlaws of Thunder Junction Breaking News (Rare);0
+Wishmonger;Creature — Unicorn Monger;W;Mercadian Masques (Uncommon);0
+Charmed Griffin;Creature — Griffin;W;Mercadian Masques (Uncommon);0
+Ignoble Soldier;Creature — Human Soldier;W;Mercadian Masques (Uncommon);0
+Cho-Arrim Legate;Creature — Human Soldier;W;Mercadian Masques (Uncommon);0
+Steadfast Guard;Creature — Human Rebel;W;Mercadian Masques (Common)/Tenth Edition (Common);0
+Ballista Squad;Creature — Human Rebel;W;Ninth Edition (Uncommon)/Mercadian Masques (Uncommon)/Tenth Edition (Uncommon);0
+Ramosian Captain;Creature — Human Rebel;W;Mercadian Masques (Uncommon);0
+Fountain Watch;Creature — Human Cleric;W;Mercadian Masques (Rare);0
+Noble Purpose;Enchantment;W;Eighth Edition (Rare)/Mercadian Masques (Uncommon);0
+Honor the Fallen;Instant;W;Mercadian Masques (Rare);0
+Arrest;Enchantment - Aura;W;Mercadian Masques (Uncommon)/Mirrodin (Common)/Scars of Mirrodin (Common)/Return to Ravnica (Uncommon)/Modern Masters 2015 Edition (Common)/Jumpstart 2022 (Uncommon);0
+Righteous Indignation;Enchantment;W;Mercadian Masques (Uncommon);0
+Diplomatic Escort;Creature — Human Spellshaper;U;Mercadian Masques (Uncommon);0
+Sailmonger;Creature — Human Monger;U;Mercadian Masques (Uncommon);0
+Indentured Djinn;Creature — Djinn;U;Mercadian Masques (Uncommon);0
+Chambered Nautilus;Creature — Nautilus Beast;U;Mercadian Masques (Uncommon);0
+Saprazzan Legate;Creature — Merfolk Soldier;U;Mercadian Masques (Uncommon);0
+Chameleon Spirit;Creature — Illusion Spirit;U;Mercadian Masques (Uncommon);0
+Rishadan Airship;Creature — Human Pirate;U;Mercadian Masques (Common)/Jumpstart (Common);0
+Glowing Anemone;Creature — Jellyfish Beast;U;Mercadian Masques (Uncommon);0
+Coastal Piracy;Enchantment;U;Eighth Edition (Rare)/Mercadian Masques (Uncommon)/Jumpstart (Uncommon)/Assassin's Creed (Uncommon);0
+Soothsaying;Enchantment;U;Mercadian Masques (Uncommon);0
+War Tax;Enchantment;U;Mercadian Masques (Uncommon);0
+Rishadan Footpad;Creature — Human Pirate;U;Mercadian Masques (Uncommon);0
+Thwart;Instant;U;Mercadian Masques (Uncommon);0
+High Seas;Enchantment;U;Mercadian Masques (Uncommon);0
+Cackling Witch;Creature — Human Spellshaper;B;Mercadian Masques (Uncommon);0
+Scandalmonger;Creature — Boar Monger;B;Mercadian Masques (Uncommon);0
+Enslaved Horror;Creature — Horror;B;Mercadian Masques (Uncommon);0
+Molting Harpy;Creature — Harpy Mercenary;B;Mercadian Masques (Uncommon);0
+Cateran Kidnappers;Creature — Human Mercenary;B;Mercadian Masques (Uncommon);0
+Deathgazer;Creature — Lizard;B;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Mercadian Masques (Uncommon);0
+Deepwood Legate;Creature — Shade;B;Mercadian Masques (Uncommon);0
+Quagmire Lamprey;Creature — Fish;B;Mercadian Masques (Uncommon);0
+Thrashing Wumpus;Creature — Beast;B;Mercadian Masques (Rare);0
+Primeval Shambler;Creature — Horror Mercenary;B;Eighth Edition (Uncommon)/Mercadian Masques (Uncommon);0
+Larceny;Enchantment;B;Eighth Edition (Rare)/Mercadian Masques (Uncommon);0
+Forced March;Sorcery;B;Mercadian Masques (Rare);0
+Pretender's Claim;Enchantment — Aura;B;Mercadian Masques (Uncommon);0
+Unmask;Sorcery;B;Mercadian Masques (Rare)/From the Vault: Lore (Mythic Rare);0
+Black Market;Enchantment;B;Mercadian Masques (Rare)/Commander 2015 (Rare)/Commander 2017 (Rare)/Jumpstart (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Magic The Gathering—Fallout (Rare);0
+Cateran Summons;Sorcery;B;Mercadian Masques (Uncommon);0
+Intimidation;Enchantment;B;Mercadian Masques (Uncommon);0
+Putrefaction;Enchantment;B;Mercadian Masques (Uncommon);0
+Seismic Mage;Creature — Human Spellshaper;R;Mercadian Masques (Rare);0
+Kris Mage;Creature — Human Spellshaper;R;Mercadian Masques (Common);0
+Warmonger;Creature — Minotaur Monger;R;Mercadian Masques (Uncommon);0
+Hired Giant;Creature — Giant;R;Mercadian Masques (Uncommon);0
+Flailing Ogre;Creature — Ogre;R;Mercadian Masques (Uncommon);0
+Rock Badger;Creature — Badger Beast;R;Mercadian Masques (Uncommon)/Tenth Edition (Common);0
+Kyren Legate;Creature — Goblin;R;Mercadian Masques (Uncommon);0
+Gerrard's Irregulars;Creature — Human Soldier;R;Mercadian Masques (Common);0
+Lava Runner;Creature — Lizard;R;Mercadian Masques (Rare);0
+Kyren Negotiations;Enchantment;R;Mercadian Masques (Uncommon);0
+Close Quarters;Enchantment;R;Mercadian Masques (Uncommon);0
+Furious Assault;Enchantment;R;Mercadian Masques (Common);0
+Sustenance;Enchantment;G;Mercadian Masques (Uncommon);0
+Mercadia's Downfall;Instant;R;Mercadian Masques (Uncommon);0
+# Done through card 19850
 #20180
 Thunder Dragon;Creature — Dragon;R;Starter 1999 (Rare)/From the Vault: Dragons (Rare)/Masters Edition IV (Rare)/Duel Decks: Knights vs. Dragons (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0
 #20184
@@ -4457,6 +4553,8 @@ Fate Unraveler;Enchantment Creature — Hag;B;Born of the Gods (Rare)/Commander 
 Mogis, God of Slaughter;Legendary Enchantment Creature — God;B/R;Born of the Gods (Mythic Rare)/Secret Lair Drop (Mythic Rare)/Duskmourn: House of Horror Commander (Mythic Rare);1
 #378536
 Temple of Malice;Land;C;Born of the Gods (Rare)/Theros Beyond Death (Rare)/Innistrad: Crimson Vow Commander (Rare)/Dominaria United Commander (Rare)/The Brothers' War Commander (Rare)/Doctor Who Commander (Rare)/Magic The Gathering—Fallout (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#380390
+Crystalline Nautilus;Enchantment Creature — Nautilus;U;Journey into Nyx (Uncommon);0
 #380462
 Nyx Weaver;Enchantment Creature — Spider;B/G;Journey into Nyx (Uncommon)/Ikoria Commander (Uncommon)/Commander Masters (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #380498
