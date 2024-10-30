@@ -4,7 +4,7 @@
 Function for sorting and filtering of collection data
 """
 
-def sort_and_filter(in_list:list, filter_index:int):
+def sort_and_filter(in_list:list, filter_index:int, verbose:bool=False):
     """
     Function for sorting and filtering of collection data
     """
@@ -33,7 +33,8 @@ def sort_and_filter(in_list:list, filter_index:int):
     for item_name, sort_vals in sortable_map.items():
         item_sorter.append((item_name, sort_vals[0]/sort_vals[1], sort_vals[1] - sort_vals[0]))
     item_sorter = sorted(item_sorter, key=lambda x:(x[1], -x[2], x[0]))
-    #print(item_sorter)
+    if verbose:
+        print(item_sorter)
 
     returned_value = item_sorter[0][0]
     ret_list = []
