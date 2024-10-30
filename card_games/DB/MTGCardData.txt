@@ -4239,15 +4239,74 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 21120
-#21284
+Defiant Falcon;Creature — Rebel Bird;W;Nemesis (Common);0
+Angelfire Crusader;Creature — Human Soldier Knight;W;Apocalypse (Common);0
+Lawbringer;Creature — Kor Rebel;W;Nemesis (Common);0
+Lightbringer;Creature — Kor Rebel;W;Nemesis (Common);0
+Lashknife;Enchantment — Aura;W;Nemesis (Common);0
+Angelic Favor;Instant;W;Nemesis (Uncommon);0
+Seal of Cleansing;Enchantment;W;Nemesis (Common)/Vintage Masters (Common)/Commander 2015 (Common)/Eternal Masters (Common)/Modern Horizons 2 (Uncommon)/Murders at Karlov Manor Commander (Common);0
+Fanatical Devotion;Enchantment;W;Nemesis (Common);0
+Noble Stand;Enchantment;W;Nemesis (Uncommon);0
+Avenger en-Dal;Creature — Human Spellshaper;W;Nemesis (Rare);0
+Chieftain en-Dal;Creature — Human Knight;W;Nemesis (Uncommon);0
+Voice of Truth;Creature — Angel;W;Nemesis (Uncommon);0
+Defiant Vanguard;Creature — Human Rebel;W;Nemesis (Uncommon)/Time Spiral "Timeshifted" (Special);0
+Topple;Sorcery;W;Nemesis (Common);0
+Sivvi's Ruse;Instant;W;Nemesis (Uncommon);0
+Lin Sivvi, Defiant Hero;Legendary Creature — Human Rebel;W;Nemesis (Rare);0
+Blinding Angel;Creature — Angel;W;Eighth Edition (Rare)/Ninth Edition (Rare)/Nemesis (Rare);0
+Aven Fogbringer;Creature — Bird Wizard;U;Judgment (Common);0
+Escape Routes;Enchantment;U;Planeshift (Common);0
+Spiritual Asylum;Enchantment;W;Nemesis (Rare);0
+Trickster Mage;Creature — Human Spellshaper;U;Nemesis (Common);0
+Wandering Eye;Creature — Illusion;U;Nemesis (Common);0
+Cloudskate;Creature — Illusion;U;Nemesis (Common);0
+Jolting Merfolk;Creature — Merfolk;U;Nemesis (Uncommon);0
+Sneaky Homunculus;Creature — Homunculus Illusion;U;Eighth Edition (Common)/Nemesis (Common);0
+Sliptide Serpent;Creature — Serpent;U;Nemesis (Rare);0
 Daze;Instant;U;Nemesis (Common)/Duel Decks: Jace vs. Chandra (Common)/Duel Decks Anthology, Jace vs. Chandra (Common)/Eternal Masters (Uncommon)/Masterpiece Series: Amonkhet Invocations (Special);0
-#21300
+Accumulated Knowledge;Instant;U;Nemesis (Common)/Duel Decks: Elspeth vs. Kiora (Common)/Masters 25 (Common);0
+Infiltrate;Instant;U;Nemesis (Common);0
+Seal of Removal;Enchantment;U;Nemesis (Common)/Modern Horizons 2 (Uncommon);0
+Mossdog;Creature — Plant Dog;G;Nemesis (Common);0
+Tears of Rage;Instant;R;Darksteel (Uncommon);0
+Submerge;Instant;U;Nemesis (Uncommon);0
+Seahunter;Creature — Human Mercenary;U;Nemesis (Rare);0
+Stronghold Biologist;Creature — Human Spellshaper;U;Nemesis (Uncommon);0
 Bribery;Sorcery;U;Eighth Edition (Rare)/Mercadian Masques (Rare)/Commander Masters (Mythic Rare);0
-#21306
+Pale Moon;Instant;U;Nemesis (Rare);0
+Dominate;Instant;U;Nemesis (Uncommon)/Commander 2015 (Uncommon);0
+Rising Waters;Enchantment;U;Nemesis (Rare);0
+Sunken Hope;Enchantment;U;Planeshift (Rare)/Tenth Edition (Rare)/Planechase 2012 Edition (Rare)/Planechase Anthology (Rare);0
 Undertaker;Creature — Human Spellshaper;B;Mercadian Masques (Common)/Time Spiral "Timeshifted" (Special);0
-#21332
+Rathi Intimidator;Creature — Phyrexian Horror Mercenary;B;Nemesis (Common);0
+Belbe's Percher;Creature — Bird;B;Nemesis (Common);0
+Spiteful Bully;Creature — Phyrexian Zombie Mercenary;B;Nemesis (Common);0
+Rathi Fiend;Creature — Phyrexian Horror Mercenary;B;Nemesis (Uncommon);0
+Mind Swords;Sorcery;B;Nemesis (Common);0
+Parallax Dementia;Enchantment — Aura;B;Nemesis (Common);0
+Seal of Doom;Enchantment;B;Nemesis (Common)/Dissension (Common)/Commander 2015 (Common)/Modern Masters 2017 Edition (Uncommon);0
+Vicious Hunger;Sorcery;B;Eighth Edition (Common)/Nemesis (Common)/Duel Decks: Garruk vs. Liliana (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common);0
+Divining Witch;Creature — Human Spellshaper;B;Nemesis (Rare);0
+Carrion Wall;Creature — Wall;B;Eighth Edition (Uncommon)/Nemesis (Uncommon);0
+Battlefield Percher;Creature — Bird;B;Nemesis (Uncommon);0
+Dark Triumph;Instant;B;Nemesis (Uncommon);0
+Keldon Twilight;Enchantment;B/R;Planeshift (Rare);0
+Massacre;Sorcery;B;Nemesis (Uncommon);0
+Volrath the Fallen;Legendary Creature — Phyrexian Shapeshifter;B;Nemesis (Rare);0
+Murderous Betrayal;Enchantment;B;Eighth Edition (Rare)/Nemesis (Rare);0
+Death Pit Offering;Enchantment;B;Eighth Edition (Rare)/Nemesis (Rare);0
+Mind Slash;Enchantment;B;Eighth Edition (Uncommon)/Nemesis (Uncommon);0
 Blaster Mage;Creature — Human Spellshaper;R;Mercadian Masques (Common);0
+Laccolith Grunt;Creature — Beast;R;Nemesis (Common);0
+Flowstone Crusher;Creature — Beast;R;Ninth Edition (Uncommon)/Nemesis (Common);0
+Laccolith Whelp;Creature — Beast;R;Nemesis (Common);0
+Flowstone Wall;Creature — Wall;R;Nemesis (Common);0
+Downhill Charge;Instant;R;Nemesis (Common)/Duel Decks: Venser vs. Koth (Common);0
+Laccolith Rig;Enchantment — Aura;R;Nemesis (Common);0
+Seal of Fire;Enchantment;R;Nemesis (Common)/Dissension (Common)/Duel Decks: Jace vs. Chandra (Common)/Duel Decks Anthology, Jace vs. Chandra (Common);0
+# Done through card 21340
 #21773
 Saprazzan Outrigger;Creature — Merfolk;U;Mercadian Masques (Common);0
 #22288
@@ -4756,6 +4815,8 @@ Endless Atlas;Artifact;C;Commander 2018 (Rare)/Double Masters (Rare)/Warhammer 4
 Light Up the Stage;Sorcery;R;Ravnica Allegiance (Uncommon)/Adventures in the Forgotten Realms Commander (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Ravnica Remastered (Uncommon)/Ravnica Clue Edition (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #457293
 Wilderness Reclamation;Enchantment;G;Ravnica Allegiance (Uncommon)/Ikoria Commander (Uncommon)/Ravnica Remastered (Uncommon)/Murders at Karlov Manor Commander (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
+#457296
+Aeromunculus;Creature — Homunculus Mutant;G/U;Ravnica Allegiance (Common);0
 #457301
 Bedevil;Instant;B/R;Ravnica Allegiance (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Streets of New Capenna Commander (Rare)/Dominaria United Commander (Rare)/The Brothers' War Commander (Rare)/Outlaws of Thunder Junction Breaking News (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #457310
@@ -4804,6 +4865,8 @@ Stormfist Crusader;Creature — Human Knight;B/R;Throne of Eldraine (Rare)/Duskm
 Castle Vantress;Land;C;Throne of Eldraine (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Modern Horizons 3 Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #476049
 Arcane Signet;Artifact;C;Throne of Eldraine (Common)/Ikoria Commander (Common)/Zendikar Rising Commander (Common)/Commander Legends (Uncommon)/Kaldheim Commander (Common)/Commander 2021 (Common)/Adventures in the Forgotten Realms Commander (Common)/Innistrad: Midnight Hunt Commander (Common)/Innistrad: Crimson Vow Commander (Common)/Arena Base Set (Common)/Kamigawa: Neon Dynasty Commander (Common)/Streets of New Capenna Commander (Common)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Dominaria United Commander (Common)/Warhammer 40,000 Commander (Common)/The Brothers' War Commander (Common)/Phyrexia: All Will Be One Commander (Common)/March of the Machine Commander (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Commander Masters (Uncommon)/Wilds of Eldraine Commander (Common)/Doctor Who Commander (Common)/The Lost Caverns of Ixalan Commander (Common)/Murders at Karlov Manor Commander (Common)/Magic The Gathering—Fallout (Uncommon)/Outlaws of Thunder Junction Commander (Common)/Modern Horizons 3 Commander (Common)/Bloomburrow Commander (Common)/Duskmourn: House of Horror Commander (Common);4
+#476052
+Kenrith, the Returned King;Legendary Creature — Human Noble;W;Throne of Eldraine (Mythic Rare)/March of the Machine Multiverse Legends (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/Mystery Booster 2: Convention Edition (Mythic Rare);0
 #476252
 Alseid of Life's Bounty;Enchantment Creature — Nymph;W;Theros Beyond Death (Uncommon)/Jumpstart 2022 (Uncommon);0
 #476324

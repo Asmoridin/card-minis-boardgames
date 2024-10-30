@@ -283,6 +283,7 @@ Benjamin Sisko, Man of Resolve;U;Personnel;Federation;Energize;Print;3;0
 Benjamin Sisko, Man of Two Worlds;V;Personnel;Bajoran;Peak Performance;Virtual;3;0
 Benjamin Sisko, Master Chef;V;Personnel;Bajoran;Shore Leave;Virtual;3;0
 Benjamin Sisko, Outlaw;P;Personnel;Non-Aligned;Fractured Time;Print;3;0
+Benjamin Sisko, Preserving History;V;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
 Benjamin Sisko, Resourceful Captain;V;Personnel;Federation;Far Beyond the Stars;Virtual;3;0
 Benjamin Sisko, Shipwright;P;Personnel;Bajoran;Tenth Anniversary Collection;Print;3;0
 Benjamin Sisko, The Emissary of the Prophets;R;Personnel;Bajoran;Second Edition;Print;3;0
@@ -1079,6 +1080,7 @@ Furel, Resistance Fighter;U;Personnel;Bajoran;Second Edition;Print;3;0
 Furel, Resistance Scout;V;Personnel;Bajoran;Extreme Measures;Virtual;3;0
 Future Enterprise, Displaced Starship;B/V;Ship;Starfleet;Borderless Promos/Allegiance;Virtual;3;0
 Gaard;C;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
+Gabriel Bell, American Hero;V;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
 Gaeta;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Gagh Tek Or;V;Event;;Shore Leave;Virtual;3;0
 Gaila, Arms Dealer;V/VP;Personnel;Ferengi;The Undiscovered Country/Virtual Promo;Virtual;3;0
@@ -1520,6 +1522,7 @@ Judith Hume;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
 Juel Ducane, Above Reproach;V;Personnel;Federation;Matter of Time;Virtual;3;0
 Julian Bashir, "Frontier" Physician;R/V;Personnel;Federation;Second Edition/Second Skin;Both;3;0
 Julian Bashir, "Unnatural Freak";U;Personnel;Federation;Energize;Print;3;0
+Julian Bashir, Displaced Doctor;V;Personnel;Non-Aligned;Virtual Promo;Virtual;3;0
 Julian Bashir, Medical Staffer;R;Personnel;Federation;These Are The Voyages;Print;3;0
 Julian Bashir, Nostalgic Doctor;V;Personnel;Federation;Return to Grace;Virtual;3;0
 Julian Bashir, Rebel Captain;C/VP;Personnel;Non-Aligned;In a Mirror Darkly/Virtual Promo;Both;3;0
@@ -1996,6 +1999,7 @@ Mission Briefing;S;Interrupt;;Second Edition;Print;3;0
 Mitchell;V;Personnel;Federation;Lower Decks;Virtual;3;0
 Mobar;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
 Mobile Emitter;V;Equipment;;The Nth Degree;Virtual;3;0
+Mobile Micro-Singularity, Analyse Polarized Chronitons;V;Mission;;Virtual Promo;Virtual;2;0
 Mobilization Points;V/VP;Event;;Strange Bedfellows/Virtual Promo;Virtual;3;0
 Modern Galor;C;Ship;Cardassian;Call to Arms;Print;3;0
 Modified Tricorder;U;Equipment;;Captain's Log;Print;3;0
@@ -3448,7 +3452,7 @@ Varen'agor;C;Personnel;Dominion;Call to Arms;Print;3;0
 Vargas, Shell-shocked;V;Personnel;Federation;Apocalypse Rising;Virtual;3;0
 Varis Sul, Tetrarch of the Paqu;U;Personnel;Bajoran;Energize;Print;3;0
 Varon-T Disruptor;V;Equipment;;20th Anniversary Collection;Virtual;3;0
-Varria Corona, Defeat Rogue Borg Vessel;V;Mission;;Continuing Mission;Virtual;2;0
+Varria Corona, Defeat Rogue Borg Vessel;V;Mission;;Continuing Mission/Virtual Promo;Virtual;2;0
 Varria III, Locate Missing Crewman;V;Mission;;Continuing Mission;Virtual;2;0
 Varria, Lavishly Rewarded Aide;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Vascular Pad;C;Equipment;;What You Leave Behind;Print;3;3
