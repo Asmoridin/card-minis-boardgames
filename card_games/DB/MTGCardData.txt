@@ -4415,15 +4415,16 @@ Benalish Heralds;Creature — Human Soldier;W;Invasion (Uncommon);0
 Benalish Emissary;Creature — Human Wizard;W;Invasion (Uncommon);0
 Ruham Djinn;Creature — Djinn;W;Invasion (Uncommon);0
 Spirit Weaver;Creature — Human Wizard;W;Invasion (Uncommon)/Tenth Edition (Uncommon);0
-
-
-
-
-
-
-
-
-# Done through card 21340
+Liberate;Instant;W;Invasion (Uncommon);0
+Samite Ministration;Instant;W;Invasion (Uncommon);0
+Death or Glory;Sorcery;W;Invasion (Rare);0
+Pledge of Loyalty;Enchantment — Aura;W;Invasion (Uncommon);0
+Teferi's Care;Enchantment;W;Invasion (Uncommon);0
+Alabaster Leech;Creature — Leech;W;Invasion (Rare);0
+Sunscape Master;Creature — Human Wizard;W;Invasion (Rare);0
+Samite Elder;Creature — Human Cleric;W;Planeshift (Rare);0
+Crusading Knight;Creature — Human Knight;W;Invasion (Rare);0
+# Done through card 22963
 #23139
 Blurred Mongoose;Creature — Mongoose;G;Invasion (Rare);0
 #23248
