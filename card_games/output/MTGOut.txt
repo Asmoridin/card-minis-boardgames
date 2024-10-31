@@ -1,9 +1,9 @@
-Tracking 4862 cards.
-Have 479 out of 19520 total cards for a playset - 2.45 percent
+Tracking 4960 cards.
+Have 479 out of 19915 total cards for a playset - 2.41 percent
 
 *** VINTAGE ***
-There are 4862 Vintage legal cards
-Have 476 out of 19463 - 2.45 percent of a playset
+There are 4960 Vintage legal cards
+Have 476 out of 19855 - 2.40 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 4742 Legacy legal cards
-Have 454 out of 19328 - 2.35 percent of a playset
+There are 4840 Legacy legal cards
+Have 454 out of 19720 - 2.30 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1097 Modern legal cards
-Have 332 out of 4748 - 6.99 percent of a playset
+There are 1106 Modern legal cards
+Have 332 out of 4784 - 6.94 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1743 Pauper legal cards
-Have 183 out of 7332 - 2.50 percent of a playset
+There are 1778 Pauper legal cards
+Have 183 out of 7472 - 2.45 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 4751 Oathbreaker legal cards
-Have 426 out of 5141 - 8.29 percent of a playset
+There are 4849 Oathbreaker legal cards
+Have 426 out of 5239 - 8.13 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -222,8 +222,8 @@ Most needed cards are:
  - Treetop Village: 29
 
 *** PAUPER COMMANDER ***
-There are 2437 Pauper Commander legal cards
-Have 203 out of 2827 - 7.18 percent of a playset
+There are 2489 Pauper Commander legal cards
+Have 203 out of 2879 - 7.05 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -242,8 +242,8 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 4761 Commander legal cards
-Have 427 out of 5151 - 8.29 percent of a playset
+There are 4859 Commander legal cards
+Have 427 out of 5249 - 8.13 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
@@ -256,7 +256,7 @@ Most needed cards are:
  - Snow-Covered Island: 67
  - Ancient Tomb: 57
  - Swiftfoot Boots: 55
- - Demonic Tutor: 50
+ - Urborg, Tomb of Yawgmoth: 51
 
 Decks for various Commander Color IDs:
 Color Combo: BG-Golgari, Commander: Winter, Cynical Opportunist
@@ -340,120 +340,39 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 
 *** OTHER DATA ***
 206 total creature types
-Most common creature types:
-- Knight: 78
-- Elf: 73
-- Warrior: 73
-- Phyrexian: 66
-- Spirit: 65
-- Zombie: 62
-- Beast: 61
-- Elemental: 56
-- Insect: 50
-- Bird: 48
-- Horror: 48
-- Druid: 47
-- Merfolk: 39
-- Angel: 34
-- Dragon: 33
-- Giant: 32
-- Shaman: 32
-- Cat: 31
-- Rogue: 31
-- Drake: 30
-- Illusion: 30
-- Wurm: 29
-- Spellshaper: 28
-- Construct: 27
-- Lizard: 27
-- Mercenary: 26
-- Rebel: 24
-- Archer: 23
-- Golem: 23
-- Minion: 23
-- Scout: 23
-- Snake: 21
-- Djinn: 20
-- Advisor: 18
-- Assassin: 18
-- Orc: 18
-- Pirate: 18
-- Demon: 17
-- Dog: 17
-- Dwarf: 17
-- Faerie: 17
-- Shapeshifter: 17
-- Ape: 16
-- Plant: 16
-- Treefolk: 16
-- Imp: 15
-- Rat: 15
-- Vampire: 15
-- Avatar: 14
-- Dryad: 14
-- Ogre: 14
-- Serpent: 14
-- Berserker: 13
-- Elephant: 13
-- Griffin: 13
-- Horse: 13
-- Minotaur: 13
-- Skeleton: 13
-- Efreet: 12
-- Artificer: 11
-- Bear: 11
-- Fungus: 11
-- Licid: 11
-- Nightstalker: 11
-- Thrull: 11
-- Dauthi: 10
-- Monk: 10
-- Soltari: 10
-- Spike: 10
-- Troll: 10
-- Dinosaur: 9
-- Fish: 9
-- Kor: 9
-- Noble: 9
-- Shade: 9
-- Wolf: 9
-- Frog: 8
-- Nomad: 8
-- Unicorn: 8
-- Elder: 7
-- Gnome: 7
-- Kobold: 7
-- Ranger: 7
-- Specter: 7
-- Thalakos: 7
-- Boar: 6
-- Ouphe: 6
-- Atog: 5
-- Cyclops: 5
-- Gargoyle: 5
-- Homarid: 5
-- Hydra: 5
-- Incarnation: 5
-- Juggernaut: 5
-- Monger: 5
-- Rabbit: 5
-- Salamander: 5
-- Thopter: 5
-- Wraith: 5
-- Yeti: 5
-If above is 7, we should do a tribal Commander deck
+
+*** MASQUES BLOCK ***
+There are 477 Masques Block legal cards
+Have 78 out of 2088 - 3.74 percent of a playset
+Chosen card is a(n) Creature from Nemesis - Defender en-Vec. I own 0 of 4
+
+Closest deck to completion (ThemeDeck-Mercenaries) is at 37 cards.
+{'Alley Grifters': 1, 'Battlefield Percher': 1, 'Carrion Wall': 1, 'Cateran Brute': 1, 'Cateran Enforcer': 1, 'Cateran Kidnappers': 1, 'Misshapen Fiend': 3, 'Phyrexian Driver': 2, 'Phyrexian Prowler': 1, 'Rampart Crawler': 1, 'Rathi Assassin': 1, 'Rathi Fiend': 1, 'Rathi Intimidator': 1, 'Skulking Fugitive': 1, 'Spineless Thug': 4, 'Strongarm Thug': 2, 'Haunted Crossroads': 1, 'Intimidation': 1, 'Parallax Dementia': 3, 'Seal of Doom': 1, 'Dark Ritual': 2, 'Dark Triumph': 1, 'Cateran Summons': 1, 'Massacre': 1, 'Mind Swords': 2, "Belbe's Portal": 1}
+
+Most needed cards are:
+ - Plains: 58
+ - Mountain: 11
+ - Blastoderm: 8
+ - Vine Trellis: 8
+ - Disenchant: 7
+ - Dark Ritual: 6
+ - Island: 6
+ - Thunderclap: 6
+ - Deepwood Wolverine: 5
+ - Forest: 5
 
 Percentages ordered by format:
 Standard: 23.46
 Pioneer: 14.42
-Commander: 8.29
-Oathbreaker: 8.29
-Pauper Commander: 7.18
-Modern: 6.99
+Commander: 8.13
+Oathbreaker: 8.13
+Pauper Commander: 7.05
+Modern: 6.94
+Masques Block: 3.74
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Mirage Block: 2.88
-Pauper: 2.50
-Vintage: 2.45
-Legacy: 2.35
+Pauper: 2.45
+Vintage: 2.40
+Legacy: 2.30

@@ -137,7 +137,7 @@ def parse_restrictions(restr_lines):
             this_format, bnr = restriction.split('-')
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
-                    'Tempest Block', "Urza's Block", "Pauper Commander"]:
+                    'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block"]:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -167,7 +167,6 @@ def parse_restrictions(restr_lines):
     # Onslaught block (Onslaught, Legions, Scourge)
     # Odyssey block (Odyssey, Torment, Judgment)
     # Invasion block (Invasion, Planeshift, Apocalypse)
-    # Masques block (Mercadian Masques, Nemesis, Prophecy)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -219,6 +218,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handle Urza's Block
             if this_set in ["Urza's Saga", "Urza's Legacy", "Urza's Destiny"]:
                 ret_formats["Urza's Block"] = 4
+            # Handles Masques Block
+            if this_set in ['Mercadian Masques', 'Nemesis', 'Prophecy']:
+                ret_formats['Masques Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -361,7 +363,7 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Nemesis"
+CHECK_SET = "Prophecy"
 CHECK_AMOUNT = 143
 SET_CHECK += 0 # Extra basic lands
 
@@ -399,7 +401,7 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
-    #if CHECK_SET in card_sets and 'Black' in card_colors:
+    #if CHECK_SET in card_sets and 'Green' in card_colors:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -482,6 +484,10 @@ if __name__ == "__main__":
     urz_dict = process_formats("Urza's Block")
     handle_output("Urza's Block", urz_dict, out_file_h)
 
+    # Masques Block
+    masques_dict = process_formats("Masques Block")
+    handle_output("Masques Block", masques_dict, out_file_h)
+
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander")
     handle_output("Pauper Commander", paup_comm, out_file_h)
@@ -510,15 +516,13 @@ if __name__ == "__main__":
             one_ofs.append(creature)
     double_print("\n*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
-    double_print("Most common creature types:", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
         'Wizard', 'Spider', 'Barbarian']
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))
-    for creature_tuple in creature_types[:100]:
-        double_print(f"- {creature_tuple[0]}: {creature_tuple[1]}", out_file_h)
-    double_print("If above is 7, we should do a tribal Commander deck", out_file_h)
+    if creature_types[99][1] >= 7:
+        double_print(f"Time to do a Tribal Commander - {creature_types[0][0]}", out_file_h)
     remove_one_ofs = ['Spawn', 'Oyster', 'Ferret', 'Forest']
     for remove_type in remove_one_ofs:
         try:
