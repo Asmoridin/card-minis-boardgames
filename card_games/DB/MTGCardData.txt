@@ -4424,7 +4424,74 @@ Alabaster Leech;Creature — Leech;W;Invasion (Rare);0
 Sunscape Master;Creature — Human Wizard;W;Invasion (Rare);0
 Samite Elder;Creature — Human Cleric;W;Planeshift (Rare);0
 Crusading Knight;Creature — Human Knight;W;Invasion (Rare);0
-# Done through card 22963
+Atalya, Samite Master;Legendary Creature — Human Cleric;W;Invasion (Rare);0
+Reya Dawnbringer;Legendary Creature — Angel;W;Invasion (Rare)/Tenth Edition (Rare)/Duel Decks: Divine vs. Demonic (Rare)/Magic: The Gathering—Conspiracy (Rare)/Duel Decks Anthology, Divine vs. Demonic (Rare)/Ultimate Masters (Rare);0
+Winnow;Instant;W;Invasion (Rare);0
+Global Ruin;Sorcery;W;Invasion (Rare);0
+Spirit of Resistance;Enchantment;W;Invasion (Rare);0
+Divine Presence;Enchantment;W;Invasion (Rare);0
+Fight or Flight;Enchantment;W;Invasion (Rare);0
+Rout;Sorcery;W;Invasion (Rare)/Magic: The Gathering—Conspiracy (Rare)/Commander 2017 (Rare)/Commander 2021 (Rare);0
+Stormscape Apprentice;Creature — Human Wizard;U;Invasion (Common);0
+Metathran Zombie;Creature — Metathran Zombie;U;Invasion (Common);0
+Tower Drake;Creature — Drake;U;Invasion (Common)/Return to Ravnica (Common);0
+Faerie Squadron;Creature — Faerie;U;Invasion (Common);0
+Vodalian Serpent;Creature — Serpent;U;Invasion (Common);0
+Tidal Visionary;Creature — Merfolk Wizard;U;Invasion (Common);0
+Shoreline Raider;Creature — Merfolk;U;Invasion (Common);0
+Dream Thrush;Creature — Bird;U;Invasion (Common);0
+Hunting Drake;Creature — Drake;U;Planeshift (Common);0
+Worldly Counsel;Instant;U;Invasion (Common)/Conflux (Common);0
+Barrin's Unmaking;Instant;U;Invasion (Common);0
+Repulse;Instant;U;Invasion (Common)/Duel Decks: Jace vs. Chandra (Common)/Magic: The Gathering-Commander (Common)/Duel Decks Anthology, Jace vs. Chandra (Common)/Conspiracy: Take the Crown (Common)/Game Night: Free-For-All (Common)/Wilds of Eldraine Commander (Common)/Outlaws of Thunder Junction Breaking News (Uncommon);0
+Exclude;Instant;U;Invasion (Common)/Commander 2014 (Common)/Masters 25 (Uncommon)/Modern Horizons (Uncommon)/Jumpstart (Uncommon)/Commander Masters (Common);0
+Traveler's Cloak;Enchantment — Aura;U;Invasion (Common)/Magic: The Gathering—Conspiracy (Common);0
+Opt;Instant;U;Invasion (Common)/Ixalan (Common)/Dominaria (Common)/Throne of Eldraine (Common)/Secret Lair Drop (Rare)/Core Set 2021 (Common)/Strixhaven Mystical Archive (Uncommon)/Jumpstart 2022 (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Wilds of Eldraine Commander (Common)/Outlaws of Thunder Junction Commander (Common);0
+Prohibit;Instant;U;Invasion (Common)/Duel Decks: Jace vs. Vraska (Common)/Modern Horizons (Common);0
+Probe;Sorcery;U;Invasion (Common);0
+Tolarian Emissary;Creature — Human Wizard;U;Invasion (Uncommon);0
+Zanam Djinn;Creature — Djinn;U;Invasion (Uncommon);0
+Vodalian Hypnotist;Creature — Merfolk Wizard;U;Invasion (Uncommon);0
+Rainbow Crow;Creature — Bird;U;Invasion (Uncommon);0
+Sky Weaver;Creature — Metathran Wizard;U;Invasion (Uncommon)/Tenth Edition (Uncommon);0
+Essence Leak;Enchantment — Aura;U;Invasion (Uncommon);0
+Fact or Fiction;Instant;U;Invasion (Uncommon)/Duel Decks: Jace vs. Chandra (Uncommon)/Magic: The Gathering-Commander (Uncommon)/From the Vault: Twenty (Mythic Rare)/Magic: The Gathering—Conspiracy (Uncommon)/Vintage Masters (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Uncommon)/Commander 2015 (Uncommon)/Eternal Masters (Uncommon)/Commander Anthology 2018 (Uncommon)/Modern Horizons (Uncommon)/Commander 2019 (Uncommon)/Zendikar Rising Commander (Uncommon)/Commander Legends (Uncommon)/Streets of New Capenna Commander (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Game Night: Free-For-All (Uncommon)/The Brothers' War Commander (Uncommon)/Dominaria Remastered (Uncommon)/The Lord of the Rings: Tales of Middle Earth Commander (Uncommon)/Commander Masters (Uncommon)/Wilds of Eldraine Commander (Uncommon);0
+Sway of Illusion;Instant;U;Invasion (Uncommon);0
+Collective Restraint;Enchantment;U;Invasion (Rare);0
+Manipulate Fate;Sorcery;U;Invasion (Uncommon);0
+Metathran Aerostat;Creature — Metathran;U;Invasion (Rare);0
+Stormscape Master;Creature — Human Wizard;U;Invasion (Rare);0
+Blind Seer;Legendary Creature — Human Wizard;U;Invasion (Rare);0
+Empress Galina;Legendary Creature — Merfolk Noble;U;Invasion (Rare);0
+Crystal Spray;Instant;U;Invasion (Rare);0
+Mana Maze;Enchantment;U;Invasion (Rare);0
+Sapphire Leech;Creature — Leech;U;Invasion (Rare);0
+Distorting Wake;Sorcery;U;Invasion (Rare)/Commander 2014 (Rare);0
+Breaking Wave;Sorcery;U;Invasion (Rare);0
+Teferi's Response;Instant;U;Invasion (Rare);0
+Nightscape Apprentice;Creature — Zombie Wizard;B;Invasion (Common);0
+Firescreamer;Creature — Kavu;B;Invasion (Common);0
+Urborg Phantom;Creature — Spirit Minion;B;Invasion (Common);0
+Duskwalker;Creature — Human Minion;B;Invasion (Common);0
+Urborg Skeleton;Creature — Skeleton;B;Invasion (Common);0
+Plague Spitter;Creature — Phyrexian Horror;B;Invasion (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Jumpstart 2022 (Uncommon);0
+Phyrexian Delver;Creature — Phyrexian Zombie;B;Invasion (Rare)/Commander 2013 Edition (Rare)/Commander 2018 (Rare)/March of the Machine Commander (Rare);0
+Phyrexian Battleflies;Creature — Phyrexian Insect;B;Invasion (Common)/Duel Decks: Phyrexia vs. the Coalition (Common);0
+Bog Initiate;Creature — Human Wizard;B;Invasion (Common);0
+Scavenged Weaponry;Enchantment — Aura;B;Invasion (Common);0
+Recover;Sorcery;B;Invasion (Common)/Tenth Edition (Common)/Modern Masters 2017 Edition (Common)/Rivals of Ixalan (Common);0
+Addle;Sorcery;B;Invasion (Uncommon)/Vintage Masters (Common);0
+Mourning;Enchantment — Aura;B;Invasion (Common);0
+Exotic Curse;Enchantment — Aura;B;Invasion (Common)/Duel Decks: Phyrexia vs. the Coalition (Common);0
+Hypnotic Cloud;Sorcery;B;Invasion (Common)/Duel Decks: Jace vs. Vraska (Common);0
+Agonizing Demise;Instant;B;Invasion (Common)/Duel Decks: Ajani vs. Nicol Bolas (Common);0
+Urborg Shambler;Creature — Horror;B;Invasion (Uncommon);0
+Phyrexian Reaper;Creature — Phyrexian Zombie;B;Invasion (Common);0
+Goham Djinn;Creature — Djinn;B;Invasion (Uncommon);0
+Urborg Emissary;Creature — Human Wizard;B;Invasion (Uncommon);0
+Trench Wurm;Creature — Wurm;B;Invasion (Uncommon);0
+Phyrexian Slayer;Creature — Phyrexian Minion;B;Invasion (Common);0
+# Done through card 23040
 #23139
 Blurred Mongoose;Creature — Mongoose;G;Invasion (Rare);0
 #23248

@@ -1,9 +1,9 @@
-Tracking 4978 cards.
-Have 479 out of 19987 total cards for a playset - 2.40 percent
+Tracking 5045 cards.
+Have 479 out of 20255 total cards for a playset - 2.36 percent
 
 *** VINTAGE ***
-There are 4978 Vintage legal cards
-Have 476 out of 19927 - 2.39 percent of a playset
+There are 5045 Vintage legal cards
+Have 476 out of 20195 - 2.36 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 4858 Legacy legal cards
-Have 454 out of 19792 - 2.29 percent of a playset
+There are 4925 Legacy legal cards
+Have 454 out of 20060 - 2.26 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1109 Modern legal cards
-Have 332 out of 4796 - 6.92 percent of a playset
+There are 1118 Modern legal cards
+Have 332 out of 4832 - 6.87 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -62,8 +62,8 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 366 Pioneer legal cards
-Have 263 out of 1824 - 14.42 percent of a playset
+There are 369 Pioneer legal cards
+Have 263 out of 1836 - 14.32 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1783 Pauper legal cards
-Have 183 out of 7492 - 2.44 percent of a playset
+There are 1816 Pauper legal cards
+Have 183 out of 7624 - 2.40 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 4867 Oathbreaker legal cards
-Have 426 out of 5257 - 8.10 percent of a playset
+There are 4934 Oathbreaker legal cards
+Have 426 out of 5324 - 8.00 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -230,20 +230,20 @@ Closest deck to completion (ThemeDeck-Mercenaries) is at 37 cards.
 {'Alley Grifters': 1, 'Battlefield Percher': 1, 'Carrion Wall': 1, 'Cateran Brute': 1, 'Cateran Enforcer': 1, 'Cateran Kidnappers': 1, 'Misshapen Fiend': 3, 'Phyrexian Driver': 2, 'Phyrexian Prowler': 1, 'Rampart Crawler': 1, 'Rathi Assassin': 1, 'Rathi Fiend': 1, 'Rathi Intimidator': 1, 'Skulking Fugitive': 1, 'Spineless Thug': 4, 'Strongarm Thug': 2, 'Haunted Crossroads': 1, 'Intimidation': 1, 'Parallax Dementia': 3, 'Seal of Doom': 1, 'Dark Ritual': 2, 'Dark Triumph': 1, 'Cateran Summons': 1, 'Massacre': 1, 'Mind Swords': 2, "Belbe's Portal": 1}
 
 Most needed cards are:
- - Plains: 58
+ - Plains: 95
+ - Island: 17
+ - Disenchant: 12
  - Mountain: 11
+ - Stinging Barrier: 9
+ - Waterfront Bouncer: 9
  - Blastoderm: 8
  - Vine Trellis: 8
- - Disenchant: 7
- - Dark Ritual: 6
- - Island: 6
- - Thunderclap: 6
- - Deepwood Wolverine: 5
- - Forest: 5
+ - Ribbon Snake: 7
+ - Seal of Cleansing: 7
 
 *** PAUPER COMMANDER ***
-There are 2498 Pauper Commander legal cards
-Have 203 out of 2888 - 7.03 percent of a playset
+There are 2541 Pauper Commander legal cards
+Have 203 out of 2931 - 6.93 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -262,21 +262,21 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 4877 Commander legal cards
-Have 427 out of 5267 - 8.11 percent of a playset
+There are 4944 Commander legal cards
+Have 427 out of 5334 - 8.01 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
- - Plains: 653
- - Island: 209
+ - Plains: 702
+ - Island: 223
  - Mountain: 206
  - Forest: 109
  - Snow-Covered Plains: 91
  - Snow-Covered Mountain: 74
- - Snow-Covered Island: 67
- - Ancient Tomb: 57
+ - Snow-Covered Island: 72
+ - Ancient Tomb: 59
  - Swiftfoot Boots: 55
- - Urborg, Tomb of Yawgmoth: 51
+ - Nykthos, Shrine to Nyx: 52
 
 Decks for various Commander Color IDs:
 Color Combo: BG-Golgari, Commander: Winter, Cynical Opportunist
@@ -363,16 +363,16 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 
 Percentages ordered by format:
 Standard: 23.46
-Pioneer: 14.42
-Commander: 8.11
-Oathbreaker: 8.10
-Pauper Commander: 7.03
-Modern: 6.92
+Pioneer: 14.32
+Commander: 8.01
+Oathbreaker: 8.00
+Pauper Commander: 6.93
+Modern: 6.87
 Masques Block: 3.74
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Mirage Block: 2.88
-Pauper: 2.44
-Vintage: 2.39
-Legacy: 2.29
+Pauper: 2.40
+Vintage: 2.36
+Legacy: 2.26
