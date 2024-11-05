@@ -4491,9 +4491,131 @@ Goham Djinn;Creature — Djinn;B;Invasion (Uncommon);0
 Urborg Emissary;Creature — Human Wizard;B;Invasion (Uncommon);0
 Trench Wurm;Creature — Wurm;B;Invasion (Uncommon);0
 Phyrexian Slayer;Creature — Phyrexian Minion;B;Invasion (Common);0
-# Done through card 23040
-#23139
+Hate Weaver;Creature — Zombie Wizard;B;Invasion (Uncommon)/Tenth Edition (Uncommon);0
+Annihilate;Instant;B;Invasion (Uncommon)/Commander 2013 Edition (Uncommon)/Commander 2014 (Uncommon)/Eternal Masters (Uncommon);0
+Shade's Form;Enchantment — Aura;B;Torment (Common);0
+Defiling Tears;Instant;B;Invasion (Uncommon);0
+Tsabo's Assassin;Creature — Phyrexian Zombie Assassin;B;Invasion (Rare);0
+Nightscape Master;Creature — Zombie Wizard;B;Invasion (Rare);0
+Devouring Strossus;Creature — Phyrexian Horror;B;Invasion (Rare);0
+Doomsday Specter;Creature — Specter;U/B;Planeshift (Rare);0
+Andradite Leech;Creature — Leech;B;Invasion (Rare);0
+Marauding Knight;Creature — Phyrexian Zombie Knight;B;Invasion (Rare);0
+Yawgmoth's Agenda;Enchantment;B;Invasion (Rare);0
+Desperate Research;Sorcery;B;Invasion (Rare);0
+Wild Research;Enchantment;R;Apocalypse (Rare);0
+Spreading Plagu;Enchantment;B;Invasion (Rare);0
+Twilight's Call;Sorcery;B;Invasion (Rare)/Duel Decks: Izzet vs. Golgari (Rare);0
+Do or Die;Sorcery;B;Invasion (Rare);0
+Thunderscape Apprentice;Creature — Human Wizard;R;Invasion (Common);0
+Hooded Kavu;Creature — Kavu;R;Invasion (Common);0
+Rampant Elephant;Creature — Elephant;W;Invasion (Common);0
+Kavu Aggressor;Creature — Kavu;R;Invasion (Common);0
+Pouncing Kavu;Creature — Kavu;R;Invasion (Common);0
+Scarred Puma;Creature — Cat;R;Invasion (Common);0
+Slimy Kavu;Creature — Kavu;R;Invasion (Common);0
+Ancient Kavu;Creature — Kavu;R;Invasion (Common);0
+Overload;Instant;R;Invasion (Common);0
+Turf Wound;Instant;R;Invasion (Common);0
+Zap;Instant;R;Invasion (Common);0
+Tribal Flames;Sorcery;R;Invasion (Common)/Time Spiral "Timeshifted" (Special)/Duel Decks: Phyrexia vs. the Coalition (Common)/Modern Masters (Uncommon)/Modern Masters 2015 Edition (Common);0
+Scorching Lava;Instant;R;Invasion (Common);0
+Savage Offensive;Sorcery;R;Invasion (Common);0
+Kavu Runner;Creature — Kavu;R;Invasion (Uncommon);0
+Skittish Kavu;Creature — Kavu;R;Invasion (Uncommon);0
+Rage Weaver;Creature — Human Wizard;R;Invasion (Uncommon)/Tenth Edition (Uncommon);0
+Halam Djinn;Creature — Djinn;R;Invasion (Uncommon);0
+Firebrand Ranger;Creature — Human Soldier Ranger;R;Invasion (Uncommon);0
+Shivan Emissary;Creature — Human Wizard;R;Invasion (Uncommon);0
+Chaotic Strike;Instant;R;Invasion (Uncommon);0
+Ghitu Fire;Sorcery;R;Invasion (Rare);0
+Urza's Rage;Instant;R;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Mythic Rare)/Commander 2015 (Rare)/Modern Horizons (Uncommon)/Strixhaven Mystical Archive (Rare);0
+Lightning Dart;Instant;R;Invasion (Uncommon);0
+Collapsing Borders;Enchantment;R;Invasion (Rare);0
+Breath of Darigaaz;Sorcery;R;Invasion (Uncommon)/Archenemy (Uncommon)/Duel Decks: Knights vs. Dragons (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Commander 2015 (Uncommon)/Commander Anthology 2018 (Uncommon);0
+Shivan Harvest;Enchantment;R;Invasion (Uncommon);0
+Loafing Giant;Creature — Giant;R;Invasion (Rare);0
+Thunderscape Master;Creature — Human Wizard;R;Invasion (Rare);0
+Callous Giant;Creature — Giant;R;Invasion (Rare);0
+Ruby Leech;Creature — Leech;R;Invasion (Rare);0
+Skizzik;Creature — Elemental;R;Invasion (Rare)/Dominaria (Uncommon);0
+Kavu Monarch;Creature — Kavu;R;Invasion (Rare);0
+Obliterate;Sorcery;R;Eighth Edition (Rare)/Invasion (Rare)/From the Vault: Lore (Mythic Rare);0
+Bend or Break;Sorcery;R;Invasion (Rare);0
+Tectonic Instability;Enchantment;R;Invasion (Rare);0
+Mages' Contest;Instant;R;Invasion (Rare);0
+Thornscape Apprentice;Creature — Human Wizard;G;Invasion (Common)/Duel Decks: Phyrexia vs. the Coalition (Common);0
+Serpentine Kavu;Creature — Kavu;G;Invasion (Common);0
+Kavu Titan;Creature — Kavu;G;Invasion (Rare);0
+Pincer Spider;Creature — Spider;G;Invasion (Common);0
+Kavu Climber;Creature — Kavu;G;Ninth Edition (Common)/Invasion (Common)/Tenth Edition (Common)/Masters 25 (Common);0
+Quirion Trailblazer;Creature — Elf Scout;G;Invasion (Common);0
+Nomadic Elf;Creature — Elf Nomad;G;Invasion (Common)/Duel Decks: Phyrexia vs. the Coalition (Common);0
+Pygmy Kavu;Creature — Kavu;G;Planeshift (Common);0
+Tangle;Instant;G;Invasion (Uncommon)/Vintage Masters (Common);0
+Whip Silk;Enchantment — Aura;G;Invasion (Common);0
+Wandering Stream;Sorcery;G;Invasion (Common);0
+Explosive Growth;Instant;G;Invasion (Common);0
+Vigorous Charge;Instant;G;Invasion (Common);0
+Rooting Kavu;Creature — Kavu;G;Invasion (Uncommon);0
+Llanowar Vanguard;Creature — Dryad;G;Invasion (Common);0
+Might Weaver;Creature — Human Wizard;G;Invasion (Uncommon)/Tenth Edition (Uncommon);0
+Kavu Chameleon;Creature — Kavu;G;Invasion (Uncommon);0
+Sulam Djinn;Creature — Djinn;G;Invasion (Uncommon);0
+Verduran Emissary;Creature — Human Wizard;G;Invasion (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Treefolk Healer;Creature — Treefolk Cleric;G;Invasion (Uncommon);0
+Wallop;Sorcery;G;Invasion (Uncommon);0
+Canopy Surge;Sorcery;G;Invasion (Uncommon);0
+Thicket Elemental;Creature — Elemental;G;Invasion (Rare)/Duel Decks: Nissa vs. Ob Nixilis (Rare);0
+Thornscape Master;Creature — Human Wizard;G;Invasion (Rare);0
+Verdeloth the Ancient;Legendary Creature — Treefolk;G;Invasion (Rare)/Time Spiral "Timeshifted" (Special)/Archenemy (Rare)/Modern Masters (Rare)/Commander Masters (Uncommon);0
+Molimo, Maro-Sorcerer;Legendary Creature — Elemental;G;Invasion (Rare)/Tenth Edition (Rare)/Archenemy (Rare)/Commander Legends (Rare)/Commander Masters (Uncommon);0
 Blurred Mongoose;Creature — Mongoose;G;Invasion (Rare);0
+Jade Leech;Creature — Leech;G;Invasion (Rare);0
+Elfhame Sanctuary;Enchantment;G;Invasion (Uncommon);0
+Pulse of Llanowar;Enchantment;G;Invasion (Uncommon);0
+Kavu Lair;Enchantment;G;Invasion (Rare);0
+Restock;Sorcery;G;Invasion (Rare)/Magic 2015 Core Set (Uncommon);0
+Bind;Instant;G;Invasion (Rare);0
+Noble Panther;Creature — Cat;G/W;Invasion (Rare);0
+Raging Kavu;Creature — Kavu;G/R;Invasion (Rare)/Promo set for Gatherer (Rare);0
+Slinking Serpent;Creature — Serpent;U/B;Invasion (Uncommon);0
+Riptide Crab;Creature — Crab;W/U;Invasion (Uncommon)/Battlebond (Common);0
+Vicious Kavu;Creature — Kavu;B/R;Invasion (Uncommon);0
+Aura Shards;Enchantment;G/W;Invasion (Uncommon)/Magic: The Gathering-Commander (Uncommon);0
+Plague Spores;Sorcery;B/R;Invasion (Common);0
+Recoil;Instant;U/B;Invasion (Common)/Duel Decks: Ajani vs. Nicol Bolas (Common)/Dominaria Remastered (Uncommon);0
+Absorb;Instant;U/W;Invasion (Rare)/Ravnica Allegiance (Rare)/Dominaria Remastered (Rare);0
+Frenzied Tilling;Sorcery;G/R;Invasion (Common)/Gatecrash (Uncommon);0
+Llanowar Knight;Creature — Elf Knight;G/W;Invasion (Common);0
+Galina's Knight;Creature — Merfolk Knight;U/W;Invasion (Common);0
+Vodalian Zombie;Creature — Merfolk Zombie;B/U;Invasion (Common);0
+Shivan Zombie;Creature — Phyrexian Barbarian Zombie;B/R;Invasion (Common);0
+Yavimaya Barbarian;Creature — Elf Barbarian;G/R;Invasion (Common);0
+Charging Troll;Creature — Troll;G/W;Invasion (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Horned Cheetah;Creature — Cat;G/W;Invasion (Uncommon);0
+Armadillo Cloak;Enchantment — Aura;G/W;Invasion (Common)/Duel Decks: Phyrexia vs. the Coalition (Common)/Archenemy (Common)/Vintage Masters (Uncommon)/Eternal Masters (Uncommon);0
+Samite Archer;Creature — Human Cleric Archer;U/W;Invasion (Uncommon);0
+Teferi's Moat;Enchantment;U/W;Invasion (Rare)/Time Spiral "Timeshifted" (Special);0
+Sleeper's Robe;Enchantment — Aura;U/B;Invasion (Uncommon);0
+Backlash;Instant;B/R;Invasion (Uncommon);0
+Cinder Shade;Creature — Shade;B/R;Invasion (Uncommon);0
+Cauldron Dance;Instant;B/R;Invasion (Uncommon)/Commander 2017 (Uncommon);0
+Yavimaya Kavu;Creature — Kavu;G/R;Invasion (Uncommon);0
+Hunting Kavu;Creature — Kavu;G/R;Invasion (Uncommon);0
+Angelic Shield;Enchantment;U/W;Invasion (Uncommon)/Duel Decks: Venser vs. Koth (Uncommon);0
+Seer's Vision;Enchantment;U/B;Invasion (Uncommon);0
+Smoldering Tar;Enchantment;B/R;Invasion (Uncommon);0
+Fires of Yavimaya;Enchantment;G/R;Invasion (Uncommon)/Planechase (Uncommon)/Archenemy (Uncommon)/Planechase 2012 Edition (Uncommon)/Duel Decks: Heroes vs. Monsters (Uncommon)/Commander 2013 Edition (Uncommon)/Magic: The Gathering—Conspiracy (Uncommon)/Vintage Masters (Uncommon)/Planechase Anthology (Uncommon);0
+Sterling Grove;Enchantment;G/W;Invasion (Uncommon)/Modern Horizons 2 (Rare);0
+Heroes' Reunion;Instant;G/W;Invasion (Uncommon)/Archenemy (Uncommon)/Duel Decks: Knights vs. Dragons (Uncommon)/Return to Ravnica (Uncommon);0
+Aura Mutation;Instant;G/W;Invasion (Rare)/Commander 2016 (Rare)/Streets of New Capenna Commander (Rare);0
+Kangee, Aerie Keeper;Legendary Creature — Bird Wizard;U/W;Invasion (Rare);0
+Ordered Migration;Sorcery;U/W;Invasion (Uncommon);0
+Vile Consumption;Enchantment;B/U;Invasion (Rare);0
+Spinal Embrace;Instant;U/B;Invasion (Rare)/Commander 2013 Edition (Rare)/Zendikar Rising Commander (Rare)/Dominaria Remastered (Rare);0
+Undermine;Instant;U/B;Invasion (Rare)/Duel Decks: Ajani vs. Nicol Bolas (Rare);0
+# Done through card 23190
 #23248
 Llanowar Wastes;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/The Brothers' War (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #23249
