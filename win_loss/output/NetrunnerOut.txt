@@ -1,31 +1,89 @@
 Android: Netrunner W/L Loss Tracker, and deck selector
-My current record is 15-7
+My current record is 106-44
+
+Record as corporation: 52-20
+Record as runner: 54-24
 
 My record by identity:
-Anarch (13-4):
+Anarch: 27-6
  - Edward Kim: Humanity's Hammer: 2-0
  - MaxX: Maximum Punk Rock: 7-0
  - Noise: Hacker Extraordinaire: 3-3
  - Quetzal: Free Spirit: 1-1
-Criminal (2-3):
+ - Reina Roja: Freedom Fighter: 5-0
+ - Valencia Estevez: The Angel of Cayambe: 7-0
+ - Whizzard: Master Gamer: 2-2
+Criminal: 23-11
+ - 419: Amoral Scammer: 1-1
+ - Andromeda: Dispossessed Ristie: 4-0
+ - Armand "Geist" Walker: Tech Lord: 2-1
  - Gabriel Santiago: Consummate Professional: 2-3
-Haas-Bioroid:
-Jinteki:
-NBN:
-Neutral Corp:
-Neutral Runner:
-Shaper:
-Weyland:
-
-My record against various factions:
-- Haas-Bioroid: 6-1
-- Jinteki: 2-5
-- NBN: 1-1
-- Weyland: 6-0
+ - Iain Stirling: Retired Spook: 1-1
+ - Ken "Express" Tenma: Disappeared Clone: 4-0
+ - Leela Patel: Trained Pragmatist: 2-1
+ - Los: Data Hijacker: 1-0
+ - Mercury: Chrome Libertador: 0-2
+ - Nyusha "Sable" Sintashta: Symphonic Prodigy: 1-1
+ - Silhouette: Stealth Operative: 4-0
+ - Steve Cambridge: Master Grifter: 0-1
+ - Zahya Sadeghi: Versatile Smuggler: 1-0
+Haas-Bioroid: 26-4
+ - Cerebral Imaging: Infinite Frontiers: 2-0
+ - Custom Biotics: Engineered for Success: 2-0
+ - Haas-Bioroid: Engineering the Future: 6-1
+ - Haas-Bioroid: Precision Design: 1-1
+ - Haas-Bioroid: Stronger Together: 3-0
+ - NEXT Design: Guarding the Net: 4-0
+ - Seidr Laboratories: Destiny Defined: 1-0
+ - Sportsmetal: Go Big or Go Home: 1-0
+ - The Foundry: Refining the Process: 3-1
+ - Thule Subsea: Safety Below: 3-1
+Jinteki: 1-0
+ - AgInfusion: New Miracles for a New World: 1-0
+NBN: 1-0
+ - Azmari EdTech: Shaping the Future: 1-0
+Neutral Corp: 0-3
+ - Ampère: Cybernetics For Anyone: 0-3
+Neutral Runner: 4-5
+ - Apex: Invasive Predator: 2-1
+ - Nova Initiumia: Catalyst & Impetus: 1-4
+ - Sunny Lebeau: Security Specialist: 1-0
+Shaper: 0-2
+ - Ayla "Bios" Rahim: Simulant Specialist: 0-2
+Weyland: 24-13
+ - Argus Security: Protection Guaranteed: 5-0
+ - Blue Sun: Powering the Future: 5-2
+ - GRNDL: Power Unleashed: 0-2
+ - Gagarin Deep Space: Expanding the Horizon: 1-0
+ - SSO Industries: Fueling Innovation: 2-0
+ - Skorpios Defense Systems: Persuasive Power: 2-0
+ - The Outfit: Family Owned and Operated: 1-7
+ - Titan Transnational: Investing In Your Future: 1-1
+ - Weyland Consortium: Because We Built It: 1-1
+ - Weyland Consortium: Building a Better World: 3-0
+ - Weyland Consortium: Built to Last: 3-0
 
 My record against opponents:
-- BK: 0-1
-- Brad: 2-0
-- Rob M: 13-6
+- BK: 4-5
+- Ben J: 3-0
+- Brad G: 5-1
+- Chris N: 0-1
+- Clara A: 2-1
+- Dan R: 1-4
+- Joey A: 1-2
+- John B: 4-0
+- Matt S: 7-9
+- Nick D: 1-0
+- Rob M: 78-21
 
-Suggestion?
+My record against opposing factions:
+- Anarch: 21-4
+- Criminal: 13-10
+- Haas-Bioroid: 18-11
+- Jinteki: 10-9
+- NBN: 9-1
+- Shaper: 18-6
+- Weyland: 17-3
+
+I should play more games with Jinteki, where I only have 1 games. Suggested ID: A Teia: IP Recovery (0 total plays)
+I should play more games with Shaper, where I only have 2 games. Suggested ID: Akiko Nisei: Head Case (0 total plays)

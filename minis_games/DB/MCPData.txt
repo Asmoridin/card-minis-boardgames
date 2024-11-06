@@ -1,3 +1,4 @@
+Abomination;Criminal Syndicate, Hydra;0
 Agent Venom;Guardians of the Galaxy, S.H.I.E.L.D., Web Warriors;0
 Amazing Spider-Man;Defenders, Web Warriors/L;1
 Ancient One;Convocation, Defenders;1
@@ -52,12 +53,14 @@ Doctor Strange, Sorcerer Supreme;Convocation, Defenders;1
 Doctor Voodoo;Avengers, Convocation, Midnight Sons;0
 Domino;A-Force, Uncanny X-Men, Weapon X, X-Force;1
 Dormammu;Dark Dimension/L;1
+Dracula;Cabal, Thralls of Dracula/L;0
 Drax the Destroyer;Guardians of the Galaxy;1
 Ebony Maw;Black Order;1
 Electro;Criminal Syndicate, Spider-Foes;0
 Elektra;Criminal Syndicate, Defenders;1
 Emma Frost;Brotherhood of Mutants, Hellfire Club/L, Uncanny X-Men, New Mutants;1
 Enchantress;Asgard, Cabal;1
+Frankenstein's Monster;Midnight Sons;0
 Gambit;Brotherhood of Mutants, Uncanny X-Men, Servants of the Apocalypse;0
 Gamora;A-Force, Guardians of the Galaxy;0
 Ghost Rider;Defenders, Midnight Sons;0
@@ -100,11 +103,13 @@ Magneto;Brotherhood of Mutants/L, Cabal;1
 Malekith the Accursed;Cabal/L;0
 Maverick;Weapon X;0
 Medusa;A-Force, Inhumans;1
+Mephisto, Lord of Temptation;Cabal, Criminal Syndicate, Legion of the Lost/L;0
 Mister Sinister;Cabal, Servants of the Apocalypse;0
 Moon Knight;Defenders, Midnight Sons, Web Warriors;1
 Ms. Marvel;Avengers, Inhumans;0
 Mysterio;Cabal, Criminal Syndicate, Spider-Foes;0
 Mystique;Brotherhood of Mutants/L, Cabal;1
+N'Kantu, The Living Mummy;Midnight Sons;0
 Namor, The Sub-Mariner;Defenders, S.H.I.E.L.D.;0
 Nebula;Guardians of the Galaxy;0
 Nick Fury;S.H.I.E.L.D./L;1
@@ -161,6 +166,7 @@ The Blob;Brotherhood of Mutants, Servants of the Apocalypse;0
 The Immortal Hulk;Defenders, Midnight Sons;0
 The Mighty Thor;A-Force, Asgard/L;0
 The Original Human Torch;S.H.I.E.L.D.;0
+The Wrecking Crew;Cabal, Criminal Syndicate;0
 Thor, Hero of Midgard;Asgard;0
 Thor, Prince of Asgard;Asgard/L, Avengers;1
 Toad;Brotherhood of Mutants, Servants of the Apocalypse;1
@@ -177,6 +183,7 @@ War Machine;Avengers, S.H.I.E.L.D.;1
 Warlock;New Mutants, X-Force;0
 Wasp;A-Force, Avengers;0
 Weapon X;Weapon X;0
+Werewolf by Night;Midnight Sons;0
 Winter Soldier;S.H.I.E.L.D.;0
 Winter Soldier, Operative;Avengers, Cabal, Hydra, S.H.I.E.L.D., Winter Guard;1
 Wolverine;Avengers, Defenders, Uncanny X-Men, X-Force, Servants of the Apocalypse;1
