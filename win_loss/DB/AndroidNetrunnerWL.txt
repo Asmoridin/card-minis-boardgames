@@ -148,3 +148,103 @@ Weyland Consortium: Building a Better World;Chaos Theory: Wünderkind;Rob M;W
 Weyland Consortium: Built to Last;Ayla "Bios" Rahim: Simulant Specialist;Rob M;W
 Weyland Consortium: Built to Last;Rielle "Kit" Peddler: Transhuman;Dan R;W
 Weyland Consortium: Built to Last;Tāo Salonga: Telepresence Magician;Rob M;W
+Harmony Medtech: Biomedical Pioneer;Noise: Hacker Extraordinaire;Rob M;W
+Harmony Medtech: Biomedical Pioneer;Noise: Hacker Extraordinaire;Rob M;W
+Harmony Medtech: Biomedical Pioneer;Reina Roja: Freedom Fighter;Nick D;L
+Harmony Medtech: Biomedical Pioneer;Ken "Express" Tenma: Disappeared Clone;Rob M;W
+Harmony Medtech: Biomedical Pioneer;Ken "Express" Tenma: Disappeared Clone;Rob M;W
+Industrial Genomics: Growing Solutions;MaxX: Maximum Punk Rock;Ben J;W
+Jinteki Biotech: Life Imagined;Noise: Hacker Extraordinaire;Jeff;W
+Jinteki Biotech: Life Imagined;Gabriel Santiago: Consummate Professional;Clara A;W
+Jinteki Biotech: Life Imagined;Jesminder Sareen: Girl Behind the Curtain;Rob M;W
+Jinteki: Personal Evolution;Andromeda: Dispossessed Ristie;Rob M;L
+Jinteki: Personal Evolution;Gabriel Santiago: Consummate Professional;Rob M;L
+Jinteki: Replicating Perfection;Noise: Hacker Extraordinaire;Rob M;W
+Jinteki: Replicating Perfection;Noise: Hacker Extraordinaire;Rob M;W
+Jinteki: Replicating Perfection;Iain Stirling: Retired Spook;BK;W
+Jinteki: Replicating Perfection;Chaos Theory: Wünderkind;John B;W
+Jinteki: Replicating Perfection;Hayley Kaplan: Universal Scholar;Rob M;W
+Jinteki: Replicating Perfection;Hayley Kaplan: Universal Scholar;Rob M;W
+Jinteki: Replicating Perfection;The Professor: Keeper of Knowledge;Rob M;W
+Jinteki: Replicating Perfection;The Professor: Keeper of Knowledge;Rob M;L
+Jinteki: Restoring Humanity;Esâ Afontov: Eco-Insurrectionist;Dan R;L
+Jinteki: Restoring Humanity;Zahya Sadeghi: Versatile Smuggler;Matt S;W
+Jinteki: Restoring Humanity;Zahya Sadeghi: Versatile Smuggler;Matt S;L
+Nisei Division: The Next Generation;Rielle "Kit" Peddler: Transhuman;Ben J;L
+Pālanā Foods: Sustainable Growth;Gabriel Santiago: Consummate Professional;Cas S;L
+Pālanā Foods: Sustainable Growth;Ken "Express" Tenma: Disappeared Clone;Joey A;L
+Pālanā Foods: Sustainable Growth;Hayley Kaplan: Universal Scholar;Rob M;W
+Tennin Institute: The Secrets Within;Noise: Hacker Extraordinaire;Matt S;L
+Tennin Institute: The Secrets Within;Noise: Hacker Extraordinaire;Rob M;W
+Tennin Institute: The Secrets Within;Noise: Hacker Extraordinaire;Rob M;W
+Tennin Institute: The Secrets Within;Noise: Hacker Extraordinaire;Rob M;L
+Chaos Theory: Wünderkind;Haas-Bioroid: Engineering the Future;Rob M;W
+Chaos Theory: Wünderkind;Jinteki Biotech: Life Imagined;Rob M;W
+Chaos Theory: Wünderkind;Jinteki: Potential Unleashed;Rob M;W
+Chaos Theory: Wünderkind;Tennin Institute: The Secrets Within;Rob M;W
+Chaos Theory: Wünderkind;Tennin Institute: The Secrets Within;Rob M;W
+Chaos Theory: Wünderkind;Weyland Consortium: Builder of Nations;Rob M;W
+Chaos Theory: Wünderkind;Weyland Consortium: Builder of Nations;Rob M;W
+Chaos Theory: Wünderkind;Weyland Consortium: Building a Better World;John B;L
+Ele "Smoke" Scovak: Cynosure of the Net;Haas-Bioroid: Architects of Tomorrow;Rob M;W
+Ele "Smoke" Scovak: Cynosure of the Net;Haas-Bioroid: Architects of Tomorrow;Rob M;L
+Ele "Smoke" Scovak: Cynosure of the Net;Haas-Bioroid: Architects of Tomorrow;Rob M;L
+Ele "Smoke" Scovak: Cynosure of the Net;Jinteki: Potential Unleashed;BK;W
+Exile: Streethawk;The Foundry: Refining the Process;Rob M;W
+Exile: Streethawk;Weyland Consortium: Building a Better World;Matt S;W
+Hayley Kaplan: Universal Scholar;Haas-Bioroid: Engineering the Future;Joey A;L
+Hayley Kaplan: Universal Scholar;Argus Security: Protection Guaranteed;Jeff;W
+Kate "Mac" McCaffrey: Digital Tinker;Custom Biotics: Engineered for Success;Rob M;L
+Kate "Mac" McCaffrey: Digital Tinker;Cybernetics Division: Humanity Upgraded;Rob M;W
+Kate "Mac" McCaffrey: Digital Tinker;Haas-Bioroid: Engineering the Future;Rob M;W
+Kate "Mac" McCaffrey: Digital Tinker;NBN: Making News;Rob M;W
+Kate "Mac" McCaffrey: Digital Tinker;NBN: Making News;Rob M;W
+Kate "Mac" McCaffrey: Digital Tinker;GRNDL: Power Unleashed;Rob M;W
+Kate "Mac" McCaffrey: Digital Tinker;GRNDL: Power Unleashed;Rob M;W
+Nasir Meidan: Cyber Explorer;Tennin Institute: The Secrets Within;Ben J;W
+Nasir Meidan: Cyber Explorer;Gagarin Deep Space: Expanding the Horizon;Kevin T;W
+Rielle "Kit" Peddler: Transhuman;NEXT Design: Guarding the Net;Rob M;W
+Rielle "Kit" Peddler: Transhuman;GRNDL: Power Unleashed;Rob M;W
+Rielle "Kit" Peddler: Transhuman;GRNDL: Power Unleashed;Rob M;W
+The Professor: Keeper of Knowledge;The Foundry: Refining the Process;Rob M;W
+The Professor: Keeper of Knowledge;The Foundry: Refining the Process;Rob M;W
+The Professor: Keeper of Knowledge;The Foundry: Refining the Process;Rob M;L
+The Professor: Keeper of Knowledge;The Foundry: Refining the Process;Rob M;L
+The Professor: Keeper of Knowledge;Harmony Medtech: Biomedical Pioneer;Joey A;L
+The Professor: Keeper of Knowledge;NBN: Making News;John B;L
+The Professor: Keeper of Knowledge;Argus Security: Protection Guaranteed;Cas S;W
+Haarpsichord Studios: Entertainment Unleashed;Iain Stirling: Retired Spook;Ben J;L
+Haarpsichord Studios: Entertainment Unleashed;Hayley Kaplan: Universal Scholar;Rob M;W
+NBN: Controlling the Message;Ele "Smoke" Scovak: Cynosure of the Net;BK;W
+NBN: Controlling the Message;Ele "Smoke" Scovak: Cynosure of the Net;BK;W
+NBN: Controlling the Message;Hayley Kaplan: Universal Scholar;Rob M;W
+NBN: Controlling the Message;Hayley Kaplan: Universal Scholar;Rob M;W
+NBN: Controlling the Message;Hayley Kaplan: Universal Scholar;Rob M;W
+NBN: Making News;Noise: Hacker Extraordinaire;Rob M;W
+NBN: Making News;Noise: Hacker Extraordinaire;Rob M;W
+NBN: Making News;Noise: Hacker Extraordinaire;Rob M;L
+NBN: Making News;Gabriel Santiago: Consummate Professional;Ben J;L
+NBN: Making News;Nasir Meidan: Cyber Explorer;Rob M;W
+NBN: Making News;Nasir Meidan: Cyber Explorer;Rob M;W
+NBN: Making News;Rielle "Kit" Peddler: Transhuman;Rob M;W
+NBN: Making News;Rielle "Kit" Peddler: Transhuman;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;W
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;L
+NBN: The World is Yours*;Noise: Hacker Extraordinaire;Rob M;L
+Near-Earth Hub: Broadcast Center;Noise: Hacker Extraordinaire;Brad G;W
+Near-Earth Hub: Broadcast Center;Noise: Hacker Extraordinaire;Rob M;W
+Near-Earth Hub: Broadcast Center;Noise: Hacker Extraordinaire;Rob M;W
+Near-Earth Hub: Broadcast Center;Noise: Hacker Extraordinaire;Rob M;W
+Near-Earth Hub: Broadcast Center;Reina Roja: Freedom Fighter;BK;W
+Near-Earth Hub: Broadcast Center;Reina Roja: Freedom Fighter;BK;W
+Near-Earth Hub: Broadcast Center;Ken "Express" Tenma: Disappeared Clone;Joey A;L
+Near-Earth Hub: Broadcast Center;Kate "Mac" McCaffrey: Digital Tinker;John B;W
+Near-Earth Hub: Broadcast Center;Kate "Mac" McCaffrey: Digital Tinker;John B;W
+Near-Earth Hub: Broadcast Center;Kate "Mac" McCaffrey: Digital Tinker;Unknown;W
+Near-Earth Hub: Broadcast Center;Kate "Mac" McCaffrey: Digital Tinker;Unknown;W
+SYNC: Everything, Everywhere;Gabriel Santiago: Consummate Professional;Unknown;L

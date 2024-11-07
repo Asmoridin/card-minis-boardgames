@@ -4615,7 +4615,25 @@ Ordered Migration;Sorcery;U/W;Invasion (Uncommon);0
 Vile Consumption;Enchantment;B/U;Invasion (Rare);0
 Spinal Embrace;Instant;U/B;Invasion (Rare)/Commander 2013 Edition (Rare)/Zendikar Rising Commander (Rare)/Dominaria Remastered (Rare);0
 Undermine;Instant;U/B;Invasion (Rare)/Duel Decks: Ajani vs. Nicol Bolas (Rare);0
-# Done through card 23190
+Reckless Assault;Enchantment;B/R;Invasion (Rare);0
+Blazing Specter;Creature — Specter;B/R;Invasion (Rare)/Duel Decks: Ajani vs. Nicol Bolas (Rare)/Vintage Masters (Uncommon);0
+Meteor Storm;Enchantment;G/R;Invasion (Rare);0
+Aether Rift;Enchantment;G/R;Invasion (Rare);0
+Artifact Mutation;Instant;G/R;Invasion (Rare)/Commander 2016 (Rare)/Ikoria Commander (Rare)/Streets of New Capenna Commander (Rare);0
+Reviving Vapors;Instant;U/W;Invasion (Uncommon)/Vintage Masters (Uncommon)/Ultimate Masters (Uncommon);0
+Armored Guardian;Creature — Cat Soldier;U/W;Invasion (Rare);0
+Powerstone Minefield;Enchantment;R/W;Apocalypse (Rare);0
+Void;Sorcery;B/R;Invasion (Rare)/Time Spiral "Timeshifted" (Special)/Eternal Masters (Rare);0
+Pyre Zombie;Creature — Zombie;B/R;Invasion (Rare)/Dominaria Remastered (Rare);0
+Overabundance;Enchantment;G/R;Invasion (Rare);0
+Voracious Cobra;Creature — Snake;G/R;Invasion (Uncommon);0
+Sabertooth Nishoba;Creature — Cat Beast Warrior;G/W;Invasion (Rare);0
+Dromar, the Banisher;Legendary Creature — Dragon;U/W/B;Invasion (Rare);0
+Crosis, the Purger;Legendary Creature — Dragon;B/U/R;Invasion (Rare)/Premium Deck Series: Graveborn (Rare)/Commander 2017 (Rare);0
+Darigaaz, the Igniter;Legendary Creature — Dragon;B/R/G;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare);0
+Rith, the Awakener;Legendary Creature — Dragon;R/G/W;Invasion (Rare)/From the Vault: Dragons (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare)/Dominaria Remastered (Rare);0
+Treva, the Renewer;Legendary Creature — Dragon;G/W/U;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare);0
+# Done through card 23210
 #23248
 Llanowar Wastes;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/The Brothers' War (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #23249

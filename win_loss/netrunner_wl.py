@@ -20,7 +20,7 @@ else:
 
 CURRENT_FORMAT = "Standard"
 
-double_print("Android: Netrunner W/L Loss Tracker, and deck selector", out_file_h)
+double_print("Android: Netrunner Win-Loss Tracker, and deck selector", out_file_h)
 
 CORP_FACTIONS = ['Weyland', 'Haas-Bioroid', 'NBN', 'Jinteki', 'Neutral Corp']
 RUNNER_FACTIONS = ['Neutral Runner', 'Shaper', 'Anarch', 'Criminal']
@@ -30,6 +30,7 @@ identities = {'Startup':{}, 'Standard':{}, 'Extended':{}}
 id_by_faction = {}
 id_to_faction = {}
 id_total_plays = {}
+seen_total = {}
 id_lines = id_data_file.readlines()
 id_data_file.close()
 id_lines = [line.strip() for line in id_lines]
@@ -48,6 +49,7 @@ for id_line in id_lines:
     id_by_faction[ID_FACTION].append(identity_name)
     id_to_faction[identity_name] = ID_FACTION
     id_total_plays[identity_name] = 0
+    seen_total[identity_name] = 0
     do_formats = ['Extended']
     if id_format == 'Standard' or id_format == 'Startup':
         do_formats.append('Standard')
@@ -92,6 +94,8 @@ for line in in_lines:
         continue
     if my_id not in id_wl:
         id_wl[my_id] = [0, 0]
+    seen_total[my_id] += 1
+    seen_total[opp_id] += 1
     if my_faction not in faction_wl:
         faction_wl[my_faction] = [0, 0]
     if opp_name not in opp_wl:
@@ -123,8 +127,8 @@ for line in in_lines:
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
 
-double_print(f"Record as corporation: {corp_wl[0]}-{corp_wl[1]}", out_file_h)
-double_print(f"Record as runner: {runner_wl[0]}-{runner_wl[1]}", out_file_h)
+double_print(f"Record as Corporation: {corp_wl[0]}-{corp_wl[1]}", out_file_h)
+double_print(f"Record as Runner: {runner_wl[0]}-{runner_wl[1]}", out_file_h)
 
 double_print("\nMy record by identity:", out_file_h)
 for faction, faction_ids in sorted(id_by_faction.items()):
@@ -145,6 +149,20 @@ double_print("\nMy record against opposing factions:", out_file_h)
 for opp_faction, fac_wl in sorted(opp_faction_wl.items()):
     faction_wl_str = f"- {opp_faction}: {fac_wl[0]}-{fac_wl[1]}"
     double_print(faction_wl_str, out_file_h)
+
+# Least seen IDs
+LEAST_PLAYED_QTY = 100
+least_played_ids = []
+for id_name, id_played in seen_total.items():
+    if id_played < LEAST_PLAYED_QTY:
+        LEAST_PLAYED_QTY = id_played
+        least_played_ids = [id_name]
+    elif id_played == LEAST_PLAYED_QTY:
+        least_played_ids.append(id_name)
+
+double_print(f"\nI've seen the following IDs on the table the least ({LEAST_PLAYED_QTY} times)",
+    out_file_h)
+double_print(", ".join(least_played_ids), out_file_h)
 
 # Figure out least played relevant ID
 CORP_WEIGHT = len(identities[CURRENT_FORMAT]['Weyland']) + \
@@ -194,12 +212,13 @@ for id_name, id_plays in filtered_id_plays:
 corp_id_plays = sorted(corp_id_plays, key=lambda x:(x[1], x[0]))
 runner_id_plays = sorted(runner_id_plays, key=lambda x:(x[1], x[0]))
 
+double_print(f"\nFollowing are limited to my current format ({CURRENT_FORMAT})", out_file_h)
 WEIGHT_STR = ""
 low_c_id = corp_id_plays[0]
 if LOWEST_CORP[0] == "Neutral Corp":
     WEIGHT_STR = " (weighted)"
-LOW_C_STR = f"\nI should play more games with {LOWEST_CORP[0]}, where I only have " + \
-    f"{int(LOWEST_CORP[1])}{WEIGHT_STR} games. Suggested ID: {low_c_id[0]} ({low_c_id[1]} " + \
+LOW_C_STR = f"I should play more games with {LOWEST_CORP[0]}, where I only have " + \
+    f"{int(LOWEST_CORP[1])}{WEIGHT_STR} games. Suggested ID - {low_c_id[0]} ({low_c_id[1]} " + \
     "total plays)"
 double_print(LOW_C_STR, out_file_h)
 
@@ -208,6 +227,6 @@ low_r_id = runner_id_plays[0]
 if LOWEST_RUNNER[0] == "Neutral Runner":
     WEIGHT_STR = " (weighted)"
 LOW_R_STR = f"I should play more games with {LOWEST_RUNNER[0]}, where I only have " + \
-    f"{int(LOWEST_RUNNER[1])}{WEIGHT_STR} games. Suggested ID: {low_r_id[0]} ({low_r_id[1]} " + \
+    f"{int(LOWEST_RUNNER[1])}{WEIGHT_STR} games. Suggested ID - {low_r_id[0]} ({low_r_id[1]} " + \
     "total plays)"
 double_print(LOW_R_STR, out_file_h)
