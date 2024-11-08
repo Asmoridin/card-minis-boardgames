@@ -4633,11 +4633,72 @@ Crosis, the Purger;Legendary Creature — Dragon;B/U/R;Invasion (Rare)/Premium D
 Darigaaz, the Igniter;Legendary Creature — Dragon;B/R/G;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare);0
 Rith, the Awakener;Legendary Creature — Dragon;R/G/W;Invasion (Rare)/From the Vault: Dragons (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare)/Dominaria Remastered (Rare);0
 Treva, the Renewer;Legendary Creature — Dragon;G/W/U;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare);0
-# Done through card 23210
-#23248
+Wayfaring Giant;Creature — Giant;W;Invasion (Uncommon);0
+Temporal Distortion;Enchantment;U;Invasion (Rare);0
+Coalition Victory;Sorcery;U/R/B/G/W;Invasion (Rare)/Time Spiral "Timeshifted" (Special);0
+Seashell Cameo;Artifact;C;Invasion (Uncommon);0
+Drake-Skull Cameo;Artifact;C;Invasion (Uncommon);0
+Bloodstone Cameo;Artifact;C;Invasion (Uncommon);0
+Troll-Horn Cameo;Artifact;C;Invasion (Uncommon);0
+Tigereye Cameo;Artifact;C;Invasion (Uncommon);0
+Power Armor;Artifact;C;Invasion (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Juntu Stakes;Artifact;C;Invasion (Rare);0
+Alloy Golem;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Sparring Golem;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Phyrexian Altar;Artifact;C;Invasion (Rare)/Ultimate Masters (Rare)/Double Masters 2022 (Rare);0
+Urza's Filter;Artifact;C;Invasion (Rare);0
+Tsabo's Web;Artifact;C;Invasion (Rare)/Mystery Booster 2: Convention Edition (Rare);0
+Tek;Artifact Creature — Dragon;C;Invasion (Rare);0
+Chromatic Sphere;Artifact;C;Invasion (Uncommon)/Mirrodin (Common)/Jumpstart (Common);0
+Phyrexian Lens;Artifact;C;Invasion (Rare);0
+Lotus Guardian;Artifact Creature — Dragon;C;Invasion (Rare);0
+Planar Portal;Artifact;C;Eighth Edition (Rare)/Invasion (Rare);0
+Irrigation Ditch;Land;C;Invasion (Common);0
+Ancient Spring;Land;C;Invasion (Common);0
+Sulfur Vent;Land;C;Invasion (Common);0
+Geothermal Crevice;Land;C;Invasion (Common);0
+Tinder Farm;Land;C;Invasion (Common);0
+Coastal Tower;Land;C;Eighth Edition (Uncommon)/Invasion (Uncommon);0
+Salt Marsh;Land;C;Eighth Edition (Uncommon)/Invasion (Uncommon);0
+Urborg Volcano;Land;C;Eighth Edition (Uncommon)/Invasion (Uncommon)/Commander 2017 (Uncommon);0
+Shivan Oasis;Land;C;Eighth Edition (Uncommon)/Invasion (Uncommon)/Planechase (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Elfhame Palace;Land;C;Eighth Edition (Uncommon)/Invasion (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon)/Commander 2017 (Uncommon);0
+Archaeological Dig;Land;C;Invasion (Uncommon);0
+Caves of Koilos;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Modern Event Deck 2014 (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Commander 2016 (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/Dominaria United (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Duskmourn: House of Horror Commander (Rare);0
+Battlefield Forge;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/Dominaria United Commander (Rare)/The Brothers' War (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare);0
 Llanowar Wastes;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/The Brothers' War (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
-#23249
 Yavimaya Coast;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/Dominaria United (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+Shivan Reef;Land;C;Ninth Edition (Rare)/Apocalypse (Rare)/Tenth Edition (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Duel Decks: Elves vs. Inventors (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/Dominaria United (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare);0
+Infest;Sorcery;B;Onslaught (Uncommon)/Shards of Alara (Uncommon)/Archenemy (Uncommon)/Commander 2013 Edition (Uncommon)/Conspiracy: Take the Crown (Uncommon)/Ravnica Clue Edition (Uncommon);0
+Wintermoon Mesa;Land;C;Prophecy (Rare);0
+Pure Reflection;Enchantment;W;Invasion (Rare);0
+Crypt Angel;Creature — Angel;B;Invasion (Rare);0
+Tsabo Tavoc;Legendary Creature — Phyrexian Horror;B/R;Invasion (Rare);0
+Llanowar Cavalry;Creature — Human Soldier;G;Invasion (Common);0
+Kavu Scout;Creature — Kavu Scout;R;Invasion (Common);0
+Well-Laid Plans;Enchantment;U;Invasion (Rare);0
+Wings of Hope;Enchantment — Aura;U/W;Invasion (Common);0
+Cremate;Instant;B;Invasion (Uncommon)/Guildpact (Common)/Return to Ravnica (Common);0
+Dredge;Instant;B;Invasion (Uncommon);0
+Aggressive Urge;Instant;G;Invasion (Common)/Tenth Edition (Common)/Rivals of Ixalan (Common)/Jumpstart (Common);0
+Unquestioned Authority;Enchantment — Aura;W;Judgment (Uncommon)/Magic: The Gathering—Conspiracy (Uncommon)/Commander 2018 (Uncommon)/Commander Legends (Uncommon)/Jumpstart 2022 (Uncommon);0
+Sword Dancer;Creature — Human Rebel;W;Eighth Edition (Uncommon)/Prophecy (Uncommon);0
+Trenching Steed;Creature — Horse Rebel;W;Prophecy (Common);0
+Troubled Healer;Creature — Human Cleric;W;Prophecy (Common);0
+Diving Griffin;Creature — Griffin;W;Eighth Edition (Common)/Prophecy (Common);0
+Glittering Lynx;Creature — Cat;W;Prophecy (Common);0
+Mageta's Boon;Enchantment — Aura;W;Prophecy (Common);0
+Rhystic Shield;Instant;W;Prophecy (Common);0
+Flowering Field;Enchantment — Aura;W;Prophecy (Uncommon);0
+Excise;Instant;W;Prophecy (Common);0
+Mirror Strike;Instant;W;Prophecy (Uncommon);0
+Mine Bearer;Creature — Human Soldier;W;Prophecy (Common);0
+Shield Dancer;Creature — Human Rebel;W;Prophecy (Uncommon);0
+Entangler;Enchantment — Aura;W;Prophecy (Uncommon);0
+Glittering Lion;Creature — Cat;W;Prophecy (Uncommon);0
+Reveille Squad;Creature — Human Rebel;W;Prophecy (Uncommon);0
+Aura Fracture;Enchantment;W;Prophecy (Common);0
+# Done through card 24560
 #24687
 Rhox;Creature — Rhino Beast;G;Eighth Edition (Rare)/Nemesis (Rare)/Tenth Edition (Rare);0
 #26371

@@ -132,3 +132,4 @@ Wooded Foothills;Pioneer-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
+Coalition Victory;Commander-Banned

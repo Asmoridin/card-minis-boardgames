@@ -406,7 +406,7 @@ Son Goten;Saiyan/Earthling;Battle;Blue;2;FS02-06;[FS02] Starter Deck - Vegeta;4
 Son Goten;Saiyan/Earthling;Battle;Yellow;2;FB02-120;[FB02] Booster Pack - Blazing Aura;4
 Sorbet;Frieza's Army;Battle;Yellow;1;FS04-07;[FS04] Starter Deck - Frieza;4
 Spaceship of Hope;Saiyan/Earthling;Extra;Black;1;FB03-136;[FB03] Booster Pack - Raging Roar;3
-Special Beam Cannon;Namekian;Extra;Green;5;FB03-077;[FB03] Booster Pack - Raging Roar;1
+Special Beam Cannon;Namekian;Extra;Green;5;FB03-077;[FB03] Booster Pack - Raging Roar/[FB04] Booster Pack - Ultra Limit;1
 Sphere of Destruction;Pride Troopers/God of Destruction/Universe 11;Extra;Red;2;FB03-026;[FB03] Booster Pack - Raging Roar;3
 Spopovich;Earthling/Wicked Soul;Battle;Yellow;2;FB03-079;[FB03] Booster Pack - Raging Roar;3
 Spy Robot;Robot;Battle;Green;1;FB02-081;[FB02] Booster Pack - Blazing Aura;3
@@ -522,3 +522,96 @@ Zen-Oh;Universe;Battle;Blue;6;FB02-049;[FB02] Booster Pack - Blazing Aura;2
 Zoiray;Pride Troopers/Universe 11;Battle;Red;1;FB03-010;[FB03] Booster Pack - Raging Roar;2
 Zoonama;Alien;Battle;Black;1;FB03-109;[FB03] Booster Pack - Raging Roar;3
 Zuno;Alien;Battle;Blue;2;FB02-048;[FB02] Booster Pack - Blazing Aura;4
+Son Goku;Saiyan/Universe 7;Leader;Red;;FB04-001;[FB04] Booster Pack - Ultra Limit;0
+Whis;Angel/Universe 7;Battle;Red;7;FB04-002;[FB04] Booster Pack - Ultra Limit;0
+Obuni;Universe 10/Tournament of Power;Battle;Red;3;FB04-003;[FB04] Booster Pack - Ultra Limit;0
+Golden Frieza;Frieza Clan/Universe 7;Battle;Red;3;FB04-004;[FB04] Booster Pack - Ultra Limit;0
+Shantza;Universe 4/Tournament of Power;Battle;Red;2;FB04-005;[FB04] Booster Pack - Ultra Limit;0
+Jiren;Pride Troopers/Universe 11;Battle;Red;6;FB04-006;[FB04] Booster Pack - Ultra Limit;0
+Shin;Supreme Kai/Universe 7;Battle;Red;1;FB04-007;[FB04] Booster Pack - Ultra Limit;0
+Shin (Mini) : DA;Supreme Kai;Battle;Red;1;FB04-008;[FB04] Booster Pack - Ultra Limit;0
+Android 17;Android/Universe 7;Battle;Red;1;FB04-009;[FB04] Booster Pack - Ultra Limit;0
+Zen-Oh;Universe;Battle;Red;6;FB04-010;[FB04] Booster Pack - Ultra Limit;0
+Son Goku;Saiyan/Universe 7;Battle;Red;4;FB04-011;[FB04] Booster Pack - Ultra Limit;0
+Son Goku (Mini) : DA;Saiyan;Battle;Red;2;FB04-012;[FB04] Booster Pack - Ultra Limit;0
+Son Gohan : Adolescence;Saiyan/Earthling/Universe 7;Battle;Red;2;FB04-013;[FB04] Booster Pack - Ultra Limit;0
+Great Priest;Angel/Universe;Battle;Red;3;FB04-014;[FB04] Booster Pack - Ultra Limit;0
+Dyspo;Pride Troopers/Universe 11;Battle;Red;2;FB04-015;[FB04] Booster Pack - Ultra Limit;0
+Toppo;Pride Troopers/God of Destruction/Universe 11;Battle;Red;4;FB04-016;[FB04] Booster Pack - Ultra Limit;0
+Beerus;God of Destruction/Universe 7;Battle;Red;3;FB04-017;[FB04] Booster Pack - Ultra Limit;0
+Frieza;Frieza Clan/Universe 7;Battle;Red;5;FB04-018;[FB04] Booster Pack - Ultra Limit;0
+Vegeta;Saiyan/Universe 7;Battle;Red;4;FB04-019;[FB04] Booster Pack - Ultra Limit;0
+Bota Magetta;Universe 6;Battle;Red;2;FB04-020;[FB04] Booster Pack - Ultra Limit;0
+Monna;Universe 4;Battle;Red;2;FB04-021;[FB04] Booster Pack - Ultra Limit;0
+Extreme Ultra Instinct;Saiyan/Universe 7;Extra;Red;1;FB04-022;[FB04] Booster Pack - Ultra Limit;0
+Heat Aura;Pride Troopers/Universe 11;Extra;Red;3;FB04-023;[FB04] Booster Pack - Ultra Limit;0
+Arch-Enemies Team Up;Saiyan/Frieza Clan/Universe 7;Extra;Red;1;FB04-024;[FB04] Booster Pack - Ultra Limit;0
+Inexhaustible Power;Pride Troopers/Universe 11;Extra;Red;2;FB04-025;[FB04] Booster Pack - Ultra Limit;0
+Son Gohan : Adolescence;Saiyan/Earthling;Leader;Blue;;FB04-026;[FB04] Booster Pack - Ultra Limit;0
+Fortuneteller Baba;Earthling;Battle;Blue;2;FB04-027;[FB04] Booster Pack - Ultra Limit;0
+Kibito;Attendant;Battle;Blue;1;FB04-028;[FB04] Booster Pack - Ultra Limit;0
+Kibito Kai;Supreme Kai/Potara;Battle;Blue;3;FB04-029;[FB04] Booster Pack - Ultra Limit;0
+Great Saiyaman 2;Earthling/Satan City;Battle;Blue;4;FB04-030;[FB04] Booster Pack - Ultra Limit;0
+Gotenks;Saiyan/Earthling;Battle;Blue;2;FB04-031;[FB04] Booster Pack - Ultra Limit;0
+Gotenks;Saiyan/Earthling;Battle;Blue;3;FB04-032;[FB04] Booster Pack - Ultra Limit;0
+Gotenks;Saiyan/Earthling;Battle;Blue;4;FB04-033;[FB04] Booster Pack - Ultra Limit;0
+Shin;Supreme Kai;Battle;Blue;1;FB04-034;[FB04] Booster Pack - Ultra Limit;0
+Son Goku;Saiyan/Another World;Battle;Blue;3;FB04-035;[FB04] Booster Pack - Ultra Limit;0
+Son Goten;Saiyan/Earthling;Battle;Blue;2;FB04-036;[FB04] Booster Pack - Ultra Limit;0
+Son Gohan : Adolescence;Saiyan/Earthling;Battle;Blue;2;FB04-037;[FB04] Booster Pack - Ultra Limit;0
+Son Gohan : Adolescence;Saiyan/Earthling;Battle;Blue;3;FB04-038;[FB04] Booster Pack - Ultra Limit;0
+Tien Shinhan;Earthling;Battle;Blue;7;FB04-039;[FB04] Booster Pack - Ultra Limit;0
+Trunks : Youth;Saiyan/Earthling;Battle;Blue;2;FB04-040;[FB04] Booster Pack - Ultra Limit;0
+Videl;Earthling/Satan City;Battle;Blue;1;FB04-041;[FB04] Booster Pack - Ultra Limit;0
+Piccolo;Namekian/God;Battle;Blue;1;FB04-042;[FB04] Booster Pack - Ultra Limit;0
+Bulma (Mini) : DA;Earthling;Battle;Blue;2;FB04-043;[FB04] Booster Pack - Ultra Limit;0
+Vegeta;Saiyan/Another World;Battle;Blue;2;FB04-044;[FB04] Booster Pack - Ultra Limit;0
+Vegeta (Mini) : DA;Saiyan;Battle;Blue;2;FB04-045;[FB04] Booster Pack - Ultra Limit;0
+Vegito;Saiyan/Potara;Battle;Blue;4;FB04-046;[FB04] Booster Pack - Ultra Limit;0
+Overwhelming Confidence;Saiyan/Earthling;Extra;Blue;5;FB04-047;[FB04] Booster Pack - Ultra Limit;0
+Galactic Donut;Saiyan/Earthling;Extra;Blue;3;FB04-048;[FB04] Booster Pack - Ultra Limit;0
+Amazing Hidden Potential;Saiyan/Earthling;Extra;Blue;5;FB04-049;[FB04] Booster Pack - Ultra Limit;0
+Legend of the Strongest Sword;Supreme Kai;Extra;Blue;1;FB04-050;[FB04] Booster Pack - Ultra Limit;0
+Vegeta;Saiyan;Leader;Green;;FB04-051;[FB04] Booster Pack - Ultra Limit;0
+Great Ape Vegeta;Saiyan/Great Ape;Battle;Green;6;FB04-052;[FB04] Booster Pack - Ultra Limit;0
+Kami;Namekian/God/Lookout;Battle;Green;5;FB04-053;[FB04] Booster Pack - Ultra Limit;0
+Master Roshi;Earthling;Battle;Green;2;FB04-054;[FB04] Booster Pack - Ultra Limit;0
+Krillin;Earthling;Battle;Green;2;FB04-055;[FB04] Booster Pack - Ultra Limit;0
+Saibaiman;Saibaiman;Battle;Green;2;FB04-056;[FB04] Booster Pack - Ultra Limit;0
+Android 18;Android;Battle;Green;1;FB04-057;[FB04] Booster Pack - Ultra Limit;0
+Cell;Android;Battle;Green;3;FB04-058;[FB04] Booster Pack - Ultra Limit;0
+Son Goku;Saiyan;Battle;Green;3;FB04-059;[FB04] Booster Pack - Ultra Limit;0
+Son Gohan : Youth;Saiyan/Earthling;Battle;Green;2;FB04-060;[FB04] Booster Pack - Ultra Limit;0
+Turles;Saiyan/Turles Crusher Corps;Battle;Green;5;FB04-061;[FB04] Booster Pack - Ultra Limit;0
+Chiaotzu;Earthling;Battle;Green;3;FB04-062;[FB04] Booster Pack - Ultra Limit;0
+Tien Shinhan;Earthling;Battle;Green;3;FB04-063;[FB04] Booster Pack - Ultra Limit;0
+Nappa;Saiyan;Battle;Green;3;FB04-064;[FB04] Booster Pack - Ultra Limit;0
+Nappa;Saiyan;Battle;Green;3;FB04-065;[FB04] Booster Pack - Ultra Limit;0
+Piccolo;Namekian;Battle;Green;3;FB04-066;[FB04] Booster Pack - Ultra Limit;0
+Piccolo (Mini) : DA;Namekian/God;Battle;Green;3;FB04-067;[FB04] Booster Pack - Ultra Limit;0
+Bulma;Earthling;Battle;Green;7;FB04-068;[FB04] Booster Pack - Ultra Limit;0
+Vegeta;Saiyan;Battle;Green;3;FB04-069;[FB04] Booster Pack - Ultra Limit;0
+Yajirobe;Earthling;Battle;Green;3;FB04-070;[FB04] Booster Pack - Ultra Limit;0
+Yamcha;Earthling;Battle;Green;1;FB04-071;[FB04] Booster Pack - Ultra Limit;0
+Raditz;Saiyan;Battle;Green;3;FB04-072;[FB04] Booster Pack - Ultra Limit;0
+A Warm Greeting;Saiyan;Extra;Green;2;FB04-073;[FB04] Booster Pack - Ultra Limit;0
+Self-Destructing Saibaiman;Saibaiman;Extra;Green;1;FB04-074;[FB04] Booster Pack - Ultra Limit;0
+Invasion of the Saiyans;Saiyan;Extra;Green;5;FB04-075;[FB04] Booster Pack - Ultra Limit;0
+Artifical Full Moon;Saiyan;Extra;Green;2;FB04-076;[FB04] Booster Pack - Ultra Limit;0
+Majin Buu : Evil;Majin;Leader;Yellow;;FB04-077;[FB04] Booster Pack - Ultra Limit;0
+Idasa;Earthling;Battle;Green;1;FB04-078;[FB04] Booster Pack - Ultra Limit;0
+Shin;Supreme Kai;Battle;Green;3;FB04-079;[FB04] Booster Pack - Ultra Limit;0
+King Gomah : DA;-;Battle;Green;3;FB04-080;[FB04] Booster Pack - Ultra Limit;0
+Cooler;Frieza Clan;Battle;Yellow;3;FB04-081;[FB04] Booster Pack - Ultra Limit;0
+Dabura;Demon Realm Race/Wicked Soul;Battle;Yellow;3;FB04-082;[FB04] Booster Pack - Ultra Limit;0
+Grand Supreme Kai;Supreme Kai;Battle;Yellow;2;FB04-083;[FB04] Booster Pack - Ultra Limit;0
+West Supreme Kai;Supreme Kai;Battle;Yellow;7;FB04-084;[FB04] Booster Pack - Ultra Limit;0
+Babidi;Evil Wizard;Battle;Yellow;3;FB04-085;[FB04] Booster Pack - Ultra Limit;0
+Bibidi;Evil Wizard;Battle;Yellow;1;FB04-086;[FB04] Booster Pack - Ultra Limit;0
+Bee;Animal;Battle;Yellow;1;FB04-087;[FB04] Booster Pack - Ultra Limit;0
+Vegeta;Saiyan/Wicked Soul;Battle;Yellow;2;FB04-088;[FB04] Booster Pack - Ultra Limit;0
+Vegeta;Saiyan;Battle;Yellow;5;FB04-089;[FB04] Booster Pack - Ultra Limit;0
+Majin Buu;Majin;Battle;Yellow;3;FB04-090;[FB04] Booster Pack - Ultra Limit;0
+Majin Buu : Evil;Majin;Battle;Yellow;2;FB04-091;[FB04] Booster Pack - Ultra Limit;0
+Majin Buu : Evil;Majin/Absorption;Battle;Yellow;3;FB04-092;[FB04] Booster Pack - Ultra Limit;0
+Majin Buu : Evil;Majin/Absorption;Battle;Yellow;3;FB04-093;[FB04] Booster Pack - Ultra Limit;0
