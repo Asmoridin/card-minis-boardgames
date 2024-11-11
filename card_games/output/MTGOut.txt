@@ -1,9 +1,9 @@
-Tracking 5249 cards.
-Have 479 out of 21071 total cards for a playset - 2.27 percent
+Tracking 5318 cards.
+Have 479 out of 21347 total cards for a playset - 2.24 percent
 
 *** VINTAGE ***
-There are 5249 Vintage legal cards
-Have 476 out of 21011 - 2.27 percent of a playset
+There are 5318 Vintage legal cards
+Have 476 out of 21287 - 2.24 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -22,8 +22,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 5129 Legacy legal cards
-Have 454 out of 20876 - 2.17 percent of a playset
+There are 5198 Legacy legal cards
+Have 454 out of 21152 - 2.15 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -42,8 +42,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1151 Modern legal cards
-Have 332 out of 4964 - 6.69 percent of a playset
+There are 1158 Modern legal cards
+Have 332 out of 4992 - 6.65 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -102,8 +102,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1874 Pauper legal cards
-Have 183 out of 7856 - 2.33 percent of a playset
+There are 1904 Pauper legal cards
+Have 183 out of 7976 - 2.29 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -122,8 +122,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 5138 Oathbreaker legal cards
-Have 426 out of 5528 - 7.71 percent of a playset
+There are 5207 Oathbreaker legal cards
+Have 426 out of 5597 - 7.61 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -222,8 +222,8 @@ Most needed cards are:
  - Treetop Village: 29
 
 *** MASQUES BLOCK ***
-There are 494 Masques Block legal cards
-Have 78 out of 2156 - 3.62 percent of a playset
+There are 563 Masques Block legal cards
+Have 78 out of 2432 - 3.21 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Defender en-Vec. I own 0 of 4
 
 Closest deck to completion (ThemeDeck-Mercenaries) is at 37 cards.
@@ -242,8 +242,8 @@ Most needed cards are:
  - Seal of Cleansing: 7
 
 *** PAUPER COMMANDER ***
-There are 2632 Pauper Commander legal cards
-Have 203 out of 3022 - 6.72 percent of a playset
+There are 2669 Pauper Commander legal cards
+Have 203 out of 3059 - 6.64 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -262,21 +262,21 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 5147 Commander legal cards
-Have 427 out of 5537 - 7.71 percent of a playset
+There are 5216 Commander legal cards
+Have 427 out of 5606 - 7.62 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
  - Plains: 718
- - Island: 223
+ - Island: 243
  - Mountain: 206
  - Forest: 136
- - Snow-Covered Plains: 91
+ - Snow-Covered Plains: 113
  - Snow-Covered Mountain: 81
  - Snow-Covered Island: 72
  - Ancient Tomb: 62
- - Swiftfoot Boots: 57
- - Nykthos, Shrine to Nyx: 53
+ - Swiftfoot Boots: 58
+ - Nykthos, Shrine to Nyx: 54
 
 Decks for various Commander Color IDs:
 Color Combo: BG-Golgari, Commander: Winter, Cynical Opportunist
@@ -364,15 +364,15 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 Percentages ordered by format:
 Standard: 23.03
 Pioneer: 14.02
-Commander: 7.71
-Oathbreaker: 7.71
-Pauper Commander: 6.72
-Modern: 6.69
-Masques Block: 3.62
+Commander: 7.62
+Oathbreaker: 7.61
+Modern: 6.65
+Pauper Commander: 6.64
 Ice Age Block: 3.26
+Masques Block: 3.21
 Tempest Block: 3.16
 Urza's Block: 3.07
 Mirage Block: 2.88
-Pauper: 2.33
-Vintage: 2.27
-Legacy: 2.17
+Pauper: 2.29
+Vintage: 2.24
+Legacy: 2.15

@@ -4698,7 +4698,76 @@ Entangler;Enchantment — Aura;W;Prophecy (Uncommon);0
 Glittering Lion;Creature — Cat;W;Prophecy (Uncommon);0
 Reveille Squad;Creature — Human Rebel;W;Prophecy (Uncommon);0
 Aura Fracture;Enchantment;W;Prophecy (Common);0
-# Done through card 24560
+Abolish;Instant;W;Prophecy (Uncommon)/Duel Decks: Elspeth vs. Tezzeret (Uncommon);0
+Rhystic Circle;Enchantment;W;Prophecy (Common);0
+Mercenary Informer;Creature — Human Rebel Mercenary;W;Prophecy (Rare);0
+Avatar of Hope;Creature — Avatar;W;Eighth Edition (Rare)/Prophecy (Rare)/Promo set for Gatherer (Rare);0
+Mageta the Lion;Legendary Creature — Human Spellshaper;W;Prophecy (Rare);0
+Jeweled Spirit;Creature — Spirit;W;Prophecy (Rare);0
+Celestial Convergence;Enchantment;W;Prophecy (Rare);0
+Sheltering Prayers;Enchantment;W;Prophecy (Rare);0
+Blessed Wind;Sorcery;W;Prophecy (Rare);0
+Samite Sanctuary;Enchantment;W;Prophecy (Rare);0
+Ribbon Snake;Creature — Snake;U;Prophecy (Common);0
+Hazy Homunculus;Creature — Homunculus Illusion;U;Prophecy (Common);0
+Gulf Squid;Creature — Squid Beast;U;Prophecy (Common);0
+Coastal Hornclaw;Creature — Bird;U;Eighth Edition (Common)/Prophecy (Common);0
+Sunken Field;Enchantment — Aura;U;Prophecy (Uncommon);0
+Rhystic Deluge;Enchantment;U;Prophecy (Common);0
+Rhystic Scrying;Sorcery;U;Prophecy (Uncommon);0
+Mana Vapors;Sorcery;U;Prophecy (Uncommon);0
+Alexi's Cloak;Enchantment — Aura;U;Prophecy (Common);0
+Withdraw;Instant;U;Prophecy (Common);0
+Spiketail Hatchling;Creature — Drake;U;Eighth Edition (Uncommon)/Prophecy (Common)/Tenth Edition (Uncommon);0
+Quicksilver Wall;Creature — Wall;U;Prophecy (Uncommon);0
+Stormwatch Eagle;Creature — Bird;U;Prophecy (Common);0
+Troublesome Spirit;Creature — Spirit;U;Prophecy (Rare);0
+Windscouter;Creature — Human Scout;U;Prophecy (Uncommon);0
+Excavation;Enchantment;U;Prophecy (Uncommon);0
+Foil;Instant;U;Prophecy (Uncommon)/Duel Decks: Elspeth vs. Tezzeret (Uncommon)/Ultimate Masters (Common)/Mystery Booster 2: Convention Edition (Common);0
+Rethink;Instant;U;Prophecy (Common);0
+Rhystic Study;Enchantment;U;Prophecy (Common)/Commander's Arsenal (Common)/Jumpstart (Rare)/Jumpstart 2022 (Rare)/Wilds of Eldraine Enchanting Tales (Mythic Rare);0
+Avatar of Will;Creature — Avatar;U;Prophecy (Rare);0
+Alexi, Zephyr Mage;Legendary Creature — Human Spellshaper;U;Prophecy (Rare);0
+Spiketail Drake;Creature — Drake;U;Prophecy (Uncommon);0
+Psychic Theft;Sorcery;U;Prophecy (Rare);0
+Heightened Awareness;Enchantment;U;Prophecy (Rare);0
+Shrouded Serpent;Creature — Serpent;U;Prophecy (Rare);0
+Denying Wind;Sorcery;U;Prophecy (Rare);0
+Overburden;Enchantment;U;Prophecy (Rare);0
+Nakaya Shade;Creature — Shade;B;Prophecy (Uncommon);0
+Death Charmer;Creature — Worm Mercenary;B;Prophecy (Common);0
+Bog Glider;Creature — Human Mercenary;B;Prophecy (Common);0
+Agent of Shauku;Creature — Human Mercenary;B;Prophecy (Common);0
+Fen Stalker;Creature — Nightstalker;B;Prophecy (Common);0
+Whipstitched Zombie;Creature — Zombie;B;Prophecy (Common);0
+Greel's Caress;Enchantment — Aura;B;Prophecy (Common);0
+Soul Strings;Sorcery;B;Prophecy (Common);0
+Flay;Sorcery;B;Prophecy (Common);0
+Steal Strength;Instant;B;Prophecy (Common);0
+Wall of Vipers;Creature — Snake Wall;B;Prophecy (Uncommon);0
+Plague Fiend;Creature — Insect;B;Prophecy (Common);0
+Soul Charmer;Creature — Human Rebel;W;Prophecy (Common);0
+Pit Raptor;Creature — Bird Mercenary;B;Prophecy (Uncommon);0
+Outbreak;Sorcery;B;Prophecy (Uncommon);0
+Rhystic Tutor;Sorcery;B;Prophecy (Rare);0
+Despoil;Sorcery;B;Prophecy (Common);0
+Endbringer's Revel;Enchantment;B;Prophecy (Uncommon);0
+Rebel Informer;Creature — Human Mercenary Rebel;B;Prophecy (Rare);0
+Coffin Puppets;Creature — Zombie;B;Prophecy (Rare);0
+Greel, Mind Raker;Legendary Creature — Horror Spellshaper;B;Prophecy (Rare);0
+Bog Elemental;Creature — Elemental;B;Prophecy (Rare);0
+Avatar of Woe;Creature — Avatar;B;Prophecy (Rare)/Time Spiral "Timeshifted" (Special)/Archenemy (Rare)/Magic: The Gathering-Commander (Rare)/Premium Deck Series: Graveborn (Rare)/Conspiracy: Take the Crown (Mythic Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Commander Anthology 2018 (Rare);0
+Plague Wind;Sorcery;B;Eighth Edition (Rare)/Ninth Edition (Rare)/Prophecy (Rare)/Tenth Edition (Rare)/Masters 25 (Rare);0
+Rhystic Syphon;Sorcery;B;Prophecy (Uncommon);0
+Infernal Genesis;Enchantment;B;Prophecy (Rare);0
+Spur Grappler;Creature — Beast;R;Prophecy (Common);0
+Fault Riders;Creature — Human Soldier;R;Prophecy (Common);0
+Ridgeline Rager;Creature — Beast;R;Eighth Edition (Common)/Prophecy (Common);0
+Whip Sergeant;Creature — Human Soldier;R;Ninth Edition (Uncommon)/Prophecy (Uncommon);0
+Keldon Berserker;Creature — Human Soldier Berserker;R;Prophecy (Common);0
+Zerapa Minotaur;Creature — Minotaur;R;Prophecy (Common);0
+# Done through card 24630
 #24687
 Rhox;Creature — Rhino Beast;G;Eighth Edition (Rare)/Nemesis (Rare)/Tenth Edition (Rare);0
 #26371
