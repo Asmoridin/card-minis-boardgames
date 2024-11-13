@@ -4777,6 +4777,17 @@ Keldon Arsonist;Creature — Human Soldier;R;Prophecy (Uncommon);0
 Branded Brawlers;Creature — Human Soldier;R;Prophecy (Common);0
 Panic Attack;Sorcery;R;Eighth Edition (Common)/Ninth Edition (Common)/Prophecy (Common)/Magic 2010 (Common);0
 Inflame;Instant;R;Prophecy (Common)/Darksteel (Common);0
+Search for Survivors;Sorcery;R;Prophecy (Rare);0
+Flameshot;Sorcery;R;Prophecy (Uncommon);0
+Citadel of Pain;Enchantment;R;Prophecy (Uncommon);0
+Avatar of Fury;Creature — Avatar;R;Prophecy (Rare)/Magic: The Gathering-Commander (Rare)/Archenemy: Nicol Bolas (Rare);0
+Veteran Brawlers;Creature — Human Soldier;R;Prophecy (Rare);0
+Latulla, Keldon Overseer;Legendary Creature — Human Spellshaper;R;Prophecy (Rare);0
+Lesser Gargadon;Creature — Beast;R;Eighth Edition (Uncommon)/Prophecy (Uncommon);0
+Keldon Firebombers;Creature — Human Soldier;R;Prophecy (Rare);0
+Fickle Efreet;Creature — Efreet;R;Prophecy (Rare);0
+Searing Wind;Instant;R;Eighth Edition (Rare)/Prophecy (Rare);0
+
 
 
 
