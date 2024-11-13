@@ -4767,6 +4767,21 @@ Ridgeline Rager;Creature — Beast;R;Eighth Edition (Common)/Prophecy (Common);0
 Whip Sergeant;Creature — Human Soldier;R;Ninth Edition (Uncommon)/Prophecy (Uncommon);0
 Keldon Berserker;Creature — Human Soldier Berserker;R;Prophecy (Common);0
 Zerapa Minotaur;Creature — Minotaur;R;Prophecy (Common);0
+Devastate;Sorcery;R;Prophecy (Common);0
+Latulla's Orders;Enchantment — Aura;R;Prophecy (Common);0
+Rhystic Lightning;Instant;R;Prophecy (Common);0
+Barbed Field;Enchantment — Aura;R;Prophecy (Uncommon);0
+Brutal Suppression;Enchantment;R;Prophecy (Uncommon);0
+Scoria Cat;Creature — Cat;R;Prophecy (Uncommon);0
+Keldon Arsonist;Creature — Human Soldier;R;Prophecy (Uncommon);0
+Branded Brawlers;Creature — Human Soldier;R;Prophecy (Common);0
+Panic Attack;Sorcery;R;Eighth Edition (Common)/Ninth Edition (Common)/Prophecy (Common)/Magic 2010 (Common);0
+Inflame;Instant;R;Prophecy (Common)/Darksteel (Common);0
+
+
+
+
+
 # Done through card 24630
 #24687
 Rhox;Creature — Rhino Beast;G;Eighth Edition (Rare)/Nemesis (Rare)/Tenth Edition (Rare);0

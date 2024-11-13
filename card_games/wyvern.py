@@ -66,6 +66,8 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/WyvernOut.txt", 'w', encoding="UTF-8")
 
+    double_print("Wyvern CCG Inventory Tracker\n", out_file_h)
+
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
     choice_string = f"Buy {picked_item[0]} ({chosen_type}) from {'/'.join(picked_item[2])} " + \
