@@ -1,0 +1,8 @@
+1,000 Cuts Technique;Strategy;;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
+700 Soldier Plain;Region;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;0
+700 Soldier Plain;Region;;Hidden Emperor 6 (Uncommon);Hidden Emperor (Jade);3;0
+A Black Scroll is Opened;Event;;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);1;0
+A Brave New World;Strategy;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
+A Brave New World;Strategy;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
+A Brilliant Shot;Strategy;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
+# Done through card #5

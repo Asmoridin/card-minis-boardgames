@@ -4823,11 +4823,18 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 24986
-#25362
+Wash Out;Sorcery;U;Invasion (Uncommon)/Commander 2013 Edition (Uncommon)/Commander Anthology (Uncommon)/Double Masters 2022 (Uncommon);0
+Rewards of Diversity;Enchantment;W;Invasion (Uncommon);0
 Chilling Apparition;Creature — Spirit;B;Prophecy (Uncommon);0
-#25523
+Llanowar Elite;Creature — Elf;G;Invasion (Common);0
+Dueling Grounds;Enchantment;G/W;Invasion (Rare);0
 Wing Storm;Sorcery;G;Prophecy (Uncommon);0
+Ertai, the Corrupted;Legendary Creature — Phyrexian Human Wizard;W/U/B;Planeshift (Rare);0
+Sunscape Familiar;Creature — Wall;W;Planeshift (Common);0
+Stormscape Familiar;Creature — Bird;U;Planeshift (Common)/Time Spiral "Timeshifted" (Special);0
+Thunderscape Familiar;Creature — Kavu;R;Planeshift (Common);0
+Thornscape Familiar;Creature — Insect;G;Planeshift (Common);0
+# Done through card 25623
 #26371
 Coalition Honor Guard;Creature — Human Flagbearer;W;Apocalypse (Common)/Eternal Masters (Common);0
 #26783

@@ -18,7 +18,7 @@ else:
     in_file = open('DB/SWUnlimited-Results.txt', 'r', encoding="UTF-8")
     source_data_file = open('../card_games/DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
 
-double_print("Star Wars: Unlimited W/L Loss Tracker, and deck selector", out_file_h)
+double_print("Star Wars: Unlimited Win-Loss Tracker and deck selector", out_file_h)
 
 aspect_map = {'R':'Aggression', 'Y':'Cunning', 'U':'Vigilance', 'G':'Command', 'B':'Villainy', \
     'W':'Heroism'}
@@ -33,6 +33,7 @@ source_data_file.close()
 source_data_lines = [line.strip() for line in source_data_lines]
 valid_leaders = {}
 leader_games_map = {} # Total number of games I've seen the leader
+NUM_LEADERS = 0
 for line in source_data_lines:
     if line.startswith('#') or line.strip() == '':
         continue
@@ -43,6 +44,7 @@ for line in source_data_lines:
             aspects.append(aspect_map[aspect])
         valid_leaders[leader_name] = aspects
         leader_games_map[leader_name] = 0
+        NUM_LEADERS += 1
 
 my_leader_wl = {}
 my_opp_wl = {}
@@ -100,7 +102,7 @@ for line in data_lines:
             my_aspect_wl[aspect][1] += 1
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
-double_print("My record by leader:", out_file_h)
+double_print(f"My record by leader ({NUM_LEADERS} leaders in the game):", out_file_h)
 for leader in sorted(my_leader_wl):
     double_print(f"{leader}: {my_leader_wl[leader][0]}-{my_leader_wl[leader][1]}", out_file_h)
 

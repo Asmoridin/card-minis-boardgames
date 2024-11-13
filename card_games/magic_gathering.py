@@ -363,9 +363,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Prophecy"
-CHECK_AMOUNT = 143
-SET_CHECK += 0 # Extra basic lands
+CHECK_SET = "Invasion"
+CHECK_AMOUNT = 350
+SET_CHECK += 15 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -434,6 +434,8 @@ if __name__ == "__main__":
         out_file_h = open("card_games/output/MTGOut.txt", 'w', encoding="UTF-8")
     else:
         out_file_h = open("output/MTGOut.txt", 'w', encoding="UTF-8")
+
+    double_print("Magic: The Gathering Collection Tracker\n", out_file_h)
 
     double_print(f"Tracking {len(raw_list)} cards.", out_file_h)
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} total cards for a playset " \

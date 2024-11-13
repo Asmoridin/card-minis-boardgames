@@ -102,6 +102,8 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 item_list = []
 card_own_dict = {}
+NUM_LEADERS = 0
+OWN_LEADERS = 0
 for line in lines:
     line = line.split('#')[0]
     try:
@@ -137,6 +139,8 @@ for line in lines:
     CARD_MAX = 4
     if card_type == 'Leader':
         CARD_MAX = 1
+        NUM_LEADERS += 1
+        OWN_LEADERS += card_own
     TOTAL_OWN += card_own
     TOTAL_MAX += CARD_MAX
     item_list.append((card_name, card_subtypes, card_type, card_color, card_cost, card_number, \
@@ -180,6 +184,8 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/DBSCGFusionWorld.txt", 'w', encoding="UTF-8")
 
+    double_print("DBS: Fusion World Inventory Tracker and buy suggestion tool\n", out_file_h)
+
     double_print("Following traits show up only once: " + ', '.join(sorted(singleton_traits)), \
         out_file_h)
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
@@ -190,6 +196,8 @@ if __name__ == "__main__":
         f"{'/'.join(picked_item[3]) + ' ' + picked_item[2]}) from {picked_item[6]} (have " + \
         f"{picked_item[7]} out of {picked_item[8]})"
     double_print(sugg_string, out_file_h)
+
+    double_print(f"\nThere are {NUM_LEADERS} leaders in the game - I own {OWN_LEADERS}", out_file_h)
 
     double_print("\nLowest decks currently:", out_file_h)
     unused_colors = ALL_COLORS
