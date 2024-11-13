@@ -4796,6 +4796,20 @@ Vintara Snapper;Creature — Turtle;G;Prophecy (Uncommon);0
 Darba;Creature — Bird Beast;G;Prophecy (Uncommon);0
 Calming Verse;Sorcery;G;Prophecy (Common);0
 Jolrael's Favor;Enchantment — Aura;G;Prophecy (Common);0
+Wild Might;Instant;G;Prophecy (Common);0
+Verdant Field;Enchantment — Aura;G;Prophecy (Uncommon);0
+Pygmy Razorback;Creature — Boar;G;Prophecy (Common);0
+Marsh Boa;Creature — Snake;G;Prophecy (Common);0
+Root Cage;Enchantment;G;Prophecy (Uncommon);0
+Spitting Spider;Creature — Spider;G;Eighth Edition (Uncommon)/Prophecy (Uncommon);0
+Living Terrain;Enchantment — Aura;G;Eighth Edition (Uncommon)/Prophecy (Uncommon);0
+Snag;Instant;G;Prophecy (Uncommon);0
+Thrive;Sorcery;G;Prophecy (Common)/Dissension (Common)/Modern Masters 2015 Edition (Common)/Double Masters 2022 (Common);0
+Saproling Symbiosis;Sorcery;G;Invasion (Rare)/Dominaria Remastered (Rare);0
+
+
+
+
 
 
 

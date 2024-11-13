@@ -170,6 +170,8 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/ST2EOut.txt", 'w', encoding="UTF-8")
 
+    double_print("Star Trek 2E CCG Inventory Tracker\n", out_file_h)
+
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
     double_print(f"Buy a {final_card[2]} from {chosen_set}, maybe {final_card[5]} (have " + \
