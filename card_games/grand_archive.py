@@ -34,6 +34,7 @@ TOTAL_OWN = 0
 TOTAL_MAX = 0
 card_names = set()
 item_list = []
+champions = set()
 for line in lines:
     line = line.split('#')[0].strip()
     TEMP_MAX = 0
@@ -63,6 +64,9 @@ for line in lines:
     CARD_MAX = 4
     if card_subtype in ['Champion', 'Regalia Weapon', 'Regalia Item', 'Regalia Ally']:
         CARD_MAX = 1
+    if 'Champion' in card_subtype and not card_name.startswith('Spirit of') and not \
+        card_name.startswith('Fragmented Spirit of') and card_name != "Prismatic Spirit":
+        champions.add(card_name.split(',')[0])
     if TEMP_MAX != 0:
         CARD_MAX = TEMP_MAX
     if card_own > CARD_MAX:
@@ -91,8 +95,12 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/GrandArchiveOut.txt", 'w', encoding="UTF-8")
 
+    double_print("Grand Archive TCG Inventory Tracker Tool\n", out_file_h)
+
     total_string = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(total_string, out_file_h)
+
+    double_print(f"{len(champions)} different champions in the game\n", out_file_h)
 
     sugg_string = f"Buy {picked_item[0]} ({chosen_class + ' ' + chosen_subtype}) from " + \
         f"{picked_item[1]} (have {picked_item[5]} out of {picked_item[6]})"

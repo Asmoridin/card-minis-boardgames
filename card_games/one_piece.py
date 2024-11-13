@@ -79,6 +79,7 @@ TOTAL_MAX = 0
 item_list = []
 dupe_check = set()
 NUM_LEADERS = 0
+OWN_LEADERS = 0
 leaders = {}
 collection_dict = {} # Map of card number to owned quantity
 card_number_to_name_dict = {} # Map from card numbers to card names
@@ -126,6 +127,7 @@ for line in lines:
     if card_type == 'Leader':
         CARD_MAX = 1
         NUM_LEADERS += 1
+        OWN_LEADERS += card_own
         leaders[card_number] = (card_name, card_color)
         full_collection[card_number] = 1
     TOTAL_OWN += card_own
@@ -208,13 +210,16 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/OnePieceOut.txt", 'w', encoding="UTF-8")
 
+    double_print("One Piece TCG Inventory Tracker, and purchase suggestion tool\n", out_file_h)
+
     TRAIT_STR = "Following traits show up only once: " + ', '.join(sorted(singleton_traits))
     double_print(TRAIT_STR, out_file_h)
 
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} - {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(SUMMARY_STRING, out_file_h)
 
-    double_print(f"\nThere are {NUM_LEADERS} leaders in the game\n", out_file_h)
+    ldr_str = f"\nThere are {NUM_LEADERS} leaders in the game - I own {OWN_LEADERS}\n"
+    double_print(ldr_str, out_file_h)
 
     double_print(f"Chosen subtype is {chosen_subtype}, chosen color is {chosen_color}", out_file_h)
     double_print(f"Chosen card type: {chosen_type}, and chosen set: {chosen_set}", out_file_h)

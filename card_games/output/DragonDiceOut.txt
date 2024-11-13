@@ -1,17 +1,12 @@
+Dragon Dice Inventory Tracker Tool
+
 Have 292 out of 2506 - 11.65 percent
 Buy a Unit from Eldarim - perhaps a Air Morehl Follower
-Summary:
-Amazons: 0
-Coral Elves: 0
-Dracolem: 8
-Dwarves: 0
-Eldarim: 130
-Feral: 0
-Fire Walkers: 75
-Frostwings: 101
-Goblins: 0
-Lava Elves: 0
-Scalders: 0
-Swamp Stalkers: 4
-Treefolk: 72
-Undead: 0
+
+Points for each army:
+- Dracolem: 8
+- Eldarim: 130
+- Fire Walkers: 75
+- Frostwings: 101
+- Swamp Stalkers: 4
+- Treefolk: 72
