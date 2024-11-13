@@ -122,6 +122,7 @@ if __name__ == "__main__":
         out_file_h = open("minis_games/output/BattletechOut.txt", 'w', encoding="UTF-8")
     else:
         out_file_h = open("output/BattletechOut.txt", 'w', encoding="UTF-8")
+    double_print("Battletech Inventory Tracker Tool\n", out_file_h)
     for error in errors:
         double_print(error, out_file_h)
     own_pct = 100 * TOTAL_OWN/TOTAL_MAX

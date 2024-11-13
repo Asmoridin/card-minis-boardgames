@@ -4787,6 +4787,15 @@ Lesser Gargadon;Creature — Beast;R;Eighth Edition (Uncommon)/Prophecy (Uncommo
 Keldon Firebombers;Creature — Human Soldier;R;Prophecy (Rare);0
 Fickle Efreet;Creature — Efreet;R;Prophecy (Rare);0
 Searing Wind;Instant;R;Eighth Edition (Rare)/Prophecy (Rare);0
+Task Mage Assembly;Enchantment;R;Prophecy (Rare);0
+Vintara Elephant;Creature — Elephant;G;Prophecy (Common);0
+Rib Cage Spider;Creature — Spider;G;Prophecy (Common);0
+Spore Frog;Creature — Frog;G;Prophecy (Common)/Modern Horizons (Common)/Bloomburrow Commander (Common);0
+Silt Crawler;Creature — Beast;G;Prophecy (Common);0
+Vintara Snapper;Creature — Turtle;G;Prophecy (Uncommon);0
+Darba;Creature — Bird Beast;G;Prophecy (Uncommon);0
+Calming Verse;Sorcery;G;Prophecy (Common);0
+Jolrael's Favor;Enchantment — Aura;G;Prophecy (Common);0
 
 
 
