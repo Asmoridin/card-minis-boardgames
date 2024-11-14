@@ -8,6 +8,7 @@ import os
 import sys
 sys.path.append('.')
 from utils.output_utils import double_print
+from utils.get_h_index import get_h_index
 
 if os.getcwd().endswith('card-minis-boardgames'):
     out_file_h = open("win_loss/output/DoomtownOut.txt", 'w', encoding="UTF-8")
@@ -21,7 +22,7 @@ else:
 CURRENT_FORMAT = "Weird West Edition"
 VALID_GANGS = ['Anarchists','Law Dogs','Entrepreneurs','Fearmongers','First Peoples','Outlaws']
 
-double_print("Doomtown: Reloaded Win-Loss Tracker, and deck selector", out_file_h)
+double_print("Doomtown: Reloaded Win-Loss Tracker and deck selector", out_file_h)
 
 # Let's read the OUTFITs, and parse the OUTFIT data
 outfits = {'Weird West Edition':{}, 'Old Timer':{}}
@@ -118,7 +119,8 @@ for line in in_lines:
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}", out_file_h)
 
-double_print("\nMy record by outfit:", out_file_h)
+double_print(f"\nMy record by outfit: ({len(outfit_to_gang)} total outfits in game)", out_file_h)
+outfit_play_tuples = []
 for gang, gang_ids in sorted(outfits_by_gang.items()):
     gang_wl_str = f"{gang}:"
     if gang in gang_wl:
@@ -126,8 +128,12 @@ for gang, gang_ids in sorted(outfits_by_gang.items()):
     double_print(gang_wl_str, out_file_h)
     for outfit_name in gang_ids:
         if outfit_name in outfit_wl:
+            outfit_play_tuples.append((outfit_name, sum(outfit_wl[outfit_name])))
             out_str = f" - {outfit_name}: {outfit_wl[outfit_name][0]}-{outfit_wl[outfit_name][1]}"
             double_print(out_str, out_file_h)
+
+outfit_play_tuples = sorted(outfit_play_tuples, key=lambda x: (-1 * x[1], x[0]))
+double_print(f"\nMy H-Index is {get_h_index(outfit_play_tuples)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent, this_opp_wl in sorted(opp_wl.items()):

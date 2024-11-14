@@ -4834,6 +4834,10 @@ Sunscape Familiar;Creature — Wall;W;Planeshift (Common);0
 Stormscape Familiar;Creature — Bird;U;Planeshift (Common)/Time Spiral "Timeshifted" (Special);0
 Thunderscape Familiar;Creature — Kavu;R;Planeshift (Common);0
 Thornscape Familiar;Creature — Insect;G;Planeshift (Common);0
+Eladamri's Call;Instant;G/W;Planeshift (Rare)/Masters 25 (Rare)/Modern Horizons (Rare);0
+
+
+
 # Done through card 25623
 #26371
 Coalition Honor Guard;Creature — Human Flagbearer;W;Apocalypse (Common)/Eternal Masters (Common);0

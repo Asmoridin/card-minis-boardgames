@@ -5,4 +5,16 @@ A Black Scroll is Opened;Event;;Forbidden Knowledge (Uncommon);Clan Wars (Imperi
 A Brave New World;Strategy;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
 A Brave New World;Strategy;;Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
 A Brilliant Shot;Strategy;;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
-# Done through card #5
+A Champion in Court;Strategy;;Before the Dawn (Common);Age of Conquest (Emperor);3;0
+A Champion in Court;Strategy;;Before the Dawn (Common);Destroyer War (Celestial);3;0
+A Champion's Heart;Event;;Lotus Edition (Fixed);Age of Enlightenment (Lotus);1;0
+A Champion's Heart;Event;;Winds of Change (Uncommon);Four Winds (Gold);1;0
+A Champion's Heart;Event;;Winds of Change (Uncommon);Rain of Blood (Diamond);1;0
+A Champion's Strike;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+A Champion's Strike;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+A Champion's Strike;Strategy;;The Fall of Otosan Uchi (Rare);Four Winds (Gold);3;0
+A Champion's Strike;Strategy;;The Fall of Otosan Uchi (Rare);Rain of Blood (Diamond);3;0
+A Chance Meeting;Strategy;;Ambition's Debt (Uncommon);Hidden Emperor (Jade);3;0
+A Clan Divided;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
+
+# Done through card #10

@@ -1,14 +1,24 @@
-#MyCardID;Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs)
-H.M.S. Bounty;Ship;Klingon;The Motion Pictures Remastered/Virtual Promos;1,7183,4259;4662
-H.M.S. Bounty;Ship;Federation;The Motion Pictures Remastered/Virtual Promos;4662, 7251, 1278;1
-Haakona;Ship;Romulan;Premiere;2,5966,6329,6692;
-Hagath;Personnel;Non-Aligned;Rules of Acquisition;3;
-Hail;Interrupt;;Alternate Universe;4;
-Hajur;Personnel;Hirogen;The Borg/Virtual Promos;5,4661;6
-Hajur;Personnel;Non-Aligned;The Borg/Virtual Promos;6,4186;5
-Haliz;Personnel;Kazon;Voyager;7;
-Halkan Council;Time Location;;Mirror, Mirror;8,4876;
-Handshake;Incident;;Voyager/Virtual Promos;9,3407;
-Hannah Bates;Personnel;Federation;Premiere;10,5967,6330,6693;
+#Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
+H.M.S. Bounty;Ship;Klingon;The Motion Pictures Remastered/Virtual Promos;1,7183,4259;4662;2;0
+H.M.S. Bounty;Ship;Federation;The Motion Pictures Remastered/Virtual Promos;4662, 7251, 1278;1;2;0
+Haakona;Ship;Romulan;Premiere;2,5966,6329,6692;;2;0
+Hagath;Personnel;Non-Aligned;Rules of Acquisition;3;;2;0
+Hail;Interrupt;;Alternate Universe;4;;4;0
+Hajur;Personnel;Hirogen;The Borg/Virtual Promos;5,4661;6;2;0
+Hajur;Personnel;Non-Aligned;The Borg/Virtual Promos;6,4186;5;2;0
+Haliz;Personnel;Kazon;Voyager;7;;2;0
+Halkan Council;Time Location;;Mirror, Mirror;8,4876;;2;0
+Handshake;Incident;;Voyager/Virtual Promos;9,3407;;4;0
+Hannah Bates;Personnel;Federation;Premiere;10,5967,6330,6693;;2;0
+Hanok;Personnel;Dominion;Rules of Acquisition/Virtual Promos;11,4423,7327;;2;0
+Hanonian Land Eel;Dilemma;Planet;Voyager/Virtual Promos;12,3927;;4;0
+Harness Particle 010;Objective;;The Borg;13;;4;0
+Haron;Personnel;Kazon;Voyager;14;;2;0
+Harry Kim;Personnel;Federation;Voyager;15;;2;0
+Harvester Virus;Dilemma;Planet;Deep Space 9;16;;4;0
+Hate Crime;Dilemma;Dual;Deep Space 9;17;;4;0
+Hawk;Personnel;Federation;First Contact;18;;2;0
+Hazardous Duty;Dilemma;Dual;Blaze of Glory/Voyager/Trouble with Tribbles Starter Decks;19,20,5504;;4;0
 
-# Done through card 10
+
+# Done through card 20

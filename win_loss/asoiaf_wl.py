@@ -8,6 +8,7 @@ import os
 import sys
 sys.path.append('.')
 from utils.output_utils import double_print
+from utils.get_h_index import get_h_index
 
 if os.getcwd().endswith('card-minis-boardgames'):
     out_file_h = open("win_loss/output/ASOIAFWLOut.txt", 'w', encoding="UTF-8")
@@ -135,12 +136,8 @@ h_indexer = []
 for comm_name, comm_plays in commander_wl.items():
     h_indexer.append((comm_name, sum(comm_plays)))
 h_indexer = sorted(h_indexer, key=lambda x:x[1], reverse=True)
-H_INDEX = 1
-for x, army_games in enumerate(h_indexer):
-    if x > army_games[1]:
-        H_INDEX = x
-        break
-double_print(f"\nMy H-Index is {H_INDEX}", out_file_h)
+
+double_print(f"\nMy H-Index is {get_h_index(h_indexer)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent, this_opp_wl in sorted(opp_wl.items()):

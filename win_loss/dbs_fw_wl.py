@@ -8,6 +8,7 @@ import os
 import sys
 sys.path.append('.')
 from utils.output_utils import double_print
+from utils.get_h_index import get_h_index
 
 if os.getcwd().endswith('card-minis-boardgames'):
     out_file_h = open("win_loss/output/DBSFWOut.txt", 'w', encoding="UTF-8")
@@ -91,13 +92,8 @@ leader_h_index = []
 for leader, l_w_l in my_leader_wl.items():
     leader_h_index.append((leader, sum(l_w_l)))
 leader_h_index = sorted(leader_h_index, key=lambda x:x[1], reverse=True)
-H_INDEX = 0
-for x, leader in enumerate(leader_h_index):
-    H_INDEX += 1
-    if not leader[1] >= H_INDEX:
-        H_INDEX = H_INDEX - 1
-        break
-double_print(f"\nMy H-Index is {H_INDEX}", out_file_h)
+
+double_print(f"\nMy H-Index is {get_h_index(leader_h_index)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent in sorted(my_opp_wl):

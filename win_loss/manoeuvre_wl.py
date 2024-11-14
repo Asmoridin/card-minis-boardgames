@@ -18,10 +18,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('win_loss/DB/ManoData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.get_h_index import get_h_index
 else:
     file_h = open('DB/ManoData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
+    from utils.get_h_index import get_h_index
 
 data_lines = file_h.readlines()
 file_h.close()
@@ -91,12 +93,8 @@ army_h_index = []
 for army, a_w_l in my_army_wl.items():
     army_h_index.append((army, sum(a_w_l)))
 army_h_index = sorted(army_h_index, key=lambda x:x[1], reverse=True)
-H_INDEX = 0
-for x, army_games in enumerate(army_h_index):
-    if x > army_games[1]:
-        H_INDEX = x
-        break
-double_print(f"\nMy H-Index is {H_INDEX}", out_file_h)
+
+double_print(f"\nMy H-Index is {get_h_index(army_h_index)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent in sorted(my_opp_wl):

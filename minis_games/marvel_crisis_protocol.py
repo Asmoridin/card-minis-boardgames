@@ -79,6 +79,8 @@ if __name__ == "__main__":
     else:
         out_file_h = open("output/MCPOutput.txt", 'w', encoding="UTF-8")
 
+    double_print("Marvel Crisis Protocol Inventory Tracker and purchase suggester\n", out_file_h)
+
     summary_str = f"I own {TOTAL_OWN} out of {TOTAL_MAX} - {100 * TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(summary_str, out_file_h)
     buy_string = f"Buy a {chosen_model} from the {chosen_affil} affiliation"

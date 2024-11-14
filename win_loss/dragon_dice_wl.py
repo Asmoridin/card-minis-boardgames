@@ -8,6 +8,7 @@ import os
 import sys
 sys.path.append('.')
 from utils.output_utils import double_print
+from utils.get_h_index import get_h_index
 import card_games.dragon_dice as dragon_dice
 
 if os.getcwd().endswith('card-minis-boardgames'):
@@ -79,14 +80,8 @@ army_h_index = []
 for army, l_w_l in my_army_wl.items():
     army_h_index.append((army, sum(l_w_l)))
 army_h_index = sorted(army_h_index, key=lambda x:x[1], reverse=True)
-H_INDEX = 0
-for x, army in enumerate(army_h_index):
-    H_INDEX += 1
-    if not army[1] >= H_INDEX:
-        H_INDEX = H_INDEX - 1
-        break
-double_print(f"\nMy H-Index is {H_INDEX}", out_file_h)
 
+double_print(f"\nMy H-Index is {get_h_index(army_h_index)}", out_file_h)
 
 double_print("\nMy record against opponents:", out_file_h)
 for opponent in sorted(my_opp_wl):
