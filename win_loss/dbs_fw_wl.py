@@ -19,7 +19,7 @@ else:
     in_file = open('DB/DBSFW-Results.txt', 'r', encoding="UTF-8")
     source_data_file = open('../card_games/DB/DBSCGFusionWorld.txt', 'r', encoding="UTF-8")
 
-double_print("DBS: Fusion World W/L Loss Tracker, and deck selector", out_file_h)
+double_print("DBS: Fusion World Win-Loss Tracker and deck selector\n", out_file_h)
 
 data_lines = in_file.readlines()
 in_file.close()
@@ -84,7 +84,8 @@ for line in data_lines:
         my_opp_leader_wl[opp_leader][1] += 1
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
-double_print("My record by leader:", out_file_h)
+ldr_sum= f"My record by leader: (I have played {len(my_leader_wl)} out of {len(leader_games_map)})"
+double_print(ldr_sum, out_file_h)
 for leader in sorted(my_leader_wl):
     double_print(f"{leader}: {my_leader_wl[leader][0]}-{my_leader_wl[leader][1]}", out_file_h)
 

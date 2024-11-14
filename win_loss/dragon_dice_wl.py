@@ -18,7 +18,7 @@ else:
     out_file_h = open("output/DragonDiceWLOut.txt", 'w', encoding="UTF-8")
     in_file = open('DB/DragonDiceResults.txt', 'r', encoding="UTF-8")
 
-double_print("Dragon Dice W/L Loss Tracker, and deck selector", out_file_h)
+double_print("Dragon Dice Win-Loss Tracker and army selector\n", out_file_h)
 all_armies = dragon_dice.army_factions
 my_armies = dragon_dice.my_current_factions
 
@@ -87,21 +87,21 @@ double_print("\nMy record against opponents:", out_file_h)
 for opponent in sorted(my_opp_wl):
     double_print(f"{opponent}: {my_opp_wl[opponent][0]}-{my_opp_wl[opponent][1]}", out_file_h)
 
-double_print("\nMy record against opposing armys:", out_file_h)
+double_print("\nMy record against opposing armies:", out_file_h)
 for opp_army in sorted(my_opp_army_wl):
     ldr_str = f"{opp_army}: {my_opp_army_wl[opp_army][0]}-{my_opp_army_wl[opp_army][1]}"
     double_print(ldr_str, out_file_h)
 
 MIN_SEEN = 1000000
-min_seen_armys = []
+min_seen_armies = []
 for army, army_games in army_games_map.items():
     if army_games < MIN_SEEN:
         MIN_SEEN = army_games
-        min_seen_armys = [army]
+        min_seen_armies = [army]
     elif army_games == MIN_SEEN:
-        min_seen_armys.append(army)
-double_print(f"\nI've seen these armys on the table the least ({MIN_SEEN} times): " + \
-    f"{'; '.join(sorted(min_seen_armys))}", out_file_h)
+        min_seen_armies.append(army)
+double_print(f"\nI've seen these armies on the table the least ({MIN_SEEN} times): " + \
+    f"{'; '.join(sorted(min_seen_armies))}", out_file_h)
 
 playable_army_list = []
 for army in my_armies:

@@ -84,8 +84,10 @@ for line in data_lines:
         total_wl[1] += 1
         my_opp_army_wl[OPP_ARMY][1] += 1
 
+double_print("Manoeuvre Win-Loss Tracker and army selector\n", out_file_h)
+
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
-double_print("My record by army:", out_file_h)
+double_print(f"My record by army ({len(armies)} total armies):", out_file_h)
 for army in sorted(my_army_wl):
     double_print(f"{army}: {my_army_wl[army][0]}-{my_army_wl[army][1]}", out_file_h)
 

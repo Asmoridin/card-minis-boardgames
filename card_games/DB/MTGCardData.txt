@@ -108,6 +108,7 @@ An-Havva Constable;Creature — Human;G;Fifth Edition (Rare)/Homelands (Rare);0
 An-Havva Inn;Sorcery;G;Homelands (Uncommon);0
 An-Havva Township;Land;C;Homelands (Uncommon);0
 An-Zerrin Ruins;Enchantment;R;Homelands (Rare)/Masters Edition II (Rare);0
+Ana Disciple;Creature — Human Wizard;G;Apocalypse (Common);0
 Anaba Ancestor;Creature — Minotaur Spirit;R;Homelands (Rare)/Masters Edition III (Common);0
 Anaba Bodyguard;Creature — Minotaur;R;Classic Sixth Edition (Common)/Homelands (Common)/Tenth Edition (Common);0
 Anaba Shaman;Creature — Minotaur Shaman;R;Classic Sixth Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Homelands (Common);0
@@ -219,6 +220,7 @@ Artifact Mutation;Instant;G/R;Invasion (Rare)/Commander 2016 (Rare)/Ikoria Comma
 Artifact Possession;Enchantment — Aura;B;Antiquities (Common);0
 Artifact Ward;Enchantment — Aura;W;Antiquities (Common);0
 Ascendant Evincar;Legendary Creature — Phyrexian Vampire Noble;B;Nemesis (Rare)/Tenth Edition (Rare)/Planechase (Rare);0
+Ascending Aven;Creature — Bird Soldier;U;Onslaught (Common);0
 Ashen Ghoul;Creature — Zombie;B;Ice Age (Uncommon)/Masters Edition II (Uncommon);0
 Ashen Powder;Sorcery;B;Classic Sixth Edition (Rare)/Mirage (Rare);0
 Ashes to Ashes;Sorcery;B;Fourth Edition (Uncommon)/Fifth Edition (Uncommon)/The Dark (Common)/Masters Edition III (Uncommon);0
@@ -319,6 +321,7 @@ Baron Sengir;Legendary Creature — Vampire Noble;B;Homelands (Rare)/Masters Edi
 Barreling Attack;Instant;R;Mirage (Rare);0
 Barrin (Vanguard);Vanguard;C;Vanguard (Special);0
 Barrin's Codex;Artifact;C;Urza's Saga (Rare);0
+Barrin's Spite;Sorcery;B/U;Invasion (Rare);0
 Barrin's Unmaking;Instant;U;Invasion (Common);0
 Barrin, Master Wizard;Legendary Creature — Human Wizard;U;Urza's Saga (Rare);0
 Barrow Ghoul;Creature — Zombie;B;Weatherlight (Common);0
@@ -561,6 +564,7 @@ Capashen Templar;Creature — Human Knight;W;Urza's Destiny (Common);0
 Capashen Unicorn;Creature — Unicorn;W;Invasion (Common);0
 Capricious Sorcerer;Creature — Human Wizard;U;Portal (Rare);0
 Capsize;Instant;U;Tempest (Common)/Tempest Remastered (Uncommon)/Masterpiece Series: Amonkhet Invocations (Special);0
+Captain's Maneuver;Instant;R/W;Apocalypse (Uncommon)/Planechase (Uncommon);0
 Capture of Jingzhou;Sorcery;U;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/Commander Masters (Mythic Rare);0
 Carapace;Enchantment — Aura;G;Fifth Edition (Common)/Homelands (Common)/Masters Edition II (Common);0
 Caribou Range;Enchantment — Aura;W;Fifth Edition (Rare)/Ice Age (Rare)/Masters Edition II (Rare);0
@@ -613,6 +617,7 @@ Centaur Archer;Creature — Centaur Archer;R/G;Ice Age (Uncommon)/Masters Editio
 Ceremonial Guard;Creature — Human Soldier;R;Mercadian Masques (Common);0
 Cerulean Wyvern;Creature — Drake;U;Mirage (Uncommon);0
 Cessation;Enchantment — Aura;W;Urza's Legacy (Common);0
+Ceta Disciple;Creature — Merfolk Wizard;U;Apocalypse (Common);0
 Chain Lightning;Sorcery;R;Legends (Common)/Masters Edition III (Common)/Premium Deck Series: Fire and Lightning (Common)/Vintage Masters (Common)/Eternal Masters (Uncommon)/Masterpiece Series: Amonkhet Invocations (Special)/Battlebond (Uncommon)/Jumpstart (Uncommon)/Dominaria Remastered (Common);0
 Chain Stasis;Instant;U;Homelands (Rare);0
 Chain of Acid;Sorcery;G;Onslaught (Uncommon);0
@@ -649,6 +654,7 @@ Charmed Griffin;Creature — Griffin;W;Mercadian Masques (Uncommon);0
 Chieftain en-Dal;Creature — Human Knight;W;Nemesis (Uncommon);0
 Child of Gaea;Creature — Elemental;G;Urza's Saga (Rare);0
 Chill;Enchantment;U;Classic Sixth Edition (Uncommon)/Tempest (Uncommon);0
+Chilling Apparition;Creature — Spirit;B;Prophecy (Uncommon);0
 Chime of Night;Enchantment — Aura;B;Urza's Destiny (Common);0
 Chimeric Idol;Artifact;C;Prophecy (Uncommon)/Vintage Masters (Uncommon);0
 Chimeric Sphere;Artifact;C;Weatherlight (Uncommon);0
@@ -717,6 +723,7 @@ Clockwork Swarm;Artifact Creature — Insect;C;Homelands (Common)/Masters Editio
 Clone;Creature — Shapeshifter;U;Limited Edition Alpha (Uncommon)/Limited Edition Beta (Uncommon)/Unlimited Edition (Uncommon)/Revised Edition (Uncommon)/Ninth Edition (Rare)/Onslaught (Rare)/Tenth Edition (Rare)/Magic 2010 (Rare)/Magic 2011 (Rare)/Duel Decks: Venser vs. Koth (Rare)/Magic 2013 (Rare)/Magic 2014 Core Set (Rare);0
 Close Quarters;Enchantment;R;Mercadian Masques (Uncommon);0
 Clot Sliver;Creature — Sliver;B;Tempest (Common)/Premium Deck Series: Slivers (Common)/Tempest Remastered (Common)/Commander Masters (Common);0
+Cloud Cover;Enchantment;U/W;Planeshift (Rare);0
 Cloud Djinn;Creature — Djinn;U;Weatherlight (Uncommon)/Beatdown Box Set (Uncommon)/Vintage Masters (Uncommon);0
 Cloud Dragon;Creature — Illusion Dragon;U;Portal (Rare)/Masters Edition IV (Rare);0
 Cloud Elemental;Creature — Elemental;U;Visions (Common)/Tenth Edition (Common)/Beatdown Box Set (Common)/Magic 2011 (Common)/Modern Masters 2015 Edition (Common);0
@@ -832,6 +839,8 @@ Crimson Roc;Creature — Bird;R;Mirage (Uncommon);0
 Crooked Scales;Artifact;C;Mercadian Masques (Rare);0
 Crookshank Kobolds;Creature - Kobold;R;Legends (Common)/Masters Edition (Common);0
 Crop Rotation;Instant;G;Urza's Legacy (Common)/Duel Decks: Nissa vs. Ob Nixilis (Common)/Ikoria Commander (Common)/Double Masters (Uncommon)/Dominaria Remastered (Uncommon);0
+Crosis's Attendant;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Crosis's Charm;Instant;U/B/R;Planeshift (Uncommon)/Commander 2013 Edition (Uncommon)/Commander 2017 (Uncommon);0
 Crosis, the Purger;Legendary Creature — Dragon;B/U/R;Invasion (Rare)/Premium Deck Series: Graveborn (Rare)/Commander 2017 (Rare);0
 Crossbow Ambush;Instant;G;Stronghold (Common);0
 Crossbow Infantry;Creature — Human Soldier Archer;W;Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Mercadian Masques (Common);0
@@ -893,8 +902,11 @@ Dancing Scimitar;Artifact Creature — Spirit;C;Revised Edition (Rare)/Fourth Ed
 Dandân;Creature — Fish;U;Fifth Edition (Common)/Arabian Nights (Common)/Time Spiral "Timeshifted" (Special)/Chronicles (Common);0
 Daraja Griffin;Creature - Griffin;W;Classic Sixth Edition (Uncommon)/Visions (Uncommon);0
 Darba;Creature — Bird Beast;G;Prophecy (Uncommon);0
+Darigaaz's Attendant;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Darigaaz's Charm;Instant;B/R/G;Planeshift (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
 Darigaaz, the Igniter;Legendary Creature — Dragon;B/R/G;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare);0
 Daring Apprentice;Creature — Human Wizard;U;Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Mirage (Rare);0
+Daring Leap;Instant;U/W;Planeshift (Common);0
 Dark Banishing;Instant;B;Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Ice Age (Common)/Mirage (Common)/Tempest (Common)/Masters Edition II (Common)/Duel Decks: Divine vs. Demonic (Common)/Duel Decks Anthology, Divine vs. Demonic (Common)/Tempest Remastered (Common);0
 Dark Hatchling;Creature — Horror;B;Urza's Saga (Rare)/Magic: The Gathering-Commander (Rare)/Planechase 2012 Edition (Rare)/Vintage Masters (Uncommon)/Planechase Anthology (Rare)/Commander Anthology 2018 (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0
 Dark Heart of the Wood;Enchantment;B/G;The Dark (Common)/Ravnica: City of Guilds (Uncommon);0
@@ -931,6 +943,7 @@ Deadfall;Enchantment;G;Legends (Uncommon);0
 Deadly Insect;Creature — Insect;G;Alliances (Common)/Mercadian Masques (Common)/Beatdown Box Set (Common);0
 Deadshot;Sorcery;R;Tempest (Rare)/Tempest Remastered (Uncommon);0
 Death Charmer;Creature — Worm Mercenary;B;Prophecy (Common);0
+Death Mutation;Sorcery;G/B;Apocalypse (Uncommon)/Magic: The Gathering-Commander (Uncommon);0
 Death Pit Offering;Enchantment;B;Eighth Edition (Rare)/Nemesis (Rare);0
 Death Pits of Rath;Enchantment;B;Eighth Edition (Rare)/Ninth Edition (Rare)/Tempest (Rare)/Tempest Remastered (Rare);0
 Death Spark;Instant;R;Alliances (Uncommon)/Masters Edition II (Common);0
@@ -968,6 +981,7 @@ Defiant Stand;Instant;W;Portal (Uncommon);0
 Defiant Vanguard;Creature — Human Rebel;W;Nemesis (Uncommon)/Time Spiral "Timeshifted" (Special);0
 Defiling Tears;Instant;B;Invasion (Uncommon);0
 Deflection;Instant;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Eighth Edition (Rare)/Ice Age (Rare);0
+Dega Disciple;Creature — Human Wizard;W;Apocalypse (Common);0
 Dehydration;Enchantment — Aura;U;Eighth Edition (Common)/Ninth Edition (Common)/Mercadian Masques (Common)/Tenth Edition (Common);0
 Delif's Cone;Artifact;C;Fallen Empires (Common);0
 Delif's Cube;Artifact;C;Fallen Empires (Rare);0
@@ -1065,6 +1079,7 @@ Dormant Volcano;Land;C;Visions (Uncommon)/Commander 2014 (Uncommon)/Commander An
 Douse;Enchantment;U;Urza's Saga (Uncommon);0
 Downdraft;Enchantment;G;Weatherlight (Uncommon);0
 Downhill Charge;Instant;R;Nemesis (Common)/Duel Decks: Venser vs. Koth (Common);0
+Draco;Artifact Creature — Dragon;C;Planeshift (Rare)/From the Vault: Dragons (Rare);0
 Draconian Cylix;Artifact;C;Fallen Empires (Rare);0
 Dracoplasm;Creature - Shapeshifter;R/U;Tempest (Rare)/Tempest Remastered (Rare);0
 Drafna's Restoration;Sorcery;U;Antiquities (Common);0
@@ -1095,6 +1110,8 @@ Dregs of Sorrow;Sorcery;B;Seventh Edition (Rare)/Tempest (Rare)/Commander 2014 (
 Drift of the Dead;Creature — Wall;B;Ice Age (Uncommon)/Masters Edition II (Common);0
 Drifting Djinn;Creature — Djinn;U;Urza's Saga (Rare);0
 Drifting Meadow;Land;C;Urza's Saga (Common)/Battle Royale Box Set (Common)/Commander 2013 Edition (Common)/Commander 2014 (Common)/Commander 2015 (Common)/Commander Anthology 2018 (Common)/Ikoria Commander (Common)/Dominaria Remastered (Common);0
+Dromar's Attendant;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Dromar's Charm;Instant;W/U/B;Planeshift (Uncommon)/Commander 2013 Edition (Uncommon);0
 Dromar, the Banisher;Legendary Creature — Dragon;U/W/B;Invasion (Rare);0
 Dromosaur;Creature — Dinosaur;R;Urza's Saga (Common);0
 Drop of Honey;Enchantment;G;Arabian Nights (Rare)/Masters Edition IV (Rare);0
@@ -1105,6 +1122,7 @@ Drudge Spell;Enchantment;B;Homelands (Uncommon);0
 Dry Spell;Sorcery;B;Classic Sixth Edition (Common)/Homelands (Common)/Portal (Uncommon)/Masters Edition II (Common);0
 Dual Nature;Enchantment;G;Prophecy (Rare);0
 Duct Crawler;Creature — Insect;R;Stronghold (Common)/Tenth Edition (Common);0
+Dueling Grounds;Enchantment;G/W;Invasion (Rare);0
 Dungeon Shade;Creature — Shade Spirit;B;Stronghold (Common)/Tempest Remastered (Common);0
 Duplicity;Enchantment;U;Tempest (Rare);0
 Duress;Sorcery;B;Seventh Edition (Common)/Urza's Saga (Common)/Duel Decks: Divine vs. Demonic (Common)/Magic 2010 (Common)/Magic 2011 (Common)/Premium Deck Series: Graveborn (Common)/Magic 2013 (Common)/Magic 2014 Core Set (Common)/Modern Event Deck 2014 (Common)/Duel Decks Anthology, Divine vs. Demonic (Common)/Dragons of Tarkir (Common)/Eternal Masters (Common)/Ixalan (Common)/Iconic Masters (Common)/Core Set 2019 (Common)/Core Set 2020 (Common)/Core Set 2021 (Common)/Strixhaven Mystical Archive (Uncommon)/Jumpstart: Historic Horizons (Common)/Innistrad: Midnight Hunt (Common)/Dominaria Remastered (Common)/Phyrexia: All Will Be One (Common);0
@@ -1157,6 +1175,7 @@ Ekundu Cyclops;Creature — Cyclops;R;Mirage (Common);0
 Ekundu Griffin;Creature — Griffin;W;Classic Sixth Edition (Common)/Mirage (Common);0
 El-Hajjâj;Creature — Human Wizard;B;Revised Edition (Rare)/Fourth Edition (Rare)/Arabian Nights (Rare);0
 Eladamri (Vanguard);Vanguard;C;Vanguard (Special);0
+Eladamri's Call;Instant;G/W;Planeshift (Rare)/Masters 25 (Rare)/Modern Horizons (Rare);0
 Eladamri's Vineyard;Enchantment;G;Tempest (Rare);0
 Eladamri, Lord of Leaves;Legendary Creature — Elf Warrior;G;Tempest (Rare);0
 Elder Druid;Creature — Elf Cleric Druid;G;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Ice Age (Rare);0
@@ -1265,6 +1284,7 @@ Ertai (Vanguard);Vanguard;C;Vanguard (Special);0
 Ertai's Familiar;Creature — Illusion;U;Weatherlight (Rare);0
 Ertai's Meddling;Instant;U;Tempest (Rare);0
 Ertai, Wizard Adept;Legendary Creature — Human Wizard;U;Exodus (Rare);0
+Ertai, the Corrupted;Legendary Creature — Phyrexian Human Wizard;W/U/B;Planeshift (Rare);0
 Escape Routes;Enchantment;U;Planeshift (Common);0
 Escaped Shapeshifter;Creature - Shapeshifter;U;Tempest (Rare);0
 Essence Bottle;Artifact;C;Tempest (Uncommon);0
@@ -1510,6 +1530,7 @@ Foriysian Brigade;Creature — Human Soldier;W;Weatherlight (Uncommon);0
 Fork;Instant;R;Limited Edition Alpha (Rare)/Limited Edition Beta (Rare)/Unlimited Edition (Rare)/Revised Edition (Rare)/Masters Edition IV (Rare);0
 Forked Lightning;Sorcery;R;Portal (Rare)/Masters Edition III (Uncommon);0
 Formation;Instant;W;Ice Age (Rare);0
+Forsaken City;Land;C;Planeshift (Rare);0
 Forsaken Wastes;World Enchantment;B;Mirage (Rare);0
 Fortified Area;Enchantment;W;Fourth Edition (Common)/Legends (Uncommon);0
 Fortitude;Enchantment — Aura;G;Urza's Saga (Common);0
@@ -1583,6 +1604,7 @@ General's Regalia;Artifact;C;Mercadian Masques (Rare);0
 Geothermal Crevice;Land;C;Invasion (Common);0
 Gerrard (Vanguard);Vanguard;C;Vanguard (Special);0
 Gerrard's Battle Cry;Enchantment;W;Tempest (Rare)/Vintage Masters (Rare)/Tempest Remastered (Rare);0
+Gerrard's Command;Instant;G/W;Planeshift (Common)/Duel Decks: Phyrexia vs. the Coalition (Common);0
 Gerrard's Irregulars;Creature — Human Soldier;R;Mercadian Masques (Common);0
 Gerrard's Wisdom;Sorcery;W;Seventh Edition (Uncommon)/Weatherlight (Uncommon)/Starter 1999 (Rare);0
 Ghazbán Ogre;Creature — Ogre;G;Fifth Edition (Common)/Arabian Nights (Common)/Chronicles (Common)/Masters Edition (Common);0
@@ -1912,6 +1934,7 @@ Huang Zhong, Shu General;Legendary Creature — Human Soldier;W;Portal Three Kin
 Hulking Cyclops;Creature — Cyclops;R;Classic Sixth Edition (Uncommon)/Eighth Edition (Uncommon)/Visions (Uncommon)/Beatdown Box Set (Uncommon)/Portal (Uncommon);0
 Hulking Goblin;Creature — Goblin;R;Starter 1999 (Common)/Portal (Common)/Vintage Masters (Common);0
 Hulking Ogre;Creature — Ogre;R;Urza's Destiny (Common)/Starter 1999 (Uncommon);0
+Hull Breach;Sorcery;G/R;Planeshift (Common)/Planechase (Common)/Magic: The Gathering-Commander (Common)/Commander 2013 Edition (Common)/Warhammer 40,000 Commander (Uncommon);0
 Humble;Instant;W;Urza's Saga (Uncommon)/Eternal Masters (Common);0
 Humility;Enchantment;W;Tempest (Rare)/Tempest Remastered (Mythic Rare);0
 Hunding Gjornersen;Legendary Creature — Human Warrior;W/U;Legends (Uncommon)/Masters Edition III (Uncommon);0
@@ -2332,6 +2355,7 @@ Lizard Warrior;Creature — Lizard Warrior;R;Portal (Common)/Magic: The Gatherin
 Llanowar Behemoth;Creature — Elemental;G;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Weatherlight (Uncommon);0
 Llanowar Cavalry;Creature — Human Soldier;G;Invasion (Common);0
 Llanowar Druid;Creature — Elf Druid;G;Weatherlight (Common);0
+Llanowar Elite;Creature — Elf;G;Invasion (Common);0
 Llanowar Elves;Creature — Elf Druid;G;Limited Edition Alpha (Common)/Limited Edition Beta (Common)/Unlimited Edition (Common)/Revised Edition (Common)/Fourth Edition (Common)/Fifth Edition (Common)/Classic Sixth Edition (Common)/Seventh Edition (Common)/Ninth Edition (Common)/Tenth Edition (Common)/Starter 2000 (Common)/Battle Royale Box Set (Common)/Beatdown Box Set (Common)/Duel Decks: Elves vs. Goblins (Common)/Magic 2010 (Common)/Magic 2011 (Common)/Magic 2012 (Common)/Commander 2014 (Common)/Duel Decks Anthology, Elves vs. Goblins (Common)/Eternal Masters (Common)/Commander Anthology (Common)/Dominaria (Common)/Core Set 2019 (Common)/Game Night (Common)/Game Night: Free-For-All (Common);0
 Llanowar Knight;Creature — Elf Knight;G/W;Invasion (Common);0
 Llanowar Sentinel;Creature — Elf;G;Weatherlight (Common)/Tenth Edition (Common);0
@@ -2395,6 +2419,7 @@ Magnify;Instant;G;Urza's Destiny (Common);0
 Magus of the Unseen;Creature — Human Wizard;U;Fifth Edition (Rare)/Ice Age (Rare)/Masters Edition II (Rare);0
 Mahamoti Djinn;Creature — Djinn;U;Limited Edition Alpha (Rare)/Limited Edition Beta (Rare)/Unlimited Edition (Rare)/Revised Edition (Rare)/Fourth Edition (Rare)/Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Tenth Edition (Rare)/Beatdown Box Set (Rare)/Masters Edition IV (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Iconic Masters (Uncommon)/Ultimate Masters (Uncommon);0
 Malachite Talisman;Artifact;C;Ice Age (Uncommon);0
+Malicious Advice;Instant;B/U;Planeshift (Common);0
 Malignant Growth;Enchantment;U/G;Mirage (Rare);0
 Mammoth Harness;Enchantment — Aura;G;Homelands (Rare);0
 Man-o'-War;Creature — Jellyfish;U;Visions (Common)/Starter 1999 (Uncommon)/Battle Royale Box Set (Common)/Portal (Uncommon)/Duel Decks: Jace vs. Chandra (Common)/Vintage Masters (Common)/Duel Decks Anthology, Jace vs. Chandra (Common)/Duel Decks: Elspeth vs. Kiora (Common)/Eternal Masters (Common)/Masters 25 (Common)/Modern Horizons (Common)/Dominaria Remastered (Common);0
@@ -2447,6 +2472,7 @@ Martyr's Cause;Enchantment;W;Urza's Legacy (Uncommon);0
 Martyr's Cry;Sorcery;W;The Dark (Rare)/Masters Edition IV (Rare);0
 Martyrdom;Instant;W;Alliances (Common);0
 Martyrs of Korlis;Creature — Human;W;Antiquities (Uncommon)/Masters Edition IV (Uncommon);0
+Martyrs' Tomb;Enchantment;B/W;Apocalypse (Uncommon);0
 Mask of Law and Grace;Enchantment — Aura;W;Urza's Destiny (Common);0
 Mask of the Mimic;Instant;U;Stronghold (Uncommon);0
 Massacre;Sorcery;B;Nemesis (Uncommon);0
@@ -2682,6 +2708,7 @@ Nature's Ruin;Sorcery;B;Portal (Uncommon)/Vintage Masters (Rare);0
 Nature's Wrath;Enchantment;G;Alliances (Rare)/Masters Edition II (Rare);0
 Nausea;Sorcery;B;Seventh Edition (Common)/Eighth Edition (Common)/Exodus (Common)/Eternal Masters (Common);0
 Nebuchadnezzar;Legendary Creature — Human Wizard;U/B;Legends (Rare)/Chronicles (Rare)/Masters Edition III (Uncommon);0
+Necra Disciple;Creature — Human Wizard;B;Apocalypse (Common);0
 Necratog;Creature — Atog;B;Weatherlight (Uncommon);0
 Necrite;Creature - Thrull;B;Fifth Edition (Common)/Fallen Empires (Common)/Masters Edition II (Common);0
 Necrologia;Instant;B;Seventh Edition (Uncommon)/Exodus (Uncommon)/Tempest Remastered (Rare);0
@@ -2704,6 +2731,7 @@ Nicol Bolas;Legendary Creature — Elder Dragon;U/B/R;Legends (Rare)/Time Spiral
 Night Soil;Enchantment;G;Fallen Empires (Common)/Masters Edition II (Uncommon)/Commander 2013 Edition (Common);0
 Nightmare;Creature — Nightmare Horse;B;Limited Edition Alpha (Rare)/Limited Edition Beta (Rare)/Unlimited Edition (Rare)/Revised Edition (Rare)/Fourth Edition (Rare)/Fifth Edition (Rare)/Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Eighth Edition (Rare)/Ninth Edition (Rare)/Tenth Edition (Rare)/Magic 2010 (Rare)/Magic 2014 Core Set (Rare)/Magic 2015 Core Set (Rare)/Magic Origins (Rare)/Welcome Deck 2016 (Rare)/Welcome Deck 2017 (Rare)/Arena Base Set (Rare);0
 Nightscape Apprentice;Creature — Zombie Wizard;B;Invasion (Common);0
+Nightscape Familiar;Creature — Zombie;B;Planeshift (Common)/Duel Decks: Ajani vs. Nicol Bolas (Common)/Commander 2013 Edition (Common)/Vintage Masters (Common)/Archenemy: Nicol Bolas (Common)/Dominaria Remastered (Common);0
 Nightscape Master;Creature — Zombie Wizard;B;Invasion (Rare);0
 Nightshade Seer;Creature — Human Wizard;B;Urza's Destiny (Uncommon);0
 Nightstalker Engine;Creature — Nightstalker;B;Portal Second Age (Rare);0
@@ -2819,6 +2847,7 @@ Outbreak;Sorcery;B;Prophecy (Uncommon);0
 Outmaneuver;Instant;R;Urza's Saga (Uncommon);0
 Overabundance;Enchantment;G/R;Invasion (Rare);0
 Overburden;Enchantment;U;Prophecy (Rare);0
+Overgrown Estate;Enchantment;W/G/B;Apocalypse (Rare);0
 Overgrowth;Enchantment — Aura;G;Ninth Edition (Common)/Stronghold (Common)/Tenth Edition (Common)/Commander 2018 (Common)/Warhammer 40,000 Commander (Common)/Jumpstart 2022 (Common);0
 Overlaid Terrain;Enchantment;G;Nemesis (Rare);0
 Overload;Instant;R;Invasion (Common);0
@@ -2963,9 +2992,15 @@ Plaguebearer;Creature — Zombie;B;Exodus (Rare);0
 Plains;Basic Land — Plains;C;Limited Edition Alpha (Land)/Limited Edition Beta (Land)/Unlimited Edition (Land)/Revised Edition (Land)/Fourth Edition (Land)/Fifth Edition (Land)/Classic Sixth Edition (Land)/Seventh Edition (Land)/Eighth Edition (Land)/Ninth Edition (Land)/Ice Age (Land)/Mirage (Land)/Tempest (Land)/Urza's Saga (Land)/Mercadian Masques (Land)/Invasion (Land)/Odyssey (Land)/Onslaught (Land)/Mirrodin (Land)/Champions of Kamigawa (Land)/Ravnica: City of Guilds (Land)/Time Spiral (Land)/Tenth Edition (Land)/Lorwyn (Land)/Shadowmoor (Land)/Shards of Alara (Land)/Starter 1999 (Land)/Starter 2000 (Land)/Battle Royale Box Set (Land)/Portal (Land)/Portal Second Age (Land)/Portal Three Kingdoms (Land)/Unglued (Common)/Unhinged (Land)/Masters Edition (Land)/Duel Decks: Divine vs. Demonic (Land)/Magic 2010 (Land)/Planechase (Land)/Masters Edition III (Land)/Zendikar (Land)/Premium Deck Series: Slivers (Land)/Duel Decks: Phyrexia vs. the Coalition (Land)/Rise of the Eldrazi (Land)/Archenemy (Land)/Magic 2011 (Land)/Duel Decks: Elspeth vs. Tezzeret (Land)/Scars of Mirrodin (Land)/Mirrodin Besieged (Land)/Duel Decks: Knights vs. Dragons (Land)/New Phyrexia (Land)/Magic: The Gathering-Commander (Land)/Magic 2012 (Land)/Duel Decks: Ajani vs. Nicol Bolas (Land)/Innistrad (Land)/Duel Decks: Venser vs. Koth (Land)/Avacyn Restored (Land)/Planechase 2012 Edition (Land)/Magic 2013 (Land)/Return to Ravnica (Land)/Duel Decks: Sorin vs. Tibalt (Land)/Magic 2014 Core Set (Land)/Duel Decks: Heroes vs. Monsters (Land)/Theros (Land)/Commander 2013 Edition (Land)/Modern Event Deck 2014 (Land)/Magic 2015 Core Set (Land)/Duel Decks: Speed vs. Cunning (Land)/Khans of Tarkir (Land)/Commander 2014 (Land)/Fate Reforged (Land)/Duel Decks Anthology, Divine vs. Demonic (Land)/Duel Decks: Elspeth vs. Kiora (Land)/Dragons of Tarkir (Land)/Tempest Remastered (Land)/Magic Origins (Land)/Duel Decks: Zendikar vs. Eldrazi (Land)/Battle for Zendikar (Land)/Commander 2015 (Land)/Duel Decks: Blessed vs. Cursed (Land)/Shadows over Innistrad (Land)/Kaladesh (Land)/Commander 2016 (Land)/Planechase Anthology (Land)/Amonkhet (Land)/Commander Anthology (Land)/Archenemy: Nicol Bolas (Land)/Hour of Devastation (Land)/Commander 2017 (Land)/Ixalan (Land)/Unstable (Land)/Rivals of Ixalan (Land)/Dominaria (Land)/Battlebond (Land)/Commander Anthology 2018 (Land)/Global Series: Jiang Yanggu and Mu Yanling (Land)/Core Set 2019 (Land)/Commander 2018 (Land)/Guilds of Ravnica (Land)/Guild Kit: Boros (Land)/Guild Kit: Selesnya (Land)/Game Night (Land)/Ravnica Allegiance (Land)/Guild Kit: Azorius (Land)/Guild Kit: Orzhov (Land)/War of the Spark (Land)/Core Set 2020 (Land)/Commander 2019 (Land)/Throne of Eldraine (Land)/Game Night 2019 (Land)/Theros Beyond Death (Land)/Secret Lair Drop (Rare)/Unsanctioned (Land)/Ikoria: Lair of Behemoths (Land)/Core Set 2021 (Land)/Jumpstart (Land)/Double Masters (Land)/Zendikar Rising (Land)/Commander Legends (Land)/Kaldheim (Land)/Strixhaven: School of Mages (Land)/Modern Horizons 2 (Land)/Adventures in the Forgotten Realms (Land)/Innistrad: Midnight Hunt (Land)/Innistrad: Crimson Vow (Land)/Amonkhet Remastered (Land)/Kaladesh Remastered (Land)/Arena Base Set (Land)/Kamigawa: Neon Dynasty (Land)/Streets of New Capenna (Land)/Commander Legends: Battle for Baldur's Gate (Land)/Alchemy Horizons: Baldur's Gate (Land)/Dominaria United (Land)/Unfinity (Land)/Warhammer 40,000 Commander (Land)/Game Night: Free-For-All (Land)/The Brothers' War (Land)/The Brothers' War Commander (Land)/Jumpstart 2022 (Land)/Dominaria Remastered (Land)/Phyrexia: All Will Be One (Land)/Shadows Over Innistrad Remastered (Land)/March of the Machine (Land)/The Lord of the Rings: Tales of Middle Earth (Land)/Commander Masters (Land)/Wilds of Eldraine (Land)/Doctor Who Commander (Land)/The Lost Caverns of Ixalan (Land)/Jurassic World Collection Cards (Land)/Murders at Karlov Manor (Land)/Ravnica Clue Edition (Land)/Magic The Gathering—Fallout (Land)/Outlaws of Thunder Junction (Land)/Modern Horizons 3 (Land)/Assassin's Creed (Land)/Bloomburrow (Land)/Duskmourn: House of Horror (Land)/Duskmourn: House of Horror Commander (Land);1
 Planar Birth;Sorcery;W;Urza's Saga (Rare);0
 Planar Collapse;Enchantment;W;Urza's Legacy (Rare);0
+Planar Despair;Sorcery;B;Apocalypse (Rare);0
 Planar Gate;Artifact;C;Legends (Rare)/Masters Edition IV (Uncommon);0
 Planar Portal;Artifact;C;Eighth Edition (Rare)/Invasion (Rare);0
 Planar Void;Enchantment;B;Urza's Saga (Uncommon);0
+Planeswalker's Favor;Enchantment;G;Planeshift (Rare);0
+Planeswalker's Fury;Enchantment;R;Planeshift (Rare);0
+Planeswalker's Mirth;Enchantment;W;Planeshift (Rare);0
+Planeswalker's Mischief;Enchantment;U;Planeshift (Rare);0
+Planeswalker's Scorn;Enchantment;B;Planeshift (Rare);0
 Plant Elemental;Creature — Plant Elemental;G;Portal (Uncommon);0
 Plateau;Land — Mountain Plains;C;Limited Edition Alpha (Rare)/Limited Edition Beta (Rare)/Unlimited Edition (Rare)/Revised Edition (Rare)/Masters Edition III (Rare)/Masters Edition IV (Rare)/Vintage Masters (Rare);0
 Plated Rootwalla;Creature — Lizard;G;Exodus (Common)/Battle Royale Box Set (Common);0
@@ -3114,6 +3149,7 @@ Rainbow Crow;Creature — Bird;U;Invasion (Uncommon);0
 Rainbow Efreet;Creature — Efreet;U;Visions (Rare);0
 Rainbow Vale;Land;C;Fallen Empires (Rare)/Masters Edition (Rare);0
 Raise Dead;Sorcery;B;Limited Edition Alpha (Common)/Limited Edition Beta (Common)/Unlimited Edition (Common)/Revised Edition (Common)/Fourth Edition (Common)/Fifth Edition (Common)/Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Ninth Edition (Common)/Starter 1999 (Common)/Portal (Common)/Portal Second Age (Common)/Conspiracy: Take the Crown (Common)/Welcome Deck 2017 (Common)/Arena Base Set (Common);0
+Raka Disciple;Creature — Minotaur Wizard;R;Apocalypse (Common);0
 Rakalite;Artifact;C;Antiquities (Uncommon)/Chronicles (Rare)/Masters Edition IV (Rare);0
 Rally the Troops;Instant;W;Portal Second Age (Uncommon)/Portal Three Kingdoms (Uncommon);0
 Rally;Instant;W;Ice Age (Common);0
@@ -3268,6 +3304,7 @@ Reverse Polarity;Instant;W;Revised Edition (Uncommon)/Antiquities (Common);0
 Revive;Sorcery;G;Eighth Edition (Uncommon)/Mercadian Masques (Uncommon)/Magic 2013 (Uncommon)/Modern Masters 2017 Edition (Common);0
 Reviving Dose;Instant;W;Invasion (Common)/Tenth Edition (Common)/Conspiracy: Take the Crown (Common);0
 Reviving Vapors;Instant;U/W;Invasion (Uncommon)/Vintage Masters (Uncommon)/Ultimate Masters (Uncommon);0
+Rewards of Diversity;Enchantment;W;Invasion (Uncommon);0
 Rewind;Instant;U;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Urza's Saga (Common)/Magic 2013 (Uncommon)/Modern Masters 2017 Edition (Common)/Core Set 2021 (Uncommon);0
 Reya Dawnbringer;Legendary Creature — Angel;W;Invasion (Rare)/Tenth Edition (Rare)/Duel Decks: Divine vs. Demonic (Rare)/Magic: The Gathering—Conspiracy (Rare)/Duel Decks Anthology, Divine vs. Demonic (Rare)/Ultimate Masters (Rare);0
 Rhox;Creature — Rhino Beast;G;Eighth Edition (Rare)/Nemesis (Rare)/Tenth Edition (Rare);0
@@ -3299,6 +3336,7 @@ Ring of Ma'rûf;Artifact;C;Arabian Nights (Rare)/Masters Edition (Rare);0
 Ring of Renewal;Artifact;C;Fallen Empires (Rare)/Masters Edition IV (Rare);0
 Riptide Crab;Creature — Crab;W/U;Invasion (Uncommon)/Battlebond (Common);0
 Riptide Laboratory;Land;C;Onslaught (Rare)/Jumpstart (Rare)/Modern Horizons 2 (Rare);0
+Riptide Shapeshifter;Creature — Shapeshifter;U;Onslaught (Uncommon);0
 Riptide;Instant;U;The Dark (Common);0
 Rishadan Airship;Creature — Human Pirate;U;Mercadian Masques (Common)/Jumpstart (Common);0
 Rishadan Brigand;Creature — Human Pirate;U;Mercadian Masques (Rare);0
@@ -3307,6 +3345,8 @@ Rishadan Footpad;Creature — Human Pirate;U;Mercadian Masques (Uncommon);0
 Rishadan Pawnshop;Artifact;C;Mercadian Masques (Rare);0
 Rishadan Port;Land;C;Mercadian Masques (Rare)/Masters 25 (Rare)/Mystery Booster 2: Convention Edition (Rare);0
 Rising Waters;Enchantment;U;Nemesis (Rare);0
+Rith's Attendant;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Rith's Charm;Instant;R/G/W;Planeshift (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
 Rith, the Awakener;Legendary Creature — Dragon;R/G/W;Invasion (Rare)/From the Vault: Dragons (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare)/Dominaria Remastered (Rare);0
 Ritual of Steel;Enchantment — Aura;W;Mirage (Common);0
 Ritual of Subdual;Enchantment;G;Ice Age (Rare)/Masters Edition II (Rare);0
@@ -3334,6 +3374,7 @@ Rofellos (Vanguard);Vanguard;C;Vanguard (Special);0
 Rofellos's Gift;Sorcery;G;Urza's Destiny (Common);0
 Rofellos, Llanowar Emissary;Legendary Creature — Elf Druid;G;Urza's Destiny (Rare)/Vintage Masters (Rare);0
 Rogue Elephant;Creature — Elephant;G;Weatherlight (Common);0
+Rogue Kavu;Creature — Kavu;R;Ninth Edition (Common)/Invasion (Common);0
 Rogue Skycaptain;Creature — Human Rogue Mercenary;R;Alliances (Rare)/Masters Edition II (Rare);0
 Rohgahh of Kher Keep;Legendary Creature — Kobold;R/B;Legends (Rare)/Masters Edition III (Rare);0
 Rolling Earthquake;Sorcery;R;Portal Three Kingdoms (Rare)/Masters Edition III (Rare)/From the Vault: Annihilation (2014) (Mythic Rare)/Double Masters (Rare);0
@@ -3450,6 +3491,7 @@ Saprazzan Raider;Creature — Merfolk;U;Mercadian Masques (Common);0
 Saprazzan Skerry;Land;C;Mercadian Masques (Common);0
 Saproling Burst;Enchantment;G;Nemesis (Rare)/Vintage Masters (Rare);0
 Saproling Cluster;Enchantment;G;Nemesis (Rare);0
+Saproling Infestation;Enchantment;G;Invasion (Rare);0
 Saproling Symbiosis;Sorcery;G;Invasion (Rare)/Dominaria Remastered (Rare);0
 Sarcomancy;Enchantment;B;Tempest (Rare)/Vintage Masters (Uncommon)/Tempest Remastered (Uncommon);0
 Savaen Elves;Creature - Elf;G;The Dark (Common);0
@@ -3523,6 +3565,7 @@ Seal of Removal;Enchantment;U;Nemesis (Common)/Modern Horizons 2 (Uncommon);0
 Seal of Strength;Enchantment;G;Nemesis (Common)/Eternal Masters (Common);0
 Sealed Fate;Sorcery;U/B;Mirage (Uncommon);0
 Search for Survivors;Sorcery;R;Prophecy (Rare);0
+Searing Rays;Sorcery;R;Invasion (Uncommon);0
 Searing Spear Askari;Creature — Human Knight;R;Mirage (Common);0
 Searing Touch;Instant;R;Tempest (Uncommon)/Tempest Remastered (Uncommon);0
 Searing Wind;Instant;R;Eighth Edition (Rare)/Prophecy (Rare);0
@@ -3834,6 +3877,7 @@ Spectral Guardian;Creature — Spirit;W;Mirage (Rare);0
 Spectral Shield;Enchantment — Aura;U/W;Ice Age (Uncommon)/Masters Edition III (Uncommon);0
 Spell Blast;Instant;U;Limited Edition Alpha (Common)/Limited Edition Beta (Common)/Unlimited Edition (Common)/Revised Edition (Common)/Fourth Edition (Common)/Fifth Edition (Common)/Classic Sixth Edition (Common)/Tempest (Common)/Magic 2014 Core Set (Uncommon)/Tempest Remastered (Common);0
 Spellbook;Artifact;C;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Exodus (Uncommon)/Tenth Edition (Uncommon)/Magic 2010 (Uncommon);0
+Spellgorger Barbarian;Creature — Human Nightmare Barbarian;R;Judgment (Common);0
 Spellshock;Enchantment;R;Exodus (Uncommon)/Tempest Remastered (Uncommon);0
 Sphere of Resistance;Artifact;C;Exodus (Rare)/Vintage Masters (Rare)/Masterpiece Series: Kaladesh Inventions (Special);0
 Spider Climb;Enchantment — Aura;G;Visions (Common);0
@@ -3908,6 +3952,7 @@ Squirming Mass;Creature — Horror;B;Urza's Destiny (Common);0
 Squirrel Wrangler;Creature — Human Druid;G;Prophecy (Rare)/Jumpstart: Historic Horizons (Rare);0
 Staff of Zegon;Artifact;C;Antiquities (Common)/Masters Edition IV (Common);0
 Staff of the Ages;Artifact;C;Ice Age (Rare);0
+Stalking Assassin;Creature — Human Assassin;B/U;Invasion (Rare);0
 Stalking Stones;Land;C;Tempest (Uncommon)/Mirrodin (Uncommon)/Duel Decks: Elspeth vs. Tezzeret (Uncommon)/Tempest Remastered (Uncommon);0
 Stalking Tiger;Creature — Cat;G;Classic Sixth Edition (Common)/Mirage (Common)/Tenth Edition (Common)/Portal (Common)/Portal Three Kingdoms (Common)/Welcome Deck 2017 (Common);0
 Stamina;Enchantment — Aura;G;Mercadian Masques (Uncommon);0
@@ -3918,6 +3963,7 @@ Stand // Deliver;Instant;U/W;Invasion (Uncommon)/Dominaria Remastered (Uncommon)
 Standing Stones;Artifact;C;The Dark (Uncommon);0
 Standing Troops;Creature — Human Soldier;W;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Exodus (Common)/Duel Decks: Elspeth vs. Kiora (Common)/Tempest Remastered (Common)/Welcome Deck 2017 (Common);0
 Stangg;Legendary Creature — Human Warrior;R/G;Legends (Rare)/Chronicles (Rare)/Masters Edition III (Uncommon)/Masters 25 (Uncommon);0
+Star Compass;Artifact;C;Eighth Edition (Uncommon)/Planeshift (Uncommon)/Iconic Masters (Common)/Special Guests (Uncommon);0
 Starke (Vanguard);Vanguard;C;Vanguard (Special);0
 Starke of Rath;Legendary Creature - Human Rogue;R;Tempest (Rare)/Tempest Remastered (Mythic Rare);0
 Starlight;Sorcery;W;Seventh Edition (Uncommon)/Portal (Uncommon);0
@@ -3961,10 +4007,12 @@ Storm Spirit;Creature — Elemental Spirit;G/W/U;Ice Age (Rare)/Masters Edition 
 Storm World;World Enchantment;R;Legends (Rare)/Masters Edition III (Rare);0
 Stormbind;Enchantment;R/G;Ice Age (Rare)/Time Spiral "Timeshifted" (Special);0
 Stormscape Apprentice;Creature — Human Wizard;U;Invasion (Common);0
+Stormscape Familiar;Creature — Bird;U;Planeshift (Common)/Time Spiral "Timeshifted" (Special);0
 Stormscape Master;Creature — Human Wizard;U;Invasion (Rare);0
 Stormwatch Eagle;Creature — Bird;U;Prophecy (Common);0
 Story Circle;Enchantment;W;Eighth Edition (Rare)/Ninth Edition (Rare)/Mercadian Masques (Uncommon)/Tenth Edition (Rare);0
 Strands of Night;Enchantment;B;Classic Sixth Edition (Uncommon)/Seventh Edition (Uncommon)/Weatherlight (Uncommon);0
+Stratadon;Artifact Creature — Beast;C;Planeshift (Uncommon);0
 Strategic Planning;Sorcery;U;Portal Three Kingdoms (Uncommon)/Masters Edition III (Common)/Commander 2013 Edition (Uncommon)/Hour of Devastation (Common)/Commander Legends (Common)/Kaldheim (Common)/Strixhaven Mystical Archive (Uncommon)/Amonkhet Remastered (Common);0
 Straw Golem;Artifact Creature — Golem;C;Weatherlight (Uncommon);0
 Straw Soldiers;Creature — Scarecrow Soldier;U;Portal Three Kingdoms (Common);0
@@ -4011,6 +4059,7 @@ Sunken City;Enchantment;U;Fourth Edition (Common)/The Dark (Common)/Masters Edit
 Sunken Field;Enchantment — Aura;U;Prophecy (Uncommon);0
 Sunken Hope;Enchantment;U;Planeshift (Rare)/Tenth Edition (Rare)/Planechase 2012 Edition (Rare)/Planechase Anthology (Rare);0
 Sunscape Apprentice;Creature — Human Wizard;W;Invasion (Common);0
+Sunscape Familiar;Creature — Wall;W;Planeshift (Common);0
 Sunscape Master;Creature — Human Wizard;W;Invasion (Rare);0
 Sunstone;Artifact;C;Ice Age (Uncommon);0
 Sunweb;Creature — Wall;W;Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Eighth Edition (Rare)/Mirage (Rare);0
@@ -4049,6 +4098,7 @@ Tahngarth's Rage;Enchantment — Aura;R;Tempest (Uncommon);0
 Taiga;Land — Mountain Forest;C;Limited Edition Alpha (Rare)/Limited Edition Beta (Rare)/Unlimited Edition (Rare)/Revised Edition (Rare)/Masters Edition III (Rare)/Masters Edition IV (Rare)/Vintage Masters (Rare);0
 Tainted Aether;Enchantment;B;Seventh Edition (Rare)/Urza's Saga (Rare);0
 Tainted Specter;Creature — Specter;B;Mirage (Rare);0
+Tainted Well;Enchantment — Aura;B;Invasion (Common);0
 Takara (Vanguard);Vanguard;C;Vanguard (Special);0
 Takklemaggot;Enchantment - Aura;B;Legends (Uncommon)/Chronicles (Uncommon)/Masters Edition III (Uncommon);0
 Talas Air Ship;Creature — Human Pirate;U;Portal Second Age (Common);0
@@ -4114,10 +4164,12 @@ Temporal Adept;Creature — Human Wizard;U;Seventh Edition (Rare)/Eighth Edition
 Temporal Aperture;Artifact;C;Urza's Saga (Rare);0
 Temporal Distortion;Enchantment;U;Invasion (Rare);0
 Temporal Manipulation;Sorcery;U;Portal Second Age (Rare)/Masters Edition II (Rare)/Ultimate Masters (Mythic Rare)/Ultimate Box Toppers (Special);0
+Temporal Spring;Sorcery;G/U;Apocalypse (Common);0
 Temporary Truce;Sorcery;W;Portal (Rare);0
 Tempting Licid;Creature — Licid;G;Stronghold (Uncommon);0
 Tendrils of Despair;Sorcery;B;Weatherlight (Common);0
 Teremko Griffin;Creature — Griffin;W;Mirage (Common);0
+Terminate;Instant;B/R;Planeshift (Common)/Alara Reborn (Common)/Archenemy (Common)/Magic: The Gathering-Commander (Common)/Duel Decks: Sorin vs. Tibalt (Common)/Commander 2016 (Common)/Modern Masters 2017 Edition (Uncommon)/Commander Anthology (Common)/Commander 2017 (Uncommon)/Ikoria Commander (Uncommon)/Adventures in the Forgotten Realms Commander (Uncommon)/Streets of New Capenna Commander (Uncommon)/Double Masters 2022 (Uncommon)/Dominaria United Commander (Common)/Modern Horizons 3 Commander (Common)/Assassin's Creed (Uncommon);0
 Teroh's Faithful;Creature — Human Cleric;W;Torment (Common)/Vintage Masters (Common);0
 Terrain Generator;Land;C;Nemesis (Uncommon)/Duel Decks: Jace vs. Chandra (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon);0
 Territorial Dispute;Enchantment;R;Mercadian Masques (Rare);0
@@ -4162,6 +4214,7 @@ Thopter Squadron;Artifact Creature — Thopter;C;Exodus (Rare)/Vintage Masters (
 Thorn Elemental;Creature — Elemental;G;Seventh Edition (Rare)/Eighth Edition (Rare)/Urza's Destiny (Rare)/Starter 1999 (Rare)/Dominaria (Uncommon);0
 Thorn Thallid;Creature — Fungus;G;Fallen Empires (Common)/Masters Edition (Common);0
 Thornscape Apprentice;Creature — Human Wizard;G;Invasion (Common)/Duel Decks: Phyrexia vs. the Coalition (Common);0
+Thornscape Familiar;Creature — Insect;G;Planeshift (Common);0
 Thornscape Master;Creature — Human Wizard;G;Invasion (Rare);0
 Thornwind Faeries;Creature — Faerie;U;Urza's Legacy (Common)/Commander 2013 Edition (Common)/Commander Anthology (Common);0
 Thought Lash;Enchantment;U;Alliances (Rare)/Masters Edition II (Rare);0
@@ -4197,6 +4250,7 @@ Thundering Giant;Creature — Giant;R;Urza's Saga (Uncommon)/Tenth Edition (Unco
 Thundering Wurm;Creature — Wurm;G;Portal (Rare);0
 Thundermare;Creature — Elemental Horse;R;Ninth Edition (Rare)/Weatherlight (Rare)/Portal (Rare);0
 Thunderscape Apprentice;Creature — Human Wizard;R;Invasion (Common);0
+Thunderscape Familiar;Creature — Kavu;R;Planeshift (Common);0
 Thunderscape Master;Creature — Human Wizard;R;Invasion (Rare);0
 Thwart;Instant;U;Mercadian Masques (Uncommon);0
 Ticking Gnomes;Artifact Creature — Gnome;C;Urza's Legacy (Uncommon)/Eternal Masters (Uncommon);0
@@ -4306,6 +4360,8 @@ Treetop Village;Land;C;Urza's Legacy (Uncommon)/Tenth Edition (Uncommon)/Duel De
 Tremor;Sorcery;R;Classic Sixth Edition (Common)/Seventh Edition (Common)/Eighth Edition (Common)/Visions (Common)/Mercadian Masques (Common)/Starter 1999 (Common)/Portal Second Age (Common);0
 Trench Wurm;Creature — Wurm;B;Invasion (Uncommon);0
 Trenching Steed;Creature — Horse Rebel;W;Prophecy (Common);0
+Treva's Attendant;Artifact Creature — Golem;C;Invasion (Uncommon);0
+Treva's Charm;Instant;G/W/U;Planeshift (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
 Treva, the Renewer;Legendary Creature — Dragon;G/W/U;Invasion (Rare)/Duel Decks: Phyrexia vs. the Coalition (Rare);0
 Triangle of War;Artifact;C;Visions (Rare)/Vintage Masters (Uncommon);0
 Triassic Egg;Artifact;C;Legends (Rare)/Chronicles (Rare)/Masters Edition IV (Rare);0
@@ -4603,6 +4659,7 @@ Warrior's Honor;Instant;W;Classic Sixth Edition (Common)/Ninth Edition (Common)/
 Warrior's Oath;Sorcery;R;Portal Three Kingdoms (Rare)/Double Masters 2022 (Mythic Rare);0
 Warrior's Stand;Instant;W;Portal Second Age (Uncommon)/Portal Three Kingdoms (Uncommon);0
 Warthog;Creature — Boar;G;Classic Sixth Edition (Uncommon)/Visions (Common);0
+Wash Out;Sorcery;U;Invasion (Uncommon)/Commander 2013 Edition (Uncommon)/Commander Anthology (Uncommon)/Double Masters 2022 (Uncommon);0
 Wasteland;Land;C;Tempest (Uncommon)/Tempest Remastered (Rare)/Zendikar Expeditions (Mythic Rare)/Eternal Masters (Rare)/Zendikar Rising Expeditions (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/Magic The Gathering—Fallout (Rare);0
 Watchdog;Artifact Creature — Dog;C;Tempest (Uncommon);0
 Water Elemental;Creature — Elemental;U;Limited Edition Alpha (Uncommon)/Limited Edition Beta (Uncommon)/Unlimited Edition (Uncommon)/Revised Edition (Uncommon)/Fourth Edition (Uncommon)/Starter 1999 (Uncommon)/Masters Edition IV (Uncommon);0
@@ -4694,6 +4751,7 @@ Winds of Change;Sorcery;R;Fourth Edition (Rare)/Fifth Edition (Rare)/Legends (Un
 Winds of Rath;Sorcery;W;Tempest (Rare)/Duel Decks: Heroes vs. Monsters (Rare)/Vintage Masters (Rare)/Tempest Remastered (Rare)/Commander 2018 (Rare)/Commander Legends (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Wilds of Eldraine Commander (Rare)/Murders at Karlov Manor Commander (Rare);0
 Windscouter;Creature — Human Scout;U;Prophecy (Uncommon);0
 Wing Snare;Sorcery;G;Seventh Edition (Uncommon)/Eighth Edition (Uncommon)/Urza's Legacy (Uncommon)/Welcome Deck 2017 (Uncommon);0
+Wing Storm;Sorcery;G;Prophecy (Uncommon);0
 Winged Sliver;Creature — Sliver;U;Tempest (Common)/Premium Deck Series: Slivers (Common)/Tempest Remastered (Common)/Commander Masters (Common);0
 Wings of Aesthir;Enchantment — Aura;U/W;Ice Age (Uncommon)/Masters Edition II (Uncommon);0
 Wings of Hope;Enchantment — Aura;U/W;Invasion (Common);0
@@ -4823,24 +4881,37 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-Wash Out;Sorcery;U;Invasion (Uncommon)/Commander 2013 Edition (Uncommon)/Commander Anthology (Uncommon)/Double Masters 2022 (Uncommon);0
-Rewards of Diversity;Enchantment;W;Invasion (Uncommon);0
-Chilling Apparition;Creature — Spirit;B;Prophecy (Uncommon);0
-Llanowar Elite;Creature — Elf;G;Invasion (Common);0
-Dueling Grounds;Enchantment;G/W;Invasion (Rare);0
-Wing Storm;Sorcery;G;Prophecy (Uncommon);0
-Ertai, the Corrupted;Legendary Creature — Phyrexian Human Wizard;W/U/B;Planeshift (Rare);0
-Sunscape Familiar;Creature — Wall;W;Planeshift (Common);0
-Stormscape Familiar;Creature — Bird;U;Planeshift (Common)/Time Spiral "Timeshifted" (Special);0
-Thunderscape Familiar;Creature — Kavu;R;Planeshift (Common);0
-Thornscape Familiar;Creature — Insect;G;Planeshift (Common);0
-Eladamri's Call;Instant;G/W;Planeshift (Rare)/Masters 25 (Rare)/Modern Horizons (Rare);0
-
 
 
 # Done through card 25623
+#25930
+Keldon Necropolis;Legendary Land;C;Invasion (Rare)/Vintage Masters (Rare);0
+#25975
+Urborg Drake;Creature — Drake;B/U;Invasion (Uncommon)/Battlebond (Common);0
+#25976
+Captain Sisay;Legendary Creature — Human Soldier;G/W;Invasion (Rare)/From the Vault: Legends (Mythic Rare)/Secret Lair Drop (Mythic Rare)/Historic Anthology 1 (Mythic Rare)/Mystery Booster 2: Convention Edition (Rare);0
+#25977
+Hanna, Ship's Navigator;Legendary Creature — Human Artificer;U/W;Invasion (Rare)/Commander 2016 (Rare)/Masters 25 (Rare)/Double Masters (Rare)/Kamigawa: Neon Dynasty Commander (Rare)/Commander Masters (Rare);0
+#26257
+Protective Sphere;Enchantment;W;Invasion (Common);0
+#26282
+Harsh Judgment;Enchantment;W;Invasion (Rare);0
+#26287
+Psychic Battle;Enchantment;U;Invasion (Rare);0
+#26296
+Vodalian Merchant;Creature — Merfolk;U;Invasion (Common);0
 #26371
 Coalition Honor Guard;Creature — Human Flagbearer;W;Apocalypse (Common)/Eternal Masters (Common);0
+#26372
+Phyrexian Infiltrator;Creature — Phyrexian Minion;B;Invasion (Rare);0
+#26379
+Metathran Transport;Creature — Metathran;U;Invasion (Uncommon);0
+#26380
+Tsabo's Decree;Instant;B;Invasion (Rare);0
+#26389
+Stand or Fall;Enchantment;R;Invasion (Rare);0
+#26416
+Quirion Sentinel;Creature — Elf Druid;G;Invasion (Common);0
 #26783
 Standard Bearer;Creature — Human Flagbearer;W;Apocalypse (Common);0
 #26795

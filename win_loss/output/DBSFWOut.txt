@@ -1,7 +1,8 @@
-DBS: Fusion World W/L Loss Tracker, and deck selector
+DBS: Fusion World Win-Loss Tracker and deck selector
+
 My current record is 21-4
 
-My record by leader:
+My record by leader: (I have played 14 out of 29)
 Android 17 (FB01-070): 1-0
 Babidi (FB03-078): 2-1
 Bardock (FS05-01): 3-0

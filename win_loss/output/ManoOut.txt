@@ -1,6 +1,8 @@
+Manoeuvre Win-Loss Tracker and army selector
+
 My current record is 26-16
 
-My record by army:
+My record by army (12 total armies):
 Austria: 5-3
 France: 4-2
 Great Britain: 7-1

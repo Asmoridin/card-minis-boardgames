@@ -1,4 +1,5 @@
-Dragon Dice W/L Loss Tracker, and deck selector
+Dragon Dice Win-Loss Tracker and army selector
+
 My current record is 5-1
 
 My record by army:
@@ -9,10 +10,10 @@ My H-Index is 1
 My record against opponents:
 Joey: 5-1
 
-My record against opposing armys:
+My record against opposing armies:
 Dwarves: 1-1
 Lava Elves: 4-0
 
-I've seen these armys on the table the least (0 times): Amazons; Coral Elves; Dracolem; Eldarim; Feral; Fire Walkers; Goblins; Scalders; Swamp Stalkers; Treefolk; Undead
+I've seen these armies on the table the least (0 times): Amazons; Coral Elves; Dracolem; Eldarim; Feral; Fire Walkers; Goblins; Scalders; Swamp Stalkers; Treefolk; Undead
 
 I should play more games with Eldarim, as I only have 0 games

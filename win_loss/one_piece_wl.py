@@ -19,8 +19,9 @@ else:
     in_file = open('DB/OnePieceResults.txt', 'r', encoding="UTF-8")
     source_data_file = open('../card_games/DB/OnePieceData.txt', 'r', encoding="UTF-8")
 
-double_print("One Piece W/L Loss Tracker, and deck selector", out_file_h)
+double_print("One Piece Win-Loss Tracker and deck selector\n", out_file_h)
 
+BANNED_LEADERS = ['Trafalgar Law (ST10-001)', 'Sakazuki (OP05-041)']
 color_map = {'P':'Purple', 'B':'Black', 'R':'Red', 'Y':'Yellow', 'U':'Blue', 'G':'Green'}
 
 data_lines = in_file.readlines()
@@ -109,6 +110,8 @@ for opp_leader in sorted(my_opp_leader_wl):
 MIN_SEEN = 1000000
 min_seen_leaders = []
 for leader, leader_games in leader_games_map.items():
+    if leader in BANNED_LEADERS:
+        continue
     if leader_games < MIN_SEEN:
         MIN_SEEN = leader_games
         min_seen_leaders = [leader]
@@ -119,6 +122,8 @@ double_print(f"\nI've seen these leaders on the table the least ({MIN_SEEN} time
 
 playable_leader_list = []
 for leader in leader_games_map:
+    if leader in BANNED_LEADERS:
+        continue
     if leader not in my_leader_wl:
         playable_leader_list.append((leader, 0))
     else:

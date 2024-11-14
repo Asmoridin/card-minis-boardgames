@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 5384 cards.
-Have 479 out of 21611 total cards for a playset - 2.22 percent
+Tracking 5444 cards.
+Have 479 out of 21851 total cards for a playset - 2.19 percent
 
 *** VINTAGE ***
-There are 5384 Vintage legal cards
-Have 476 out of 21551 - 2.21 percent of a playset
+There are 5444 Vintage legal cards
+Have 476 out of 21791 - 2.18 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 5264 Legacy legal cards
-Have 454 out of 21416 - 2.12 percent of a playset
+There are 5324 Legacy legal cards
+Have 454 out of 21656 - 2.10 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1169 Modern legal cards
-Have 332 out of 5036 - 6.59 percent of a playset
+There are 1173 Modern legal cards
+Have 332 out of 5052 - 6.57 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1926 Pauper legal cards
-Have 183 out of 8064 - 2.27 percent of a playset
+There are 1947 Pauper legal cards
+Have 183 out of 8148 - 2.25 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 5273 Oathbreaker legal cards
-Have 426 out of 5663 - 7.52 percent of a playset
+There are 5333 Oathbreaker legal cards
+Have 426 out of 5723 - 7.44 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -244,8 +244,8 @@ Most needed cards are:
  - Seal of Cleansing: 7
 
 *** PAUPER COMMANDER ***
-There are 2699 Pauper Commander legal cards
-Have 203 out of 3089 - 6.57 percent of a playset
+There are 2728 Pauper Commander legal cards
+Have 203 out of 3118 - 6.51 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -264,21 +264,21 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 5282 Commander legal cards
-Have 427 out of 5672 - 7.53 percent of a playset
+There are 5342 Commander legal cards
+Have 427 out of 5732 - 7.45 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
- - Plains: 719
- - Island: 243
+ - Plains: 731
+ - Island: 246
  - Mountain: 227
  - Forest: 159
- - Snow-Covered Plains: 113
+ - Snow-Covered Plains: 114
  - Snow-Covered Mountain: 81
  - Snow-Covered Island: 72
- - Ancient Tomb: 63
+ - Ancient Tomb: 64
  - Swiftfoot Boots: 60
- - Swords to Plowshares: 55
+ - Nykthos, Shrine to Nyx: 56
 
 Decks for various Commander Color IDs:
 Color Combo: BG-Golgari, Commander: Winter, Cynical Opportunist
@@ -366,15 +366,15 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 Percentages ordered by format:
 Standard: 23.03
 Pioneer: 14.02
-Commander: 7.53
-Oathbreaker: 7.52
-Modern: 6.59
-Pauper Commander: 6.57
+Commander: 7.45
+Oathbreaker: 7.44
+Modern: 6.57
+Pauper Commander: 6.51
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Masques Block: 2.94
 Mirage Block: 2.88
-Pauper: 2.27
-Vintage: 2.21
-Legacy: 2.12
+Pauper: 2.25
+Vintage: 2.18
+Legacy: 2.10
