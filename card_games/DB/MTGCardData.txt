@@ -4881,19 +4881,69 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-
-
-# Done through card 25623
-#25930
+Singe;Instant;R;Planeshift (Common);0
+Haunted Angel;Creature — Angel;W;Apocalypse (Uncommon);0
+Sunscape Battlemage;Creature — Human Wizard;W;Planeshift (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Stormscape Battlemage;Creature — Metathran Wizard;U;Planeshift (Uncommon)/Commander 2013 Edition (Uncommon);0
+Nightscape Battlemage;Creature — Zombie Wizard;B;Planeshift (Uncommon);0
+Thunderscape Battlemage;Creature — Human Wizard;R;Planeshift (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Thornscape Battlemage;Creature — Elf Wizard;G;Planeshift (Uncommon)/Time Spiral "Timeshifted" (Special)/Duel Decks: Phyrexia vs. the Coalition (Uncommon)/Modern Masters 2017 Edition (Uncommon);0
+Urza's Guilt;Sorcery;B/U;Planeshift (Rare);0
+Shivan Wurm;Creature — Wurm;G/R;Planeshift (Rare)/Vintage Masters (Rare);0
+Silver Drake;Creature — Drake;U/W;Planeshift (Common);0
+Cavern Harpy;Creature — Harpy Beast;B/U;Planeshift (Common);0
+Lava Zombie;Creature — Zombie;B/R;Planeshift (Common);0
+Horned Kavu;Creature — Kavu;G/R;Planeshift (Common);0
+Steel Leaf Paladin;Creature — Elf Knight;G/W;Planeshift (Common);0
 Keldon Necropolis;Legendary Land;C;Invasion (Rare)/Vintage Masters (Rare);0
-#25975
+Exotic Disease;Sorcery;B;Planeshift (Uncommon);0
+Dromar's Cavern;Land — Lair;C;Planeshift (Uncommon)/Dominaria Remastered (Uncommon);0
+Sawtooth Loon;Creature — Bird;U/W;Planeshift (Uncommon)/Duel Decks: Venser vs. Koth (Uncommon)/Dominaria Remastered (Uncommon);0
+Marsh Crocodile;Creature — Crocodile;B/U;Planeshift (Uncommon);0
+Sparkcaster;Creature — Kavu;G/R;Planeshift (Uncommon);0
+Crosis's Catacombs;Land — Lair;C;Planeshift (Uncommon)/Dominaria Remastered (Uncommon);0
+Razing Snidd;Creature — Beast;B/R;Planeshift (Uncommon);0
+Darigaaz's Caldera;Land — Lair;C;Planeshift (Uncommon)/Dominaria Remastered (Uncommon);0
+Rith's Grove;Land — Lair;C;Planeshift (Uncommon)/Dominaria Remastered (Uncommon);0
+Treva's Ruins;Land — Lair;C;Planeshift (Uncommon)/Dominaria Remastered (Uncommon);0
+Pollen Remedy;Instant;W;Planeshift (Common);0
+Rushing River;Instant;U;Planeshift (Common);0
+Bog Down;Sorcery;B;Planeshift (Common);0
+Magma Burst;Instant;R;Planeshift (Common);0
+Falling Timber;Instant;G;Planeshift (Common);0
+Degavolver;Creature — Volver;W;Apocalypse (Rare);0
+Cetavolver;Creature — Volver;U;Apocalypse (Rare);0
+Necravolver;Creature — Volver;B;Apocalypse (Rare);0
+Rakavolver;Creature — Volver;R;Apocalypse (Rare);0
+Anavolver;Creature — Volver;G;Apocalypse (Rare);0
+Pernicious Deed;Enchantment;B/G;Apocalypse (Rare)/Magic: The Gathering—Conspiracy (Mythic Rare)/Masters 25 (Rare);0
+Sinister Strength;Enchantment — Aura;B;Planeshift (Common);0
+Penumbra Kavu;Creature — Kavu;G;Apocalypse (Uncommon);0
+Index;Sorcery;U;Eighth Edition (Common)/Ninth Edition (Common)/Apocalypse (Common)/Magic 2013 (Common);0
+Savage Gorilla;Creature — Ape;G;Apocalypse (Common);0
+Wormfang Drake;Creature — Nightmare Drake;U;Judgment (Common)/Dominaria Remastered (Common);0
 Urborg Drake;Creature — Drake;B/U;Invasion (Uncommon)/Battlebond (Common);0
-#25976
 Captain Sisay;Legendary Creature — Human Soldier;G/W;Invasion (Rare)/From the Vault: Legends (Mythic Rare)/Secret Lair Drop (Mythic Rare)/Historic Anthology 1 (Mythic Rare)/Mystery Booster 2: Convention Edition (Rare);0
-#25977
 Hanna, Ship's Navigator;Legendary Creature — Human Artificer;U/W;Invasion (Rare)/Commander 2016 (Rare)/Masters 25 (Rare)/Double Masters (Rare)/Kamigawa: Neon Dynasty Commander (Rare)/Commander Masters (Rare);0
-#26257
+Meteor Crater;Land;C;Planeshift (Rare);0
+Terminal Moraine;Land;C;Planeshift (Uncommon)/Dominaria Remastered (Common);0
 Protective Sphere;Enchantment;W;Invasion (Common);0
+Desolation Angel;Creature — Angel;B;Apocalypse (Rare)/Masterpiece Series: Amonkhet Invocations (Special);0
+Implode;Sorcery;R;Planeshift (Uncommon);0
+Evasive Action;Instant;U;Apocalypse (Uncommon)/Duel Decks: Phyrexia vs. the Coalition (Uncommon);0
+Flametongue Kavu;Creature — Kavu;R;Planeshift (Uncommon)/Duel Decks: Jace vs. Chandra (Uncommon)/Planechase (Uncommon)/Magic: The Gathering-Commander (Uncommon)/Vintage Masters (Uncommon)/Commander 2014 (Uncommon)/Duel Decks Anthology, Jace vs. Chandra (Uncommon)/Archenemy: Nicol Bolas (Uncommon)/Commander Anthology 2018 (Uncommon)/Jumpstart (Uncommon)/Game Night: Free-For-All (Uncommon)/Dominaria Remastered (Uncommon);0
+Honorable Scout;Creature — Human Soldier Scout;W;Planeshift (Common);0
+Emblazoned Golem;Artifact Creature — Golem;C;Apocalypse (Uncommon);0
+Maggot Carrier;Creature — Zombie;B;Eighth Edition (Common)/Planeshift (Common);0
+Kavu Recluse;Creature — Kavu;R;Planeshift (Common);0
+Mogg Sentry;Creature — Goblin Warrior;R;Eighth Edition (Rare)/Ninth Edition (Rare)/Planeshift (Rare);0
+Samite Pilgrim;Creature — Human Cleric;W;Planeshift (Common);0
+Mogg Jailer;Creature — Goblin;R;Planeshift (Uncommon);0
+Night // Day;Instant;B/W;Apocalypse (Uncommon)/Dominaria Remastered (Uncommon);0
+March of Souls;Sorcery;W;Planeshift (Rare);0
+Carrion Rats;Creature — Rat;B;Torment (Common);0
+Phyrexian Bloodstock;Creature — Phyrexian Zombie;B;Planeshift (Common);0
+# Done through card 26280
 #26282
 Harsh Judgment;Enchantment;W;Invasion (Rare);0
 #26287

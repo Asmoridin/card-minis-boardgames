@@ -137,7 +137,8 @@ def parse_restrictions(restr_lines):
             this_format, bnr = restriction.split('-')
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
-                    'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block"]:
+                    'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
+                    'Invasion Block']:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -166,7 +167,6 @@ def parse_restrictions(restr_lines):
     # Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
     # Onslaught block (Onslaught, Legions, Scourge)
     # Odyssey block (Odyssey, Torment, Judgment)
-    # Invasion block (Invasion, Planeshift, Apocalypse)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -221,6 +221,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handles Masques Block
             if this_set in ['Mercadian Masques', 'Nemesis', 'Prophecy']:
                 ret_formats['Masques Block'] = 4
+            # Handles Invasion Block
+            if this_set in ['Invasion', 'Planeshift', 'Apocalypse']:
+                ret_formats['Invasion Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -363,9 +366,9 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Invasion"
-CHECK_AMOUNT = 350
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = "Planeshift"
+CHECK_AMOUNT = 143
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0
@@ -490,6 +493,10 @@ if __name__ == "__main__":
     masques_dict = process_formats("Masques Block")
     handle_output("Masques Block", masques_dict, out_file_h)
 
+    # Invasion Block
+    invasion_dict = process_formats("Invasion Block")
+    handle_output("Invasion Block", invasion_dict, out_file_h)
+
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander")
     handle_output("Pauper Commander", paup_comm, out_file_h)
@@ -540,6 +547,6 @@ if __name__ == "__main__":
     for print_format in FORMAT_LIST:
         double_print(f"{print_format[0]}: {100 * print_format[1]/print_format[2]:.2f}", out_file_h)
 
-    print(f"Should be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}")
+    print(f"\nShould be {CHECK_AMOUNT} for {CHECK_SET}: {SET_CHECK}")
 
     out_file_h.close()
