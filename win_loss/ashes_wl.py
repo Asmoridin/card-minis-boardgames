@@ -26,7 +26,7 @@ all_phoenixborn = ['Aradel Summergaard', 'Astrea', 'Brennen Blackcloud', 'Coal R
     'Jerico Kill'
 ]
 
-double_print("Ashes: Rise of the Phoenixborn W/L Loss Tracker, and deck selector", out_file_h)
+double_print("Ashes: Rise of the Phoenixborn Win-Loss Tracker and deck selector", out_file_h)
 
 data_lines = in_file.readlines()
 in_file.close()
@@ -79,7 +79,7 @@ for line in data_lines:
         my_opp_pb_wl[opp_pb][1] += 1
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
-double_print("My record by phoenixborn:", out_file_h)
+double_print(f"My record by phoenixborn ({len(all_phoenixborn)} total phoenixborn):", out_file_h)
 for pb in sorted(my_pb_wl):
     double_print(f"{pb}: {my_pb_wl[pb][0]}-{my_pb_wl[pb][1]}", out_file_h)
 

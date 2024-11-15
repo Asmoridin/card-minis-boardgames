@@ -36,6 +36,7 @@ data = []
 leaders = {}
 affiliated_models = {}
 affil_own = {}
+owned_models = set()
 for affiliation in valid_affiliations:
     leaders[affiliation] = []
     affiliated_models[affiliation] = []
@@ -50,6 +51,8 @@ for line in lines:
     model_affils = [affiliation.strip() for affiliation in model_affils]
     actual_model_affils = []
     model_own = int(model_own)
+    if model_own == 1:
+        owned_models.add(model_name)
     for affiliation in model_affils:
         cleaned_affil = affiliation.replace("/L", '')
         if cleaned_affil not in valid_affiliations:

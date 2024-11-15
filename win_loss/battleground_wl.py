@@ -21,13 +21,13 @@ if os.getcwd().endswith('card-minis-boardgames'):
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.get_h_index import get_h_index
-    out_file_h = open("win_loss/output/BattlegroudOut.txt", 'w', encoding="UTF-8")
+    out_file_h = open("win_loss/output/BattlegroundOut.txt", 'w', encoding="UTF-8")
 else:
     file_h = open('DB/BattlegroundData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.get_h_index import get_h_index
-    out_file_h = open("output/BattlegroudOut.txt", 'w', encoding="UTF-8")
+    out_file_h = open("output/BattlegroundOut.txt", 'w', encoding="UTF-8")
 
 data_lines = file_h.readlines()
 file_h.close()
@@ -71,6 +71,8 @@ for line in data_lines:
         my_opp_wl[opponent][1] += 1
         total_wl[1] += 1
         my_opp_army_wl[OPP_ARMY][1] += 1
+
+double_print("Battleground Win-Loss Tracker and army suggestion tool\n", out_file_h)
 
 double_print(f"My current record is {total_wl[0]}-{total_wl[1]}\n", out_file_h)
 double_print("My record by army:", out_file_h)
