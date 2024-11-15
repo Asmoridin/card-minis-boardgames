@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 5501 cards.
-Have 479 out of 22079 total cards for a playset - 2.17 percent
+Tracking 5511 cards.
+Have 479 out of 22119 total cards for a playset - 2.17 percent
 
 *** VINTAGE ***
-There are 5501 Vintage legal cards
-Have 476 out of 22019 - 2.16 percent of a playset
+There are 5511 Vintage legal cards
+Have 476 out of 22059 - 2.16 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 5381 Legacy legal cards
-Have 454 out of 21884 - 2.07 percent of a playset
+There are 5391 Legacy legal cards
+Have 454 out of 21924 - 2.07 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1177 Modern legal cards
-Have 332 out of 5068 - 6.55 percent of a playset
+There are 1179 Modern legal cards
+Have 332 out of 5076 - 6.54 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -64,8 +64,8 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 379 Pioneer legal cards
-Have 263 out of 1876 - 14.02 percent of a playset
+There are 380 Pioneer legal cards
+Have 263 out of 1880 - 13.99 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1969 Pauper legal cards
-Have 183 out of 8236 - 2.22 percent of a playset
+There are 1974 Pauper legal cards
+Have 183 out of 8256 - 2.22 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 5390 Oathbreaker legal cards
-Have 426 out of 5780 - 7.37 percent of a playset
+There are 5400 Oathbreaker legal cards
+Have 426 out of 5790 - 7.36 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -244,8 +244,8 @@ Most needed cards are:
  - Seal of Cleansing: 7
 
 *** INVASION BLOCK ***
-There are 464 Invasion Block legal cards
-Have 80 out of 2036 - 3.93 percent of a playset
+There are 473 Invasion Block legal cards
+Have 80 out of 2072 - 3.86 percent of a playset
 Chosen card is a(n) Creature from Planeshift - Horned Kavu. I own 0 of 4
 
 Closest deck to completion (ThemeDeck-Barrage) is at 38 cards.
@@ -264,8 +264,8 @@ Most needed cards are:
  - Exclude: 11
 
 *** PAUPER COMMANDER ***
-There are 2764 Pauper Commander legal cards
-Have 203 out of 3154 - 6.44 percent of a playset
+There are 2770 Pauper Commander legal cards
+Have 203 out of 3160 - 6.42 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -284,8 +284,8 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 5399 Commander legal cards
-Have 427 out of 5789 - 7.38 percent of a playset
+There are 5409 Commander legal cards
+Have 427 out of 5799 - 7.36 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
@@ -385,12 +385,12 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 
 Percentages ordered by format:
 Standard: 23.03
-Pioneer: 14.02
-Commander: 7.38
-Oathbreaker: 7.37
-Modern: 6.55
-Pauper Commander: 6.44
-Invasion Block: 3.93
+Pioneer: 13.99
+Commander: 7.36
+Oathbreaker: 7.36
+Modern: 6.54
+Pauper Commander: 6.42
+Invasion Block: 3.86
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07

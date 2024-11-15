@@ -4943,13 +4943,20 @@ Night // Day;Instant;B/W;Apocalypse (Uncommon)/Dominaria Remastered (Uncommon);0
 March of Souls;Sorcery;W;Planeshift (Rare);0
 Carrion Rats;Creature — Rat;B;Torment (Common);0
 Phyrexian Bloodstock;Creature — Phyrexian Zombie;B;Planeshift (Common);0
-# Done through card 26280
-#26282
+Phyrexian Tyranny;Enchantment;U/B/R;Planeshift (Rare)/Double Masters 2022 (Rare);0
 Harsh Judgment;Enchantment;W;Invasion (Rare);0
-#26287
+Aurora Griffin;Creature — Griffin;W;Planeshift (Common);0
+Disciple of Kangee;Creature — Human Wizard;W;Planeshift (Common);0
+Quirion Dryad;Creature — Dryad;G;Planeshift (Rare)/Tenth Edition (Rare)/Magic 2013 (Rare)/Core Set 2021 (Uncommon);0
 Psychic Battle;Enchantment;U;Invasion (Rare);0
-#26296
+Strafe;Sorcery;R;Planeshift (Uncommon);0
+Shifting Sky;Enchantment;U;Eighth Edition (Rare)/Planeshift (Uncommon);0
+Hobble;Enchantment — Aura;W;Planeshift (Common);0
 Vodalian Merchant;Creature — Merfolk;U;Invasion (Common);0
+Quirion Explorer;Creature — Elf Druid Scout;G;Planeshift (Common)/Commander 2016 (Common);0
+Strongarm Tactics;Sorcery;B;Onslaught (Rare);0
+Arctic Merfolk;Creature — Merfolk;U;Planeshift (Common);0
+# Done through card 26360
 #26371
 Coalition Honor Guard;Creature — Human Flagbearer;W;Apocalypse (Common)/Eternal Masters (Common);0
 #26372
