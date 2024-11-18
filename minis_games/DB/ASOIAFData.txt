@@ -6,6 +6,7 @@ Addam Marbrand, Trusted Bannerman;Lannister;Infantry Attachment;2;1;0
 Aemon, Master of Castle Black;Night's Watch;NCU;4;1;0
 Aeron Greyjoy, The Damphair;Greyjoy;NCU;4;1;0
 Alester Florent, Lord of Brightwater;Baratheon;NCU;4;1;0
+Alicent Hightower, Dowager Queen;Targaryen;NCU;4;1;0
 Alliser Thorne, Master-at-Arms;Night's Watch;Commander;0;1;0
 Alliser Thorne, Vindictive Overseer;Night's Watch;Infantry Attachment;1;1;0
 Andrew Estermont, First of the King's Men;Baratheon;Commander;0;1;0
@@ -341,6 +342,7 @@ Renly Baratheon, King in the South;Baratheon;Commander;0;1;0
 Renly Baratheon, Lord Paramount of the Stormlands;Baratheon;Commander;0;1;0
 Renly Baratheon, The Charismatic Heir;Baratheon;Commander;0;1;0
 Rhaegal;Targaryen;Monster;7;1;1
+Rhaenyra Targaryen, Dragon Queen;Targaryen;NCU;4;1;0
 Rickard Karstark, Lord of Karhold;Stark;Commander;0;1;0
 Rickard Karstark, Vengeful Bannerman;Stark;Infantry Attachment;2;1;0
 Rickon Stark, Prince of Winterfell;Stark;Infantry Attachment;1;1;0
