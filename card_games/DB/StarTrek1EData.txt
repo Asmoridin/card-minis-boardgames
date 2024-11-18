@@ -29,24 +29,41 @@ U.S.S. Excelsior;Ship;Federation;Premiere;27,5969,6332,6695;;4;0
 U.S.S. Galaxy;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;28,5970,6333,6696,7099;;4;0
 U.S.S. Intrepid;Ship;Federation;Voyager;29;;4;0
 U.S.S. Miranda;Ship;Federation;Premiere;30,5971,6334,6697;;4;0
+U.S.S. Nebula;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;31,5972,6335,6698,7100,7529;;4;0
+U.S.S. Oberth;Ship;Federation;Premiere;32,4078,5973,6336,6699;;4;0
+Ulani Belor;Personnel;Cardassian;Deep Space 9;33;;4;0
+Uri'lash;Personnel;Ferengi;All Good Things;34;;4;0
+Varat'idan;Personnel;Dominion;The Trouble with Tribbles;35;;4;0
+Varel;Personnel;Romulan;Premiere;36,5974,6337,6700;;4;0
+Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
+Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
+Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101;;4;0
+Borg Queen;Personnel;Borg;First Contact/Reflections/Homefront III/Virtual Promos;40,3529,4112,4660;;2;0
 
-# Done through card 30
+# Done through card 40
 #1278
 #3407
+#3529
 #3927
+#4070
+#4078
+#4112
 #4186
 #4259
+#4412
 #4423
 #4447
 #4452
-#4661-4662
+#4660-4662
+#4864
 #4876
 #5504
-#5966-5971
-#6329-6334
-#6692-6697
-#7098-7099
+#5966-5975
+#6329-6338
+#6692-6701
+#7098-7101
 #7183
 #7251
 #7327
 #7527
+#7529

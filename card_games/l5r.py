@@ -20,9 +20,20 @@ else:
     from utils.sort_and_filter import sort_and_filter
 
 DYNASTY_CARD_TYPES = ['Region', 'Event']
-FATE_CARD_TYPES = ['Strategy']
-MODERN_SETS = ['Ivory Edition']
-PRE_MODERN_SETS = ['Hidden Emperor 6']
+FATE_CARD_TYPES = ['Strategy', 'Spell']
+MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
+    'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
+    'Battle of Kyuden Tonbo', 'The Harbinger',
+]
+PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
+    'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
+    'The Fall of Otosan Uchi', 'Forbidden Knowledge', 'Lotus Edition', "Ambition's Debt",
+    'Test of Enlightenment', 'A Perfect Cut', 'Rise of the Shogun',
+]
+VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
+    'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)',
+    "A Brother's Destiny (Twenty Festivals)", "A Brother's Destiny (Ivory Edition)",
+    'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',]
 
 
 def parse_sets(this_card_name, set_string):
@@ -30,15 +41,16 @@ def parse_sets(this_card_name, set_string):
     Take in a set string, and return a tuple:
     ([sets], [rarites], MODERN_LEGAL (bool))
     """
+    set_string = set_string.replace('–', '-')
     ret_sets = []
     ret_rarities = set()
-    modern_legal = False
+    ret_modern_legal = False
     for set_part in set_string.split('/'):
         match_obj = re.search(r"(.*) \((.*)\)", set_part)
         if match_obj:
             this_set, this_set_rarity = match_obj.groups()
             if this_set in MODERN_SETS:
-                modern_legal = True
+                ret_modern_legal = True
             elif this_set in PRE_MODERN_SETS:
                 pass
             else:
@@ -46,18 +58,20 @@ def parse_sets(this_card_name, set_string):
             ret_rarities.add(this_set_rarity)
         else:
             print("[" + this_card_name + "] Issue with: " + set_part)
-    return (ret_sets, list(ret_rarities), modern_legal)
+    return (ret_sets, list(ret_rarities), ret_modern_legal)
 
 in_lines = file_h.readlines()
 file_h.close()
 in_lines = [line.strip() for line in in_lines]
 
+TOTAL_MAX = 0
+TOTAL_OWN = 0
 card_lines = []
 for line in in_lines:
     if line.startswith('#') or line == '':
         continue
     try:
-        card_name, card_type, card_clan, card_sets, card_formats, card_max, \
+        card_name, card_type, card_clan, card_sets, card_format, card_max, \
             card_own = line.split(';')
     except ValueError:
         print("Invalid line:")
@@ -73,9 +87,16 @@ for line in in_lines:
         continue
     if card_clan != '':
         print(card_clan)
-    print(parse_sets(card_name, card_sets))
-    card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_formats, \
-        card_max, card_own])
+    card_sets, card_rarities, modern_legal = parse_sets(card_name, card_sets)
+    if card_format not in VALID_FORMATS:
+        print(f"Invalid format: {card_format}")
+        continue
+    card_max = int(card_max)
+    card_own = int(card_own)
+    TOTAL_MAX += card_max
+    TOTAL_OWN += card_own
+    card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_rarities, \
+        modern_legal, card_format, card_max, card_own])
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
@@ -84,5 +105,7 @@ if __name__=="__main__":
         out_file_h = open("output/L5ROut.txt", 'w', encoding="UTF-8")
 
     double_print("Legend of the Five Rings CCG Inventory Tracker Tool\n", out_file_h)
+    double_print(f"I own {TOTAL_OWN} out of {TOTAL_MAX} total cards - " + \
+        f"{100 * TOTAL_OWN/TOTAL_MAX:.2f} percent\n", out_file_h)
 
     out_file_h.close()

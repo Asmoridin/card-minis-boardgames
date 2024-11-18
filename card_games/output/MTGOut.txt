@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 5511 cards.
-Have 479 out of 22119 total cards for a playset - 2.17 percent
+Tracking 5526 cards.
+Have 479 out of 22179 total cards for a playset - 2.16 percent
 
 *** VINTAGE ***
-There are 5511 Vintage legal cards
-Have 476 out of 22059 - 2.16 percent of a playset
+There are 5526 Vintage legal cards
+Have 476 out of 22119 - 2.15 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 5391 Legacy legal cards
-Have 454 out of 21924 - 2.07 percent of a playset
+There are 5406 Legacy legal cards
+Have 454 out of 21984 - 2.07 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Merfolk) is at 66 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1179 Modern legal cards
-Have 332 out of 5076 - 6.54 percent of a playset
+There are 1181 Modern legal cards
+Have 332 out of 5084 - 6.53 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -64,9 +64,9 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 380 Pioneer legal cards
-Have 263 out of 1880 - 13.99 percent of a playset
-Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
+There are 391 Pioneer legal cards
+Have 265 out of 1924 - 13.77 percent of a playset
+Chosen card is a(n) Basic Land from Modern Horizons - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
 {'Bloodletter of Aclazotz': 4, 'Castle Locthwain': 2, 'Duress': 4, 'Fatal Push': 4, 'Field of Ruin': 2, 'Graveyard Trespasser': 2, 'Hive of the Eye Tyrant': 2, 'Invoke Despair': 4, 'Mutavault': 4, 'Reckoner Bankbuster': 2, "Sheoldred's Edict": 4, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Unholy Annex/Ritual Chamber': 4, 'Unstoppable Slasher': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Caustic Bronco': 4, 'Cut Down': 3, 'Go Blank': 2, 'March of Wretched Sorrow': 1, 'The Meathook Massacre': 1, 'Unlicensed Hearse': 2}
@@ -84,9 +84,9 @@ Most needed cards are:
  - Mystical Dispute: 27
 
 *** STANDARD ***
-There are 120 Standard legal cards
-Have 152 out of 660 - 23.03 percent of a playset
-Chosen card is a(n) Instant from Masters 25 - Giant Growth. I own 0 of 4
+There are 150 Standard legal cards
+Have 166 out of 780 - 21.28 percent of a playset
+Chosen card is a(n) Creature from Masters 25 - Savannah Lions. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
 {'Archfiend of the Dross': 4, 'Bloodletter of Aclazotz': 4, 'Cut Down': 4, 'Deep-Cavern Bat': 4, 'Demolition Field': 4, 'Duress': 4, 'Fountainport': 2, 'Go for the Throat': 3, 'Long Goodbye': 2, 'Nowhere to Run': 2, 'Overlord of the Balemurk': 1, 'Unholy Annex/Ritual Chamber': 4, 'Unstoppable Slasher': 4, "Cruelclaw's Heist": 3, "Gix's Command": 1, 'Harvester of Misery': 1, 'Liliana of the Veil': 2, 'Sheoldred': 1, 'Sheoldred, the Apocalypse': 2, 'Withering Torment': 3}
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1974 Pauper legal cards
-Have 183 out of 8256 - 2.22 percent of a playset
+There are 1983 Pauper legal cards
+Have 183 out of 8292 - 2.21 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Counterspell: 27
 
 *** OATHBREAKER ***
-There are 5400 Oathbreaker legal cards
-Have 426 out of 5790 - 7.36 percent of a playset
+There are 5415 Oathbreaker legal cards
+Have 426 out of 5805 - 7.34 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -244,8 +244,8 @@ Most needed cards are:
  - Seal of Cleansing: 7
 
 *** INVASION BLOCK ***
-There are 473 Invasion Block legal cards
-Have 80 out of 2072 - 3.86 percent of a playset
+There are 485 Invasion Block legal cards
+Have 80 out of 2120 - 3.77 percent of a playset
 Chosen card is a(n) Creature from Planeshift - Horned Kavu. I own 0 of 4
 
 Closest deck to completion (ThemeDeck-Barrage) is at 38 cards.
@@ -264,8 +264,8 @@ Most needed cards are:
  - Exclude: 11
 
 *** PAUPER COMMANDER ***
-There are 2770 Pauper Commander legal cards
-Have 203 out of 3160 - 6.42 percent of a playset
+There are 2781 Pauper Commander legal cards
+Have 203 out of 3171 - 6.40 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -284,8 +284,8 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 5409 Commander legal cards
-Have 427 out of 5799 - 7.36 percent of a playset
+There are 5424 Commander legal cards
+Have 427 out of 5814 - 7.34 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
@@ -384,18 +384,18 @@ Needed cards: 94 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 207 total creature types
 
 Percentages ordered by format:
-Standard: 23.03
-Pioneer: 13.99
-Commander: 7.36
-Oathbreaker: 7.36
-Modern: 6.54
-Pauper Commander: 6.42
-Invasion Block: 3.86
+Standard: 21.28
+Pioneer: 13.77
+Commander: 7.34
+Oathbreaker: 7.34
+Modern: 6.53
+Pauper Commander: 6.40
+Invasion Block: 3.77
 Ice Age Block: 3.26
 Tempest Block: 3.16
 Urza's Block: 3.07
 Masques Block: 2.94
 Mirage Block: 2.88
-Pauper: 2.22
-Vintage: 2.16
+Pauper: 2.21
+Vintage: 2.15
 Legacy: 2.07
