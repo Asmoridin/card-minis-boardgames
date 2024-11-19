@@ -38,5 +38,13 @@ A Fugitive Apprehended;Strategy;;Second City (Uncommon);Destroyer War (Celestial
 A Game of Dice;Strategy;;Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);1;0
 A Game of Dice;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
 A Game of Dice;Strategy;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
+A Game of Go;Event;;Heaven & Earth (Uncommon);Four Winds (Gold);1;0
+A Game of Go;Event;;Heaven & Earth (Uncommon);Rain of Blood (Diamond);1;0
+A Game of Sadane;Strategy;;Glory of the Empire (Uncommon);Destroyer War (Celestial);3;0
+A Game of Sadane;Strategy;;Glory of the Empire (Uncommon);Race for the Throne (Samurai);3;0
+A Generous Offer;Strategy;;Honor's Veil (Rare);Race for the Throne (Samurai);3;0
+A Gentle Word;Strategy;;Before the Dawn (Uncommon);Age of Conquest (Emperor);3;0
+A Gentle Word;Strategy;;Before the Dawn (Uncommon);Destroyer War (Celestial);3;0
+A Gift of Honor;Strategy;;Shadowlands (Rare);Clan Wars (Imperial);3;0
 
-# Done through card #25
+# Done through card #30

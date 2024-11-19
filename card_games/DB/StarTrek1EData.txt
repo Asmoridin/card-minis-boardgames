@@ -49,8 +49,19 @@ Alliance K'Vort;Ship;Klingon;Mirror, Mirror;47;;4;0
 Alliance Nor;Facility;Cardassian;Mirror, Mirror;48;;4;0
 Alliance Vor'Cha;Ship;Klingon;Mirror, Mirror;49,4874;;4;0
 Alpha Attack Ship;Ship;Dominion;Blaze of Glory;50;;4;0
+Amaros;Personnel;Non-Aligned;Deep Space 9;51,4442;;4;0
+Amet'alox;Personnel;Dominion;The Trouble with Tribbles;52;;4;0
+Analyze Radiation;Mission;Space;The Motion Pictures;53,7184;;4;0
+Anara;Personnel;Bajoran;Deep Space 9;54,4406;;4;0
+Angelo Tassoni;Personnel;Federation;The Borg;55;56;4;0
+Angelo Tassoni;Personnel;Non-Aligned;The Borg;56;55;4;0
+Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;0
+Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
+Assault Vessel;Ship;Bajoran;Deep Space 9/Virtual Promos;59,4448,5822;;4;0
+Atul;Personnel;Klingon;The Dominion;60;;4;0
 
-# Done through card 50
+
+# Done through card 60
 #1278
 #3407
 #3513
@@ -61,21 +72,25 @@ Alpha Attack Ship;Ship;Dominion;Blaze of Glory;50;;4;0
 #4112
 #4186
 #4259
-#4412
+#4406
+#4412-4413
 #4423
-#4447
+#4442
+#4447-4448
 #4452
 #4660-4662
+#4833
 #4864
 #4869
 #4874
 #4876
 #5503-5504
+#5822
 #5966-5976
 #6329-6339
 #6692-6702
 #7098-7101
-#7183
+#7183-7184
 #7251
 #7327
 #7527

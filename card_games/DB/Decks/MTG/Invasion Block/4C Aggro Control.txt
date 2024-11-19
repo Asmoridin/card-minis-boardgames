@@ -15,7 +15,7 @@
 2 Flametongue Kavu
 4 Gerrard's Verdict
 3 Vindicate
-3 Fire/Ice
+3 Fire // Ice
 3 Terminate
 2 Orim's Thunder
 2 Order/Chaos

@@ -21,7 +21,7 @@
 
 1 Confound 
 1 Exclude 
-1 Fire / Ice
+1 Fire // Ice
 2 Jilt 
 1 Opt 
 1 Scorching Lava 

@@ -366,7 +366,7 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Planeshift"
+CHECK_SET = "Apocalypse"
 CHECK_AMOUNT = 143
 SET_CHECK += 0 # Extra basic lands
 
@@ -404,7 +404,7 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
-    #if CHECK_SET in card_sets and 'Red' in card_colors:
+    #if CHECK_SET in card_sets and 'White' in card_colors:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:

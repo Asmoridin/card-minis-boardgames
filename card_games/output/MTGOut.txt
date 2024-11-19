@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 5569 cards.
-Have 508 out of 22351 total cards for a playset - 2.27 percent
+Tracking 5650 cards.
+Have 508 out of 22675 total cards for a playset - 2.24 percent
 
 *** VINTAGE ***
-There are 5569 Vintage legal cards
-Have 505 out of 22291 - 2.27 percent of a playset
+There are 5650 Vintage legal cards
+Have 505 out of 22615 - 2.23 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Flusterstorm: 24
 
 *** LEGACY ***
-There are 5449 Legacy legal cards
-Have 483 out of 22156 - 2.18 percent of a playset
+There are 5530 Legacy legal cards
+Have 483 out of 22480 - 2.15 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1200 Modern legal cards
-Have 348 out of 5160 - 6.74 percent of a playset
+There are 1213 Modern legal cards
+Have 348 out of 5212 - 6.68 percent of a playset
 Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -64,8 +64,8 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 401 Pioneer legal cards
-Have 274 out of 1964 - 13.95 percent of a playset
+There are 406 Pioneer legal cards
+Have 274 out of 1984 - 13.81 percent of a playset
 Chosen card is a(n) Basic Land from Modern Horizons - Snow-Covered Forest. I own 0 of 40
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -84,8 +84,8 @@ Most needed cards are:
  - Mystical Dispute: 27
 
 *** STANDARD ***
-There are 152 Standard legal cards
-Have 167 out of 788 - 21.19 percent of a playset
+There are 154 Standard legal cards
+Have 167 out of 796 - 20.98 percent of a playset
 Chosen card is a(n) Creature from Masters 25 - Savannah Lions. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 1991 Pauper legal cards
-Have 187 out of 8324 - 2.25 percent of a playset
+There are 2032 Pauper legal cards
+Have 187 out of 8488 - 2.20 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 56 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Red Elemental Blast: 25
 
 *** OATHBREAKER ***
-There are 5458 Oathbreaker legal cards
-Have 454 out of 5848 - 7.76 percent of a playset
+There are 5539 Oathbreaker legal cards
+Have 454 out of 5929 - 7.66 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -244,8 +244,8 @@ Most needed cards are:
  - Seal of Cleansing: 7
 
 *** INVASION BLOCK ***
-There are 501 Invasion Block legal cards
-Have 80 out of 2184 - 3.66 percent of a playset
+There are 572 Invasion Block legal cards
+Have 80 out of 2468 - 3.24 percent of a playset
 Chosen card is a(n) Creature from Planeshift - Caldera Kavu. I own 0 of 4
 
 Closest deck to completion (ThemeDeck-Barrage) is at 38 cards.
@@ -264,8 +264,8 @@ Most needed cards are:
  - Exclude: 11
 
 *** PAUPER COMMANDER ***
-There are 2792 Pauper Commander legal cards
-Have 207 out of 3182 - 6.51 percent of a playset
+There are 2844 Pauper Commander legal cards
+Have 207 out of 3234 - 6.40 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Closest deck to completion (Sivris, Nightmare Speaker) is at 67 cards.
@@ -284,12 +284,12 @@ Most needed cards are:
  - Aether Spellbomb: 5
 
 *** COMMANDER ***
-There are 5467 Commander legal cards
-Have 455 out of 5857 - 7.77 percent of a playset
+There are 5548 Commander legal cards
+Have 455 out of 5938 - 7.66 percent of a playset
 Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
 
 Most needed cards are:
- - Plains: 734
+ - Plains: 753
  - Island: 246
  - Mountain: 240
  - Forest: 169
@@ -298,7 +298,7 @@ Most needed cards are:
  - Snow-Covered Island: 72
  - Ancient Tomb: 67
  - Swiftfoot Boots: 63
- - Swords to Plowshares: 57
+ - Swords to Plowshares: 58
 
 Decks for various Commander Color IDs:
 Color Combo: B-Black, Commander: SzarekhTheSilentKing
@@ -381,23 +381,21 @@ Needed cards: 94 - {'Thrasios, Triton Hero': 1, 'Abrupt Decay': 1, 'Ad Nauseam':
 
 
 *** OTHER DATA ***
-209 total creature types
-Following creature types have only one entry:
-['Pangolin']
+210 total creature types
 
 Percentages ordered by format:
-Standard: 21.19
-Pioneer: 13.95
-Commander: 7.77
-Oathbreaker: 7.76
-Modern: 6.74
-Pauper Commander: 6.51
-Invasion Block: 3.66
+Standard: 20.98
+Pioneer: 13.81
+Commander: 7.66
+Oathbreaker: 7.66
+Modern: 6.68
+Pauper Commander: 6.40
 Ice Age Block: 3.31
+Invasion Block: 3.24
 Tempest Block: 3.16
 Urza's Block: 3.07
 Masques Block: 2.94
 Mirage Block: 2.88
-Vintage: 2.27
-Pauper: 2.25
-Legacy: 2.18
+Vintage: 2.23
+Pauper: 2.20
+Legacy: 2.15

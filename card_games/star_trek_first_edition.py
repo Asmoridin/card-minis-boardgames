@@ -20,11 +20,12 @@ else:
 
 PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Deep Space 9',
     'Mirror, Mirror', 'First Contact', 'The Trouble with Tribbles', 'All Good Things', 'The Borg',
-    'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', ]
+    'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', 
+    'The Dominion',]
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront']
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
-    'Interrupt', 'Facility']
+    'Interrupt', 'Facility', 'Mission']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
     'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', ]
 
@@ -64,8 +65,12 @@ for line in in_lines:
         print(f"Invalid card type: {card_type}")
         continue
     if card_type in ['Ship', 'Personnel', 'Facility']:
-        if card_affil != '' and card_affil not in VALID_AFFILIATIONS:
+        if card_affil not in VALID_AFFILIATIONS:
             print(f"Invalid affiliation: {card_affil}")
+            continue
+    if card_type in ['Mission', 'Dilemma']:
+        if card_affil not in ['Planet', 'Space', 'Dual']:
+            print(f"Possibly mis-typed card: {card_name}")
             continue
     card_sets = card_sets.split('/')
 

@@ -24,16 +24,16 @@ FATE_CARD_TYPES = ['Strategy', 'Spell']
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
     'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
-    'Second City', 'Promotional-Ivory',
+    'Second City', 'Promotional-Ivory', 'Glory of the Empire',
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
     'The Fall of Otosan Uchi', 'Forbidden Knowledge', 'Lotus Edition', "Ambition's Debt",
     'Test of Enlightenment', 'A Perfect Cut', 'Rise of the Shogun', 'Scorpion Clan Coup 3',
-    'Promotional-Lotus', 'Training Grounds 2', 'Hidden City',
+    'Promotional-Lotus', 'Training Grounds 2', 'Hidden City', 'Heaven & Earth', 'Shadowlands',
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
-    'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)',
+    'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
     "A Brother's Destiny (Twenty Festivals)", "A Brother's Destiny (Ivory Edition)",
     'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',]
 
@@ -71,6 +71,9 @@ TOTAL_MAX = 0
 TOTAL_OWN = 0
 card_lines = []
 modern_cards = {} # A dictionary of names -> card lines for Modern legal cards
+format_map = {} # For a format summary at the end, given that this is our first criteria
+for set_format in VALID_FORMATS:
+    format_map[set_format] = [0, 0]
 for line in in_lines:
     if line.startswith('#') or line == '':
         continue
@@ -97,6 +100,8 @@ for line in in_lines:
         continue
     card_max = int(card_max)
     card_own = int(card_own)
+    format_map[card_format][0] += card_own
+    format_map[card_format][1] += card_max
     TOTAL_MAX += card_max
     TOTAL_OWN += card_own
     if modern_legal:
@@ -104,13 +109,21 @@ for line in in_lines:
             modern_cards[card_name] = [card_name, card_type, CARD_DECK, card_clan, card_sets, \
                 card_rarities, 'Modern', card_max, card_own]
         else:
-            print("Handle duplicate for Modern:")
-            print(modern_cards[card_name])
-            print([card_name, card_type, CARD_DECK, card_clan, card_sets, \
-                card_rarities, 'Modern', card_max, card_own])
+            modern_cards[card_name][4] = list(set(modern_cards[card_name][4] + card_sets))
+            modern_cards[card_name][5] = list(set(modern_cards[card_name][5] + card_rarities))
+            modern_cards[card_name][7] = max(modern_cards[card_name][7], card_max)
+            modern_cards[card_name][8] = min(modern_cards[card_name][7], \
+                modern_cards[card_name][8] + card_own)
 
     card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_rarities, \
         card_format, card_max, card_own])
+
+for _, card_item in modern_cards.items():
+    card_lines.append(card_item)
+    format_map['Modern'][0] += card_item[8]
+    format_map['Modern'][1] += card_item[7]
+
+print(format_map)
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
