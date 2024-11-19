@@ -9,20 +9,6 @@ There are 29 leaders in the game - I own 22
 
 Lowest decks currently:
 
-Android17-FB01-070.txt (Green) - Missing 18 cards
-- Android 16 (FB02-075): 1
-- Android 17 (FB01-077): 1
-- Android 17/Android 18 (FB01-078): 2
-- Android 17/Android 18 (FB02-077): 1
-- Android 18 (FB01-079): 4
-- Android 20 (FB01-083): 1
-- Big Bang Attack (FB01-103): 1
-- Broly : BR (FS03-10): 1
-- Gigantic Meteor (FS03-15): 1
-- Krillin (FB02-074): 2
-- Son Goku (FB01-085): 1
-- Trunks : Future (FB02-091): 2
-
 Babidi-FB03-078.txt (Yellow) - Missing 19 cards
 - Babidi (FB03-083): 1
 - Babidi's Spaceship (FB03-101): 1
@@ -35,46 +21,60 @@ Babidi-FB03-078.txt (Yellow) - Missing 19 cards
 - Vegeta (FB03-089): 2
 - Yamu (FB03-096): 1
 
-SonGoku-FS01-01.txt (Red) - Missing 21 cards
-- Basil (FB02-020): 1
-- Cabba (FB03-004): 2
-- Caulifla (FB02-007): 2
-- Hit (FB01-021): 4
-- Jiren (FB03-009): 4
-- Marcarita (FB03-022): 1
-- Son Gohan : Adolescence (FB02-018): 4
-- Son Goku (FB01-015): 1
-- Son Goku (FB03-011): 2
-
-Vegeta-FS02-01.txt (Blue) - Missing 21 cards
-- Galick Gun (FS02-15): 1
-- Sinister Sickle (FB01-068): 3
+Vegeta Mini Da-FS07-01.txt (Blue) - Missing 20 cards
+- Amazing Hidden Potential (FB04-049): 2
+- Gotenks (FB04-033): 2
 - Son Gohan : Adolescence (FB03-039): 2
-- Vegeta (FB03-047): 3
-- Vegeta (FS02-13): 1
+- Vegeta (Mini) : DA (FB04-045): 4
 - Vegito (FB02-061): 4
 - Vegito (FB02-139): 3
 - Videl (FB03-042): 3
-- Zen-Oh (FB02-049): 1
 
-SonGokuGT-FB03-104.txt (Black) - Missing 22 cards
+Son Goku Mini-Da-FS06-01.txt (Red) - Missing 21 cards
+- Fuwa (FB01-026): 2
+- It's Over! (FB03-023): 2
+- Jiren (FB03-009): 1
+- Marcarita (FB03-022): 1
+- Rumsshi (FB02-029): 1
+- Son Gohan : Adolescence (FB02-018): 4
+- Son Goku (FB03-011): 1
+- Son Goku (FB04-129): 3
+- Son Goku (Mini) : DA (FB04-012): 4
+- Whis (FB01-004): 2
+
+Broly-FS03-01.txt (Green) - Missing 25 cards
+- Android 17/Android 18 (FB01-078): 1
+- Broly : BR (FB02-096): 1
+- Broly : BR (FS03-10): 2
+- Gigantic Meteor (FS03-15): 2
+- Instant Kamehameha (FB01-101): 1
+- Son Gohan : Childhood (FB01-088): 2
+- Son Gohan : Future (FB02-089): 3
+- Son Goku (FB01-085): 2
+- Son Goku (FB01-087): 4
+- Trunks : Future (FB02-091): 3
+- Vegeta (FB01-096): 4
+
+Son Goku GT-FB03-104.txt (Black) - Missing 26 cards
 - 10x Kamehameha (FB03-137): 2
-- Bardock (FB03-121): 4
-- Bulla : GT (FB03-127): 2
+- Bardock (FB03-121): 3
+- Glorio : DA (FB04-105): 3
 - Hercule : GT (FB03-132): 3
-- Pan : GT (FB03-125): 3
+- Pan : GT (FB03-125): 1
 - Para Para Brothers (FB03-123): 2
 - Son Goku : GT (FB03-111): 3
 - Son Goku : GT (FB03-140): 3
+- Son Goten : GT (FB04-110): 3
+- Trunks : GT (FB04-114): 3
 
 Most needed cards, overall:
-- Son Gohan : Adolescence (FB02-018): 20
-- Vegeta (FB01-096): 15
-- Vegito (FB02-061): 15
-- Hit (FB01-021): 13
-- Ginyu (FB01-109): 12
-- Sinister Sickle (FB01-068): 11
-- Beerus (FB01-023): 10
-- Caulifla (FB02-007): 10
-- Vegito (FB02-139): 10
-- Videl (FB03-042): 10
+- Son Gohan : Adolescence (FB02-018): 28
+- Vegeta (FB01-096): 18
+- Vegito (FB02-061): 18
+- Videl (FB03-042): 15
+- Son Gohan : Adolescence (FB03-039): 14
+- Vegito (FB02-139): 14
+- Bulma (FB02-130): 12
+- Nappa (FB04-064): 12
+- Glorio : DA (FB04-105): 11
+- Son Goku : GT (FB03-111): 11

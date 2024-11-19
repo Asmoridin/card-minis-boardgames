@@ -21,12 +21,23 @@ else:
 PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Deep Space 9',
     'Mirror, Mirror', 'First Contact', 'The Trouble with Tribbles', 'All Good Things', 'The Borg',
     'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', ]
-VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', ]
+VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront']
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
-    'Interrupt', ]
+    'Interrupt', 'Facility']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
     'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', ]
+
+class Card:
+    """
+    Encapsulating class for a card, to help me handle the variety of card numbers for a card.
+    """
+    def __init__(self, card_name, card_type, card_affil, card_sets, card_numbers, card_alt_fac_num):
+        self.card_name = card_name
+        self.card_type = card_type
+        self.card_affil = card_affil
+        self.card_sets = card_sets
+        self.card_numbers = card_numbers
 
 in_lines = file_h.readlines()
 file_h.close()
@@ -52,7 +63,7 @@ for line in in_lines:
     if card_type not in VALID_TYPES:
         print(f"Invalid card type: {card_type}")
         continue
-    if card_type in ['Ship', 'Personnel']:
+    if card_type in ['Ship', 'Personnel', 'Facility']:
         if card_affil != '' and card_affil not in VALID_AFFILIATIONS:
             print(f"Invalid affiliation: {card_affil}")
             continue

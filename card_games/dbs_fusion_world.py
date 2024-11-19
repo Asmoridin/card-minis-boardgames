@@ -35,7 +35,12 @@ def read_decks(in_deck_lists, all_cards):
         deck_contents_str = in_deck[1]
         deck_contents = deck_contents_str.split(',')
         for content_line in deck_contents:
-            deck_card_no, deck_card_qty = content_line.split(':')
+            try:
+                deck_card_no, deck_card_qty = content_line.split(':')
+            except ValueError:
+                print("Problem with line:")
+                print(content_line)
+                continue
             deck_card_no = deck_card_no.replace('-F', '')
             deck_card_qty = int (deck_card_qty)
             if deck_card_no not in deck_dict:

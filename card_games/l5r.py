@@ -19,16 +19,18 @@ else:
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 
-DYNASTY_CARD_TYPES = ['Region', 'Event']
+DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding']
 FATE_CARD_TYPES = ['Strategy', 'Spell']
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
-    'Battle of Kyuden Tonbo', 'The Harbinger',
+    'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
+    'Second City', 'Promotional-Ivory',
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
     'The Fall of Otosan Uchi', 'Forbidden Knowledge', 'Lotus Edition', "Ambition's Debt",
-    'Test of Enlightenment', 'A Perfect Cut', 'Rise of the Shogun',
+    'Test of Enlightenment', 'A Perfect Cut', 'Rise of the Shogun', 'Scorpion Clan Coup 3',
+    'Promotional-Lotus', 'Training Grounds 2', 'Hidden City',
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)',
@@ -55,6 +57,7 @@ def parse_sets(this_card_name, set_string):
                 pass
             else:
                 print(f"Unhandled set for modern check: {this_set}")
+            ret_sets.append(this_set)
             ret_rarities.add(this_set_rarity)
         else:
             print("[" + this_card_name + "] Issue with: " + set_part)
@@ -67,6 +70,7 @@ in_lines = [line.strip() for line in in_lines]
 TOTAL_MAX = 0
 TOTAL_OWN = 0
 card_lines = []
+modern_cards = {} # A dictionary of names -> card lines for Modern legal cards
 for line in in_lines:
     if line.startswith('#') or line == '':
         continue
@@ -95,8 +99,18 @@ for line in in_lines:
     card_own = int(card_own)
     TOTAL_MAX += card_max
     TOTAL_OWN += card_own
+    if modern_legal:
+        if card_name not in modern_cards:
+            modern_cards[card_name] = [card_name, card_type, CARD_DECK, card_clan, card_sets, \
+                card_rarities, 'Modern', card_max, card_own]
+        else:
+            print("Handle duplicate for Modern:")
+            print(modern_cards[card_name])
+            print([card_name, card_type, CARD_DECK, card_clan, card_sets, \
+                card_rarities, 'Modern', card_max, card_own])
+
     card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_rarities, \
-        modern_legal, card_format, card_max, card_own])
+        card_format, card_max, card_own])
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):

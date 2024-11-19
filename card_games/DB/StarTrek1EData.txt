@@ -39,10 +39,21 @@ Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101;;4;0
 Borg Queen;Personnel;Borg;First Contact/Reflections/Homefront III/Virtual Promos;40,3529,4112,4660;;2;0
+Borg Queen (The Borg);Personnel;Borg;The Borg/Virtual Promos;41,5503;;2;0
+Fontaine;Personnel;Non-Aligned;Mirror, Mirror;42;;2;0
+Unicomplex;Facility;Borg;The Borg/Homefront;43,3513;;2;0
+Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702;;4;0
+Alliance Galor;Ship;Cardassian;Mirror, Mirror;45,4869;;4;0
+Alliance Interceptor;Ship;Bajoran;Mirror, Mirror;46;;4;0
+Alliance K'Vort;Ship;Klingon;Mirror, Mirror;47;;4;0
+Alliance Nor;Facility;Cardassian;Mirror, Mirror;48;;4;0
+Alliance Vor'Cha;Ship;Klingon;Mirror, Mirror;49,4874;;4;0
+Alpha Attack Ship;Ship;Dominion;Blaze of Glory;50;;4;0
 
-# Done through card 40
+# Done through card 50
 #1278
 #3407
+#3513
 #3529
 #3927
 #4070
@@ -56,11 +67,13 @@ Borg Queen;Personnel;Borg;First Contact/Reflections/Homefront III/Virtual Promos
 #4452
 #4660-4662
 #4864
+#4869
+#4874
 #4876
-#5504
-#5966-5975
-#6329-6338
-#6692-6701
+#5503-5504
+#5966-5976
+#6329-6339
+#6692-6702
 #7098-7101
 #7183
 #7251
