@@ -59,7 +59,16 @@ Aramax;Personnel;Cardassian;Mirror, Mirror;57,4833;;4;0
 Ari;Personnel;Cardassian;Deep Space 9;58,4413;;4;0
 Assault Vessel;Ship;Bajoran;Deep Space 9/Virtual Promos;59,4448,5822;;4;0
 Atul;Personnel;Klingon;The Dominion;60;;4;0
-
+Ayala;Personnel;Federation;Voyager;61;62;4;0
+Ayala;Personnel;Non-Aligned;Voyager;62;61;4;0
+Azet'izan;Personnel;Dominion;The Dominion;63;;4;0
+Bajoran Freighter;Ship;Bajoran;Deep Space 9;64;;4;0
+Bajoran Interceptor;Ship;Bajoran;Deep Space 9;65;;4;0
+Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
+Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
+Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
+Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
+Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703;;4;0
 
 # Done through card 60
 #1278
@@ -86,10 +95,10 @@ Atul;Personnel;Klingon;The Dominion;60;;4;0
 #4876
 #5503-5504
 #5822
-#5966-5976
-#6329-6339
-#6692-6702
-#7098-7101
+#5966-5977
+#6329-6340
+#6692-6703
+#7098-7102
 #7183-7184
 #7251
 #7327
