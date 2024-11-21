@@ -427,7 +427,13 @@ for line in lines:
 
 FORMAT_LIST = []
 
+PLAYABLE_CARDS = 0
 for card in raw_list:
+    VALID_CARD = True
+    if 'Scheme' in card[1] or 'Vanguard' in card[1]:
+        VALID_CARD = False
+    if VALID_CARD:
+        PLAYABLE_CARDS += 1
     if 'Vintage' not in card[6]:
         print("No Vintage?")
         print(card)
@@ -440,7 +446,7 @@ if __name__ == "__main__":
 
     double_print("Magic: The Gathering Collection Tracker\n", out_file_h)
 
-    double_print(f"Tracking {len(raw_list)} cards.", out_file_h)
+    double_print(f"Tracking {len(raw_list)} items ({PLAYABLE_CARDS} actual cards).", out_file_h)
     SUMMARY_STRING = f"Have {TOTAL_OWN} out of {TOTAL_MAX} total cards for a playset " \
         f"- {100* TOTAL_OWN/TOTAL_MAX:.2f} percent"
     double_print(SUMMARY_STRING, out_file_h)
@@ -523,7 +529,7 @@ if __name__ == "__main__":
     for creature, creature_freq in creature_types.items():
         if creature_freq == 1:
             one_ofs.append(creature)
-    double_print("\n*** OTHER DATA ***", out_file_h)
+    double_print("*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
         'Wizard', 'Spider', 'Barbarian']

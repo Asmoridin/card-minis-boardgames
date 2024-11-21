@@ -3,7 +3,7 @@
 4 Caves of Koilos
 3 Mountain
 2 Plains
-2 Crosis' Catacombs
+2 Crosis's Catacombs
 2 Dromar's Cavern
 1 Coastal Tower
 1 Swamp
@@ -18,5 +18,5 @@
 3 Fire // Ice
 3 Terminate
 2 Orim's Thunder
-2 Order/Chaos
+2 Order // Chaos
 1 Fervent Charge

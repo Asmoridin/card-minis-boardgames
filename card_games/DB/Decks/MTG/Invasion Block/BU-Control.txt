@@ -10,7 +10,7 @@
 3 Prohibit
 3 Recoil
 2 Repulse
-2 Spite / Malice
+2 Spite // Malice
 4 Undermine
 2 Yawgmoth's Agenda
 

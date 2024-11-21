@@ -9,7 +9,7 @@
 2 Lobotomy
 3 Probe
 4 Recoil
-4 Spite / Malice
+4 Spite // Malice
 2 Terminate
 4 Undermine
 3 Urza's Rage
