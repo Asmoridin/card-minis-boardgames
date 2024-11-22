@@ -25,6 +25,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
     'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
     'Second City', 'Promotional-Ivory', 'Glory of the Empire', 'Stronger Than Steel',
+    'Celestial Edition', 'The Truest Test', 'Twenty Festivals', 'The Imperial Gift 3',
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -32,11 +33,13 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     'Test of Enlightenment', 'A Perfect Cut', 'Rise of the Shogun', 'Scorpion Clan Coup 3',
     'Promotional-Lotus', 'Training Grounds 2', 'Hidden City', 'Heaven & Earth', 'Shadowlands',
     'Gold Edition', 'Jade Edition', 'Pearl Edition', 'Crimson and Jade', 'Time of the Void',
+    'Path of Hope', 'Anvil of Despair',
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
     "A Brother's Destiny (Twenty Festivals)", "A Brother's Destiny (Ivory Edition)",
-    'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',]
+    'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',
+    'Onyx Edition']
 
 
 def parse_sets(this_card_name, set_string):

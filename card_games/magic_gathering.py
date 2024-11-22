@@ -366,8 +366,8 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Apocalypse"
-CHECK_AMOUNT = 143
+CHECK_SET = "Odyssey"
+CHECK_AMOUNT = 335
 SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0

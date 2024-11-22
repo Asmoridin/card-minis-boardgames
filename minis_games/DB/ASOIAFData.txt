@@ -231,7 +231,7 @@ Joffrey Baratheon, First of His Name;Lannister;Commander;0;1;0
 Joffrey Baratheon, Lord of the Seven Kingdoms;Lannister;NCU;5;1;0
 Jojen Reed, Greensight;Stark;Infantry Attachment;2;1;0
 Jokin, Archer Captain;Neutral;Infantry Attachment;2;1;0
-Jokin, Stormcrow Captain;Lannister;Commander;0;1;0
+Jokin, Stormcrow Captain;Neutral;Commander;0;1;0
 Jon Show, Turncloak Crow;Free Folk;NCU;4;1;0
 Jon Snow, "Lord Snow";Night's Watch;Infantry Attachment;2;1;0
 Jon Snow, 998th Lord Commander;Night's Watch;Commander;0;1;0
@@ -334,7 +334,7 @@ Ranger Hunters;Night's Watch;Infantry;7;4;0
 Ranger Trackers;Night's Watch;Cavalry;6;4;0
 Ranger Vanguards;Night's Watch;Cavalry;7;4;0
 Rattleshirt, Ruthless Slaughterer;Free Folk;Infantry Attachment;2;1;0
-Rattleshirt, THe Lord of Bones;Free Folk;Commander;0;1;0
+Rattleshirt, The Lord of Bones;Free Folk;Commander;0;1;0
 Reaver Captain;Greyjoy;Infantry Attachment;1;4;0
 Red Cloaks;Lannister;Infantry;6;4;0
 Red Priestess;Baratheon;Infantry Attachment;1;4;0

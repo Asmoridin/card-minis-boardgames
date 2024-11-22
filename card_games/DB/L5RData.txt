@@ -53,5 +53,18 @@ A Glimpse of the Soul's Shadow;Strategy;;Jade Edition (Uncommon)/Pearl Edition (
 A Good Day to Die;Strategy;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
 A Greater Destiny;Strategy;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);3;0
 A Gruesome Display;Event;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);1;0
+A Hero's Courage;Event;;Promotional–Lotus (Promo);Age of Enlightenment (Lotus);1;0
+A Hero's Gift;Strategy;;Path of Hope (Uncommon);Age of Enlightenment (Lotus);3;0
+A Hero's Tale;Strategy;;Promotional–Lotus (Promo);Age of Enlightenment (Lotus);3;0
+A Hidden Fortress;Holding;;Anvil of Despair (Uncommon);Clan Wars (Imperial);3;0
+A Kolat Revealed;Event;;The Dark Journey Home (Uncommon);Hidden Emperor (Jade);1;0
+A Legion of One;Strategy;;Celestial Edition (Fixed)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
+A Legion of One;Strategy;;The Truest Test (Common);Age of Enlightenment (Lotus);3;0
+A Legion of One;Strategy;;The Truest Test (Common);Race for the Throne (Samurai);3;0
+A Life for a Life;Spell;;Path of Hope (Rare);Age of Enlightenment (Lotus);3;0
+A Life for a Soul;Event;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);1;0
+A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);Onyx Edition;3;0
+A Lion's Roar;Strategy;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
 
-# Done through card #35
+# Done through card #45

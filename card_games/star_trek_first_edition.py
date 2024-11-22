@@ -21,11 +21,12 @@ else:
 PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Deep Space 9',
     'Mirror, Mirror', 'First Contact', 'The Trouble with Tribbles', 'All Good Things', 'The Borg',
     'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', 
-    'The Dominion',]
-VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront']
+    'The Dominion', 'Starter Deck II',]
+VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
+    'Homefront VI', 'Homefront V',]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
-    'Interrupt', 'Facility', 'Mission']
+    'Interrupt', 'Facility', 'Mission', 'Site']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
     'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', ]
 

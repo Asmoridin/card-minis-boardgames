@@ -69,13 +69,36 @@ Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703;;4;0
+Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
+Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
+B'iJik;Personnel;Klingon;Premiere;72,5978,6341,6704;;4;0
+Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
+Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
+Borg Probe;Ship;Borg;The Borg;76;;4;0
+Borg Scout Vessel;Ship;Borg;First Contact;77;;4;0
+Borg Sphere;Ship;Borg;First Contact;78;;4;0
+Borg Tactical Cube;Ship;Borg;The Borg;79;;4;0
+Botanical Research;Mission;Planet;Starter Deck II;80,4053,7055;;4;0
+Bothan Vessel;Ship;Non-Aligned;Voyager;81;;4;0
+Breen Warship;Ship;Dominion;The Trouble with Tribbles;82;;4;0
+B'rel;Ship;Ferengi;Rules of Acquisition;83;;4;0
+Calandra;Personnel;Non-Aligned;Rules of Acquisition;84;;4;0
+Calloway;Personnel;Federation;Premiere/Trouble with Tribbles Starter Decks;85,5979,6342,6705,7103;;4;0
+Cardassian Shuttle;Ship;Cardassian;Deep Space 9;86;;4;0
+Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
+Catalog Phenomena;Mission;Space;Voyager;88;;4;0
+Cavit;Personnel;Federation;Voyager;89;;4;0
+Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
 
-# Done through card 60
+# Done through card 90
+#747
 #1278
+#3067
 #3407
 #3513
 #3529
 #3927
+#4053
 #4070
 #4078
 #4112
@@ -87,19 +110,23 @@ Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703;;4;0
 #4442
 #4447-4448
 #4452
+#4462
 #4660-4662
+#4697
 #4833
 #4864
 #4869
 #4874
 #4876
 #5503-5504
+#5640
 #5822
-#5966-5977
-#6329-6340
-#6692-6703
-#7098-7102
-#7183-7184
+#5966-5979
+#6329-6342
+#6692-6705
+#7055
+#7098-7103
+#7183-7185
 #7251
 #7327
 #7527
