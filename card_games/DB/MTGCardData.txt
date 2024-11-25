@@ -1190,7 +1190,7 @@ Durkwood Boars;Creature - Boar;G;Fourth Edition (Common)/Fifth Edition (Common)/
 Duskrider Falcon;Creature — Bird;W;Weatherlight (Common);0
 Duskwalker;Creature — Human Minion;B;Invasion (Common);0
 Dust Bowl;Land;C;Mercadian Masques (Rare)/Zendikar Expeditions (Mythic Rare)/Outlaws of Thunder Junction Breaking News (Rare);0
-Dust to Dust;Sorcery;W;Fifth Edition (Uncommon)/The Dark (Common)/Masters Edition (Common)/Masters Edition IV (Uncommon);0
+Dust to Dust;Sorcery;W;Fifth Edition (Uncommon)/The Dark (Common)/Masters Edition (Common)/Masters Edition IV (Uncommon);1
 Dwarven Armorer;Creature — Dwarf;R;Fallen Empires (Rare);0
 Dwarven Armory;Enchantment;R;Ice Age (Rare);0
 Dwarven Berserker;Creature — Dwarf Berserker;R;Weatherlight (Common);0
@@ -2114,7 +2114,7 @@ Indentured Djinn;Creature — Djinn;U;Mercadian Masques (Uncommon);0
 Independent Troops;Creature — Human Soldier;R;Portal Three Kingdoms (Common);0
 Indestructible Aura;Instant;W;Legends (Common)/Chronicles (Common);0
 Index;Sorcery;U;Eighth Edition (Common)/Ninth Edition (Common)/Apocalypse (Common)/Magic 2013 (Common);0
-Infantry Veteran;Creature — Human Soldier;W;Classic Sixth Edition (Common)/Ninth Edition (Common)/Visions (Common)/Battle Royale Box Set (Common)/Magic 2011 (Common)/Duel Decks: Elspeth vs. Tezzeret (Common)/Duel Decks: Speed vs. Cunning (Common)/Iconic Masters (Common)/Jumpstart 2022 (Common);0
+Infantry Veteran;Creature — Human Soldier;W;Classic Sixth Edition (Common)/Ninth Edition (Common)/Visions (Common)/Battle Royale Box Set (Common)/Magic 2011 (Common)/Duel Decks: Elspeth vs. Tezzeret (Common)/Duel Decks: Speed vs. Cunning (Common)/Iconic Masters (Common)/Jumpstart 2022 (Common);4
 Infernal Contract;Sorcery;B;Classic Sixth Edition (Rare)/Seventh Edition (Rare)/Mirage (Rare);0
 Infernal Darkness;Enchantment;B;Ice Age (Rare)/Masters Edition II (Rare);0
 Infernal Denizen;Creature — Demon;B;Ice Age (Rare);0
@@ -4016,7 +4016,7 @@ Snow Fortress;Artifact Creature — Wall;C;Ice Age (Rare)/Masters Edition II (Un
 Snow Hound;Creature — Dog;W;Ice Age (Uncommon);0
 Snow-Covered Forest;Basic Snow Land — Forest;C;Ice Age (Land)/Coldsnap (Common)/Masters Edition II (Land)/Modern Horizons (Land)/Secret Lair Drop (Rare)/Kaldheim (Land);0
 Snow-Covered Island;Basic Snow Land — Island;C;Ice Age (Land)/Coldsnap (Common)/Masters Edition II (Land)/Modern Horizons (Land)/Secret Lair Drop (Rare)/Kaldheim (Land)/Jumpstart 2022 (Common);0
-Snow-Covered Mountain;Basic Snow Land — Mountain;C;Ice Age (Land)/Coldsnap (Common)/Masters Edition II (Land)/Modern Horizons (Land)/Secret Lair Drop (Rare)/Kaldheim (Land);0
+Snow-Covered Mountain;Basic Snow Land — Mountain;C;Ice Age (Land)/Coldsnap (Common)/Masters Edition II (Land)/Modern Horizons (Land)/Secret Lair Drop (Rare)/Kaldheim (Land);1
 Snow-Covered Plains;Basic Snow Land — Plains;C;Ice Age (Land)/Coldsnap (Common)/Masters Edition II (Land)/Modern Horizons (Land)/Secret Lair Drop (Rare)/Kaldheim (Land);0
 Snow-Covered Swamp;Basic Snow Land — Swamp;C;Ice Age (Land)/Coldsnap (Common)/Masters Edition II (Land)/Modern Horizons (Land)/Secret Lair Drop (Rare)/Kaldheim (Land);0
 Snowblind;Enchantment — Aura;G;Ice Age (Rare);0
@@ -5149,9 +5149,170 @@ Zur's Weirding;Enchantment;U;Fifth Edition (Rare)/Classic Sixth Edition (Rare)/E
 Zuran Enchanter;Creature — Human Wizard;U;Ice Age (Common);0
 Zuran Orb;Artifact;C;Ice Age (Uncommon)/Masters Edition (Uncommon)/From the Vault: Relics (Mythic Rare)/Modern Horizons 2 (Uncommon);0
 Zuran Spellcaster;Creature — Human Wizard;U;Ice Age (Common)/Masters Edition II (Common);0
-# Done through card 29700
-#29794
+Embolden;Instant;W;Odyssey (Common);0
+Life Burst;Instant;W;Odyssey (Common);0
+Hypochondria;Enchantment;W;Torment (Uncommon);0
+Second Thoughts;Instant;W;Odyssey (Common)/Eternal Masters (Common);0
+Kirtar's Desire;Enchantment — Aura;W;Odyssey (Common);0
+Cephalid Aristocrat;Creature — Octopus Noble;U;Torment (Common);0
+Aven Smokeweaver;Creature — Bird Soldier;U;Odyssey (Uncommon);0
+Cephalid Scout;Creature — Octopus Wizard Scout;U;Odyssey (Common);0
+Cephalid Broker;Creature — Octopus;U;Odyssey (Uncommon)/Iconic Masters (Uncommon);0
+Skywing Aven;Creature — Bird Soldier;U;Torment (Common)/Vintage Masters (Common)/Ultimate Masters (Common);0
+Graxiplon;Creature — Beast;U;Onslaught (Uncommon);0
+Krosan Constrictor;Creature — Snake;G;Torment (Common);0
+Aven Windreader;Creature — Bird Soldier Wizard;U;Ninth Edition (Common)/Odyssey (Common)/Tenth Edition (Common);0
+Cephalid Pathmage;Creature — Octopus Wizard;U;Legions (Common);0
+Hydromorph Gull;Creature — Elemental Bird;U;Torment (Uncommon);0
+Churning Eddy;Sorcery;U;Torment (Common);0
+Obsessive Search;Instant;U;Torment (Common)/Vintage Masters (Common)/Dominaria Remastered (Common);0
+Rites of Refusal;Instant;U;Odyssey (Common);0
+Repel;Instant;U;Odyssey (Common)/Vintage Masters (Common);0
+Fervent Denial;Instant;U;Odyssey (Uncommon)/Commander 2019 (Uncommon);0
+Aether Burst;Instant;U;Odyssey (Common);0
+Careful Study;Sorcery;U;Odyssey (Common);0
+Aboshan's Desire;Enchantment — Aura;U;Odyssey (Common);0
+Dirty Wererat;Creature — Human Rat Minion;B;Odyssey (Common);0
+Cabal Inquisitor;Creature — Human Minion;B;Odyssey (Common);0
+Soul Scourge;Creature — Nightmare Horror;B;Torment (Common);0
+Zombie Assassin;Creature — Zombie Assassin;B;Odyssey (Common);0
+Frightcrawler;Creature — Horror;B;Odyssey (Common);0
+Whispering Shade;Creature — Shade;B;Odyssey (Common);0
+Zombie Cannibal;Creature — Zombie;B;Odyssey (Common);0
+Famished Ghoul;Creature — Zombie;B;Odyssey (Uncommon);0
+Overeager Apprentice;Creature — Human Minion;B;Odyssey (Common)/Duel Decks: Divine vs. Demonic (Common)/Duel Decks Anthology, Divine vs. Demonic (Common);0
+Balshan Beguiler;Creature — Human Wizard;U;Odyssey (Uncommon);0
+Faceless Butcher;Creature — Nightmare Horror;B;Torment (Common)/Time Spiral "Timeshifted" (Special)/Premium Deck Series: Graveborn (Common)/Dominaria Remastered (Uncommon);0
+Afflict;Instant;B;Odyssey (Common)/Tenth Edition (Common);0
+Morgue Theft;Sorcery;B;Odyssey (Common);0
+Ghastly Demise;Instant;B;Odyssey (Common)/Commander Legends (Common);0
+Morbid Hunger;Sorcery;B;Odyssey (Common);0
+Mind Burst;Sorcery;B;Odyssey (Common);0
+Bamboozle;Sorcery;U;Odyssey (Uncommon);0
+Patriarch's Desire;Enchantment — Aura;B;Odyssey (Common);0
+Pardic Firecat;Creature — Elemental Cat;R;Odyssey (Common);0
+Halberdier;Creature — Human Barbarian;R;Odyssey (Common);0
+Ember Beast;Creature — Beast;R;Odyssey (Common)/Gatecrash (Common)/Conspiracy: Take the Crown (Common)/Battlebond (Common)/Dominaria Remastered (Common);0
+Pardic Swordsmith;Creature — Dwarf;R;Odyssey (Common);0
+Crazed Firecat;Creature — Elemental Cat;R;Torment (Uncommon);0
+Chainflinger;Creature — Beast;R;Odyssey (Common);0
+Barbarian Lunatic;Creature — Human Barbarian;R;Odyssey (Common);0
+Thermal Blast;Instant;R;Odyssey (Common);0
+Dwarven Grunt;Creature — Dwarf;R;Odyssey (Common);0
+Kamahl's Desire;Enchantment — Aura;R;Odyssey (Common);0
+Swirling Sandstorm;Sorcery;R;Judgment (Common);0
+Lava Blister;Sorcery;R;Odyssey (Uncommon);0
+Rites of Initiation;Instant;R;Odyssey (Common)/Vintage Masters (Uncommon);0
+Lava Dart;Instant;R;Judgment (Common)/Modern Horizons (Common);0
+Flame Burst;Instant;R;Odyssey (Common);0
+Volcanic Spray;Sorcery;R;Odyssey (Uncommon);0
+Earth Rift;Sorcery;R;Odyssey (Common);0
+Longhorn Firebeast;Creature — Elemental Ox Beast;R;Torment (Common);0
+Nantuko Disciple;Creature — Insect Druid;G;Eighth Edition (Common)/Odyssey (Common);0
+Woodland Druid;Creature — Human Druid;G;Odyssey (Common);0
+Diligent Farmhand;Creature — Human Druid;G;Odyssey (Common);0
+Metamorphic Wurm;Creature — Elephant Wurm;G;Odyssey (Uncommon);0
+Krosan Avenger;Creature — Human Druid;G;Odyssey (Common);0
+Howling Gale;Instant;G;Odyssey (Uncommon);0
+Wild Mongrel;Creature — Dog;G;Odyssey (Common)/Duel Decks: Garruk vs. Liliana (Common)/Vintage Masters (Common)/Duel Decks Anthology, Garruk vs. Liliana (Common)/Ultimate Masters (Common);0
+Druid Lyrist;Creature — Human Druid;G;Odyssey (Common);0
+Simplify;Sorcery;G;Odyssey (Common);0
+Krosan Archer;Creature — Centaur Archer;G;Odyssey (Common);0
+Rabid Elephant;Creature — Elephant;G;Odyssey (Common);0
+Leaf Dancer;Creature — Centaur;G;Odyssey (Common);0
+Nimble Mongoose;Creature — Mongoose;G;Odyssey (Uncommon)/Eternal Masters (Common)/Modern Horizons (Common);0
+Werebear;Creature — Human Bear Druid;G;Odyssey (Common)/Eternal Masters (Common)/Dominaria Remastered (Common);0
+Call of the Herd;Sorcery;G;Odyssey (Rare)/Time Spiral "Timeshifted" (Special)/Modern Masters 2017 Edition (Rare)/Duel Decks: Mind vs. Might (Rare)/Dominaria Remastered (Uncommon);0
+Possessed Centaur;Creature — Centaur Horror;G;Torment (Rare);0
+Muscle Burst;Instant;G;Odyssey (Common);0
+Rites of Spring;Sorcery;G;Odyssey (Common);0
+Sylvan Might;Instant;G;Odyssey (Uncommon)/Eternal Masters (Common)/Duel Decks: Mind vs. Might (Common)/Double Masters (Common);0
+Seton's Desire;Enchantment — Aura;G;Odyssey (Common)/Dominaria Remastered (Common);0
+Skycloud Expanse;Land;C;Odyssey (Rare)/Ikoria Commander (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Innistrad: Crimson Vow Commander (Rare)/Kamigawa: Neon Dynasty Commander (Rare)/Streets of New Capenna Commander (Rare)/Warhammer 40,000 Commander (Rare)/The Brothers' War Commander (Rare)/March of the Machine Commander (Rare)/Commander Masters (Rare)/Doctor Who Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Magic The Gathering—Fallout (Rare)/Bloomburrow Commander (Rare);0
+Darkwater Catacombs;Land;C;Odyssey (Rare)/Commander 2016 (Rare)/Commander Anthology 2018 (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Innistrad: Midnight Hunt Commander (Rare)/Streets of New Capenna Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Warhammer 40,000 Commander (Rare)/The Brothers' War Commander (Rare)/Wilds of Eldraine Commander (Rare)/Doctor Who Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Magic The Gathering—Fallout (Rare)/Outlaws of Thunder Junction Commander (Rare);0
 Shadowblood Ridge;Land;C;Odyssey (Rare)/Commander 2016 (Rare)/Ikoria Commander (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Innistrad: Crimson Vow Commander (Rare)/Streets of New Capenna Commander (Rare)/The Brothers' War Commander (Rare)/Doctor Who Commander (Rare)/Magic The Gathering—Fallout (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+Mossfire Valley;Land;C;Odyssey (Rare)/Ikoria Commander (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Kamigawa: Neon Dynasty Commander (Rare)/Streets of New Capenna Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/March of the Machine Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Magic The Gathering—Fallout (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare);0
+Sungrass Prairie;Land;C;Odyssey (Rare)/Commander 2016 (Rare)/Commander Anthology 2018 (Rare)/Commander 2019 (Rare)/Ikoria Commander (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Innistrad: Midnight Hunt Commander (Rare)/Streets of New Capenna Commander (Rare)/Phyrexia: All Will Be One Commander (Rare)/March of the Machine Commander (Rare)/Commander Masters (Rare)/Wilds of Eldraine Commander (Rare)/Doctor Who Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Magic The Gathering—Fallout (Rare)/Bloomburrow Commander (Rare);0
+Beloved Chaplain;Creature — Human Cleric;W;Odyssey (Uncommon);0
+Petradon;Creature — Nightmare Beast;R;Torment (Rare);0
+Centaur Veteran;Creature — Centaur;G;Torment (Common);0
+Mystic Zealot;Creature — Human Nomad Mystic;W;Odyssey (Common)/Vintage Masters (Uncommon)/Dominaria Remastered (Common);0
+Mystic Crusader;Creature — Human Nomad Mystic;W;Odyssey (Rare);0
+Resilient Wanderer;Creature — Human Nomad;W;Odyssey (Uncommon);0
+Nomad Decoy;Creature — Human Nomad;W;Odyssey (Uncommon)/Dominaria Remastered (Common);0
+Luminous Guardian;Creature — Human Nomad;W;Odyssey (Uncommon);0
+Spiritualize;Instant;W;Odyssey (Uncommon);0
+Ray of Distortion;Instant;W;Odyssey (Common)/Commander 2019 (Common);0
+Sphere of Truth;Enchantment;W;Odyssey (Uncommon);0
+Sphere of Reason;Enchantment;W;Odyssey (Uncommon);0
+Sphere of Grace;Enchantment;W;Odyssey (Uncommon);0
+Sphere of Law;Enchantment;W;Odyssey (Uncommon);0
+Sphere of Duty;Enchantment;W;Odyssey (Uncommon);0
+Possessed Nomad;Creature — Human Nomad Horror;W;Torment (Rare);0
+Innocent Blood;Sorcery;B;Odyssey (Common)/Planechase (Common)/Eternal Masters (Common)/Duel Decks: Nissa vs. Ob Nixilis (Common)/Explorers of Ixalan (Common)/Jumpstart (Common);0
+Puppeteer;Creature — Human Wizard;U;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Odyssey (Uncommon)/Tenth Edition (Uncommon);0
+Balshan Griffin;Creature — Griffin;U;Odyssey (Uncommon);0
+Cephalid Looter;Creature — Octopus Rogue;U;Odyssey (Common);0
+Predict;Instant;U;Odyssey (Uncommon)/Commander 2018 (Uncommon);0
+Plagiarize;Instant;U;Ninth Edition (Rare)/Torment (Rare)/Tenth Edition (Rare);0
+Insidious Dreams;Instant;B;Torment (Rare);0
+Dematerialize;Sorcery;U;Odyssey (Common);0
+Turbulent Dreams;Sorcery;U;Torment (Rare);0
+Immobilizing Ink;Enchantment — Aura;U;Odyssey (Common);0
+Persuasion;Enchantment — Aura;U;Odyssey (Rare)/Tenth Edition (Uncommon);0
+Think Tank;Enchantment;U;Odyssey (Uncommon);0
+Flash of Insight;Instant;U;Judgment (Uncommon);0
+Syncopate;Instant;U;Odyssey (Common)/Return to Ravnica (Uncommon)/Dominaria (Common)/Guild Kit: Dimir (Uncommon)/Innistrad: Crimson Vow (Common);0
+Painbringer;Creature — Human Minion;B;Odyssey (Uncommon);0
+Childhood Horror;Creature — Horror;B;Odyssey (Uncommon);0
+Stalking Bloodsucker;Creature — Vampire;B;Odyssey (Rare);0
+Crypt Creeper;Creature — Zombie;B;Odyssey (Common)/Avacyn Restored (Common);0
+Frantic Purification;Instant;W;Torment (Common);0
+Rotting Giant;Creature — Zombie Giant;B;Odyssey (Uncommon);0
+Screams of the Damned;Enchantment;B;Odyssey (Uncommon);0
+Zombify;Sorcery;B;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Odyssey (Uncommon)/Archenemy (Uncommon)/Masters 25 (Uncommon)/Game Night: Free-For-All (Uncommon)/Magic: The Gathering Foundations (Uncommon);0
+Skull Fracture;Sorcery;B;Odyssey (Uncommon);0
+Extract;Sorcery;U;Odyssey (Rare);0
+Cursed Monstrosity;Creature — Horror;B;Odyssey (Rare);0
+Dwarven Recruiter;Creature — Dwarf;R;Odyssey (Uncommon);0
+Spark Mage;Creature — Dwarf Wizard;R;Odyssey (Uncommon);0
+Frenetic Ogre;Creature — Ogre;R;Odyssey (Uncommon);0
+Breaking Point;Sorcery;R;Judgment (Rare)/Duel Decks: Sorin vs. Tibalt (Rare);0
+Accelerate;Instant;R;Torment (Common);0
+Blazing Salvo;Instant;R;Odyssey (Common)/Duel Decks: Sorin vs. Tibalt (Common);0
+Magma Vein;Enchantment;R;Odyssey (Uncommon);0
+Shower of Coals;Sorcery;R;Odyssey (Uncommon);0
+Battle Strain;Enchantment;R;Odyssey (Uncommon);0
+Ember Shot;Instant;R;Judgment (Common);0
+Flash of Defiance;Sorcery;R;Torment (Common);0
+Recoup;Sorcery;R;Odyssey (Uncommon)/Duel Decks: Sorin vs. Tibalt (Uncommon);0
+Liquid Fire;Sorcery;R;Odyssey (Uncommon);0
+Demolish;Sorcery;R;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Odyssey (Uncommon)/Tenth Edition (Common)/Zendikar (Common)/Magic 2011 (Common)/Avacyn Restored (Common)/Magic 2014 Core Set (Common)/Theros (Common)/Magic Origins (Common)/Kaladesh (Common)/Ixalan (Common)/War of the Spark (Common)/Ravnica Remastered (Common);0
+Overmaster;Sorcery;R;Torment (Rare)/Dominaria Remastered (Rare);0
+Nantuko Elder;Creature — Insect Druid;G;Odyssey (Uncommon);0
+Ivy Elemental;Creature — Elemental;G;Odyssey (Rare)/Planechase (Rare)/Iconic Masters (Common)/Ikoria: Lair of Behemoths (Uncommon);0
+Krosan Restorer;Creature — Human Druid;G;Torment (Common)/Dominaria Remastered (Common);0
+Acorn Harvest;Sorcery;G;Torment (Common);0
+Springing Tiger;Creature — Cat;G;Odyssey (Common);0
+Crashing Centaur;Creature — Centaur;G;Odyssey (Uncommon);0
+Still Life;Enchantment;G;Odyssey (Uncommon);0
+Beast Attack;Instant;G;Odyssey (Uncommon)/Duel Decks: Garruk vs. Liliana (Uncommon)/Duel Decks Anthology, Garruk vs. Liliana (Uncommon)/Duel Decks: Mind vs. Might (Uncommon);0
+Roar of the Wurm;Sorcery;G;Odyssey (Uncommon)/Vintage Masters (Uncommon)/Eternal Masters (Uncommon)/Duel Decks: Mind vs. Might (Uncommon)/Historic Anthology 3 (Uncommon);0
+Piper's Melody;Sorcery;G;Odyssey (Uncommon);0
+Cleansing Meditation;Sorcery;W;Torment (Uncommon);0
+Deep Reconnaissance;Sorcery;G;Odyssey (Uncommon);0
+Exoskeletal Armor;Enchantment — Aura;G;Judgment (Uncommon);0
+Insist;Sorcery;G;Torment (Rare);0
+Limestone Golem;Artifact Creature — Golem;C;Odyssey (Uncommon);0
+Otarian Juggernaut;Artifact Creature — Juggernaut;C;Odyssey (Rare);0
+Guiltfeeder;Creature — Horror;B;Judgment (Rare)/Commander 2016 (Rare)/Commander Legends: Battle for Baldur's Gate (Rare);0
+Skycloud Egg;Artifact;C;Odyssey (Uncommon);0
+Sandstone Deadfall;Artifact;C;Odyssey (Uncommon);0
+Cabal Coffers;Land;C;Torment (Uncommon)/Planechase (Uncommon)/Modern Horizons 2 (Mythic Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare)/Mystery Booster 2: Convention Edition (Uncommon);0
+Steamclaw;Artifact;C;Odyssey (Uncommon);0
+Charmed Pendant;Artifact;C;Odyssey (Rare);0
+Nomad Stadium;Land;C;Odyssey (Uncommon);0
+# Done through card 29902
 #30552
 Entomb;Instant;B;Odyssey (Rare)/Premium Deck Series: Graveborn (Rare)/Eternal Masters (Rare)/Masterpiece Series: Amonkhet Invocations (Special)/Ultimate Masters (Rare)/Dominaria Remastered (Rare);0
 #31757
@@ -5550,6 +5711,8 @@ Nyx Weaver;Enchantment Creature — Spider;B/G;Journey into Nyx (Uncommon)/Ikori
 Sigiled Starfish;Creature — Starfish;U;Journey into Nyx (Common)/Magic Origins (Uncommon)/Commander 2018 (Uncommon)/Jumpstart (Uncommon);0
 #380515
 Temple of Malady;Land;C;Journey into Nyx (Rare)/Core Set 2020 (Rare)/Core Set 2021 (Rare)/Commander 2021 (Rare)/Streets of New Capenna Commander (Rare)/Phyrexia: All Will Be One Commander (Rare)/Commander Masters (Rare)/Magic The Gathering—Fallout (Rare)/Outlaws of Thunder Junction Commander (Rare)/Modern Horizons 3 Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare)/Magic: The Gathering Foundations (Rare);1
+#382244
+Dack Fayden;Legendary Planeswalker — Dack;R/U;Magic: The Gathering—Conspiracy (Mythic Rare)/Vintage Masters (Mythic Rare)/Eternal Masters (Mythic Rare)/Ravnica Allegiance Mythic Edition (Mythic Rare)/Mystery Booster 2: Convention Edition (Mythic Rare);0
 #382248
 Deathreap Ritual;Enchantment;B/G;Magic: The Gathering—Conspiracy (Uncommon)/Vintage Masters (Uncommon)/Commander 2018 (Uncommon)/Double Masters (Uncommon)/Streets of New Capenna Commander (Uncommon)/Modern Horizons 3 Commander (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #386491

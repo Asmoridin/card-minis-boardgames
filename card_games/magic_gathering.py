@@ -153,7 +153,7 @@ def parse_restrictions(restr_lines):
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
                     'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
-                    'Invasion Block']:
+                    'Invasion Block', 'Odyssey Block']:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -181,7 +181,6 @@ def parse_restrictions(restr_lines):
     # Kamigawa block (Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa)
     # Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
     # Onslaught block (Onslaught, Legions, Scourge)
-    # Odyssey block (Odyssey, Torment, Judgment)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -239,6 +238,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handles Invasion Block
             if this_set in ['Invasion', 'Planeshift', 'Apocalypse']:
                 ret_formats['Invasion Block'] = 4
+            # Handles Odyssey block (Odyssey, Torment, Judgment)
+            if this_set in ['Odyssey', 'Torment', 'Judgment']:
+                ret_formats['Odyssey Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -525,6 +527,10 @@ if __name__ == "__main__":
     invasion_dict = process_formats("Invasion Block")
     handle_output("Invasion Block", invasion_dict, out_file_h)
 
+    # Odyssey Block
+    odys_dict = process_formats("Odyssey Block")
+    handle_output("Odyssey Block", odys_dict, out_file_h)
+
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander")
     handle_output("Pauper Commander", paup_comm, out_file_h)
@@ -546,10 +552,10 @@ if __name__ == "__main__":
         double_print(f"Color Combo: {color_id}, Commander: {deck_commander}", out_file_h)
         double_print(f"Needed cards: {deck_need_num} - {str(deck_need_cards)}\n", out_file_h)
 
-    oldest_deck = comm_dict["OLDEST"]
-    old_name = oldest_deck[1].replace('.txt','')
-    updated = datetime.datetime.strftime(oldest_deck[0], "%m/%d/%Y")
-    double_print(f"\nOldest Commander deck is {old_name}, last updated {updated}\n", out_file_h)
+    print_deck = comm_dict["OLDEST"]
+    old_name = print_deck[1].replace('.txt','')
+    updated = datetime.datetime.strftime(print_deck[0], "%m/%d/%Y")
+    double_print(f"Oldest Commander deck is {old_name}, last updated {updated}\n", out_file_h)
 
     # Other
     one_ofs = []

@@ -66,5 +66,11 @@ A Life for a Soul;Event;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);1
 A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);Onyx Edition;3;0
 A Lion's Roar;Strategy;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
+A Long Journey;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
+A Lord's Compassion;Strategy;;Honor's Veil (Common);Race for the Throne (Samurai);3;0
+A Magistrate's Blade;Item;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
+A Magistrate's Blade;Item;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
+A Matter of Honor;Strategy;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;0
+A Matter of Pride;Event;;A Perfect Cut (Uncommon);Four Winds (Gold);1;0
 
-# Done through card #45
+# Done through card #50

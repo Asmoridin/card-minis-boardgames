@@ -89,8 +89,18 @@ Cargo Bay;Site;;Rules of Acquisition/Homefront V;87,4462;;2;0
 Catalog Phenomena;Mission;Space;Voyager;88;;4;0
 Cavit;Personnel;Federation;Voyager;89;;4;0
 Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
+Chief O'Brien;Personnel;Romulan;Blaze of Glory;91;;4;0
+Christopher Hobson;Personnel;Federation;Premiere;92,5980,6343,6706;;4;0
+Collect Sample;Mission;Space;Rules of Acquisition;93;;4;0
+Colony Preparations;Mission;Planet;Deep Space 9;94;;4;0
+Columbus;Ship;Federation;The Trouble with Tribbles;95;;4;0
+Combat Vessel;Ship;Non-Aligned;Premiere;96,5981,6344,6707;;4;0
+Construct Depot;Mission;Space;The Dominion;97;;4;0
+Corez;Personnel;Kazon;Voyager;98;;4;0
+Coutu;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;99,7104;;4;0
+Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 
-# Done through card 90
+# Done through card 100
 #747
 #1278
 #3067
@@ -121,11 +131,11 @@ Ch'dak;Personnel;Klingon;The Motion Pictures;90,7185;;4;0
 #5503-5504
 #5640
 #5822
-#5966-5979
-#6329-6342
-#6692-6705
+#5966-5981
+#6329-6344
+#6692-6707
 #7055
-#7098-7103
+#7098-7104
 #7183-7185
 #7251
 #7327

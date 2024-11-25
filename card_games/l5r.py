@@ -20,7 +20,7 @@ else:
     from utils.sort_and_filter import sort_and_filter
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding']
-FATE_CARD_TYPES = ['Strategy', 'Spell']
+FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item']
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
     'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
@@ -40,7 +40,6 @@ VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)'
     "A Brother's Destiny (Twenty Festivals)", "A Brother's Destiny (Ivory Edition)",
     'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',
     'Onyx Edition']
-
 
 def parse_sets(this_card_name, set_string):
     """
@@ -111,23 +110,26 @@ for line in in_lines:
     if modern_legal:
         if card_name not in modern_cards:
             modern_cards[card_name] = [card_name, card_type, CARD_DECK, card_clan, card_sets, \
-                card_rarities, 'Modern', card_max, card_own]
+                card_rarities, 'Modern', min(card_own, 1), 1]
         else:
             modern_cards[card_name][4] = list(set(modern_cards[card_name][4] + card_sets))
             modern_cards[card_name][5] = list(set(modern_cards[card_name][5] + card_rarities))
-            modern_cards[card_name][7] = max(modern_cards[card_name][7], card_max)
-            modern_cards[card_name][8] = min(modern_cards[card_name][7], \
-                modern_cards[card_name][8] + card_own)
+            modern_cards[card_name][7] = min(modern_cards[card_name][8], \
+                modern_cards[card_name][7] + card_own)
 
     card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_rarities, \
-        card_format, card_max, card_own])
+        card_format, card_own, card_max])
 
 for _, card_item in modern_cards.items():
     card_lines.append(card_item)
-    format_map['Modern'][0] += card_item[8]
-    format_map['Modern'][1] += card_item[7]
-
+    format_map['Modern'][0] += card_item[7]
+    format_map['Modern'][1] += card_item[8]
 print(format_map)
+
+format_choice, filtered_list = sort_and_filter(card_lines, 6)
+deck_choice, filtered_list = sort_and_filter(filtered_list, 2)
+print(format_choice)
+print(deck_choice)
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):

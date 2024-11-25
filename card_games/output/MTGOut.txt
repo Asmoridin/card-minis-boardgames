@@ -1,12 +1,12 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 5781 items (5729 actual cards).
-Have 603 out of 23199 total cards for a playset - 2.60 percent
+Tracking 5944 items (5892 actual cards).
+Have 609 out of 23851 total cards for a playset - 2.55 percent
 
 *** VINTAGE ***
-There are 5781 Vintage legal cards
-Have 600 out of 23139 - 2.59 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
+There are 5944 Vintage legal cards
+Have 606 out of 23791 - 2.55 percent of a playset
+Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
 {'Ancient Tomb': 4, 'Black Lotus': 1, 'Grim Monolith': 4, 'Grindstone': 4, 'Karn, the Great Creator': 1, 'Mana Crypt': 1, 'Mana Vault': 1, 'Manifold Key': 4, "Minamo, School at Water's Edge": 1, "Mishra's Workshop": 4, 'Mox Jet': 1, 'Mox Opal': 4, 'Mox Pearl': 1, 'Mox Ruby': 1, 'Mox Sapphire': 1, "Painter's Servant": 4, 'Tezzeret the Seeker': 4, 'The One Ring': 4, 'Time Vault': 1, 'Tolarian Academy': 1, 'Voltaic Key': 3, 'Argentum Masticore': 3, "Grafdigger's Cage": 4, 'Leyline of the Void': 4, 'Wurmcoil Engine': 4}
@@ -24,9 +24,9 @@ Most needed cards are:
  - Swords to Plowshares: 24
 
 *** LEGACY ***
-There are 5661 Legacy legal cards
-Have 578 out of 23004 - 2.51 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
+There are 5824 Legacy legal cards
+Have 584 out of 23656 - 2.47 percent of a playset
+Chosen card is a(n) Creature from Nemesis - Avenger en-Dal. I own 0 of 4
 
 Closest deck to completion (JeskaiControl) is at 65 cards.
 {'Arid Mesa': 1, 'Back to Basics': 2, 'Brainstorm': 3, "Day's Undoing": 1, 'Dress Down': 2, 'Flooded Strand': 4, 'Force of Negation': 2, 'Force of Will': 4, 'Forth Eorlingas!': 2, 'Lorien Revealed': 2, 'Narset, Parter of Veils': 4, 'Ponder': 3, 'Prismatic Ending': 3, 'Prismatic Vista': 4, 'Supreme Verdict': 2, 'Swords to Plowshares': 3, 'Tamiyo, Inquisitive Student': 2, 'Teferi, Time Raveler': 2, 'Tundra': 2, 'Volcanic Island': 1, 'Wrath of the Skies': 2, 'Celestial Purge': 1, 'Consign to Memory': 3, "Grafdigger's Cage": 1, 'Harbinger of the Seas': 2, 'Hydroblast': 1, 'Purify the Grave': 1, 'Pyroblast': 2, 'Red Elemental Blast': 1, 'Ruination': 1, 'Surgical Extraction': 1}
@@ -44,9 +44,9 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1270 Modern legal cards
-Have 411 out of 5440 - 7.56 percent of a playset
-Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
+There are 1287 Modern legal cards
+Have 416 out of 5508 - 7.55 percent of a playset
+Chosen card is a(n) Creature from Urza's Legacy - Archivist. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
 {"Agadeem's Awakening": 2, 'Boggart Trawler': 4, 'Castle Locthwain': 2, 'Fatal Push': 4, 'Fell the Profane': 4, 'Inquisition of Kozilek': 3, 'March of Wretched Sorrow': 3, 'Necrodominance': 4, 'Orcish Bowmasters': 4, 'Sheoldred, the Apocalypse': 4, 'Soul Spike': 4, 'Takenuma, Abandoned Mire': 1, 'The Meathook Massacre': 2, 'The One Ring': 4, 'Thoughtseize': 4, 'Break the Ice': 4, 'Damping Sphere': 2, 'Dauthi Voidwalker': 4, 'Force of Despair': 2, 'Surgical Extraction': 2}
@@ -64,9 +64,9 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 441 Pioneer legal cards
-Have 321 out of 2124 - 15.11 percent of a playset
-Chosen card is a(n) Basic Land from Modern Horizons - Snow-Covered Forest. I own 0 of 40
+There are 446 Pioneer legal cards
+Have 322 out of 2144 - 15.02 percent of a playset
+Chosen card is a(n) Creature from Welcome Deck 2017 - Serra Angel. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
 {'Bloodletter of Aclazotz': 4, 'Castle Locthwain': 2, 'Duress': 4, 'Fatal Push': 4, 'Field of Ruin': 2, 'Graveyard Trespasser': 2, 'Hive of the Eye Tyrant': 2, 'Invoke Despair': 4, 'Mutavault': 4, 'Reckoner Bankbuster': 2, "Sheoldred's Edict": 4, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Unholy Annex/Ritual Chamber': 4, 'Unstoppable Slasher': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Caustic Bronco': 4, 'Cut Down': 3, 'Go Blank': 2, 'March of Wretched Sorrow': 1, 'The Meathook Massacre': 1, 'Unlicensed Hearse': 2}
@@ -84,8 +84,8 @@ Most needed cards are:
  - Mystical Dispute: 27
 
 *** STANDARD ***
-There are 165 Standard legal cards
-Have 191 out of 840 - 22.74 percent of a playset
+There are 166 Standard legal cards
+Have 191 out of 844 - 22.63 percent of a playset
 Chosen card is a(n) Creature from Masters 25 - Savannah Lions. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
@@ -104,9 +104,9 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 2068 Pauper legal cards
-Have 222 out of 8632 - 2.57 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
+There are 2151 Pauper legal cards
+Have 228 out of 8964 - 2.54 percent of a playset
+Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 55 cards.
 {'Cast Down': 2, "Chainer's Edict": 3, 'Chittering Rats': 4, 'Crypt Rats': 2, 'Cuombajj Witches': 4, 'Deadly Dispute': 2, 'Defile': 3, "Geth's Verdict": 2, 'Gray Merchant of Asphodel': 3, 'Phyrexian Rager': 2, 'Sign in Blood': 2, 'Snuff Out': 2, 'Thorn of the Black Rose': 2, 'Tithing Blade': 2, 'Troll of Khazad-dum': 2, "Witch's Cottage": 3, 'Contaminated Ground': 2, 'Duress': 2, 'Nihil Spellbomb': 2, 'Relic of Progenitus': 2, 'Suffocating Fumes': 2, 'Unexpected Fangs': 3, 'Wrench Mind': 2}
@@ -116,23 +116,23 @@ Most needed cards are:
  - Snow-Covered Island: 33
  - Blue Elemental Blast: 32
  - Deadly Dispute: 29
- - Dust to Dust: 29
  - Cast into the Fire: 28
  - Counterspell: 27
  - Plains: 26
  - Red Elemental Blast: 25
  - Snuff Out: 23
+ - Brainstorm: 22
 
 *** OATHBREAKER ***
-There are 5670 Oathbreaker legal cards
-Have 540 out of 6060 - 8.91 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
+There are 5833 Oathbreaker legal cards
+Have 543 out of 6223 - 8.73 percent of a playset
+Chosen card is a(n) Creature from Nemesis - Avenger en-Dal. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
 {'Victimize': 1, 'Battlefly Swarm': 1, 'Caustic Caterpillar': 1, 'Grist, Voracious Larva': 1, 'Blightbeetle': 1, 'Brain Maggot': 1, 'Dross Hopper': 1, 'Circle of Dreams Druid': 1, 'Honest Rutstein': 1, 'Hornet Nest': 1, 'Nantuko Elder': 1, 'Stinging Cave Crawler': 1, 'Bane of the Living': 1, 'Roaming Throne': 1, "Amzu, Swarm's Hunger": 1, 'Ant Queen': 1, 'Crash of Rhino Beetles': 1, 'Zask, Skittering Swarmlord': 1, 'Nyxbloom Ancient': 1, 'Living Hive': 1, 'Culling the Weak': 1, 'Songs of the Damned': 1, 'Veil of Summer': 1, 'Gravepurge': 1, 'Unearth': 1, 'Demonic Tutor': 1, 'Skyshroud Claim': 1, 'Sol Talisman': 1, 'Cloud Key': 1, 'Crucible of Worlds': 1, 'Coat of Arms': 1, 'Insidious Roots': 1, 'Growing Rites of Itlimoc': 1, 'The Hunger Tide Rises': 1, 'Doubling Season': 1, 'Cavern of Souls': 1, 'Overgrown Tomb': 1, 'Three Tree City': 1, 'Unclaimed Territory': 1}
 
 Most needed cards are:
- - Snow-Covered Mountain: 21
+ - Snow-Covered Mountain: 20
  - Snow-Covered Forest: 18
  - Snow-Covered Swamp: 15
  - Game Trail: 3
@@ -145,15 +145,15 @@ Most needed cards are:
 
 *** ICE AGE BLOCK ***
 There are 515 Ice Age Block legal cards
-Have 96 out of 2420 - 3.97 percent of a playset
-Chosen card is a(n) Basic Land from Coldsnap - Snow-Covered Forest. I own 0 of 40
+Have 97 out of 2420 - 4.01 percent of a playset
+Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Goblin Snowman. I own 0 of 4
 
 Closest deck to completion (BeyondTheGrave) is at 36 cards.
 {'Ashen Ghoul': 1, 'Balduvian Dead': 2, 'Deepfire Elemental': 1, 'Disciple of Tevesh Szat': 2, 'Gristle Grinner': 2, 'Gutless Ghoul': 3, 'Insidious Bookworms': 2, 'Kjeldoran Dead': 1, 'Orcish Bloodpainter': 2, 'Orcish Healer': 1, "Sek'Kuar, Deathkeeper": 1, 'Void Maw': 1, 'Dark Banishing': 2, 'Dark Ritual': 1, 'Death Spark': 2, 'Grim Harvest': 3, 'Krovikan Rot': 2, 'Soul Burn': 1, 'Casting of Bones': 2, 'Barbed Sextant': 2, 'Coldsteel Heart': 1, 'Skull Catapult': 1}
 
 Most needed cards are:
  - Snow-Covered Swamp: 53
- - Snow-Covered Mountain: 38
+ - Snow-Covered Mountain: 35
  - Plains: 32
  - Snow-Covered Forest: 26
  - Disenchant: 23
@@ -165,8 +165,8 @@ Most needed cards are:
 
 *** MIRAGE BLOCK ***
 There are 668 Mirage Block legal cards
-Have 92 out of 2852 - 3.23 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 4
+Have 96 out of 2852 - 3.37 percent of a playset
+Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Shadow Guildmage. I own 0 of 4
 
 Closest deck to completion (CallOfTheOwl) is at 34 cards.
 {'Maro': 4, 'Stampeding Wildebeests': 4, 'Nettletooth Djinn': 2, 'Fog Elemental': 2, 'River Boa': 4, 'Cloud Elemental': 2, "Man-o'-War": 3, 'Ophidian': 3, 'Sage Owl': 3, 'Call of the Wild': 3, 'Rowan': 1, 'Disenchant': 3}
@@ -233,15 +233,15 @@ Closest deck to completion (ThemeDeck-Mercenaries) is at 37 cards.
 
 Most needed cards are:
  - Plains: 60
+ - Waterfront Bouncer: 13
  - Disenchant: 12
+ - Seal of Removal: 12
+ - Vine Trellis: 12
+ - Island: 11
  - Mountain: 11
- - Island: 9
+ - Invigorate: 9
  - Stinging Barrier: 9
- - Waterfront Bouncer: 9
- - Blastoderm: 8
- - Vine Trellis: 8
- - Ribbon Snake: 7
- - Seal of Cleansing: 7
+ - Stronghold Zeppelin: 9
 
 *** INVASION BLOCK ***
 There are 621 Invasion Block legal cards
@@ -263,10 +263,30 @@ Most needed cards are:
  - Exclude: 11
  - Salt Marsh: 11
 
+*** ODYSSEY BLOCK ***
+There are 230 Odyssey Block legal cards
+Have 93 out of 1100 - 8.45 percent of a playset
+Chosen card is a(n) Creature from Judgment - Wormfang Drake. I own 0 of 4
+
+Closest deck to completion (TD - One-Two Punch) is at 35 cards.
+{'Druid Lyrist': 2, 'Gorilla Titan': 1, 'Krosan Archer': 1, 'Leaf Dancer': 2, 'Nantuko Mentor': 1, 'Rabid Elephant': 1, 'Beast Attack': 2, 'Elephant Ambush': 3, 'Engulfing Flames': 2, 'Howling Gale': 1, "Moment's Peace": 1, 'Refresh': 1, 'Sylvan Might': 2, 'Chatter of the Squirrel': 3, 'Deep Reconnaissance': 2, 'Earth Rift': 1, 'Firebolt': 1, 'Reckless Charge': 2, 'Roar of the Wurm': 2, 'Scorching Missile': 2, 'Seize the Day': 1, 'Volcanic Spray': 1}
+
+Most needed cards are:
+ - Plains: 56
+ - Mountain: 47
+ - Wild Mongrel: 33
+ - Firebolt: 32
+ - Basking Rootwalla: 27
+ - Werebear: 25
+ - Roar of the Wurm: 24
+ - Aether Burst: 23
+ - Careful Study: 22
+ - Innocent Blood: 20
+
 *** PAUPER COMMANDER ***
-There are 2895 Pauper Commander legal cards
-Have 238 out of 3285 - 7.25 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
+There are 3000 Pauper Commander legal cards
+Have 241 out of 3390 - 7.11 percent of a playset
+Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 1
 
 Closest deck to completion (Vhal, Candlekeep Researcher) is at 64 cards.
 {'Agent of the Shadow Thieves': 1, 'Vhal, Candlekeep Researcher': 1, 'Aether Spellbomb': 1, 'Bloodrite Invoker': 1, "Bonder's Ornament": 1, 'Cabal Ritual': 1, 'Capsize': 1, 'Consider': 1, 'Crashing Drawbridge': 1, 'Dark Ritual': 1, 'Deduce': 1, 'Dimir Signet': 1, 'Dispel': 1, 'Dizzy Spell': 1, 'Drift of Phantasms': 1, 'Drown in Sorrow': 1, 'Echoing Truth': 1, 'Energy Refractor': 1, 'Forge of Heroes': 1, 'Frantic Search': 1, 'Freed from the Real': 1, 'Galvanic Alchemist': 1, 'Gitaxian Probe': 1, 'Haunted Cloak': 1, 'Ice Tunnel': 1, 'Intervene': 1, 'Island': 4, 'Lantern of Revealing': 1, 'Lórien Revealed': 1, 'Lotus Petal': 1, 'Memory Lapse': 1, 'Muddle the Mixture': 1, 'Mystic Sanctuary': 1, 'Mystical Teachings': 1, 'Negate': 1, 'Opt': 1, 'Perplex': 1, 'Preordain': 1, 'Prismite': 1, 'Relic of Progenitus': 1, 'Rotten Reunion': 1, 'Secret Door': 1, 'Shore Up': 1, 'Shred Memory': 1, 'Singing Bell Strike': 1, 'Sleight of Hand': 1, 'Snap': 1, 'Snuff Out': 1, 'Spell Pierce': 1, 'Step Through': 1, 'Stonework Packbeast': 1, 'Strider Harness': 1, 'Third Path Savant': 1, 'Treasure Cruise': 1, 'Trinket Mage': 1, 'Urn of Godfire': 1, 'Utter Insignificance': 1, 'Vampire Opportunist': 1, 'Vedalken Aethermage': 1, 'Vigean Graftmage': 1, 'Viridian Longbow': 1}
@@ -275,7 +295,7 @@ Most needed cards are:
  - Snow-Covered Island: 62
  - Snow-Covered Swamp: 39
  - Snow-Covered Forest: 31
- - Snow-Covered Mountain: 17
+ - Snow-Covered Mountain: 15
  - Plains: 8
  - Dispel: 6
  - Echoing Truth: 6
@@ -284,9 +304,9 @@ Most needed cards are:
  - Muddle the Mixture: 5
 
 *** COMMANDER ***
-There are 5679 Commander legal cards
-Have 541 out of 6069 - 8.91 percent of a playset
-Chosen card is a(n) Creature from Visions - Infantry Veteran. I own 0 of 1
+There are 5842 Commander legal cards
+Have 544 out of 6232 - 8.73 percent of a playset
+Chosen card is a(n) Creature from Nemesis - Avenger en-Dal. I own 0 of 1
 
 Most needed cards are:
  - Plains: 481
@@ -294,7 +314,7 @@ Most needed cards are:
  - Island: 171
  - Forest: 169
  - Snow-Covered Plains: 114
- - Snow-Covered Mountain: 81
+ - Snow-Covered Mountain: 74
  - Snow-Covered Island: 72
  - Ancient Tomb: 71
  - Swiftfoot Boots: 63
@@ -379,25 +399,25 @@ Needed cards: 93 - {'Karn, Silver Golem': 1, 'All Is Dust': 1, 'Ancient Tomb': 1
 Color Combo: BGRU-Glint, Commander: Thrasios, Triton Hero + Vial Smasher the Fierce
 Needed cards: 94 - {'Thrasios, Triton Hero': 1, 'Abrupt Decay': 1, 'Ad Nauseam': 1, "An Offer You Can't Refuse": 1, 'Ancient Tomb': 1, 'Badlands': 1, 'Basalt Monolith': 1, 'Bayou': 1, 'Birds of Paradise': 1, 'Blood Crypt': 1, 'Bloodstained Mire': 1, 'Bloom Tender': 1, 'Borne Upon a Wind': 1, 'Boseiju, Who Endures': 1, 'Brain Freeze': 1, 'Cabal Ritual': 1, 'Carpet of Flowers': 1, 'Chain of Vapor': 1, 'Chord of Calling': 1, 'Chrome Mox': 1, 'City of Brass': 1, 'City of Traitors': 1, 'Crop Rotation': 1, 'Cyclonic Rift': 1, 'Dark Ritual': 1, 'Deathrite Shaman': 1, 'Defense Grid': 1, 'Deflecting Swat': 1, 'Delighted Halfling': 1, 'Demonic Consultation': 1, 'Demonic Tutor': 1, 'Displacer Kitten': 1, 'Dramatic Reversal': 1, 'Eldritch Evolution': 1, 'Elvish Spirit Guide': 1, 'Eternal Witness': 1, 'Fierce Guardianship': 1, 'Finale of Devastation': 1, 'Flooded Strand': 1, 'Flusterstorm': 1, 'Force of Will': 1, "Gaea's Cradle": 1, 'Gemstone Caverns': 1, 'Grim Monolith': 1, 'Ignoble Hierarch': 1, 'Imperial Seal': 1, 'Isochron Scepter': 1, 'Kinnan, Bonder Prodigy': 1, "Lion's Eye Diamond": 1, 'Lotus Petal': 1, 'Mana Confluence': 1, 'Mana Vault': 1, 'Marsh Flats': 1, 'Mental Misstep': 1, "Minamo, School at Water's Edge": 1, 'Misty Rainforest': 1, 'Mox Amber': 1, 'Mox Diamond': 1, 'Mystic Remora': 1, 'Mystical Tutor': 1, 'Necropotence': 1, 'Noxious Revival': 1, 'Opposition Agent': 1, 'Orcish Bowmasters': 1, 'Otawara, Soaring City': 1, 'Pact of Negation': 1, 'Phyrexian Metamorph': 1, 'Polluted Delta': 1, 'Ragavan, Nimble Pilferer': 1, 'Rhystic Study': 1, 'Scalding Tarn': 1, 'Sheoldred, the Apocalypse': 1, 'Shifting Woodland': 1, 'Simian Spirit Guide': 1, 'Snap': 1, 'Swan Song': 1, 'Taiga': 1, 'Tainted Pact': 1, "Thassa's Oracle": 1, 'The One Ring': 1, 'Tinder Wall': 1, 'Transmute Artifact': 1, 'Tropical Island': 1, 'Underground Sea': 1, 'Underworld Breach': 1, 'Valley Floodcaller': 1, 'Vampiric Tutor': 1, 'Veil of Summer': 1, 'Verdant Catacombs': 1, 'Volcanic Island': 1, 'Watery Grave': 1, 'Wheel of Fortune': 1, 'Wishclaw Talisman': 1, 'Wooded Foothills': 1}
 
-
 Oldest Commander deck is BG-Golgari/Hazel of the Rootbloom, last updated 08/22/2024
 
 *** OTHER DATA ***
 211 total creature types
 
 Percentages ordered by format:
-Standard: 22.74
-Pioneer: 15.11
-Commander: 8.91
-Oathbreaker: 8.91
-Modern: 7.56
-Pauper Commander: 7.25
-Ice Age Block: 3.97
+Standard: 22.63
+Pioneer: 15.02
+Commander: 8.73
+Oathbreaker: 8.73
+Odyssey Block: 8.45
+Modern: 7.55
+Pauper Commander: 7.11
+Ice Age Block: 4.01
 Tempest Block: 3.50
 Urza's Block: 3.41
 Invasion Block: 3.38
+Mirage Block: 3.37
 Masques Block: 3.31
-Mirage Block: 3.23
-Vintage: 2.59
-Pauper: 2.57
-Legacy: 2.51
+Vintage: 2.55
+Pauper: 2.54
+Legacy: 2.47
