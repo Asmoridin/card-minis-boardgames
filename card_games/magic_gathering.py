@@ -4,6 +4,7 @@
 Collection tracker/management for Magic: The Gathering
 """
 
+import datetime
 import os
 import re
 import sys
@@ -25,12 +26,13 @@ class Deck:
     """
     Helper class for a deck, keeping a track of the name and composition
     """
-    def __init__(self, deck_name, deck_cards):
+    def __init__(self, deck_name, deck_cards, deck_date=None):
         """
         Basic constructor
         """
         self.deck_name = deck_name
         self.deck_cards = deck_cards
+        self.deck_date = deck_date
 
 def read_decks(deck_format):
     """
@@ -41,6 +43,7 @@ def read_decks(deck_format):
     if deck_format == 'Commander':
         for comm_color in os.listdir(DECK_DIR + '/' + deck_format):
             for deck_file in os.listdir(DECK_DIR + '/' + deck_format + "/" + comm_color):
+                deck_date = None
                 deck_name = deck_file.replace('.txt', '')
                 this_deck = {}
                 deck_fh = open(DECK_DIR + '/' + deck_format + '/' + comm_color + "/" + \
@@ -49,14 +52,26 @@ def read_decks(deck_format):
                 deck_fh.close()
                 deck_lines = [line.strip() for line in deck_lines]
                 for deck_line in deck_lines:
-                    if deck_line.startswith('//') or deck_line == '':
+                    if deck_line == '':
+                        continue
+                    if deck_line.startswith('//') :
+                        try:
+                            date_str = deck_line.split(' ')[2]
+                            deck_date = datetime.datetime.strptime(date_str, "%m/%d/%y")
+                        except ValueError:
+                            print(f"Invalid date found in {comm_color + "/" + deck_file}")
+                            print(f"Invalid date of [{date_str}]")
+                            raise
                         continue
                     deck_card_qty = int(deck_line.split(' ')[0])
                     deck_card_name = ' '.join(deck_line.split(' ')[1:]).strip()
                     if deck_card_name not in this_deck:
                         this_deck[deck_card_name] = 0
                     this_deck[deck_card_name] += deck_card_qty
-                ret_list.append(Deck(comm_color + "/" + deck_name, this_deck))
+                if deck_date is None:
+                    print(f"Invalid date found in {comm_color + "/" + deck_file}")
+                    raise ValueError
+                ret_list.append(Deck(comm_color + "/" + deck_name, this_deck, deck_date))
     elif deck_format in os.listdir(DECK_DIR):
         for deck_file in os.listdir(DECK_DIR + '/' + deck_format):
             deck_name = deck_file.replace('.txt', '')
@@ -320,6 +335,12 @@ def process_formats(format_name):
     return_dict['ITEM'] = ft_filtered_list[0]
 
     format_decks = read_decks(format_name)
+    oldest_deck = (datetime.datetime.today(), '')
+    if format_name == "Commander":
+        for this_deck in format_decks:
+            if this_deck.deck_date < oldest_deck[0]:
+                oldest_deck = (this_deck.deck_date, this_deck.deck_name)
+
     format_decks_minus_own = check_decks(format_decks, format_card_list)
     format_most_needed = aggregate_most_needed(format_decks_minus_own)
     format_most_needed = sorted(format_most_needed, key=lambda x:(-1 * x[1], x[0]))
@@ -329,6 +350,7 @@ def process_formats(format_name):
     return_dict['FORMAT_CARDS'] = format_cards
     return_dict['DECKS'] = format_decks_minus_own
     return_dict['NEEDED'] = format_most_needed
+    return_dict['OLDEST'] = oldest_deck
     return return_dict
 
 def handle_output(format_name, format_dict, dest_fh):
@@ -523,6 +545,11 @@ if __name__ == "__main__":
         deck_need_cards = deck[2]
         double_print(f"Color Combo: {color_id}, Commander: {deck_commander}", out_file_h)
         double_print(f"Needed cards: {deck_need_num} - {str(deck_need_cards)}\n", out_file_h)
+
+    oldest_deck = comm_dict["OLDEST"]
+    old_name = oldest_deck[1].replace('.txt','')
+    updated = datetime.datetime.strftime(oldest_deck[0], "%m/%d/%Y")
+    double_print(f"\nOldest Commander deck is {old_name}, last updated {updated}\n", out_file_h)
 
     # Other
     one_ofs = []

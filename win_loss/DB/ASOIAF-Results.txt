@@ -1,2 +1,0 @@
-#my_army;my_commander;opp_army;opp_commander;w_l;opponent;my_score;opp_score;game_mode
-House Targaryen;Khal Drogo, The Great Khal;House Bara;Andrew Estermont, First of the blah blah;W;Joey;10;3;A Game of Thrones

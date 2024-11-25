@@ -683,32 +683,32 @@ Feyland City;Major Terrain;Other;0
 Feyland Standing Stone;Major Terrain;Other;0
 Feyland Temple;Major Terrain;Other;0
 Coastland Bridge;Minor Terrain;Other;0
-Coastland Knoll;Minor Terrain;Other;0
+Coastland Knoll;Minor Terrain;Other;1
 Coastland Woods;Minor Terrain;Other;0
 Coastland Village;Minor Terrain;Other;0
 Highland Bridge;Minor Terrain;Other;0
 Highland Knoll;Minor Terrain;Other;0
-Highland Woods;Minor Terrain;Other;0
+Highland Woods;Minor Terrain;Other;1
 Highland Village;Minor Terrain;Other;0
 Swampland Bridge;Minor Terrain;Other;0
 Swampland Knoll;Minor Terrain;Other;0
-Swampland Woods;Minor Terrain;Other;0
+Swampland Woods;Minor Terrain;Other;1
 Swampland Village;Minor Terrain;Other;0
-Flatland Bridge;Minor Terrain;Other;0
+Flatland Bridge;Minor Terrain;Other;1
 Flatland Knoll;Minor Terrain;Other;0
 Flatland Woods;Minor Terrain;Other;0
 Flatland Village;Minor Terrain;Other;0
 Wasteland Bridge;Minor Terrain;Other;0
 Wasteland Knoll;Minor Terrain;Other;0
 Wasteland Woods;Minor Terrain;Other;0
-Wasteland Village;Minor Terrain;Other;0
-Feyland Bridge;Minor Terrain;Other;0
+Wasteland Village;Minor Terrain;Other;1
+Feyland Bridge;Minor Terrain;Other;1
 Feyland Knoll;Minor Terrain;Other;0
 Feyland Woods;Minor Terrain;Other;0
 Feyland Village;Minor Terrain;Other;0
 Deadland Bridge;Minor Terrain;Other;1
 Deadland Knoll;Minor Terrain;Other;1
-Deadland Woods;Minor Terrain;Other;1
+Deadland Woods;Minor Terrain;Other;2
 Deadland Village;Minor Terrain;Other;1
 Coastland Castle;Special Terrain;Other;0
 Coastland Dragon's Lair;Special Terrain;Other;0
@@ -734,7 +734,3 @@ Feyland Castle;Special Terrain;Other;0
 Feyland Dragon's Lair;Special Terrain;Other;0
 Feyland Grove;Special Terrain;Other;0
 Feyland Vortex;Special Terrain;Other;0
-Deadland Castle;Special Terrain;Other;0
-Deadland Dragon's Lair;Special Terrain;Other;0
-Deadland Grove;Special Terrain;Other;0
-Deadland Vortex;Special Terrain;Other;0
