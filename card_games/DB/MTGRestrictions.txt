@@ -7,6 +7,7 @@ Bazaar of Baghdad;Legacy-Banned
 Biorhythm;Oathbreaker-Banned/Commander-Banned
 Black Lotus;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Bloodstained Mire;Pioneer-Banned
+Braids, Cabal Minion;Commander-Banned
 Brainstorm;Vintage-Restricted
 Bridge from Below;Modern-Banned
 Bronze Tablet;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
@@ -82,6 +83,7 @@ Mystical Tutor;Legacy-Banned/Vintage-Restricted
 Natural Order;Oathbreaker-Banned
 Necropotence;Legacy-Banned/Vintage-Restricted
 Oath of Druids;Legacy-Banned
+Oko, Thief of Crowns;Pioneer-Banned/Modern-Banned/Legacy-Banned
 Painter's Servant;Oathbreaker-Banned
 Peregrine Drake;Pauper-Banned
 Polluted Delta;Pioneer-Banned
@@ -122,6 +124,7 @@ Tree of Tales;Modern-Banned
 Trinisphere;Vintage-Restricted
 Undercity Informer;Pioneer-Banned
 Upheaval;Oathbreaker-Banned/Commander-Banned
+Uro, Titan of Nature's Wrath;Pioneer-Banned/Modern-Banned
 Urza's Saga;Vintage-Restricted
 Vampiric Tutor;Legacy-Banned/Vintage-Restricted
 Vault of Whispers;Modern-Banned
@@ -130,6 +133,7 @@ White Plume Adventurer;Legacy-Banned
 Wilderness Reclamation;Pioneer-Banned
 Windfall;Legacy-Banned/Vintage-Restricted/Urza's Block-Banned
 Wooded Foothills;Pioneer-Banned
+Wrenn and Six;Legacy-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned

@@ -99,6 +99,16 @@ Construct Depot;Mission;Space;The Dominion;97;;4;0
 Corez;Personnel;Kazon;Voyager;98;;4;0
 Coutu;Personnel;Non-Aligned;Deep Space 9/Trouble with Tribbles Starter Decks;99,7104;;4;0
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
+Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
+Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
+Dakol;Personnel;Cardassian;Deep Space 9;103;;4;0
+Danderdag;Personnel;Non-Aligned;The Trouble with Tribbles;104;;4;0
+Dar;Personnel;Dominion;Holodeck Adventures;105;106;4;0
+Dar;Personnel;Hirogen;Holodeck Adventures;106;105;4;0
+Darian Wallace;Personnel;Federation;Premiere;107,5982,6345,6708,7521;;4;0
+Darmok;Ship;Non-Aligned;Official Tournament Sealed Deck;108,5917;;4;0
+Daro;Personnel;Cardassian;The Dominion;109,7516;;4;0
+Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
 
 # Done through card 100
 #747
@@ -124,6 +134,7 @@ Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 #4660-4662
 #4697
 #4833
+#4843
 #4864
 #4869
 #4874
@@ -131,13 +142,16 @@ Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 #5503-5504
 #5640
 #5822
-#5966-5981
-#6329-6344
-#6692-6707
+#5917
+#5966-5982
+#6329-6345
+#6692-6708
 #7055
 #7098-7104
 #7183-7185
 #7251
 #7327
+#7516
+#7521
 #7527
 #7529
