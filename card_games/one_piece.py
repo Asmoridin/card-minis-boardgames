@@ -25,13 +25,13 @@ def validate_colors(in_colors):
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/OnePieceData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/DB/Decks/OnePieceTCG'
+    DECK_DIR = 'card_games/Decks/OnePieceTCG'
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/OnePieceData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'DB/Decks/OnePieceTCG'
+    DECK_DIR = 'Decks/OnePieceTCG'
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter

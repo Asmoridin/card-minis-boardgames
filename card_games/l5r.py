@@ -26,6 +26,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
     'Second City', 'Promotional-Ivory', 'Glory of the Empire', 'Stronger Than Steel',
     'Celestial Edition', 'The Truest Test', 'Twenty Festivals', 'The Imperial Gift 3',
+    'Samurai Edition', 'Tomorrow', "Khan's Defiance",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -33,7 +34,8 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     'Test of Enlightenment', 'A Perfect Cut', 'Rise of the Shogun', 'Scorpion Clan Coup 3',
     'Promotional-Lotus', 'Training Grounds 2', 'Hidden City', 'Heaven & Earth', 'Shadowlands',
     'Gold Edition', 'Jade Edition', 'Pearl Edition', 'Crimson and Jade', 'Time of the Void',
-    'Path of Hope', 'Anvil of Despair', "An Oni's Fury",
+    'Path of Hope', 'Anvil of Despair', "An Oni's Fury", 'Honor Bound', 'Promotional-Gold',
+    'Promotional-Diamond',
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
@@ -128,8 +130,10 @@ print(format_map)
 
 format_choice, filtered_list = sort_and_filter(card_lines, 6)
 deck_choice, filtered_list = sort_and_filter(filtered_list, 2)
+set_choice, filtered_list = sort_and_filter(filtered_list, 4)
 print(format_choice)
 print(deck_choice)
+print(set_choice)
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):

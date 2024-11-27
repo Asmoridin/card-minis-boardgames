@@ -21,13 +21,13 @@ VALID_AFFILIATIONS = ['Federation', 'Vidiian', 'Non-Aligned', 'Klingon', 'Romula
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/StarTrek2EData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/DB/Decks/ST2E'
+    DECK_DIR = 'card_games/Decks/ST2E'
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/StarTrek2EData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'DB/Decks/ST2E'
+    DECK_DIR = 'Decks/ST2E'
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter

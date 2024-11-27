@@ -79,6 +79,19 @@ A Moment of Truth (ToV);Strategy;;Time of the Void (Rare);Clan Wars (Imperial);3
 A New Guardian;Strategy;;Heaven & Earth (Uncommon);Four Winds (Gold);3;0
 A New Guardian;Strategy;;Heaven & Earth (Uncommon);Rain of Blood (Diamond);3;0
 A New Legacy;Event;;An Oni's Fury (Rare);Four Winds (Gold);1;0
+A New Path;Strategy;;The Fall of Otosan Uchi (Uncommon);Four Winds (Gold);3;0
+A New Path;Strategy;;The Fall of Otosan Uchi (Uncommon);Rain of Blood (Diamond);3;0
+A New Teacher;Strategy;;Honor Bound (Rare);Hidden Emperor (Jade);3;0
+A New Wall;Event;;Samurai Edition (Rare)/Tomorrow (Fixed);Race for the Throne (Samurai);1;0
+A New Wall;Event;;Lotus Edition (Rare)/Training Grounds 2 (Fixed)/Tomorrow (Fixed);Age of Enlightenment (Lotus);1;0
+A New Wall;Event;;Promotional–Gold (Promo);Four Winds (Gold);1;0
+A New Wall;Event;;Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
+A New Year;Event;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
+A New Year;Event;;Twenty Festivals (Rare);Onyx Edition;3;0
+A New Year;Event;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
+A Noble End;Strategy;;Khan's Defiance (Uncommon);Age of Enlightenment (Lotus);3;0
+A Noble End;Strategy;;Khan's Defiance (Uncommon);Race for the Throne (Samurai);3;0
 
 
-# Done through card #50
+
+# Done through card #60

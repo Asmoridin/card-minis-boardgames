@@ -23,12 +23,12 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
     'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', 
     'The Dominion', 'Starter Deck II', 'Holodeck Adventures', 'Official Tournament Sealed Deck',]
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
-    'Homefront VI', 'Homefront V',]
+    'Homefront VI', 'Homefront V', 'Coming of Age',]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
-    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', ]
+    'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian',]
 
 class Card:
     """
@@ -84,16 +84,11 @@ for line in in_lines:
             IS_PRINT = True
         if card_set in VIRTUAL_SETS:
             IS_VIRTUAL = True
-    CARD_PRINT = None
-    if IS_PRINT and IS_VIRTUAL:
-        CARD_PRINT = 'Both'
-    elif IS_PRINT:
-        CARD_PRINT = 'Print'
+    CARD_PRINT = []
+    if IS_PRINT:
+        CARD_PRINT.append('Print')
     elif IS_VIRTUAL:
-        CARD_PRINT = 'Virtual'
-    else:
-        print(f"Unhandled printing for card {card_name}")
-        continue
+        CARD_PRINT.append('Virtual')
 
     #TODO: Card Numbers
     card_max = int(card_max)

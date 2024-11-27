@@ -9,12 +9,12 @@ import sys
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'card_games/DB/Decks/StarWarsUnlimited'
+    DECK_DIR = 'card_games/Decks/StarWarsUnlimited'
     sys.path.append('.')
     from utils.output_utils import double_print
 else:
     file_h = open('DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
-    DECK_DIR = 'DB/Decks/StarWarsUnlimited'
+    DECK_DIR = 'Decks/StarWarsUnlimited'
     sys.path.append('.')
     from utils.output_utils import double_print
 

@@ -109,18 +109,29 @@ Darian Wallace;Personnel;Federation;Premiere;107,5982,6345,6708,7521;;4;0
 Darmok;Ship;Non-Aligned;Official Tournament Sealed Deck;108,5917;;4;0
 Daro;Personnel;Cardassian;The Dominion;109,7516;;4;0
 Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
+Davar;Personnel;Hirogen;The Borg;111;;4;0
+D'deridex;Ship;Romulan;Premiere;112,5983,6346,6709;;4;0
+D'deridex Advanced;Ship;Romulan;The Dominion/Reflections;113,3581;;4;0
+Derell;Personnel;Cardassian;Deep Space 9;114;;4;0
+Dilanum;Personnel;Vidiian;The Borg;115;;4;0
+Divok;Personnel;Klingon;Premiere/Coming of Age/Trouble with Tribbles Starter Decks;116,5437,5984,6347,6710,7105;;4;0
+D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
+D'Kora Transport;Ship;Ferengi;Rules of Acquisition;118,4079;;4;0
+Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
 
-# Done through card 100
+
+# Done through card 120 (not a card)
 #747
 #1278
 #3067
 #3407
 #3513
 #3529
+#3581
 #3927
 #4053
 #4070
-#4078
+#4078-4079
 #4112
 #4186
 #4259
@@ -139,15 +150,16 @@ Daval;Personnel;Klingon;The Trouble with Tribbles;110;;4;0
 #4869
 #4874
 #4876
+#5437
 #5503-5504
 #5640
 #5822
 #5917
-#5966-5982
-#6329-6345
-#6692-6708
+#5966-5984
+#6329-6347
+#6692-6710
 #7055
-#7098-7104
+#7098-7105
 #7183-7185
 #7251
 #7327
