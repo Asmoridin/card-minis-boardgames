@@ -91,7 +91,12 @@ A New Year;Event;;Twenty Festivals (Rare);Onyx Edition;3;0
 A New Year;Event;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
 A Noble End;Strategy;;Khan's Defiance (Uncommon);Age of Enlightenment (Lotus);3;0
 A Noble End;Strategy;;Khan's Defiance (Uncommon);Race for the Throne (Samurai);3;0
+A Paragon's Strength;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+A Paragon's Strength;Strategy;;The Harbinger (Rare);Destroyer War (Celestial);3;0
+A Perfect Cut;Strategy;;Promotional–Gold (Promo);Four Winds (Gold);3;0
+A Plague Spreads;Event;;A Perfect Cut (Uncommon);Four Winds (Gold);1;0
+A Priest's Courtesy;Strategy;;Honor's Veil (Uncommon);Race for the Throne (Samurai);3;0
+A Prophecy Fulfilled;Spell;;Anvil of Despair (Rare);Clan Wars (Imperial);3;0
 
 
-
-# Done through card #60
+# Done through card #65

@@ -5410,7 +5410,36 @@ Ancestral Tribute;Sorcery;W;Odyssey (Rare);0
 Traumatize;Sorcery;U;Ninth Edition (Rare)/Odyssey (Rare)/Tenth Edition (Rare)/Magic 2010 (Rare)/Magic 2011 (Rare)/Magic 2014 Core Set (Rare);0
 Execute;Instant;B;Eighth Edition (Uncommon)/Ninth Edition (Uncommon)/Odyssey (Uncommon);0
 Malevolent Awakening;Enchantment;B;Odyssey (Uncommon);0
-# Done through card 30560
+Devastating Dreams;Sorcery;R;Torment (Rare);0
+Skyshooter;Creature — Centaur Archer;G;Odyssey (Uncommon);0
+Cabal Ritual;Instant;B;Torment (Common)/Vintage Masters (Uncommon)/From the Vault: Lore (Mythic Rare)/Mystery Booster 2: Convention Edition (Common);0
+Bash to Bits;Instant;R;Odyssey (Uncommon);0
+Firebolt;Sorcery;R;Odyssey (Common)/Duel Decks: Jace vs. Chandra (Common)/Duel Decks Anthology, Jace vs. Chandra (Common)/Eternal Masters (Common)/Duel Decks: Mind vs. Might (Common)/Modern Horizons (Uncommon)/Jumpstart 2022 (Common);0
+Scorching Missile;Sorcery;R;Odyssey (Common);0
+Seize the Day;Sorcery;R;Odyssey (Rare)/Ultimate Masters (Rare);0
+Mystic Familiar;Creature — Bird;W;Torment (Common);0
+Patrol Hound;Creature — Dog;W;Odyssey (Common);0
+Concentrate;Sorcery;U;Eighth Edition (Uncommon)/Odyssey (Uncommon)/Planechase 2012 Edition (Uncommon)/Commander 2014 (Uncommon)/Planechase Anthology (Uncommon)/Duel Decks: Merfolk vs. Goblins (Uncommon)/Explorers of Ixalan (Uncommon);0
+Krosan Verge;Land;C;Judgment (Uncommon)/Archenemy (Uncommon)/Planechase 2012 Edition (Uncommon)/Commander 2016 (Uncommon)/Planechase Anthology (Uncommon)/Commander 2017 (Uncommon)/Commander 2018 (Uncommon)/Commander 2019 (Uncommon)/Ikoria Commander (Uncommon)/Zendikar Rising Commander (Uncommon)/Innistrad: Midnight Hunt Commander (Uncommon)/Dominaria United Commander (Uncommon)/Phyrexia: All Will Be One Commander (Uncommon)/March of the Machine Commander (Uncommon)/Commander Masters (Uncommon)/Wilds of Eldraine Commander (Uncommon)/Murders at Karlov Manor Commander (Uncommon)/Outlaws of Thunder Junction Commander (Uncommon);0
+Possessed Aven;Creature — Bird Soldier Horror;U;Torment (Rare);0
+Covert Operative;Creature — Human Wizard;U;Legions (Common);0
+Peek;Instant;U;Odyssey (Common)/Tenth Edition (Common);0
+Tombfire;Sorcery;B;Odyssey (Rare);0
+Touch of Invisibility;Sorcery;U;Odyssey (Common);0
+Acceptable Losses;Sorcery;R;Odyssey (Common);0
+Bearscape;Enchantment;G;Odyssey (Rare);0
+Darkwater Egg;Artifact;C;Odyssey (Uncommon);0
+Sungrass Egg;Artifact;C;Odyssey (Uncommon);0
+Shelter;Instant;W;Odyssey (Common)/Vintage Masters (Common)/Eternal Masters (Common)/Modern Horizons (Common)/Commander Masters (Common);0
+Coffin Purge;Instant;B;Odyssey (Common);0
+Cultural Exchange;Sorcery;U;Odyssey (Rare);0
+Tribal Golem;Artifact Creature — Golem;C;Onslaught (Rare);0
+Testament of Faith;Enchantment;W;Odyssey (Uncommon);0
+Chatter of the Squirrel;Sorcery;G;Odyssey (Common)/Double Masters (Common)/Jumpstart: Historic Horizons (Common);0
+Reckless Charge;Sorcery;R;Odyssey (Common)/Planechase (Common)/Vintage Masters (Common)/Eternal Masters (Common)/Ultimate Masters (Common)/Modern Horizons (Common);0
+Rancid Earth;Sorcery;B;Torment (Common);0
+Pulsating Illusion;Creature — Illusion;U;Odyssey (Uncommon);0
+# Done through card 31611
 #31757
 Tainted Field;Land;C;Torment (Uncommon)/Duel Decks: Sorin vs. Tibalt (Uncommon)/Commander 2015 (Uncommon)/Explorers of Ixalan (Uncommon)/Commander 2021 (Uncommon)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Phyrexia: All Will Be One Commander (Uncommon)/March of the Machine Commander (Uncommon)/Commander Masters (Uncommon)/The Lost Caverns of Ixalan Commander (Uncommon)/Magic The Gathering—Fallout (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #31758
@@ -5475,6 +5504,8 @@ Mask of Memory;Artifact — Equipment;C;Mirrodin (Uncommon)/Planechase (Uncommon
 Sculpting Steel;Artifact;C;Mirrodin (Rare)/Tenth Edition (Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Double Masters (Rare)/Commander 2021 (Rare)/Kaladesh Remastered (Mythic Rare)/Warhammer 40,000 Commander (Rare)/The Brothers' War Retro Artifacts (Rare)/March of the Machine Commander (Rare);2
 #47446
 Chrome Mox;Artifact;C;Mirrodin (Rare)/Eternal Masters (Mythic Rare)/Masterpiece Series: Kaladesh Inventions (Special)/Double Masters (Mythic Rare);0
+#48113
+Aether Spellbomb;Artifact;C;Mirrodin (Common)/Archenemy (Common)/Duel Decks: Elspeth vs. Tezzeret (Common)/Modern Masters (Common)/Jumpstart (Common)/Jumpstart 2022 (Common);0
 #48122
 Tooth and Nail;Sorcery;G;Mirrodin (Rare)/Modern Masters (Rare)/Commander Masters (Rare);0
 #48189
@@ -5563,6 +5594,8 @@ Amrou Scout;Creature — Kithkin Rebel Scout;W;Time Spiral (Common)/Modern Maste
 Dread Return;Sorcery;B;Time Spiral (Uncommon)/Premium Deck Series: Graveborn (Uncommon)/Commander 2014 (Uncommon)/Duel Decks: Blessed vs. Cursed (Uncommon)/Double Masters (Uncommon)/Time Spiral Remastered (Uncommon)/Warhammer 40,000 Commander (Uncommon)/Dominaria Remastered (Uncommon)/Commander Masters (Common);1
 #118874
 Terramorphic Expanse;Land;C;Time Spiral (Common)/Tenth Edition (Common)/Magic 2010 (Common)/Planechase (Common)/Premium Deck Series: Slivers (Common)/Duel Decks: Phyrexia vs. the Coalition (Common)/Archenemy (Common)/Magic 2011 (Common)/Magic: The Gathering-Commander (Common)/Duel Decks: Ajani vs. Nicol Bolas (Common)/Planechase 2012 Edition (Common)/Modern Masters (Common)/Commander 2013 Edition (Common)/Duel Decks: Speed vs. Cunning (Common)/Commander 2014 (Common)/Commander 2015 (Common)/Commander 2016 (Common)/Planechase Anthology (Common)/Commander Anthology (Common)/Commander 2017 (Common)/Commander Anthology 2018 (Common)/Commander 2018 (Common)/Ultimate Masters (Common)/Commander 2019 (Common)/Jumpstart (Common)/Zendikar Rising Commander (Common)/Commander Legends (Common)/Time Spiral Remastered (Common)/Adventures in the Forgotten Realms Commander (Common)/Dominaria United Commander (Common)/Warhammer 40,000 Commander (Common)/The Brothers' War Commander (Common)/Phyrexia: All Will Be One (Common)/March of the Machine Commander (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Commander Masters (Common)/Doctor Who Commander (Common)/The Lost Caverns of Ixalan Commander (Common)/Magic The Gathering—Fallout (Common)/Outlaws of Thunder Junction Commander (Common)/Modern Horizons 3 Commander (Common)/Bloomburrow Commander (Common)/Duskmourn: House of Horror (Common);4
+#121165
+Soul Spike;Instant;B;Coldsnap (Rare);0
 #121193
 Boreal Druid;Snow Creature — Elf Druid;G;Coldsnap (Common);0
 #121259
@@ -5605,6 +5638,8 @@ Ponder;Sorcery;U;Lorwyn (Common)/Magic 2010 (Common)/Magic 2012 (Common)/Command
 Spinerock Knoll;Land;C;Lorwyn (Rare)/Commander 2015 (Rare)/Commander 2016 (Rare)/Ikoria Commander (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Streets of New Capenna Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #139515
 Mosswort Bridge;Land;C;Lorwyn (Rare)/Archenemy (Rare)/Commander 2013 Edition (Rare)/Commander 2015 (Rare)/Duel Decks: Nissa vs. Ob Nixilis (Rare)/Commander 2016 (Rare)/Commander 2017 (Rare)/Commander 2018 (Rare)/Ikoria Commander (Rare)/Commander 2021 (Rare)/Adventures in the Forgotten Realms Commander (Rare)/Streets of New Capenna Commander (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/March of the Machine Commander (Rare)/The Lost Caverns of Ixalan Commander (Rare)/Murders at Karlov Manor Commander (Rare)/Bloomburrow Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#140166
+Thorn of Amethyst;Artifact;C;Lorwyn (Rare)/The Brothers' War Retro Artifacts (Rare)/The Lord of the Rings: Tales of Middle Earth Commander (Mythic Rare);0
 #142020
 Leechridden Swamp;Land — Swamp;C;Shadowmoor (Uncommon)/Planechase (Uncommon)/Duel Decks: Nissa vs. Ob Nixilis (Uncommon)/Jumpstart 2022 (Uncommon)/Duskmourn: House of Horror Commander (Uncommon);1
 #146022
@@ -5745,6 +5780,8 @@ Cackling Counterpart;Instant;U;Innistrad (Rare)/Commander 2014 (Rare)/Modern Mas
 Entreat the Angels;Sorcery;W;Avacyn Restored (Mythic Rare)/From the Vault: Angels (Mythic Rare)/Modern Masters 2017 Edition (Mythic Rare)/Commander 2018 (Mythic Rare)/Duskmourn: House of Horror Commander (Mythic Rare);1
 #249664
 Moldgraf Monstrosity;Creature — Insect;G;Innistrad (Rare)/Commander 2018 (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#253426
+Wolfbitten Captive;Creature - Human Werewolf;G;Dark Ascension (Rare);0
 #253532
 Rakdos, Lord of Riots;Legendary Creature — Demon;B/R;Return to Ravnica (Mythic Rare)/Guild Kit: Rakdos (Mythic Rare)/Commander Legends (Mythic Rare)/Ravnica Remastered (Rare)/Duskmourn: House of Horror Commander (Mythic Rare);1
 #253561
@@ -6067,6 +6104,8 @@ Stormfist Crusader;Creature — Human Knight;B/R;Throne of Eldraine (Rare)/Duskm
 Stonecoil Serpent;Artifact Creature — Snake;C;Throne of Eldraine (Rare)/Commander Masters (Rare);0
 #473204
 Castle Vantress;Land;C;Throne of Eldraine (Rare)/Commander Legends: Battle for Baldur's Gate (Rare)/Modern Horizons 3 Commander (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#473209
+Mystic Sanctuary;Land;C;Throne of Eldraine (Common)/Time Spiral Remastered (Bonus)/Murders at Karlov Manor Commander (Common)/Mystery Booster 2: Convention Edition (Common);0
 #476049
 Arcane Signet;Artifact;C;Throne of Eldraine (Common)/Ikoria Commander (Common)/Zendikar Rising Commander (Common)/Commander Legends (Uncommon)/Kaldheim Commander (Common)/Commander 2021 (Common)/Adventures in the Forgotten Realms Commander (Common)/Innistrad: Midnight Hunt Commander (Common)/Innistrad: Crimson Vow Commander (Common)/Arena Base Set (Common)/Kamigawa: Neon Dynasty Commander (Common)/Streets of New Capenna Commander (Common)/Commander Legends: Battle for Baldur's Gate (Uncommon)/Dominaria United Commander (Common)/Warhammer 40,000 Commander (Common)/The Brothers' War Commander (Common)/Phyrexia: All Will Be One Commander (Common)/March of the Machine Commander (Common)/The Lord of the Rings: Tales of Middle Earth Commander (Common)/Commander Masters (Uncommon)/Wilds of Eldraine Commander (Common)/Doctor Who Commander (Common)/The Lost Caverns of Ixalan Commander (Common)/Murders at Karlov Manor Commander (Common)/Magic The Gathering—Fallout (Uncommon)/Outlaws of Thunder Junction Commander (Common)/Modern Horizons 3 Commander (Common)/Bloomburrow Commander (Common)/Duskmourn: House of Horror Commander (Common)/Mystery Booster 2: Convention Edition (Common)/Magic: The Gathering Foundations Commander (Uncommon);4
 #476052
@@ -6249,6 +6288,8 @@ Boseiju, Who Endures;Legendary Land;C;Kamigawa: Neon Dynasty (Rare);0
 Backup Agent;Creature — Human Citizen;W;Streets of New Capenna (Common);0
 #555270
 Cemetery Tampering;Enchantment;B;Streets of New Capenna (Rare)/Duskmourn: House of Horror Commander (Rare);1
+#555449
+Brokers Hideout;Land;C;Streets of New Capenna (Common);0
 #555453
 Obscura Storefront;Land;C;Streets of New Capenna (Common)/Duskmourn: House of Horror Commander (Common);1
 #562437
@@ -6287,6 +6328,8 @@ Yavimaya Steelcrusher;Creature — Ape Warrior;R;Dominaria United (Common);1
 Bog Badger;Creature — Badger;G;Dominaria United (Common);0
 #574676
 Balmor, Battlemage Captain;Legendary Creature — Bird Wizard;R/U;Dominaria United (Uncommon)/Magic: The Gathering Foundations (Uncommon);1
+#574679
+Ertai Resurrected;Legendary Creature — Phyrexian Human Wizard;U/B;Dominaria United (Rare);0
 #574687
 Nael, Avizoa Aeronaut;Legendary Creature — Elf Scout;U/G;Dominaria United (Uncommon);1
 #574691
@@ -6439,6 +6482,8 @@ Lórien Revealed;Sorcery;U;The Lord of the Rings: Tales of Middle Earth (Common)
 Orcish Bowmasters;Creature — Orc Archer;B;The Lord of the Rings: Tales of Middle Earth (Rare);0
 #616941
 Troll of Khazad-dûm;Creature — Troll;B;The Lord of the Rings: Tales of Middle Earth (Common);0
+#616999
+Generous Ent;Creature — Treefolk;G;The Lord of the Rings: Tales of Middle Earth (Common);0
 #624882
 Ondu Spiritdancer;Creature — Kor Cleric;W;Commander Masters (Rare)/Duskmourn: House of Horror Commander (Rare);1
 #624888
@@ -6447,6 +6492,10 @@ Demon of Fate's Design;Enchantment Creature — Demon;B;Commander Masters (Rare)
 Armory Mice;Creature — Mouse;W;Wilds of Eldraine (Common);0
 #629664
 Blossoming Tortoise;Creature — Turtle;G;Wilds of Eldraine (Mythic Rare);0
+#634565
+Cybermen Squadron;Artifact Creature — Cyberman;C;Doctor Who Commander (Rare);0
+#634869
+Cyberman Patrol;Artifact Creature — Cyberman;C;Doctor Who Commander (Uncommon);0
 #636699
 Dauntless Dismantler;Creature — Human Artificer;W;The Lost Caverns of Ixalan (Uncommon);0
 #646600
@@ -6457,6 +6506,8 @@ Krenko's Buzzcrusher;Artifact Creature — Insect Thopter;R;Murders at Karlov Ma
 Aftermath Analyst;Creature — Elf Detective;G;Murders at Karlov Manor (Uncommon);0
 #646813
 Commercial District;Land — Mountain Forest;C;Murders at Karlov Manor (Rare);0
+#646814
+Elegant Parlor;Land — Mountain Plains;C;Murders at Karlov Manor (Rare);0
 #646824
 Undercity Sewers;Land — Island Swamp;C;Murders at Karlov Manor (Rare);0
 #652178

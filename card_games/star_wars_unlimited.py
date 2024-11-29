@@ -55,13 +55,45 @@ def convert_colors(in_color):
             return []
     return ret_list
 
+def parse_deck(deck_lines, collection_dict_in):
+    """
+    Take a list of lines from a deck that has een read in, and convert the lines
+    into an output dictionary
+    """
+    ret_dict = {}
+    for deck_line in deck_lines:
+        deck_line = deck_line.strip()
+        if deck_line.startswith('//') or deck_line == '':
+            continue
+        cards_needed, this_card_name = deck_line.split("\t")
+        cards_needed = int(cards_needed)
+        if this_card_name not in collection_dict_in:
+            print("Unknown card: " + this_card_name)
+        if this_card_name not in ret_dict:
+            ret_dict[this_card_name] = cards_needed
+        else:
+            ret_dict[this_card_name] += cards_needed
+    return ret_dict
+
+def determine_missing(deck_dict, collection_dict_in):
+    """
+    Given a dictionary for a deck, return what cards I am missing
+    """
+    ret_dict = {}
+    for card, deck_card_qty in deck_dict.items():
+        if collection_dict_in[card] < deck_card_qty:
+            ret_dict[card] = deck_card_qty - collection_dict_in[card]
+    return ret_dict
+
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
+    DECK_DIR = 'card_games/Decks/StarWarsUnlimited'
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 else:
     file_h = open('DB/StarWarsUnlimitedData.txt', 'r', encoding="UTF-8")
+    DECK_DIR = 'Decks/StarWarsUnlimited'
     sys.path.append('.')
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
@@ -72,6 +104,9 @@ lines = [line.strip() for line in lines]
 item_list = []
 TOTAL_MAX = 0
 TOTAL_OWN = 0
+collection_dict = {}
+full_collection = {}
+card_need_dict = {}
 for line in lines:
     if line == '' or line.startswith('#'):
         continue
@@ -97,11 +132,49 @@ for line in lines:
         CARD_MAX = 1
     if card_owned > CARD_MAX:
         CARD_MAX = card_owned
+    collection_dict[card_name] = card_owned
+    full_collection[card_name] = 3
+    if line.split(';')[2] in ['Base', 'Leader']:
+        full_collection[card_name] = 1
 
     TOTAL_MAX += CARD_MAX
     TOTAL_OWN += card_owned
     item_list.append((card_name, this_card_sets, this_card_rarities, card_type, card_colors,
         card_owned, CARD_MAX))
+
+done_decks = []
+MIN_DECK_SIZE = 50
+MIN_DECK_CARDS = {}
+MIN_DECK_NAME = ""
+for file_name in os.listdir(DECK_DIR):
+    this_deck_file = DECK_DIR + "/" + file_name
+    deck_file_h = open(this_deck_file, 'r', encoding="UTF-8")
+    this_deck_lines = deck_file_h.readlines()
+    deck_file_h.close()
+    this_deck_dict = parse_deck(this_deck_lines, collection_dict)
+    missing_cards = determine_missing(this_deck_dict, collection_dict)
+    if len(missing_cards) == 0:
+        done_decks.append(file_name)
+    else:
+        if len(missing_cards) < MIN_DECK_SIZE:
+            MIN_DECK_SIZE = len(missing_cards)
+            MIN_DECK_NAME = file_name
+            MIN_DECK_CARDS = missing_cards
+    for missing_card, missing_card_qty in missing_cards.items():
+        if missing_card not in card_need_dict:
+            card_need_dict[missing_card] = 0
+        card_need_dict[missing_card] += missing_card_qty
+
+missing_full_cards = determine_missing(full_collection, collection_dict)
+for missing_card, missing_card_qty in missing_full_cards.items():
+    if missing_card not in card_need_dict:
+        card_need_dict[missing_card] = 0
+    card_need_dict[missing_card] += missing_card_qty
+
+card_need_sorter = []
+for card_name, card_qty in card_need_dict.items():
+    card_need_sorter.append((card_name, card_qty))
+card_need_sorter = sorted(card_need_sorter, key=lambda x:(-1 * x[1], x[0]))
 
 # Filter by set
 chosen_set, filtered_list = sort_and_filter(item_list, 1)
@@ -131,7 +204,18 @@ if __name__=="__main__":
     next_buy_string = f"Buy a {chosen_color} {chosen_type} from {chosen_set} - perhaps " + \
         f"{picked_item[0]} (have {picked_item[5]} out of {picked_item[6]})"
     double_print(next_buy_string, out_file_h)
-    out_file_h.close()
 
+    double_print(f"\nNeed the ({MIN_DECK_SIZE}) following cards to finish the next closest " + \
+        f"deck ({MIN_DECK_NAME})", out_file_h)
+    double_print(str(list(MIN_DECK_CARDS.items())), out_file_h)
+
+    double_print("\nFollowing decks I own all of the cards for:", out_file_h)
+    double_print(", ".join(done_decks), out_file_h)
+
+    double_print("\nMost needed cards:", out_file_h)
+    for card_tuple in card_need_sorter[:10]:
+        double_print(f"{card_tuple[0]}: {card_tuple[1]}", out_file_h)
+
+    out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):
         input("Press enter to continue...")

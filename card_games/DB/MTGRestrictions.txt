@@ -79,6 +79,7 @@ Mox Pearl;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Mox Ruby;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Mox Sapphire;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Mystic Forge;Vintage-Restricted
+Mystic Sanctuary;Modern-Banned/Pauper-Banned
 Mystical Tutor;Legacy-Banned/Vintage-Restricted
 Natural Order;Oathbreaker-Banned
 Necropotence;Legacy-Banned/Vintage-Restricted
@@ -110,6 +111,7 @@ Survival of the Fittest;Legacy-Banned
 Sylvan Primordial;Oathbreaker-Banned/Commander-Banned
 Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Thawing Glaciers;Ice Age Block-Banned
+Thorn of Amethyst;Vintage-Restricted
 Time Spiral;Urza's Block-Banned
 Time Vault;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Time Walk;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned

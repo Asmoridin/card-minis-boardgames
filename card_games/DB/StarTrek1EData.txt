@@ -118,9 +118,20 @@ Divok;Personnel;Klingon;Premiere/Coming of Age/Trouble with Tribbles Starter Dec
 D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
 D'Kora Transport;Ship;Ferengi;Rules of Acquisition;118,4079;;4;0
 Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
+Doran;Personnel;Cardassian;Holodeck Adventures;121;122;4;0
+Doran;Personnel;Hirogen;Holodeck Adventures;122;121;4;0
+Dorza;Personnel;Cardassian;Mirror, Mirror;123,4834;;4;0
+Dr. Borts;Personnel;Ferengi;Rules of Acquisition;124;;4;0
+Dr. Farek;Personnel;Non-Aligned;Premiere;125,5985,6348,6711;;4;0
+Dr. Fitzgerald;Personnel;Federation;Voyager;126;;4;0
+Dr. Leah Brahms;Personnel;Federation;Premiere;127,5986,6349,6712;;4;0
+Dr. Nydom;Personnel;Non-Aligned;Deep Space 9;128;;4;0
+Dr. Royse;Personnel;Federation;First Contact;129;;4;0
+Drenol;Personnel;Vidiian;Voyager;130;;4;0
 
 
-# Done through card 120 (not a card)
+
+# Done through card 130
 #747
 #1278
 #3067
@@ -144,7 +155,7 @@ Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
 #4462
 #4660-4662
 #4697
-#4833
+#4833-4834
 #4843
 #4864
 #4869
@@ -155,9 +166,9 @@ Dominion Battleship;Ship;Dominion;The Trouble with Tribbles;119;;4;0
 #5640
 #5822
 #5917
-#5966-5984
-#6329-6347
-#6692-6710
+#5966-5986
+#6329-6349
+#6692-6712
 #7055
 #7098-7105
 #7183-7185
