@@ -26,7 +26,8 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
     'Second City', 'Promotional-Ivory', 'Glory of the Empire', 'Stronger Than Steel',
     'Celestial Edition', 'The Truest Test', 'Twenty Festivals', 'The Imperial Gift 3',
-    'Samurai Edition', 'Tomorrow', "Khan's Defiance",
+    'Samurai Edition', 'Tomorrow', "Khan's Defiance", "Promotional-Twenty Festivals",
+    "The Plague War",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',

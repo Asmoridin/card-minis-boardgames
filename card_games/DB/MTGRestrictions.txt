@@ -139,3 +139,5 @@ Wrenn and Six;Legacy-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
+Walking Ballista;Pioneer-Banned
+Disciple of the Vault;Pauper-Banned

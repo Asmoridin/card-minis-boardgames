@@ -1,6 +1,6 @@
 Star Trek 2E CCG Inventory Tracker
 
-Have 106 out of 10583 - 1.00 percent
+Have 187 out of 10585 - 1.77 percent
 Buy a Personnel from Raise the Stakes, maybe Cal Hudson, Convincing Recruiter (have 0 out of 3)
 
 Closest deck to completion is Maquis-Athos.txt, needing just 68 cards:
@@ -8,12 +8,12 @@ Closest deck to completion is Maquis-Athos.txt, needing just 68 cards:
 
 Top ten most needed cards: 
 The Weak Will Perish - 57
-Timescape - 43
 Adopted Authority - 34
 In Development - 34
 More of Gravy Than of Grave - 34
 Unexpected Difficulties - 32
 Polywater Intoxication - 30
 Chula: The Chandra - 28
-Becalmed - 26
 Infestation - 26
+Intimidation - 26
+Nothing to Lose - 25

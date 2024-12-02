@@ -153,7 +153,7 @@ def parse_restrictions(restr_lines):
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
                     'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
-                    'Invasion Block', 'Odyssey Block']:
+                    'Invasion Block', 'Odyssey Block', 'Onslaught Block']:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -180,7 +180,6 @@ def parse_restrictions(restr_lines):
     # Ravnica block (Ravnica: City of Guilds, Guildpact, Dissension)
     # Kamigawa block (Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa)
     # Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
-    # Onslaught block (Onslaught, Legions, Scourge)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -241,6 +240,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handles Odyssey block (Odyssey, Torment, Judgment)
             if this_set in ['Odyssey', 'Torment', 'Judgment']:
                 ret_formats['Odyssey Block'] = 4
+            # Handles Onslaught block (Onslaught, Legions, Scourge)
+            if this_set in ['Onslaught', 'Legions', 'Scourge']:
+                ret_formats['Onslaught Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -531,6 +533,10 @@ if __name__ == "__main__":
     # Odyssey Block
     odys_dict = process_formats("Odyssey Block")
     handle_output("Odyssey Block", odys_dict, out_file_h)
+
+    # Onslaught Block
+    ons_dict = process_formats("Onslaught Block")
+    handle_output("Onslaught Block", ons_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander")

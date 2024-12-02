@@ -128,10 +128,19 @@ Dr. Leah Brahms;Personnel;Federation;Premiere;127,5986,6349,6712;;4;0
 Dr. Nydom;Personnel;Non-Aligned;Deep Space 9;128;;4;0
 Dr. Royse;Personnel;Federation;First Contact;129;;4;0
 Drenol;Personnel;Vidiian;Voyager;130;;4;0
+Dukath;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;131,5987,6350,6713,7106;;4;0
+Duran'Adar;Personnel;Dominion;Blaze of Glory;132;;4;0
+D'vano;Personnel;Romulan;Mirror, Mirror;133;;4;0
+D'Vin;Personnel;Romulan;Blaze of Glory;134;;4;0
+E.M.H. Program;Personnel;Federation;First Contact;135;;4;0
+E.M.H.-Mark II;Personnel;Federation;Holodeck Adventures;136;;4;0
+Edan'Atal;Personnel;Dominion;Rules of Acquisition;137;;4;0
+Eight of Eighteen;Personnel;Borg;The Borg;138;;4;0
+Eight of Fifteen;Personnel;Borg;The Borg;139;;4;0
+Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
 
 
-
-# Done through card 130
+# Done through card 140
 #747
 #1278
 #3067
@@ -166,11 +175,11 @@ Drenol;Personnel;Vidiian;Voyager;130;;4;0
 #5640
 #5822
 #5917
-#5966-5986
-#6329-6349
-#6692-6712
+#5966-5987
+#6329-6350
+#6692-6713
 #7055
-#7098-7105
+#7098-7106
 #7183-7185
 #7251
 #7327
