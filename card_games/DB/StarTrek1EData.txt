@@ -138,10 +138,21 @@ Edan'Atal;Personnel;Dominion;Rules of Acquisition;137;;4;0
 Eight of Eighteen;Personnel;Borg;The Borg;138;;4;0
 Eight of Fifteen;Personnel;Borg;The Borg;139;;4;0
 Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
+Eighteen of Nineteen;Personnel;Borg;First Contact;141;;4;0
+Eleven of Eighteen;Personnel;Borg;The Borg;142;;4;0
+Eleven of Nineteen;Personnel;Borg;First Contact;143;;4;0
+Eleven of Seventeen;Personnel;Borg;Enhanced First Contact;144;;4;0
+Eleven of Twelve;Personnel;Borg;The Borg;145;;4;0
+Enhanced Attack Ship;Ship;Dominion;Mirror, Mirror;146;;4;0
+Ensign Davis;Personnel;Federation;Mirror, Mirror;147,4844;;4;0
+Ensign Gaffney;Personnel;Federation;Mirror, Mirror;148,4845;;4;0
+Eris;Personnel;Dominion;The Dominion;149,4421;;4;0
+Establish Relations;Mission;Planet;Official Tournament Sealed Deck;150,5900;;4;0
 
-
-# Done through card 140
+# Done through card 150
 #747
+#1029:
+Romulan Outpost;Facility;Romulan;Premiere/Homefront VI;1029,6817,4052,4706,6091,6454;;4;1
 #1278
 #3067
 #3407
@@ -149,7 +160,7 @@ Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
 #3529
 #3581
 #3927
-#4053
+#4052-4053
 #4070
 #4078-4079
 #4112
@@ -157,6 +168,7 @@ Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
 #4259
 #4406
 #4412-4413
+#4421
 #4423
 #4442
 #4447-4448
@@ -164,8 +176,9 @@ Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
 #4462
 #4660-4662
 #4697
+#4706
 #4833-4834
-#4843
+#4843-4845
 #4864
 #4869
 #4874
@@ -174,10 +187,14 @@ Eight of Nineteen;Personnel;Borg;First Contact;140;;4;0
 #5503-5504
 #5640
 #5822
+#5900
 #5917
 #5966-5987
+#6091
 #6329-6350
+#6454
 #6692-6713
+#6817
 #7055
 #7098-7106
 #7183-7185

@@ -106,6 +106,16 @@ A Pure Stroke;Strategy;;Hidden Emperor 6 (Rare);Hidden Emperor (Jade);3;0
 A Quest Abandoned;Event;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);1;0
 A Quiet Transaction;Strategy;;Second City (Uncommon);Age of Conquest (Emperor);3;0
 A Quiet Transaction;Strategy;;Second City (Uncommon);Destroyer War (Celestial);3;0
+A Rival Eliminated;Strategy;;Glory of the Empire (Common);Destroyer War (Celestial);3;0
+A Rival Eliminated;Strategy;;Glory of the Empire (Common);Race for the Throne (Samurai);3;0
+A Sage's Counsel;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
+A Samurai Never Stands Alone;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+A Samurai Never Stands Alone;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;0
+A Samurai's Anger;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;0
+A Samurai's Fury;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
+A Samurai's Fury;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
+A Samurai's Fury;Strategy;;Crimson and Jade (Rare);Clan Wars (Imperial);3;0
 
-
-# Done through card #70
+# Done through card #75
+#4327
+Kenson Gakka;Stronghold;Lion;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1

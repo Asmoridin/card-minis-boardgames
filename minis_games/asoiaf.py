@@ -15,6 +15,10 @@ VALID_FACTIONS = ['Lannister', 'Neutral', 'Stark', 'Free Folk', "Night's Watch",
 VALID_TYPES = ['Commander', 'Infantry', 'Cavalry', 'Infantry Attachment', 'Cavalry Attachment',
     'Monster', 'NCU', 'War Machine', 'Cards']
 
+MY_CURRENT_ARMIES = ['Stark', 'Lannister', 'Targaryen']
+MY_FUTURE_ARMIES = ['Neutral', 'Martell', 'Free Folk', 'Bolton', "Night's Watch", 'Greyjoy', \
+    'Baratheon']
+
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('minis_games/DB/ASOIAFData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
@@ -88,7 +92,28 @@ for line in lines:
     TOTAL_OWN += model_own
     mini_lines.append((model_name, model_factions, m_types, model_pts, model_own, model_max))
 
-faction_choice, filtered_list = sort_and_filter(mini_lines, 1)
+# Limiting myself to either the armies I play, or the next army in the list
+faction_map = {}
+for item_tuple in mini_lines:
+    for army in item_tuple[1]:
+        if army not in MY_CURRENT_ARMIES:
+            continue
+        if army not in faction_map:
+            faction_map[army] = [0, 0]
+        faction_map[army][0] += item_tuple[4]
+        faction_map[army][1] += item_tuple[5]
+fac_list = []
+for map_fac, map_inv in faction_map.items():
+    fac_list.append((map_fac, map_inv[0], map_inv[1]))
+fac_list = sorted(fac_list, key=lambda x:(x[1]/x[2], x[0]))
+FILTERED_FACTION = fac_list[0][0]
+if (len(MY_CURRENT_ARMIES) / len(VALID_FACTIONS)) < (fac_list[0][1] / fac_list[0][2]):
+    FILTERED_FACTION = MY_FUTURE_ARMIES[0]
+filtered_list = []
+for check_line in mini_lines:
+    if FILTERED_FACTION in check_line[1]:
+        filtered_list.append(check_line)
+
 type_choice, filtered_list = sort_and_filter(filtered_list, 2)
 item_choice, filtered_list = sort_and_filter(filtered_list, 0)
 
@@ -105,7 +130,7 @@ if __name__ == "__main__":
     own_pct = TOTAL_OWN / TOTAL_MAX * 100
     double_print(f"I own {TOTAL_OWN} out of {TOTAL_MAX} list items for this game " + \
         f"({own_pct:.2f} percent)", out_file_h)
-    double_print(f"Maybe purchase a(n) {type_choice} from {faction_choice} - perhaps a " + \
+    double_print(f"Maybe purchase a(n) {type_choice} from {FILTERED_FACTION} - perhaps a " + \
         f"{item_choice} (have {filtered_list[4]} out of {filtered_list[5]})", out_file_h)
 
     double_print(f"\nI own {COMMANDER_OWN} out of {COMMANDER_COUNT} Commanders", out_file_h)

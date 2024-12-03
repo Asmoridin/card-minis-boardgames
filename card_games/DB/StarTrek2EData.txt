@@ -51,7 +51,7 @@ Aftermath;P;Dilemma;;Reflections 2.0;Print;3;0
 Aggressive Behavior;R;Dilemma;;Second Edition;Print;3;0
 Aggressive Solutions;C;Event;;To Boldly Go;Print;3;0
 Agonizer;V;Equipment;;The Nth Degree;Virtual;3;0
-Agonizing Encounter;R/VP;Dilemma;;To Boldly Go/Virtual Promo;Both;3;0
+Agonizing Encounter;R/VP;Dilemma;;To Boldly Go/Virtual Promo;Both;4;3 // Have 3 TBG
 Agricultural Assessment;V;Mission;;Matter of Time;Virtual;2;0
 Ah-Kel;V;Personnel;Non-Aligned;Hard Time;Virtual;3;0
 Aid Clone Colony;U;Mission;;Energize;Print;2;0
@@ -108,8 +108,8 @@ Amat'igan, Founder Bodyguard;V;Personnel;Dominion;Peak Performance;Virtual;3;0
 Ambassador Gral, High-Ranking Official;C;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 Ambitious Intellect;V;Interrupt;;Unnatural Selection;Virtual;3;0
 Ammut'alar, Unexpected Threat;V;Ship;Dominion;Tacking Into the Wind;Virtual;3;0
-An Issue of Trust;R/VP;Dilemma;;Captain's Log/Virtual Promo;Both;3;0
-An Old Debt;S;Dilemma;;Call to Arms;Print;3;0
+An Issue of Trust;R/VP;Dilemma;;Captain's Log/Virtual Promo;Both;3;3
+An Old Debt;S;Dilemma;;Call to Arms;Print;3;3
 Anachronistic Deviation;V;Dilemma;;Face of the Enemy;Virtual;3;0
 Anachronistic Meddlers;V;Dilemma;;All Our Yesterdays;Virtual;3;0
 Analyze;S;Interrupt;;Call to Arms;Print;3;2
@@ -130,7 +130,7 @@ Anneli;C;Personnel;Bajoran;Necessary Evil;Print;3;0
 Annexation Drone;P;Personnel;Borg;Reflections 2.0;Print;3;0
 Annorax, Temporal Architect;V;Personnel;Non-Aligned;The Undiscovered Country;Virtual;3;0
 Antarian Sector, Host Trans-stellar Rally;V;Mission;;Classification: Civilian;Virtual;2;0
-Antedean Assassins;C;Dilemma;;Second Edition;Print;3;2
+Antedean Assassins;C;Dilemma;;Second Edition;Print;3;3
 Anthony Braxton, Forward-thinking Recruiter;V;Personnel;Federation;Matter of Time;Virtual;3;0
 Anthwara, Leader of the Tribal Council;V;Personnel;Federation;Unity;Virtual;3;0
 Anthwara, Steadfast Elder;V;Personnel;Federation;A Time to Stand;Virtual;3;0
@@ -160,16 +160,16 @@ Armed Search Party;R;Dilemma;;Captain's Log;Print;3;0
 Armus Roulette;R;Dilemma;;Second Edition;Print;3;0
 Arne Darvin, "Hero of the Empire";V;Personnel;Klingon;Far Beyond the Stars;Virtual;3;0
 Arrest Order;R;Interrupt;;Second Edition;Print;3;0
-Arresting Display;V;Dilemma;;Shattered Mirror;Virtual;3;0
+Arresting Display;V;Dilemma;;Shattered Mirror;Virtual;3;3
 Arridor, "Great Sage";R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Arrogance;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
 Artificial Ability;V/VP;Dilemma;;Unnatural Selection/Virtual Promo;Virtual;3;0
 Artificial Wormhole;V;Dilemma;;Favor the Bold;Virtual;3;0
 Artim, Inspirational Child;V;Personnel;Non-Aligned;Heroes and Demons;Virtual;3;0
-Artistic License;V;Dilemma;;Balance of Terror;Virtual;3;0
+Artistic License;V;Dilemma;;Balance of Terror;Virtual;3;3
 Ascertain;R;Interrupt;;Strange New Worlds;Print;3;0
 Assassin Team;V;Dilemma;;Raise the Stakes;Virtual;3;0
-Assassin's Blade;C;Dilemma;;Second Edition;Print;3;0
+Assassin's Blade;C;Dilemma;;Second Edition;Print;3;3
 Assassination Attempt;R;Dilemma;;Second Edition;Print;3;0
 Assassination Plot;R;Event;;Energize;Print;3;0
 Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;0
@@ -180,7 +180,7 @@ Assimilated Transport;V;Ship;Borg;Raise the Stakes;Virtual;3;0
 Assimilation Techniques;C;Event;;To Boldly Go;Print;3;0
 Assimilator, Rogue Borg Vessel;VP;Ship;Non-Aligned;Virtual Promo;Virtual;3;0
 Assist Cloaked Ship;U;Mission;;To Boldly Go;Print;2;0
-Assist Rescue Operation;U;Dilemma;;To Boldly Go;Print;3;0
+Assist Rescue Operation;U;Dilemma;;To Boldly Go;Print;3;2
 Astrometrics Lab;C;Event;;Second Edition;Print;3;0
 At What Cost?;R;Event;;Necessary Evil/Infinite Diversity Remastered/Virtual Promo;Both;3;0
 At an Impasse;U;Event;;Necessary Evil;Print;3;0
@@ -225,7 +225,7 @@ Ba'ku Planet, Collect Metaphasic Particles;V;Mission;;Heroes and Demons;Virtual;
 Ba'ku Planet, Safeguard Civilization;V;Mission;;Star Trek 50;Virtual;2;0
 BaH!;U;Event;;Second Edition;Print;3;3
 Back Room Dealings;C/VP;Dilemma;;Necessary Evil/Virtual Promo;Both;3;0
-Back to Basics;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;0
+Back to Basics;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;1 // have 1 WYLB
 Back-Flush Bussard Collectors;U;Event;;Second Edition;Print;3;0
 Badar N'D'D, Parliamentary Predator;V;Personnel;Non-Aligned;The Omega Directive;Virtual;3;0
 Bahrat's Space Station, Negotiate for Supplies;V;Mission;;Caretaker;Virtual;2;0
@@ -265,7 +265,7 @@ Battle Lust;U;Event;;Necessary Evil;Print;3;0
 Battle Reconnaissance;S;Mission;;Call to Arms;Print;2;0
 Baxial, Salvage Ship;C;Ship;Non-Aligned;Captain's Log;Print;3;0
 Baxter, Wandering Security Officer;U;Personnel;Federation;Captain's Log;Print;3;0
-Becalmed;V;Dilemma;;A Time to Stand;Virtual;3;1
+Becalmed;V;Dilemma;;A Time to Stand;Virtual;3;3
 Bejal Otner, Wormhole Theorist;U;Personnel;Federation;These Are The Voyages;Print;3;0
 Ben, Civilian Server;V;Personnel;Federation;Classification: Civilian;Virtual;3;0
 Benjamin Finney, Bitter Records Officer;C;Personnel;Federation;What You Leave Behind;Print;3;0
@@ -293,11 +293,11 @@ Berik, Now Boarding;V;Personnel;Ferengi;Heroes and Demons;Virtual;3;0
 Berild;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Berlinghoff Rasmussen, Temporal "Historian";V;Personnel;Non-Aligned;Peak Performance;Virtual;3;0
 Berman;V;Personnel;Federation;Caretaker;Virtual;3;0
-Berserk Changeling;R;Dilemma;;Second Edition;Print;3;2
-Best Interests at Heart;V;Dilemma;;Favor the Bold;Virtual;3;0
+Berserk Changeling;R;Dilemma;;Second Edition;Print;3;3
+Best Interests at Heart;V;Dilemma;;Favor the Bold;Virtual;3;3
 Betazed, Occupy Homeworld;V;Mission;;A Time to Stand;Virtual;2;0
 Betazed, Seize Asset;V;Mission;;Heroes and Demons;Virtual;2;0
-Between Duty and Respect;U;Dilemma;;To Boldly Go;Print;3;0
+Between Duty and Respect;U;Dilemma;;To Boldly Go;Print;3;2
 Beverly Crusher, Battleship Doctor;C;Personnel;Federation;In a Mirror Darkly;Print;3;0
 Beverly Crusher, Captain Picard;C/VP;Personnel;Federation;What You Leave Behind/Virtual Promo;Both;3;0
 Beverly Crusher, Chief Medical Officer;R;Personnel;Federation;Second Edition;Print;3;0
@@ -307,7 +307,7 @@ Beverly Crusher, Principled Physician;V;Personnel;Federation;Heroes and Demons;V
 Bevvox, Ancient Intellect;V;Personnel;Non-Aligned;The Omega Directive;Virtual;3;0
 Bhavani;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Bigger Tattoo;R;Event;;In a Mirror Darkly;Print;3;0
-Bio-neural Computer Core;R;Dilemma;;Dangerous Missions;Print;3;0
+Bio-neural Computer Core;R;Dilemma;;Dangerous Missions;Print;3;3
 Bio-ship Attack;V;Dilemma;;Caretaker;Virtual;3;0
 Biochemical Hyperacceleration;R;Dilemma;;Necessary Evil;Print;3;0
 Biogenic Weapon;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
@@ -325,7 +325,7 @@ Bochra, Loyal Centurion;U;Personnel;Romulan;Necessary Evil;Print;3;0
 Boheeka, Clandestine Connection;U;Personnel;Cardassian;Energize;Print;3;0
 Bok, Spiteful Salvager;V;Personnel;Ferengi;Sacrifice of Angels;Virtual;3;0
 Bok, Vengeful DaiMon;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Bold Plan;V;Dilemma;;Favor the Bold;Virtual;3;0
+Bold Plan;V;Dilemma;;Favor the Bold;Virtual;3;3
 Boon of the Celestial Temple;V;Event;;Matter of Time;Virtual;3;0
 Boothby, Groundskeeper;C;Personnel;Federation;To Boldly Go;Print;3;0
 Boq'ta;V;Personnel;Federation;Unity;Virtual;3;0
@@ -354,11 +354,11 @@ Bralek;R;Ship;Cardassian;Second Edition;Print;3;0
 Branson;V;Personnel;Federation;Face of the Enemy;Virtual;3;0
 Braslota, Advanced Battle Simulation;U;Mission;;Strange New Worlds;Print;2;0
 Brathaw, First Mate;V;Personnel;Non-Aligned;Hard Time;Virtual;3;0
-Brave Words;V;Dilemma;;A Time to Stand;Virtual;3;0
-Bre'Nan Ritual;R;Dilemma;;To Boldly Go;Print;3;0
+Brave Words;V;Dilemma;;A Time to Stand;Virtual;3;3
+Bre'Nan Ritual;R;Dilemma;;To Boldly Go;Print;3;1
 Breach Barrier;V;Mission;;The Undiscovered Country;Virtual;2;0
 Breached;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
-Bread and Circuses;V;Dilemma;;Zero Hour;Virtual;3;0
+Bread and Circuses;V;Dilemma;;Zero Hour;Virtual;3;3
 Breaking the Ice;V;Dilemma;;The Undiscovered Country;Virtual;3;0
 Bred for Battle;R;Event;;Call to Arms;Print;3;0
 Breen CRM 114;V;Equipment;;The Nth Degree;Virtual;3;0
@@ -372,7 +372,7 @@ Bridon;V;Personnel;Vidiian;Phage;Virtual;3;0
 Brief Reunion;U;Event;;Energize;Print;3;0
 Brilgar;C;Personnel;Bajoran;Second Edition;Print;3;0
 Brin;V;Personnel;Bajoran;Hard Time;Virtual;3;0
-Brink of War;V;Dilemma;;Zero Hour;Virtual;3;0
+Brink of War;V;Dilemma;;Zero Hour;Virtual;3;3
 Brinkmanship;R;Event;;Strange New Worlds;Print;3;0
 Briori Sector, Investigate Corrosion;V;Mission;;Lower Decks;Virtual;2;0
 Broca, "Leader" of the Cardassian Union;V;Personnel;Cardassian;Extreme Measures;Virtual;3;0
@@ -396,7 +396,7 @@ Brute Force;U;Mission;;Energize;Print;2;0
 Building a Bridge;R;Event;;Call to Arms;Print;3;0
 Burrows, Diagnostic Tech;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Bustling with Activity;P;Event;;Reflections 2.0;Print;3;0
-Bynars' Password;C;Dilemma;;Second Edition;Print;3;0
+Bynars' Password;C;Dilemma;;Second Edition;Print;3;3
 Cadet Review;V;Dilemma;;Unnatural Selection;Virtual;3;0
 Caithlin Dar, Innocent Consul;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Cal Hudson, Attaché to the Demilitarized Zone;U;Personnel;Federation;Energize;Print;3;0
@@ -423,12 +423,12 @@ Cardassia Prime, Secure Homeworld;V;Mission;;The Omega Directive/Second Skin;Vir
 Cardassia Prime, Subjugated Planet;V;Mission;;Apocalypse Rising/Move Along Home;Virtual;2;0
 Cardassian Outskirts, Kressari Rendezvous;U/VP;Mission;;Second Edition/Virtual Promo;Print;2;0
 Cardassian Phaser Pistol;U;Equipment;;Second Edition;Print;3;0
-Cardassian Processing;R;Dilemma;;To Boldly Go;Print;3;0
+Cardassian Processing;R;Dilemma;;To Boldly Go;Print;3;1
 Cardassian Protectorate;P;Event;;Fractured Time;Print;3;0
 Caretaker's Array;U;Mission;;Captain's Log/Move Along Home;Both;2;0
 Caretaker's Wave;C;Dilemma;;What You Leave Behind;Print;3;0
 Cargo Haul;U;Mission;;Energize;Print;2;0
-Cargo Pirates;C;Dilemma;;What You Leave Behind;Print;3;0
+Cargo Pirates;C;Dilemma;;What You Leave Behind;Print;3;3
 Cargo Rendezvous;U;Mission;;Second Edition;Print;2;0
 Cargo Run;C;Event;;Energize;Print;3;0
 Carlson;V;Personnel;Federation;Caretaker;Virtual;3;0
@@ -447,7 +447,7 @@ Cave-In;U;Dilemma;;Necessary Evil;Print;3;0
 Cavit, Apprehensive First Officer;U;Personnel;Federation;Captain's Log;Print;3;0
 Cellular Peptide Cake;P;Event;;Genesis;Print;3;0
 Celtris III, Construct Elaborate Trap;V;Mission;;Continuing Mission;Virtual;2;0
-Center of Attention;C;Dilemma;;Second Edition;Print;3;0
+Center of Attention;C;Dilemma;;Second Edition;Print;3;3
 Ceres Ecliptic, Intercept Perceived Threat;V;Mission;;Zero Hour;Virtual;2;0
 Ceti Alpha V, Find Lifeless World;U;Mission;;What You Leave Behind;Print;2;0
 Ceti Alpha V, Forge Settlement;V;Mission;;Move Along Home/Unnatural Selection;Virtual;2;0
@@ -472,7 +472,7 @@ Changeling Infiltrator;V;Personnel;Dominion;Legacy;Virtual;3;0
 Changeling Research;U;Mission;;Second Edition;Print;2;0
 Changeling Sabotage;U;Event;;Call to Arms;Print;3;0
 Charged-Particle Precipitation;U;Dilemma;;Strange New Worlds;Print;3;0
-Charismatic Mimic;V;Dilemma;;Balance of Terror;Virtual;3;0
+Charismatic Mimic;V;Dilemma;;Balance of Terror;Virtual;3;3
 Charles Tucker III, "Trip";C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Charles Tucker III, Chief Engineer;R;Personnel;Starfleet;Captain's Log;Print;3;0
 Charles Tucker III, Competent Engineer;C;Personnel;Starfleet;In a Mirror Darkly;Print;3;0
@@ -494,13 +494,13 @@ Christopher Pike, Bold Commander;V;Personnel;Federation;Star Trek 50;Virtual;3;0
 Christopher Pike, Prospective Orion Trader;V;Personnel;Non-Aligned;Classification: Civilian;Virtual;3;0
 Chronology Drone;V;Personnel;Borg;Caretaker;Virtual;3;0
 Chu'lak, Calculating Killer;V;Personnel;Federation;The Nth Degree;Virtual;3;0
-Chula: Echoes;C;Dilemma;;Second Edition;Print;3;2
-Chula: Move Along Home;U;Dilemma;;To Boldly Go;Print;3;0
-Chula: Pick One to Save Two;C;Dilemma;;Second Edition;Print;3;2
-Chula: The Chandra;U/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;0
+Chula: Echoes;C;Dilemma;;Second Edition;Print;3;1
+Chula: Move Along Home;U;Dilemma;;To Boldly Go;Print;3;3
+Chula: Pick One to Save Two;C;Dilemma;;Second Edition;Print;3;3
+Chula: The Chandra;U/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;2 // 2 from WYLB
 Chula: The Dice;R;Dilemma;;In a Mirror Darkly;Print;3;1
-Chula: The Game;V/VP;Dilemma;;Return to Grace/Virtual Promo;Virtual;3;0
-Chula: The Precipice;V;Dilemma;;Legacy;Virtual;3;0
+Chula: The Game;V/VP;Dilemma;;Return to Grace/Virtual Promo;Virtual;3;3
+Chula: The Precipice;V;Dilemma;;Legacy;Virtual;3;3
 Chula: Trickery;V;Dilemma;;Return to Grace;Virtual;3;0
 Chula: Unfortunate Roll;V;Dilemma;;Favor the Bold;Virtual;3;3
 Clandestine Agent;C;Interrupt;;Strange New Worlds;Print;3;0
@@ -515,7 +515,7 @@ Cloak and Dagger;V;Interrupt;;Tacking Into the Wind;Virtual;3;0
 Close Call;C;Dilemma;;Call to Arms;Print;3;0
 Cluttering Irrelevancies;U;Interrupt;;Strange New Worlds;Print;3;0
 Cochrane, Voyager Shuttle;C;Ship;Federation;Captain's Log;Print;3;0
-Code Forty-Seven;V;Dilemma;;Peak Performance;Virtual;3;0
+Code Forty-Seven;V;Dilemma;;Peak Performance;Virtual;3;3
 Code of Honor;R;Dilemma;;Strange New Worlds;Print;3;0
 Code of the Ushaan;V;Event;;Sacrifice of Angels;Virtual;3;0
 Coil Spanner;V;Equipment;;Strange Bedfellows;Virtual;3;0
@@ -538,7 +538,7 @@ Common Ground;R;Event;;Energize;Print;3;0
 Common Purpose;V/VP;Event;;Strange Bedfellows/Virtual Promo;Virtual;3;0
 Compassionate Interference;U;Dilemma;;Captain's Log;Print;3;0
 Complications;R;Event;;Energize;Print;3;0
-Compromised Experiment;V;Dilemma;;Shattered Mirror;Virtual;3;0
+Compromised Experiment;V;Dilemma;;Shattered Mirror;Virtual;3;3
 Compromised Tactics;V;Dilemma;;Lower Decks;Virtual;3;0
 Computation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Conceal Unlikely Society;V;Mission;;Lineage;Virtual;2;0

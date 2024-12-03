@@ -21,7 +21,8 @@ else:
 PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Deep Space 9',
     'Mirror, Mirror', 'First Contact', 'The Trouble with Tribbles', 'All Good Things', 'The Borg',
     'Blaze of Glory', 'Rules of Acquisition', 'The Motion Pictures', 'Alternate Universe', 
-    'The Dominion', 'Starter Deck II', 'Holodeck Adventures', 'Official Tournament Sealed Deck',]
+    'The Dominion', 'Starter Deck II', 'Holodeck Adventures', 'Official Tournament Sealed Deck',
+    'Enhanced First Contact']
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
     'Homefront VI', 'Homefront V', 'Coming of Age',]
 
@@ -34,12 +35,16 @@ class Card:
     """
     Encapsulating class for a card, to help me handle the variety of card numbers for a card.
     """
-    def __init__(self, card_name, card_type, card_affil, card_sets, card_numbers, card_alt_fac_num):
-        self.card_name = card_name
-        self.card_type = card_type
-        self.card_affil = card_affil
-        self.card_sets = card_sets
-        self.card_numbers = card_numbers
+    def __init__(self, in_card_name, in_card_type, in_card_affil, in_card_sets, in_card_numbers,
+        in_card_alt_fac_num):
+        """
+        Basic constructor of this card object
+        """
+        self.card_name = in_card_name
+        self.card_type = in_card_type
+        self.card_affil = in_card_affil
+        self.card_sets = in_card_sets
+        self.canon_number = min(in_card_numbers)
 
 in_lines = file_h.readlines()
 file_h.close()
@@ -48,18 +53,20 @@ in_lines = [line.strip() for line in in_lines]
 TOTAL_OWN = 0
 TOTAL_MAX = 0
 card_names = set()
+card_lines = []
+card_map = {}
 for line in in_lines:
     if line == '' or line.startswith('#'):
         continue
     line = line.split('#')[0].strip() # Handle in-line comments
     try:
-        card_name, card_type, card_affil, card_sets, card_numbers, card_alt_fac_num, card_max, \
+        card_name, card_type, card_affil, card_sets, card_numbers_str, card_alt_fac_num, card_max, \
             card_own = line.split(';')
     except ValueError:
         print("Issue with line:")
         print(line)
         continue
-    if card_name in card_names:
+    if card_name in card_names and card_alt_fac_num == "":
         print(f"Duplicate card name: {card_name}")
     card_names.add(card_name)
     if card_type not in VALID_TYPES:
@@ -90,11 +97,24 @@ for line in in_lines:
     elif IS_VIRTUAL:
         CARD_PRINT.append('Virtual')
 
-    #TODO: Card Numbers
+    card_numbers = []
+    for card_num in card_numbers_str.split(','):
+        card_num = int(card_num)
+        card_numbers.append(card_num)
+    alt_numbers = []
+    if card_alt_fac_num != "":
+        for card_num in card_alt_fac_num.split(','):
+            card_num = int(card_num)
+            alt_numbers.append(card_num)
+
     card_max = int(card_max)
     card_own = int(card_own)
     TOTAL_MAX += card_max
     TOTAL_OWN += card_own
+    card_lines.append([card_name, card_type, card_affil, card_sets, card_numbers, \
+        alt_numbers, card_max, card_own])
+
+print(card_lines)
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):

@@ -21,6 +21,10 @@ else:
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item']
+PREGAME_TYPES = ['Stronghold']
+
+VALID_CLANS = ['Lion']
+
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
     'Battle of Kyuden Tonbo', 'The Harbinger', 'Emperor Edition', 'Forgotten Legacy',
@@ -36,7 +40,7 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     'Promotional-Lotus', 'Training Grounds 2', 'Hidden City', 'Heaven & Earth', 'Shadowlands',
     'Gold Edition', 'Jade Edition', 'Pearl Edition', 'Crimson and Jade', 'Time of the Void',
     'Path of Hope', 'Anvil of Despair', "An Oni's Fury", 'Honor Bound', 'Promotional-Gold',
-    'Promotional-Diamond',
+    'Promotional-Diamond', 'Scorpion Clan Coup 1',
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
@@ -95,11 +99,14 @@ for line in in_lines:
         CARD_DECK = 'Dynasty'
     elif card_type in FATE_CARD_TYPES:
         CARD_DECK = 'Fate'
+    elif card_type in PREGAME_TYPES:
+        CARD_DECK = 'Pre-Game'
     else:
         print(f"Unknown card type: {card_type}")
         continue
-    if card_clan != '':
-        print(card_clan)
+    if card_clan != '' and card_clan not in VALID_CLANS:
+        print(f"Invalid clan: {card_clan}")
+        continue
     card_sets, card_rarities, modern_legal = parse_sets(card_name, card_sets)
     if card_format not in VALID_FORMATS:
         print(f"Invalid format: {card_format}")
@@ -127,14 +134,16 @@ for _, card_item in modern_cards.items():
     card_lines.append(card_item)
     format_map['Modern'][0] += card_item[7]
     format_map['Modern'][1] += card_item[8]
-print(format_map)
 
 format_choice, filtered_list = sort_and_filter(card_lines, 6)
 deck_choice, filtered_list = sort_and_filter(filtered_list, 2)
 set_choice, filtered_list = sort_and_filter(filtered_list, 4)
-print(format_choice)
-print(deck_choice)
-print(set_choice)
+type_choice, filtered_list = sort_and_filter(filtered_list, 1)
+CLAN_CHOICE = ""
+if type_choice in ['Personality', 'Stronghold']:
+    CLAN_CHOICE, filtered_list = sort_and_filter(filtered_list, 3)
+_, filtered_list = sort_and_filter(filtered_list, 5)
+card_name, filtered_list = sort_and_filter(filtered_list, 0)
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
@@ -145,5 +154,18 @@ if __name__=="__main__":
     double_print("Legend of the Five Rings CCG Inventory Tracker Tool\n", out_file_h)
     double_print(f"I own {TOTAL_OWN} out of {TOTAL_MAX} total cards - " + \
         f"{100 * TOTAL_OWN/TOTAL_MAX:.2f} percent\n", out_file_h)
+
+    if CLAN_CHOICE == "":
+        type_str = type_choice
+    else:
+        type_str = CLAN_CHOICE + " " + type_choice
+    double_print(f"Suggested purchase is a {type_str} from {set_choice}: {card_name} (own " + \
+        f"{filtered_list[0][7]} out of {filtered_list[0][8]})", out_file_h)
+
+    double_print("\nCurrent inventory percentage by format:", out_file_h)
+    format_sorter = format_map.items()
+    format_sorter = sorted(format_sorter, key=lambda x:(-1 * x[1][0]/x[1][1], x[1][1] - x[1][0]))
+    for format_name, fown in format_sorter:
+        double_print(f"{format_name}: {100*fown[0]/fown[1]:.2f} ({fown[0]}/{fown[1]})", out_file_h)
 
     out_file_h.close()
