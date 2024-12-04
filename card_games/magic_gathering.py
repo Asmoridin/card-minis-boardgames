@@ -153,7 +153,7 @@ def parse_restrictions(restr_lines):
             if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
                     'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
                     'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
-                    'Invasion Block', 'Odyssey Block', 'Onslaught Block']:
+                    'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',]:
                 print("Unknown format: " + this_format)
             if bnr not in ['Banned', 'Restricted']:
                 print("Unknown status: " + bnr)
@@ -179,7 +179,6 @@ def parse_restrictions(restr_lines):
     # Time Spiral block (Time Spiral, Planar Chaos, Future Sight)
     # Ravnica block (Ravnica: City of Guilds, Guildpact, Dissension)
     # Kamigawa block (Champions of Kamigawa, Betrayers of Kamigawa, Saviors of Kamigawa)
-    # Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
 
 def parse_sets(this_card_name, card_set_string, card_restrictions):
     """
@@ -243,6 +242,9 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
             # Handles Onslaught block (Onslaught, Legions, Scourge)
             if this_set in ['Onslaught', 'Legions', 'Scourge']:
                 ret_formats['Onslaught Block'] = 4
+            # Handles Mirrodin block (Mirrodin, Darksteel, Fifth Dawn)
+            if this_set in ['Mirrodin', 'Darksteel', 'Fifth Dawn']:
+                ret_formats['Mirrodin Block'] = 4
         else:
             print("[" + this_card_name + "] Issue with: " + card_set)
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
@@ -393,8 +395,8 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Odyssey"
-CHECK_AMOUNT = 335
+CHECK_SET = "Torment"
+CHECK_AMOUNT = 143
 SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
@@ -431,7 +433,7 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
-    #if CHECK_SET in card_sets and 'White' in card_colors:
+    #if CHECK_SET in card_sets and 'Red' in card_colors:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -537,6 +539,10 @@ if __name__ == "__main__":
     # Onslaught Block
     ons_dict = process_formats("Onslaught Block")
     handle_output("Onslaught Block", ons_dict, out_file_h)
+
+    # Mirrodin Block
+    mir_dict = process_formats("Mirrodin Block")
+    handle_output("Mirrodin Block", mir_dict, out_file_h)
 
     # Pauper Commander
     paup_comm = process_formats("Pauper Commander")

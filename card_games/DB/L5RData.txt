@@ -29,15 +29,15 @@ A Fallen Friend;Strategy;;1,000 Years of Darkness (Fixed);Four Winds (Gold);3;0
 A Fallen Friend;Strategy;;1,000 Years of Darkness (Fixed);Rain of Blood (Diamond);3;0
 A False Accusation;Strategy;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
 A False Accusation;Strategy;;Death at Koten (Fixed);Race for the Throne (Samurai);3;0
-A Favor Returned;Holding;;Lotus Edition (Common)/Promotional–Lotus (Promo)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
 A Favor Returned;Holding;;Hidden City (Common);Rain of Blood (Diamond);3;0
+A Favor Returned;Holding;;Lotus Edition (Common)/Promotional–Lotus (Promo)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
 A Final Duel;Event;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);1;0
 A Forefather's Vengeance;Strategy;;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
 A Fugitive Apprehended;Strategy;;Second City (Uncommon);Age of Conquest (Emperor);3;0
 A Fugitive Apprehended;Strategy;;Second City (Uncommon);Destroyer War (Celestial);3;0
-A Game of Dice;Strategy;;Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);1;0
 A Game of Dice;Strategy;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);1;0
 A Game of Dice;Strategy;;Forgotten Legacy (Fixed);Destroyer War (Celestial);1;0
+A Game of Dice;Strategy;;Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);1;0
 A Game of Go;Event;;Heaven & Earth (Uncommon);Four Winds (Gold);1;0
 A Game of Go;Event;;Heaven & Earth (Uncommon);Rain of Blood (Diamond);1;0
 A Game of Sadane;Strategy;;Glory of the Empire (Uncommon);Destroyer War (Celestial);3;0
@@ -47,8 +47,8 @@ A Gentle Word;Strategy;;Before the Dawn (Uncommon);Age of Conquest (Emperor);3;0
 A Gentle Word;Strategy;;Before the Dawn (Uncommon);Destroyer War (Celestial);3;0
 A Gift of Honor;Strategy;;Shadowlands (Rare);Clan Wars (Imperial);3;0
 A Glimpse Beyond;Strategy;;The Dark Journey Home (Rare);Hidden Emperor (Jade);3;0
-A Glimpse of the Soul's Shadow;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 A Glimpse of the Soul's Shadow;Strategy;;Crimson and Jade (Common);Clan Wars (Imperial);3;0
+A Glimpse of the Soul's Shadow;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 A Glimpse of the Soul's Shadow;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
 A Good Day to Die;Strategy;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
 A Greater Destiny;Strategy;;Scorpion Clan Coup 3 (Uncommon);Clan Wars (Imperial);3;0
@@ -63,9 +63,9 @@ A Legion of One;Strategy;;The Truest Test (Common);Age of Enlightenment (Lotus);
 A Legion of One;Strategy;;The Truest Test (Common);Race for the Throne (Samurai);3;0
 A Life for a Life;Spell;;Path of Hope (Rare);Age of Enlightenment (Lotus);3;0
 A Life for a Soul;Event;;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);1;0
+A Lion's Roar;Strategy;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
 A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 A Lion's Roar;Strategy;;Twenty Festivals (Uncommon);Onyx Edition;3;0
-A Lion's Roar;Strategy;;Stronger Than Steel (Uncommon);Race for the Throne (Samurai);3;0
 A Long Journey;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 A Lord's Compassion;Strategy;;Honor's Veil (Common);Race for the Throne (Samurai);3;0
 A Magistrate's Blade;Item;;Death at Koten (Fixed);Destroyer War (Celestial);3;0
@@ -73,8 +73,8 @@ A Magistrate's Blade;Item;;Death at Koten (Fixed);Race for the Throne (Samurai);
 A Matter of Honor;Strategy;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;0
 A Matter of Pride;Event;;A Perfect Cut (Uncommon);Four Winds (Gold);1;0
 A Moment of Clarity;Strategy;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
-A Moment of Truth (AoD);Strategy;;Pearl Edition (Rare)/Jade Edition (Rare);Hidden Emperor (Jade);3;0
 A Moment of Truth (AoD);Strategy;;Anvil of Despair (Rare);Clan Wars (Imperial);3;0
+A Moment of Truth (AoD);Strategy;;Pearl Edition (Rare)/Jade Edition (Rare);Hidden Emperor (Jade);3;0
 A Moment of Truth (ToV);Strategy;;Time of the Void (Rare);Clan Wars (Imperial);3;0
 A New Guardian;Strategy;;Heaven & Earth (Uncommon);Four Winds (Gold);3;0
 A New Guardian;Strategy;;Heaven & Earth (Uncommon);Rain of Blood (Diamond);3;0
@@ -82,13 +82,13 @@ A New Legacy;Event;;An Oni's Fury (Rare);Four Winds (Gold);1;0
 A New Path;Strategy;;The Fall of Otosan Uchi (Uncommon);Four Winds (Gold);3;0
 A New Path;Strategy;;The Fall of Otosan Uchi (Uncommon);Rain of Blood (Diamond);3;0
 A New Teacher;Strategy;;Honor Bound (Rare);Hidden Emperor (Jade);3;0
-A New Wall;Event;;Samurai Edition (Rare)/Tomorrow (Fixed);Race for the Throne (Samurai);1;0
 A New Wall;Event;;Lotus Edition (Rare)/Training Grounds 2 (Fixed)/Tomorrow (Fixed);Age of Enlightenment (Lotus);1;0
-A New Wall;Event;;Promotional–Gold (Promo);Four Winds (Gold);1;0
 A New Wall;Event;;Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
+A New Wall;Event;;Promotional–Gold (Promo);Four Winds (Gold);1;0
+A New Wall;Event;;Samurai Edition (Rare)/Tomorrow (Fixed);Race for the Throne (Samurai);1;0
+A New Year;Event;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
 A New Year;Event;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
 A New Year;Event;;Twenty Festivals (Rare);Onyx Edition;3;0
-A New Year;Event;;Celestial Edition (Rare);Destroyer War (Celestial);3;0
 A Noble End;Strategy;;Khan's Defiance (Uncommon);Age of Enlightenment (Lotus);3;0
 A Noble End;Strategy;;Khan's Defiance (Uncommon);Race for the Throne (Samurai);3;0
 A Paragon's Strength;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
@@ -97,9 +97,9 @@ A Perfect Cut;Strategy;;Promotional–Gold (Promo);Four Winds (Gold);3;0
 A Plague Spreads;Event;;A Perfect Cut (Uncommon);Four Winds (Gold);1;0
 A Priest's Courtesy;Strategy;;Honor's Veil (Uncommon);Race for the Throne (Samurai);3;0
 A Prophecy Fulfilled;Spell;;Anvil of Despair (Rare);Clan Wars (Imperial);3;0
+A Prophet Revealed;Event;;Honor's Veil (Uncommon);Race for the Throne (Samurai);1;0
 A Prophet Revealed;Event;;Promotional–Twenty Festivals (Promo);A Brother's Destiny (Twenty Festivals);1;0
 A Prophet Revealed;Event;;Promotional–Twenty Festivals (Promo);Onyx Edition;1;0
-A Prophet Revealed;Event;;Honor's Veil (Uncommon);Race for the Throne (Samurai);1;0
 A Pure Heart;Strategy;;The Plague War (Common);Destroyer War (Celestial);3;0
 A Pure Stroke;Strategy;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 A Pure Stroke;Strategy;;Hidden Emperor 6 (Rare);Hidden Emperor (Jade);3;0
@@ -112,10 +112,37 @@ A Sage's Counsel;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (L
 A Samurai Never Stands Alone;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
 A Samurai Never Stands Alone;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;0
 A Samurai's Anger;Strategy;;Hidden City (Common);Rain of Blood (Diamond);3;0
-A Samurai's Fury;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
-A Samurai's Fury;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
 A Samurai's Fury;Strategy;;Crimson and Jade (Rare);Clan Wars (Imperial);3;0
-
-# Done through card #75
-#4327
+A Samurai's Fury;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
+A Samurai's Fury;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
+A Samurai's Soul;Item;;Twenty Festivals (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);3;0
+A Samurai's Soul;Item;;Twenty Festivals (Common);Onyx Edition;3;0
+A Samurai's Soul;Item;;War of Honor (Fixed)/The Imperial Gift 2 (Fixed);Destroyer War (Celestial);3;0
+A Scorpion's Wisdom;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
+A Simple Yari;Item;;Before the Dawn (Common);Age of Conquest (Emperor);3;0
+A Simple Yari;Item;;Before the Dawn (Common);Destroyer War (Celestial);3;0
+A Soldier's Fate;Strategy;;Khan's Defiance (Rare)/Samurai Edition Banzai (Rare);Race for the Throne (Samurai);3;0
+A Soldier's Fate;Strategy;;Khan's Defiance (Rare);Age of Enlightenment (Lotus);3;0
+A Soldier's Spirit;Strategy;;Khan's Defiance (Uncommon);Age of Enlightenment (Lotus);3;0
+A Soldier's Spirit;Strategy;;Khan's Defiance (Uncommon);Race for the Throne (Samurai);3;0
+Birth of the Sword;Event;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+Birth of the Sword;Event;;The War of Spirits (Rare);Hidden Emperor (Jade);1;0
+Boastful Proclamation;Event;;Dark Allies (Uncommon);Four Winds (Gold);1;0
+Boastful Proclamation;Event;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+Boastful Proclamation;Event;;Emperor Edition (Uncommon);Age of Conquest (Emperor);1;0
+Boastful Proclamation;Event;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);1;0
+Doom of the Dark Lord;Event;;Promotional–Imperial (Promo);Clan Wars (Imperial);1;0
+Doom of the Dark Lord;Event;;Promotional–Twenty Festivals (Promo);A Brother's Destiny (Twenty Festivals);1;0
+Doom of the Dark Lord;Event;;Promotional–Twenty Festivals (Promo);Onyx Edition;1;0
+Doom of the Dark Lord;Event;;Training Grounds (Fixed)/Diamond Edition (Rare);Rain of Blood (Diamond);1;1
 Kenson Gakka;Stronghold;Lion;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+The Spawning Ground;Stronghold;Shadowlands;Ambition's Debt (Fixed)/Soul of the Empire (Uncommon)/Promotional–Jade (Promo);Hidden Emperor (Jade);1;0
+The Spawning Ground;Stronghold;Shadowlands;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+The Spawning Ground;Stronghold;Shadowlands;Gold Edition (Fixed);Four Winds (Gold);1;0
+
+# Done through card #80
+#977
+#1086
+#2191
+#4327
+#8348

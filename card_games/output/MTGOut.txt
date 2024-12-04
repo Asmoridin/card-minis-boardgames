@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 6213 items (6161 actual cards).
-Have 609 out of 24927 total cards for a playset - 2.44 percent
+Tracking 6240 items (6188 actual cards).
+Have 609 out of 25035 total cards for a playset - 2.43 percent
 
 *** VINTAGE ***
-There are 6213 Vintage legal cards
-Have 606 out of 24864 - 2.44 percent of a playset
+There are 6240 Vintage legal cards
+Have 606 out of 24972 - 2.43 percent of a playset
 Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Swords to Plowshares: 24
 
 *** LEGACY ***
-There are 6091 Legacy legal cards
-Have 584 out of 24724 - 2.36 percent of a playset
+There are 6117 Legacy legal cards
+Have 584 out of 24828 - 2.35 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Avenger en-Dal. I own 0 of 4
 
 Closest deck to completion (JeskaiControl) is at 65 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1377 Modern legal cards
-Have 416 out of 5868 - 7.09 percent of a playset
+There are 1391 Modern legal cards
+Have 416 out of 5924 - 7.02 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Archivist. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -64,8 +64,8 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 474 Pioneer legal cards
-Have 322 out of 2256 - 14.27 percent of a playset
+There are 481 Pioneer legal cards
+Have 322 out of 2284 - 14.10 percent of a playset
 Chosen card is a(n) Creature from Welcome Deck 2017 - Serra Angel. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -84,8 +84,8 @@ Most needed cards are:
  - Mystical Dispute: 27
 
 *** STANDARD ***
-There are 182 Standard legal cards
-Have 191 out of 908 - 21.04 percent of a playset
+There are 186 Standard legal cards
+Have 191 out of 924 - 20.67 percent of a playset
 Chosen card is a(n) Instant from Masters 25 - Disfigure. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 2214 Pauper legal cards
-Have 228 out of 9216 - 2.47 percent of a playset
+There are 2224 Pauper legal cards
+Have 228 out of 9256 - 2.46 percent of a playset
 Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 55 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Brainstorm: 22
 
 *** OATHBREAKER ***
-There are 6102 Oathbreaker legal cards
-Have 543 out of 6492 - 8.36 percent of a playset
+There are 6129 Oathbreaker legal cards
+Have 543 out of 6519 - 8.33 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Avenger en-Dal. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -144,8 +144,8 @@ Most needed cards are:
  - Rootbound Crag: 3
 
 *** ICE AGE BLOCK ***
-There are 520 Ice Age Block legal cards
-Have 97 out of 2440 - 3.98 percent of a playset
+There are 521 Ice Age Block legal cards
+Have 97 out of 2444 - 3.97 percent of a playset
 Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Goblin Snowman. I own 0 of 4
 
 Closest deck to completion (TD - Beyond the Grave) is at 36 cards.
@@ -264,8 +264,8 @@ Most needed cards are:
  - Nightscape Familiar: 20
 
 *** ODYSSEY BLOCK ***
-There are 435 Odyssey Block legal cards
-Have 93 out of 1920 - 4.84 percent of a playset
+There are 444 Odyssey Block legal cards
+Have 93 out of 1956 - 4.75 percent of a playset
 Chosen card is a(n) Creature from Judgment - Wormfang Drake. I own 0 of 4
 
 Closest deck to completion (TD - One-Two Punch) is at 35 cards.
@@ -275,7 +275,7 @@ Most needed cards are:
  - Plains: 56
  - Mountain: 47
  - Wild Mongrel: 33
- - Firebolt: 32
+ - Firebolt: 28
  - Basking Rootwalla: 27
  - Werebear: 25
  - Roar of the Wurm: 24
@@ -284,8 +284,8 @@ Most needed cards are:
  - Innocent Blood: 20
 
 *** ONSLAUGHT BLOCK ***
-There are 71 Onslaught Block legal cards
-Have 94 out of 464 - 20.26 percent of a playset
+There are 72 Onslaught Block legal cards
+Have 94 out of 468 - 20.09 percent of a playset
 Chosen card is a(n) Creature from Legions - Dark Supplicant. I own 0 of 4
 
 Closest deck to completion (TD - Max Attax) is at 35 cards.
@@ -303,9 +303,29 @@ Most needed cards are:
  - Exalted Angel: 23
  - Smother: 23
 
+*** MIRRODIN BLOCK ***
+There are 60 Mirrodin Block legal cards
+Have 101 out of 420 - 24.05 percent of a playset
+Chosen card is a(n) Creature from Antiquities - Atog. I own 0 of 4
+
+Closest deck to completion (R) is at 0 cards.
+{}
+
+Most needed cards are:
+ - Plains: 106
+ - Mountain: 61
+ - Viridian Shaman: 32
+ - Shrapnel Blast: 26
+ - Electrostatic Bolt: 25
+ - Cloudpost: 24
+ - Oxidize: 23
+ - Arc-Slogger: 22
+ - Eternal Witness: 22
+ - Forest: 21
+
 *** PAUPER COMMANDER ***
-There are 3104 Pauper Commander legal cards
-Have 241 out of 3494 - 6.90 percent of a playset
+There are 3119 Pauper Commander legal cards
+Have 241 out of 3509 - 6.87 percent of a playset
 Chosen card is a(n) Creature from Exodus - Charging Paladin. I own 0 of 1
 
 Closest deck to completion (Vhal, Candlekeep Researcher) is at 64 cards.
@@ -324,8 +344,8 @@ Most needed cards are:
  - Muddle the Mixture: 5
 
 *** COMMANDER ***
-There are 6110 Commander legal cards
-Have 544 out of 6500 - 8.37 percent of a playset
+There are 6137 Commander legal cards
+Have 544 out of 6527 - 8.33 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Avenger en-Dal. I own 0 of 1
 
 Most needed cards are:
@@ -336,7 +356,7 @@ Most needed cards are:
  - Snow-Covered Plains: 114
  - Ancient Tomb: 77
  - Snow-Covered Mountain: 74
- - Snow-Covered Island: 72
+ - Snow-Covered Island: 73
  - Swiftfoot Boots: 64
  - Nykthos, Shrine to Nyx: 63
 
@@ -425,20 +445,21 @@ Oldest Commander deck is BG-Golgari/Hazel of the Rootbloom, last updated 08/22/2
 214 total creature types
 
 Percentages ordered by format:
-Standard: 21.04
-Onslaught Block: 20.26
-Pioneer: 14.27
-Commander: 8.37
-Oathbreaker: 8.36
-Modern: 7.09
-Pauper Commander: 6.90
-Odyssey Block: 4.84
-Ice Age Block: 3.98
+Mirrodin Block: 24.05
+Standard: 20.67
+Onslaught Block: 20.09
+Pioneer: 14.10
+Commander: 8.33
+Oathbreaker: 8.33
+Modern: 7.02
+Pauper Commander: 6.87
+Odyssey Block: 4.75
+Ice Age Block: 3.97
 Tempest Block: 3.50
 Urza's Block: 3.41
 Invasion Block: 3.38
 Mirage Block: 3.37
 Masques Block: 3.31
-Pauper: 2.47
-Vintage: 2.44
-Legacy: 2.36
+Pauper: 2.46
+Vintage: 2.43
+Legacy: 2.35

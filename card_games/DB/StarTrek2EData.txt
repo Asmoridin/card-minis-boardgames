@@ -539,7 +539,7 @@ Common Purpose;V/VP;Event;;Strange Bedfellows/Virtual Promo;Virtual;3;0
 Compassionate Interference;U;Dilemma;;Captain's Log;Print;3;0
 Complications;R;Event;;Energize;Print;3;0
 Compromised Experiment;V;Dilemma;;Shattered Mirror;Virtual;3;3
-Compromised Tactics;V;Dilemma;;Lower Decks;Virtual;3;0
+Compromised Tactics;V;Dilemma;;Lower Decks;Virtual;3;3
 Computation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Conceal Unlikely Society;V;Mission;;Lineage;Virtual;2;0
 Condition Captive;R;Interrupt;;Second Edition;Print;3;0
@@ -554,7 +554,7 @@ Conscription;R;Event;;Energize;Print;3;0
 Console Overload;C;Dilemma;;Second Edition;Print;3;0
 Contact Mysterious Benefactor;V;Mission;;Matter of Time;Virtual;2;0
 Contaminating a Culture;R;Dilemma;;Captain's Log;Print;3;0
-Contamination;C;Dilemma;;Second Edition;Print;3;0
+Contamination;C;Dilemma;;Second Edition;Print;3;3
 Contested Defense Perimeter, Penetrate Enemy Lines;V;Mission;;Lineage/Virtual Promo;Virtual;2;0
 Continuing Committee Hearing;C;Event;;To Boldly Go;Print;3;0
 Continuity Drone;C;Personnel;Borg;Call to Arms;Print;3;1
@@ -562,7 +562,7 @@ Control Plague;U;Mission;;To Boldly Go;Print;2;0
 Coolant Leak;V;Dilemma;;Extreme Measures;Virtual;3;0
 Coordinated Attack;C;Interrupt;;Energize;Print;3;3
 Coordinated Counterattack;V;Event;;Raise the Stakes;Virtual;3;0
-Coordinated Effort;C;Dilemma;;Strange New Worlds;Print;3;0
+Coordinated Effort;C;Dilemma;;Strange New Worlds;Print;3;3
 Coordinated Larceny;V;Event;;Unnatural Selection;Virtual;3;0
 Corbin Entek, Inquisitor;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
 Corbin Entek, Undercover Operations Supervisor;R;Personnel;Cardassian;Second Edition;Print;3;0
@@ -575,7 +575,7 @@ Covenant;R/VP;Interrupt;;What You Leave Behind/Virtual Promo;Both;3;0
 Covert Ambush;V;Dilemma;;Raise the Stakes;Virtual;3;0
 Covert Collusion;V;Event;;Symbiosis;Virtual;3;0
 Covert Extraction;V;Dilemma;;Hard Time;Virtual;3;0
-Covert Insertion;U;Dilemma;;To Boldly Go;Print;3;0
+Covert Insertion;U;Dilemma;;To Boldly Go;Print;3;2
 Covert Relationship;U;Interrupt;;These Are The Voyages;Print;3;0
 Crell Moset, Notorious Exobiologist;R;Personnel;Cardassian;What You Leave Behind;Print;3;0
 Crensen Gap, Protect the Escapees;U/VP;Mission;;Strange New Worlds/Virtual Promo;Print;2;0
@@ -598,7 +598,7 @@ Cultural Differences;C;Dilemma;;To Boldly Go;Print;3;0
 Cunningham, Assigned to the Galley;C;Personnel;Starfleet;To Boldly Go;Print;3;0
 Cure Blight;U;Mission;;Second Edition;Print;2;0
 Curious Companion;V;Interrupt;;Matter of Time;Virtual;3;0
-Curt Reprimand;V;Dilemma;;The Undiscovered Country;Virtual;3;0
+Curt Reprimand;V;Dilemma;;The Undiscovered Country;Virtual;3;2 // Need to reprint at least one
 Cutting Remark;V;Dilemma;;Sacrifice of Angels;Virtual;3;0
 Cutting the Strings;V;Event;;Return to Grace;Virtual;3;0
 Cyber Drone;V;Personnel;Borg;Shore Leave;Virtual;3;0
@@ -616,8 +616,8 @@ D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
 D'deridex;B/S;Ship;Romulan;Borderless Promos/Second Edition;Both;3;0
 D'kora Marauder;C;Ship;Ferengi;Strange New Worlds;Print;3;0
 D-7 Battlecruiser;U;Ship;Klingon;These Are The Voyages/Virtual Promo;Both;3;0
-DNA Analysis;S;Dilemma;;Call to Arms;Print;3;0
-DNA Security Scan;C;Dilemma;;Energize;Print;3;0
+DNA Analysis;S;Dilemma;;Call to Arms;Print;3;3
+DNA Security Scan;C;Dilemma;;Energize;Print;3;3
 Dabo!;R;Event;;To Boldly Go;Print;3;0
 DaiMon Solok, Cargo Runner;V;Personnel;Ferengi;Extreme Measures;Virtual;3;0
 Dakol, Lecherous Overseer;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
@@ -637,9 +637,9 @@ Danara Pel, Ethical Hematologist;V;Personnel;Vidiian;Phage;Virtual;3;0
 Danara Pel, Loving Life;V;Personnel;Vidiian;Phage;Virtual;3;0
 Daneeka, Reassuring Physician;U;Personnel;Federation;Strange New Worlds;Print;3;0
 Dangerous Climb;R;Dilemma;;Call to Arms;Print;3;0
-Dangerous Liaisons;C;Dilemma;;Second Edition;Print;3;0
+Dangerous Liaisons;C;Dilemma;;Second Edition;Print;3;3
 Dangerous Missions;U;Dilemma;;In a Mirror Darkly;Print;3;0
-Dangerous Standoff;U;Dilemma;;To Boldly Go;Print;3;0
+Dangerous Standoff;U;Dilemma;;To Boldly Go;Print;3;2
 Danica Erickson, Well Read;V;Personnel;Starfleet;A Time to Stand;Virtual;3;0
 Daniel Greaves, Strongman;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
 Daniel Kwan;C;Personnel;Federation;Second Edition;Print;3;0
@@ -677,8 +677,8 @@ Davies;C;Personnel;Federation;Second Edition;Print;3;0
 Davin;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Day Kannu, Field Colonel;U;Personnel;Bajoran;Necessary Evil;Print;3;0
 Days of Atonement;U;Event;;Second Edition;Print;3;0
-Dead Ringer;V;Dilemma;;Lower Decks;Virtual;3;0
-Dead Weight;V;Dilemma;;A Time to Stand;Virtual;3;0
+Dead Ringer;V;Dilemma;;Lower Decks;Virtual;3;3
+Dead Weight;V;Dilemma;;A Time to Stand;Virtual;3;3
 Deal With the Count Man;V;Event;;This Side of Paradise;Virtual;3;0
 Dealing With Pressure;U;Dilemma;;Necessary Evil;Print;3;0
 Deanna Troi, Durango;V;Personnel;Non-Aligned;Extreme Measures;Virtual;3;0
@@ -728,7 +728,7 @@ Denevan Crystals;V;Event;;Hard Time;Virtual;3;0
 Denorios Belt, Locate Celestial Temple;V/VP;Mission;;Return to Grace/Virtual Promo;Virtual;2;0
 Denorios Belt, Silence Prophets;V;Mission;;Shattered Mirror;Virtual;2;0
 Deploy the Fleet;U/VP;Event;;Necessary Evil/Virtual Promo;Both;3;0
-Depression;C;Dilemma;;Call to Arms;Print;3;0
+Depression;C;Dilemma;;Call to Arms;Print;3;3
 Deranas;U;Ship;Romulan;Second Edition;Print;3;0
 Derelict Robot;V;Dilemma;;Phage;Virtual;3;0
 Dereliction of Duty;V;Dilemma;;The Nth Degree;Virtual;3;0
@@ -754,7 +754,7 @@ Devos II, Secure Son'a Outpost;V;Mission;;Heroes and Demons;Virtual;2;0
 Dexter Remmick, Alien Thrall;V;Personnel;Federation;Balance of Terror;Virtual;3;0
 Deyos, Ruthless Administrator;U;Personnel;Dominion;In a Mirror Darkly;Print;3;0
 Difficult Rescue;C;Dilemma;;Captain's Log;Print;3;0
-Dignitaries and Witnesses;P/VP;Dilemma;;Reflections 2.0/Virtual Promo;Both;3;0
+Dignitaries and Witnesses;P/VP;Dilemma;;Reflections 2.0/Virtual Promo;Both;3;1 // Have one REFL2
 Dikut'ukan;V;Personnel;Dominion;Raise the Stakes;Virtual;3;0
 Dilanum;V;Personnel;Vidiian;Phage;Virtual;3;0
 Dimensional Shifting;R;Interrupt;;Second Edition;Print;3;0
@@ -765,7 +765,7 @@ Disable Sensors;R;Event;;Energize;Print;3;0
 Disable Shields;V;Event;;Sacrifice of Angels;Virtual;3;0
 Disadvantage Into Advantage;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
 Disarming Dream;C;Dilemma;;In a Mirror Darkly;Print;3;0
-Disaster;V/VP;Dilemma;;Hard Time/Virtual Promo;Virtual;3;0
+Disaster;V/VP;Dilemma;;Hard Time/Virtual Promo;Virtual;4;3 // Have 3 HT
 Discard By-Product;V;Mission;;Lineage;Virtual;2;0
 Discommendation;V;Dilemma;;Return to Grace;Virtual;3;0
 Disconcerting Displacement;V;Interrupt;;Matter of Time;Virtual;3;0
@@ -808,7 +808,7 @@ Doyle;V;Personnel;Federation;Caretaker;Virtual;3;0
 Dr. Crell Moset, Medical Consultant Program;V;Personnel;Federation;Caretaker;Virtual;3;0
 Dr. Leah Brahms, Holographic Representation;C;Personnel;Federation;Strange New Worlds;Print;3;0
 Dr. Lewis Zimmerman, Diagnostic Program Alpha One One;V;Personnel;Federation;Caretaker;Virtual;3;0
-Dragon's Teeth;V;Dilemma;;Zero Hour;Virtual;3;0
+Dragon's Teeth;V;Dilemma;;Zero Hour;Virtual;3;3
 Drai, First Hunter;V;Personnel;Dominion;Sacrifice of Angels;Virtual;3;0
 Drake, Voyager Shuttle;C;Ship;Federation;Captain's Log;Print;3;0
 Dralvak;C;Personnel;Romulan;Second Edition;Print;3;0

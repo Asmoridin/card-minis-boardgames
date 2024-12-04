@@ -23,7 +23,7 @@ DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item']
 PREGAME_TYPES = ['Stronghold']
 
-VALID_CLANS = ['Lion']
+VALID_CLANS = ['Lion', 'Shadowlands']
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -31,7 +31,8 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Second City', 'Promotional-Ivory', 'Glory of the Empire', 'Stronger Than Steel',
     'Celestial Edition', 'The Truest Test', 'Twenty Festivals', 'The Imperial Gift 3',
     'Samurai Edition', 'Tomorrow', "Khan's Defiance", "Promotional-Twenty Festivals",
-    "The Plague War",
+    "The Plague War", 'The Currency of War', 'Samurai Edition Banzai', 'War of Honor',
+    'The Imperial Gift 2',
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -40,7 +41,8 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     'Promotional-Lotus', 'Training Grounds 2', 'Hidden City', 'Heaven & Earth', 'Shadowlands',
     'Gold Edition', 'Jade Edition', 'Pearl Edition', 'Crimson and Jade', 'Time of the Void',
     'Path of Hope', 'Anvil of Despair', "An Oni's Fury", 'Honor Bound', 'Promotional-Gold',
-    'Promotional-Diamond', 'Scorpion Clan Coup 1',
+    'Promotional-Diamond', 'Scorpion Clan Coup 1', 'The War of Spirits', 'Dark Allies',
+    'Promotional-Imperial', 'Soul of the Empire', 'Promotional-Jade',
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
