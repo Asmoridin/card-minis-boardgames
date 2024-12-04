@@ -308,8 +308,8 @@ There are 60 Mirrodin Block legal cards
 Have 101 out of 420 - 24.05 percent of a playset
 Chosen card is a(n) Creature from Antiquities - Atog. I own 0 of 4
 
-Closest deck to completion (R) is at 0 cards.
-{}
+Closest deck to completion (BR - Artifact Recursion) is at 32 cards.
+{'Anodet Lurker': 2, 'Atog': 2, 'Barter in Blood': 1, 'Betrayal of Flesh': 1, 'Bosh, Iron Golem': 1, 'Dross Scorpion': 2, 'Forge Armor': 1, 'Grab the Reins': 1, 'Krark-Clan Grunt': 2, 'Krark-Clan Shaman': 2, 'Megatog': 1, 'Moriok Rigger': 1, 'Moriok Scavenger': 2, 'Myr Moonvessel': 2, 'Myr Retriever': 2, 'Nim Replica': 2, 'Rust Elemental': 1, 'Shrapnel Blast': 1, 'Skeleton Shard': 1, 'Summoning Station': 1, 'Trash for Treasure': 1, 'Woebearer': 2}
 
 Most needed cards are:
  - Plains: 106
