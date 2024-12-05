@@ -1351,3 +1351,4 @@ Zeus;ST07-011;Character;Y;Big Mom Pirates/Homies;Big Mom Pirates [ST-07];4
 Zoro-Juurou;OP05-067;Character;P;Straw Hat Crew;-AWAKENING OF THE NEW ERA-[OP05]/-Purple Monkey.D.Luffy- [ST-18];4
 Zoro-Juurou;ST18-004;Character;P;Straw Hat Crew;-Purple Monkey.D.Luffy- [ST-18];0
 Zou;OP08-039;Stage;G;Animal;-TWO LEGENDS- [OP-08];0
+Sanji;PRB01-001;Leader;R;Straw Hat Crew;-ONE PIECE CARD THE BEST- [PRB-01];0

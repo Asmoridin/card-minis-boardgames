@@ -26,10 +26,12 @@ Bajoran Interceptor;Ship;Bajoran;Deep Space 9;65;;4;0
 Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
 Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
+Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791;;4;1
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
 Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
+Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;1
 Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
 Borg Probe;Ship;Borg;The Borg;76;;4;0
@@ -61,6 +63,7 @@ Covert Installation;Mission;Planet;Premiere;885,6073,6436,6799;;2;1
 Cravic Unit 122;Personnel;Non-Aligned;Holodeck Adventures;100;;4;0
 Cravic Warship;Ship;Non-Aligned;Holodeck Adventures;101;;4;0
 Crewman Wilson;Personnel;Federation;Mirror, Mirror;102,4843;;4;0
+Crystalline Entity;Dilemma;Dual;Premiere;899,3588,6076,6439,6802;;4;1
 D'Kora Marauder;Ship;Ferengi;Rules of Acquisition;117;;4;0
 D'Kora Transport;Ship;Ferengi;Rules of Acquisition;118,4079;;4;0
 D'Vin;Personnel;Romulan;Blaze of Glory;134;;4;0
@@ -122,6 +125,16 @@ Fontaine;Personnel;Non-Aligned;Mirror, Mirror;42;;2;0
 Founder;Personnel;Dominion;The Dominion;158,4422;;4;0
 Four of Eleven;Personnel;Borg;First Contact;159;;4;0
 Frool;Personnel;Ferengi;Rules of Acquisition;160;;4;0
+Galathon;Personnel;Romulan;Premiere;161,5990,6353,6716;;4;0
+Galor;Ship;Cardassian;Deep Space 9;162,4449;;4;0
+Gantt;Personnel;Bajoran;Mirror, Mirror;163;;4;0
+Garren;Personnel;Hirogen;Holodeck Adventures;165;164;4;0
+Garren;Personnel;Romulan;Holodeck Adventures;164;165;4;0
+General Hazar;Personnel;Bajoran;The Dominion;166;;4;0
+Geological Survey;Mission;Planet;Starter Deck II;167,7056;;4;0
+Ghoren;Personnel;Cardassian;Deep Space 9;168;;4;0
+Gibson;Personnel;Federation;Q Continuum/Trouble with Tribbles Starter Decks;169,7107;;4;0
+Giusti;Personnel;Federation;Premiere;170,5991,6354,6717;;4;0
 H.M.S. Bounty;Ship;Federation;The Motion Pictures/Virtual Promos;4662, 7251, 1278;1;2;0
 H.M.S. Bounty;Ship;Klingon;The Motion Pictures/Virtual Promos;1,7183,4259;4662;2;0
 Haakona;Ship;Romulan;Premiere;2,5966,6329,6692;;2;0
@@ -142,9 +155,11 @@ Harvester Virus;Dilemma;Planet;Deep Space 9;16;;4;0
 Hate Crime;Dilemma;Dual;Deep Space 9;17;;4;0
 Hawk;Personnel;Federation;First Contact;18;;2;0
 Hazardous Duty;Dilemma;Dual;Blaze of Glory/Voyager/Trouble with Tribbles Starter Decks;19,20,5504;;4;0
+Impassable Door;Dilemma;Planet;Premiere;1378,6146,6509,6872;;4;1
 Investigate Sighting;Mission;Space;Premiere;1426,6159,6522,6885;;2;1
 Romulan Outpost;Facility;Romulan;Premiere/Homefront VI;1029,6817,4052,4706,6091,6454;;4;1
 Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623;;2;1
+Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
 Two of Twelve;Personnel;Borg;The Borg;21;;4;0
 Ty Kajada;Personnel;Non-Aligned;Deep Space 9;22,4447;;4;0
 Type 18 Shuttlepod;Ship;Federation;Mirror, Mirror;23;;4;0
@@ -166,22 +181,32 @@ Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101;;4;0
 
-# Done through card 160
+# Done through card 170
+#430
+#706
 #747
 #885
+#899
 #1029
+#1056
 #1172
 #1175
 #1177
 #1278
+#1378
 #1426
 #2077
 #3067
 #3407
+#3476
 #3513
 #3518
 #3529
+#3539
 #3581
+#3583
+#3588
+#3839
 #3927
 #4052-4053
 #4070
@@ -193,7 +218,7 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #4412-4413
 #4421-4423
 #4442
-#4447-4448
+#4447-4449
 #4452
 #4462
 #4660-4662
@@ -212,26 +237,38 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #5900
 #5909
 #5917
-#5966-5989
+#5966-5991
+#6065
 #6073
+#6076
 #6091
+#6094
 #6115-6117
+#6146
 #6159
 #6260
-#6329-6352
+#6328-6354
+#6428
 #6436
+#6439
 #6454
+#6457
 #6478-6480
+#6509
 #6522
 #6623
-#6692-6715
+#6691-6717
+#6791
 #6799
+#6802
 #6817
+#6820
 #6841-6843
+#6872
 #6885
 #6986
-#7055
-#7098-7106
+#7054-7056
+#7098-7107
 #7183-7185
 #7251
 #7327

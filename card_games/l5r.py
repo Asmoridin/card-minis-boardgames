@@ -4,6 +4,8 @@
 Inventory tracker and purchase selector for the Legend of the Five Rings CCG
 """
 
+GAME_NAME = "Legend of the Five Rings"
+
 import os
 import re
 import sys
@@ -32,7 +34,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Celestial Edition', 'The Truest Test', 'Twenty Festivals', 'The Imperial Gift 3',
     'Samurai Edition', 'Tomorrow', "Khan's Defiance", "Promotional-Twenty Festivals",
     "The Plague War", 'The Currency of War', 'Samurai Edition Banzai', 'War of Honor',
-    'The Imperial Gift 2',
+    'The Imperial Gift 2', "Empire at War",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -42,7 +44,8 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     'Gold Edition', 'Jade Edition', 'Pearl Edition', 'Crimson and Jade', 'Time of the Void',
     'Path of Hope', 'Anvil of Despair', "An Oni's Fury", 'Honor Bound', 'Promotional-Gold',
     'Promotional-Diamond', 'Scorpion Clan Coup 1', 'The War of Spirits', 'Dark Allies',
-    'Promotional-Imperial', 'Soul of the Empire', 'Promotional-Jade',
+    'Promotional-Imperial', 'Soul of the Empire', 'Promotional-Jade', "Imperial Edition",
+    "Hidden Emperor 5", "Fire & Shadow", "Emerald Edition", "Obsidian Edition", "Promotional-CWF",
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',

@@ -149,3 +149,4 @@ Wrenn and Six;Legacy-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
+Veil of Summer;Pioneer-Banned
