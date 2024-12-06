@@ -1,6 +1,6 @@
 Star Trek 2E CCG Inventory Tracker
 
-Have 334 out of 10588 - 3.15 percent
+Have 397 out of 10590 - 3.75 percent
 Buy a Personnel from Caretaker, maybe Alex Porter, Campaign Veteran (have 0 out of 3)
 
 Closest deck to completion is DS9.txt, needing just 63 cards:
@@ -13,7 +13,7 @@ In Development - 34
 More of Gravy Than of Grave - 34
 Unexpected Difficulties - 32
 Polywater Intoxication - 30
-Infestation - 26
 Intimidation - 26
 Nothing to Lose - 25
+Infestation - 22
 Christening - 20

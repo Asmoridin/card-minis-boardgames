@@ -332,7 +332,8 @@ def process_formats(format_name):
     format_cards = len(format_card_list)
     FORMAT_LIST.append((format_name, format_own, format_total))
 
-    return_dict['FILTERED']['set'], ft_filtered_list = sort_and_filter(format_card_list, 4,)
+    return_dict['FILTERED']['set'], ft_filtered_list = \
+        sort_and_filter(format_card_list, 4, by_len = True)
     return_dict['FILTERED']['type'], ft_filtered_list = sort_and_filter(ft_filtered_list, 1)
     if return_dict['FILTERED']['type'] in ['Creature', 'Planeswalker']:
         _, ft_filtered_list = sort_and_filter(ft_filtered_list, 2)

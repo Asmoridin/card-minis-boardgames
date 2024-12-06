@@ -4,7 +4,7 @@
 Function for sorting and filtering of collection data
 """
 
-def sort_and_filter(in_list:list, filter_index:int, verbose:bool=False):
+def sort_and_filter(in_list:list, filter_index:int, verbose:bool=False, by_len = False):
     """
     Function for sorting and filtering of collection data
     """
@@ -37,6 +37,8 @@ def sort_and_filter(in_list:list, filter_index:int, verbose:bool=False):
         print(item_sorter)
 
     returned_value = item_sorter[0][0]
+
+    # Now that we know what we're working with, we filter down to it
     ret_list = []
     if is_list:
         for item in in_list:
@@ -46,4 +48,15 @@ def sort_and_filter(in_list:list, filter_index:int, verbose:bool=False):
         for item in in_list:
             if item[filter_index] == returned_value:
                 ret_list.append(item)
+
+    # If we are to sort/filter by length, and the item is a list, we do it here.
+    if by_len and is_list:
+        min_len = len(ret_list[0][filter_index])
+        for item in ret_list[1:]:
+            min_len = min(min_len, len(item[filter_index]))
+        new_list = []
+        for item in ret_list:
+            if len(item[filter_index]) == min_len:
+                new_list.append(item)
+        ret_list = new_list
     return (returned_value, ret_list)
