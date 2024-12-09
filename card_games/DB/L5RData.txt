@@ -152,6 +152,13 @@ A Time for Action;Event;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition
 A Time for Action;Event;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
 A Time for Mortal Men;Strategy;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 A Time for Mortal Men;Strategy;;Hidden Emperor 1 (Common);Hidden Emperor (Jade);3;0
+A Time for Vengeance;Event;;Promotional–Diamond (Promo);Age of Enlightenment (Lotus);1;0
+A Time for Vengeance;Event;;Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
+A Time of Legends;Event;;Promotional–Imperial (Promo);Clan Wars (Imperial);1;0
+A Tranquil Mind;Event;;The Plague War (Uncommon);Destroyer War (Celestial);1;0
+A Vision of Truth;Strategy;;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
+A Vision of Truth;Strategy;;Scorpion Clan Coup 2 (Uncommon);Clan Wars (Imperial);3;0
+A Walking Death;Event;;Celestial Edition (Rare);Destroyer War (Celestial);1;0
 Akodo's Grave;Holding;;Celestial Edition (Common)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
 Akodo's Grave;Holding;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
 Akodo's Grave;Holding;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
@@ -195,18 +202,33 @@ Gifts and Favors;Holding;;Lotus Edition (Common)/Promotional–Lotus (Promo)/Tra
 Kenson Gakka;Stronghold;Lion;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Oblivion's Gate;Holding;;Winds of Change (Rare)/Training Grounds (Fixed);Four Winds (Gold);1;0
 Oblivion's Gate;Holding;;Winds of Change (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+Obsidian Mine;Holding;;1,000 Years of Darkness (Fixed)/Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Obsidian Mine;Holding;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Proposal of Peace;Event;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Proposal of Peace;Event;;Gold Edition (Rare);Four Winds (Gold);1;0
 Proposal of Peace;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
 Proposal of Peace;Event;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);1;0
 Proposal of Peace;Event;;Samurai Edition (Rare);Race for the Throne (Samurai);1;0
+Rice Paddy;Holding;;Broken Blades (Uncommon);Four Winds (Gold);3;0
+Rice Paddy;Holding;;Honor and Treachery (Fixed);Age of Conquest (Emperor);3;0
+Rice Paddy;Holding;;Ivory Edition (Common)/A Matter of Honor (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Rice Paddy;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
+Rice Paddy;Holding;;Training Grounds (Fixed)/Diamond Edition (Common);Rain of Blood (Diamond);3;3
 Run For Your Lives!;Event;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Four Winds (Gold);1;0
 Run For Your Lives!;Event;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+Sanctified Temple;Holding;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Sanctified Temple;Holding;;Gold Edition (Common)/Promotional–Gold (Promo)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Sanctified Temple;Holding;;Imperial Edition (Common)/Emerald Edition (Common)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Common);Clan Wars (Imperial);3;0
+Sanctified Temple;Holding;;Jade Edition (Common)/Pearl Edition (Common)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
+Shackled Oni;Holding;;Dark Allies (Common);Four Winds (Gold);3;0
+Shackled Oni;Holding;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Shadowlands Bastion;Holding;;A Perfect Cut (Rare);Four Winds (Gold);1;0
+Shadowlands Bastion;Holding;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 The Spawning Ground;Stronghold;Shadowlands;Ambition's Debt (Fixed)/Soul of the Empire (Uncommon)/Promotional–Jade (Promo);Hidden Emperor (Jade);1;0
 The Spawning Ground;Stronghold;Shadowlands;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 The Spawning Ground;Stronghold;Shadowlands;Gold Edition (Fixed);Four Winds (Gold);1;0
 
-# Done through card #90
+# Done through card #95
 #309
 #614
 #977
@@ -219,6 +241,11 @@ The Spawning Ground;Stronghold;Shadowlands;Gold Edition (Fixed);Four Winds (Gold
 #2807
 #4327
 #5647
+#5660
 #6084
+#6314
 #6408
+#6464
+#6647
+#6670
 #8348

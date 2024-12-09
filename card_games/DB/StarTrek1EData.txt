@@ -195,6 +195,8 @@ Varel;Personnel;Romulan;Premiere;36,5974,6337,6700,7622;;4;0
 Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
+Portal Guard;Dilemma;Planet;Premiere;1887,6238,6601,6964,7886;;4;1
+Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 
 # Done through card 170
 #430
@@ -216,6 +218,8 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #1723
 #1762
 #1764
+#1806
+#1887
 #2077
 #3067
 #3407
@@ -275,6 +279,8 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6203
 #6211
 #6213-6214
+#6225
+#6238
 #6260
 #6328-6356
 #6428
@@ -289,6 +295,8 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6566
 #6574
 #6576-6577
+#6588
+#6601
 #6623
 #6691-6719
 #6791
@@ -303,6 +311,8 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6929
 #6937
 #6939-6940
+#6951
+#6964
 #6986
 #7054-7056
 #7098-7108
@@ -320,3 +330,5 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #7851
 #7859
 #7861-7862
+#7873
+#7886

@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 6344 items (6292 actual cards).
-Have 609 out of 25451 total cards for a playset - 2.39 percent
+Tracking 6363 items (6311 actual cards).
+Have 609 out of 25527 total cards for a playset - 2.39 percent
 
 *** VINTAGE ***
-There are 6344 Vintage legal cards
-Have 606 out of 25385 - 2.39 percent of a playset
+There are 6363 Vintage legal cards
+Have 606 out of 25461 - 2.38 percent of a playset
 Chosen card is a(n) Creature from Exodus - Keeper of the Light. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Swords to Plowshares: 24
 
 *** LEGACY ***
-There are 6221 Legacy legal cards
-Have 584 out of 25244 - 2.31 percent of a playset
+There are 6240 Legacy legal cards
+Have 584 out of 25320 - 2.31 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Stronghold Biologist. I own 0 of 4
 
 Closest deck to completion (JeskaiControl) is at 65 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Pyroblast: 23
 
 *** MODERN ***
-There are 1430 Modern legal cards
-Have 416 out of 6080 - 6.84 percent of a playset
+There are 1442 Modern legal cards
+Have 416 out of 6128 - 6.79 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Avalanche Riders. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 63 cards.
@@ -64,8 +64,8 @@ Most needed cards are:
  - Wooded Foothills: 42
 
 *** PIONEER ***
-There are 499 Pioneer legal cards
-Have 322 out of 2356 - 13.67 percent of a playset
+There are 505 Pioneer legal cards
+Have 322 out of 2380 - 13.53 percent of a playset
 Chosen card is a(n) Sorcery from Welcome Deck 2017 - Wing Snare. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -84,8 +84,8 @@ Most needed cards are:
  - Mystical Dispute: 27
 
 *** STANDARD ***
-There are 192 Standard legal cards
-Have 191 out of 948 - 20.15 percent of a playset
+There are 195 Standard legal cards
+Have 191 out of 960 - 19.90 percent of a playset
 Chosen card is a(n) Instant from Masters 25 - Disfigure. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 2258 Pauper legal cards
-Have 228 out of 9392 - 2.43 percent of a playset
+There are 2267 Pauper legal cards
+Have 228 out of 9428 - 2.42 percent of a playset
 Chosen card is a(n) Creature from Exodus - Avenging Druid. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 55 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Brainstorm: 22
 
 *** OATHBREAKER ***
-There are 6233 Oathbreaker legal cards
-Have 543 out of 6623 - 8.20 percent of a playset
+There are 6252 Oathbreaker legal cards
+Have 543 out of 6642 - 8.18 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Stronghold Biologist. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -144,8 +144,8 @@ Most needed cards are:
  - Rootbound Crag: 3
 
 *** ICE AGE BLOCK ***
-There are 523 Ice Age Block legal cards
-Have 97 out of 2452 - 3.96 percent of a playset
+There are 524 Ice Age Block legal cards
+Have 97 out of 2456 - 3.95 percent of a playset
 Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Goblin Snowman. I own 0 of 4
 
 Closest deck to completion (TD - Beyond the Grave) is at 36 cards.
@@ -264,9 +264,9 @@ Most needed cards are:
  - Nightscape Familiar: 20
 
 *** ODYSSEY BLOCK ***
-There are 510 Odyssey Block legal cards
-Have 93 out of 2220 - 4.19 percent of a playset
-Chosen card is a(n) Creature from Judgment - Spellgorger Barbarian. I own 0 of 4
+There are 515 Odyssey Block legal cards
+Have 93 out of 2240 - 4.15 percent of a playset
+Chosen card is a(n) Creature from Judgment - Aven Fogbringer. I own 0 of 4
 
 Closest deck to completion (TD - One-Two Punch) is at 35 cards.
 {'Druid Lyrist': 2, 'Gorilla Titan': 1, 'Krosan Archer': 1, 'Leaf Dancer': 2, 'Nantuko Mentor': 1, 'Rabid Elephant': 1, 'Beast Attack': 2, 'Elephant Ambush': 3, 'Engulfing Flames': 2, 'Howling Gale': 1, "Moment's Peace": 1, 'Refresh': 1, 'Sylvan Might': 2, 'Chatter of the Squirrel': 3, 'Deep Reconnaissance': 2, 'Earth Rift': 1, 'Firebolt': 1, 'Reckless Charge': 2, 'Roar of the Wurm': 2, 'Scorching Missile': 2, 'Seize the Day': 1, 'Volcanic Spray': 1}
@@ -284,8 +284,8 @@ Most needed cards are:
  - Innocent Blood: 20
 
 *** ONSLAUGHT BLOCK ***
-There are 84 Onslaught Block legal cards
-Have 94 out of 516 - 18.22 percent of a playset
+There are 85 Onslaught Block legal cards
+Have 94 out of 520 - 18.08 percent of a playset
 Chosen card is a(n) Creature from Legions - Dark Supplicant. I own 0 of 4
 
 Closest deck to completion (TD - Max Attax) is at 35 cards.
@@ -304,8 +304,8 @@ Most needed cards are:
  - Smother: 23
 
 *** MIRRODIN BLOCK ***
-There are 65 Mirrodin Block legal cards
-Have 101 out of 440 - 22.95 percent of a playset
+There are 66 Mirrodin Block legal cards
+Have 101 out of 444 - 22.75 percent of a playset
 Chosen card is a(n) Creature from Antiquities - Atog. I own 0 of 4
 
 Closest deck to completion (BR - Artifact Recursion) is at 32 cards.
@@ -323,9 +323,29 @@ Most needed cards are:
  - Eternal Witness: 22
  - Forest: 21
 
+*** KAMIGAWA BLOCK ***
+There are 20 Kamigawa Block legal cards
+Have 88 out of 260 - 33.85 percent of a playset
+Chosen card is a(n) Creature from Betrayers of Kamigawa - Floodbringer. I own 0 of 4
+
+Closest deck to completion (B - OniOgre) is at 36 cards.
+{'Blood Speaker': 4, 'Hand of Cruelty': 4, 'Hideous Laughter': 4, "Kuro's Taken": 4, 'Raving Oni-Slave': 4, 'Rend Flesh': 4, 'Swallowing Plague': 4, 'Takenuma Bleeder': 4, 'Yukora, the Prisoner': 4}
+
+Most needed cards are:
+ - Plains: 161
+ - Kodama's Reach: 106
+ - Umezawa's Jitte: 105
+ - Sensei's Divining Top: 98
+ - Tendo Ice Bridge: 98
+ - Wear Away: 68
+ - Hisoka's Defiance: 67
+ - Time of Need: 67
+ - Sakura-Tribe Elder: 66
+ - Hinder: 63
+
 *** PAUPER COMMANDER ***
-There are 3172 Pauper Commander legal cards
-Have 241 out of 3562 - 6.77 percent of a playset
+There are 3183 Pauper Commander legal cards
+Have 241 out of 3573 - 6.75 percent of a playset
 Chosen card is a(n) Creature from Exodus - Keeper of the Light. I own 0 of 1
 
 Closest deck to completion (Vhal, Candlekeep Researcher) is at 64 cards.
@@ -344,8 +364,8 @@ Most needed cards are:
  - Muddle the Mixture: 5
 
 *** COMMANDER ***
-There are 6241 Commander legal cards
-Have 544 out of 6631 - 8.20 percent of a playset
+There are 6260 Commander legal cards
+Have 544 out of 6650 - 8.18 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Stronghold Biologist. I own 0 of 1
 
 Most needed cards are:
@@ -445,24 +465,25 @@ Needed cards: 94 - {'Thrasios, Triton Hero': 1, 'Abrupt Decay': 1, 'Ad Nauseam':
 Oldest Commander deck is BG-Golgari/Hazel of the Rootbloom, last updated 08/22/2024
 
 *** OTHER DATA ***
-216 total creature types
+217 total creature types
 
 Percentages ordered by format:
-Mirrodin Block: 22.95
-Standard: 20.15
-Onslaught Block: 18.22
-Pioneer: 13.67
-Commander: 8.20
-Oathbreaker: 8.20
-Modern: 6.84
-Pauper Commander: 6.77
-Odyssey Block: 4.19
-Ice Age Block: 3.96
+Kamigawa Block: 33.85
+Mirrodin Block: 22.75
+Standard: 19.90
+Onslaught Block: 18.08
+Pioneer: 13.53
+Commander: 8.18
+Oathbreaker: 8.18
+Modern: 6.79
+Pauper Commander: 6.75
+Odyssey Block: 4.15
+Ice Age Block: 3.95
 Tempest Block: 3.50
 Urza's Block: 3.41
 Invasion Block: 3.38
 Mirage Block: 3.37
 Masques Block: 3.31
-Pauper: 2.43
-Vintage: 2.39
+Pauper: 2.42
+Vintage: 2.38
 Legacy: 2.31
