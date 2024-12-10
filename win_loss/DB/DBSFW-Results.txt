@@ -23,3 +23,7 @@ Son Goku;FB01-001;Vegeta (Mini) : DA;FS07-01;Elias P;W
 Trunks : Future;FB01-036;Son Goku (Mini) : DA;FS06-01;Elias P;L
 Cell;FB02-070;Beerus;FB01-002;Matt P;W
 Vegeta;FB02-105;Son Goku (Mini) : DA;FS06-01;Elias P;L
+Vegeta;FB02-105;Son Goku (Mini) : DA;FS06-01;Scarlett P;W
+Cell;FB02-070;Son Goku;FB04-001;Elias P;L
+Trunks : Future;FB01-036;Baby Vegeta;FB04-103;Matt P;W
+Son Goku;FB01-001;Goku Black;FB01-035;Elias P;W

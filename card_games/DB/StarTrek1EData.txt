@@ -197,8 +197,20 @@ Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
 Portal Guard;Dilemma;Planet;Premiere;1887,6238,6601,6964,7886;;4;1
 Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
+Henreid;Personnel;Federation;The Motion Pictures;181,7186;;4;0
+Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
+Hogan;Personnel;Federation;The Borg;183;184;4;0
+Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
+Hogue;Personnel;Cardassian;Deep Space 9;185,4416;;4;0
+Holosuite;Site;;Holodeck Adventures/Homefront V;186,4468,7180;;2;0
+Hophalin;Personnel;Vidiian;Voyager;187;;4;0
+Hunting Vessel;Ship;Hirogen;The Borg/Borderless Promos;188,5595;;4;0
+Husnock Ship;Ship;Non-Aligned;Premiere/Borderless Promos;189,5597,5994,6357,6720,7642;;4;0
+I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 
-# Done through card 170
+
+
+# Done through card 190
 #430
 #706
 #747
@@ -241,14 +253,17 @@ Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 #4259
 #4406
 #4412-4413
+#4416
 #4421-4423
 #4442
 #4447-4449
 #4452
 #4462
+#4468
 #4470
 #4660-4662
 #4697
+#4702
 #4706
 #4833-4834
 #4843-4845
@@ -261,12 +276,14 @@ Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 #5262
 #5437
 #5503-5504
+#5595
+#5597
 #5640
 #5822
 #5900
 #5909
 #5917
-#5966-5993
+#5966-5994
 #6065
 #6073
 #6076
@@ -282,7 +299,7 @@ Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 #6225
 #6238
 #6260
-#6328-6356
+#6328-6357
 #6428
 #6436
 #6439
@@ -298,7 +315,7 @@ Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 #6588
 #6601
 #6623
-#6691-6719
+#6691-6720
 #6791
 #6799
 #6802
@@ -317,7 +334,8 @@ Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 #7054-7056
 #7098-7108
 #7147
-#7183-7185
+#7180
+#7183-7187
 #7251
 #7327
 #7516
@@ -325,7 +343,7 @@ Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
 #7527
 #7529
 #7613
-#7615-7641
+#7615-7642
 #7849
 #7851
 #7859

@@ -151,3 +151,4 @@ Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
 Veil of Summer;Pioneer-Banned
 Monastery Mentor;Vintage-Restricted
+Green Sun's Zenith;Modern-Banned

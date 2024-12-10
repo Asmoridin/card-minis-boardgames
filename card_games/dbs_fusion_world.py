@@ -162,17 +162,16 @@ for deck in get_deck_missing:
             most_missing_cards[check_card] = 0
         most_missing_cards[check_card] += check_card_qty
 
+chosen_set, filtered_list = sort_and_filter(item_list, 6)
+
 # Filter by subtype
-chosen_subtype, filtered_list = sort_and_filter(item_list, 1)
+chosen_subtype, filtered_list = sort_and_filter(filtered_list, 1)
 
 #Filter by color
 chosen_color, filtered_list = sort_and_filter(filtered_list, 3)
 
 # Filter by card type
 chosen_type, filtered_list = sort_and_filter(filtered_list, 2)
-
-# Filter by set
-chosen_set, filtered_list = sort_and_filter(filtered_list, 6)
 
 # Choose card
 chosen_card, filtered_list = sort_and_filter(filtered_list, 0)

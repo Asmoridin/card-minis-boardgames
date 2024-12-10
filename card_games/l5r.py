@@ -35,6 +35,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Samurai Edition', 'Tomorrow', "Khan's Defiance", "Promotional-Twenty Festivals",
     "The Plague War", 'The Currency of War', 'Samurai Edition Banzai', 'War of Honor',
     'The Imperial Gift 2', "Empire at War", "A Matter of Honor", "Honor and Treachery",
+    "Embers of War", "Words and Deeds",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
