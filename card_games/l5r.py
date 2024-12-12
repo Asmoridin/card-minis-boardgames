@@ -21,11 +21,11 @@ else:
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 
-DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding']
+DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item']
 PREGAME_TYPES = ['Stronghold']
 
-VALID_CLANS = ['Lion', 'Shadowlands']
+VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling']
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -48,7 +48,8 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     'Promotional-Imperial', 'Soul of the Empire', 'Promotional-Jade', "Imperial Edition",
     "Hidden Emperor 5", "Fire & Shadow", "Emerald Edition", "Obsidian Edition", "Promotional-CWF",
     "Broken Blades", "Hidden Emperor 1", "Storms Over Matsu Palace", "Scorpion Clan Coup 2",
-    "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain",
+    "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain", 'Hidden Emperor 3',
+    "Dawn of the Empire",
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',

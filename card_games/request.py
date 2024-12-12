@@ -18,14 +18,14 @@ def make_call(number):
     """
     url = 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=' + str(number)
     try:
-        response = requests.get(url, timeout=5)
+        response = requests.get(url, timeout=5, verify=False)
     except requests.exceptions.ReadTimeout:
         return -1
     if 'Filter by:' in response.text:
         return 0
     return 1
 
-for x in range(34820, 900000):
+for x in range(34866, 900000):
     time.sleep(1)
     RESULT = make_call(x)
     if RESULT == -1:

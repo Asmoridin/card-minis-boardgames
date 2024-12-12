@@ -50,6 +50,7 @@ Gitaxian Probe;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
 Goblin Recruiter;Legacy-Banned
 Golgari Grave-Troll;Modern-Banned/Vintage-Restricted
 Great Furnace;Modern-Banned/Mirrodin Block-Banned
+Green Sun's Zenith;Modern-Banned
 Grief;Modern-Banned/Legacy-Banned
 Griselbrand;Commander-Banned/Oathbreaker-Banned
 Gush;Legacy-Banned/Vintage-Restricted/Pauper-Banned
@@ -79,6 +80,7 @@ Memory Jar;Legacy-Banned/Vintage-Restricted/Urza's Block-Banned
 Mental Misstep;Modern-Banned/Legacy-Banned/Vintage-Restricted
 Merchant Scroll;Vintage-Restricted
 Mind Twist;Legacy-Banned
+Monastery Mentor;Vintage-Restricted
 Mox Emerald;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Mox Jet;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
 Mox Pearl;Legacy-Banned/Vintage-Restricted/Commander-Banned/Oathbreaker-Banned
@@ -109,14 +111,17 @@ Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Simian Spirit Guide;Modern-Banned
 Sinkhole;Pauper-Banned
 Skullclamp;Mirrodin Block-Banned/Modern-Banned/Legacy-Banned
+Slime Against Humanity;Relentless
 Sol Ring;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned
 Squandered Resources;Mirage Block-Banned
+Stirring Bard;Pauper-Banned
 Stone-Throwing Devils;Legacy-Banned/Vintage-Banned/Commander-Banned/Pauper-Banned/Oathbreaker-Banned/Pauper Commander-Banned
 Strip Mine;Legacy-Banned/Vintage-Restricted
 Summer Bloom;Modern-Banned
 Sundering Titan;Oathbreaker-Banned/Commander-Banned
 Survival of the Fittest;Legacy-Banned
 Sylvan Primordial;Oathbreaker-Banned/Commander-Banned
+Teferi, Time Raveler;Pioneer-Banned
 Tempest Efreet;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Thawing Glaciers;Ice Age Block-Banned
 Thorn of Amethyst;Vintage-Restricted
@@ -139,6 +144,7 @@ Uro, Titan of Nature's Wrath;Pioneer-Banned/Modern-Banned
 Urza's Saga;Vintage-Restricted
 Vampiric Tutor;Legacy-Banned/Vintage-Restricted
 Vault of Whispers;Modern-Banned/Mirrodin Block-Banned
+Veil of Summer;Pioneer-Banned
 Voltaic Key;Urza's Block-Banned
 Walking Ballista;Pioneer-Banned
 White Plume Adventurer;Legacy-Banned
@@ -149,6 +155,3 @@ Wrenn and Six;Legacy-Banned
 Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
-Veil of Summer;Pioneer-Banned
-Monastery Mentor;Vintage-Restricted
-Green Sun's Zenith;Modern-Banned

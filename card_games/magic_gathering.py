@@ -149,16 +149,19 @@ def parse_restrictions(restr_lines):
         this_card_name, card_restrictions = rest_line.strip().split(';')
         return_dict[this_card_name] = {}
         for restriction in card_restrictions.split('/'):
-            this_format, bnr = restriction.split('-')
-            if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
-                    'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
-                    'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
-                    'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
-                    'Kamigawa Block',]:
-                print("Unknown format: " + this_format)
-            if bnr not in ['Banned', 'Restricted']:
-                print("Unknown status: " + bnr)
-            return_dict[this_card_name][this_format] = bnr
+            if restriction == 'Relentless':
+                return_dict[this_card_name]['All'] = 'Relentless'
+            else:
+                this_format, bnr = restriction.split('-')
+                if this_format not in ['Legacy', 'Vintage', 'Commander', 'Pauper', 'Modern',
+                        'Standard', 'Pioneer', 'Oathbreaker', 'Ice Age Block', 'Mirage Block',
+                        'Tempest Block', "Urza's Block", "Pauper Commander", "Masques Block",
+                        'Invasion Block', 'Odyssey Block', 'Onslaught Block', 'Mirrodin Block',
+                        'Kamigawa Block',]:
+                    print("Unknown format: " + this_format)
+                if bnr not in ['Banned', 'Restricted']:
+                    print("Unknown status: " + bnr)
+                return_dict[this_card_name][this_format] = bnr
     return return_dict
 
     # Dominaria block (Dominaria United/The Brothers' War)
@@ -254,18 +257,24 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
     if 'Common' in ret_rarities or 'Land' in ret_rarities:
         ret_formats['Pauper'] = 4
         ret_formats['Pauper Commander'] = 1
+    is_relentless = False
     if card_restrictions:
         for restriction_format, restriction_bnr in card_restrictions.items():
             if restriction_bnr == 'Banned':
                 del ret_formats[restriction_format]
             elif restriction_bnr == 'Restricted':
                 ret_formats[restriction_format] = 1
+            elif restriction_bnr == 'Relentless':
+                is_relentless = True
             else:
                 print(restriction_format)
                 print(restriction_bnr)
     if len(ret_formats) == 0:
         ret_formats = {"Vintage": 1}
-    for _, format_qty in ret_formats.items():
+    if is_relentless:
+        for format_name in ret_formats:
+            ret_formats[format_name] = 15
+    for format_name, format_qty in ret_formats.items():
         this_card_max = max(this_card_max, format_qty)
     ret_rarities = list(ret_rarities)
     return(ret_sets, ret_rarities, ret_formats, this_card_max)
@@ -400,7 +409,7 @@ restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
 
 SET_CHECK = 0
-CHECK_SET = "Torment"
+CHECK_SET = "Judgment"
 CHECK_AMOUNT = 143
 SET_CHECK += 0 # Extra basic lands
 
@@ -438,7 +447,7 @@ for line in lines:
     card_sets, card_rarities, card_formats, CARD_MAX = parse_sets(card_name, card_sets, \
         restrictions.get(card_name))
     if CHECK_SET in card_sets:
-    #if CHECK_SET in card_sets and 'Red' in card_colors:
+    #if CHECK_SET in card_sets and 'Blue' in card_colors:
         SET_CHECK += 1
     if 'Basic Land' in card_type:
         for card_format in card_formats:
@@ -587,7 +596,7 @@ if __name__ == "__main__":
     double_print("*** OTHER DATA ***", out_file_h)
     double_print(f"{len(creature_types)} total creature types", out_file_h)
     USED_TYPES = ['Wall', 'Necron', 'Human', 'Cleric', 'Goblin', 'Squirrel', 'Soldier', 'Sliver',
-        'Wizard', 'Spider', 'Barbarian']
+        'Wizard', 'Spider', 'Barbarian', 'Beast']
     for del_type in USED_TYPES:
         del creature_types[del_type]
     creature_types = sorted(creature_types.items(), key=lambda x:(-1 * x[1], x[0]))

@@ -207,10 +207,18 @@ Hophalin;Personnel;Vidiian;Voyager;187;;4;0
 Hunting Vessel;Ship;Hirogen;The Borg/Borderless Promos;188,5595;;4;0
 Husnock Ship;Ship;Non-Aligned;Premiere/Borderless Promos;189,5597,5994,6357,6720,7642;;4;0
 I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
+I.K.C. K'Vort;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;191,4081,5995,6358,6721,7109,7643;;4;0
+I.K.C. Vor'Cha;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;192,5996,6359,6722,7110,7644;;4;0
+I.S.S. Constitution;Ship;Federation;Mirror, Mirror;193,4871;;4;0
+Impose Order;Mission;Planet;Official Tournament Sealed Deck;194,4054,5910;;4;0
+Inge Eiger;Personnel;Federation;First Contact;195;;4;0
+Inglatu;Personnel;Dominion;Rules of Acquisition;196,4424;;4;0
+Investigate Incursion;Mission;Space;Official Tournament Sealed Deck;197,5911;;4;0
+Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
+Jace Michaels;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;199,4431,7111;;4;0
+Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 
-
-
-# Done through card 190
+# Done through card 200
 #430
 #706
 #747
@@ -245,16 +253,18 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #3588
 #3839
 #3927
-#4052-4053
+#4052-4054
 #4070
 #4078-4079
+#4081
 #4112
 #4186
 #4259
 #4406
 #4412-4413
 #4416
-#4421-4423
+#4421-4424
+#4431
 #4442
 #4447-4449
 #4452
@@ -269,6 +279,7 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #4843-4845
 #4864
 #4869
+#4871
 #4874
 #4876
 #5257
@@ -281,9 +292,9 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #5640
 #5822
 #5900
-#5909
+#5909-5911
 #5917
-#5966-5994
+#5966-5996
 #6065
 #6073
 #6076
@@ -299,7 +310,7 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #6225
 #6238
 #6260
-#6328-6357
+#6328-6359
 #6428
 #6436
 #6439
@@ -315,7 +326,7 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #6588
 #6601
 #6623
-#6691-6720
+#6691-6722
 #6791
 #6799
 #6802
@@ -332,10 +343,10 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #6964
 #6986
 #7054-7056
-#7098-7108
+#7098-7111
 #7147
 #7180
-#7183-7187
+#7183-7188
 #7251
 #7327
 #7516
@@ -343,7 +354,7 @@ I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
 #7527
 #7529
 #7613
-#7615-7642
+#7615-7644
 #7849
 #7851
 #7859

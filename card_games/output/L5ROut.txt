@@ -1,19 +1,19 @@
 Legend of the Five Rings CCG Inventory Tracker Tool
 
-I own 37 out of 585 total cards - 6.32 percent
+I own 37 out of 604 total cards - 6.13 percent
 
 Suggested purchase is a Holding from Training Grounds: Akodo's Grave (own 0 out of 3)
 
 Current inventory percentage by format:
-Rain of Blood (Diamond): 52.11 (37/71)
+Rain of Blood (Diamond): 49.33 (37/75)
 Onyx Edition: 0.00 (0/14)
 A Brother's Destiny (Ivory Edition): 0.00 (0/19)
 A Brother's Destiny (Twenty Festivals): 0.00 (0/32)
-Hidden Emperor (Jade): 0.00 (0/48)
-Modern: 0.00 (0/52)
-Age of Conquest (Emperor): 0.00 (0/53)
+Hidden Emperor (Jade): 0.00 (0/49)
+Modern: 0.00 (0/54)
+Age of Conquest (Emperor): 0.00 (0/57)
 Clan Wars (Imperial): 0.00 (0/58)
 Race for the Throne (Samurai): 0.00 (0/66)
-Age of Enlightenment (Lotus): 0.00 (0/70)
-Destroyer War (Celestial): 0.00 (0/76)
-Four Winds (Gold): 0.00 (0/78)
+Age of Enlightenment (Lotus): 0.00 (0/74)
+Destroyer War (Celestial): 0.00 (0/79)
+Four Winds (Gold): 0.00 (0/81)
