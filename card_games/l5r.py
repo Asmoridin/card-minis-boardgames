@@ -25,7 +25,7 @@ DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item']
 PREGAME_TYPES = ['Stronghold']
 
-VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling']
+VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion']
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
