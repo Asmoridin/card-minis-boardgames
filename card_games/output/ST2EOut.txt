@@ -1,10 +1,10 @@
 Star Trek 2E CCG Inventory Tracker
 
-Have 397 out of 10590 - 3.75 percent
+Have 459 out of 10594 - 4.33 percent
 Buy a Personnel from Caretaker, maybe Alex Porter, Campaign Veteran (have 0 out of 3)
 
-Closest deck to completion is DS9.txt, needing just 63 cards:
-{'Mouth of the Wormhole, Deep Space 9': 1, 'Dorvan V, Evacuate Colony': 1, 'Torga IV, Strained Negotiations': 1, 'Crensen Gap, Protect the Escapees': 1, 'Investigate Destruction': 1, 'Holding Cell': 2, 'Medical Teams': 2, 'Promenade School': 3, 'Common Enemy': 2, 'Bareil Antos, Selfless Scapegoat': 1, 'Kira Nerys, Ambitious Ally': 1, 'Krim, Thoughtful Tactician': 1, 'Li Nalas, Legend of Bajor': 1, 'Sarish Rez, Ministerial Adjutant': 1, 'Benjamin Sisko, Enlightened Supervisor': 1, "Boq'ta": 2, 'Elizabeth Lense, Valedictorian': 1, 'Enrique Muñiz, Dependable Troubleshooter': 2, 'Ezri Dax, Station Counselor': 1, 'Hoya': 3, 'Jean-Luc Picard, Compassionate Advocate': 1, 'Lojal, Investigative Ambassador': 1, 'Lwaxana Troi, Extraordinary Ambassador': 1, 'Melora Pazlar, Independent Personality': 1, "Miles O'Brien, Vastly Outnumbered": 1, 'Nog, Eager Ensign': 1, 'Paxton Reese, Stellar Cartographer': 1, "Weyoun Hologram, Inquisitor's Tool": 1, 'William Ross, "Temporary" Ally': 1, 'Quark, Vastly Outnumbered': 2, 'Martok, Welcome Presence': 1, 'Sigmund Freud, Father of Psychoanalysis': 1, 'Vic Fontaine, Vegas Crooner': 1, "T'Rul, Guarded Attaché": 1, 'U.S.S. Centaur, Patrolling Ship': 3, 'U.S.S. Ganges, One of the First': 1, 'U.S.S. Rio Grande, Built to Last': 1, 'In Development': 2, 'Nothing to Lose': 1, 'Polywater Intoxication': 1, 'Skeleton Crew': 1, "The Dal'Rok": 1, 'The Weak Will Perish': 2, 'Greater Needs': 1, 'Picking Up the Pieces': 1, 'Vault of Tomorrow': 1, 'Causal Recursion': 1, 'Gomtuu Shock Wave': 1, 'Personal Duty': 1}
+Closest deck to completion is DS9.txt, needing just 62 cards:
+{'Mouth of the Wormhole, Deep Space 9': 1, 'Dorvan V, Evacuate Colony': 1, 'Torga IV, Strained Negotiations': 1, 'Crensen Gap, Protect the Escapees': 1, 'Investigate Destruction': 1, 'Holding Cell': 2, 'Medical Teams': 2, 'Promenade School': 3, 'Common Enemy': 2, 'Bareil Antos, Selfless Scapegoat': 1, 'Kira Nerys, Ambitious Ally': 1, 'Krim, Thoughtful Tactician': 1, 'Li Nalas, Legend of Bajor': 1, 'Sarish Rez, Ministerial Adjutant': 1, 'Benjamin Sisko, Enlightened Supervisor': 1, "Boq'ta": 2, 'Elizabeth Lense, Valedictorian': 1, 'Enrique Muñiz, Dependable Troubleshooter': 2, 'Ezri Dax, Station Counselor': 1, 'Hoya': 3, 'Jean-Luc Picard, Compassionate Advocate': 1, 'Lojal, Investigative Ambassador': 1, 'Lwaxana Troi, Extraordinary Ambassador': 1, 'Melora Pazlar, Independent Personality': 1, "Miles O'Brien, Vastly Outnumbered": 1, 'Nog, Eager Ensign': 1, 'Paxton Reese, Stellar Cartographer': 1, "Weyoun Hologram, Inquisitor's Tool": 1, 'William Ross, "Temporary" Ally': 1, 'Quark, Vastly Outnumbered': 2, 'Martok, Welcome Presence': 1, 'Sigmund Freud, Father of Psychoanalysis': 1, 'Vic Fontaine, Vegas Crooner': 1, "T'Rul, Guarded Attaché": 1, 'U.S.S. Centaur, Patrolling Ship': 3, 'U.S.S. Ganges, One of the First': 1, 'U.S.S. Rio Grande, Built to Last': 1, 'In Development': 2, 'Nothing to Lose': 1, 'Skeleton Crew': 1, "The Dal'Rok": 1, 'The Weak Will Perish': 2, 'Greater Needs': 1, 'Picking Up the Pieces': 1, 'Vault of Tomorrow': 1, 'Causal Recursion': 1, 'Gomtuu Shock Wave': 1, 'Personal Duty': 1}
 
 Top ten most needed cards: 
 The Weak Will Perish - 57
@@ -12,8 +12,8 @@ Adopted Authority - 34
 In Development - 34
 More of Gravy Than of Grave - 34
 Unexpected Difficulties - 32
-Polywater Intoxication - 30
 Intimidation - 26
 Nothing to Lose - 25
 Infestation - 22
 Christening - 20
+Dereliction of Duty - 20

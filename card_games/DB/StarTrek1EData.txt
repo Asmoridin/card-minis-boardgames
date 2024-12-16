@@ -26,7 +26,7 @@ Bajoran Interceptor;Ship;Bajoran;Deep Space 9;65;;4;0
 Bajoran Raider;Ship;Bajoran;The Trouble with Tribbles;66;;4;0
 Bajoran Scout Vessel;Ship;Bajoran;Deep Space 9;67;;4;0
 Bajoran Warship;Ship;Bajoran;Mirror, Mirror;68;;4;0
-Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791;;4;1
+Barclay's Protomorphosis Disease;Dilemma;Dual;Premiere/Virtual Promos;706,3539,3839,6065,6428,6791,7713;;4;1
 Bat'leth Tournament;Mission;Planet;Blaze of Glory/Trouble with Tribbles Starter Decks;69,7102;;4;0
 Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
@@ -165,15 +165,51 @@ Harvester Virus;Dilemma;Planet;Deep Space 9;16;;4;0
 Hate Crime;Dilemma;Dual;Deep Space 9;17;;4;0
 Hawk;Personnel;Federation;First Contact;18;;2;0
 Hazardous Duty;Dilemma;Dual;Blaze of Glory/Voyager/Trouble with Tribbles Starter Decks;19,20,5504;;4;0
+Henreid;Personnel;Federation;The Motion Pictures;181,7186;;4;0
+Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
+Hogan;Personnel;Federation;The Borg;183;184;4;0
+Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
+Hogue;Personnel;Cardassian;Deep Space 9;185,4416;;4;0
+Holosuite;Site;;Holodeck Adventures/Homefront V;186,4468,7180;;2;0
+Hophalin;Personnel;Vidiian;Voyager;187;;4;0
+Hunting Vessel;Ship;Hirogen;The Borg/Borderless Promos;188,5595;;4;0
+Husnock Ship;Ship;Non-Aligned;Premiere/Borderless Promos;189,5597,5994,6357,6720,7642;;4;0
+I.K.C. K'Vort;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;191,4081,5995,6358,6721,7109,7643;;4;0
+I.K.C. Vor'Cha;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;192,5996,6359,6722,7110,7644;;4;0
+I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
+I.S.S. Constitution;Ship;Federation;Mirror, Mirror;193,4871;;4;0
 Impassable Door;Dilemma;Planet;Premiere;1378,6146,6509,6872;;4;1
+Impose Order;Mission;Planet;Official Tournament Sealed Deck;194,4054,5910;;4;0
+Inge Eiger;Personnel;Federation;First Contact;195;;4;0
+Inglatu;Personnel;Dominion;Rules of Acquisition;196,4424;;4;0
+Investigate Incursion;Mission;Space;Official Tournament Sealed Deck;197,5911;;4;0
 Investigate Sighting;Mission;Space;Premiere;1426,6159,6522,6885;;2;1
+J'Ddan;Personnel;Klingon;Premiere/Coming of Age;205,5438,5998,6361,6724,7646;;4;0
+Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
+Jace Michaels;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;199,4431,7111;;4;0
+Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
+Jaheel;Personnel;Non-Aligned;Deep Space 9;201;;4;0
+Jaron;Personnel;Romulan;Premiere;202,5997,6360,6723,7645;;4;0
+Jasad;Personnel;Cardassian;Deep Space 9;203;;4;0
+Javek Len;Personnel;Bajoran;Mirror, Mirror;204,4828;;4;0
+Jem'Hadar Attack Ship;Ship;Dominion;The Dominion;206;;4;0
+Jem'Hadar Warship;Ship;Dominion;The Dominion/Borderless Promos;208,5591;;4;0
+Jenok;Personnel;Romulan;The Trouble with Tribbles;209;;4;0
+Jera;Personnel;Romulan;Premiere;210,5999,6362,6725,7647;;4;0
 Male's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1674,6927,1676,5257,6201,6564,7849;;4;1 # Have 1 Premiere (need 1 Voyager)
 Matriarchal Society;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1696,1697,5259,6203,6566,6929,7851;;4;1 # Have 1 Premiere, need 1 Voyager
 Microvirus;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;1723,5262,6211,6574,6937,7859;;4;1
 Nagilum;Dilemma;Space;Premiere;1762,6213,6576,6939,7861;;4;1
 Nanites;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;1764,6214,6577,6940,7147,7862;;4;1
+Nausicaans;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;1770,6215,6578,6941,7148,7863;;4;2
+Nitrium Metal Parasites;Dilemma;Space;Premiere;1794,6222,6585,6948,7870;;4;0 # Have one needing errata
+Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
+Phased Matter;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;1863,6234,6597,6960,7149,7882;;4;1
+Portal Guard;Dilemma;Planet;Premiere;1887,6238,6601,6964,7886;;4;1
+Q;Dilemma;Dual;Premiere/Homefront VI;1919,3538,4668,6239,6602,6965,7887;;4;0 # Have one needing errata
+Radioactive Garbage Scow;Dilemma;Space;Premiere/Voyager;1948,1949,4041,6242,6605,6968,7890;;4;1 # have 1 PREM
 Romulan Outpost;Facility;Romulan;Premiere/Homefront VI;1029,6817,4052,4706,6091,6454;;4;1
-Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623;;2;1
+Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;1
 Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
 Two of Twelve;Personnel;Borg;The Borg;21;;4;0
 Ty Kajada;Personnel;Non-Aligned;Deep Space 9;22,4447;;4;0
@@ -195,30 +231,8 @@ Varel;Personnel;Romulan;Premiere;36,5974,6337,6700,7622;;4;0
 Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
-Portal Guard;Dilemma;Planet;Premiere;1887,6238,6601,6964,7886;;4;1
-Null Space;Dilemma;Space;Premiere;1806,6225,6588,6951,7873;;4;1
-Henreid;Personnel;Federation;The Motion Pictures;181,7186;;4;0
-Hirogen Outpost;Facility;Hirogen;The Borg/Homefront VI;182,4702;;4;0
-Hogan;Personnel;Federation;The Borg;183;184;4;0
-Hogan;Personnel;Non-Aligned;The Borg;184;183;4;0
-Hogue;Personnel;Cardassian;Deep Space 9;185,4416;;4;0
-Holosuite;Site;;Holodeck Adventures/Homefront V;186,4468,7180;;2;0
-Hophalin;Personnel;Vidiian;Voyager;187;;4;0
-Hunting Vessel;Ship;Hirogen;The Borg/Borderless Promos;188,5595;;4;0
-Husnock Ship;Ship;Non-Aligned;Premiere/Borderless Promos;189,5597,5994,6357,6720,7642;;4;0
-I.K.S. K't'inga;Ship;Klingon;The Motion Pictures;190,7187;;4;0
-I.K.C. K'Vort;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;191,4081,5995,6358,6721,7109,7643;;4;0
-I.K.C. Vor'Cha;Ship;Klingon;Premiere/Trouble with Tribbles Starter Decks;192,5996,6359,6722,7110,7644;;4;0
-I.S.S. Constitution;Ship;Federation;Mirror, Mirror;193,4871;;4;0
-Impose Order;Mission;Planet;Official Tournament Sealed Deck;194,4054,5910;;4;0
-Inge Eiger;Personnel;Federation;First Contact;195;;4;0
-Inglatu;Personnel;Dominion;Rules of Acquisition;196,4424;;4;0
-Investigate Incursion;Mission;Space;Official Tournament Sealed Deck;197,5911;;4;0
-Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
-Jace Michaels;Personnel;Federation;Deep Space 9/Trouble with Tribbles Starter Decks;199,4431,7111;;4;0
-Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 
-# Done through card 200
+# Done through card 210
 #430
 #706
 #747
@@ -238,8 +252,13 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #1723
 #1762
 #1764
+#1770
+#1794
 #1806
+#1863
 #1887
+#1919
+#1948-1949
 #2077
 #3067
 #3407
@@ -247,12 +266,13 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #3513
 #3518
 #3529
-#3539
+#3538-3539
 #3581
 #3583
 #3588
 #3839
 #3927
+#4041
 #4052-4054
 #4070
 #4078-4079
@@ -272,9 +292,11 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #4468
 #4470
 #4660-4662
+#4668
 #4697
 #4702
 #4706
+#4828
 #4833-4834
 #4843-4845
 #4864
@@ -285,8 +307,9 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #5257
 #5259
 #5262
-#5437
+#5437-5438
 #5503-5504
+#5591
 #5595
 #5597
 #5640
@@ -294,7 +317,7 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #5900
 #5909-5911
 #5917
-#5966-5996
+#5966-5999
 #6065
 #6073
 #6076
@@ -306,11 +329,14 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #6201
 #6203
 #6211
-#6213-6214
+#6213-6215
+#6222
 #6225
-#6238
+#6234
+#6238-6239
+#6242
 #6260
-#6328-6359
+#6328-6362
 #6428
 #6436
 #6439
@@ -322,11 +348,14 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #6564
 #6566
 #6574
-#6576-6577
+#6576-6578
+#6585
 #6588
-#6601
+#6597
+#6601-6602
+#6605
 #6623
-#6691-6722
+#6691-6725
 #6791
 #6799
 #6802
@@ -338,13 +367,16 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #6927
 #6929
 #6937
-#6939-6940
+#6939-6941
+#6948
 #6951
-#6964
+#6960
+#6964-6965
+#6968
 #6986
 #7054-7056
 #7098-7111
-#7147
+#7147-7149
 #7180
 #7183-7188
 #7251
@@ -354,10 +386,15 @@ Jacobson;Personnel;Federation;The Motion Pictures;200,7188;;4;0
 #7527
 #7529
 #7613
-#7615-7644
+#7615-7647
+#7713
 #7849
 #7851
 #7859
-#7861-7862
+#7861-7863
+#7870
 #7873
-#7886
+#7882
+#7886-7887
+#7890
+#7908

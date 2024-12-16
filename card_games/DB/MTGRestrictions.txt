@@ -50,7 +50,6 @@ Gitaxian Probe;Modern-Banned/Legacy-Banned/Vintage-Restricted/Pauper-Banned
 Goblin Recruiter;Legacy-Banned
 Golgari Grave-Troll;Modern-Banned/Vintage-Restricted
 Great Furnace;Modern-Banned/Mirrodin Block-Banned
-Green Sun's Zenith;Modern-Banned
 Grief;Modern-Banned/Legacy-Banned
 Griselbrand;Commander-Banned/Oathbreaker-Banned
 Gush;Legacy-Banned/Vintage-Restricted/Pauper-Banned
@@ -156,3 +155,7 @@ Yawgmoth's Bargain;Oathbreaker-Banned/Commander-Banned/Legacy-Banned
 Yawgmoth's Will;Legacy-Banned/Vintage-Restricted
 Zuran Orb;Ice Age Block-Banned
 Leovold, Emissary of Trest;Commander-Banned
+Psychic Frog;Legacy-Banned
+Vexing Bauble;Legacy-Banned
+Dreadhorde Arcanist;Legacy-Banned
+Nadu, Winged Wisdom;Modern-Banned/Commander-Banned

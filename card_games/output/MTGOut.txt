@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 6522 items (6470 actual cards).
-Have 679 out of 26174 total cards for a playset - 2.59 percent
+Tracking 6543 items (6491 actual cards).
+Have 679 out of 26258 total cards for a playset - 2.59 percent
 
 *** VINTAGE ***
-There are 6522 Vintage legal cards
-Have 676 out of 26108 - 2.59 percent of a playset
+There are 6543 Vintage legal cards
+Have 676 out of 26192 - 2.58 percent of a playset
 Chosen card is a(n) Creature from Exodus - Keeper of the Light. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,68 +24,68 @@ Most needed cards are:
  - Swords to Plowshares: 24
 
 *** LEGACY ***
-There are 6399 Legacy legal cards
-Have 654 out of 25967 - 2.52 percent of a playset
+There are 6417 Legacy legal cards
+Have 654 out of 26039 - 2.51 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Stronghold Biologist. I own 0 of 4
 
-Closest deck to completion (Painter) is at 63 cards.
-{"Agatha's Soul Cauldron": 3, 'Ancient Tomb': 4, 'Arena of Glory': 1, "Breya's Apprentice": 1, 'Chaos Defiler': 1, 'City of Traitors': 1, 'Fable of the Mirror-Breaker': 4, 'Goblin Engineer': 4, 'Goblin Welder': 4, 'Great Furnace': 2, 'Grindstone': 2, 'Lightning Bolt': 1, 'Lotus Petal': 1, "Painter's Servant": 4, 'Phyrexian Devourer': 1, 'Phyrexian Dragon Engine': 1, 'Pyroblast': 3, 'Red Elemental Blast': 3, 'Simian Spirit Guide': 2, 'Soul-Guide Lantern': 1, "Urza's Saga": 4, 'Vexing Bauble': 3, 'Ensnaring Bridge': 1, 'Faerie Macabre': 3, 'Fury': 3, 'Magus of the Moon': 4, 'Pithing Needle': 1}
+Closest deck to completion (JeskaiControl) is at 65 cards.
+{'Arid Mesa': 1, 'Back to Basics': 2, 'Brainstorm': 3, "Day's Undoing": 1, 'Dress Down': 2, 'Flooded Strand': 4, 'Force of Negation': 2, 'Force of Will': 4, 'Forth Eorlingas!': 2, 'Lorien Revealed': 2, 'Narset, Parter of Veils': 4, 'Ponder': 3, 'Prismatic Ending': 3, 'Prismatic Vista': 4, 'Supreme Verdict': 2, 'Swords to Plowshares': 3, 'Tamiyo, Inquisitive Student': 2, 'Teferi, Time Raveler': 2, 'Tundra': 2, 'Volcanic Island': 1, 'Wrath of the Skies': 2, 'Celestial Purge': 1, 'Consign to Memory': 3, "Grafdigger's Cage": 1, 'Harbinger of the Seas': 2, 'Hydroblast': 1, 'Purify the Grave': 1, 'Pyroblast': 2, 'Red Elemental Blast': 1, 'Ruination': 1, 'Surgical Extraction': 1}
 
 Most needed cards are:
- - Wasteland: 47
- - Force of Will: 44
- - Brainstorm: 30
- - Ponder: 30
- - Swords to Plowshares: 28
- - Vexing Bauble: 25
- - Ancient Tomb: 23
- - Consign to Memory: 23
- - Flooded Strand: 23
- - Pyroblast: 23
+ - Wasteland: 32
+ - Force of Will: 28
+ - Brainstorm: 18
+ - Flooded Strand: 18
+ - Ponder: 18
+ - Cavern of Souls: 16
+ - Leyline of the Void: 16
+ - Swords to Plowshares: 16
+ - Consign to Memory: 15
+ - Daze: 13
 
 *** MODERN ***
-There are 1522 Modern legal cards
-Have 462 out of 6459 - 7.15 percent of a playset
+There are 1537 Modern legal cards
+Have 462 out of 6519 - 7.09 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Avalanche Riders. I own 0 of 4
 
-Closest deck to completion (Mono-Black Midrange) is at 63 cards.
-{"Agadeem's Awakening": 2, 'Boggart Trawler': 4, 'Castle Locthwain': 2, 'Fatal Push': 4, 'Fell the Profane': 4, 'Inquisition of Kozilek': 3, 'March of Wretched Sorrow': 3, 'Necrodominance': 4, 'Orcish Bowmasters': 4, 'Sheoldred, the Apocalypse': 4, 'Soul Spike': 4, 'Takenuma, Abandoned Mire': 1, 'The Meathook Massacre': 2, 'The One Ring': 4, 'Thoughtseize': 4, 'Break the Ice': 4, 'Damping Sphere': 2, 'Dauthi Voidwalker': 4, 'Force of Despair': 2, 'Surgical Extraction': 2}
+Closest deck to completion (Generic Ragavan) is at 67 cards.
+{'Arena of Glory': 4, 'Arid Mesa': 4, "Detective's Phoenix": 3, "Dragon's Rage Channeler": 4, 'Elegant Parlor': 1, 'Fear of Missing Out': 4, "Mishra's Bauble": 4, 'Oliphaunt': 4, 'Ragavan, Nimble Pilferer': 4, 'Scalding Tarn': 2, 'Screaming Nemesis': 4, 'Soul-Guide Lantern': 4, 'Sunspine Lynx': 4, 'Tarfire': 4, 'Unholy Heat': 4, 'Magebane Lizard': 3, 'Magus of the Moon': 3, 'Obsidian Charmaw': 3, 'Pyroclasm': 4}
 
 Most needed cards are:
- - The One Ring: 92
- - Consign to Memory: 80
- - Fatal Push: 54
- - Thoughtseize: 52
- - Flooded Strand: 51
- - Orcish Bowmasters: 50
- - Damping Sphere: 45
- - Polluted Delta: 45
- - Arid Mesa: 42
- - Wooded Foothills: 42
+ - Consign to Memory: 33
+ - Damping Sphere: 31
+ - Bloodstained Mire: 29
+ - Fatal Push: 28
+ - Polluted Delta: 28
+ - Orcish Bowmasters: 27
+ - Thoughtseize: 25
+ - Verdant Catacombs: 25
+ - Sink into Stupor: 24
+ - Urza's Saga: 24
 
 *** PIONEER ***
-There are 564 Pioneer legal cards
-Have 366 out of 2627 - 13.93 percent of a playset
+There are 570 Pioneer legal cards
+Have 366 out of 2651 - 13.81 percent of a playset
 Chosen card is a(n) Sorcery from Welcome Deck 2017 - Wing Snare. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
 {'Bloodletter of Aclazotz': 4, 'Castle Locthwain': 2, 'Duress': 4, 'Fatal Push': 4, 'Field of Ruin': 2, 'Graveyard Trespasser': 2, 'Hive of the Eye Tyrant': 2, 'Invoke Despair': 4, 'Mutavault': 4, 'Reckoner Bankbuster': 2, "Sheoldred's Edict": 4, 'Takenuma, Abandoned Mire': 1, 'Thoughtseize': 4, 'Unholy Annex/Ritual Chamber': 4, 'Unstoppable Slasher': 4, 'Urborg, Tomb of Yawgmoth': 1, 'Caustic Bronco': 4, 'Cut Down': 3, 'Go Blank': 2, 'March of Wretched Sorrow': 1, 'The Meathook Massacre': 1, 'Unlicensed Hearse': 2}
 
 Most needed cards are:
- - Fatal Push: 71
- - Thoughtseize: 62
- - Fable of the Mirror-Breaker: 56
- - Sacred Foundry: 42
- - Mutavault: 40
- - Portable Hole: 40
- - Duress: 35
- - Torch the Tower: 31
- - Unlicensed Hearse: 29
- - Mystical Dispute: 27
+ - Fatal Push: 48
+ - Thoughtseize: 39
+ - Sacred Foundry: 38
+ - Fable of the Mirror-Breaker: 37
+ - Portable Hole: 37
+ - Mutavault: 34
+ - Get Lost: 26
+ - Rest in Peace: 25
+ - Duress: 24
+ - Temple Garden: 24
 
 *** STANDARD ***
-There are 227 Standard legal cards
-Have 221 out of 1099 - 20.11 percent of a playset
+There are 228 Standard legal cards
+Have 221 out of 1103 - 20.04 percent of a playset
 Chosen card is a(n) Instant from Masters 25 - Disfigure. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 55 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Temporary Lockdown: 34
 
 *** PAUPER ***
-There are 2326 Pauper legal cards
-Have 266 out of 9675 - 2.75 percent of a playset
+There are 2331 Pauper legal cards
+Have 266 out of 9695 - 2.74 percent of a playset
 Chosen card is a(n) Creature from Torment - Cabal Surgeon. I own 0 of 4
 
 Closest deck to completion (Devotion) is at 55 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Relic of Progenitus: 22
 
 *** OATHBREAKER ***
-There are 6411 Oathbreaker legal cards
-Have 612 out of 6815 - 8.98 percent of a playset
+There are 6432 Oathbreaker legal cards
+Have 612 out of 6836 - 8.95 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Stronghold Biologist. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -144,8 +144,8 @@ Most needed cards are:
  - Mystic Sanctuary: 3
 
 *** ICE AGE BLOCK ***
-There are 527 Ice Age Block legal cards
-Have 101 out of 2468 - 4.09 percent of a playset
+There are 528 Ice Age Block legal cards
+Have 101 out of 2472 - 4.09 percent of a playset
 Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Goblin Snowman. I own 0 of 4
 
 Closest deck to completion (TD - Beyond the Grave) is at 36 cards.
@@ -264,8 +264,8 @@ Most needed cards are:
  - Nightscape Familiar: 20
 
 *** ODYSSEY BLOCK ***
-There are 553 Odyssey Block legal cards
-Have 97 out of 2392 - 4.06 percent of a playset
+There are 560 Odyssey Block legal cards
+Have 97 out of 2420 - 4.01 percent of a playset
 Chosen card is a(n) Creature from Judgment - Barbarian Bully. I own 0 of 4
 
 Closest deck to completion (TD - One-Two Punch) is at 35 cards.
@@ -284,8 +284,8 @@ Most needed cards are:
  - Innocent Blood: 20
 
 *** ONSLAUGHT BLOCK ***
-There are 92 Onslaught Block legal cards
-Have 98 out of 548 - 17.88 percent of a playset
+There are 93 Onslaught Block legal cards
+Have 98 out of 552 - 17.75 percent of a playset
 Chosen card is a(n) Creature from Legions - Dark Supplicant. I own 0 of 4
 
 Closest deck to completion (B - Clerics) is at 34 cards.
@@ -304,8 +304,8 @@ Most needed cards are:
  - Smother: 23
 
 *** MIRRODIN BLOCK ***
-There are 72 Mirrodin Block legal cards
-Have 105 out of 468 - 22.44 percent of a playset
+There are 74 Mirrodin Block legal cards
+Have 105 out of 476 - 22.06 percent of a playset
 Chosen card is a(n) Creature from Antiquities - Atog. I own 0 of 4
 
 Closest deck to completion (BR - Artifact Recursion) is at 32 cards.
@@ -324,8 +324,8 @@ Most needed cards are:
  - Forest: 21
 
 *** KAMIGAWA BLOCK ***
-There are 23 Kamigawa Block legal cards
-Have 92 out of 272 - 33.82 percent of a playset
+There are 24 Kamigawa Block legal cards
+Have 92 out of 276 - 33.33 percent of a playset
 Chosen card is a(n) Creature from Betrayers of Kamigawa - Floodbringer. I own 0 of 4
 
 Closest deck to completion (B - OniOgre) is at 36 cards.
@@ -344,8 +344,8 @@ Most needed cards are:
  - Hinder: 63
 
 *** PAUPER COMMANDER ***
-There are 3269 Pauper Commander legal cards
-Have 292 out of 3673 - 7.95 percent of a playset
+There are 3277 Pauper Commander legal cards
+Have 292 out of 3681 - 7.93 percent of a playset
 Chosen card is a(n) Creature from Torment - Barbarian Outcast. I own 0 of 1
 
 Closest deck to completion (Vhal, Candlekeep Researcher) is at 62 cards.
@@ -364,21 +364,21 @@ Most needed cards are:
  - Mystic Sanctuary: 5
 
 *** COMMANDER ***
-There are 6418 Commander legal cards
-Have 613 out of 6822 - 8.99 percent of a playset
+There are 6438 Commander legal cards
+Have 613 out of 6842 - 8.96 percent of a playset
 Chosen card is a(n) Creature from Nemesis - Stronghold Biologist. I own 0 of 1
 
 Most needed cards are:
  - Plains: 459
  - Mountain: 253
+ - Island: 176
  - Forest: 169
- - Island: 159
  - Snow-Covered Plains: 115
- - Ancient Tomb: 87
- - Snow-Covered Island: 74
+ - Ancient Tomb: 88
+ - Snow-Covered Island: 75
  - Snow-Covered Mountain: 74
- - Mana Vault: 69
- - Swiftfoot Boots: 67
+ - Mana Vault: 70
+ - Swiftfoot Boots: 68
 
 Decks for various Commander Color IDs:
 Color Combo: B-Black, Commander: SzarekhTheSilentKing
@@ -468,22 +468,22 @@ Oldest Commander deck is BG-Golgari/Hazel of the Rootbloom, last updated 08/22/2
 221 total creature types
 
 Percentages ordered by format:
-Kamigawa Block: 33.82
-Mirrodin Block: 22.44
-Standard: 20.11
-Onslaught Block: 17.88
-Pioneer: 13.93
-Commander: 8.99
-Oathbreaker: 8.98
-Pauper Commander: 7.95
-Modern: 7.15
+Kamigawa Block: 33.33
+Mirrodin Block: 22.06
+Standard: 20.04
+Onslaught Block: 17.75
+Pioneer: 13.81
+Commander: 8.96
+Oathbreaker: 8.95
+Pauper Commander: 7.93
+Modern: 7.09
 Ice Age Block: 4.09
-Odyssey Block: 4.06
+Odyssey Block: 4.01
 Tempest Block: 3.65
 Urza's Block: 3.57
 Invasion Block: 3.53
 Mirage Block: 3.51
 Masques Block: 3.46
-Pauper: 2.75
-Vintage: 2.59
-Legacy: 2.52
+Pauper: 2.74
+Vintage: 2.58
+Legacy: 2.51
