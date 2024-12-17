@@ -18,6 +18,7 @@ import card_games.city_of_heroes as city_of_heroes
 import card_games.daemon_dice as daemon_dice
 import card_games.dragon_dice as dragon_dice
 import card_games.star_trek_second_edition as star_trek_second_edition
+import card_games.star_trek_first_edition as star_trek_first_edition
 import card_games.tribbles as tribbles
 import card_games.star_wars_unlimited as star_wars_unlimited
 import card_games.magic_gathering as magic_gathering
@@ -36,7 +37,7 @@ else:
 
 started_games = [anachronism, daemon_dice, dragon_dice, star_wars_unlimited,
     star_trek_second_edition, tribbles, city_of_heroes, wyvern, dbs_fusion_world, grand_archive,
-    lorcana, one_piece, magic_gathering, l5r]
+    lorcana, one_piece, magic_gathering, l5r, star_trek_first_edition]
 
 TOTAL_HAVE = 0
 TOTAL_MAX = 0
@@ -70,9 +71,13 @@ if __name__ == "__main__":
     lowest_game_string = f"Lowest game is {game_data[0][0]} at {lowest_game_percentage:.2f} " + \
         f"percent ({game_data[0][1]} / {game_data[0][2]})"
     double_print(lowest_game_string, out_file_h)
-    next_lowest_percentage = game_data[1][1] * 100 / game_data[1][2]
-    next_lowest_string = f"- (Next lowest game is {next_lowest_percentage:.2f} percent)"
-    double_print(next_lowest_string, out_file_h)
+
+    double_print("\nFive Lowest Games (by percentage):", out_file_h)
+    for game_info in game_data[:5]:
+        info_n, info_h, info_t = game_info
+        info_p = info_h/info_t
+        pt_str = f"- {info_n}: {100 * info_p:.2f} ({info_h}/{info_t})"
+        double_print(pt_str, out_file_h)
 
     out_file_h.close()
     if not os.getcwd().endswith('card-minis-boardgames'):

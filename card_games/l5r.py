@@ -36,7 +36,8 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'Samurai Edition', 'Tomorrow', "Khan's Defiance", "Promotional-Twenty Festivals",
     "The Plague War", 'The Currency of War', 'Samurai Edition Banzai', 'War of Honor',
     'The Imperial Gift 2', "Empire at War", "A Matter of Honor", "Honor and Treachery",
-    "Embers of War", "Words and Deeds", "The Blackest Storm",
+    "Embers of War", "Words and Deeds", "The Blackest Storm", "Hidden Forest War",
+    "The Heaven's Will",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -50,13 +51,13 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     "Hidden Emperor 5", "Fire & Shadow", "Emerald Edition", "Obsidian Edition", "Promotional-CWF",
     "Broken Blades", "Hidden Emperor 1", "Storms Over Matsu Palace", "Scorpion Clan Coup 2",
     "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain", 'Hidden Emperor 3',
-    "Dawn of the Empire", "Reign of Blood",
+    "Dawn of the Empire", "Reign of Blood", "Enemy of My Enemy",
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
     "A Brother's Destiny (Twenty Festivals)", "A Brother's Destiny (Ivory Edition)",
     'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',
-    'Onyx Edition']
+    'Onyx Edition', 'Shattered Empire',]
 
 def parse_sets(this_card_name, set_string):
     """

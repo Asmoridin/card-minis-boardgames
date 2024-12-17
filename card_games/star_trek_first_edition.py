@@ -7,6 +7,8 @@ Inventory tracker and purchase selector for the Star Trek 1st Edition CCG
 import os
 import sys
 
+GAME_NAME = "Star Trek: First Edition"
+
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/StarTrek1EData.txt', 'r', encoding="UTF-8")
     sys.path.append('.')
@@ -45,6 +47,7 @@ class Card:
         self.card_affil = in_card_affil
         self.card_sets = in_card_sets
         self.canon_number = min(in_card_numbers)
+        self.in_card_alt_fac_num = in_card_alt_fac_num
 
 in_lines = file_h.readlines()
 file_h.close()
@@ -112,9 +115,11 @@ for line in in_lines:
     TOTAL_MAX += card_max
     TOTAL_OWN += card_own
     card_lines.append([card_name, card_type, card_affil, card_sets, card_numbers, \
-        alt_numbers, card_max, card_own])
+        alt_numbers, CARD_PRINT, card_own, card_max])
 
-print(card_lines)
+print_choice, filtered_lines = sort_and_filter(card_lines, 6)
+#print(print_choice)
+#print(filtered_lines)
 
 if __name__=="__main__":
     if os.getcwd().endswith('card-minis-boardgames'):
