@@ -321,8 +321,8 @@ Foreboding Path;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty 
 Foreboding Path;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
-Gallant Defeat;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
-Gallant Defeat;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Gallant Defeat;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);6;0
+Gallant Defeat;Strategy;;The Blackest Storm (Fixed);Onyx Edition;6;0
 Gifts and Favors;Holding;;1,000 Years of Darkness (Fixed)/Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Gifts and Favors;Holding;;1,000 Years of Darkness (Fixed)/Promotional–Gold (Promo);Four Winds (Gold);3;0
 Gifts and Favors;Holding;;Lotus Edition (Common)/Promotional–Lotus (Promo)/Training Grounds 2 (Fixed)/Tomorrow (Fixed);Age of Enlightenment (Lotus);3;0
