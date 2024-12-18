@@ -99,6 +99,7 @@ for line in in_lines:
     if line.startswith('#') or line == '':
         continue
     try:
+        line = line.split('#')[0].strip()
         card_name, card_type, card_clan, card_sets, card_format, card_max, \
             card_own = line.split(';')
     except ValueError:

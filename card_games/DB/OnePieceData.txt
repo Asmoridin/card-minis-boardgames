@@ -51,7 +51,7 @@ Baby 5;OP05-033;Character;G;Donquixote Pirates;-AWAKENING OF THE NEW ERA-[OP05];
 Baby 5;OP05-034;Character;G;Donquixote Pirates;-AWAKENING OF THE NEW ERA-[OP05];1
 Baccarat;OP07-010;Character;R;FILM/Grantesoro;-500 YEARS IN THE FUTURE- [OP-07];1
 Baccarat;ST05-012;Character;P;FILM/Grantesoro;ONE PIECE FILM edition [ST-05];0
-Backlight;ST11-003;Event;G;Music/FILM;-Uta-[ST-11]/-Green Uta- [ST-16];0
+Backlight;ST11-003;Event;G;Music/FILM;-Uta-[ST-11]/-Green Uta- [ST-16];4
 Bad Manners Kick Course;OP04-016;Event;R;Alabasta/Straw Hat Crew;-KINGDOMS OF INTRIGUE- [OP04];0
 Bananagator;OP04-062;Character;P;Animal;-KINGDOMS OF INTRIGUE- [OP04];0
 Bao Huang;OP01-105;Character;P;Animal Kingdom Pirates/SMILE;-ROMANCE DAWN- [OP01];0
@@ -68,7 +68,7 @@ Bartolomeo;OP01-019;Character;R;Supernovas/Barto Club;-ROMANCE DAWN- [OP01];0
 Bartolomeo;OP04-089;Character;B;Dressrosa/Barto Club;-KINGDOMS OF INTRIGUE- [OP04];0
 Bartolomeo;OP07-031;Character;G;Supernovas/Barto Club;-500 YEARS IN THE FUTURE- [OP-07];3
 Bartolomeo;P-018;Character;R;FILM/Supernovas/Barto Club;Promo;0
-Bartolomeo;P-029;Character;G;FILM/Supernovas/Barto Club;Promo/-Green Uta- [ST-16];1
+Bartolomeo;P-029;Character;G;FILM/Supernovas/Barto Club;Promo/-Green Uta- [ST-16];4
 Basil Hawkins;OP01-106;Character;P;Animal Kingdom Pirates/Hawkins Pirates;-ROMANCE DAWN- [OP01];0
 Basil Hawkins;OP05-047;Character;U;Animal Kingdom Pirates/Hawkins Pirates;-AWAKENING OF THE NEW ERA-[OP05];3
 Basil Hawkins;OP07-029;Character;G;Supernovas/Hawkins Pirates;-500 YEARS IN THE FUTURE- [OP-07];1
@@ -201,7 +201,7 @@ Charlotte Katakuri;OP03-123;Character;Y;Big Mom Pirates;-PILLARS OF STRENGTH- [O
 Charlotte Katakuri;OP08-062;Character;P;Big Mom Pirates;-TWO LEGENDS- [OP-08];0
 Charlotte Katakuri;OP08-063;Character;P;Big Mom Pirates;-TWO LEGENDS- [OP-08];0
 Charlotte Katakuri;ST07-003;Character;Y;Big Mom Pirates;Big Mom Pirates [ST-07];2
-Charlotte Katakuri;ST16-003;Character;G;FILM/Big Mom Pirates;-Green Uta- [ST-16];0
+Charlotte Katakuri;ST16-003;Character;G;FILM/Big Mom Pirates;-Green Uta- [ST-16];4
 Charlotte Katakuri;ST20-001;Character;Y;Big Mom Pirates;-Yellow Charlotte Katakuri- [ST-20];0
 Charlotte Linlin;OP03-077;Leader;B/Y;The Four Emperors/Big Mom Pirates;-PILLARS OF STRENGTH- [OP03];0
 Charlotte Linlin;OP03-114;Character;Y;The Four Emperors/Big Mom Pirates;-PILLARS OF STRENGTH- [OP03]/-WINGS OF THE CAPTAIN-[OP06];0
@@ -272,7 +272,7 @@ Dalmatian;OP05-046;Character;U;Navy;-AWAKENING OF THE NEW ERA-[OP05];3
 Dalton;OP08-008;Character;R;Drum Kingdom;-TWO LEGENDS- [OP-08];0
 Daruma;OP06-029;Character;G;Fish-Man/New Fish-Man Pirates;-WINGS OF THE CAPTAIN-[OP06];1
 Deathly Poison Gas Bomb MH5;OP03-038;Event;G;East Blue/Krieg Pirates;-PILLARS OF STRENGTH- [OP03];0
-Dellinger;OP04-029;Character;G;Donquixote Pirates;-KINGDOMS OF INTRIGUE- [OP04];0
+Dellinger;OP04-029;Character;G;Donquixote Pirates;-KINGDOMS OF INTRIGUE- [OP04];1
 Demon Face;OP01-056;Event;G;Supernovas/Hawkins Pirates;-ROMANCE DAWN- [OP01];0
 Demonic Aura Nine-Sword Style Asura Demon Nine Flash;OP07-036;Event;G;Supernovas/Straw Hat Crew;-500 YEARS IN THE FUTURE- [OP-07];1
 Denjiro;OP01-046;Character;G;Land of Wano/The Akazaya Nine;-ROMANCE DAWN- [OP01];0
@@ -368,7 +368,7 @@ Fisher Tiger;OP07-032;Character;G;Fish-Man/The Sun Pirates;-500 YEARS IN THE FUT
 Flame Dragon King;ST13-017;Event;Y;Dressrosa/Revolutionary Army;The Three Brothers-[ST13];0
 Flame Emperor;OP03-016;Event;R;Whitebeard Pirates;-PILLARS OF STRENGTH- [OP03];0
 Flapping Thread;OP04-037;Event;G;The Seven Warlords of the Sea/Donquixote Pirates;-KINGDOMS OF INTRIGUE- [OP04];0
-Fleeting Lullaby;P-057;Character;G;Music/FILM;Promo/-Green Uta- [ST-16];0
+Fleeting Lullaby;P-057;Character;G;Music/FILM;Promo/-Green Uta- [ST-16];4
 Fossa;OP03-010;Character;R;Whitebeard Pirates;-PILLARS OF STRENGTH- [OP03]/-Red Edward.Newgate- [ST-15];4
 Four Thousand-Brick Fist;OP05-020;Event;R;Fish-Man/Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];3
 Fourtricks;EB01-025;Character;U;Animal Kingdom Pirates/SMILE;-Memorial Collection- [EB-01];0
@@ -424,7 +424,7 @@ Gloriosa (Grandma Nyon);OP07-041;Character;U;Amazon Lily;-500 YEARS IN THE FUTUR
 Gordon;OP01-011;Character;R;FILM;-ROMANCE DAWN- [OP01];0
 Gordon;P-013;Character;R;FILM;Promo;0
 Gordon;ST05-007;Character;P;FILM;ONE PIECE FILM edition [ST-05];0
-Gordon;ST16-002;Character;G;FILM;-Green Uta- [ST-16];0
+Gordon;ST16-002;Character;G;FILM;-Green Uta- [ST-16];4
 Gravity Blade Raging Tiger;OP06-058;Event;U;Navy;-WINGS OF THE CAPTAIN-[OP06];0
 Great Eruption;ST06-015;Event;B;Navy;Absolute Justice- [ST-06];0
 Green Star Rafflesia;OP01-028;Event;R;Straw Hat Crew;-ROMANCE DAWN- [OP01];0
@@ -507,7 +507,7 @@ I Re-Quasar Helllp!!;OP07-115;Event;Y;Scientist/Egghead;-500 YEARS IN THE FUTURE
 I Smell Adventure!!!;P-002;Event;R;Straw Hat Crew;Promo;0
 I'd Never Shoot You!!!!;OP08-017;Event;R;Drum Kingdom;-TWO LEGENDS- [OP-08];0
 I'm Gonna Be King of the Pirates!!;P-024;Event;G;Supernovas/Straw Hat Crew;Promo;0
-I'm invincible;ST11-005;Event;G;Music/FILM;-Uta-[ST-11]/-Green Uta- [ST-16];0
+I'm invincible;ST11-005;Event;G;Music/FILM;-Uta-[ST-11]/-Green Uta- [ST-16];4
 Ice Age;OP02-117;Event;B;Navy;-PARAMOUNT WAR- [OP02]/-Black Smoker- [ST-19];2
 Ice Oni;OP04-047;Character;U;Plague/Animal Kingdom Pirates;-KINGDOMS OF INTRIGUE- [OP04];0
 Iceburg;OP03-058;Leader;P;Water Seven/Galley-La Company;-PILLARS OF STRENGTH- [OP03];0
@@ -579,7 +579,7 @@ John Giant;OP05-044;Character;U;Giant/Navy;-AWAKENING OF THE NEW ERA-[OP05];4
 Joseph;OP07-092;Character;B;CP0;-500 YEARS IN THE FUTURE- [OP-07];3
 Jozu;OP02-008;Character;R;Whitebeard Pirates;-PARAMOUNT WAR- [OP02]/-Red Edward.Newgate- [ST-15];4
 Jozu;OP08-047;Character;U;Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
-Judgment of Hell;OP02-089;Event;P;Impel Down;-PARAMOUNT WAR- [OP02];1
+Judgment of Hell;OP02-089;Event;P;Impel Down;-PARAMOUNT WAR- [OP02];2
 Just Shut Up and Come with Us!!!!;EB01-009;Event;R;Drum Kingdom/Straw Hat Crew;-Memorial Collection- [EB-01];0
 KEEP OUT;OP07-018;Event;R;Impel Down/Revolutionary Army;-500 YEARS IN THE FUTURE- [OP-07];4
 Kaido & Linlin;OP08-119;Character;P;The Four Emperors/Animal Kingdom Pirates/Big Mom Pirates;-TWO LEGENDS- [OP-08];0
@@ -631,12 +631,12 @@ Kingdew;OP02-006;Character;R;Whitebeard Pirates;-PARAMOUNT WAR- [OP02];2
 Kingdew;OP08-044;Character;U;Whitebeard Pirates;-TWO LEGENDS- [OP-08];0
 Kingdew;ST15-003;Character;R;Whitebeard Pirates;-Red Edward.Newgate- [ST-15];4
 Kingdom Come;EB01-059;Event;Y;Sky Island;-Memorial Collection- [EB-01];0
-Kingdom of GERMA;OP06-079;Stage;P;Kingdom of GERMA;-WINGS OF THE CAPTAIN-[OP06];2
+Kingdom of GERMA;OP06-079;Stage;P;Kingdom of GERMA;-WINGS OF THE CAPTAIN-[OP06];3
 Kiwi & Mozu;OP03-061;Character;P;Water Seven/The Franky Family;-PILLARS OF STRENGTH- [OP03];0
 Koala;OP05-006;Character;R;Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];0
 Koala;OP07-024;Character;G;Foolshout Island;-500 YEARS IN THE FUTURE- [OP-07];4
 Koby;OP02-098;Character;B;Navy;-PARAMOUNT WAR- [OP02]/-Black Smoker- [ST-19];1
-Koby;P-014;Character;R;FILM/Navy;Promo;1
+Koby;P-014;Character;R;FILM/Navy;Promo;2
 Koby;ST02-006;Character;G;Navy;-Worst Generation-[ST-02];0
 Koby;ST06-002;Character;B;Navy;Absolute Justice- [ST-06];0
 Koby;ST08-004;Character;B;Navy;Monkey D. Luffy-[ST-08];0
@@ -791,7 +791,7 @@ Monkey.D.Luffy;P-041;Character;P;The Four Emperors/Straw Hat Crew;Promo/-Purple 
 Monkey.D.Luffy;P-043;Character;U;Straw Hat Crew;Promo;0
 Monkey.D.Luffy;P-047;Leader;U;Straw Hat Crew;Promo;0
 Monkey.D.Luffy;P-055;Character;U;Straw Hat Crew;Promo;0
-Monkey.D.Luffy;P-061;Character;G;FILM/Straw Hat Crew;Promo/-Green Uta- [ST-16];0
+Monkey.D.Luffy;P-061;Character;G;FILM/Straw Hat Crew;Promo/-Green Uta- [ST-16];4
 Monkey.D.Luffy;ST01-001;Leader;R;Supernovas/Straw Hat Crew;-Straw Hat Crew-[ST-01];0
 Monkey.D.Luffy;ST01-012;Character;R;Supernovas/Straw Hat Crew;-Straw Hat Crew-[ST-01]/-PILLARS OF STRENGTH- [OP03]/-AWAKENING OF THE NEW ERA-[OP05];0
 Monkey.D.Luffy;ST08-001;Leader;B;Straw Hat Crew;Monkey D. Luffy-[ST-08];0
@@ -804,7 +804,7 @@ Monkey.D.Luffy;ST13-014;Character;Y;Goa Kingdom;The Three Brothers-[ST13];0
 Monkey.D.Luffy;ST13-015;Character;Y;Supernovas/Straw Hat Crew;The Three Brothers-[ST13];0
 Monkey.D.Luffy;ST14-001;Leader;B;Straw Hat Crew;-3D2Y- [ST-14];0
 Monkey.D.Luffy;ST14-012;Character;B;Straw Hat Crew;-3D2Y- [ST-14];0
-Monkey.D.Luffy;ST16-005;Character;G;FILM/Supernovas/Straw Hat Crew;-Green Uta- [ST-16];0
+Monkey.D.Luffy;ST16-005;Character;G;FILM/Supernovas/Straw Hat Crew;-Green Uta- [ST-16];2
 Mont Blanc Cricket;EB01-058;Character;Y;Monkey Mountain Alliance;-Memorial Collection- [EB-01];0
 Mont Blanc Cricket;OP08-108;Character;Y;Jaya/Monkey Mountain Alliance;-TWO LEGENDS- [OP-08];1
 Mont Blanc Noland;OP08-109;Character;Y;Jaya/Botanist;-TWO LEGENDS- [OP-08];0
@@ -862,10 +862,10 @@ Nefeltari Vivi;ST08-007;Character;B;Alabasta;Monkey D. Luffy-[ST-08];0
 Negative Hollow;OP06-097;Event;B;Thriller Bark Pirates;-WINGS OF THE CAPTAIN-[OP06];0
 Nekomamushi;OP01-048;Character;G;Minks/Land of Wano/The Akazaya Nine;-ROMANCE DAWN- [OP01];0
 Nekomamushi;OP02-038;Character;G;Minks/Land of Wano/The Akazaya Nine;-PARAMOUNT WAR- [OP02];3
-Nekomamushi;OP06-110;Character;Y;Minks/Land of Wano/The Akazaya Nine;-WINGS OF THE CAPTAIN-[OP06];0
+Nekomamushi;OP06-110;Character;Y;Minks/Land of Wano/The Akazaya Nine;-WINGS OF THE CAPTAIN-[OP06];1
 Nekomamushi;OP08-028;Character;G;Minks/The Akazaya Nine;-TWO LEGENDS- [OP-08];0
 Nero;OP03-087;Character;B;CP9;-PILLARS OF STRENGTH- [OP03];0
-New Genesis;ST11-004;Event;G;Music/FILM;-Uta-[ST-11]/-Green Uta- [ST-16];0
+New Genesis;ST11-004;Event;G;Music/FILM;-Uta-[ST-11]/-Green Uta- [ST-16];4
 New Kama Land;OP02-070;Stage;U;Impel Down;-PARAMOUNT WAR- [OP02];2
 Nez-Palm Cannon;OP04-075;Event;P;Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 Nico Robin;OP01-017;Character;R;Straw Hat Crew;-ROMANCE DAWN- [OP01];0
@@ -961,7 +961,7 @@ Queen;OP04-046;Character;U;Animal Kingdom Pirates;-KINGDOMS OF INTRIGUE- [OP04];
 Queen;OP08-080;Character;B;Animal Kingdom Pirates;-TWO LEGENDS- [OP-08];0
 Queen;ST04-005;Character;P;Animal Kingdom Pirates;-Animal Kingdom Pirates-[ST-04]/-TWO LEGENDS- [OP-08];0
 Rabiyan;OP04-113;Character;Y;Big Mom Pirates/Homies;-KINGDOMS OF INTRIGUE- [OP04];0
-Radical Beam!!;OP01-029;Event;R;Straw Hat Crew;-ROMANCE DAWN- [OP01];0
+Radical Beam!!;OP01-029;Event;R;Straw Hat Crew;-ROMANCE DAWN- [OP01];1
 Raise Max;OP06-016;Character;R;FILM/Revolutionary Army;-WINGS OF THE CAPTAIN-[OP06];1
 Raizo;OP01-052;Character;G;Land of Wano/The Akazaya Nine;-ROMANCE DAWN- [OP01];0
 Raizo;OP06-112;Character;Y;Land of Wano/The Akazaya Nine;-WINGS OF THE CAPTAIN-[OP06];3
@@ -1009,7 +1009,7 @@ S-Snake;OP08-112;Character;Y;Egghead/Seraphim;-TWO LEGENDS- [OP-08];0
 Sables;ST03-015;Event;U;The Seven Warlords of the Sea/Baroque Works;-The Seven Warlords of the Sea-[ST-03];0
 Sabo;OP04-083;Character;B;Dressrosa/Revolutionary Army;-KINGDOMS OF INTRIGUE- [OP04];0
 Sabo;OP05-001;Leader;R/B;Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];1
-Sabo;OP05-007;Character;R;Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];1
+Sabo;OP05-007;Character;R;Revolutionary Army;-AWAKENING OF THE NEW ERA-[OP05];2
 Sabo;OP07-118;Character;B;Revolutionary Army;-500 YEARS IN THE FUTURE- [OP-07];0
 Sabo;ST13-001;Leader;R/Y;Dressrosa/Revolutionary Army;The Three Brothers-[ST13];0
 Sabo;ST13-007;Character;Y;Goa Kingdom;The Three Brothers-[ST13];0
@@ -1083,7 +1083,7 @@ Shanks;P-051;Character;U;Red-Haired Pirates;Promo;0
 Shanks;ST05-001;Leader;P;FILM/The Four Emperors/Red-Haired Pirates;ONE PIECE FILM edition [ST-05];0
 Shanks;ST08-005;Character;B;Red-Haired Pirates;Monkey D. Luffy-[ST-08];0
 Shanks;ST13-009;Character;Y;The Four Emperors/Red-Haired Pirates;The Three Brothers-[ST13];0
-Shanks;ST16-004;Character;G;FILM/The Four Emperors/Red-Haired Pirates;-Green Uta- [ST-16];0
+Shanks;ST16-004;Character;G;FILM/The Four Emperors/Red-Haired Pirates;-Green Uta- [ST-16];2
 Shark Arrows;OP06-040;Event;G;Fish-Man/New Fish-Man Pirates;-WINGS OF THE CAPTAIN-[OP06];2
 Shave;OP07-094;Event;B;CP9;-500 YEARS IN THE FUTURE- [OP-07];2
 Sheep's Horn;OP01-117;Event;P;Animal Kingdom Pirates/SMILE;-ROMANCE DAWN- [OP01];0
@@ -1169,7 +1169,7 @@ The Billion-fold World Trichiliocosm;OP06-038;Event;G;Dressrosa/Straw Hat Crew;-
 The Earth Will Not Lose!;OP08-115;Event;Y;Sky Island/Shandian Warrior;-TWO LEGENDS- [OP-08];0
 The Three Brothers' Bond;ST13-019;Event;Y;Goa Kingdom;The Three Brothers-[ST13];0
 The Weak Do Not Have the Right to Choose How They Die!!!;OP04-038;Event;G;The Seven Warlords of the Sea/Donquixote Pirates;-KINGDOMS OF INTRIGUE- [OP04];0
-The World's Continuation;P-059;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];0
+The World's Continuation;P-059;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];4
 There's No Way You Could Defeat Me!!;EB01-010;Event;R;Water Seven/Straw Hat Crew;-Memorial Collection- [EB-01];0
 Thousand Sunny;ST01-017;Stage;R;Straw Hat Crew;-Straw Hat Crew-[ST-01];0
 Thousand Sunny;ST14-017;Stage;B;Straw Hat Crew;-3D2Y- [ST-14];0
@@ -1200,7 +1200,7 @@ Tony Tony.Chopper;ST14-005;Character;B;Animal/Straw Hat Crew;-3D2Y- [ST-14];0
 Tooth Attack;OP03-037;Event;G;Fish-Man/East Blue/Arlong Pirates;-PILLARS OF STRENGTH- [OP03];0
 Top Knot;OP03-074;Event;P;Water Seven/Galley-La Company;-PILLARS OF STRENGTH- [OP03];0
 Tot Musica;OP06-011;Character;R;FILM;-WINGS OF THE CAPTAIN-[OP06];1
-Tot Musica;P-060;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];0
+Tot Musica;P-060;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];4
 Trafalgar Law;OP01-002;Leader;R/G;Supernovas/Heart Pirates;-ROMANCE DAWN- [OP01];0
 Trafalgar Law;OP01-047;Character;G;Supernovas/Heart Pirates;-ROMANCE DAWN- [OP01]/-KINGDOMS OF INTRIGUE- [OP04];0
 Trafalgar Law;OP02-035;Character;G;FILM/Supernovas/Heart Pirates;-Uta-[ST-11]/-PARAMOUNT WAR- [OP02];3
@@ -1255,9 +1255,9 @@ Uta;P-011;Leader;R;FILM;Promo;0
 Uta;P-031;Character;P;FILM;Promo;0
 Uta;ST05-004;Character;P;FILM;ONE PIECE FILM edition [ST-05];0
 Uta;ST08-002;Character;B;FILM;Monkey D. Luffy-[ST-08];0
-Uta;ST11-001;Leader;G;FILM;-Uta-[ST-11]/-Green Uta- [ST-16];0
+Uta;ST11-001;Leader;G;FILM;-Uta-[ST-11]/-Green Uta- [ST-16];1
 Uta;ST11-002;Character;G;Music/FILM;-Uta-[ST-11];0
-Uta;ST16-001;Character;G;FILM;-Green Uta- [ST-16];0
+Uta;ST16-001;Character;G;FILM;-Green Uta- [ST-16];2
 Uzuki Tempura;ST09-002;Character;Y;Land of Wano;-Yamato-[ST-09];4
 Vander Decken IX;OP06-033;Character;G;Fish-Man/Flying Pirates;-WINGS OF THE CAPTAIN-[OP06];1
 Vega Force 01;OP07-108;Character;Y;Egghead;-500 YEARS IN THE FUTURE- [OP-07];4
@@ -1267,7 +1267,7 @@ Vergo;OP01-065;Character;U;Navy/Donquixote Pirates/Punk Hazard;-ROMANCE DAWN- [O
 Vergo;OP03-079;Character;B;Navy/Donquixote Pirates;-PILLARS OF STRENGTH- [OP03]/-Black Smoker- [ST-19];1
 Vergo;OP05-023;Character;G;Navy/Donquixote Pirates;-AWAKENING OF THE NEW ERA-[OP05];1
 Victoria Cindry;OP06-091;Character;B;Thriller Bark Pirates;-WINGS OF THE CAPTAIN-[OP06];0
-Vinsmoke Ichiji;OP06-060;Character;P;The Vinsmoke Family/GERMA 66;-WINGS OF THE CAPTAIN-[OP06];1
+Vinsmoke Ichiji;OP06-060;Character;P;The Vinsmoke Family/GERMA 66;-WINGS OF THE CAPTAIN-[OP06];2
 Vinsmoke Ichiji;OP06-061;Character;P;The Vinsmoke Family/GERMA 66;-WINGS OF THE CAPTAIN-[OP06];0
 Vinsmoke Judge;OP06-062;Character;P;The Vinsmoke Family/GERMA 66;-WINGS OF THE CAPTAIN-[OP06];0
 Vinsmoke Niji;OP06-064;Character;P;The Vinsmoke Family/GERMA 66;-WINGS OF THE CAPTAIN-[OP06];0
@@ -1295,7 +1295,7 @@ We Would Never Sell a Comrade to an Enemy!!!;OP08-038;Event;G;Minks/The Akazaya 
 We're Going to Claim the One Piece!!!;OP07-077;Event;P;The Four Emperors/Land of Wano;-500 YEARS IN THE FUTURE- [OP-07];2
 Weakness...Is an Unforgivable Sin.;OP04-076;Event;P;The Seven Warlords of the Sea/Baroque Works;-KINGDOMS OF INTRIGUE- [OP04];0
 When You're at Sea You Fight against Pirates!!;OP05-076;Event;P;Land of Wano;-AWAKENING OF THE NEW ERA-[OP05]/-Purple Monkey.D.Luffy- [ST-18];4
-Where the Wind Blows;P-058;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];0
+Where the Wind Blows;P-058;Event;G;Music/FILM;Promo/-Green Uta- [ST-16];4
 White Out;ST06-016;Event;B;Navy;Absolute Justice- [ST-06];0
 White Snake;OP06-059;Event;U;Navy;-WINGS OF THE CAPTAIN-[OP06];1
 Whitebeard Pirates;OP02-022;Event;R;Whitebeard Pirates;-PARAMOUNT WAR- [OP02];2
@@ -1306,7 +1306,7 @@ Who's.Who;OP08-091;Character;B;Animal Kingdom Pirates/Former CP9;-TWO LEGENDS- [
 Who's.Who;ST04-010;Character;P;Animal Kingdom Pirates;-Animal Kingdom Pirates-[ST-04];0
 Wire;OP01-053;Character;G;Kid Pirates;-ROMANCE DAWN- [OP01];0
 Wire;ST10-014;Character;P;Kid Pirates;-The Three Captains-[ST-10];4
-Wyper;OP06-114;Character;Y;Sky Island/Shandian Warrior;-WINGS OF THE CAPTAIN-[OP06];2
+Wyper;OP06-114;Character;Y;Sky Island/Shandian Warrior;-WINGS OF THE CAPTAIN-[OP06];3
 Wyper;OP08-110;Character;Y;Sky Island/Shandian Warrior;-TWO LEGENDS- [OP-08];0
 X.Barrels;OP05-056;Character;U;Former Navy;-AWAKENING OF THE NEW ERA-[OP05];3
 X.Drake;OP01-054;Character;G;Supernovas/Navy/Drake Pirates;-ROMANCE DAWN- [OP01];0

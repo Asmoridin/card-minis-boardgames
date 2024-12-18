@@ -3067,8 +3067,8 @@ Tekeny Ghemor, Prominent Official;R;Personnel;Cardassian;Strange New Worlds;Prin
 Telari;V;Personnel;Vidiian;Phage;Virtual;3;0
 Telek R'Mor, Anachronistic Visitor;V;Personnel;Romulan;Matter of Time;Virtual;3;0
 Telek R'Mor, Astrophysical Researcher;R;Personnel;Romulan;Second Edition;Print;3;0
-Telepathic Deception;C;Dilemma;;Energize;Print;3;0
-Telepathic Invasion;U;Dilemma;;To Boldly Go;Print;3;0
+Telepathic Deception;C;Dilemma;;Energize;Print;3;3
+Telepathic Invasion;U;Dilemma;;To Boldly Go;Print;3;2
 Teleportation Drone;V;Personnel;Borg;Shattered Mirror;Virtual;3;0
 Telle, Macet's Aide;V;Personnel;Cardassian;Favor the Bold;Virtual;3;0
 Telok, Bodyguard;U;Personnel;Klingon;In a Mirror Darkly;Print;3;0
@@ -3081,12 +3081,12 @@ Temporal Incursion;R;Event;;Strange New Worlds;Print;3;0
 Temporal Misalignment;P/VP;Dilemma;;Fractured Time/Virtual Promo;Both;3;0
 Temporal Test Subject;P;Event;;Fractured Time;Print;3;0
 Temporal Transporters;V;Event;;Matter of Time;Virtual;3;0
-Temptation;U/VP;Dilemma;;Second Edition/Virtual Promo;Both;3;1 // Have 1 SE
+Temptation;U/VP;Dilemma;;Second Edition/Virtual Promo;Both;3;2 // Have 2 SE
 Tempted By Flesh;U;Event;;Necessary Evil;Print;3;0
 Tenak'talar, Dukat's Warship;V;Ship;Dominion;Shore Leave;Virtual;3;0
 Tenak'talar, Vanguard of the Occupation;V/VP;Ship;Dominion;Legacy/Virtual Promo;Virtual;3;0
 Tenak'talar, Weyoun's Warship;R;Ship;Dominion;Call to Arms;Print;3;0
-Tense Negotiations;C;Dilemma;;Second Edition;Print;3;0
+Tense Negotiations;C;Dilemma;;Second Edition;Print;3;3
 Tenuous Alliance;V;Event;;Raise the Stakes;Virtual;3;0
 Teplan Prime, Subjugate Planet;V;Mission;;Strange Bedfellows;Virtual;2;0
 Terikof Belt, Navigate Plasma Storms;V;Mission;;Lower Decks;Virtual;2;0
@@ -3106,22 +3106,22 @@ The Beast at El-Adrel;V;Dilemma;;Favor the Bold;Virtual;3;0
 The Big Goodbye;V;Dilemma;;Unity;Virtual;3;0
 The Big Picture;V;Interrupt;;Zero Hour;Virtual;3;0
 The Blight;R;Event;;Call to Arms;Print;3;0
-The Captain's "Guest";V;Dilemma;;This Side of Paradise;Virtual;3;0
+The Captain's "Guest";V;Dilemma;;This Side of Paradise;Virtual;3;3
 The Caretaker's "Guests";P/VP;Dilemma;;Genesis/Virtual Promo;Both;3;0
 The Celestial Temple, Seek Prophetic Guidance;V;Mission;;The Menagerie;Virtual;2;0
 The Central Command;V/VP;Interrupt;;Allegiance/Virtual Promo;Virtual;3;0
-The Charismatic Mister Kor;V;Dilemma;;This Side of Paradise;Virtual;3;0
+The Charismatic Mister Kor;V;Dilemma;;This Side of Paradise;Virtual;3;3
 The Charming Mister Riker;V;Dilemma;;This Side of Paradise;Virtual;3;0
 The Circle;R;Event;;These Are The Voyages;Print;3;0
-The Clown: Bitter Medicine;P/VP;Dilemma;;Fractured Time/Virtual Promo;Both;3;1 // Have 1 FT 
+The Clown: Bitter Medicine;P/VP;Dilemma;;Fractured Time/Virtual Promo;Both;3;2 // Have 2 FT 
 The Clown: Celebration;V;Dilemma;;Caretaker;Virtual;3;0
 The Clown: Cloaking Device;V;Dilemma;;Caretaker;Virtual;3;0
 The Clown: Fear Incarnate;V;Dilemma;;Caretaker;Virtual;3;0
 The Clown: Go Away;V;Dilemma;;Infinite Diversity Remastered;Virtual;3;0
-The Clown: Guillotine;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;0
-The Clown: On His Throne;V;Dilemma;;Favor the Bold;Virtual;3;0
+The Clown: Guillotine;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;1 // have 1 WYLB
+The Clown: On His Throne;V;Dilemma;;Favor the Bold;Virtual;3;3
 The Clown: Ultimatum;V;Dilemma;;Caretaker;Virtual;3;0
-The Conscience of the King;V;Dilemma;;The Undiscovered Country;Virtual;3;0
+The Conscience of the King;V;Dilemma;;The Undiscovered Country;Virtual;3;2 // Need to reprint at least one
 The Cost of Freedom;V;Event;;The Undiscovered Country;Virtual;3;0
 The Crystalline Entity;R;Event;;Call to Arms;Print;3;0
 The Dal'Rok;R/VP;Dilemma;;In a Mirror Darkly/Virtual Promo;Both;3;0
@@ -3158,7 +3158,7 @@ The New Occupation;C;Event;;What You Leave Behind;Print;3;0
 The New Resistance;P/VP;Event;;Reflections 2.0/Virtual Promo;Both;3;0
 The Next Phase;V;Dilemma;;Unity;Virtual;3;0
 The Nth Degree;V;Dilemma;;Return to Grace;Virtual;3;0
-The Oracle's Punishment;V;Dilemma;;Tacking Into the Wind;Virtual;3;0
+The Oracle's Punishment;V;Dilemma;;Tacking Into the Wind;Virtual;3;3
 The Order of Things;C;Interrupt;;Necessary Evil;Print;3;0
 The Orion Underworld;R;Event;;Second Edition;Print;3;0
 The Pendari Champion, Electrifying Favorite;AP/VP;Personnel;Non-Aligned;Virtual Archive Portrait/Virtual Promo;Virtual;3;0
@@ -3174,7 +3174,7 @@ The Reckoning;U;Event;;What You Leave Behind;Print;3;0
 The Reman Mines;U;Event;;Second Edition;Print;3;0
 The Rite of Emergence;R;Interrupt;;Necessary Evil;Print;3;0
 The Secret War;U;Dilemma;;In a Mirror Darkly;Print;3;0
-The Seen and the Unseen;V;Dilemma;;Favor the Bold;Virtual;3;0 // have 1 pre-errata
+The Seen and the Unseen;V;Dilemma;;Favor the Bold;Virtual;3;0 // have 3 pre-errata
 The Shroud of the Sword;V;Equipment;;Shattered Mirror;Virtual;3;0
 The Siege of AR-558;U;Mission;;Call to Arms;Print;2;0
 The Sirah, The Storyteller;U;Personnel;Bajoran;Energize;Print;3;0
@@ -3195,7 +3195,7 @@ The Viceroy, Shinzon's Protector;R;Personnel;Romulan;Second Edition;Print;3;0
 The Void Alliance;V;Event;;The Undiscovered Country;Virtual;3;0
 The Warrior's Anthem;V;Interrupt;;Return to Grace;Virtual;3;0
 The Waters, Aid Maritime Sovereignty;V;Mission;;Favor the Bold;Virtual;2;0 // have 1 pre-errata
-The Weak Will Perish;V/VP;Dilemma;;Balance of Terror/Virtual Promo;Virtual;3;0
+The Weak Will Perish;V/VP;Dilemma;;Balance of Terror/Virtual Promo;Virtual;4;3 // Have 3 BoT
 The Will of the Collective;U;Event;;Call to Arms;Print;3;0
 Thei, Candid Analyst;V;Personnel;Romulan;Face of the Enemy;Virtual;3;0
 Thelev, "Andorian" Terrorist;V;Personnel;Non-Aligned;All Our Yesterdays;Virtual;3;0
@@ -3224,14 +3224,14 @@ Three of Nine, Tactician Drone;R;Personnel;Borg;These Are The Voyages;Print;3;0
 Three of Twelve, Specialty Drone;V;Personnel;Borg;The Undiscovered Country;Virtual;3;0
 Ties of Blood and Water;S;Interrupt;;Second Edition;Print;3;0
 Tim Watters, Valiant Captain;U;Personnel;Federation;Necessary Evil;Print;3;0
-Time for Action;V;Dilemma;;Favor the Bold;Virtual;3;0
-Timescape;C/VP;Dilemma;;Energize/Virtual Promo;Both;3;2 // have 2 Energize
+Time for Action;V;Dilemma;;Favor the Bold;Virtual;3;3
+Timescape;C/VP;Dilemma;;Energize/Virtual Promo;Both;4;3 // have 3 Energize
 Timicin, Irresolute Scientist;VP;Personnel;Non-Aligned;Inheritance;Virtual;3;0
 To Be a Warrior;C;Event;;In a Mirror Darkly;Print;3;0
 To Boldly Go;U;Event;;Second Edition;Print;3;0
 To Rule in Hell;V;Event;;Unnatural Selection;Virtual;3;0
 To Serve the Empire;V;Event;;Classification: Civilian;Virtual;3;0
-Toe to Toe;C;Dilemma;;What You Leave Behind;Print;3;0
+Toe to Toe;C;Dilemma;;What You Leave Behind;Print;3;1
 Tog, Lecherous DaiMon;U;Personnel;Ferengi;Captain's Log;Print;3;0
 Togaran;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Tokath, Keeping the Peace;V;Personnel;Romulan;Lineage;Virtual;3;0

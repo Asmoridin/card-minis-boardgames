@@ -1,5 +1,6 @@
 #Card Name;Card Type;Card Affiliation;Sets;Trek IDs;Alt IDs (for other version of dual affil card, using Trek IDs);Card Max;Card Own;
 Albert Einstein;Personnel;Federation;Premiere;44,5976,6339,6702,7624;;4;0
+Alidar Jarok;Personnel;Romulan;Premiere;556,6037,6763,6400,7685;;2;1
 Alliance Galor;Ship;Cardassian;Mirror, Mirror;45,4869;;4;0
 Alliance Interceptor;Ship;Bajoran;Mirror, Mirror;46;;4;0
 Alliance K'Vort;Ship;Klingon;Mirror, Mirror;47;;4;0
@@ -32,6 +33,7 @@ Batrell;Personnel;Klingon;Premiere;70,5977,6340,6703,7625;;4;0
 Battle Cruiser;Ship;Klingon;Identity Crisis;3067;71;4;0
 Battle Cruiser;Ship;Romulan;Mirror, Mirror;71;3067;4;0
 Betazoid Gift Box;Artifact;;Premiere/Virtual Promos;7054,430,3476,3583,6328,6691;;2;1
+Bochra;Personnel;Romulan;Premiere;731,6066,7714,6429,6792;;2;1
 Borg Cube;Ship;Borg;First Contact/The Borg;73,74,5640;;4;0
 Borg Outpost;Facility;Borg;The Borg/First Contact/Homefront VI;75,747,4697;;4;0
 Borg Probe;Ship;Borg;The Borg;76;;4;0
@@ -200,12 +202,22 @@ Jetarn;Personnel;Hirogen;The Borg;211;;4;0
 Joseph Carey;Personnel;Federation;Voyager;212;;4;0
 Joseph Travis;Personnel;Federation;First Contact;213;;4;0
 Jural;Personnel;Cardassian;Deep Space 9;214;;4;0
+K'chiQ;Personnel;Klingon;Q Continuum;227;;4;0
 Kalita;Personnel;Non-Aligned;Deep Space 9;215,4444;;4;0
 Kallis Ven;Personnel;Bajoran;Deep Space 9;216;;4;0
 Kamok;Personnel;Klingon;The Borg;217;;4;0
 Kar'meth;Personnel;Klingon;Holodeck Adventures;220;;4;0
 Karemman Vessel;Ship;Non-Aligned;Rules of Acquisition;218,4451;;4;0
 Karen Loews;Personnel;Federation;Deep Space 9;219;;4;0
+Karnog;Personnel;Klingon;The Motion Pictures;221,7189;;4;0
+Kazon Fighter;Ship;Kazon;The Borg;222;;4;0
+Kazon Outpost;Facility;Kazon;Voyager/Homefront VI;223,4703;;4;0
+Kazon Raider;Ship;Kazon;Voyager;224;;4;0
+Kazon Shuttle;Ship;Kazon;Voyager;225;;4;0
+Kazon Warship;Ship;Kazon;Voyager;226;;4;0
+Keeve Falor;Personnel;Bajoran;The Dominion;228;;4;0
+Keldon Advanced;Ship;Cardassian;The Dominion/Borderless Promos;230,3580,5604;;4;0
+Keldon;Ship;Cardassian;Blaze of Glory;229;;4;0
 Male's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1674,6927,1676,5257,6201,6564,7849;;4;1 # Have 1 Premiere (need 1 Voyager)
 Matriarchal Society;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1696,1697,5259,6203,6566,6929,7851;;4;1 # Have 1 Premiere, need 1 Voyager
 Microvirus;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;1723,5262,6211,6574,6937,7859;;4;1
@@ -223,6 +235,9 @@ Rebel Encounter;Dilemma;Planet;Premiere;1962,6970,6244,6607,7892;;4;1
 Romulan Outpost;Facility;Romulan;Premiere/Homefront VI;1029,6817,4052,4706,6091,6454;;4;1
 Sarjenka;Dilemma;Planet;Premiere;2053,6256,6619,6982,7904;;4;1
 Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;1
+Shaka, When the Walls Fell;Dilemma;Dual;Premiere;2106,6263,6626,6989,7911;;4;2
+Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
+Temporal Causality Loop;Dilemma;Space;Premiere;2218,6285,6648,7011,7933;;4;1
 Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
 Tsiolkovsky Infection;Dilemma;Space;Premiere;2360,6307,6670,7033,7955;;4;1
 Two of Twelve;Personnel;Borg;The Borg;21;;4;0
@@ -247,9 +262,12 @@ Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
 
-# Done through card 220
+# Done through card 230
 #430
+#556
+#673
 #706
+#731
 #747
 #885
 #899
@@ -278,6 +296,8 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #1989
 #2053
 #2077
+#2106
+#2218
 #2360
 #2369
 #3067
@@ -287,7 +307,7 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #3518
 #3529
 #3538-3539
-#3581
+#3580-3581
 #3583
 #3588
 #3839
@@ -315,7 +335,7 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #4660-4662
 #4668
 #4697
-#4702
+#4702-4703
 #4706
 #4828
 #4833-4834
@@ -333,13 +353,17 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #5591
 #5595
 #5597
+#5604
 #5640
+#5644
 #5822
 #5900
 #5909-5911
 #5917
 #5966-5999
-#6065
+#6037
+#6060
+#6065-6066
 #6073
 #6076
 #6091
@@ -359,10 +383,14 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6244
 #6248
 #6256
+#6263
 #6260
+#6285
 #6307-6308
 #6328-6362
-#6428
+#6400
+#6423
+#6428-6429
 #6436
 #6439
 #6454
@@ -383,9 +411,13 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6611
 #6619
 #6623
+#6626
+#6648
 #6670-6671
 #6691-6725
-#6791
+#6763
+#6786
+#6791-6792
 #6799
 #6802
 #6817
@@ -406,13 +438,15 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6974
 #6982
 #6986
+#6989
+#7011
 #7033-7034
 #7054-7056
 #7098-7111
 #7147-7149
 #7164
 #7180
-#7183-7188
+#7183-7189
 #7251
 #7327
 #7516
@@ -421,7 +455,9 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #7529
 #7613
 #7615-7647
-#7713
+#7685
+#7708
+#7713-7714
 #7849
 #7851
 #7859
@@ -435,4 +471,6 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #7896
 #7904
 #7908
+#7911
+#7933
 #7955-7956

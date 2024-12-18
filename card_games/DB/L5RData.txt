@@ -204,6 +204,14 @@ Advance Position;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);
 Advance Position;Strategy;;Khan's Defiance (Common);Age of Enlightenment (Lotus);3;0
 Advance Position;Strategy;;Khan's Defiance (Common);Race for the Throne (Samurai);3;0
 Advance Scout;Follower;;A Perfect Cut (Uncommon);Four Winds (Gold);3;0
+Advance Warning;Strategy;;Before the Dawn (Common)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
+Advance Warning;Strategy;;Before the Dawn (Common)/Emperor Edition Demo Decks (Fixed);Destroyer War (Celestial);3;0
+Advance Warning;Strategy;;Ivory Edition (Common)/The Currency of War (Fixed);A Brother's Destiny (Ivory Edition);1;0 # Banned
+Advance Warning;Strategy;;Ivory Edition (Common)/The Currency of War (Fixed);A Brother's Destiny (Twenty Festivals);1;0 # Banned
+Advance with Glory;Strategy;;Rise of the Shogun (Common);Age of Enlightenment (Lotus);3;0
+Advanced Spellcraft;Strategy;;The Harbinger (Uncommon);Destroyer War (Celestial);3;0
+Advantageous Climate;Strategy;;Honor's Veil (Common);Race for the Throne (Samurai);3;0
+Aftershock;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Agasha Jigan;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Agasha Jigan;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
@@ -240,10 +248,15 @@ Ashigaru Fort;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition
 Ashigaru Fort;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
 Ashigaru Fort;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
 Ashigaru Fort;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Ashura;Personality;Unaligned;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Ashura;Personality;Unaligned;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;1
+Ashura;Personality;Unaligned;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
 Balash • Experienced 2;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Balash • Experienced 2;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;3;0
 Bathel;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Bathel;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;3;0
+Bawaru no Oni;Personality;Unaligned;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Bawaru no Oni;Personality;Unaligned;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Bayushi Manora • Experienced;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Bayushi Manora • Experienced;Personality;Scorpion;The Blackest Storm (Fixed);Onyx Edition;3;0
 Bayushi Urubei;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -264,6 +277,7 @@ Breaking Point;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty 
 Breaking Point;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Cessation of Hostilities;Event;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Cessation of Hostilities;Event;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Chuda Masaru;Personality;Unaligned;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Chuda Tairao • Experienced;Personality;Spider;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Chuda Tairao • Experienced;Personality;Spider;The Blackest Storm (Fixed);Onyx Edition;3;0
 Cleansing Wave;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -440,6 +454,10 @@ Matsu Kenji;Personality;Lion;A Perfect Cut (Rare);Four Winds (Gold);1;0
 Matsu Kenji;Personality;Lion;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Matsu Kirihime;Personality;Lion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Matsu Kirihime;Personality;Lion;The Blackest Storm (Fixed);Onyx Edition;3;0
+Matsu Mabuchi;Personality;Lion;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Matsu Reishiko;Personality;Lion;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Matsu Reishiko;Personality;Lion;The Fall of Otosan Uchi (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Matsu Reishiko;Personality;Lion;The Fall of Otosan Uchi (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Meaningless Words;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Meaningless Words;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Mirror Armor;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -645,8 +663,7 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);A Brother'
 Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Edition;3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
-
-# Done through card #120
+# Done through card #125
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 #237
@@ -655,8 +672,11 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #307
 #309
 #614
+#622
+#733
 #977
 #1086
+#1358
 #1497
 #1511
 #2191
@@ -669,6 +689,8 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #4906
 #4929
 #4938
+#4946
+#4971
 #5483
 #5647
 #5660

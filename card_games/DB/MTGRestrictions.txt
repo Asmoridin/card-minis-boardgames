@@ -161,3 +161,4 @@ Dreadhorde Arcanist;Legacy-Banned
 Nadu, Winged Wisdom;Modern-Banned/Commander-Banned
 Expressive Iteration;Pioneer-Banned/Legacy-Banned
 Seething Song;Modern-Banned
+Windswept Heath;Pioneer-Banned

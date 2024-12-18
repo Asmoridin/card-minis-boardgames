@@ -614,7 +614,7 @@ Vegeta;Saiyan/Wicked Soul;Battle;Yellow;2;FP-023;Promo;0
 Vegeta;Saiyan/Wicked Soul;Battle;Yellow;4;FB03-089;[FB03] Booster Pack - Raging Roar;1
 Vegeta;Saiyan;Battle;Blue;1;FB02-057;[FB02] Booster Pack - Blazing Aura;4
 Vegeta;Saiyan;Battle;Blue;2;FB03-047;[FB03] Booster Pack - Raging Roar;1
-Vegeta;Saiyan;Battle;Blue;2;FP-007;Promo;0
+Vegeta;Saiyan;Battle;Blue;2;FP-007;Promo;4
 Vegeta;Saiyan;Battle;Blue;3;FB01-058;[FB01] Booster Pack - Awakened Pulse;0
 Vegeta;Saiyan;Battle;Blue;3;FP-002;Promo;0
 Vegeta;Saiyan;Battle;Blue;4;FB01-059;[FB01] Booster Pack - Awakened Pulse;1
