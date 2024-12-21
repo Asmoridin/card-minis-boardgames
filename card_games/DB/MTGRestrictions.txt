@@ -74,6 +74,7 @@ Lin Sivvi, Defiant Hero;Masques Block-Banned
 Lion's Eye Diamond;Vintage-Restricted/Oathbreaker-Banned
 Lodestone Golem;Vintage-Restricted
 Lotus Petal;Vintage-Restricted
+Lurrus of the Dream-Den;Pioneer-Banned/Modern-Banned/Legacy-Banned
 Mana Crypt;Legacy-Banned/Vintage-Restricted/Oathbreaker-Banned/Commander-Banned
 Mana Drain;Legacy-Banned
 Mana Geyser;Oathbreaker-Banned
@@ -111,6 +112,7 @@ Rofellos, Llanowar Emissary;Commander-Banned
 Saheeli, the Gifted;Oathbreaker-Banned
 Seat of the Synod;Modern-Banned/Mirrodin Block-Banned
 Seething Song;Modern-Banned
+Sensei's Divining Top;Modern-Banned/Legacy-Banned
 Serra's Sanctum;Urza's Block-Banned
 Shahrazad;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Simian Spirit Guide;Modern-Banned

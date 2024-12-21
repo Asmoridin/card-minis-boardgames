@@ -51,7 +51,7 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     "Hidden Emperor 5", "Fire & Shadow", "Emerald Edition", "Obsidian Edition", "Promotional-CWF",
     "Broken Blades", "Hidden Emperor 1", "Storms Over Matsu Palace", "Scorpion Clan Coup 2",
     "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain", 'Hidden Emperor 3',
-    "Dawn of the Empire", "Reign of Blood", "Enemy of My Enemy",
+    "Dawn of the Empire", "Reign of Blood", "Enemy of My Enemy", "Drums of War", "Code of Bushido",
 ]
 VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
     'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',

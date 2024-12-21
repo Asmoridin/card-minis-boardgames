@@ -1,5 +1,5 @@
 1,000 Cuts Technique;Strategy;;The Dead of Winter (Rare);Destroyer War (Celestial);3;0
-700 Soldier Plain;Region;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;0
+700 Soldier Plain;Region;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;1
 700 Soldier Plain;Region;;Hidden Emperor 6 (Uncommon);Hidden Emperor (Jade);3;0
 A Black Scroll is Opened;Event;;Forbidden Knowledge (Uncommon);Clan Wars (Imperial);1;0
 A Brave New World;Strategy;;Promotional–Celestial (Promo);Age of Conquest (Emperor);3;0
@@ -218,6 +218,13 @@ Agasha Asai;Personality;Phoenix;War of Honor (Fixed)/Path of the Destroyer (Unco
 Agasha Chieh • Experienced;Personality;Phoenix;Reign of Blood (Fixed);Rain of Blood (Diamond);1;0
 Agasha Chieh;Personality;Phoenix;Broken Blades (Common);Four Winds (Gold);3;0
 Agasha Chieh;Personality;Phoenix;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Agasha Chisuzu;Personality;Phoenix;Drums of War (Uncommon);Age of Enlightenment (Lotus);3;0
+Agasha Fujita;Personality;Phoenix;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
+Agasha Fumihiro;Personality;Phoenix;Code of Bushido (Rare);Age of Enlightenment (Lotus);3;0
+Agasha Fumihiro;Personality;Phoenix;Code of Bushido (Rare);Rain of Blood (Diamond);3;0
+Agasha Gennai • Experienced;Personality;Phoenix;The Dark Journey Home (Rare);Hidden Emperor (Jade);1;0
+Agasha Gennai;Personality;Dragon;Pearl Edition (Common)/Jade Edition (Common);Hidden Emperor (Jade);3;0
+Agasha Gennai;Personality;Dragon;Time of the Void (Common);Clan Wars (Imperial);3;0
 Agasha Jigan;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Agasha Jigan;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
 Agasha Orito;Personality;Phoenix;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
@@ -361,8 +368,8 @@ Foreboding Path;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty 
 Foreboding Path;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
-Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Four Winds (Gold);3;0 # Maybe?  Oracle doesn't list this
-Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Hidden Emperor (Jade);3;0 # Maybe?  Oracle doesn't list this
+Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Four Winds (Gold);3;0
+Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Hidden Emperor (Jade);3;0
 Fushiki no Oni;Personality;Unaligned;Training Grounds (Fixed)/Diamond Edition (Common);Rain of Blood (Diamond);3;2
 Fushiki no Oni;Personality;Unaligned;Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
 Fushiki no Oni;Personality;Unaligned;Twenty Festivals (Uncommon);Onyx Edition;3;0
@@ -440,8 +447,8 @@ Kitsune Mori Grove;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twen
 Kitsune Mori Grove;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kokujin Aoijiro;Personality;Spider;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kokujin Aoijiro;Personality;Spider;The Blackest Storm (Fixed);Onyx Edition;3;0
-Kukanchi;Personality;Unaligned;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Kukanchi;Personality;Unaligned;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
+Kukanchi;Personality;Unaligned;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Kuni Seifukusha;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kuni Seifukusha;Personality;Crab;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kuni Yukiko;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -517,6 +524,12 @@ Oblivion's Gate;Holding;;Winds of Change (Rare)/Training Grounds (Fixed);Four Wi
 Oblivion's Gate;Holding;;Winds of Change (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Obsidian Mine;Holding;;1,000 Years of Darkness (Fixed)/Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Obsidian Mine;Holding;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Ogre Bushi;Personality;Unaligned;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Ogre Bushi;Personality;Unaligned;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
+Ogre Bushi;Personality;Unaligned;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
+Ogre Bushi;Personality;Unaligned;Obsidian Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Emerald Edition (Uncommon)/Imperial Edition (Uncommon);Clan Wars (Imperial);3;0
+Ogre Bushi;Personality;Unaligned;Pearl Edition (Uncommon)/Jade Edition (Uncommon);Hidden Emperor (Jade);3;0
+Ogre Bushi;Personality;Unaligned;Training Grounds (Fixed)/Diamond Edition (Uncommon);Rain of Blood (Diamond);3;1
 One Final Stand;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 One Final Stand;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Panicked;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -569,6 +582,7 @@ Selfless Sacrifice;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twe
 Selfless Sacrifice;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Sense the Void;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Sense the Void;Spell;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Seppun Jin;Personality;Unaligned;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Shackled Oni;Holding;;Dark Allies (Common);Four Winds (Gold);3;0
 Shackled Oni;Holding;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Shadowlands Bastion;Holding;;A Perfect Cut (Rare);Four Winds (Gold);1;0
@@ -664,6 +678,8 @@ Vetrevel;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals)
 Vetrevel;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Voitagi Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 Voitagi Sensei;Sensei;;The Blackest Storm (Fixed);Onyx Edition;1;0
+Voitagi • Experienced;Personality;Unaligned;Lotus Edition (Rare);Age of Enlightenment (Lotus);1;0
+Voitagi • Experienced;Personality;Unaligned;Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Walking with the Void;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Walking with the Void;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Wall of Earth;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -682,6 +698,8 @@ Yoritomo Harumi • Experienced;Personality;Mantis;The Blackest Storm (Fixed);A 
 Yoritomo Harumi • Experienced;Personality;Mantis;The Blackest Storm (Fixed);Onyx Edition;1;0
 Yoritomo Hiromi, the Final Storm • Experienced 3;Personality;Mantis;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 Yoritomo Hiromi, the Final Storm • Experienced 3;Personality;Mantis;The Blackest Storm (Fixed);Onyx Edition;1;0
+Yosuchi;Personality;Unaligned;Ambition's Debt (Common);Hidden Emperor (Jade);3;0
+Yosuchi;Personality;Unaligned;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Zenathaar, Warrior of the Bright Eye • Experienced;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zenathaar, Warrior of the Bright Eye • Experienced;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;3;0
 Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -689,7 +707,7 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #130
+# Done through card #135
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 #237
@@ -725,12 +743,16 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #5497
 #5647
 #5660
+#5675
 #6084
 #6314
 #6408
 #6464
+#6602
 #6647
 #6670
 #7220
 #7222
 #8348
+#9183
+#9672
