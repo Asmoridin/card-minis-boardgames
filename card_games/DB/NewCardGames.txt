@@ -4,6 +4,7 @@
 7th Sea
 Achroma
 Adventure Time Card Wars
+Aeon's End
 Afterworld
 Age of Empires II
 Age of Heroes
@@ -60,6 +61,7 @@ Clout Fantasy
 Club Penguin
 Clutch Baseball
 Codename: Kids Next Door
+Compile: Main 1
 Conan
 Conquest of Arthenia
 Corunea
@@ -83,6 +85,7 @@ Digimon Fusion CCG
 Dimension 0
 Dino Hunt
 Dinosaur King
+Disney Sorcerer's Arena
 Dixie
 Doctor Who - Battles in Time
 Doctor Who: Alien Armies TCG
@@ -220,6 +223,7 @@ One Piece
 One-on-One Hockey Challenge
 Ophidian 2350
 OverPower
+Pagan: Fate of Roanoke
 PEZ
 PK Cards
 Pirates of the Caribbean
@@ -237,6 +241,7 @@ Rage: Tribal War
 Red Zone
 Redakai: Conquer the Kairu
 Redemption
+Riftforce
 Rifts
 Rocketmen: Axis of Evil
 Rotation Rumble
@@ -326,6 +331,7 @@ Wing Commander
 Winx Club
 Wizard in Training
 Wizards of Mickey
+Wizards of the Grimoire
 World of Warcraft
 X-Files
 X-Men
