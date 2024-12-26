@@ -225,8 +225,13 @@ Agasha Fumihiro;Personality;Phoenix;Code of Bushido (Rare);Rain of Blood (Diamon
 Agasha Gennai • Experienced;Personality;Phoenix;The Dark Journey Home (Rare);Hidden Emperor (Jade);1;0
 Agasha Gennai;Personality;Dragon;Pearl Edition (Common)/Jade Edition (Common);Hidden Emperor (Jade);3;0
 Agasha Gennai;Personality;Dragon;Time of the Void (Common);Clan Wars (Imperial);3;0
+Agasha Gifu;Personality;Phoenix;War of Honor (Fixed)/The Plague War (Uncommon);Destroyer War (Celestial);3;0
+Agasha Hamanari;Personality;Phoenix;Gold Edition (Rare);Four Winds (Gold);1;0
+Agasha Heizo;Personality;Dragon;Crimson and Jade (Common);Clan Wars (Imperial);3;0
+Agasha Iwarou;Personality;Phoenix;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;0
 Agasha Jigan;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Agasha Jigan;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
+Agasha Kamarou;Personality;Phoenix;The Dead of Winter (Common);Destroyer War (Celestial);3;0
 Agasha Orito;Personality;Phoenix;Promotional–Samurai (Promo);Race for the Throne (Samurai);3;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);Onyx Edition;1;0
@@ -707,7 +712,7 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #135
+# Done through card #140
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 #237

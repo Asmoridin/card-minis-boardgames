@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 6786 items (6734 actual cards).
-Have 849 out of 27230 total cards for a playset - 3.12 percent
+Tracking 6820 items (6768 actual cards).
+Have 887 out of 27366 total cards for a playset - 3.24 percent
 
 *** VINTAGE ***
-There are 6786 Vintage legal cards
-Have 836 out of 27064 - 3.09 percent of a playset
+There are 6820 Vintage legal cards
+Have 872 out of 27200 - 3.21 percent of a playset
 Chosen card is a(n) Creature from Exodus - Keeper of the Light. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Swords to Plowshares: 24
 
 *** LEGACY ***
-There are 6657 Legacy legal cards
-Have 814 out of 26899 - 3.03 percent of a playset
+There are 6691 Legacy legal cards
+Have 850 out of 27035 - 3.14 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 4
 
 Closest deck to completion (JeskaiControl) is at 65 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Daze: 13
 
 *** MODERN ***
-There are 1708 Modern legal cards
-Have 622 out of 7103 - 8.76 percent of a playset
+There are 1739 Modern legal cards
+Have 658 out of 7227 - 9.10 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Avalanche Riders. I own 0 of 4
 
 Closest deck to completion (Generic Ragavan) is at 67 cards.
@@ -64,8 +64,8 @@ Most needed cards are:
  - Urza's Saga: 24
 
 *** PIONEER ***
-There are 701 Pioneer legal cards
-Have 526 out of 3075 - 17.11 percent of a playset
+There are 725 Pioneer legal cards
+Have 562 out of 3171 - 17.72 percent of a playset
 Chosen card is a(n) Artifact from Time Spiral "Timeshifted" - Feldon's Cane. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -84,8 +84,8 @@ Most needed cards are:
  - Temple Garden: 24
 
 *** STANDARD ***
-There are 348 Standard legal cards
-Have 381 out of 1533 - 24.85 percent of a playset
+There are 368 Standard legal cards
+Have 417 out of 1613 - 25.85 percent of a playset
 Chosen card is a(n) Artifact from Time Spiral "Timeshifted" - Feldon's Cane. I own 0 of 4
 
 Closest deck to completion (Mono-Blue Flash) is at 51 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Sunfall: 32
 
 *** PAUPER ***
-There are 2453 Pauper legal cards
-Have 380 out of 10083 - 3.77 percent of a playset
+There are 2470 Pauper legal cards
+Have 407 out of 10151 - 4.01 percent of a playset
 Chosen card is a(n) Creature from Torment - Cabal Surgeon. I own 0 of 4
 
 Closest deck to completion (Burn) is at 55 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Relic of Progenitus: 22
 
 *** OATHBREAKER ***
-There are 6675 Oathbreaker legal cards
-Have 763 out of 6979 - 10.93 percent of a playset
+There are 6709 Oathbreaker legal cards
+Have 798 out of 7013 - 11.38 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 1
 
 Closest deck to completion (Grist The Hunger Tide) is at 39 cards.
@@ -144,12 +144,12 @@ Most needed cards are:
  - Mystic Sanctuary: 3
 
 *** ICE AGE BLOCK ***
-There are 533 Ice Age Block legal cards
-Have 136 out of 2392 - 5.69 percent of a playset
+There are 534 Ice Age Block legal cards
+Have 150 out of 2396 - 6.26 percent of a playset
 Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Goblin Snowman. I own 0 of 4
 
-Closest deck to completion (TD - Kjeldoran Cunning) is at 35 cards.
-{'Boreal Shelf': 2, 'Darien, King of Kjeldor': 1, 'Field Marshal': 1, 'Jötun Grunt': 1, 'Jötun Owl Keeper': 1, 'Kjeldoran Elite Guard': 2, 'Kjeldoran Gargoyle': 1, 'Kjeldoran Home Guard': 1, 'Kjeldoran Outrider': 3, 'Surging Sentinels': 4, 'Zuran Spellcaster': 2, 'Brainstorm': 2, 'Disenchant': 1, "Lat-Nam's Legacy": 2, 'Reinforcements': 1, 'Scars of the Veteran': 1, 'Surging Æther': 4, 'Portent': 1, 'Binding Grasp': 1, 'Kjeldoran Pride': 1, 'Wings of Aesthir': 2}
+Closest deck to completion (G - Aurochs Charge) is at 35 cards.
+{'Allosaurus Rider': 1, 'Aurochs': 4, 'Aurochs Herd': 4, 'Bull Aurochs': 4, 'Fyndhorn Elves': 4, 'Lhurgoyf': 1, "Nature's Lore": 3, 'Rimehorn Aurochs': 4, 'Shape of the Wiitigo': 4, 'Thrumming Stone': 2, 'Wild Growth': 4}
 
 Most needed cards are:
  - Snow-Covered Mountain: 60
@@ -165,7 +165,7 @@ Most needed cards are:
 
 *** MIRAGE BLOCK ***
 There are 668 Mirage Block legal cards
-Have 136 out of 2802 - 4.85 percent of a playset
+Have 149 out of 2802 - 5.32 percent of a playset
 Chosen card is a(n) Instant from Time Spiral "Timeshifted" - Funeral Charm. I own 0 of 4
 
 Closest deck to completion (TD - Legions Of Glory) is at 33 cards.
@@ -185,7 +185,7 @@ Most needed cards are:
 
 *** TEMPEST BLOCK ***
 There are 620 Tempest Block legal cards
-Have 133 out of 2610 - 5.10 percent of a playset
+Have 146 out of 2610 - 5.59 percent of a playset
 Chosen card is a(n) Creature from Exodus - Keeper of the Light. I own 0 of 4
 
 Closest deck to completion (GRW - Pandemonium) is at 30 cards.
@@ -205,7 +205,7 @@ Most needed cards are:
 
 *** URZA'S BLOCK ***
 There are 614 Urza's Block legal cards
-Have 130 out of 2586 - 5.03 percent of a playset
+Have 143 out of 2586 - 5.53 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Multani's Acolyte. I own 0 of 4
 
 Closest deck to completion (B - Bargain Feast) is at 36 cards.
@@ -225,7 +225,7 @@ Most needed cards are:
 
 *** MASQUES BLOCK ***
 There are 619 Masques Block legal cards
-Have 127 out of 2606 - 4.87 percent of a playset
+Have 140 out of 2606 - 5.37 percent of a playset
 Chosen card is a(n) Creature from Prophecy - Branded Brawlers. I own 0 of 4
 
 Closest deck to completion (TD - Tidal Mastery) is at 33 cards.
@@ -245,7 +245,7 @@ Most needed cards are:
 
 *** INVASION BLOCK ***
 There are 621 Invasion Block legal cards
-Have 130 out of 2614 - 4.97 percent of a playset
+Have 143 out of 2614 - 5.47 percent of a playset
 Chosen card is a(n) Creature from Planeshift - Amphibious Kavu. I own 0 of 4
 
 Closest deck to completion (TD - Whirlpool) is at 35 cards.
@@ -265,7 +265,7 @@ Most needed cards are:
 
 *** ODYSSEY BLOCK ***
 There are 621 Odyssey Block legal cards
-Have 132 out of 2614 - 5.05 percent of a playset
+Have 145 out of 2614 - 5.55 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 4
 
 Closest deck to completion (TD - One-Two Punch) is at 35 cards.
@@ -284,8 +284,8 @@ Most needed cards are:
  - Roar of the Wurm: 16
 
 *** ONSLAUGHT BLOCK ***
-There are 110 Onslaught Block legal cards
-Have 134 out of 570 - 23.51 percent of a playset
+There are 113 Onslaught Block legal cards
+Have 147 out of 582 - 25.26 percent of a playset
 Chosen card is a(n) Creature from Legions - Dark Supplicant. I own 0 of 4
 
 Closest deck to completion (B - Clerics) is at 34 cards.
@@ -305,7 +305,7 @@ Most needed cards are:
 
 *** MIRRODIN BLOCK ***
 There are 85 Mirrodin Block legal cards
-Have 141 out of 470 - 30.00 percent of a playset
+Have 154 out of 470 - 32.77 percent of a playset
 Chosen card is a(n) Artifact from Modern Masters - Arcbound Wanderer. I own 0 of 4
 
 Closest deck to completion (BR - Artifact Recursion) is at 32 cards.
@@ -324,12 +324,12 @@ Most needed cards are:
  - Pulse of the Forge: 19
 
 *** KAMIGAWA BLOCK ***
-There are 28 Kamigawa Block legal cards
-Have 127 out of 242 - 52.48 percent of a playset
+There are 29 Kamigawa Block legal cards
+Have 140 out of 246 - 56.91 percent of a playset
 Chosen card is a(n) Creature from Betrayers of Kamigawa - Floodbringer. I own 0 of 4
 
-Closest deck to completion (B - OniOgre) is at 36 cards.
-{'Blood Speaker': 4, 'Hand of Cruelty': 4, 'Hideous Laughter': 4, "Kuro's Taken": 4, 'Raving Oni-Slave': 4, 'Rend Flesh': 4, 'Swallowing Plague': 4, 'Takenuma Bleeder': 4, 'Yukora, the Prisoner': 4}
+Closest deck to completion (TD - Snake's Path) is at 34 cards.
+{'Kashi-Tribe Reaver': 3, 'Kashi-Tribe Warriors': 2, 'Matsu-Tribe Decoy': 3, 'Orochi Eggwatcher': 1, 'Orochi Leafcaller': 3, 'Orochi Ranger': 3, 'Orochi Sustainer': 4, 'Sachi, Daughter of Seshiro': 1, 'Sakura-Tribe Elder': 1, 'Sosuke, Son of Seshiro': 1, 'Lure': 1, 'Serpent Skin': 2, 'Strength of Cedars': 2, 'Wear Away': 1, 'Time of Need': 1, 'Hankyu': 2, 'Junkyo Bell': 1, 'Orochi Hatchery': 1, "Sensei's Divining Top": 1}
 
 Most needed cards are:
  - Kodama's Reach: 106
@@ -344,28 +344,28 @@ Most needed cards are:
  - Kodama of the North Tree: 57
 
 *** RAVNICA BLOCK ***
-There are 44 Ravnica Block legal cards
-Have 139 out of 306 - 45.42 percent of a playset
-Chosen card is a(n) Land from Zendikar Expeditions - Hallowed Fountain. I own 0 of 4
+There are 46 Ravnica Block legal cards
+Have 152 out of 314 - 48.41 percent of a playset
+Chosen card is a(n) Land from Zendikar Expeditions - Breeding Pool. I own 0 of 4
 
 Closest deck to completion (TD - Golgari Deathcreep) is at 36 cards.
 {'Svogthos, the Restless Tomb': 1, 'Drooling Groodion': 2, 'Elves of Deep Shadow': 2, 'Elvish Skysweeper': 1, 'Golgari Brownscale': 2, 'Golgari Grave-Troll': 1, 'Golgari Guildmage': 1, 'Golgari Rotwurm': 2, 'Greater Mossdog': 3, 'Infectious Host': 2, 'Savra, Queen of the Golgari': 1, 'Shambling Shell': 2, 'Stinkweed Imp': 2, 'Thoughtpicker Witch': 1, 'Woodwraith Strangler': 2, 'Moldervine Cloak': 1, 'Necromantic Thirst': 1, 'Darkblast': 2, 'Last Gasp': 2, 'Putrefy': 1, 'Recollect': 2, 'Rolling Spoil': 1, 'Vigor Mortis': 1}
 
 Most needed cards are:
- - Demonfire: 21
- - Sacred Foundry: 20
- - Seal of Fire: 19
- - Blood Crypt: 18
- - Lightning Helix: 18
- - Faith's Fetters: 16
- - Giant Solifuge: 16
- - Godless Shrine: 16
- - Stomping Ground: 15
- - Castigate: 14
+ - Faith's Fetters: 30
+ - Overgrown Tomb: 30
+ - Godless Shrine: 28
+ - Sacred Foundry: 28
+ - Temple Garden: 27
+ - Lightning Helix: 26
+ - Stomping Ground: 26
+ - Breeding Pool: 24
+ - Remand: 24
+ - Blood Crypt: 23
 
 *** PAUPER COMMANDER ***
-There are 3435 Pauper Commander legal cards
-Have 422 out of 3739 - 11.29 percent of a playset
+There are 3457 Pauper Commander legal cards
+Have 452 out of 3761 - 12.02 percent of a playset
 Chosen card is a(n) Creature from Torment - Barbarian Outcast. I own 0 of 1
 
 Closest deck to completion (Vhal, Candlekeep Researcher) is at 58 cards.
@@ -384,12 +384,11 @@ Most needed cards are:
  - Mystic Sanctuary: 5
 
 *** COMMANDER ***
-There are 6681 Commander legal cards
-Have 774 out of 7085 - 10.92 percent of a playset
+There are 6715 Commander legal cards
+Have 811 out of 7119 - 11.39 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 1
 
 Most needed cards are:
- - Forest: 163
  - Snow-Covered Plains: 115
  - Ancient Tomb: 90
  - Plains: 75
@@ -399,6 +398,7 @@ Most needed cards are:
  - Swiftfoot Boots: 69
  - Nykthos, Shrine to Nyx: 67
  - Cyclonic Rift: 64
+ - Demonic Tutor: 64
 
 Decks for various Commander Color IDs:
 Color Combo: B-Black, Commander: SzarekhTheSilentKing
@@ -410,14 +410,17 @@ Needed cards: 39 - {'Aftermath Analyst': 1, 'Altar of Bhaal': 1, 'Animate Dead':
 Color Combo: BW-Orzhov, Commander: Shay Cormac
 Needed cards: 52 - {'Afterlife': 1, "Akroma's Vengeance": 1, 'All Is Dust': 1, 'Alms Collector': 1, 'Archivist of Oghma': 1, "Arguel's Blood Fast // Temple of Aclazotz": 1, 'Armageddon': 1, 'Assault Intercessor': 1, "Bandit's Haul": 1, 'Bounty Agent': 1, 'Bounty Board': 1, 'Bounty Hunter': 1, 'Bovine Intervention': 1, 'Call of the Ring': 1, 'Cauldron of Souls': 1, 'Damn': 1, 'Deathbringer Liege': 1, 'Demonic Tutor': 1, 'Doom Blade': 1, 'Elenda, the Dusk Rose': 1, 'Esper Sentinel': 1, 'Fateful Absence': 1, 'Fracture': 1, "General's Enforcer": 1, 'Generous Gift': 1, 'Get Lost': 1, 'Gisa, the Hellraiser': 1, 'Grand Abolisher': 1, 'Greed': 1, 'Harvester of Souls': 1, 'Intrepid Hero': 1, 'Kaervek, the Punisher': 1, 'Killian, Ink Duelist': 1, 'Library of Leng': 1, 'Malicious Affliction': 1, 'Mortify': 1, 'Murder': 1, 'Orzhova, the Church of Deals': 1, 'Path to Exile': 1, 'Phyrexian Arena': 1, 'Rebuff the Wicked': 1, 'Rise of the Dark Realms': 1, 'Royal Assassin': 1, 'Shadowspear': 1, 'Spellbook': 1, 'Termination Facilitator': 1, 'Tetzimoc, Primal Death': 1, 'Teysa Karlov': 1, 'Toshiro Umezawa': 1, 'Tragic Slip': 1, 'V.A.T.S.': 1, 'Vindicate': 1}
 
+Color Combo: G-Green, Commander: Jolrael, Empress of Beasts
+Needed cards: 54 - {'Jolrael, Empress of Beasts': 1, 'Abundance': 1, 'Awaken the Woods': 1, 'Azusa, Lost but Seeking': 1, 'Bane of Progress': 1, 'Boundless Realms': 1, 'Broken Bond': 1, 'Burgeoning': 1, 'Collective Unconscious': 1, 'Courser of Kruphix': 1, 'Darksteel Plate': 1, 'Dryad of the Ilysian Grove': 1, 'Eternal Witness': 1, 'Exploration': 1, 'Explore': 1, 'Forest': 7, "Gaea's Cradle": 1, "Gaea's Touch": 1, 'Harvest Season': 1, 'Into the Wilds': 1, "Jaheira's Respite": 1, 'Khalni Heart Expedition': 1, "Kodama's Reach": 1, 'Krosan Grip': 1, 'Liege of the Tangle': 1, 'Migration Path': 1, 'Natural Affinity': 1, "Nevinyrral's Disk": 1, "Nissa's Pilgrimage": 1, 'Nissa, Who Shakes the World': 1, 'Oracle of Mul Daya': 1, 'Return of the Wildspeaker': 1, 'Rude Awakening': 1, 'Seedborn Muse': 1, "Seer's Sundial": 1, 'Shamanic Revelation': 1, 'Skyshroud Claim': 1, 'Splendid Reclamation': 1, 'Staff of Titania': 1, 'Swiftfoot Boots': 1, 'Sylvan Advocate': 1, 'Sylvan Awakening': 1, 'Sylvan Library': 1, 'Three Visits': 1, 'Tireless Tracker': 1, 'Topiary Stomper': 1, 'Wayward Swordtooth': 1, 'Wood Elves': 1}
+
 Color Combo: BR-Rakdos, Commander: Axelrod Gunnarson
 Needed cards: 55 - {'Axelrod Gunnarson': 1, 'Arcbond': 1, 'Archetype of Aggression': 1, 'Arena': 1, 'Barbed Servitor': 1, 'Beseech the Queen': 1, 'Big Score': 1, 'Blazing Sunsteel': 1, 'Burning Anger': 1, 'Burnt Offering': 1, 'Cabal Ritual': 1, 'Calamity Bearer': 1, "Chandra's Ignition": 1, 'Dark Ritual': 1, 'Demonic Tutor': 1, 'Diabolic Tutor': 1, 'Eternal Thirst': 1, 'Fiendish Duo': 1, 'Firecat Blitz': 1, "General's Regalia": 1, 'Gorgon Flail': 1, 'Harvester of Souls': 1, "In Garruk's Wake": 1, 'Into the Fire': 1, "Kaya's Ghostform": 1, 'Krenko, Mob Boss': 1, 'Kusari-Gama': 1, 'Mahadi, Emporium Master': 1, "Mastermind's Acquisition": 1, 'Molten Collapse': 1, 'Molten Slagheap': 1, 'Night Dealings': 1, 'Obosh, the Preypiercer': 1, 'Outnumber': 1, "Pariah's Shield": 1, 'Phyrexian Arena': 1, 'Profane Tutor': 1, 'Radiant Performer': 1, 'Rakdos Cluestone': 1, 'Rakdos Locket': 1, 'Ring of Valkas': 1, 'Ring of Xathrid': 1, 'Seething Song': 1, 'Solphim, Mayhem Dominus': 1, 'Stuffy Doll': 1, 'Swiftfoot Boots': 1, 'Thrill of Possibility': 1, 'Tor Wauki the Younger': 1, 'Undead Gladiator': 1, 'Varragoth, Bloodsky Sire': 1, 'Vessel of Volatility': 1, 'Volcano Hellion': 1, 'Wall of Souls': 1, 'Warstorm Surge': 1, 'Worn Powerstone': 1}
 
+Color Combo: GU-Simic, Commander: Zimone, Mystery Unraveler
+Needed cards: 55 - {'Aetherize': 1, 'Altar of Dementia': 1, "An Offer You Can't Refuse": 1, 'Ancient Greenwarden': 1, 'Aphetto Runecaster': 1, 'Barkchannel Pathway': 1, 'Birds of Paradise': 1, 'Boseiju, Who Endures': 1, 'Breeding Pool': 1, 'Chain of Vapor': 1, 'Colossal Skyturtle': 1, 'Delighted Halfling': 1, 'Displacer Kitten': 1, 'Dreamroot Cascade': 1, 'Entish Restoration': 1, 'Essence Flux': 1, 'Eternal Witness': 1, 'Fabled Passage': 1, 'Flooded Strand': 1, 'Fyndhorn Elves': 1, 'Ghostly Flicker': 1, 'Hullbreaker Horror': 1, 'Jin-Gitaxias, Core Augur': 1, 'Jin-Gitaxias, Progress Tyrant': 1, 'Kodama of the East Tree': 1, 'Koma, Cosmos Serpent': 1, 'Lumbering Falls': 1, 'Misty Rainforest': 1, 'Mystic Sanctuary': 1, 'Nyxbloom Ancient': 1, 'Old Gnawbone': 1, 'Omniscience': 1, 'Oracle of Mul Daya': 1, 'Path of Ancestry': 1, 'Pongify': 1, 'Prismatic Vista': 1, 'Rivendell': 1, 'Scalding Tarn': 1, 'Sink into Stupor': 1, 'Snow-Covered Forest': 1, 'Snow-Covered Island': 1, 'Sylvan Library': 1, 'Talisman of Curiosity': 1, 'The Great Henge': 1, 'Three Visits': 1, 'Tidespout Tyrant': 1, 'Tropical Island': 1, 'Veil of Summer': 1, 'Verdant Catacombs': 1, 'Vorinclex, Voice of Hunger': 1, 'Waterlogged Grove': 1, 'Windswept Heath': 1, 'Wooded Foothills': 1, 'Worldly Tutor': 1, 'Zendikar Resurgent': 1}
+
 Color Combo: UW-Azorius, Commander: Gosta Dirk
 Needed cards: 55 - {'Gosta Dirk': 1, "An Offer You Can't Refuse": 1, 'Anointed Procession': 1, 'Approach of the Second Sun': 1, 'Archivist of Oghma': 1, 'Authority of the Consuls': 1, 'Blind Obedience': 1, 'Cyclonic Rift': 1, 'Darksteel Mutation': 1, 'Daxos of Meletis': 1, "Dovin's Veto": 1, 'Drannith Magistrate': 1, 'Elesh Norn, Grand Cenobite': 1, "Elspeth, Sun's Champion": 1, 'Esper Sentinel': 1, 'Faerie Mastermind': 1, 'Farewell': 1, 'Fierce Guardianship': 1, 'Forced Fruition': 1, 'Generous Gift': 1, 'Ghostly Prison': 1, 'Grand Abolisher': 1, 'Grand Arbiter Augustin IV': 1, 'Hallowed Fountain': 1, 'Idyllic Tutor': 1, 'Jin-Gitaxias': 1, 'Jin-Gitaxias, Progress Tyrant': 1, 'Land Tax': 1, 'Lavinia, Azorius Renegade': 1, 'Mana Drain': 1, 'Midnight Clock': 1, 'Mondrak, Glory Dominus': 1, 'Mystic Remora': 1, 'Mystical Tutor': 1, 'Narset, Parter of Veils': 1, 'Negate': 1, 'Path to Exile': 1, 'Prairie Stream': 1, 'Propaganda': 1, 'Psychosis Crawler': 1, 'Ravenform': 1, 'Render Silent': 1, 'Rhystic Study': 1, "Sensei's Divining Top": 1, 'Shadowspear': 1, 'Silence': 1, 'Smothering Tithe': 1, 'Sun Titan': 1, 'Supreme Verdict': 1, 'Swan Song': 1, 'Teferi, Master of Time': 1, 'Teferi, Time Raveler': 1, 'Vanquish the Horde': 1, 'Windfall': 1, 'Wrath of God': 1}
-
-Color Combo: GU-Simic, Commander: Zimone, Mystery Unraveler
-Needed cards: 56 - {'Aetherize': 1, 'Altar of Dementia': 1, "An Offer You Can't Refuse": 1, 'Ancient Greenwarden': 1, 'Aphetto Runecaster': 1, 'Barkchannel Pathway': 1, 'Birds of Paradise': 1, 'Boseiju, Who Endures': 1, 'Breeding Pool': 1, 'Chain of Vapor': 1, 'Colossal Skyturtle': 1, 'Delighted Halfling': 1, 'Displacer Kitten': 1, 'Dreamroot Cascade': 1, 'Entish Restoration': 1, 'Essence Flux': 1, 'Eternal Witness': 1, 'Fabled Passage': 1, 'Flooded Strand': 1, 'Fyndhorn Elves': 1, 'Ghostly Flicker': 1, 'Hullbreaker Horror': 1, 'Jin-Gitaxias, Core Augur': 1, 'Jin-Gitaxias, Progress Tyrant': 1, 'Kodama of the East Tree': 1, 'Koma, Cosmos Serpent': 1, 'Llanowar Elves': 1, 'Lumbering Falls': 1, 'Misty Rainforest': 1, 'Mystic Sanctuary': 1, 'Nyxbloom Ancient': 1, 'Old Gnawbone': 1, 'Omniscience': 1, 'Oracle of Mul Daya': 1, 'Path of Ancestry': 1, 'Pongify': 1, 'Prismatic Vista': 1, 'Rivendell': 1, 'Scalding Tarn': 1, 'Sink into Stupor': 1, 'Snow-Covered Forest': 1, 'Snow-Covered Island': 1, 'Sylvan Library': 1, 'Talisman of Curiosity': 1, 'The Great Henge': 1, 'Three Visits': 1, 'Tidespout Tyrant': 1, 'Tropical Island': 1, 'Veil of Summer': 1, 'Verdant Catacombs': 1, 'Vorinclex, Voice of Hunger': 1, 'Waterlogged Grove': 1, 'Windswept Heath': 1, 'Wooded Foothills': 1, 'Worldly Tutor': 1, 'Zendikar Resurgent': 1}
 
 Color Combo: RU-Izzet, Commander: Deck with Wyll, Blade of Frontiers + Sword Coast Sailor
 Needed cards: 56 - {'Wyll, Blade of Frontiers': 1, 'Aggravated Assault': 1, 'Ancient Copper Dragon': 1, 'Ancient Silver Dragon': 1, 'Arcane Investigator': 1, 'Barbarian Class': 1, 'Bident of Thassa': 1, 'Boing!': 1, "Bucknard's Everfull Purse": 1, 'Chaos Dragon': 1, 'Component Pouch': 1, 'Contact Other Plane': 1, 'Critical Hit': 1, 'Curiosity': 1, 'Cyclonic Rift': 1, 'Delina, Wild Mage': 1, 'Diamond Pick-Axe': 1, 'Ebony Fly': 1, 'Fabricate': 1, 'Feywild Trickster': 1, 'Fierce Guardianship': 1, 'Frostboil Snarl': 1, 'Godo, Bandit Warlord': 1, 'Goldspan Dragon': 1, 'Hoarding Ogre': 1, 'Izzet Boilerworks': 1, 'Karlach, Fury of Avernus': 1, 'Kediss, Emberclaw Familiar': 1, 'Luck Bobblehead': 1, 'Magda, Brazen Outlaw': 1, 'Molten Tributary': 1, 'Netherese Puzzle-Ward': 1, 'Niv-Mizzet, Parun': 1, 'Professional Face-Breaker': 1, 'Reckless Endeavor': 1, 'Rhystic Study': 1, 'Robe of the Archmagi': 1, 'Shivan Reef': 1, 'Simon, Wild Magic Sorcerer': 1, 'Slip Out the Back': 1, 'Storm-Kiln Artist': 1, 'Strength-Testing Hammer': 1, 'Swiftfoot Boots': 1, 'Sword of Hours': 1, 'Sword of the Animist': 1, 'Talisman of Creativity': 1, 'Temple of Epiphany': 1, 'The Reaver Cleaver': 1, 'Unexpected Windfall': 1, 'Untimely Malfunction': 1, 'Vandalblast': 1, 'Vexing Puzzlebox': 1, 'Volatile Fjord': 1, 'Wand of Wonder': 1, "Wizard's Spellbook": 1, 'Xorn': 1}
@@ -452,9 +455,6 @@ Needed cards: 65 - {'Jerrard of the Closed Fist': 1, "Accorder's Shield": 1, "Ar
 Color Combo: GRU-Temur, Commander: Flubs The Fool
 Needed cards: 66 - {'Flubs, the Fool': 1, 'Aeve, Progenitor Ooze': 1, "An Offer You Can't Refuse": 1, 'Anger': 1, 'Archmage Emeritus': 1, 'Artistic Refusal': 1, 'Barkchannel Pathway': 1, 'Breeding Pool': 1, 'Careful Study': 1, 'Circular Logic': 1, 'Coruscation Mage': 1, 'Creeping Renaissance': 1, 'Crucible of Worlds': 1, 'Deep Analysis': 1, "Dragon's Rage Channeler": 1, 'Drake Haven': 1, 'Echo of Eons': 1, 'Escape to the Wilds': 1, 'Experimental Frenzy': 1, 'Fabled Passage': 1, 'Faithless Looting': 1, 'Farseek': 1, 'Fervent Denial': 1, 'Fiery Islet': 1, 'Fountainport Bell': 1, 'Fury Storm': 1, 'Gitaxian Probe': 1, 'Golgari Grave-Troll': 1, 'Greensleeves, Maro-Sorcerer': 1, 'Hedron Crab': 1, 'Ignite the Future': 1, 'Increasing Vengeance': 1, 'Junk Winder': 1, 'Karplusan Forest': 1, "Lich's Tomb": 1, 'Magus of the Bazaar': 1, 'Mass Diminish': 1, 'Mossfire Valley': 1, 'Murmuring Mystic': 1, 'Mystic Confluence': 1, 'Mystic Retrieval': 1, 'Mystic Sanctuary': 1, 'Niv-Mizzet, the Firemind': 1, 'Octavia, Living Thesis': 1, 'Oneirophage': 1, 'Oracle of Mul Daya': 1, 'Quandrix Apprentice': 1, 'Ral, Crackling Wit': 1, 'Ramunap Excavator': 1, 'Reality Scramble': 1, 'River Kelpie': 1, 'Scuttletide': 1, 'Search for Tomorrow': 1, 'Season of Weaving': 1, 'Secrets of the Dead': 1, 'Shivan Reef': 1, 'Song of Creation': 1, 'Steam Vents': 1, 'Stomping Ground': 1, 'Storm-Kiln Artist': 1, 'Talrand, Sky Summoner': 1, 'The Locust God': 1, 'Think Twice': 1, 'Thrill of Possibility': 1, 'Waterlogged Grove': 1, 'Witty Roastmaster': 1}
 
-Color Combo: G-Green, Commander: Bristly Bill, Spine Sower
-Needed cards: 69 - {'Bristly Bill, Spine Sower': 1, "Akroma's Memorial": 1, 'Amulet of Vigor': 1, 'Andúril, Narsil Reforged': 1, 'Arboreal Grazer': 1, "Archdruid's Charm": 1, 'Avenger of Zendikar': 1, 'Azusa, Lost but Seeking': 1, 'Boseiju, Who Endures': 1, 'Branching Evolution': 1, 'Brokers Hideout': 1, 'Burgeoning': 1, 'Cabaretti Courtyard': 1, 'Chord of Calling': 1, 'Colossal Majesty': 1, 'Courser of Kruphix': 1, 'Court of Garenbrig': 1, 'Craterhoof Behemoth': 1, 'Crucible of Worlds': 1, 'Doubling Season': 1, 'Elven Chorus': 1, 'Entish Restoration': 1, 'Escape Tunnel': 1, 'Exploration': 1, 'Fabled Passage': 1, 'Finale of Devastation': 1, 'Ghost Quarter': 1, 'Greater Good': 1, "Green Sun's Zenith": 1, 'Greensleeves, Maro-Sorcerer': 1, 'Guardian Project': 1, 'Hardened Scales': 1, 'Horrific Assault': 1, 'Kalonian Hydra': 1, 'Kodama of the West Tree': 1, "Kodama's Reach": 1, 'Krosan Grip': 1, 'Lotus Cobra': 1, 'Misty Rainforest': 1, 'Mossborn Hydra': 1, "Nevinyrral's Disk": 1, 'Nylea, God of the Hunt': 1, 'Oracle of Mul Daya': 1, 'Pathbreaker Ibex': 1, 'Prismatic Vista': 1, 'Quilled Greatwurm': 1, 'Ramunap Excavator': 1, 'Reclamation Sage': 1, 'Riveteers Overlook': 1, 'Scapeshift': 1, 'Shire Terrace': 1, 'Splendid Reclamation': 1, 'Strip Mine': 1, 'Swiftfoot Boots': 1, 'Sword of the Animist': 1, 'Sylvan Library': 1, 'The Great Henge': 1, 'The One Ring': 1, 'Tireless Provisioner': 1, 'Toski, Bearer of Secrets': 1, 'Triumph of the Hordes': 1, 'Ugin, the Spirit Dragon': 1, 'Verdant Catacombs': 1, 'Vorinclex, Monstrous Raider': 1, 'Windswept Heath': 1, 'Wooded Foothills': 1, 'Worldly Tutor': 1, 'Yavimaya, Cradle of Growth': 1, 'Zuran Orb': 1}
-
 Color Combo: GRW-Naya, Commander: Jacques le Vert
 Needed cards: 70 - {'Jacques le Vert': 1, 'Assault Formation': 1, 'Barbarian Ring': 1, 'Beast Whisperer': 1, 'Bedrock Tortoise': 1, 'Belligerent Brontodon': 1, 'Birds of Paradise': 1, 'Bloodfire Dwarf': 1, 'Bloodfire Infusion': 1, 'Boros Garrison': 1, 'Boxing Ring': 1, 'Bridgeworks Battle': 1, 'Calamity of Cinders': 1, 'Caltrops': 1, "Chandra's Ignition": 1, 'Clan Defiance': 1, 'Copperline Gorge': 1, 'Curse of Clinging Webs': 1, 'Dinosaur Egg': 1, 'Fecund Greenshell': 1, 'Fell the Mighty': 1, 'Fiery Confluence': 1, 'Fire Ants': 1, 'Go for Blood': 1, 'Gruul Turf': 1, 'Hornet Nest': 1, "Huatli, the Sun's Heart": 1, 'Hungering Hydra': 1, 'Inferno': 1, 'Jungle Shrine': 1, 'Khalni Ambush': 1, 'Mossfire Valley': 1, 'Neyith of the Dire Hunt': 1, 'Nightshade Dryad': 1, 'Phytohydra': 1, 'Powerstone Minefield': 1, 'Primal Might': 1, "Racers' Ring": 1, 'Ranging Raptors': 1, 'Ripjaw Raptor': 1, 'Saber Ants': 1, "Saryth, the Viper's Fang": 1, 'Savage Smash': 1, 'Scattered Groves': 1, 'Sheltered Thicket': 1, 'Sheltering Landscape': 1, 'Sidar Kondo of Jamuraa': 1, 'Smell Fear': 1, 'Spore Cloud': 1, 'Sporeweb Weaver': 1, 'Starstorm': 1, "Storm's Wrath": 1, 'Sunscorched Divide': 1, 'Sylvan Anthem': 1, 'Tail Swipe': 1, 'Talisman of Conviction': 1, 'Talisman of Impulse': 1, 'Talisman of Unity': 1, 'Temple of Abandon': 1, 'Tinder Wall': 1, 'Trace of Abundance': 1, 'Treefolk Umbra': 1, "Trostani, Selesnya's Voice": 1, "Tyvar's Stand": 1, 'Ulvenwald Observer': 1, 'Utopia Tree': 1, 'Vine Trellis': 1, 'Volcanic Spray': 1, 'Wayta, Trainer Prodigy': 1, 'Wild Growth': 1}
 
@@ -485,26 +485,28 @@ Needed cards: 94 - {'Thrasios, Triton Hero': 1, 'Abrupt Decay': 1, 'Ad Nauseam':
 Oldest Commander deck is BG-Golgari/Hazel of the Rootbloom, last updated 08/22/2024
 
 *** OTHER DATA ***
-222 total creature types
+224 total creature types
+Following creature types have only one entry:
+['Ally', 'Dinosau']
 
 Percentages ordered by format:
-Kamigawa Block: 52.48
-Ravnica Block: 45.42
-Mirrodin Block: 30.00
-Standard: 24.85
-Onslaught Block: 23.51
-Pioneer: 17.11
-Pauper Commander: 11.29
-Oathbreaker: 10.93
-Commander: 10.92
-Modern: 8.76
-Ice Age Block: 5.69
-Tempest Block: 5.10
-Odyssey Block: 5.05
-Urza's Block: 5.03
-Invasion Block: 4.97
-Masques Block: 4.87
-Mirage Block: 4.85
-Pauper: 3.77
-Vintage: 3.09
-Legacy: 3.03
+Kamigawa Block: 56.91
+Ravnica Block: 48.41
+Mirrodin Block: 32.77
+Standard: 25.85
+Onslaught Block: 25.26
+Pioneer: 17.72
+Pauper Commander: 12.02
+Commander: 11.39
+Oathbreaker: 11.38
+Modern: 9.10
+Ice Age Block: 6.26
+Tempest Block: 5.59
+Odyssey Block: 5.55
+Urza's Block: 5.53
+Invasion Block: 5.47
+Masques Block: 5.37
+Mirage Block: 5.32
+Pauper: 4.01
+Vintage: 3.21
+Legacy: 3.14

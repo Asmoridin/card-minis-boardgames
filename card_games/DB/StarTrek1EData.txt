@@ -238,7 +238,17 @@ Linda Larson;Personnel;Federation;Premiere;247,6004,6367,6730,7652;;4;0
 Lojal;Personnel;Federation;Deep Space 9;248;;4;0
 Lojur;Personnel;Federation;The Motion Pictures;249,7192;;4;0
 Lokirrim Vessel;Ship;Non-Aligned;All Good Things;250;;4;0
+Loreva;Personnel;Klingon;Mirror, Mirror;251,4860;;4;0
+Losarus;Personnel;Vidiian;Voyager;252;;4;0
+Lt. Grant;Personnel;Federation;The Trouble with Tribbles;253;;4;0
+Lt. Palmer;Personnel;Federation;All Good Things;254;;4;0
+Makla'Gor;Personnel;Dominion;The Dominion;255;;4;0
 Male's Love Interest;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1674,6927,1676,5257,6201,6564,7849;;4;1 # Have 1 Premiere (need 1 Voyager)
+Maleth;Personnel;Vidiian;Holodeck Adventures;256;;4;0
+Maniz;Personnel;Kazon;Voyager;257;;4;0
+Marauder;Personnel;Federation;Mirror, Mirror;258,4848;;4;0
+Mariah Henley;Personnel;Federation;Voyager;259;260;4;0
+Mariah Henley;Personnel;Non-Aligned;Voyager;260;259;4;0
 Matriarchal Society;Dilemma;Planet;Premiere/Voyager/Trouble with Tribbles Starter Decks;1696,1697,5259,6203,6566,6929,7851;;4;1 # Have 1 Premiere, need 1 Voyager
 Mendak;Personnel;Romulan;Premiere;1713,6207,6570,6933,7855;;2;1
 Microvirus;Dilemma;Planet;Premiere/Trouble with Tribbles Starter Decks;1723,5262,6211,6574,6937,7859;;4;1
@@ -289,7 +299,7 @@ Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
 
-# Done through card 250
+# Done through card 260
 #295
 #430
 #556
@@ -374,7 +384,8 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #4828
 #4833-4834
 #4843-4845
-#4859
+#4848
+#4859-4860
 #4864
 #4869
 #4871
