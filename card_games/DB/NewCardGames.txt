@@ -2,6 +2,9 @@
 007 Spy Cards
 24 TCG
 7th Sea
+7th Sea: City of Five Sails (Decks Only)
+A Game of Thrones: The Card Game (Decks Only)
+A Game of Thrones: The Card Game (Second Edition) (Decks Only)
 Achroma
 Adventure Time Card Wars
 Aeon's End
@@ -21,7 +24,9 @@ Aquarian Age
 Arcadia: The Wyld Hunt
 Arcmage
 Argent Saga TCG
+Arkham Horror: The Card Game
 Arkna: TCG
+Ashes: Rise of the Phoenixborn (Decks Only)
 Austin Powers
 Avatar
 BAKUGAN TCG
@@ -31,6 +36,7 @@ BaneMaster: The Adventure
 Battle Cards
 Battle Spirits
 Battle Spirits Saga
+Battle for Sularia (Decks Only)
 Battlelords
 Battlestar Galactica
 Battletech
@@ -46,15 +52,18 @@ Bionicle
 Bleach
 Blood Wars
 Blue Dragon RPCG
+Blue Moon Legends (Decks Only)
 Boy Crazy
 Buffy the Vampire Slayer
 C-23
+Call of Cthulhu: The Card Game (Decks Only)
 Calorie Kids
 Cardcaptors
 Cardfight!! Vanguard
 Case Closed
 Chaotic
 ChiZo Rising
+Chronicles of Marlis (Decks Only)
 Chrono Clash System
 Clone Wars Adventures
 Clout Fantasy
@@ -67,6 +76,7 @@ Conquest of Arthenia
 Corunea
 Cosplay Deviants
 Crown of the Emperor
+Crystal Clans
 Crystalicum
 Crystarium
 Cyberpunk
@@ -91,6 +101,7 @@ Doctor Who - Battles in Time
 Doctor Who: Alien Armies TCG
 Doctor Who: The CCG
 Doomtown Rangewars
+Doomtown: Reloaded (Decks Only)
 Doomtrooper
 DragoBorne - Rise to Supremacy
 Dragon Ball GT CCG
@@ -107,6 +118,7 @@ Dune
 Dungeon Crawler
 EVE: The Second Genesis
 Eagles
+Earthborne Rangers (Decks Only)
 Echelons of Fire
 Echelons of Fury
 El Mundo de Águila-Roja
@@ -127,6 +139,7 @@ Flesh and Blood
 Flights of Fantasy
 Football Champions
 Force of Will
+Forged Realms
 Fullmetal Alchemist
 Future Card Buddyfight
 G.I. Joe
@@ -147,9 +160,11 @@ Hecatomb
 Hercules: The Legendary Journeys
 Heresy: Kingdom Come
 Hermitcraft TCG
+High Command (Decks Only)
 High Stakes Drifter
 Highlander
 Horus Heresy
+Hull Breach
 HumAliens
 Huntik
 Hyborian Gates
@@ -221,14 +236,15 @@ Navia Dratp
 Neopets
 Nerve
 Nightfall
+ORIGINZ: The Superpowered Card Game
 On the Edge
 One Piece
 One-on-One Hockey Challenge
 Ophidian 2350
 OverPower
-Pagan: Fate of Roanoke
 PEZ
 PK Cards
+Pagan: Fate of Roanoke
 Pirates of the Caribbean
 Pirates of the Spanish Main
 Playoff Hockey
@@ -238,6 +254,8 @@ Power Rangers Action Card Game
 Power Rangers CCG
 Powerstorm CCG
 Quest for the Grail
+REDLINE: Tactical Card Combat
+RONE
 Racer Knights of Falconus
 Rage: Apocalypse
 Rage: Tribal War
@@ -247,6 +265,7 @@ Redemption
 Riftforce
 Rifts
 Rocketmen: Axis of Evil
+Romance of the Nine Empires (Decks Only)
 Rotation Rumble
 RuinsWorld
 Sack Armies
@@ -269,6 +288,7 @@ Speed Racer
 Spellfire
 Spongebob Squarepants
 Spycraft
+Squarriors: The Card Game
 Star Fleet Battle Force
 Star Quest
 Star Trek Collectible Dice Game
@@ -279,6 +299,7 @@ Star Wars TCG
 Star Wars: Destiny
 Star of the Guardians
 Stargate TCG
+Summoner Wars (Second Edition)
 Super Deck!
 Super Nova
 Survivor
@@ -294,6 +315,8 @@ The Crow
 The Dragon's Wrath
 The Heroes of Might & Magic IV Collectible Card & Tile Game
 The Last Crusade
+The Librarians: Adventure Card Game (Decks Only)
+The Lord of the Rings: The Card Game (Decks Only)
 The Nightmare Before Christmas
 The Simpsons
 The Spoils
@@ -324,9 +347,12 @@ WCW Nitro
 WIXOSS
 WWF/WWE Raw Deal
 WarCry
+Warage: Extended Edition
 Ward
 Warhammer 40,000
+Warhammer 40,000: Conquest (Decks Only)
 Warhammer Age of Sigmar Champions
+Warhammer: Invasion (Decks Only)
 Warlord: Saga of the Storm
 Warlords: The Card Game
 Webkinz
@@ -339,6 +365,7 @@ Wizard in Training
 Wizards of Mickey
 Wizards of the Grimoire
 World of Warcraft
+Worldbreakers: Advent of the Khanate
 X-Files
 X-Men
 XXXenophile

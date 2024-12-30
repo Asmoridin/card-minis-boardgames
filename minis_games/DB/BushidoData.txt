@@ -41,6 +41,7 @@ Bobata the Bell Ringer;Savage Wave;1;0
 Botan;Temple of Ro-Kan;1;0
 Brother Zendaka;Silvermoon Syndicate;1;0
 Buzenbo;The Descension;1;0
+Byiba;Temple of Ro-Kan;1;0
 Cave Bat Rider;Savage Wave;1;0
 Child of Orochi;Ito Clan;2;0
 Chinatsu, the Cold Anger;The Awoken;1;0
@@ -121,6 +122,7 @@ Hokibo;The Descension;1;0
 Honbo;The Descension;1;0
 Honoko;Silvermoon Syndicate;1;0
 Hoshi Kimiko;Minimoto Clan;1;0
+Hoshi Machiko;Minimoto Clan;1;0
 Hoshi Odamu;Minimoto Clan;1;0
 Hoshi Rinko;Minimoto Clan;1;0
 Hotaru;Temple of Ro-Kan;1;0
@@ -148,6 +150,7 @@ Ito Masunagi;Ito Clan;1;0
 Ito Mizuki;Ito Clan;1;0
 Ito Sadako;Ito Clan;1;0
 Ito Yudai;Ito Clan;1;0
+Ito Yuno;Ito Clan;1;0
 Itsube, Haiatake Guard;The Descension;1;0
 Izu Serpents;Ito Clan;3;0
 Jade Mamba Guard;Ito Clan;2;0
@@ -208,6 +211,7 @@ Khendish;Ronin;1;0
 Kibin;Silvermoon Syndicate;1;0
 Kintaru;Temple of Ro-Kan;1;0
 Kinzoku;Minimoto Clan;1;0
+Kira'a;Cult of Yurei;1;0
 Kira;Temple of Ro-Kan;1;0
 Kiyo, Who Sees Behind;The Awoken;1;0
 Kiyozumi Haiboku;Ronin;1;1
@@ -457,6 +461,7 @@ The White-Faced Fox;Temple of Ro-Kan;1;0
 The Wraith;Cult of Yurei;1;0
 Tomo;Silvermoon Syndicate;1;0
 Toshiro;Ronin;1;0
+Touwa;The Awoken;1;0
 Tra-peng;Savage Wave;1;0
 Trained Dogs;Prefecture of Ryu;2;0
 Trak;Savage Wave;1;1

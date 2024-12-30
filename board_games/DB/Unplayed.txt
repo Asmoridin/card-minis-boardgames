@@ -78,10 +78,9 @@ Broken Legions: Fantasy Skirmish Wargames in the Roman Empire
 Buffalo Wings
 Burning Banners
 Bushido: Risen Sun
-CAESAR: The Great Battles of Julius Caesar – The Civil Wars 48-45 B.C.
-COBRA: The Normandy Campaign
 Caesar in Alexandria
 Caesar: Conquest of Gaul
+CAESAR: The Great Battles of Julius Caesar – The Civil Wars 48-45 B.C.
 Captain's Sea
 Carrier Battles: The Struggle for Guadalcanal
 Castle Dice
@@ -93,6 +92,7 @@ Chariots of Rome
 Chronicles of Marlis
 City of Six Moons
 Clash of Carriers
+COBRA: The Normandy Campaign
 Codeword: Barbarossa (Four Roads to Moscow)
 Combat Commander: Pacific
 Combat Veteran
@@ -108,6 +108,7 @@ Crowbar! The Rangers at Pointe Du Hoc
 Cruel Necessity: The English Civil Wars 1640-1653
 Crystal Clans
 Czech Legion: Escape from the Soviet Union
+D-Day to The Rhine 1944 (Campaigns in Europe Volume 4)
 Daemon Dice
 Dawn of Battle
 Day of Infamy: The Attack on Pearl Harbor
@@ -184,18 +185,18 @@ Hull Breach
 Hungarian Nightmare
 Hunt for the Graf Spee
 I, Napoleon
-Infamy Avenged
-ISIS War: The Next Middle East War
 Ici, c'est la France! The Algerian War of Independence 1954 - 1962
 Illuminati
 Imua!: The Unification of Hawaii, 1795
 In Her Majesty's Name: Steampunk Skirmish Wargaming Rules
 In the Trenches: Devil Dogs
+Infamy Avenged
 Infidel
 Into a Bear Trap: The Battle for Grozny, January 1995
 Into the Pocket!
 Invasion: Malta
 Invasive Species
+ISIS War: The Next Middle East War
 Islamic State: Libya War
 Islamic State: The Syria War
 Italian Campaign 1943-44 (Campaigns in Europe Volume 3) 
@@ -281,9 +282,9 @@ Pulp!
 Putin Moves East
 Putin's War: Reclaiming the Soviet Empire in Eastern Europe
 Quatre Batailles en Espagne
+Race to the Sea 1914
 RAF
 RAN
-Race to the Sea 1914
 Raphia
 Rattenkrieg
 Rattenkrieg: Battle for the Barrikady Factory
@@ -395,11 +396,11 @@ Trudvang Legends
 Tuesday, The Führer Slept Late
 Twilight Imperium: Fourth Edition
 Twilight of the Gods
-USAAF: US Strategic Bombing Operations Over the Third Reich, 1944
 Ultra Tiny Epic Kingdoms
 Undaunted: Normandy
 Universal Fighting System
 Uprising
+USAAF: US Strategic Bombing Operations Over the Third Reich, 1944
 Utmost Savagery
 Velikiye Luki: Stalingrad of the North 
 Vercingetorix: Twilight of the Gauls
@@ -407,15 +408,16 @@ Verdun: A Generation Lost
 Vicksburg: The Assault On Stockade Redan, May 1863
 Vijayanagara: The Deccan Empires of Medieval India, 1290-1398
 Virgin Queen 
-War Galley
 War for Edaðh
+War Galley
 War in the Megacity
 War of the Ring
 War of the Triple Alliance: Paraguay – 1865-1870
 War of the Worlds
 War Plan Z: The Kriegsmarine Strikes
-WarCry
 Warcaster: Neo-Mechanika
+WarCry
+Warfighter: A Chtorr Special Forces Card Game
 Warhammer 40,000: Kill Team
 Warhammer Age of Sigmar (Second Edition)
 Warhammer Quest: Blackstone Fortress
@@ -425,6 +427,7 @@ Wars of the Republic: Ancient Roman Wargaming 343–50 BC
 Washington's War
 Watch on the Rhine: The Siegfried Line Campaign, 1944-45
 Way of the Fighter: Two Games
+World At War 85: Blood and Fury
 World of Tanks Miniatures Game
 World of Warcraft Trading Card Game
 Worldbreakers: Advent of the Khanate

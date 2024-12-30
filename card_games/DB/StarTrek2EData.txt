@@ -172,8 +172,8 @@ Assassin Team;V;Dilemma;;Raise the Stakes;Virtual;3;3
 Assassin's Blade;C;Dilemma;;Second Edition;Print;3;3
 Assassination Attempt;R;Dilemma;;Second Edition;Print;3;3
 Assassination Plot;R;Event;;Energize;Print;3;0
-Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;0
 Assault on Species 8472;S;Mission;;Call to Arms;Print;2;0
+Assault Vessel;U;Ship;Bajoran;Second Edition;Print;3;0
 Assess Contamination;V;Mission;;Extreme Measures;Virtual;2;0
 Assimilate Starship;V;Mission;;Tacking Into the Wind;Virtual;2;0
 Assimilated Transport;V;Ship;Borg;Raise the Stakes;Virtual;3;0
@@ -182,8 +182,8 @@ Assimilator, Rogue Borg Vessel;VP;Ship;Non-Aligned;Virtual Promo;Virtual;3;0
 Assist Cloaked Ship;U;Mission;;To Boldly Go;Print;2;0
 Assist Rescue Operation;U;Dilemma;;To Boldly Go;Print;3;2
 Astrometrics Lab;C;Event;;Second Edition;Print;3;0
-At What Cost?;R;Event;;Necessary Evil/Infinite Diversity Remastered/Virtual Promo;Both;3;0
 At an Impasse;U;Event;;Necessary Evil;Print;3;0
+At What Cost?;R;Event;;Necessary Evil/Infinite Diversity Remastered/Virtual Promo;Both;3;0
 Athos IV, Maquis Base;U/V;Mission;;Energize/Move Along Home;Both;2;0
 Audacious Assault;V;Event;;Lineage;Virtual;3;0
 Audit's Spoils;U;Ship;Ferengi;Strange New Worlds;Print;3;0
@@ -202,6 +202,8 @@ Axiana, Secure Colony;V;Mission;;Shattered Mirror;Virtual;2;0
 Ayala, Patriot;V;Personnel;Federation;20th Anniversary Collection;Virtual;3;0
 Azeni Meressa, Resistance Spy;V;Personnel;Bajoran;Lineage;Virtual;3;0
 Azetbur, Visionary Chancellor;V/VP;Personnel;Klingon;The Undiscovered Country/Virtual Promo;Virtual;3;1 // Have 1 TUC
+B'aht Qul Challenge;V;Event;;Raise the Stakes;Virtual;3;0
+B'amara;C;Personnel;Klingon;Second Edition;Print;3;2
 B'Elanna Torres, Chief Engineer;R;Personnel;Federation;These Are The Voyages;Print;3;0
 B'Elanna Torres, Creative Engineer;R;Personnel;Federation;Call to Arms;Print;3;0
 B'Elanna Torres, Mostly Assimilated;V;Personnel;Borg;Unity;Virtual;3;0
@@ -211,8 +213,6 @@ B'Etor, Ambitious Renegade;R;Personnel;Klingon;Necessary Evil;Print;3;0
 B'Etor, Cutthroat Accomplice;V;Personnel;Klingon;Heroes and Demons;Virtual;3;0
 B'Etor, Romulan Conspirator;R/VP;Personnel;Romulan;Necessary Evil/Virtual Promo;Both;3;0
 B'Etor, Sister of Duras;R;Personnel;Klingon;Second Edition;Print;3;0
-B'aht Qul Challenge;V;Event;;Raise the Stakes;Virtual;3;0
-B'amara;C;Personnel;Klingon;Second Edition;Print;3;2
 B'hava'el, Prevent Systemic Annihilation;V;Mission;;A Time to Stand;Virtual;2;0
 B'omar Sovereignty, Traverse Restricted Space;V;Mission;;Unnatural Selection;Virtual;2;0
 B'omar Stipulations;C;Dilemma;;Necessary Evil;Print;3;0
@@ -223,11 +223,11 @@ Ba'el, Naive Prisoner;V;Personnel;Romulan;This Side of Paradise;Virtual;3;0
 Ba'el, Reconciling Differences;V;Personnel;Klingon;Shattered Mirror;Virtual;3;0
 Ba'ku Planet, Collect Metaphasic Particles;V;Mission;;Heroes and Demons;Virtual;2;0
 Ba'ku Planet, Safeguard Civilization;V;Mission;;Star Trek 50;Virtual;2;0
-BaH!;U;Event;;Second Edition;Print;3;3
 Back Room Dealings;C/VP;Dilemma;;Necessary Evil/Virtual Promo;Both;3;0
 Back to Basics;R/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;3;1 // have 1 WYLB
 Back-Flush Bussard Collectors;U;Event;;Second Edition;Print;3;0
 Badar N'D'D, Parliamentary Predator;V;Personnel;Non-Aligned;The Omega Directive;Virtual;3;0
+BaH!;U;Event;;Second Edition;Print;3;3
 Bahrat's Space Station, Negotiate for Supplies;V;Mission;;Caretaker;Virtual;2;0
 Bait and Switch;V;Interrupt;;Warp Pack: Access Denied;Virtual;3;0
 Bajor, Blessed of the Prophets;V;Mission;;Move Along Home/Return to Grace;Virtual;2;0
@@ -436,8 +436,8 @@ Carol Marcus, Intelligent Scientist;P;Personnel;Non-Aligned;Genesis;Print;3;0
 Carolyn Palamas;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Cartography Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Cascade Virus;R/V;Interrupt;;These Are The Voyages/Second Skin;Both;3;0
-Casualties of War;R;Dilemma;;Energize;Print;3;1
 Casualties of the Occupation;V;Event;;Symbiosis;Virtual;3;0
+Casualties of War;R;Dilemma;;Energize;Print;3;1
 Casualties;R;Dilemma;;These Are The Voyages;Print;3;0
 Catastrophic Quip;V;Event;;Zero Hour;Virtual;3;0
 Caught in the Act;R;Event;;Necessary Evil;Print;3;0
@@ -605,19 +605,17 @@ Cyber Drone;V;Personnel;Borg;Shore Leave;Virtual;3;0
 Cyrano Jones, Troublesome Peddler;V;Personnel;Non-Aligned;A Less Perfect Union;Virtual;3;0
 Cyrus Redblock, Civil Criminal;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 D'Arsay Archive;S;Event;;Second Edition;Print;3;0
+D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
+D'deridex;B/S;Ship;Romulan;Borderless Promos/Second Edition;Both;3;0
 D'Ghor, Plotting Like a Ferengi;V;Personnel;Klingon;Classification: Civilian;Virtual;3;0
 D'Jamat;V;Personnel;Non-Aligned;All Our Yesterdays;Virtual;3;0
+D'kora Marauder;C;Ship;Ferengi;Strange New Worlds;Print;3;0
 D'Kora Transport;V;Ship;Ferengi;Lineage;Virtual;3;0
 D'Nesh, Manipulative Gift;C;Personnel;Non-Aligned;What You Leave Behind;Print;3;0
 D'Ral, Mutinous Commander;V;Personnel;Romulan;The Undiscovered Country;Virtual;3;0
 D'Tan, Curious Youth;C;Personnel;Romulan;Captain's Log;Print;3;0
 D'Vela;C/VP;Personnel;Starfleet;What You Leave Behind/Virtual Promo;Both;3;0
-D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
-D'deridex;B/S;Ship;Romulan;Borderless Promos/Second Edition;Both;3;0
-D'kora Marauder;C;Ship;Ferengi;Strange New Worlds;Print;3;0
 D-7 Battlecruiser;U;Ship;Klingon;These Are The Voyages/Virtual Promo;Both;3;0
-DNA Analysis;S;Dilemma;;Call to Arms;Print;3;3
-DNA Security Scan;C;Dilemma;;Energize;Print;3;3
 Dabo!;R;Event;;To Boldly Go;Print;3;0
 DaiMon Solok, Cargo Runner;V;Personnel;Ferengi;Extreme Measures;Virtual;3;0
 Dakol, Lecherous Overseer;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
@@ -788,6 +786,8 @@ Diversionary Tactics;V;Interrupt;;Peak Performance;Virtual;3;0
 Divide and Conquer;V;Dilemma;;Lower Decks;Virtual;3;3
 Divisive Patron;V;Dilemma;;All Our Yesterdays;Virtual;3;0
 Divok;C;Personnel;Klingon;Energize;Print;3;2
+DNA Analysis;S;Dilemma;;Call to Arms;Print;3;3
+DNA Security Scan;C;Dilemma;;Energize;Print;3;3
 Doctor Chaotica, Ruler of the Cosmos;V;Personnel;Non-Aligned;Caretaker;Virtual;3;0
 Dohlem;C;Personnel;Bajoran;Second Edition;Print;3;0
 Dokar;C;Personnel;Klingon;Second Edition;Print;3;2
@@ -1019,9 +1019,9 @@ First, Unstable;R;Personnel;Borg;To Boldly Go;Print;3;0
 First-hand Experience;C;Event;;To Boldly Go;Print;3;0
 Fissure Research;S;Mission;;Second Edition;Print;2;0
 Fitting In;P/VP;Interrupt;;Fractured Time/Virtual Promo;Both;3;0
-Five Year Mission;C;Event;;What You Leave Behind;Print;3;0
 Five of Twelve, Axum;V;Personnel;Borg;Unity;Virtual;3;0
 Five of Twelve, Secondary Adjunct of Trimatrix 942;U;Personnel;Borg;Necessary Evil;Print;3;0
+Five Year Mission;C;Event;;What You Leave Behind;Print;3;0
 Flare of Rage;V;Dilemma;;Balance of Terror;Virtual;3;3
 Flashpoint;V;Dilemma;;Zero Hour;Virtual;3;3
 Flaw in the Plan;V;Interrupt;;Extreme Measures;Virtual;3;0
@@ -1196,8 +1196,8 @@ Harana;C;Personnel;Non-Aligned;Energize;Print;3;0
 Harcourt Fenton Mudd, Honest Businessman;V;Personnel;Non-Aligned;Matter of Time;Virtual;3;0
 Harcourt Fenton Mudd, Swindler, Conman, Liar, Rogue;V;Personnel;Non-Aligned;The Menagerie;Virtual;3;0
 Hard Bargain, Totally Legitimate;V;Ship;Non-Aligned;Classification: Civilian;Virtual;3;0
-Hard Time;P/VP;Dilemma;;Reflections 2.0/Virtual Promo;Both;3;0
-Hard of Heart;V;Dilemma;;Hard Time;Virtual;3;0
+Hard of Heart;V;Dilemma;;Hard Time;Virtual;3;3
+Hard Time;P/VP;Dilemma;;Reflections 2.0/Virtual Promo;Both;4;4 // Have both
 Harness Omega Particle;U;Mission;;Call to Arms;Print;2;0
 Harrad-Sar, Slave of the Situation;C;Personnel;Non-Aligned;What You Leave Behind;Print;3;0
 Harried and Harassed;V;Dilemma;;Zero Hour;Virtual;3;3
@@ -1213,7 +1213,7 @@ Hazar;U;Personnel;Bajoran;Second Edition;Print;3;0
 Hazardous Materials;V;Dilemma;;Dead Stop;Virtual;3;0
 He Speaks in Shale;U;Interrupt;;To Boldly Go;Print;3;0
 He Wasn't Nice;V;Dilemma;;Raise the Stakes;Virtual;3;3
-Head to Head;R;Dilemma;;Energize;Print;3;0
+Head to Head;R;Dilemma;;Energize;Print;3;1
 Healing Hand;V;Dilemma;;Peak Performance;Virtual;3;3
 Heart of Glory;C;Event;;Energize;Print;3;2
 Heart to Heart;C;Dilemma;;Strange New Worlds;Print;3;3
@@ -1270,7 +1270,7 @@ Host Metaphasic Shielding Test;S;Mission;;Second Edition;Print;2;0
 Hostile Takeover;V;Dilemma;;Qpid;Virtual;3;0
 Hostilities Unleashed;V;Event;;Zero Hour;Virtual;3;0
 Hot Mess;V;Dilemma;;Shore Leave;Virtual;3;0
-Houdini Mines;C;Dilemma;;Energize;Print;3;0
+Houdini Mines;C;Dilemma;;Energize;Print;3;3
 How Would You Like a Trip to Romulus?;R/VP;Event;;Second Edition/Virtual Promo;Both;3;0
 Hoya;C;Personnel;Federation;Second Edition;Print;3;0
 Hromi Cluster, Amnesty Talks;U;Mission;;Second Edition;Print;2;0
@@ -1279,7 +1279,7 @@ Hugora Nebula, Border Crossing;V/VP;Mission;;A Time to Stand/Virtual Promo;Virtu
 Hull Breach;C;Dilemma;;Captain's Log;Print;3;0
 Humanity's Worst Enemy;V;Event;;A Less Perfect Union;Virtual;3;0
 Hunt Alien;S;Mission;;Call to Arms;Print;2;0
-Hunter Gangs;C;Dilemma;;Second Edition;Print;3;0
+Hunter Gangs;C;Dilemma;;Second Edition;Print;3;3
 Hunters' Training Program;V;Event;;Unity;Virtual;3;0
 Hurried Departure;U;Event;;These Are The Voyages;Print;3;0
 Husnock Ship;V;Ship;Non-Aligned;Favor the Bold;Virtual;3;0
@@ -1296,8 +1296,8 @@ I.K.S. Bortas;P;Ship;Klingon;Tenth Anniversary Collection;Print;3;0
 I.K.S. Cha'Joh, Sisters' Bird-of-Prey;V;Ship;Klingon;Heroes and Demons;Virtual;3;0
 I.K.S. Chontay, On the Hunt;V;Ship;Klingon;Sacrifice of Angels;Virtual;3;0
 I.K.S. Hegh'ta;R;Ship;Klingon;Second Edition;Print;3;1
-I.K.S. K'Vort;U;Ship;Klingon;Second Edition;Print;3;1
 I.K.S. K't'inga;C;Ship;Klingon;Second Edition;Print;3;0
+I.K.S. K'Vort;U;Ship;Klingon;Second Edition;Print;3;1
 I.K.S. Kla'Diyus, Prototype;R;Ship;Klingon;What You Leave Behind;Print;3;0
 I.K.S. Lukara;U;Ship;Klingon;Second Edition;Print;3;1
 I.K.S. Maht-H'a;R;Ship;Klingon;Second Edition;Print;3;1
@@ -1342,12 +1342,12 @@ Impressive Trophies;R;Dilemma;;Second Edition;Print;3;0
 Impromptu Prison;C;Interrupt;;Strange New Worlds;Print;3;0
 Improved Scenery;AP/V;Interrupt;;Virtual Archive Portrait/Raise the Stakes;Virtual;3;0
 Improvised Modifications;C;Event;;What You Leave Behind;Print;3;0
-In Development;V;Dilemma;;Infinite Diversity Remastered/Second Skin;Virtual;3;0
-In Training;R;Dilemma;;Necessary Evil;Print;3;0
-In Your Face;V;Event;;Heroes and Demons;Virtual;3;0
 In a Mirror, Darkly;R/VP;Event;;What You Leave Behind/Virtual Promo;Both;3;0
+In Development;V;Dilemma;;Infinite Diversity Remastered/Second Skin;Virtual;3;0
 In the Pah-wraith's Wake;C;Event;;Strange New Worlds;Print;3;0
 In the Way;C;Dilemma;;Necessary Evil;Print;3;0
+In Training;R;Dilemma;;Necessary Evil;Print;3;1
+In Your Face;V;Event;;Heroes and Demons;Virtual;3;0
 In-Fighting;V;Dilemma;;Favor the Bold;Virtual;3;3
 Inad;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Incorporeal Parasite;V;Dilemma;;Unnatural Selection;Virtual;3;0
@@ -1516,7 +1516,7 @@ Joseph Sisko, Creole Chef;U;Personnel;Federation;Energize;Print;3;0
 Josephs;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Josiah Clarke;V;Personnel;Starfleet;A Time to Stand;Virtual;3;0
 Jouret IV, Assimilate Colony;V;Mission;;The Menagerie;Virtual;2;0
-Journey to the Past;V;Dilemma;;Hard Time;Virtual;3;0
+Journey to the Past;V;Dilemma;;Hard Time;Virtual;3;3
 Jovis, Museum;U;Ship;Non-Aligned;Captain's Log;Print;3;0
 Judith Hume;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
 Juel Ducane, Above Reproach;V;Personnel;Federation;Matter of Time;Virtual;3;0
@@ -1537,12 +1537,12 @@ Justice or Vengeance;S;Dilemma;;Call to Arms;Print;3;3
 Juxtaposition;U;Dilemma;;What You Leave Behind;Print;3;0
 K'Ehleyr, Diplomatic Advisor;U;Personnel;Klingon;Strange New Worlds;Print;3;0
 K'Ehleyr, Uncertain Emissary;V;Personnel;Klingon;Zero Hour;Virtual;3;0
-K'Tal, Senior Council Member;C;Personnel;Klingon;Necessary Evil;Print;3;0
-K'Temoc, Long Slumbering Commander;U;Personnel;Klingon;Captain's Log;Print;3;0
 K'mpec, Klingon Supreme Commander;R;Personnel;Klingon;Energize;Print;3;1
 K'mpec, Protector of the Empire;V;Personnel;Klingon;Raise the Stakes;Virtual;3;0
 K'nera, Klingon Defense Force Commander;S;Personnel;Klingon;Second Edition;Print;3;1
 K'rad;V;Personnel;Klingon;Shattered Mirror;Virtual;3;0
+K'Tal, Senior Council Member;C;Personnel;Klingon;Necessary Evil;Print;3;0
+K'Temoc, Long Slumbering Commander;U;Personnel;Klingon;Captain's Log;Print;3;0
 K'wov;V;Personnel;Non-Aligned;Infinite Diversity Remastered;Virtual;3;0
 Kaas Dromand, Devoted Fanatic;V;Personnel;Bajoran;Matter of Time;Virtual;3;0
 Kadis-kot;V;Dilemma;;Zero Hour;Virtual;3;3
@@ -1677,14 +1677,14 @@ Klingon Disruptor Pistol;U;Equipment;;Second Edition;Print;3;2
 Klingon Law;V;Dilemma;;Favor the Bold;Virtual;3;3
 Klingon Tea Ceremony;V;Event;;Peak Performance;Virtual;3;0
 Klingon-Occupied Outland, Enact Poetic Revenge;V;Mission;;Second Chances;Virtual;2;0
-Know Thy Enemy;V;Dilemma;;Hard Time;Virtual;3;0
+Know Thy Enemy;V;Dilemma;;Hard Time;Virtual;3;3
 Knowledge and Experience;R/VP;Interrupt;;Necessary Evil/Virtual Promo;Both;3;0
 Kobb;C;Personnel;Non-Aligned;Energize;Print;3;0
 Kodos the Executioner, "Anton Karidian";V;Personnel;Federation;Hard Time;Virtual;3;0
 Kohl Settlement, Thaw Hibernating Survivors;V;Mission;;Caretaker;Virtual;2;0
 Kohlar, Pilgrim Commander;V;Personnel;Klingon;Raise the Stakes;Virtual;3;0
 Kol;U;Personnel;Ferengi;Strange New Worlds;Print;3;0
-Kolaran Raiders;S;Dilemma;;Second Edition;Print;3;2
+Kolaran Raiders;S;Dilemma;;Second Edition;Print;3;3
 Kolopak, Bound to Tradition;V;Personnel;Federation;A Time to Stand;Virtual;3;0
 Kolos;C;Personnel;Non-Aligned;Second Edition;Print;3;0
 Koloth, D'akturak;R/V;Personnel;Klingon;Second Edition/Second Skin;Both;3;0
@@ -1778,7 +1778,7 @@ Lemec, Posturing Negotiator;U/VP;Personnel;Cardassian;Second Edition/Virtual Pro
 Lemec, Prefect of Betazed;V;Personnel;Dominion;Apocalypse Rising;Virtual;3;0
 Lenara Kahn, Wormhole Theorist;U;Personnel;Federation;Necessary Evil;Print;3;0
 Lenaris Holem, Bold Veteran;U;Personnel;Bajoran;Strange New Worlds;Print;3;0
-Lending a Hand;V;Dilemma;;This Side of Paradise;Virtual;3;0
+Lending a Hand;V;Dilemma;;This Side of Paradise;Virtual;3;3
 Leodis;V;Personnel;Romulan;All Our Yesterdays;Virtual;3;0
 Leonard H. McCoy, Chief Medical Officer;R;Personnel;Federation;These Are The Voyages;Print;3;0
 Leonard H. McCoy, Experienced Advisor;V;Personnel;Federation;Allegiance;Virtual;3;0
@@ -1899,8 +1899,8 @@ Mareth;C;Personnel;Romulan;Necessary Evil;Print;3;0
 Mariah Henley;V;Personnel;Federation;Caretaker;Virtual;3;0
 Marie Kaplan, Observant Officer;C;Personnel;Federation;Captain's Log;Print;3;0
 Mark Jameson, Senior Mission Specialist;V;Personnel;Federation;Shore Leave;Virtual;3;0
-Mark Piper;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Mark of Gideon;C;Dilemma;;These Are The Voyages;Print;3;0
+Mark Piper;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Markus Forbes, Extraction Specialist;V;Personnel;Starfleet;Unity;Virtual;3;0
 Marla Gilmore, Conflicted Engineer;V;Personnel;Federation;Allegiance;Virtual;3;0
 Marla McGivers, Superior Woman;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
@@ -1980,8 +1980,8 @@ Military Recon Program;V;Event;;Apocalypse Rising;Virtual;3;0
 Militia Patrol;R;Event;;Necessary Evil;Print;3;0
 Mills;C;Personnel;Federation;Second Edition;Print;3;0
 Mine Vendarite;V;Mission;;Extreme Measures;Virtual;2;0
-Miner Disagreement;C;Dilemma;;Call to Arms;Print;3;0
-Miner Revolt;V;Dilemma;;Raise the Stakes/Virtual Promo;Virtual;3;0
+Miner Disagreement;C;Dilemma;;Call to Arms;Print;3;2
+Miner Revolt;V;Dilemma;;Raise the Stakes/Virtual Promo;Virtual;4;4
 Mining Survey;S;Mission;;Second Edition;Print;2;0
 Minos, Negotiate Bargain;AP;Mission;;Timeless;Virtual;2;0
 Minuet, Jazz Lover;C;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
@@ -2024,8 +2024,8 @@ Morad'inar;V;Personnel;Dominion;Apocalypse Rising;Virtual;3;0
 Morak, Pilgrim Cynic;V;Personnel;Klingon;Raise the Stakes;Virtual;3;0
 Moral Choice;C/VP;Dilemma;;What You Leave Behind/Virtual Promo;Both;4;3 // have 3 WYLB
 Mordoc;C;Personnel;Ferengi;Strange New Worlds;Print;3;0
-More Than Meets the Eye;U;Event;;Necessary Evil;Print;3;0
 More of Gravy Than of Grave;V;Dilemma;;Shore Leave;Virtual;3;0
+More Than Meets the Eye;U;Event;;Necessary Evil;Print;3;0
 Morgan Bateson, Confident Commander;V;Personnel;Federation;Peak Performance;Virtual;3;0
 Morik;C;Personnel;Non-Aligned;Necessary Evil;Print;3;0
 Morka, Klingon Intelligence Agent;R;Personnel;Klingon;Second Edition;Print;3;0
@@ -2045,7 +2045,7 @@ Mouthpiece;V;Event;;Matter of Time;Virtual;3;0
 Movar, Political General;S;Personnel;Romulan;Second Edition;Print;3;0
 Mr. Tricorder;P;Dilemma;;Reflections 2.0;Print;3;0
 Mudd's Women;V;Event;;This Side of Paradise;Virtual;3;0
-Mugato;C;Dilemma;;These Are The Voyages;Print;3;0
+Mugato;C;Dilemma;;These Are The Voyages;Print;3;1
 Muk, Unidentified Pirate;V;Personnel;Ferengi;Allegiance;Virtual;3;0
 Mullen;C;Personnel;Romulan;Call to Arms;Print;3;0
 Mullibok, Gnarled and Battered Old Tree;U;Personnel;Bajoran;These Are The Voyages;Print;3;0
@@ -2055,7 +2055,6 @@ Mutinous Guests;V;Dilemma;;Strange Bedfellows;Virtual;3;0
 Mutual Advantage;C;Event;;Necessary Evil;Print;3;0
 My Patience Has Limits;V;Interrupt;;Extreme Measures;Virtual;3;0
 N'Vek, Soldier of the Underground;R;Personnel;Romulan;Second Edition;Print;3;0
-NX-Prototype;V;Ship;Starfleet;Raise the Stakes;Virtual;3;0
 Na'kuhl Prime, Fight for Dominance;V;Mission;;All Our Yesterdays;Virtual;2;0
 Nadia Larkin, Dutiful Soldier;V;Personnel;Federation;Apocalypse Rising;Virtual;3;0
 Nadia Myers;V;Personnel;Starfleet;A Time to Stand;Virtual;3;0
@@ -2105,7 +2104,7 @@ Nerot;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Nesting Symbiote;V;Dilemma;;Second Chances;Virtual;3;0
 Neural Parasites;R;Dilemma;;These Are The Voyages;Print;3;0
 Neural Transceiver;U;Interrupt;;These Are The Voyages;Print;3;0
-Neurogenic Field;U;Dilemma;;What You Leave Behind;Print;3;0
+Neurogenic Field;U;Dilemma;;What You Leave Behind;Print;3;3
 Nevala;C;Personnel;Romulan;What You Leave Behind;Print;3;0
 New Advancements;U;Dilemma;;In a Mirror Darkly;Print;3;0
 New Discovery;U;Event;;Captain's Log;Print;3;0
@@ -2143,7 +2142,7 @@ Nog, Eager Cadet;R;Personnel;Federation;Second Edition;Print;3;0
 Nog, Eager Ensign;V;Personnel;Federation;The Undiscovered Country;Virtual;3;0
 Nog, Little Green Man;U;Personnel;Ferengi;What You Leave Behind;Print;3;0
 Nog, Sharp-Eared Sentinel;V;Personnel;Federation;Apocalypse Rising;Virtual;3;0
-None Shall Pass;C;Dilemma;;Second Edition;Print;3;0
+None Shall Pass;C;Dilemma;;Second Edition;Print;3;3
 Nonlinear Existence;V;Dilemma;;Return to Grace;Virtual;3;0
 Noonien Soong, Often-Wrong;R;Personnel;Non-Aligned;Strange New Worlds;Print;3;0
 Norah Satie, Starfleet Investigator;U;Personnel;Federation;Call to Arms;Print;3;0
@@ -2162,6 +2161,7 @@ Nothing That Happens is Truly Random;U;Event;;Second Edition;Print;3;0
 Nothing to Lose;V;Dilemma;;Qpid;Virtual;3;0
 Nu'Daq, Tenacious Rival;R;Personnel;Klingon;Second Edition;Print;3;0
 Number One, Reputable Officer;V;Personnel;Federation;This Side of Paradise;Virtual;3;0
+NX-Prototype;V;Ship;Starfleet;Raise the Stakes;Virtual;3;0
 Nydrom;C;Personnel;Non-Aligned;Call to Arms;Print;3;0
 Nyria III, Exact Retribution;V;Mission;;Phage;Virtual;2;0
 Nyrian Translocation;V;Event;;Caretaker;Virtual;3;0
@@ -2218,9 +2218,9 @@ One Man Cannot Summon the Future;C;Event;;In a Mirror Darkly;Print;3;0
 One More Brush Fire;V;Dilemma;;Heroes and Demons;Virtual;3;0
 One One, Efficiency Expert;V;Personnel;Non-Aligned;Unnatural Selection;Virtual;3;0
 One Step Ahead;V;Dilemma;;Extreme Measures;Virtual;3;0
+One to One;V;Dilemma;;Favor the Bold;Virtual;3;3
 One With the Borg;U;Event;;Call to Arms;Print;3;0
 One Zero, Efficient;V;Personnel;Non-Aligned;Second Chances;Virtual;3;0
-One to One;V;Dilemma;;Favor the Bold;Virtual;3;3
 One, Peerless;V;Personnel;Borg;The Nth Degree;Virtual;3;0
 One-Upsmanship;U;Interrupt;;Necessary Evil;Print;3;0
 Oneamisu Sector, Military Exercises;U;Mission;;Second Edition;Print;2;0
@@ -2231,18 +2231,18 @@ Opaka, Healer;V/VP;Personnel;Bajoran;Return to Grace/Virtual Promo;Virtual;3;0
 Opaka, Kai of Bajor;R;Personnel;Bajoran;Second Edition;Print;3;0
 Operation Retrieve;V;Event;;The Undiscovered Country;Virtual;3;0
 Operational Necessity;U;Interrupt;;Necessary Evil;Print;3;0
-Opportunity Seized;V;Interrupt;;Peak Performance;Virtual;3;0
 Opportunity for Profit;U;Dilemma;;To Boldly Go;Print;3;2
+Opportunity Seized;V;Interrupt;;Peak Performance;Virtual;3;0
 Opposition Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Optical Delusion;V;Dilemma;;Unity;Virtual;3;0
 Optimism;U;Event;;These Are The Voyages;Print;3;0
 Oq'nab, Academy Commandant;V;Personnel;Federation;Balance of Terror;Virtual;3;0
 Oran, Irritable Gul;U;Personnel;Cardassian;These Are The Voyages;Print;3;0
-Orb Transport Vessel;V;Ship;Bajoran;Return to Grace;Virtual;3;0
 Orb of Contemplation;V;Equipment;;Return to Grace;Virtual;3;0
 Orb of Prophecy and Change;V/VP;Equipment;;Return to Grace/Virtual Promo;Virtual;3;0
-Orb of Time;V;Equipment;;Return to Grace;Virtual;3;0
 Orb of the Emissary;V;Equipment;;Second Skin/The Menagerie;Virtual;3;0
+Orb of Time;V;Equipment;;Return to Grace;Virtual;3;0
+Orb Transport Vessel;V;Ship;Bajoran;Return to Grace;Virtual;3;0
 Orbital Weapon Platform;V;Event;;Sacrifice of Angels;Virtual;3;0
 Orchestrated Attack;V;Event;;Zero Hour;Virtual;3;0
 Order of the Bat'leth;U;Event;;Second Edition;Print;3;0
@@ -2298,7 +2298,7 @@ Party Atmosphere;C;Event;;Necessary Evil;Print;3;0
 Parvenium System, Investigate Alien Probe;U;Mission;;Second Edition;Print;2;0 // Have 1 needing errata
 Patrick West, Co-Conspirator;V;Personnel;Federation;Continuing Mission;Virtual;3;0
 Patrick, Idiot Savant;U;Personnel;Federation;Call to Arms;Print;3;0
-Patriotic Spirit;V;Dilemma;;Favor the Bold;Virtual;3;0
+Patriotic Spirit;V;Dilemma;;Favor the Bold;Virtual;3;3
 Patrol Neutral Zone;U;Mission;;What You Leave Behind;Print;2;0
 Pattern Loss;V;Dilemma;;Hard Time;Virtual;3;0
 Paul Mayweather, Burdened with Command;V;Personnel;Starfleet;A Less Perfect Union;Virtual;3;0
@@ -2335,7 +2335,7 @@ Photonic Turncoat;V;Dilemma;;Caretaker;Virtual;3;0
 Photons Be Free;V;Event;;Unity;Virtual;3;0
 Pi, Off Course;VP;Ship;Romulan;Inheritance;Virtual;3;0
 Picking Up the Basics;U;Event;;Energize;Print;3;0
-Picking Up the Pieces;U/VP;Dilemma;;Energize/Virtual Promo;Both;3;0
+Picking Up the Pieces;U/VP;Dilemma;;Energize/Virtual Promo;Both;4;3 // have 3 ENE
 Pickpocket;C;Event;;Energize;Print;3;0
 Pierce Their Defenses;U;Event;;Second Edition;Print;3;0
 Pillage and Plunder;V;Dilemma;;Infinite Diversity Remastered;Virtual;3;0
@@ -2348,7 +2348,7 @@ Pitching In;V/VP;Dilemma;;Peak Performance/Virtual Promo;Virtual;4;3 // Have 3 P
 Pivotal Destiny;V;Dilemma;;Matter of Time;Virtual;3;0
 Plague Planet;U;Mission;;Second Edition;Print;2;0
 Planet 1865-Alpha, Preserve Individuality;V;Mission;;A Time to Stand;Virtual;2;0
-Planetary Survey;C;Dilemma;;Second Edition;Print;3;0
+Planetary Survey;C;Dilemma;;Second Edition;Print;3;3
 Planned Provocation;V;Event;;Return to Grace;Virtual;3;0
 Plans Within Plans;V;Dilemma;;Caretaker;Virtual;3;0
 Plasma Energy Weapon;U;Event;;These Are The Voyages;Print;3;0
@@ -2669,8 +2669,8 @@ Russell Toddman, Security Conscious;V;Personnel;Federation;Return to Grace;Virtu
 Ruthless Efficiency;V;Event;;Sacrifice of Angels;Virtual;3;0
 Ruwon, Hindering Analyst;V;Personnel;Romulan;Peak Performance;Virtual;3;0
 Ruwon, Intelligence Analyst;R;Personnel;Romulan;Call to Arms;Print;3;0
-S'Salk, Gorn Captain;R;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 S'rrel;V/VP;Personnel;Federation;Zero Hour/Virtual Promo;Virtual;3;0
+S'Salk, Gorn Captain;R;Personnel;Non-Aligned;These Are The Voyages;Print;3;0
 Saavik, Protégée;P;Personnel;Federation;Genesis;Print;3;0
 Sabotage Program;U;Event;;Call to Arms;Print;3;0
 Sabotaged Reactor;C;Dilemma;;Captain's Log;Print;3;0
@@ -3010,7 +3010,6 @@ T'Pol, Subcommander;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
 T'Rul, Curt Subcommander;U;Personnel;Romulan;Energize;Print;3;0
 T'Rul, Guarded Attaché;V;Personnel;Romulan;Strange Bedfellows;Virtual;3;0
 T'vis;C;Personnel;Klingon;Second Edition;Print;3;0
-TR-116 Rifle;V;Equipment;;The Nth Degree;Virtual;3;0
 Taar, Bristling DaiMon;R;Personnel;Ferengi;Strange New Worlds;Print;3;0
 Tabor, Apoplectic Bajoran;V;Personnel;Bajoran;Favor the Bold;Virtual;3;0
 Tacking Into the Wind;V/VP;Event;;Unity/Virtual Promo;Virtual;3;0
@@ -3044,8 +3043,8 @@ Tamarith, Reformist;U;Personnel;Romulan;Necessary Evil;Print;3;0
 Tampering With Time;P;Event;;Fractured Time;Print;3;0
 Tapestry;R;Event;;Second Edition;Print;3;0
 Tarakis, Repair Memorial;V;Mission;;Lower Decks;Virtual;2;0
-Target Practice;C;Event;;To Boldly Go;Print;3;0
 Target of Opportunity;V;Interrupt;;Lower Decks;Virtual;3;0
+Target Practice;C;Event;;To Boldly Go;Print;3;0
 Target the Main Generator;V;Event;;Sacrifice of Angels;Virtual;3;0
 Targeted for Assimilation;U;Event;;Necessary Evil;Print;3;0
 Targeting the Nacelles;U;Interrupt;;Captain's Log;Print;3;0
@@ -3266,6 +3265,7 @@ Tosk, Noble Prey;V;Personnel;Dominion;Sacrifice of Angels;Virtual;3;0
 Tosk, The Hunted;R;Personnel;Non-Aligned;Second Edition;Print;3;0
 Tox Uthat;R;Equipment;;These Are The Voyages;Print;3;0
 Tozara'Kesh;C;Personnel;Dominion;Call to Arms;Print;3;0
+TR-116 Rifle;V;Equipment;;The Nth Degree;Virtual;3;0
 Trabe Grenade;C;Dilemma;;Second Edition;Print;3;0
 Track Survivors;V;Mission;;This Side of Paradise;Virtual;2;0
 Trager, Patrol Ship;R;Ship;Cardassian;Captain's Log;Print;3;0
@@ -3430,7 +3430,6 @@ Uri'lash, Silent Servant;V;Personnel;Ferengi;Raise the Stakes;Virtual;3;0
 V'Ger;V;Dilemma;;Star Trek 50;Virtual;3;0
 V'Las, Treacherous Administrator;V;Personnel;Non-Aligned;A Less Perfect Union;Virtual;3;0
 V'mor;V;Personnel;Bajoran;Sacrifice of Angels;Virtual;3;0
-VIP Welcome;C;Event;;Necessary Evil;Print;3;0
 Vaatrik Pallra, Seductive Manipulator;V;Personnel;Bajoran;The Undiscovered Country;Virtual;3;0
 Vacation from the Continuum;U;Event;;What You Leave Behind;Print;3;0
 Vacuum-Desiccated Remains;V;Event;;Balance of Terror;Virtual;3;0
@@ -3486,6 +3485,7 @@ Vilmor II, Hunt for DNA Program;U;Mission;;Second Edition;Print;2;0
 Vina, Orion Slave Girl;P;Personnel;Non-Aligned;Reflections 2.0;Print;3;0
 Vindictive Reprise;V;Event;;Phage;Virtual;3;0
 Vintaak System, Seize Tactical Advantage;V;Mission;;The Omega Directive;Virtual;2;0
+VIP Welcome;C;Event;;Necessary Evil;Print;3;0
 Virak'kara;V;Personnel;Dominion;Strange Bedfellows;Virtual;3;0
 Virtual Reality Headset;V;Equipment;;Allegiance;Virtual;3;0
 Vision of Violence;C;Interrupt;;Energize;Print;3;0
@@ -3509,8 +3509,8 @@ Wakasa, Tribal Councilor;V;Personnel;Federation;Unity;Virtual;3;0
 Waken Superior Sleeper;V;Event;;Unnatural Selection;Virtual;3;0
 Walk the Line;C;Event;;What You Leave Behind;Print;3;0
 War Games;V;Dilemma;;Unnatural Selection;Virtual;3;0
-War Without End;V;Event;;Face of the Enemy;Virtual;3;0
 War of Attrition;V;Event;;Balance of Terror;Virtual;3;0
+War Without End;V;Event;;Face of the Enemy;Virtual;3;0
 Wariness;V;Event;;Raise the Stakes;Virtual;3;0
 Warm Welcome;V;Dilemma;;This Side of Paradise;Virtual;3;3
 Warp Bubble Mishap;C;Dilemma;;To Boldly Go;Print;3;0

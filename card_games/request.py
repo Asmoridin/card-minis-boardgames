@@ -25,7 +25,7 @@ def make_call(number):
         return 0
     return 1
 
-for x in range(39411, 900000):
+for x in range(39456, 900000):
     time.sleep(1)
     RESULT = make_call(x)
     if RESULT == -1:
