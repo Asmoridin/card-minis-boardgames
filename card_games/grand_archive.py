@@ -10,11 +10,11 @@ import sys
 GAME_NAME = "Grand Archive TCG"
 
 valid_subtypes = ['Ally', 'Action', 'Champion', 'Regalia Weapon', 'Regalia Item', 'Attack',
-    'Domain', 'Item', 'Regalia Ally', 'Phantasia', 'Weapon', ]
+    'Domain', 'Item', 'Regalia Ally', 'Phantasia', 'Weapon', 'Mastery']
 valid_classes = ['Cleric', 'Warrior', 'Ranger', 'Mage', 'Assassin', 'Guardian', 'Tamer',
     'Warrior', 'Spirit', ]
 valid_elements = ['Norm', 'Fire', 'Water', 'Wind', 'Luxem', 'Arcane', 'Tera', 'Umbra',
-    'Neos', 'Astra', 'Crux', ]
+    'Neos', 'Astra', 'Crux', 'Exia',]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/GrandArchiveData.txt', 'r', encoding="UTF-8")

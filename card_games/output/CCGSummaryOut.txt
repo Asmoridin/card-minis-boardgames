@@ -1,9 +1,9 @@
-Totaling 15 games, owning 11036 out of 68340 cards/dice (16.15 percent)
-Lowest game is Magic: The Gathering at 3.22 percent (887 / 27518)
+Totaling 15 games, owning 11111 out of 69140 cards/dice (16.07 percent)
+Lowest game is Magic: The Gathering at 3.18 percent (887 / 27918)
 
 Five Lowest Games (by percentage):
-- Magic: The Gathering: 3.22 (887/27518)
-- Star Trek: First Edition: 4.15 (49/1180)
-- New Game: 4.25 (17/400)
-- Legend of the Five Rings: 4.42 (89/2013)
-- Star Trek: Second Edition: 6.64 (704/10602)
+- Magic: The Gathering: 3.18 (887/27918)
+- Star Trek: First Edition: 4.22 (54/1280)
+- New Game: 4.24 (17/401)
+- Legend of the Five Rings: 4.50 (95/2113)
+- Star Trek: Second Edition: 7.24 (768/10603)

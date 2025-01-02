@@ -29,7 +29,7 @@ VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', '
     'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos',]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
-    'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact']
+    'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event']
 VALID_AFFILIATIONS = ['Federation', 'Klingon', 'Bajoran', 'Borg', 'Romulan', 'Dominion', 'Ferengi',
     'Kazon', 'Cardassian', 'Non-Aligned', 'Hirogen', 'Vidiian',]
 
