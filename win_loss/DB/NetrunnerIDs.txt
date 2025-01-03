@@ -68,7 +68,7 @@ MirrorMorph: Endless Iteration;HB;Standard
 Mti Mwekundu: Life Improved;Jinteki;Extended
 NBN: Controlling the Message;NBN;Extended
 NBN: Making News;NBN;Extended
-NBN: Reality Plus;NBN;Startup
+NBN: Reality Plus;NBN;Extended
 NBN: The World is Yours*;NBN;Extended
 NEXT Design: Guarding the Net;HB;Extended
 Nasir Meidan: Cyber Explorer;Shaper;Extended

@@ -364,7 +364,7 @@ New Planet Tuffle;Machine Mutant;Extra;Black;1;FB04-126;[FB04] Booster Pack - Ul
 Nezi;Machine Mutant;Battle;Black;1;FB04-115;[FB04] Booster Pack - Ultra Limit;4
 North Kai;Kai/King Kai's Planet;Battle;Green;3;FB03-057;[FB03] Booster Pack - Raging Roar;2
 Now You See The Power of Ginyu Force!;Ginyu Force/Frieza's Army;Extra;Yellow;1;FB01-138;[FB01] Booster Pack - Awakened Pulse;4
-Obuni;Universe 10/Tournament of Power;Battle;Red;3;FB04-003;[FB04] Booster Pack - Ultra Limit;3
+Obuni;Universe 10/Tournament of Power;Battle;Red;3;FB04-003;[FB04] Booster Pack - Ultra Limit;4
 Old Kai;Supreme Kai;Battle;Blue;7;FB02-063;[FB02] Booster Pack - Blazing Aura;2
 Orange Star High School;Earthling/Satan City;Extra;Blue;1;FB03-050;[FB03] Booster Pack - Raging Roar;1
 Overwhelming Confidence;Saiyan/Earthling;Extra;Blue;5;FB04-047;[FB04] Booster Pack - Ultra Limit;2
@@ -428,7 +428,7 @@ Senzu Bean;Korin Tower;Extra;Green;2;FB02-103;[FB02] Booster Pack - Blazing Aura
 Shamoian;Alien;Battle;Green;1;FS03-03;[FS03] Starter Deck - Broly;4
 Shantza;Universe 4/Tournament of Power;Battle;Red;2;FB04-005;[FB04] Booster Pack - Ultra Limit;2
 Sharpner;Earthling/Satan City;Battle;Blue;1;FB03-033;[FB03] Booster Pack - Raging Roar;1
-Shin (Mini) : DA;Supreme Kai;Battle;Red;1;FB04-008;[FB04] Booster Pack - Ultra Limit;1
+Shin (Mini) : DA;Supreme Kai;Battle;Red;1;FB04-008;[FB04] Booster Pack - Ultra Limit;2
 Shin (Mini);Supreme Kai;Battle;Red;4;FS06-03;[FS06] Starter Deck - Son Goku (Mini);4
 Shin;Supreme Kai/Universe 7;Battle;Red;1;FB04-007;[FB04] Booster Pack - Ultra Limit;1
 Shin;Supreme Kai/Universe 7;Battle;Red;3;FB01-012;[FB01] Booster Pack - Awakened Pulse;2
@@ -436,7 +436,7 @@ Shin;Supreme Kai/Universe 7;Battle;Red;7;FS01-05;[FS01] Starter Deck - Son Goku;
 Shin;Supreme Kai;Battle;Blue;1;FB02-047;[FB02] Booster Pack - Blazing Aura;3
 Shin;Supreme Kai;Battle;Blue;1;FB04-034;[FB04] Booster Pack - Ultra Limit;4
 Shin;Supreme Kai;Battle;Blue;2;FB03-034;[FB03] Booster Pack - Raging Roar;3
-Shin;Supreme Kai;Battle;Green;3;FB04-079;[FB04] Booster Pack - Ultra Limit;1
+Shin;Supreme Kai;Battle;Green;3;FB04-079;[FB04] Booster Pack - Ultra Limit;2
 Shisami;Frieza's Army;Battle;Yellow;4;FS04-06;[FS04] Starter Deck - Frieza;4
 Shu;Earthling;Battle;Blue;1;FB01-045;[FB01] Booster Pack - Awakened Pulse;1
 Shugesh;Saiyan/Bardock's Crew;Battle;Black;2;FS05-12;[FS05] Starter Deck - Bardock;4
@@ -577,7 +577,7 @@ Trunks : Future;Saiyan/Earthling;Battle;Green;4;FB02-092;[FB02] Booster Pack - B
 Trunks : Future;Saiyan/Earthling;Leader;Blue;;FB01-036;[FB01] Booster Pack - Awakened Pulse;1
 Trunks : GT;Saiyan/Earthling/Brainwashed;Battle;Black;2;FB04-113;[FB04] Booster Pack - Ultra Limit;3
 Trunks : GT;Saiyan/Earthling;Battle;Black;2;FB03-118;[FB03] Booster Pack - Raging Roar;2
-Trunks : GT;Saiyan/Earthling;Battle;Black;2;FB04-114;[FB04] Booster Pack - Ultra Limit;2
+Trunks : GT;Saiyan/Earthling;Battle;Black;2;FB04-114;[FB04] Booster Pack - Ultra Limit;3
 Trunks : GT;Saiyan/Earthling;Battle;Black;2;FP-020;Promo;0
 Trunks : GT;Saiyan/Earthling;Battle;Black;3;FB03-119;[FB03] Booster Pack - Raging Roar;1
 Trunks : Youth;Saiyan/Earthling;Battle;Blue;1;FS02-08;[FS02] Starter Deck - Vegeta;4
@@ -599,7 +599,7 @@ Vegeta (Mini) : DA;Saiyan;Leader;Blue;;FS07-01;[FS07] Starter Deck - Vegeta (Min
 Vegeta : Childhood BR;Saiyan;Battle;Black;1;FB03-130;[FB03] Booster Pack - Raging Roar;3
 Vegeta : DA;Saiyan;Battle;Blue;5;FS07-07;[FS07] Starter Deck - Vegeta (Mini);4
 Vegeta : GT;Saiyan;Battle;Black;3;FB03-129;[FB03] Booster Pack - Raging Roar;3
-Vegeta : GT;Saiyan;Battle;Black;7;FB04-120;[FB04] Booster Pack - Ultra Limit;2
+Vegeta : GT;Saiyan;Battle;Black;7;FB04-120;[FB04] Booster Pack - Ultra Limit;3
 Vegeta : Youth;Saiyan;Battle;Black;2;FS05-14;[FS05] Starter Deck - Bardock;4
 Vegeta's Battle Armor;Saiyan/Item;Extra;Blue;1;FS07-11;[FS07] Starter Deck - Vegeta (Mini);4
 Vegeta;Saiyan/Another World;Battle;Blue;2;FB04-044;[FB04] Booster Pack - Ultra Limit;1
