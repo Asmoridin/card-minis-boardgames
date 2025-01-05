@@ -258,6 +258,21 @@ Agasha Tamori;Personality;Dragon;Imperial Edition (Common)/Emerald Edition (Comm
 Agasha Tamori;Personality;Dragon;Pearl Edition (Common);Hidden Emperor (Jade);3;0
 Agasha Tomioko;Personality;Phoenix;Wrath of the Emperor (Common);Rain of Blood (Diamond);3;0
 Agasha Tunnels;Region;;Time of the Void (Common);Clan Wars (Imperial);3;0
+Agasha Ueda;Personality;Phoenix;Celestial Edition (Common)/Celestial Edition 15th Anniversary (Common);Destroyer War (Celestial);3;0
+Agasha Yubisaki;Personality;Phoenix;The Fall of Otosan Uchi (Uncommon);Four Winds (Gold);3;0
+Agasha Yubisaki;Personality;Phoenix;The Fall of Otosan Uchi (Uncommon);Rain of Blood (Diamond);3;0
+Agasha Yuhiko;Personality;Phoenix;The Imperial Gift 3 (Fixed);Destroyer War (Celestial);3;0
+Agasha's Illusion;Spell;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);3;0
+Agasha's Mirror;Item;;Scorpion Clan Coup 3 (Common);Clan Wars (Imperial);3;0
+Ageless Shrine;Holding;;Forgotten Legacy (Fixed);Age of Conquest (Emperor);3;0
+Ageless Shrine;Holding;;Forgotten Legacy (Fixed);Destroyer War (Celestial);3;0
+Agetoki no Shiryo;Ancestor;Lion;Dark Allies (Rare);Four Winds (Gold);1;0
+Aggressive Landing;Strategy;;Celestial Edition (Common);Destroyer War (Celestial);3;0
+Aggressive Landing;Strategy;;The Heaven's Will (Common);Race for the Throne (Samurai);3;0
+Aid of the Fortunes;Strategy;;The Fall of Otosan Uchi (Uncommon);Four Winds (Gold);3;0
+Aid of the Fortunes;Strategy;;The Fall of Otosan Uchi (Uncommon);Rain of Blood (Diamond);3;0
+Aid of the Grand Master;Strategy;;Dark Allies (Uncommon);Four Winds (Gold);3;0
+Aid of the Grand Master;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);Onyx Edition;1;0
 Akifumi Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
@@ -297,10 +312,10 @@ Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
 Ashigaru Fort;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Ashigaru Fort;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
-Ashigaru Fort;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
-Ashigaru Fort;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Ashigaru Fort;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Ashigaru Fort;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Ashigaru Fort;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Ashigaru Fort;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Ashura;Personality;Unaligned;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Four Winds (Gold);3;0
 Ashura;Personality;Unaligned;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;1
 Ashura;Personality;Unaligned;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
@@ -854,7 +869,7 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #160
+# Done through card #170
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 # Finished Page 1 Onyx Edition
