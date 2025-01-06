@@ -38,7 +38,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     'The Imperial Gift 2', "Empire at War", "A Matter of Honor", "Honor and Treachery",
     "Embers of War", "Words and Deeds", "The Blackest Storm", "Hidden Forest War",
     "The Heaven's Will", "Path of the Destroyer", "Onyx Edition", "Promotional-Emperor",
-    "Celestial Edition 15th Anniversary", "The New Order", "The Coming Storm",
+    "Celestial Edition 15th Anniversary", "The New Order", "The Coming Storm", "Seeds of Decay",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',

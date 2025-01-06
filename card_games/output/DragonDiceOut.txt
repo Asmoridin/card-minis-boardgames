@@ -1,7 +1,7 @@
 Dragon Dice Inventory Tracker Tool
 
-Have 299 out of 2503 - 11.95 percent
-Buy a Unit from Scalders - perhaps a Dragonne Tender
+Have 307 out of 2503 - 12.27 percent
+Buy a Unit from Swamp Stalkers - perhaps a Bog Adept
 
 Points for each army:
 - Dracolem: 8
@@ -10,3 +10,4 @@ Points for each army:
 - Frostwings: 101
 - Swamp Stalkers: 4
 - Treefolk: 72
+- Undead: 15
