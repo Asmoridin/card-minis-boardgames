@@ -1,20 +1,24 @@
 Legend of the Five Rings CCG Inventory Tracker Tool
 
-I own 131 out of 2481 total cards - 5.28 percent
+There are 478 distinct cards in the game.
+I own 152 out of 2714 total cards - 5.60 percent
 
 Suggested purchase is a Crab Personality from The Blackest Storm: Hida Tsurasho (own 0 out of 3)
 
 Current inventory percentage by format:
-Rain of Blood (Diamond): 51.27 (121/236)
-A Brother's Destiny (Twenty Festivals): 1.72 (10/581)
-Modern: 1.68 (5/297)
-Shattered Empire: 0.00 (0/65)
-A Brother's Destiny (Ivory Edition): 0.00 (0/71)
-Age of Conquest (Emperor): 0.00 (0/90)
-Race for the Throne (Samurai): 0.00 (0/106)
-Clan Wars (Imperial): 0.00 (0/117)
-Hidden Emperor (Jade): 0.00 (0/123)
-Age of Enlightenment (Lotus): 0.00 (0/141)
-Destroyer War (Celestial): 0.00 (0/148)
-Four Winds (Gold): 0.00 (0/194)
-Onyx Edition: 0.00 (0/609)
+Rain of Blood (Diamond): 50.97 (131/257)
+BigDeck: 11.09 (53/478)
+Clan Wars (Imperial): 7.28 (11/151)
+A Brother's Destiny (Twenty Festivals): 1.67 (10/599)
+Modern: 1.61 (5/311)
+20F Extended: 1.49 (10/670)
+Ivory Extended: 1.49 (10/673)
+Shattered Empire: 0.00 (0/90)
+A Brother's Destiny (Ivory Edition): 0.00 (0/92)
+Age of Conquest (Emperor): 0.00 (0/96)
+Race for the Throne (Samurai): 0.00 (0/115)
+Hidden Emperor (Jade): 0.00 (0/151)
+Age of Enlightenment (Lotus): 0.00 (0/153)
+Destroyer War (Celestial): 0.00 (0/158)
+Four Winds (Gold): 0.00 (0/218)
+Onyx Edition: 0.00 (0/634)

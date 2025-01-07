@@ -4,11 +4,11 @@
 Inventory tracker and purchase selector for the Legend of the Five Rings CCG
 """
 
-GAME_NAME = "Legend of the Five Rings"
-
 import os
 import re
 import sys
+
+GAME_NAME = "Legend of the Five Rings"
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/L5RData.txt', 'r', encoding="UTF-8")
@@ -21,12 +21,12 @@ else:
     from utils.output_utils import double_print
     from utils.sort_and_filter import sort_and_filter
 
-DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality']
+DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
 FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor']
 PREGAME_TYPES = ['Stronghold', 'Sensei', 'Wind']
 
 VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion', 'Crab', 'Crane', 'Dragon', 'Mantis',
-    'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', ]
+    'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', 'Brotherhood of Shinsei',]
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -39,6 +39,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "Embers of War", "Words and Deeds", "The Blackest Storm", "Hidden Forest War",
     "The Heaven's Will", "Path of the Destroyer", "Onyx Edition", "Promotional-Emperor",
     "Celestial Edition 15th Anniversary", "The New Order", "The Coming Storm", "Seeds of Decay",
+    "A Line in the Sand", "Gates of Chaos",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -53,13 +54,13 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     "Broken Blades", "Hidden Emperor 1", "Storms Over Matsu Palace", "Scorpion Clan Coup 2",
     "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain", 'Hidden Emperor 3',
     "Dawn of the Empire", "Reign of Blood", "Enemy of My Enemy", "Drums of War", "Code of Bushido",
-    "Web of Lies", "Wrath of the Emperor",
+    "Web of Lies", "Wrath of the Emperor", "Hidden Emperor 2",
 ]
-VALID_FORMATS = ['Race for the Throne (Samurai)', 'Age of Enlightenment (Lotus)',
-    'Hidden Emperor (Jade)', 'Destroyer War (Celestial)', 'Four Winds (Gold)', 'Modern',
-    "A Brother's Destiny (Twenty Festivals)", "A Brother's Destiny (Ivory Edition)",
-    'Age of Conquest (Emperor)', 'Clan Wars (Imperial)', 'Rain of Blood (Diamond)',
-    'Onyx Edition', 'Shattered Empire',]
+VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (Gold)',
+    'Rain of Blood (Diamond)', 'Age of Enlightenment (Lotus)', 'Race for the Throne (Samurai)',
+    'Destroyer War (Celestial)', 'Age of Conquest (Emperor)',
+    "A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)",
+    'Onyx Edition', 'Shattered Empire', 'Modern', 'BigDeck', 'Ivory Extended', '20F Extended']
 
 def parse_sets(this_card_name, set_string):
     """
@@ -93,7 +94,9 @@ in_lines = [line.strip() for line in in_lines]
 TOTAL_MAX = 0
 TOTAL_OWN = 0
 card_lines = []
+card_names = set()
 modern_cards = {} # A dictionary of names -> card lines for Modern legal cards
+bigdeck_cards = {} # A dictionary of names -> card lines for Big Deck cards
 format_map = {} # For a format summary at the end, given that this is our first criteria
 for set_format in VALID_FORMATS:
     format_map[set_format] = [0, 0]
@@ -125,6 +128,7 @@ for line in in_lines:
     if card_format not in VALID_FORMATS:
         print(f"Invalid format: {card_format}")
         continue
+    card_names.add(card_name)
     card_max = int(card_max)
     card_own = int(card_own)
     format_map[card_format][0] += card_own
@@ -141,6 +145,13 @@ for line in in_lines:
             modern_cards[card_name][7] = min(modern_cards[card_name][8], \
                 modern_cards[card_name][7] + card_own)
 
+    if card_name not in bigdeck_cards:
+        bigdeck_cards[card_name] = [[card_name, card_type, CARD_DECK, card_clan, card_sets, \
+            card_rarities, card_format, card_own, card_max]]
+    else:
+        bigdeck_cards[card_name].append([card_name, card_type, CARD_DECK, card_clan, card_sets,
+            card_rarities, card_format, card_own, card_max])
+
     card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_rarities, \
         card_format, card_own, card_max])
 
@@ -148,6 +159,75 @@ for _, card_item in modern_cards.items():
     card_lines.append(card_item)
     format_map['Modern'][0] += card_item[7]
     format_map['Modern'][1] += card_item[8]
+
+# Get things set up for Big Deck
+for card_name, card_printings in bigdeck_cards.items():
+    most_recent_card = card_printings[0]
+    for card_printing in card_printings:
+        if VALID_FORMATS.index(card_printing[6]) > VALID_FORMATS.index(most_recent_card[6]):
+            most_recent_card = card_printing
+    most_recent_card[6] = 'Big Deck'
+    most_recent_card[7] = min(1, most_recent_card[7])
+    most_recent_card[8] = 1
+    card_lines.append(most_recent_card)
+    format_map['BigDeck'][0] += most_recent_card[7]
+    format_map['BigDeck'][1] += most_recent_card[8]
+
+# Get cards into position to check for Extended arcs
+ivory_extended_cards = {}
+twenty_f_extended_cards = {}
+for card in card_lines:
+    if card[6] in ["A Brother's Destiny (Ivory Edition)", "A Brother's Destiny (Twenty Festivals)"]:
+        if card[0] not in ivory_extended_cards:
+            ivory_extended_cards[card[0]] = []
+        if card[0] not in twenty_f_extended_cards:
+            twenty_f_extended_cards[card[0]] = []
+        ivory_extended_cards[card[0]].append(card)
+        twenty_f_extended_cards[card[0]].append(card)
+    if card[6] == "Age of Conquest (Emperor)":
+        if card[0] not in ivory_extended_cards:
+            ivory_extended_cards[card[0]] = []
+        ivory_extended_cards[card[0]].append(card)
+    if card[6] == "Onyx Edition":
+        if card[0] not in twenty_f_extended_cards:
+            twenty_f_extended_cards[card[0]] = []
+        twenty_f_extended_cards[card[0]].append(card)
+
+# Get things set up for Ivory Extended (Emperor, Ivory, 20F)
+for card_name, card_printings in ivory_extended_cards.items():
+    if len(card_printings) == 1:
+        this_printing = card_printings[0]
+        this_printing[6] = 'Ivory Extended'
+        card_lines.append(this_printing)
+        format_map['Ivory Extended'][0] += this_printing[7]
+        format_map['Ivory Extended'][1] += this_printing[8]
+    else:
+        this_printing = card_printings[0]
+        for card_printing in card_printings:
+            if VALID_FORMATS.index(card_printing[6]) > VALID_FORMATS.index(this_printing[6]):
+                this_printing = card_printing
+        this_printing[6] = 'Ivory Extended'
+        card_lines.append(this_printing)
+        format_map['Ivory Extended'][0] += this_printing[7]
+        format_map['Ivory Extended'][1] += this_printing[8]
+
+# Get things set up for 20F Extended (Ivory, 20F, Onyx)
+for card_name, card_printings in twenty_f_extended_cards.items():
+    if len(card_printings) == 1:
+        this_printing = card_printings[0]
+        this_printing[6] = '20F Extended'
+        card_lines.append(this_printing)
+        format_map['20F Extended'][0] += this_printing[7]
+        format_map['20F Extended'][1] += this_printing[8]
+    else:
+        this_printing = card_printings[0]
+        for card_printing in card_printings:
+            if VALID_FORMATS.index(card_printing[6]) > VALID_FORMATS.index(this_printing[6]):
+                this_printing = card_printing
+        this_printing[6] = '20F Extended'
+        card_lines.append(this_printing)
+        format_map['20F Extended'][0] += this_printing[7]
+        format_map['20F Extended'][1] += this_printing[8]
 
 format_choice, filtered_list = sort_and_filter(card_lines, 6)
 deck_choice, filtered_list = sort_and_filter(filtered_list, 2)
@@ -166,6 +246,7 @@ if __name__=="__main__":
         out_file_h = open("output/L5ROut.txt", 'w', encoding="UTF-8")
 
     double_print("Legend of the Five Rings CCG Inventory Tracker Tool\n", out_file_h)
+    double_print(f"There are {len(card_names)} distinct cards in the game.", out_file_h)
     double_print(f"I own {TOTAL_OWN} out of {TOTAL_MAX} total cards - " + \
         f"{100 * TOTAL_OWN/TOTAL_MAX:.2f} percent\n", out_file_h)
 

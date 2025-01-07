@@ -277,10 +277,17 @@ Aiki Tactics;Strategy;;Hidden Emperor 1 (Rare);Hidden Emperor (Jade);3;0
 Aikido Demonstration;Strategy;;Test of Enlightenment (Fixed);Age of Enlightenment (Lotus);3;0
 Aikune's Wrath;Strategy;;An Oni's Fury (Rare);Four Winds (Gold);3;0
 Air Dragon • Experienced 2;Personality;Unaligned;Path of Hope (Rare);Age of Enlightenment (Lotus);1;0
+Air Dragon • Experienced;Personality;Unaligned;Soul of the Empire (Rare);Hidden Emperor (Jade);1;0
+Air Dragon's Guidance;Celestial;;The Plague War (Rare);Destroyer War (Celestial);1;0
 Air Dragon;Personality;Unaligned;Diamond Edition (Rare);Rain of Blood (Diamond);1;0
 Air Dragon;Personality;Unaligned;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
 Air Dragon;Personality;Unaligned;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Hidden Emperor (Jade);1;0 # Legal due to tournament-clause about Exp personalities
 Air Dragon;Personality;Unaligned;Lotus Edition (Rare);Age of Enlightenment (Lotus);1;0
+Aka Mizu-umi;Region;;The Dark Journey Home (Uncommon);Hidden Emperor (Jade);3;0
+Aka-Name;Personality;Unaligned;Khan's Defiance (Common);Age of Enlightenment (Lotus);3;0
+Aka-Name;Personality;Unaligned;Khan's Defiance (Common);Race for the Throne (Samurai);3;0
+Akaru no Oni;Personality;Unaligned;Glory of the Empire (Common);Destroyer War (Celestial);3;0
+Akaru no Oni;Personality;Unaligned;Glory of the Empire (Common);Race for the Throne (Samurai);3;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);Onyx Edition;1;0
 Akifumi Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
@@ -319,8 +326,12 @@ An Unnecessary Risk;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Tw
 An Unnecessary Risk;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Armor of Earth;Item;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Armor of Earth;Item;;Forbidden Knowledge (Rare);Clan Wars (Imperial);1;0
+Armor of Osano-Wo;Item;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);3;0
+Armor of Osano-Wo;Item;;Promotional–Gold (Promo);Four Winds (Gold);3;0
+Armor of Osano-Wo;Item;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 Armor of the Black Guard;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Armor of the Black Guard;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Arrival of the Unicorns;Strategy;;Scorpion Clan Coup 1 (Common)/Scorpion Clan Coup 2 (Common);Clan Wars (Imperial);3;1
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Asako Keshiki;Personality;Phoenix;The Blackest Storm (Fixed);Onyx Edition;3;0
 Ashigaru Fort;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
@@ -424,6 +435,7 @@ Daidoji Tametaka • Experienced 3;Personality;Crane;The Blackest Storm (Fixed);
 Daidoji Tametaka • Experienced 3;Personality;Crane;The Blackest Storm (Fixed);Onyx Edition;1;0
 Daigotsu Burogun;Personality;Spider;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Daigotsu Burogun;Personality;Spider;The Blackest Storm (Fixed);Onyx Edition;3;0
+Daikua;Personality;Mantis;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 Dairuko's Challenge;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Dairuko's Challenge;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Dashmar, Venerable Lord;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
@@ -515,6 +527,10 @@ Foreboding Path;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty 
 Foreboding Path;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Freezing the Lifeblood;Strategy;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Freezing the Lifeblood;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
+Freezing the Lifeblood;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Freezing the Lifeblood;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Four Winds (Gold);3;0
 Fushiki no Oni;Personality;Unaligned;The War of Spirits (Common);Hidden Emperor (Jade);3;0
 Fushiki no Oni;Personality;Unaligned;Training Grounds (Fixed)/Diamond Edition (Common);Rain of Blood (Diamond);3;2
@@ -522,6 +538,9 @@ Fushiki no Oni;Personality;Unaligned;Twenty Festivals (Uncommon);A Brother's Des
 Fushiki no Oni;Personality;Unaligned;Twenty Festivals (Uncommon);Onyx Edition;3;0
 Gallant Defeat;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);6;0
 Gallant Defeat;Strategy;;The Blackest Storm (Fixed);Onyx Edition;6;0
+Garrison;Holding;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Garrison;Holding;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
+Garrison;Holding;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 Gekido no Oni;Personality;Unaligned;Hidden Emperor 4 (Uncommon);Hidden Emperor (Jade);3;0
 Gekido no Oni;Personality;Unaligned;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);3;0
 Gekido no Oni;Personality;Unaligned;Ivory Edition (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
@@ -548,6 +567,7 @@ Gunso;Follower;;Celestial Edition (Common);Destroyer War (Celestial);3;0
 Gunso;Follower;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Gunso;Follower;;Twenty Festivals (Common);A Brother's Destiny (Twenty Festivals);3;0
 Gunso;Follower;;Twenty Festivals (Common);Onyx Edition;3;0
+Hantei the 38th;Personality;Unaligned;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);1;1
 Hattaya;Personality;Naga;Hidden Forest War (Fixed);Onyx Edition;3;0
 Hida Tsurasho;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Hida Tsurasho;Personality;Crab;The Blackest Storm (Fixed);Onyx Edition;3;0
@@ -607,12 +627,19 @@ Jade Works;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3
 Jade Works;Holding;;Jade Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
 Jade Works;Holding;;Onyx Edition (Fixed)/Promotional–Twenty Festivals (Promo);Onyx Edition;3;0
 Jade Works;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Jiramu's Court;Holding;;Ivory Edition (Rare);A Brother's Destiny (Ivory Edition);3;0
+Jiramu's Court;Holding;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Jiramu's Court;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Jiramu's Court;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Jiramu's Court;Holding;;Promotional–Emperor (Promo);Age of Conquest (Emperor);3;0
 Jovial Ronin • Experienced;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Jovial Ronin • Experienced;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kaiu Daikohime • Experienced;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kaiu Daikohime • Experienced;Personality;Crab;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kaiu Netsuko;Personality;Crab;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kaiu Netsuko;Personality;Crab;The Blackest Storm (Fixed);Onyx Edition;3;0
+Kakita Kenjutsu School • Experienced;Holding;;Onyx Edition (Fixed);Onyx Edition;1;0
+Kakita Kenjutsu School • Experienced;Holding;;Onyx Edition (Fixed);Shattered Empire;1;0
 Kakita Seiyami;Personality;Crane;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Kakita Seiyami;Personality;Crane;The Blackest Storm (Fixed);Onyx Edition;3;0
 Kenson Gakka;Stronghold;Lion;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
@@ -644,6 +671,10 @@ Kyoso no Oni;Personality;Unaligned;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Kyoso no Oni;Personality;Unaligned;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;0
 Kyoso no Oni;Personality;Unaligned;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
 Kyoso no Oni;Personality;Unaligned;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
+Lane of Immorality;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Lane of Immorality;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Lane of Immorality;Holding;;The New Order (Rare);A Brother's Destiny (Ivory Edition);3;0
+Lane of Immorality;Holding;;The New Order (Rare);A Brother's Destiny (Twenty Festivals);3;0
 Lesser Kama;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Lesser Kama;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Lessons from Kuro;Item;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;1
@@ -654,6 +685,8 @@ Lost Ground;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Fes
 Lost Ground;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Lost Port;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Lost Port;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Majordomo;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Majordomo;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Makeshift Defenses;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Makeshift Defenses;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Makeshift Storefront;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -680,10 +713,17 @@ Matsu Tayuko;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Ivory 
 Matsu Tayuko;Personality;Lion;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;3
 Meaningless Words;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Meaningless Words;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Militia Training Ground;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Militia Training Ground;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Militia Training Ground;Holding;;Words and Deeds (Rare);Race for the Throne (Samurai);3;0
 Mirror Armor;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Mirror Armor;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Mirumoto Sadahachi;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Mirumoto Sadahachi;Personality;Dragon;The Blackest Storm (Fixed);Onyx Edition;3;0
+Momiji's Chambers;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Ivory Edition);3;0
+Momiji's Chambers;Holding;;A Line in the Sand (Uncommon);A Brother's Destiny (Twenty Festivals);3;0
+Momiji's Chambers;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Momiji's Chambers;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Moshi Madohime • Experienced;Personality;Mantis;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Moshi Madohime • Experienced;Personality;Mantis;The Blackest Storm (Fixed);Onyx Edition;3;0
 Moto Shai-Tan;Personality;Unaligned;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -725,14 +765,26 @@ Omoidasu;Follower;;The Fall of Otosan Uchi (Common)/Training Grounds (Fixed);Fou
 Omoidasu;Follower;;The Fall of Otosan Uchi (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 One Final Stand;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 One Final Stand;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Oni Horde;Follower;;Dark Allies (Uncommon);Four Winds (Gold);3;0
+Oni Horde;Follower;;Diamond Edition (Uncommon)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Panicked;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Panicked;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Parasitic Oni;Follower;;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Parasitic Oni;Follower;;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Pawnbroker;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Pawnbroker;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Petals and Pincer;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Petals and Pincer;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Pillar of Water;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Pillar of Water;Spell;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Plain Library;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Plain Library;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Plain Library;Holding;;The New Order (Common);A Brother's Destiny (Ivory Edition);3;0
+Plain Library;Holding;;The New Order (Common);A Brother's Destiny (Twenty Festivals);3;0
+Plains Above Evil;Region;;Diamond Edition (Common);Rain of Blood (Diamond);3;0
+Plains Above Evil;Region;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Plains Above Evil;Region;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);3;0
+Plains Above Evil;Region;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 Plains of Otosan Uchi;Region;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Plains of Otosan Uchi;Region;;Emperor Edition (Rare);Age of Conquest (Emperor);1;0
 Plains of Otosan Uchi;Region;;Forbidden Knowledge (Rare);Clan Wars (Imperial);1;0
@@ -742,7 +794,17 @@ Political Standoff;Event;;Ivory Edition (Rare);A Brother's Destiny (Ivory Editio
 Political Standoff;Event;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);1;0
 Political Standoff;Event;;Onyx Edition (Fixed);Onyx Edition;1;0
 Political Standoff;Event;;Onyx Edition (Fixed);Shattered Empire;1;0
+Poorly Placed Garden;Holding;;Gold Edition (Uncommon)/The War of Spirits (Common);Four Winds (Gold);3;0
+Poorly Placed Garden;Holding;;Ivory Edition (Uncommon)/Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);3;0
+Poorly Placed Garden;Holding;;Ivory Edition (Uncommon)/Promotional–Ivory (Promo);A Brother's Destiny (Twenty Festivals);3;0
+Poorly Placed Garden;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Poorly Placed Garden;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
+Poorly Placed Garden;Holding;;The War of Spirits (Common);Hidden Emperor (Jade);3;0
 Prasthana;Personality;Naga;Hidden Forest War (Fixed);Onyx Edition;3;0
+Productive Mine;Holding;;Gates of Chaos (Rare);A Brother's Destiny (Ivory Edition);3;0
+Productive Mine;Holding;;Gates of Chaos (Rare);Age of Conquest (Emperor);3;0
+Productive Mine;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
+Productive Mine;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Proposal of Peace;Event;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Proposal of Peace;Event;;Gold Edition (Rare);Four Winds (Gold);1;0
 Proposal of Peace;Event;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);1;0
@@ -810,6 +872,11 @@ Shinomen Defenders;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twe
 Shinomen Defenders;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Shinomen Village;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shinomen Village;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Shioda;Personality;Brotherhood of Shinsei;Promotional–CWF (Promo)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
+Shioda;Personality;Brotherhood of Shinsei;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
+Shireikan;Follower;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Shireikan;Follower;;Hidden Emperor 2 (Uncommon);Hidden Emperor (Jade);3;0
+Shireikan;Follower;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Shocking Rumor;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Shocking Rumor;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Shosuro Dokumaro;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -833,10 +900,19 @@ Slice the Web;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty F
 Slice the Web;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Somber Assurance;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Somber Assurance;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Soshi Ujemi;Follower;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);3;1
 Soul of the Flame;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Soul of the Flame;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Spark of Thunder;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Spark of Thunder;Spell;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Spearmen;Follower;;Celestial Edition (Common)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
+Spearmen;Follower;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;1
+Spearmen;Follower;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Spearmen;Follower;;Imperial Edition (Common)/Emerald Edition (Common)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Common);Clan Wars (Imperial);3;0
+Spearmen;Follower;;Ivory Edition (Common)/A Matter of Honor (Fixed);A Brother's Destiny (Ivory Edition);3;0
+Spearmen;Follower;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
+Spearmen;Follower;;Jade Edition (Common);Hidden Emperor (Jade);3;0
+Spearmen;Follower;;Lotus Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed)/Siege of Sleeping Mountain (Fixed)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
 Staff of Peace;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Staff of Peace;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Stand United!;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -845,6 +921,9 @@ Stand Without Fear;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twe
 Stand Without Fear;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Standard Caller;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Standard Caller;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Steadfast Bushi;Follower;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
+Steadfast Bushi;Follower;;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Steadfast Bushi;Follower;;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Sweeping Maneuvers;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Sweeping Maneuvers;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Tamori Busuke;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -864,8 +943,10 @@ The Kurai District Court;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 The Spawning Ground;Stronghold;Shadowlands;Ambition's Debt (Fixed)/Soul of the Empire (Uncommon)/Promotional–Jade (Promo);Hidden Emperor (Jade);1;0
 The Spawning Ground;Stronghold;Shadowlands;Diamond Edition (Fixed)/Promotional–Diamond (Promo)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 The Spawning Ground;Stronghold;Shadowlands;Gold Edition (Fixed);Four Winds (Gold);1;0
+The Unclean Cut;Strategy;;Scorpion Clan Coup 1 (Common);Clan Wars (Imperial);3;1
 The Wake of Slaughter;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 The Wake of Slaughter;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Through the Waterways;Strategy;;Scorpion Clan Coup 1 (Uncommon);Clan Wars (Imperial);3;1
 Tirandaja;Personality;Naga;Hidden Forest War (Fixed);Onyx Edition;3;0
 Togashi Fusawa;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Togashi Fusawa;Personality;Dragon;The Blackest Storm (Fixed);Onyx Edition;3;0
@@ -939,10 +1020,10 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #175
+# Done through card #180
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
-# Finished Page 3 Onyx Edition
+# Finished Page 4 Onyx Edition
 #201
 #237
 #279
@@ -951,6 +1032,8 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #307
 #309
 #438
+#441
+#466
 #614
 #622
 #733
@@ -966,6 +1049,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #1511
 #1515
 #1528
+#1791
 #2191
 #2211
 #2305
@@ -973,12 +1057,15 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #2463
 #2470
 #2477-2478
+#2694
 #2749
+#2777
 #2786
 #2807
 #2835
 #2923
 #2925
+#2969
 #3269
 #3694
 #3755
@@ -994,13 +1081,18 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #4938
 #4946
 #4971
+#5056
 #5483
 #5497
 #5647
 #5660
 #5675
 #5698
+#5725
+#5875
+#5976
 #5979
+#6021
 #6084
 #6314
 #6324
@@ -1010,10 +1102,17 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #6647
 #6670
 #6673
+#6999
+#7007
 #7220
 #7222
+#7369
+#7399
+#7476
 #7900
 #8348
+#8403
+#8462
 #8795
 #8965
 #9164
@@ -1021,12 +1120,16 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #9356
 #9672
 #10033
+#10189
 #10231
+#10607
 #11139
 #11141
 #11178
 #11187
+#11556
 #11717
 #11869
-#11874
+#11874-11875
+#11880
 #11883
