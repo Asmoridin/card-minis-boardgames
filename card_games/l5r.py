@@ -22,7 +22,7 @@ else:
     from utils.sort_and_filter import sort_and_filter
 
 DYNASTY_CARD_TYPES = ['Region', 'Event', 'Holding', 'Personality', 'Celestial']
-FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor']
+FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor', 'Ring']
 PREGAME_TYPES = ['Stronghold', 'Sensei', 'Wind']
 
 VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion', 'Crab', 'Crane', 'Dragon', 'Mantis',
