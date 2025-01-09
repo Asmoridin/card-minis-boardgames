@@ -1,13 +1,14 @@
 Android: Netrunner Win-Loss Tracker, and deck selector
-My current record is 179-71
+My current record is 180-72
 
-Record as Corporation: 99-38
-Record as Runner: 80-33
+Record as Corporation: 100-38
+Record as Runner: 80-34
 
 My record by identity:
-Anarch: 27-6
+Anarch: 27-7
  - Edward Kim: Humanity's Hammer: 2-0
  - MaxX: Maximum Punk Rock: 7-0
+ - Nathaniel "Gnat" Hall: One-of-a-Kind: 0-1
  - Noise: Hacker Extraordinaire: 3-3
  - Quetzal: Free Spirit: 1-1
  - Reina Roja: Freedom Fighter: 5-0
@@ -27,12 +28,13 @@ Criminal: 23-11
  - Silhouette: Stealth Operative: 4-0
  - Steve Cambridge: Master Grifter: 0-1
  - Zahya Sadeghi: Versatile Smuggler: 1-0
-Haas-Bioroid: 26-4
+Haas-Bioroid: 27-4
  - Cerebral Imaging: Infinite Frontiers: 2-0
  - Custom Biotics: Engineered for Success: 2-0
  - Haas-Bioroid: Engineering the Future: 6-1
  - Haas-Bioroid: Precision Design: 1-1
  - Haas-Bioroid: Stronger Together: 3-0
+ - MirrorMorph: Endless Iteration: 1-0
  - NEXT Design: Guarding the Net: 4-0
  - Seidr Laboratories: Destiny Defined: 1-0
  - Sportsmetal: Go Big or Go Home: 1-0
@@ -98,22 +100,22 @@ My record against opponents:
 - Joey A: 1-6
 - John B: 7-2
 - Kevin T: 1-0
-- Matt S: 9-11
+- Matt S: 10-12
 - Nick D: 1-1
 - Rob M: 130-33
 - Unknown: 2-1
 
 My record against opposing factions:
-- Anarch: 43-11
+- Anarch: 44-11
 - Criminal: 18-19
 - Haas-Bioroid: 26-17
-- Jinteki: 16-10
+- Jinteki: 16-11
 - NBN: 11-2
 - Shaper: 38-8
 - Weyland: 27-4
 
 I've seen the following IDs on the table the least (0 times)
-A Teia: IP Recovery, Acme Consulting: The Truth You Need, Adam: Compulsive Hacker, Akiko Nisei: Head Case, Alice Merchant: Clan Agitator, Arissana Rocha Nahu: Street Artist, Az McCaffrey: Mechanical Prodigy, Chronos Protocol: Selective Mind-mapping, Earth Station: SEA Headquarters, Epiphany Analytica: Nations Undivided, Freedom Khumalo: Crypto-Anarchist, GameNET: Where Dreams are Real, Harishchandra Ent.: Where You're the Star, Hoshiko Shiro: Untold Protagonist, Hyoubu Institute: Absolute Clarity, Issuaq Adaptics: Sustaining Diversity, Jemison Astronautics: Sacrifice. Audacity. Success., Kabonesa Wu: Netspace Thrillseeker, Khan: Savvy Skiptracer, Lat: Ethical Freelancer, Liza Talking Thunder: Prominent Legislator, MirrorMorph: Endless Iteration, Mti Mwekundu: Life Improved, NBN: Reality Plus, Nathaniel "Gnat" Hall: One-of-a-Kind, Nero Severn: Information Broker, New Angeles Sol: Your News, Null: Whistleblower, Nuvem SA: Law of the Land, Ob Superheavy Logistics: Extract. Export. Excel., Omar Keung: Conspiracy Theorist, Pravdivost Consulting: Political Solutions, René "Loup" Arcemont: Party Animal, Saraswati Mnemonics: Endless Exploration, Sebastião Souza Pessoa: Activist Organizer, Thunderbolt Armaments: Peace Through Power
+A Teia: IP Recovery, Acme Consulting: The Truth You Need, Adam: Compulsive Hacker, Akiko Nisei: Head Case, Arissana Rocha Nahu: Street Artist, Az McCaffrey: Mechanical Prodigy, Chronos Protocol: Selective Mind-mapping, Earth Station: SEA Headquarters, Epiphany Analytica: Nations Undivided, Freedom Khumalo: Crypto-Anarchist, GameNET: Where Dreams are Real, Harishchandra Ent.: Where You're the Star, Hoshiko Shiro: Untold Protagonist, Hyoubu Institute: Absolute Clarity, Issuaq Adaptics: Sustaining Diversity, Jemison Astronautics: Sacrifice. Audacity. Success., Kabonesa Wu: Netspace Thrillseeker, Khan: Savvy Skiptracer, Lat: Ethical Freelancer, Liza Talking Thunder: Prominent Legislator, Mti Mwekundu: Life Improved, NBN: Reality Plus, Nero Severn: Information Broker, New Angeles Sol: Your News, Null: Whistleblower, Nuvem SA: Law of the Land, Ob Superheavy Logistics: Extract. Export. Excel., Omar Keung: Conspiracy Theorist, Pravdivost Consulting: Political Solutions, René "Loup" Arcemont: Party Animal, Saraswati Mnemonics: Endless Exploration, Sebastião Souza Pessoa: Activist Organizer, Thunderbolt Armaments: Peace Through Power
 
 Following are limited to my current format (Standard)
 I should play more games with Jinteki, where I only have 6 games. Suggested ID - A Teia: IP Recovery (0 total plays)
