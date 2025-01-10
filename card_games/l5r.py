@@ -54,7 +54,7 @@ PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'W
     "Broken Blades", "Hidden Emperor 1", "Storms Over Matsu Palace", "Scorpion Clan Coup 2",
     "Battle of Beiden Pass", "L5R Experience", "Siege of Sleeping Mountain", 'Hidden Emperor 3',
     "Dawn of the Empire", "Reign of Blood", "Enemy of My Enemy", "Drums of War", "Code of Bushido",
-    "Web of Lies", "Wrath of the Emperor", "Hidden Emperor 2",
+    "Web of Lies", "Wrath of the Emperor", "Hidden Emperor 2", "Top Deck Booster Pack",
 ]
 VALID_FORMATS = ['Clan Wars (Imperial)', 'Hidden Emperor (Jade)', 'Four Winds (Gold)',
     'Rain of Blood (Diamond)', 'Age of Enlightenment (Lotus)', 'Race for the Throne (Samurai)',

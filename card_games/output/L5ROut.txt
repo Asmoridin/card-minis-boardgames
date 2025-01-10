@@ -1,24 +1,24 @@
 Legend of the Five Rings CCG Inventory Tracker Tool
 
-There are 519 distinct cards in the game.
-I own 244 out of 2926 total cards - 8.34 percent
+There are 540 distinct cards in the game.
+I own 292 out of 3150 total cards - 9.27 percent
 
 Suggested purchase is a Crab Personality from The Blackest Storm: Hida Tsurasho (own 0 out of 3)
 
 Current inventory percentage by format:
-Rain of Blood (Diamond): 49.82 (135/271)
-Race for the Throne (Samurai): 36.32 (85/234)
-BigDeck: 15.99 (83/519)
-Modern: 9.88 (34/344)
-Clan Wars (Imperial): 7.19 (11/153)
-Hidden Emperor (Jade): 1.92 (3/156)
-A Brother's Destiny (Twenty Festivals): 1.66 (10/601)
-20F Extended: 1.49 (10/672)
-Ivory Extended: 1.46 (10/684)
+Rain of Blood (Diamond): 53.46 (170/318)
+Race for the Throne (Samurai): 36.43 (98/269)
+BigDeck: 17.41 (94/540)
+Modern: 11.17 (40/358)
+Clan Wars (Imperial): 6.15 (11/179)
+Hidden Emperor (Jade): 1.70 (3/176)
+A Brother's Destiny (Twenty Festivals): 1.64 (10/609)
+20F Extended: 1.47 (10/680)
+Ivory Extended: 1.43 (10/698)
 Shattered Empire: 0.00 (0/90)
-A Brother's Destiny (Ivory Edition): 0.00 (0/94)
-Age of Conquest (Emperor): 0.00 (0/107)
-Age of Enlightenment (Lotus): 0.00 (0/176)
-Destroyer War (Celestial): 0.00 (0/181)
-Four Winds (Gold): 0.00 (0/229)
-Onyx Edition: 0.00 (0/634)
+A Brother's Destiny (Ivory Edition): 0.00 (0/99)
+Age of Conquest (Emperor): 0.00 (0/121)
+Destroyer War (Celestial): 0.00 (0/192)
+Age of Enlightenment (Lotus): 0.00 (0/202)
+Four Winds (Gold): 0.00 (0/258)
+Onyx Edition: 0.00 (0/637)

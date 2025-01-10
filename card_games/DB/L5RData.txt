@@ -318,6 +318,10 @@ Akodo's Grave;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Akodo's Grave;Holding;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Akodo's Grave;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
 Akodo's Grave;Holding;;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Along the Coast at Midnight;Strategy;;Crimson and Jade (Rare);Clan Wars (Imperial);3;0
+Along the Coast at Midnight;Strategy;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Along the Coast at Midnight;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare);Hidden Emperor (Jade);3;0
+Along the Coast at Midnight;Strategy;;Lotus Edition (Uncommon);Age of Enlightenment (Lotus);3;0
 An Ocean of Defeat;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 An Ocean of Defeat;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 An Undeniable Request;Event;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -349,6 +353,10 @@ Barracks of the Asp;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Barracks of the Asp;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Bathel;Personality;Naga;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Bathel;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;3;0
+Battlefield of Shallow Graves;Strategy;;Anvil of Despair (Common);Clan Wars (Imperial);3;0
+Battlefield of Shallow Graves;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Battlefield of Shallow Graves;Strategy;;Lotus Edition (Common)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
+Battlefield of Shallow Graves;Strategy;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
 Bawaru no Oni;Personality;Unaligned;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
 Bawaru no Oni;Personality;Unaligned;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Bayushi Manora • Experienced;Personality;Scorpion;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -442,6 +450,7 @@ Dashmar, Venerable Lord;Personality;Naga;The Blackest Storm (Fixed);A Brother's 
 Dashmar, Venerable Lord;Personality;Naga;The Blackest Storm (Fixed);Onyx Edition;1;0
 Death of the Mantis Clan;Event;;Onyx Edition (Fixed);Onyx Edition;3;0
 Death of the Mantis Clan;Event;;Onyx Edition (Fixed);Shattered Empire;3;0
+Deathseeker's Glory;Strategy;;Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Decayed Blade;Item;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Decayed Blade;Item;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Deep Harbor;Holding;;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
@@ -456,6 +465,10 @@ Developed Quarry;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Developed Quarry;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Developed Quarry;Holding;;The New Order (Common);A Brother's Destiny (Ivory Edition);3;0
 Developed Quarry;Holding;;The New Order (Common);A Brother's Destiny (Twenty Festivals);3;0
+Diversionary Tactics;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Diversionary Tactics;Strategy;;Forbidden Knowledge (Common)/Battle of Beiden Pass (Fixed);Clan Wars (Imperial);3;0
+Diversionary Tactics;Strategy;;Gold Edition (Common)/L5R Experience (Fixed);Four Winds (Gold);3;0
+Diversionary Tactics;Strategy;;Jade Edition (Common)/Pearl Edition (Common)/Storms Over Matsu Palace (Fixed)/Top Deck Booster Pack (Fixed);Hidden Emperor (Jade);3;0
 Doji Kiwadoi;Personality;Crane;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Doji Kiwadoi;Personality;Crane;The Blackest Storm (Fixed);Onyx Edition;3;0
 Doji Kurizuma;Personality;Crane;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -517,12 +530,20 @@ Farmlands;Region;;Gold Edition (Common);Four Winds (Gold);3;0
 Farmlands;Region;;Jade Edition (Common)/Pearl Edition (Common);Hidden Emperor (Jade);3;0
 Farmlands;Region;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
 Farmlands;Region;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
+Feign Death;Strategy;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Feign Death;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
+Feign Death;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;0
+Feign Death;Strategy;;Twenty Festivals (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Feign Death;Strategy;;Twenty Festivals (Rare);Onyx Edition;3;0
 Festering Pit of Fu Leng • Experienced;Holding;;Onyx Edition (Fixed);Onyx Edition;1;0
 Festering Pit of Fu Leng • Experienced;Holding;;Onyx Edition (Fixed);Shattered Empire;1;0
 Final Moments;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Final Moments;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Final Stroke;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Final Stroke;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+For the Empire;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+For the Empire;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+For the Empire;Strategy;;Time of the Void (Uncommon);Clan Wars (Imperial);3;0
 Foreboding Path;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Foreboding Path;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Forgotten Shrine;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -687,6 +708,9 @@ Lost Ground;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Fes
 Lost Ground;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Lost Port;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Lost Port;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Luring Tactics;Strategy;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Luring Tactics;Strategy;;The War of Spirits (Uncomomon);Four Winds (Gold);3;0
+Luring Tactics;Strategy;;The War of Spirits (Uncomomon);Hidden Emperor (Jade);3;0
 Majordomo;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Majordomo;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Makeshift Defenses;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -756,6 +780,9 @@ Oblivion's Gate;Holding;;Winds of Change (Rare)/Training Grounds (Fixed);Four Wi
 Oblivion's Gate;Holding;;Winds of Change (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
 Obsidian Mine;Holding;;1,000 Years of Darkness (Fixed)/Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Obsidian Mine;Holding;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Officers' Council;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Officers' Council;Strategy;;Winds of Change (Uncommon)/Training Grounds (Fixed);Four Winds (Gold);3;0
+Officers' Council;Strategy;;Winds of Change (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Ogre Bushi;Personality;Unaligned;Gold Edition (Uncommon);Four Winds (Gold);3;0
 Ogre Bushi;Personality;Unaligned;Ivory Edition (Common);A Brother's Destiny (Ivory Edition);3;0
 Ogre Bushi;Personality;Unaligned;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;0
@@ -775,6 +802,11 @@ Parasitic Oni;Follower;;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed)
 Parasitic Oni;Follower;;1,000 Years of Darkness (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 Pawnbroker;Holding;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Pawnbroker;Holding;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Peasant Vengeance;Strategy;;Celestial Edition (Fixed);Destroyer War (Celestial);3;0
+Peasant Vengeance;Strategy;;Diamond Edition (Common)/Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Peasant Vengeance;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Peasant Vengeance;Strategy;;Samurai Edition (Common);Race for the Throne (Samurai);3;0
+Peasant Vengeance;Strategy;;Winds of Change (Common);Four Winds (Gold);3;0
 Petals and Pincer;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Petals and Pincer;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Pillar of Water;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -803,6 +835,8 @@ Poorly Placed Garden;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
 Poorly Placed Garden;Holding;;Onyx Edition (Fixed);Shattered Empire;3;0
 Poorly Placed Garden;Holding;;The War of Spirits (Common);Hidden Emperor (Jade);3;0
 Prasthana;Personality;Naga;Hidden Forest War (Fixed);Onyx Edition;3;0
+Primal Rage;Strategy;;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
+Primal Rage;Strategy;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
 Productive Mine;Holding;;Gates of Chaos (Rare);A Brother's Destiny (Ivory Edition);3;0
 Productive Mine;Holding;;Gates of Chaos (Rare);Age of Conquest (Emperor);3;0
 Productive Mine;Holding;;Onyx Edition (Fixed);Onyx Edition;3;0
@@ -826,6 +860,12 @@ Redoubled Assault;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twen
 Redoubled Assault;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Reprobate;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Reprobate;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Retribution;Strategy;;Celestial Edition (Uncommon)/Promotional–Celestial (Promo);Destroyer War (Celestial);3;0
+Retribution;Strategy;;Diamond Edition (Common)/Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Retribution;Strategy;;Emperor Edition (Uncommon);Age of Conquest (Emperor);3;0
+Retribution;Strategy;;Lotus Edition (Common);Age of Enlightenment (Lotus);3;0
+Retribution;Strategy;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;0
+Retribution;Strategy;;Winds of Change (Common);Four Winds (Gold);3;0
 Return to Greatness;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Return to Greatness;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Rice Paddy;Holding;;Broken Blades (Uncommon);Four Winds (Gold);3;0
@@ -845,13 +885,27 @@ Ring of Earth;Ring;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition)
 Ring of Earth;Ring;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);2;0
 Ring of Earth;Ring;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);2;0
 Ring of Earth;Ring;;Samurai Edition (Uncommon)/Promotional–Samurai (Promo);Race for the Throne (Samurai);2;0
+Ring of Water;Ring;;Celestial Edition (Uncommon)/War of Honor (Fixed)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);2;0
+Ring of Water;Ring;;Diamond Edition (Uncommon)/Training Grounds (Fixed)/Promotional–Diamond (Promo);Rain of Blood (Diamond);2;1
+Ring of Water;Ring;;Emperor Edition (Uncommon)/Emperor Edition Demo Decks (Fixed)/Promotional–Emperor (Promo);Age of Conquest (Emperor);2;0
+Ring of Water;Ring;;Gold Edition (Uncommon);Four Winds (Gold);2;0
+Ring of Water;Ring;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Uncommon);Clan Wars (Imperial);2;0
+Ring of Water;Ring;;Ivory Edition (Uncommon)/Twenty Festivals (Uncommon);A Brother's Destiny (Twenty Festivals);2;0
+Ring of Water;Ring;;Ivory Edition (Uncommon);A Brother's Destiny (Ivory Edition);2;0
+Ring of Water;Ring;;Jade Edition (Uncommon)/Pearl Edition (Uncommon);Hidden Emperor (Jade);2;0
+Ring of Water;Ring;;Lotus Edition (Uncommon)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);2;0
+Ring of Water;Ring;;Samurai Edition (Uncommon)/Promotional–Samurai (Promo);Race for the Throne (Samurai);2;0
 Run For Your Lives!;Event;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Four Winds (Gold);1;0
 Run For Your Lives!;Event;;The Fall of Otosan Uchi (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);1;1
+Sacrificial Lands;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;2
 Sahaya;Personality;Naga;Hidden Forest War (Fixed);Onyx Edition;3;0
 Sanctified Temple;Holding;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Sanctified Temple;Holding;;Gold Edition (Common)/Promotional–Gold (Promo)/L5R Experience (Fixed);Four Winds (Gold);3;0
 Sanctified Temple;Holding;;Imperial Edition (Common)/Emerald Edition (Common)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Common);Clan Wars (Imperial);3;0
 Sanctified Temple;Holding;;Jade Edition (Common)/Pearl Edition (Common)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
+Sap the Spirit;Strategy;;Enemy of My Enemy (Uncommon);Age of Enlightenment (Lotus);3;0
+Sap the Spirit;Strategy;;Enemy of My Enemy (Uncommon);Rain of Blood (Diamond);3;0
+Sap the Spirit;Strategy;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;2
 Scholar's Facade;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Scholar's Facade;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Secret Grove;Holding;;Hidden Forest War (Fixed);Onyx Edition;3;0
@@ -929,6 +983,16 @@ Skillful Recorder;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twen
 Skillful Recorder;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Slice the Web;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Slice the Web;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
+Sneak Attack;Strategy;;Celestial Edition (Rare)/Battle of Kyuden Tonbo (Fixed);Destroyer War (Celestial);3;0
+Sneak Attack;Strategy;;Diamond Edition (Rare)/Training Grounds (Fixed)/Promotional–Diamond (Promo);Rain of Blood (Diamond);3;1
+Sneak Attack;Strategy;;Emperor Edition (Rare)/Promotional–Emperor (Promo)/Promotional–Ivory (Promo);Age of Conquest (Emperor);3;0
+Sneak Attack;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
+Sneak Attack;Strategy;;Imperial Edition (Rare)/Emerald Edition (Rare)/Obsidian Edition (Rare);Clan Wars (Imperial);3;0
+Sneak Attack;Strategy;;Ivory Edition (Rare)/Promotional–Ivory (Promo);A Brother's Destiny (Ivory Edition);3;0
+Sneak Attack;Strategy;;Ivory Edition (Rare);A Brother's Destiny (Twenty Festivals);3;0
+Sneak Attack;Strategy;;Jade Edition (Rare)/Pearl Edition (Rare)/Siege of Sleeping Mountain (Fixed);Hidden Emperor (Jade);3;0
+Sneak Attack;Strategy;;Lotus Edition (Rare)/Training Grounds 2 (Fixed);Age of Enlightenment (Lotus);3;0
+Sneak Attack;Strategy;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
 Sniping;Strategy;;Emperor Edition (Uncommon)/Emperor Edition Demo Decks (Fixed);Age of Conquest (Emperor);3;0
 Sniping;Strategy;;Soul of the Empire (Uncommon);Hidden Emperor (Jade);3;3
 Solid Defense;Strategy;;Emperor Edition (Rare);Age of Conquest (Emperor);3;0
@@ -945,7 +1009,7 @@ Soul Strike;Strategy;;Stronger Than Steel (Common);Race for the Throne (Samurai)
 Spark of Thunder;Spell;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Spark of Thunder;Spell;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Spearhead;Strategy;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
-Spearhead;Strategy;;Diamond Edition (Common)/Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;0
+Spearhead;Strategy;;Diamond Edition (Common)/Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
 Spearhead;Strategy;;Lotus Edition (Common)/Promotional–Lotus (Promo);Age of Enlightenment (Lotus);3;0
 Spearhead;Strategy;;Samurai Edition (Uncommon);Race for the Throne (Samurai);3;3
 Spearhead;Strategy;;Winds of Change (Common);Four Winds (Gold);3;0
@@ -969,6 +1033,20 @@ Standard Caller;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Steadfast Bushi;Follower;;Celestial Edition (Uncommon);Destroyer War (Celestial);3;0
 Steadfast Bushi;Follower;;Winds of Change (Common)/Training Grounds (Fixed);Four Winds (Gold);3;0
 Steadfast Bushi;Follower;;Winds of Change (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Strength of Purity;Strategy;;Diamond Edition (Common)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Strength of Purity;Strategy;;Emperor Edition (Common);Age of Conquest (Emperor);3;0
+Strength of Purity;Strategy;;Gold Edition (Uncommon);Four Winds (Gold);3;0
+Strength of Purity;Strategy;;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;0
+Strength of Purity;Strategy;;Jade Edition (Uncommon)/Pearl Edition (Uncommon)/Storms Over Matsu Palace (Fixed)/Top Deck Booster Pack (Fixed);Hidden Emperor (Jade);3;0
+Sublime Peacock Stance;Strategy;;The Heaven's Will (Common);Race for the Throne (Samurai);3;3
+Subtle Reminder;Strategy;;The Heaven's Will (Uncommon);Race for the Throne (Samurai);3;3
+Superior Positioning;Strategy;;Stronger Than Steel (Rare);Race for the Throne (Samurai);3;1
+Superior Strategist;Strategy;;Crimson and Jade (Rare);Clan Wars (Imperial);3;0
+Superior Strategist;Strategy;;Diamond Edition (Rare)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
+Superior Strategist;Strategy;;Gold Edition (Rare);Four Winds (Gold);3;0
+Superior Strategist;Strategy;;Lotus Edition (Rare);Age of Enlightenment (Lotus);3;0
+Superior Strategist;Strategy;;Samurai Edition (Rare);Race for the Throne (Samurai);3;0
+Surveying the Land;Strategy;;Stronger Than Steel (Common);Race for the Throne (Samurai);3;2
 Sweeping Maneuvers;Strategy;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Sweeping Maneuvers;Strategy;;The Blackest Storm (Fixed);Onyx Edition;3;0
 Tamori Busuke;Personality;Dragon;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
@@ -1104,11 +1182,13 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #291
 #307
 #309
+#335
 #438
 #441
 #466
 #614
 #622
+#730
 #733
 #977
 #989
@@ -1123,6 +1203,8 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #1515
 #1528
 #1791
+#1903
+#2043
 #2191
 #2211
 #2305
@@ -1130,6 +1212,8 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #2463
 #2470
 #2477-2478
+#2503
+#2633
 #2694
 #2749
 #2777
@@ -1149,6 +1233,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #4563
 #4626
 #4711
+#4785
 #4890
 #4906
 #4929
@@ -1160,18 +1245,25 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #5497
 #5647
 #5660
+#5672
 #5675
 #5698
 #5725
 #5875
+#5915
 #5976
 #5979
 #6021
+#6066
 #6084
+#6290
 #6314
 #6324
+#6339
 #6408
+#6442
 #6464
+#6473
 #6602
 #6647
 #6670
@@ -1190,7 +1282,7 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #7257-7258
 #7273
 #7283
-#7312
+#7311-7312
 #7329
 #7331
 #7377
@@ -1199,6 +1291,12 @@ Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 #7398-7399
 #7434
 #7476
+#7546
+#7600
+#7603
+#7655
+#7658
+#7672
 #7900
 #8348
 #8361

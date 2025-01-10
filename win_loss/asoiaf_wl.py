@@ -166,7 +166,7 @@ for comm_name, comm_played in seen_total.items():
 
 see_str = f"\nI've seen the following commanders on the table the least ({LEAST_PLAYED_QTY} times)"
 double_print(see_str, out_file_h)
-double_print(", ".join(least_played_commanders), out_file_h)
+double_print("; ".join(least_played_commanders), out_file_h)
 
 # Figure out least played relevant army
 for army_name in all_armies_commanders:
