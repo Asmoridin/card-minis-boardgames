@@ -288,6 +288,13 @@ Aka-Name;Personality;Unaligned;Khan's Defiance (Common);Age of Enlightenment (Lo
 Aka-Name;Personality;Unaligned;Khan's Defiance (Common);Race for the Throne (Samurai);3;0
 Akaru no Oni;Personality;Unaligned;Glory of the Empire (Common);Destroyer War (Celestial);3;0
 Akaru no Oni;Personality;Unaligned;Glory of the Empire (Common);Race for the Throne (Samurai);3;0
+Akasha • Experienced 2;Personality;Unicorn/Naga;Test of the Emerald and Jade Championships (Fixed);Race for the Throne (Samurai);1;0
+Akasha • Experienced;Personality;Unicorn/Naga;Promotional–Diamond (Promo);Rain of Blood (Diamond);1;0
+Akasha;Personality;Unicorn/Naga;Promotional–Gold (Promo);Four Winds (Gold);3;0
+Akatch;Personality;Ratling;Code of Bushido (Common);Age of Enlightenment (Lotus);6;0
+Akatch;Personality;Ratling;Code of Bushido (Common);Rain of Blood (Diamond);6;0
+Akegarasu;Personality;Crane;The Truest Test (Uncommon);Age of Enlightenment (Lotus);3;0
+Akegarasu;Personality;Crane;The Truest Test (Uncommon);Race for the Throne (Samurai);3;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
 Akeha Sensei;Sensei;;The Blackest Storm (Fixed);Onyx Edition;1;0
 Akifumi Sensei;Sensei;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);1;0
@@ -1171,7 +1178,7 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #180
+# Done through card #185
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 # Finished Page 4 Onyx Edition

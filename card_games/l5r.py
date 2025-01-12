@@ -39,7 +39,7 @@ MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Deck
     "Embers of War", "Words and Deeds", "The Blackest Storm", "Hidden Forest War",
     "The Heaven's Will", "Path of the Destroyer", "Onyx Edition", "Promotional-Emperor",
     "Celestial Edition 15th Anniversary", "The New Order", "The Coming Storm", "Seeds of Decay",
-    "A Line in the Sand", "Gates of Chaos",
+    "A Line in the Sand", "Gates of Chaos", "Test of the Emerald and Jade Championships",
 ]
 PRE_MODERN_SETS = ['Hidden Emperor 6', 'Diamond Edition', 'Training Grounds', 'Winds of Change',
     'Hidden Emperor 4', "Honor's Veil", 'The Dark Journey Home', '1,000 Years of Darkness',
@@ -121,9 +121,12 @@ for line in in_lines:
     else:
         print(f"Unknown card type: {card_type}")
         continue
-    if card_clan != '' and card_clan not in VALID_CLANS:
-        print(f"Invalid clan: {card_clan}")
-        continue
+    this_card_clans = []
+    for check_clan in card_clan.split('/'):
+        if check_clan != '' and check_clan not in VALID_CLANS:
+            print(f"Invalid clan: {card_clan}")
+            continue
+        this_card_clans.append(check_clan)
     card_sets, card_rarities, modern_legal = parse_sets(card_name, card_sets)
     if card_format not in VALID_FORMATS:
         print(f"Invalid format: {card_format}")
@@ -137,7 +140,7 @@ for line in in_lines:
     TOTAL_OWN += card_own
     if modern_legal:
         if card_name not in modern_cards:
-            modern_cards[card_name] = [card_name, card_type, CARD_DECK, card_clan, card_sets, \
+            modern_cards[card_name] = [card_name, card_type, CARD_DECK, this_card_clans, card_sets, \
                 card_rarities, 'Modern', min(card_own, 1), 1]
         else:
             modern_cards[card_name][4] = list(set(modern_cards[card_name][4] + card_sets))
@@ -146,13 +149,13 @@ for line in in_lines:
                 modern_cards[card_name][7] + card_own)
 
     if card_name not in bigdeck_cards:
-        bigdeck_cards[card_name] = [[card_name, card_type, CARD_DECK, card_clan, card_sets, \
+        bigdeck_cards[card_name] = [[card_name, card_type, CARD_DECK, this_card_clans, card_sets, \
             card_rarities, card_format, card_own, card_max]]
     else:
-        bigdeck_cards[card_name].append([card_name, card_type, CARD_DECK, card_clan, card_sets,
+        bigdeck_cards[card_name].append([card_name, card_type, CARD_DECK, this_card_clans, card_sets,
             card_rarities, card_format, card_own, card_max])
 
-    card_lines.append([card_name, card_type, CARD_DECK, card_clan, card_sets, card_rarities, \
+    card_lines.append([card_name, card_type, CARD_DECK, this_card_clans, card_sets, card_rarities, \
         card_format, card_own, card_max])
 
 for _, card_item in modern_cards.items():
