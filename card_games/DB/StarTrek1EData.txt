@@ -327,6 +327,7 @@ Pralor Warship;Ship;Non-Aligned;Holodeck Adventures;307;;4;0
 Prylar Mond;Personnel;Bajoran;Deep Space 9;308;;4;0
 Q;Dilemma;Dual;Premiere/Homefront VI;1919,3538,4668,6239,6602,6965,7887;;4;0 # Have one needing errata
 Qol;Personnel;Ferengi;Rules of Acquisition;309;;4;0
+R'Mal;Personnel;Romulan;Blaze of Glory;324;;4;0
 Rabek;Personnel;Kazon;Voyager;310;;4;0
 Radioactive Garbage Scow;Dilemma;Space;Premiere/Voyager;1948,1949,4041,6242,6605,6968,7890;;4;1 # have 1 PREM
 Rae'alin;Personnel;Non-Aligned;The Motion Pictures;311,7196;;4;0
@@ -342,7 +343,16 @@ REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 #
 Res-Q;Event;;Premiere/Trouble with Tribbles Starter Decks;2007,5267,6250,6613,6976,7898;;4;1
 Richard Wilkins;Personnel;Federation;First Contact;319;;4;0
 Rigelian Freighter;Ship;Non-Aligned;Deep Space 9;320;;4;0
+Ril;Personnel;Kazon;Voyager;321;;4;0
+Rinnak Pire;Personnel;Bajoran;Deep Space 9;322;;4;0
+Rionoj;Personnel;Non-Aligned;Deep Space 9;323;;4;0
+Romara Cal;Personnel;Bajoran;Mirror, Mirror;325,4831;;4;0
 Romulan Outpost;Facility;Romulan;Premiere/Homefront VI;1029,6817,4052,4706,6091,6454;;4;1
+Romulan Shuttle;Ship;Romulan;Blaze of Glory;326;;4;0
+Rukor;Personnel;Klingon;Mirror, Mirror;327,4861;;4;0
+Runabout;Ship;Federation;Premiere/Trouble with Tribbles Starter Decks;328,6010,6373,6736,7118,7658,8022;;4;0
+Saldin;Personnel;Kazon;Voyager;329;;4;0
+Sam Lavelle;Personnel;Federation;Holodeck Adventures;330;;4;0
 Sarjenka;Dilemma;Planet;Premiere;2053,6256,6619,6982,7904;;4;1
 Secret Salvage;Mission;Space;Premiere;2077,6260,6986,6623,7908;;2;1
 Sela;Personnel;Romulan;Premiere;2089,3578,6262,6625,6988,7910;;2;1
@@ -357,9 +367,14 @@ Tallus;Personnel;Romulan;Premiere;378,6019,6382,6745,7667;;4;1
 Tarellian Plague Ship;Dilemma;Space;Premiere;673,5644,6060,6423,6786,7708;;4;1
 Tarus;Personnel;Romulan;Premiere;381,6020,6383,6746,7668;;4;3
 Taul;Personnel;Romulan;Premiere;382,6021,6384,6747,7669;;4;1
+Tebok;Personnel;Romulan;Premiere;2212,6283,6646,7009,7931;;2;1
 Temporal Causality Loop;Dilemma;Space;Premiere;2218,6285,6648,7011,7933;;4;1
 The Traveler: Transcendence;Event;;Premiere/Virtual Promos;2286,5173,5652,6291,6654,7017,7939;;4;1
+Thei;Personnel;Romulan;Premiere;393,6023,6386,6749,7671;;4;1
 Thought Maker;Artifact;;Premiere;1056,6094,6457,6820;;2;1
+Tokath;Personnel;Romulan;Premiere;2300,6294,6657,7020,7942;;2;1
+Tomalak;Personnel;Romulan;Premiere/Virtual Promo;2303,4892,6295,6658,7021,7943;;2;1
+Tomek;Personnel;Romulan;Premiere;400,6024,6387,6750,7672;;4;2
 Tsiolkovsky Infection;Dilemma;Space;Premiere;2360,6307,6670,7033,7955;;4;1
 Two of Twelve;Personnel;Borg;The Borg;21;;4;0
 Two-Dimensional Creatures;Dilemma;Space;Premiere/Trouble with Tribbles Starter Decks;2369,6308,6671,7034,7164,7956;;4;1
@@ -383,10 +398,12 @@ Vartoq;Personnel;Klingon;Mirror, Mirror;37,4864;;4;0
 Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
 
-# Done through card 320
+# Done through card 330
 #339
 #377-378
 #381-382
+#393
+#400
 #430
 #445
 #556
@@ -444,8 +461,11 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #2115
 #2159
 #2192
+#2212
 #2218
 #2286
+#2300
+#2303
 #2360
 #2369
 #3067
@@ -489,16 +509,18 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #4702-4704
 #4706
 #4828
+#4831
 #4833-4834
 #4843-4845
 #4848
 #4850
-#4859-4860
+#4859-4861
 #4864
 #4869
 #4871
 #4873-4874
 #4876
+#4892
 #5173
 #5257
 #5259-5260
@@ -521,9 +543,10 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #5900
 #5909-5912
 #5917
-#5966-6009
+#5966-6010
 #6013
 #6018-6021
+#6023-6024
 #6032
 #6037
 #6044
@@ -564,12 +587,15 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6265
 #6270
 #6279
+#6283
 #6285
 #6291
+#6294-6295
 #6307-6308
-#6328-6372
+#6328-6373
 #6376
 #6381-6384
+#6386-6387
 #6395
 #6400
 #6407
@@ -609,12 +635,15 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6628
 #6633
 #6642
+#6646
 #6648
 #6654
+#6657-6658
 #6670-6671
-#6691-6735
+#6691-6736
 #6739
 #6744-6747
+#6749-6750
 #6758
 #6763
 #6770
@@ -654,11 +683,13 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #6991
 #6996
 #7005
+#7009
 #7011
 #7017
+#7020-7021
 #7033-7034
 #7054-7057
-#7098-7117
+#7098-7118
 #7147-7149
 #7164
 #7168
@@ -672,9 +703,10 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #7527
 #7529
 #7613
-#7615-7657
+#7615-7658
 #7661
 #7666-7669
+#7671-7672
 #7680
 #7685
 #7692
@@ -708,6 +740,9 @@ Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,597
 #7913
 #7918
 #7927
+#7931
 #7933
 #7939
+#7942-7943
 #7955-7956
+#8022

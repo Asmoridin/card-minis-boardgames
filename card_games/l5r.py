@@ -26,7 +26,8 @@ FATE_CARD_TYPES = ['Strategy', 'Spell', 'Item', 'Follower', 'Ancestor', 'Ring']
 PREGAME_TYPES = ['Stronghold', 'Sensei', 'Wind']
 
 VALID_CLANS = ['Lion', 'Shadowlands', 'Ratling', 'Scorpion', 'Crab', 'Crane', 'Dragon', 'Mantis',
-    'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', 'Brotherhood of Shinsei',]
+    'Phoenix', 'Spider', 'Naga', 'Unaligned', 'Unicorn', 'Brotherhood of Shinsei', "Toturi's Army",
+    ]
 
 MODERN_SETS = ['Ivory Edition', 'The Dead of Winter', 'Emperor Edition Demo Decks',
     'Death at Koten', 'Promotional-Celestial', 'Promotional-Samurai', 'Before the Dawn',
@@ -140,8 +141,8 @@ for line in in_lines:
     TOTAL_OWN += card_own
     if modern_legal:
         if card_name not in modern_cards:
-            modern_cards[card_name] = [card_name, card_type, CARD_DECK, this_card_clans, card_sets, \
-                card_rarities, 'Modern', min(card_own, 1), 1]
+            modern_cards[card_name] = [card_name, card_type, CARD_DECK, this_card_clans,
+                card_sets, card_rarities, 'Modern', min(card_own, 1), 1]
         else:
             modern_cards[card_name][4] = list(set(modern_cards[card_name][4] + card_sets))
             modern_cards[card_name][5] = list(set(modern_cards[card_name][5] + card_rarities))
@@ -149,13 +150,13 @@ for line in in_lines:
                 modern_cards[card_name][7] + card_own)
 
     if card_name not in bigdeck_cards:
-        bigdeck_cards[card_name] = [[card_name, card_type, CARD_DECK, this_card_clans, card_sets, \
+        bigdeck_cards[card_name] = [[card_name, card_type, CARD_DECK, this_card_clans, card_sets,
             card_rarities, card_format, card_own, card_max]]
     else:
-        bigdeck_cards[card_name].append([card_name, card_type, CARD_DECK, this_card_clans, card_sets,
-            card_rarities, card_format, card_own, card_max])
+        bigdeck_cards[card_name].append([card_name, card_type, CARD_DECK, this_card_clans,
+            card_sets, card_rarities, card_format, card_own, card_max])
 
-    card_lines.append([card_name, card_type, CARD_DECK, this_card_clans, card_sets, card_rarities, \
+    card_lines.append([card_name, card_type, CARD_DECK, this_card_clans, card_sets, card_rarities,
         card_format, card_own, card_max])
 
 for _, card_item in modern_cards.items():
@@ -166,6 +167,8 @@ for _, card_item in modern_cards.items():
 # Get things set up for Big Deck
 for card_name, card_printings in bigdeck_cards.items():
     most_recent_card = card_printings[0]
+    if len(card_printings) == 1 and most_recent_card[6] == 'BigDeck':
+        continue
     for card_printing in card_printings:
         if VALID_FORMATS.index(card_printing[6]) > VALID_FORMATS.index(most_recent_card[6]):
             most_recent_card = card_printing

@@ -125,7 +125,7 @@ Cell Games Arena;Android;Extra;Green;4;FB02-102;[FB02] Booster Pack - Blazing Au
 Cell Jr.;Android;Battle;Green;2;FB02-085;[FB02] Booster Pack - Blazing Aura;2
 Cell;Android;Battle;Green;2;FB02-082;[FB02] Booster Pack - Blazing Aura;2
 Cell;Android;Battle;Green;3;FB02-083;[FB02] Booster Pack - Blazing Aura;3
-Cell;Android;Battle;Green;3;FB04-058;[FB04] Booster Pack - Ultra Limit;2
+Cell;Android;Battle;Green;3;FB04-058;[FB04] Booster Pack - Ultra Limit;3
 Cell;Android;Battle;Green;3;FP-011;Promo;0
 Cell;Android;Battle;Green;5;FB03-060;[FB03] Booster Pack - Raging Roar;1
 Cell;Android;Battle;Green;8;FB02-084;[FB02] Booster Pack - Blazing Aura;1
@@ -436,7 +436,7 @@ Shin;Supreme Kai/Universe 7;Battle;Red;7;FS01-05;[FS01] Starter Deck - Son Goku;
 Shin;Supreme Kai;Battle;Blue;1;FB02-047;[FB02] Booster Pack - Blazing Aura;3
 Shin;Supreme Kai;Battle;Blue;1;FB04-034;[FB04] Booster Pack - Ultra Limit;4
 Shin;Supreme Kai;Battle;Blue;2;FB03-034;[FB03] Booster Pack - Raging Roar;3
-Shin;Supreme Kai;Battle;Green;3;FB04-079;[FB04] Booster Pack - Ultra Limit;2
+Shin;Supreme Kai;Battle;Green;3;FB04-079;[FB04] Booster Pack - Ultra Limit;3
 Shisami;Frieza's Army;Battle;Yellow;4;FS04-06;[FS04] Starter Deck - Frieza;4
 Shu;Earthling;Battle;Blue;1;FB01-045;[FB01] Booster Pack - Awakened Pulse;1
 Shugesh;Saiyan/Bardock's Crew;Battle;Black;2;FS05-12;[FS05] Starter Deck - Bardock;4
@@ -639,7 +639,7 @@ Vegeta;Saiyan;Leader;Yellow;;FB02-105;[FB02] Booster Pack - Blazing Aura;1
 Vegito;Saiyan/Potara;Battle;Blue;2;FB02-060;[FB02] Booster Pack - Blazing Aura;2
 Vegito;Saiyan/Potara;Battle;Blue;3;FB02-061;[FB02] Booster Pack - Blazing Aura;0
 Vegito;Saiyan/Potara;Battle;Blue;3;FP-010;Promo;0
-Vegito;Saiyan/Potara;Battle;Blue;4;FB04-046;[FB04] Booster Pack - Ultra Limit;2
+Vegito;Saiyan/Potara;Battle;Blue;4;FB04-046;[FB04] Booster Pack - Ultra Limit;3
 Vegito;Saiyan/Potara;Battle;Blue;5;FB02-139;[FB02] Booster Pack - Blazing Aura;0
 Vegito;Saiyan/Potara;Battle;Blue;6;FB04-130;[FB04] Booster Pack - Ultra Limit;1
 Videl;Earthling/Satan City;Battle;Blue;1;FB04-041;[FB04] Booster Pack - Ultra Limit;3
@@ -658,7 +658,7 @@ Whis;Angel;Battle;Blue;1;FB03-029;[FB03] Booster Pack - Raging Roar;2
 Whis;Angel;Battle;Yellow;4;FB02-106;[FB02] Booster Pack - Blazing Aura;2
 Whis;Angel;Battle;Yellow;5;FB02-107;[FB02] Booster Pack - Blazing Aura;2
 Yajirobe : Future;Earthling;Battle;Blue;7;FB01-063;[FB01] Booster Pack - Awakened Pulse;2
-Yajirobe;Earthling;Battle;Green;3;FB04-070;[FB04] Booster Pack - Ultra Limit;3
+Yajirobe;Earthling;Battle;Green;3;FB04-070;[FB04] Booster Pack - Ultra Limit;4
 Yakon;Alien/Wicked Soul;Battle;Yellow;2;FB03-095;[FB03] Booster Pack - Raging Roar;2
 Yamcha;Earthling;Battle;Green;1;FB04-071;[FB04] Booster Pack - Ultra Limit;4
 Yamcha;Earthling;Battle;Green;2;FB02-099;[FB02] Booster Pack - Blazing Aura;4

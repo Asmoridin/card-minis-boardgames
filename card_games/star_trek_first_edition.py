@@ -26,7 +26,7 @@ PRINT_SETS = ['Premiere', 'Trouble with Tribbles Starter Decks', 'Voyager', 'Dee
     'The Dominion', 'Starter Deck II', 'Holodeck Adventures', 'Official Tournament Sealed Deck',
     'Enhanced First Contact', 'Q Continuum', 'Introductory 2-Player Game']
 VIRTUAL_SETS = ['Virtual Promos', 'Homefront III', 'Reflections', 'Homefront', 'Identity Crisis',
-    'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos',]
+    'Homefront VI', 'Homefront V', 'Coming of Age', 'Borderless Promos', 'Virtual Promo',]
 
 VALID_TYPES = ['Ship', 'Personnel', 'Dilemma', 'Time Location', 'Objective', 'Incident',
     'Interrupt', 'Facility', 'Mission', 'Site', 'Artifact', 'Event', 'Equipment']

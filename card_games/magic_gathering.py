@@ -18,6 +18,7 @@ GAME_NAME = "Magic: The Gathering"
 
 file_h = open('card_games/DB/MTGCardData.txt', 'r', encoding="UTF-8")
 restr_file_h = open('card_games/DB/MTGRestrictions.txt', 'r', encoding="UTF-8")
+commander_cat_fh = open('card_games/DB/MTGCommanderCategories.txt', 'r', encoding="UTF-8")
 DECK_DIR = "card_games/Decks/MTG"
 
 raw_list = [] # Will hold the full list of cards
@@ -281,6 +282,19 @@ def parse_sets(this_card_name, card_set_string, card_restrictions):
     ret_rarities = list(ret_rarities)
     return(ret_sets, ret_rarities, ret_formats, this_card_max)
 
+def get_categories(in_lines):
+    """
+    Return a mapping of Universe Beyond Types to valid Commmanders
+    """
+    ret_dict = {}
+    for cat_line in in_lines:
+        cat_line = cat_line.strip()
+        cmdr, category = cat_line.split(';')
+        if category not in ret_dict:
+            ret_dict[category] = []
+        ret_dict[category].append(cmdr)
+    return ret_dict
+
 def validate_colors(in_colors):
     """
     Takes in a string of colors, and returns a list with the full color names
@@ -409,6 +423,9 @@ lines = [line.strip() for line in lines]
 
 restrictions = parse_restrictions(restr_file_h.readlines())
 restr_file_h.close()
+
+commander_cats = get_categories(commander_cat_fh.readlines())
+commander_cat_fh.close()
 
 SET_CHECK = 0
 CHECK_SET = "Onslaught"
@@ -591,6 +608,12 @@ if __name__ == "__main__":
         deck_need_cards = deck[2]
         double_print(f"Color Combo: {color_id}, Commander: {deck_commander}", out_file_h)
         double_print(f"Needed cards: {deck_need_num} - {str(deck_need_cards)}\n", out_file_h)
+
+    for deck in comm_dict['DECKS']:
+        if deck[0] in commander_cats['Marvel']:
+            double_print(f"Marvel deck closest to completion: {deck[0]}", out_file_h)
+            double_print(f"Needed cards: {deck[1]} - {str(deck[2])}\n", out_file_h)
+            break
 
     print_deck = comm_dict["OLDEST"]
     old_name = print_deck[1].replace('.txt','')

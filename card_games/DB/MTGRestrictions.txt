@@ -42,6 +42,7 @@ Earthcraft;Legacy-Banned
 Emrakul, the Aeons Torn;Oathbreaker-Banned/Commander-Banned
 Expressive Iteration;Pioneer-Banned/Legacy-Banned
 Expropriate;Oathbreaker-Banned
+Eye of Ugin;Modern-Banned
 Falling Star;Legacy-Banned/Vintage-Banned/Commander-Banned/Oathbreaker-Banned
 Fastbond;Legacy-Banned/Commander-Banned/Oathbreaker-Banned
 Flash;Legacy-Banned/Vintage-Restricted/Commander-Banned
