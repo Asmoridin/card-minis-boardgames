@@ -1230,6 +1230,10 @@ White Shore Plain;Strategy;;Emperor Edition (Uncommon);Age of Conquest (Emperor)
 White Shore Plain;Strategy;;Fire & Shadow (Uncommon);Hidden Emperor (Jade);3;0
 White Shore Plain;Strategy;;Diamond Edition (Fixed)/Training Grounds (Fixed);Rain of Blood (Diamond);3;2
 White Shore Plain;Strategy;;Gold Edition (Uncommon)/Promotional–Gold (Promo);Four Winds (Gold);3;0
+The War Fortress of the Crab;Stronghold;Crab;Crab vs. Lion (Fixed);Age of Enlightenment (Lotus);1;0
+The War Fortress of the Crab;Stronghold;Crab;Imperial Edition (Fixed)/Emerald Edition (Fixed)/Battle of Beiden Pass (Fixed)/Obsidian Edition (Fixed)/Time of the Void (Uncommon)/Promotional–Imperial (Promo);Clan Wars (Imperial);1;1
+The Esteemed House of the Crane;Stronghold;Crane;Imperial Edition (Fixed)/Emerald Edition (Fixed)/Obsidian Edition (Fixed)/Time of the Void (Uncommon)/Promotional–Imperial (Promo);Clan Wars (Imperial);1;1
+The Esteemed House of the Crane;Stronghold;Crane;Pearl Edition (Fixed)/Jade Edition (Fixed)/Promotional–Jade (Promo);Hidden Emperor (Jade);1;0
 
 # Done through card #190
 # Finished The Blackest Storm pdf
@@ -1361,10 +1365,12 @@ White Shore Plain;Strategy;;Gold Edition (Uncommon)/Promotional–Gold (Promo);F
 #7672
 #7900
 #7929
+#8065
 #8068
 #8348
 #8361
 #8403-8404
+#8414
 #8455
 #8462
 #8480
