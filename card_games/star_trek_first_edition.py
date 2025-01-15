@@ -110,8 +110,13 @@ for line in in_lines:
             card_num = int(card_num)
             alt_numbers.append(card_num)
 
-    card_max = int(card_max)
-    card_own = int(card_own)
+    try:
+        card_max = int(card_max)
+        card_own = int(card_own)
+    except ValueError:
+        print("Invalid line:")
+        print(line)
+        continue
     TOTAL_MAX += card_max
     TOTAL_OWN += card_own
     card_lines.append([card_name, card_type, card_affil, card_sets, card_numbers, \

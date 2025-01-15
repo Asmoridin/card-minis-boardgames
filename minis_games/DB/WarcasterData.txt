@@ -1,0 +1,20 @@
+Aenigma;Aeternus Continuum;Vehicle Hero;1;1
+Aerolith;Empyreans;Squad Attachment;4;2
+Antecessors Eternal;Empyreans;Squad;4;1
+Artemis Fang;Marcher Worlds;Hero;1;1
+Astreus, Aeon of the First Magnitude;Empyreans;Hero;1;1
+Aurelion, Aeon Weaver;Empyreans;Hero;1;1
+Automech;Iron Star Alliance;Solo;4;1
+Axel for Hire;Wild Cards;Hero;1;1
+Baron Cassius Mooregrave;Wild Cards;Hero;1;1
+Blast Shield;Marcher Worlds;Mantlet;4;2
+Captain Jax Redblade;Wild Cards;Hero;1;1
+Carapax;Empyreans;Mantlet;4;3
+Coalition Weaver;Marcher Worlds;Solo;4;2
+Corebus;Wild Cards;Hero;1;1
+Daemon;Empyreans;Warjack;4;2
+Defense Pylon;Aeternus Continuum;Mantlet;4;1
+Divine Tempest;Aeternus Continuum;Champion Solo;4;1
+Doctor Myra Hurst;Wild Cards;Hero;1;1
+Combat Engineer;Marcher Worlds;Solo;4;2
+Dragoon Assault Team;Marcher Worlds;Squad;4;1
