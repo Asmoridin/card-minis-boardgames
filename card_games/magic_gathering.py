@@ -428,9 +428,9 @@ commander_cats = get_categories(commander_cat_fh.readlines())
 commander_cat_fh.close()
 
 SET_CHECK = 0
-CHECK_SET = "Onslaught"
-CHECK_AMOUNT = 350
-SET_CHECK += 15 # Extra basic lands
+CHECK_SET = "Legions"
+CHECK_AMOUNT = 145
+SET_CHECK += 0 # Extra basic lands
 
 TOTAL_OWN = 0
 TOTAL_MAX = 0

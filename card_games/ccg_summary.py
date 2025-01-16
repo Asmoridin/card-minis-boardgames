@@ -28,10 +28,12 @@ if os.getcwd().endswith('card-minis-boardgames'):
     sys.path.append('.')
     from utils.output_utils import double_print
     in_file = open("card_games/DB/NewCardGames.txt", encoding="UTF-8")
+    mag_file = open("card_games/DB/Magazines.txt", encoding="UTF-8")
 else:
     sys.path.append('.')
     from utils.output_utils import double_print
     in_file = open("DB/NewCardGames.txt", encoding="UTF-8")
+    mag_file = open("DB/Magazines.txt", encoding="UTF-8")
 
 #print("\033[96mTest.\033[0m")
 
@@ -43,6 +45,19 @@ TOTAL_HAVE = 0
 TOTAL_MAX = 0
 NEW_GAMES_STARTED = 1 + len(started_games)
 game_data = []
+
+# Add Magazine info
+mag_lines = mag_file.readlines()
+mag_file.close()
+mag_lines = [line.strip() for line in mag_lines]
+magazine_max = {"Inquest": 150, 'Scrye': 131}
+magazine_have = {"Inquest": 0, 'Scrye':0}
+for mag_line in mag_lines:
+    mag_line_vals = mag_line.split(';')
+    if mag_line_vals[0] in magazine_have:
+        magazine_have[mag_line_vals[0]] += 1
+for mag_name, mag_own in magazine_have.items():
+    game_data.append((mag_name, mag_own, magazine_max[mag_name]))
 
 other_games = in_file.readlines()
 in_file.close()
