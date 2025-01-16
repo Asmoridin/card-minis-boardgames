@@ -58,6 +58,10 @@ for mag_line in mag_lines:
         magazine_have[mag_line_vals[0]] += 1
 for mag_name, mag_own in magazine_have.items():
     game_data.append((mag_name, mag_own, magazine_max[mag_name]))
+    TOTAL_HAVE += mag_own
+    TOTAL_MAX += magazine_max[mag_name]
+
+NEW_GAMES_STARTED = 1 + len(started_games) + len(magazine_max)
 
 other_games = in_file.readlines()
 in_file.close()
