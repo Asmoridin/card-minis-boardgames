@@ -1,11 +1,11 @@
 Magic: The Gathering Collection Tracker
 
-Tracking 7305 items (7253 actual cards).
-Have 927 out of 29306 total cards for a playset - 3.16 percent
+Tracking 7336 items (7284 actual cards).
+Have 927 out of 29430 total cards for a playset - 3.15 percent
 
 *** VINTAGE ***
-There are 7305 Vintage legal cards
-Have 912 out of 29140 - 3.13 percent of a playset
+There are 7336 Vintage legal cards
+Have 912 out of 29264 - 3.12 percent of a playset
 Chosen card is a(n) Creature from Exodus - Keeper of the Light. I own 0 of 4
 
 Closest deck to completion (Painter) is at 65 cards.
@@ -24,8 +24,8 @@ Most needed cards are:
  - Swords to Plowshares: 24
 
 *** LEGACY ***
-There are 7176 Legacy legal cards
-Have 890 out of 28975 - 3.07 percent of a playset
+There are 7207 Legacy legal cards
+Have 890 out of 29099 - 3.06 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 4
 
 Closest deck to completion (JeskaiControl) is at 65 cards.
@@ -44,8 +44,8 @@ Most needed cards are:
  - Daze: 13
 
 *** MODERN ***
-There are 1970 Modern legal cards
-Have 698 out of 8151 - 8.56 percent of a playset
+There are 1985 Modern legal cards
+Have 698 out of 8211 - 8.50 percent of a playset
 Chosen card is a(n) Creature from Urza's Legacy - Avalanche Riders. I own 0 of 4
 
 Closest deck to completion (Generic Ragavan) is at 67 cards.
@@ -64,8 +64,8 @@ Most needed cards are:
  - Urza's Saga: 24
 
 *** PIONEER ***
-There are 832 Pioneer legal cards
-Have 602 out of 3599 - 16.73 percent of a playset
+There are 839 Pioneer legal cards
+Have 602 out of 3627 - 16.60 percent of a playset
 Chosen card is a(n) Artifact from Time Spiral "Timeshifted" - Feldon's Cane. I own 0 of 4
 
 Closest deck to completion (Mono-Black Midrange) is at 61 cards.
@@ -84,8 +84,8 @@ Most needed cards are:
  - Temple Garden: 24
 
 *** STANDARD ***
-There are 425 Standard legal cards
-Have 457 out of 1841 - 24.82 percent of a playset
+There are 427 Standard legal cards
+Have 457 out of 1849 - 24.72 percent of a playset
 Chosen card is a(n) Creature from Ravnica Remastered - Krenko, Mob Boss. I own 0 of 4
 
 Closest deck to completion (Mono-Blue Flash) is at 51 cards.
@@ -104,8 +104,8 @@ Most needed cards are:
  - Sunfall: 32
 
 *** PAUPER ***
-There are 2637 Pauper legal cards
-Have 429 out of 10819 - 3.97 percent of a playset
+There are 2644 Pauper legal cards
+Have 429 out of 10847 - 3.96 percent of a playset
 Chosen card is a(n) Creature from Torment - Cabal Surgeon. I own 0 of 4
 
 Closest deck to completion (Burn) is at 55 cards.
@@ -124,8 +124,8 @@ Most needed cards are:
  - Relic of Progenitus: 22
 
 *** OATHBREAKER ***
-There are 7194 Oathbreaker legal cards
-Have 828 out of 7498 - 11.04 percent of a playset
+There are 7225 Oathbreaker legal cards
+Have 828 out of 7529 - 11.00 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 1
 
 Closest deck to completion (Davriel, Rogue Shadowmage) is at 32 cards.
@@ -144,8 +144,8 @@ Most needed cards are:
  - Lotus Petal: 3
 
 *** ICE AGE BLOCK ***
-There are 547 Ice Age Block legal cards
-Have 152 out of 2448 - 6.21 percent of a playset
+There are 548 Ice Age Block legal cards
+Have 152 out of 2452 - 6.20 percent of a playset
 Chosen card is a(n) Creature from Time Spiral "Timeshifted" - Goblin Snowman. I own 0 of 4
 
 Closest deck to completion (G - Aurochs Charge) is at 35 cards.
@@ -284,8 +284,8 @@ Most needed cards are:
  - Roar of the Wurm: 16
 
 *** ONSLAUGHT BLOCK ***
-There are 402 Onslaught Block legal cards
-Have 149 out of 1738 - 8.57 percent of a playset
+There are 420 Onslaught Block legal cards
+Have 149 out of 1810 - 8.23 percent of a playset
 Chosen card is a(n) Creature from Legions - Aphetto Exterminator. I own 0 of 4
 
 Closest deck to completion (B - Clerics) is at 34 cards.
@@ -304,8 +304,8 @@ Most needed cards are:
  - Gempalm Incinerator: 22
 
 *** MIRRODIN BLOCK ***
-There are 112 Mirrodin Block legal cards
-Have 156 out of 578 - 26.99 percent of a playset
+There are 113 Mirrodin Block legal cards
+Have 156 out of 582 - 26.80 percent of a playset
 Chosen card is a(n) Artifact from Modern Masters - Arcbound Wanderer. I own 0 of 4
 
 Closest deck to completion (BR - Artifact Recursion) is at 32 cards.
@@ -324,8 +324,8 @@ Most needed cards are:
  - Pulse of the Forge: 19
 
 *** KAMIGAWA BLOCK ***
-There are 42 Kamigawa Block legal cards
-Have 142 out of 298 - 47.65 percent of a playset
+There are 43 Kamigawa Block legal cards
+Have 142 out of 302 - 47.02 percent of a playset
 Chosen card is a(n) Creature from Betrayers of Kamigawa - Floodbringer. I own 0 of 4
 
 Closest deck to completion (TD - Snake's Path) is at 34 cards.
@@ -344,8 +344,8 @@ Most needed cards are:
  - Kodama of the North Tree: 57
 
 *** RAVNICA BLOCK ***
-There are 65 Ravnica Block legal cards
-Have 154 out of 390 - 39.49 percent of a playset
+There are 66 Ravnica Block legal cards
+Have 154 out of 394 - 39.09 percent of a playset
 Chosen card is a(n) Land from Zendikar Expeditions - Breeding Pool. I own 0 of 4
 
 Closest deck to completion (TD - Golgari Deathcreep) is at 36 cards.
@@ -364,8 +364,8 @@ Most needed cards are:
  - Blood Crypt: 23
 
 *** PAUPER COMMANDER ***
-There are 3709 Pauper Commander legal cards
-Have 473 out of 4013 - 11.79 percent of a playset
+There are 3723 Pauper Commander legal cards
+Have 473 out of 4027 - 11.75 percent of a playset
 Chosen card is a(n) Creature from Torment - Barbarian Outcast. I own 0 of 1
 
 Closest deck to completion (Vhal, Candlekeep Researcher) is at 58 cards.
@@ -384,8 +384,8 @@ Most needed cards are:
  - Mystic Sanctuary: 5
 
 *** COMMANDER ***
-There are 7199 Commander legal cards
-Have 841 out of 7603 - 11.06 percent of a playset
+There are 7230 Commander legal cards
+Have 841 out of 7634 - 11.02 percent of a playset
 Chosen card is a(n) Creature from Judgment - Border Patrol. I own 0 of 1
 
 Most needed cards are:
@@ -497,23 +497,23 @@ Oldest Commander deck is BG-Golgari/Hazel of the Rootbloom, last updated 08/22/2
 224 total creature types
 
 Percentages ordered by format:
-Kamigawa Block: 47.65
-Ravnica Block: 39.49
-Mirrodin Block: 26.99
-Standard: 24.82
-Pioneer: 16.73
-Pauper Commander: 11.79
-Commander: 11.06
-Oathbreaker: 11.04
-Onslaught Block: 8.57
-Modern: 8.56
-Ice Age Block: 6.21
+Kamigawa Block: 47.02
+Ravnica Block: 39.09
+Mirrodin Block: 26.80
+Standard: 24.72
+Pioneer: 16.60
+Pauper Commander: 11.75
+Commander: 11.02
+Oathbreaker: 11.00
+Modern: 8.50
+Onslaught Block: 8.23
+Ice Age Block: 6.20
 Tempest Block: 5.67
 Urza's Block: 5.65
 Odyssey Block: 5.62
 Invasion Block: 5.55
 Masques Block: 5.45
 Mirage Block: 5.39
-Pauper: 3.97
-Vintage: 3.13
-Legacy: 3.07
+Pauper: 3.96
+Vintage: 3.12
+Legacy: 3.06

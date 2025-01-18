@@ -327,6 +327,10 @@ Akodo Dairuko;Personality;Lion;Emperor Edition (Fixed)/Promotional–Emperor (Pr
 Akodo Dojo;Holding;;Hidden City (Uncommon);Rain of Blood (Diamond);3;0
 Akodo Dojo;Holding;;Ivory Edition (Common)/A Matter of Honor (Fixed);A Brother's Destiny (Ivory Edition);3;0
 Akodo Dojo;Holding;;Ivory Edition (Common);A Brother's Destiny (Twenty Festivals);3;2
+Akodo Dosei;Personality;Lion;Path of the Destroyer (Common)/War of Honor (Fixed);Destroyer War (Celestial);3;0
+Akodo Ebiro;Personality;Lion;The Dead of Winter (Uncommon);Destroyer War (Celestial);3;0
+Akodo Fields;Region;;Ambition's Debt (Uncommon);Hidden Emperor (Jade);3;0
+Akodo Fumio;Personality;Lion;Broken Blades (Common);Four Winds (Gold);3;0
 Akodo Kage;Personality;Lion;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Clan Wars (Imperial);3;1
 Akodo Kage;Personality;Lion;Imperial Edition (Uncommon)/Emerald Edition (Uncommon)/Obsidian Edition (Uncommon);Hidden Emperor (Jade);3;0
 Akodo Kurako;Personality;Lion;Diamond Edition (Uncommon)/Training Grounds (Fixed);Rain of Blood (Diamond);3;3
@@ -1327,11 +1331,10 @@ Zerai, the Fleshless;Personality;Unaligned;The Blackest Storm (Fixed);Onyx Editi
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);A Brother's Destiny (Twenty Festivals);3;0
 Zoh-Zoh;Follower;;The Blackest Storm (Fixed);Onyx Edition;3;0
 
-# Done through card #200
+# Done through card #205
 # Finished The Blackest Storm pdf
 # Finished HFW pdf
 # Finished Page 4 Onyx Edition
-#201
 #221
 #237
 #279
