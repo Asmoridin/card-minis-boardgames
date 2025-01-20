@@ -121,6 +121,7 @@ Eris;Personnel;Dominion;The Dominion;149,4421;;4;0
 Espionage: Romulan on Federation;Event;;Premiere;1144,6106,6469,6832,7754;;4;1
 Espionage: Romulan on Klingon;Event;;Premiere;1145,6107,6470,6833,7755;;4;1
 Establish Relations;Mission;Planet;Official Tournament Sealed Deck;150,5900;;4;0
+Evaluate Terraforming;Mission;Planet;Premiere;1159,6110,6473,6836,7758;;2;1
 Exocomp;Personnel;Federation;Premiere;151,5988,6351,6714,7636;;4;0
 Explore Interstellar Matter;Mission;Space;Official Tournament Sealed Deck;152,5909;;4;0
 Explore Typhon Expanse;Mission;Space;Premiere;1172,6115,6478,6841;;2;1
@@ -197,6 +198,7 @@ Incoming Message - Klingon;Interrupt;;Premiere;1392,6148,6511,6874,7796;;4;1
 Inge Eiger;Personnel;Federation;First Contact;195;;4;0
 Inglatu;Personnel;Dominion;Rules of Acquisition;196,4424;;4;0
 Investigate Incursion;Mission;Space;Official Tournament Sealed Deck;197,5911;;4;0
+Investigate Massacre;Mission;Planet;Premiere;1421,6156,6519,6882,7804;;2;1
 Investigate Sighting;Mission;Space;Premiere;1426,6159,6522,6885;;2;1
 J'Ddan;Personnel;Klingon;Premiere/Coming of Age;205,5438,5998,6361,6724,7646;;4;0
 Jabara;Personnel;Bajoran;Deep Space 9;198;;4;0
@@ -345,6 +347,7 @@ Rebel Interceptor;Ship;Federation;Mirror, Mirror;316,4873;;4;0
 Regnor;Personnel;Klingon;The Motion Pictures;317,7197;;4;0
 Rekelen;Personnel;Cardassian;Deep Space 9;318,4420;;4;0
 REM Fatigue Hallucinations;Dilemma;Dual;Premiere;1989,6611,6248,6974,7896;;4;0 # Have 2 needing errata
+Repair Mission;Mission;Space;Premiere;1997,6249,6612,6975,7897;;2;1
 Res-Q;Event;;Premiere/Trouble with Tribbles Starter Decks;2007,5267,6250,6613,6976,7898;;4;1
 Richard Wilkins;Personnel;Federation;First Contact;319;;4;0
 Rigelian Freighter;Ship;Non-Aligned;Deep Space 9;320;;4;0
@@ -383,7 +386,19 @@ Sito Jaxa;Personnel;Federation;Premiere;347,4060,6016,6379,6742,7664;;4;0
 Six of Eleven;Personnel;Borg;First Contact;348;;4;0
 Six of Nineteen;Personnel;Borg;Enhanced First Contact;349;;4;0
 Six of Seventeen;Personnel;Borg;First Contact;350;;4;0
+Six of Thirteen;Personnel;Borg;The Trouble with Tribbles;351;;4;0
+Six of Twelve;Personnel;Borg;The Borg;352;;4;0
+Sixteen of Nineteen;Personnel;Borg;First Contact;353;;4;0
+Solok;Personnel;Ferengi;Rules of Acquisition;354;;4;0
+Son'a Battleship;Ship;Non-Aligned;The Motion Pictures;355,7201;;4;0
+Son'a Shuttle;Ship;Non-Aligned;The Motion Pictures;356,7202;;4;0
+Soong-type Android;Personnel;Non-Aligned;Q Continuum;357,5641;;4;0
+Sorum;Personnel;Vidiian;Voyager;358;;4;0
+Soto;Personnel;Non-Aligned;The Dominion;359;;4;0
+Space;Mission;Space;Q Continuum;360;;4;0
 Static Warp Bubble;Event;;Premiere;2159,6270,6633,6996,7918;;4;1
+Study "Hole in Space";Mission;Space;Premiere;2174,6272,6635,6998,7920;;2;1
+Study Plasma Streamer;Mission;Space;Premiere/Trouble with Tribbles Starter Decks;2180,6275,6638,7001,7159,7923;;2;1
 Subspace Warp Rift;Event;;Premiere;2192,6279,6642,7005,7927;;4;1
 Taibak;Personnel;Romulan;Premiere;662,6058,6421,6784,7706;;2;1
 Takket;Personnel;Romulan;Premiere;377,6018,6381,6744,7666;;4;2
@@ -424,7 +439,7 @@ Vedek Sorad;Personnel;Bajoran;Deep Space 9;38,4412;;4;0
 Vekma;Personnel;Klingon;Premiere/Trouble with Tribbles Starter Decks;39,4070,5975,6338,6701,7101,7623;;4;0
 Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,4074,5272,6026,6389,6752,7674,8038;;4;1
 
-# Done through card 350
+# Done through card 360
 #377-378
 #381-382
 #393
@@ -451,6 +466,7 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #1109
 #1114-1115
 #1144-1145
+#1159
 #1172
 #1175
 #1177
@@ -459,6 +475,7 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #1378
 #1390
 #1392
+#1421
 #1426
 #1518
 #1521
@@ -484,6 +501,7 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #1948-1949
 #1962
 #1989
+#1997
 #2007
 #2053
 #2077
@@ -491,6 +509,8 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #2106
 #2115
 #2159
+#2174
+#2180
 #2192
 #2212
 #2218
@@ -573,7 +593,7 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #5595
 #5597
 #5604
-#5639-5640
+#5639-5641
 #5644
 #5649-5650
 #5652
@@ -600,9 +620,11 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #6094
 #6099-6100
 #6106-6107
+#6110
 #6115-6117
 #6128
 #6146-6148
+#6156
 #6159
 #6171-6172
 #6174
@@ -620,13 +642,14 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #6238-6239
 #6242
 #6244
-#6248
-#6250
+#6248-6250
 #6256
 #6260
 #6262-6263
 #6265
 #6270
+#6272
+#6275
 #6279
 #6283
 #6285
@@ -652,9 +675,11 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #6457
 #6462-6463
 #6469-6470
+#6473
 #6478-6480
 #6491
 #6509-6511
+#6519
 #6522
 #6534-6535
 #6537
@@ -671,13 +696,14 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #6601-6602
 #6605
 #6607
-#6611
-#6613
+#6611-6613
 #6619
 #6623
 #6625-6626
 #6628
 #6633
+#6635
+#6638
 #6642
 #6646
 #6648
@@ -703,9 +729,11 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #6820
 #6825-6826
 #6832-6833
+#6836
 #6841-6843
 #6854
 #6872-6874
+#6882
 #6885
 #6897-6898
 #6900
@@ -722,13 +750,14 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #6964-6965
 #6968
 #6970
-#6974
-#6976
+#6974-6976
 #6982
 #6986
 #6988-6989
 #6991
 #6996
+#6998
+#7001
 #7005
 #7009
 #7011
@@ -739,10 +768,11 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #7054-7058
 #7098-7119
 #7147-7149
+#7159
 #7164
 #7168
 #7180
-#7183-7200
+#7183-7202
 #7251
 #7327
 #7511
@@ -765,8 +795,10 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #7733-7735
 #7747-7748
 #7754-7755
+#7758
 #7776
 #7795-7796
+#7804
 #7819-7820
 #7822
 #7849
@@ -782,13 +814,14 @@ Vekor;Personnel;Non-Aligned;Premiere/Trouble with Tribbles Starter Decks;407,407
 #7886-7887
 #7890
 #7892
-#7896
-#7898
+#7896-7898
 #7904
 #7908
 #7910-7911
 #7913
 #7918
+#7920
+#7923
 #7927
 #7931
 #7933

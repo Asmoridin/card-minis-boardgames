@@ -11,7 +11,8 @@ GAME_NAME = "Lorcana"
 
 valid_types = ['Character', 'Action', 'Item', 'Location', ]
 valid_colors = ['Emerald', 'Ruby', 'Sapphire', 'Steel', 'Amber', 'Amethyst', ]
-
+card_sets = ["The First Chapter", "Rise of the Floodborn", "Into the Inklands", "Ursula's Return",
+    "Shimmering Skies", "Azurite Sea"]
 
 if os.getcwd().endswith('card-minis-boardgames'):
     file_h = open('card_games/DB/LorcanaData.txt', 'r', encoding="UTF-8")
@@ -44,6 +45,10 @@ for line in lines:
     if card_rarity not in ['Common', 'Uncommon', 'Rare', 'Super Rare', 'Legendary']:
         print("Invalid rarity: " + card_rarity)
     card_own = int(card_own)
+
+    if card_set not in card_sets:
+        print(f"Unknown card set: {card_set}")
+        continue
 
     CARD_MAX = 4
     TOTAL_OWN += card_own

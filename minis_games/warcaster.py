@@ -49,9 +49,11 @@ for line in lines:
         META_TYPE = model_type
     elif model_type in ['Hero', 'Champion Solo']:
         META_TYPE = 'Solo'
-    elif model_type in ['Squad Attachment']:
+    elif model_type in ['Squad Attachment', 'Hero Attachment']:
         META_TYPE = 'Squad'
-    elif model_type in ['Vehicle Hero', 'Mantlet']:
+    elif model_type in ['Champion Warjack']:
+        META_TYPE = 'Warjack'
+    elif model_type in ['Vehicle Hero', 'Mantlet', 'Vehicle', 'Champion Vehicle']:
         META_TYPE = 'Other'
     else:
         print(f"Unhandled meta-type: {model_type}")
@@ -66,8 +68,8 @@ for line in lines:
     mini_lines.append((model_name, model_faction, model_type, META_TYPE, model_own, model_max))
 
 faction_choice, filtered_list = sort_and_filter(mini_lines, 1)
-_, filtered_list = sort_and_filter(mini_lines, 3)
-type_choice, filtered_list = sort_and_filter(mini_lines, 2)
+_, filtered_list = sort_and_filter(filtered_list, 3)
+type_choice, filtered_list = sort_and_filter(filtered_list, 2)
 item_choice, filtered_list = sort_and_filter(filtered_list, 0)
 
 filtered_list = filtered_list[0]

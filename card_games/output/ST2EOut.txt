@@ -1,6 +1,6 @@
 Star Trek 2E CCG Inventory Tracker
 
-Have 1126 out of 10616 - 10.61 percent
+Have 1181 out of 10618 - 11.12 percent
 Buy a Personnel from Caretaker, maybe Alex Porter, Campaign Veteran (have 0 out of 3)
 
 Closest deck to completion is Maquis-Athos.txt, needing just 50 cards:
@@ -14,6 +14,6 @@ Unexpected Difficulties - 32
 Intimidation - 26
 Nothing to Lose - 25
 Infestation - 22
-Christening - 20
 Dereliction of Duty - 20
 Vault of Tomorrow - 19
+Gomtuu Shock Wave - 16

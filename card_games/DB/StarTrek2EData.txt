@@ -487,7 +487,7 @@ Charvanek, Patriotic Commander;V;Personnel;Romulan;Shore Leave;Virtual;3;0
 Chell, Incessant Chatterbox;V;Personnel;Federation;Warp Pack: Access Denied;Virtual;3;0
 Chimeric Diversion;V;Event;;A Time to Stand;Virtual;3;3
 Chorgan, Leader of the Gatherers;U;Personnel;Non-Aligned;Second Edition;Print;3;0
-Christening;V/VP;Event;;Tacking Into the Wind/Virtual Promo;Virtual;3;0
+Christening;V/VP;Event;;Tacking Into the Wind/Virtual Promo;Virtual;4;3 // Have 3 TITW
 Christine Chapel, Clandestine Vessel;V;Personnel;Federation;Qpid;Virtual;3;0
 Christine Chapel, Medical Assistant;C;Personnel;Federation;These Are The Voyages;Print;3;0
 Christopher Pike, Bold Commander;V;Personnel;Federation;Star Trek 50;Virtual;3;0
@@ -505,7 +505,7 @@ Chula: Trickery;V;Dilemma;;Return to Grace;Virtual;3;0
 Chula: Unfortunate Roll;V;Dilemma;;Favor the Bold;Virtual;3;3
 Clandestine Agent;C;Interrupt;;Strange New Worlds;Print;3;0
 Clandestine Kidnapping;V;Event;;Return to Grace;Virtual;3;0
-Clarity;R;Event;;What You Leave Behind;Print;3;0
+Clarity;R;Event;;What You Leave Behind;Print;3;2
 Clark Terrell, Reliant Captain;C;Personnel;Federation;What You Leave Behind;Print;3;0
 Clash at Chin'toka;U;Mission;;Call to Arms;Print;2;0
 Clashing Values;V;Dilemma;;Phage;Virtual;3;0
@@ -528,40 +528,40 @@ Colonel Worf, Compassionate Advocate;AP;Personnel;Klingon;Timeless;Virtual;3;0
 Colony Preparations;U;Mission;;Second Edition;Print;2;0
 Columbia, The Second Warp Five Ship;R/VP;Ship;Starfleet;Captain's Log/Virtual Promo;Both;3;0
 Combat Vessel, Heavily Armed;V;Ship;Non-Aligned;Unnatural Selection;Virtual;3;0
-Combined Attack;V;Event;;Balance of Terror;Virtual;3;0
+Combined Attack;V;Event;;Balance of Terror;Virtual;3;3
 Comfort Women;U;Interrupt;;Second Edition;Print;3;0
 Command Decisions;S;Dilemma;;Second Edition;Print;3;3
 Commanding Presence;V;Dilemma;;Balance of Terror;Virtual;3;3
 Common Cause;V;Event;;Second Skin/Strange Bedfellows;Virtual;3;0
 Common Enemy;V;Interrupt;;Strange Bedfellows;Virtual;3;0
-Common Ground;R;Event;;Energize;Print;3;0
+Common Ground;R;Event;;Energize;Print;3;1
 Common Purpose;V/VP;Event;;Strange Bedfellows/Virtual Promo;Virtual;3;0
 Compassionate Interference;U;Dilemma;;Captain's Log;Print;3;0
-Complications;R;Event;;Energize;Print;3;0
+Complications;R;Event;;Energize;Print;3;3
 Compromised Experiment;V;Dilemma;;Shattered Mirror;Virtual;3;3
 Compromised Tactics;V;Dilemma;;Lower Decks;Virtual;3;3
 Computation Drone;C;Personnel;Borg;Call to Arms;Print;3;3
 Conceal Unlikely Society;V;Mission;;Lineage;Virtual;2;0
 Condition Captive;R;Interrupt;;Second Edition/Finding Our Way;Both;3;0
-Condition Red;U;Event;;These Are The Voyages;Print;3;0
+Condition Red;U;Event;;These Are The Voyages;Print;3;3
 Confessions in the Pale Moonlight;R/VP;Event;;Energize/Virtual Promo;Both;3;0
 Confessions of a Captain;U;Event;;Captain's Log;Print;3;0
 Confined to Quarters;C;Dilemma;;Call to Arms;Print;3;0 // Need to print errata
 Conflict of Interests;V;Dilemma;;Lineage;Virtual;3;0
 Conflict;V;Interrupt;;Allegiance/Finding Our Way;Virtual;3;0
 Connectivity Drone;V;Personnel;Borg;Hard Time;Virtual;3;0
-Conscription;R;Event;;Energize;Print;3;0
+Conscription;R;Event;;Energize;Print;3;1
 Console Overload;C;Dilemma;;Second Edition;Print;3;3
 Contact Mysterious Benefactor;V;Mission;;Matter of Time;Virtual;2;0
 Contaminating a Culture;R;Dilemma;;Captain's Log;Print;3;0
 Contamination;C;Dilemma;;Second Edition;Print;3;3
 Contested Defense Perimeter, Penetrate Enemy Lines;V;Mission;;Lineage/Virtual Promo;Virtual;2;0
-Continuing Committee Hearing;C;Event;;To Boldly Go;Print;3;0
+Continuing Committee Hearing;C;Event;;To Boldly Go;Print;3;3
 Continuity Drone;C;Personnel;Borg;Call to Arms;Print;3;1
 Control Plague;U;Mission;;To Boldly Go;Print;2;0
 Coolant Leak;V;Dilemma;;Extreme Measures;Virtual;3;0
 Coordinated Attack;C;Interrupt;;Energize;Print;3;3
-Coordinated Counterattack;V;Event;;Raise the Stakes;Virtual;3;0
+Coordinated Counterattack;V;Event;;Raise the Stakes;Virtual;3;3
 Coordinated Effort;C;Dilemma;;Strange New Worlds;Print;3;3
 Coordinated Larceny;V;Event;;Unnatural Selection;Virtual;3;0
 Corbin Entek, Inquisitor;V;Personnel;Cardassian;Return to Grace;Virtual;3;0
@@ -589,8 +589,8 @@ Critical Care;U;Mission;;In a Mirror Darkly;Print;2;0
 Croden, Dissembler;V;Personnel;Non-Aligned;Extreme Measures;Virtual;3;0
 Crom, Open-minded;V;Personnel;Dominion;Lineage;Virtual;3;0
 Crosis, Fanatical Lieutenant;R;Personnel;Non-Aligned;Necessary Evil;Print;3;0
-Crowd Control;C;Event;;Energize;Print;3;0
-Cry "Havoc!";S;Event;;Second Edition;Print;3;0
+Crowd Control;C;Event;;Energize;Print;3;3
+Cry "Havoc!";S;Event;;Second Edition;Print;3;3
 Cryptic Revelation;V;Interrupt;;The Menagerie;Virtual;3;0
 Culling Raid;V;Event;;Phage;Virtual;3;0
 Cultist Attack;C;Interrupt;;Call to Arms;Print;3;0
@@ -604,7 +604,7 @@ Cutting the Strings;V;Event;;Return to Grace;Virtual;3;0
 Cyber Drone;V;Personnel;Borg;Shore Leave;Virtual;3;0
 Cyrano Jones, Troublesome Peddler;V;Personnel;Non-Aligned;A Less Perfect Union;Virtual;3;0
 Cyrus Redblock, Civil Criminal;C;Personnel;Non-Aligned;To Boldly Go;Print;3;0
-D'Arsay Archive;S;Event;;Second Edition;Print;3;0
+D'Arsay Archive;S;Event;;Second Edition;Print;3;3
 D'deridex Advanced;U;Ship;Romulan;Second Edition;Print;3;0
 D'deridex;B/S;Ship;Romulan;Borderless Promos/Second Edition;Both;3;0
 D'Ghor, Plotting Like a Ferengi;V;Personnel;Klingon;Classification: Civilian;Virtual;3;0
@@ -674,10 +674,10 @@ Davidson;V;Personnel;Federation;A Time to Stand;Virtual;3;0
 Davies;C;Personnel;Federation;Second Edition;Print;3;0
 Davin;C;Personnel;Cardassian;Call to Arms;Print;3;0
 Day Kannu, Field Colonel;U;Personnel;Bajoran;Necessary Evil;Print;3;0
-Days of Atonement;U;Event;;Second Edition;Print;3;0
+Days of Atonement;U;Event;;Second Edition;Print;3;3
 Dead Ringer;V;Dilemma;;Lower Decks;Virtual;3;3
 Dead Weight;V;Dilemma;;A Time to Stand;Virtual;3;3
-Deal With the Count Man;V;Event;;This Side of Paradise;Virtual;3;0
+Deal With the Count Man;V;Event;;This Side of Paradise;Virtual;3;3
 Dealing With Pressure;U;Dilemma;;Necessary Evil;Print;3;0
 Deanna Troi, Durango;V;Personnel;Non-Aligned;Extreme Measures;Virtual;3;0
 Deanna Troi, Guide and Conscience;R/VP;Personnel;Federation;Second Edition/Virtual Promo;Both;3;0
@@ -694,22 +694,22 @@ Dedication Plaque;V;Event;;20th Anniversary Collection;Virtual;3;0
 Dedication to Duty;C;Dilemma;;Energize;Print;3;3
 Deela, Weary Caretaker;V;Personnel;Bajoran;Return to Grace;Virtual;3;0
 Deep Hatred;C;Event;;Necessary Evil;Print;3;0
-Deep Roots;R;Event;;Energize;Print;3;0
+Deep Roots;R;Event;;Energize;Print;3;1
 Deep Space Station K-7, Monitor Federation Commerce;V;Mission;;A Time to Stand;Virtual;2;0
 Defend Evolutionary Link;V;Mission;;Lineage;Virtual;2;0
 Defend It and Hope;V;Interrupt;;Sacrifice of Angels;Virtual;3;0
-Defend Our People;C;Event;;To Boldly Go;Print;3;0
-Defensive Upgrades;V;Event;;Raise the Stakes;Virtual;3;0
-Defiant Reprisal;V;Event;;A Time to Stand;Virtual;3;0
+Defend Our People;C;Event;;To Boldly Go;Print;3;3
+Defensive Upgrades;V;Event;;Raise the Stakes;Virtual;3;3
+Defiant Reprisal;V;Event;;A Time to Stand;Virtual;3;3
 Defiant, Mirror Warship;R/VP;Ship;Non-Aligned;In a Mirror Darkly/Virtual Promo;Both;3;0
 Defragmentation Drone;C;Personnel;Borg;Necessary Evil;Print;3;0
-Deja Q;C;Event;;What You Leave Behind;Print;3;0
+Deja Q;C;Event;;What You Leave Behind;Print;3;2
 Dejar, Cunning Saboteur;U;Personnel;Cardassian;Strange New Worlds;Print;3;0
 Delanh;V;Personnel;Vidiian;Phage;Virtual;3;0
 Delegated Assignment;R;Interrupt;;Strange New Worlds;Print;3;0
 Deleted Subroutines;V;Interrupt;;Unnatural Selection;Virtual;3;0
-Delicate Negotiations;C;Event;;Strange New Worlds;Print;3;0
-Delirium;V/VP;Event;;Raise the Stakes/Virtual Promo;Virtual;3;0
+Delicate Negotiations;C;Event;;Strange New Worlds;Print;3;3
+Delirium;V/VP;Event;;Raise the Stakes/Virtual Promo;Virtual;4;3 // Have 3 RtS
 Deliver Ancient Artifact;R;Mission;;Dangerous Missions;Print;2;0
 Deliver Evidence;R;Mission;;Dangerous Missions;Print;2;0
 Deliver Prisoners;U;Mission;;Strange New Worlds;Print;2;0

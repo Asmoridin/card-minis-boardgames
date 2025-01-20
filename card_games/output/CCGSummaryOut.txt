@@ -1,9 +1,9 @@
-Totaling 17 games, owning 11804 out of 73295 cards/dice (16.10 percent)
+Totaling 17 games, owning 11871 out of 74406 cards/dice (15.95 percent)
 Lowest game is Inquest at 0.67 percent (1 / 150)
 
 Five Lowest Games (by percentage):
 - Inquest: 0.67 (1/150)
 - Scrye: 0.76 (1/131)
-- Magic: The Gathering: 3.15 (927/29430)
+- Magic: The Gathering: 3.13 (927/29590)
 - New Game: 4.68 (19/406)
-- Star Trek: First Edition: 5.50 (88/1600)
+- Star Trek: First Edition: 5.64 (93/1650)
